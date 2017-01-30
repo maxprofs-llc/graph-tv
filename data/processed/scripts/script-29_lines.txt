@@ -1,0 +1,270 @@
+At the comedy club|JERRY|I'm sorry it's gotta be a little bit of a scary place to work. I don't know how you feel about it. You want to be standing there having people comming in all day going "I need knives. I need more knives. Do you have any bigger knives? I'd like a bigger knife, a big, long, sharp knife, that's what I'm in the market for. I like them really sharp. Do you have one with hooks and gouges like blades and kind of serrated? That's the kind of knife I'm looking for. I need one I can throw. I need another one I can just hack away with. Do you have anything like that?
+At a party|JERRY|Oh yeah, like you know what you're talking about.
+At a party|GEORGE|Like you do.
+At a party|JERRY|Well what do you think? They put the statue on a giant raft and a tugboat pulled it all the way from France?
+At a party|GEORGE|What do you think? The brought it over in pieces and screwed it together like a coffee table?
+At a party|JERRY|I don't know. It's too early for a Christmas party isn't it?
+At a party|GEORGE|Why did France give that to us anyway?
+At a party|JERRY|It was a gift.
+At a party|GEORGE|So countries just exchange gifts like that?
+At a party|JERRY|If they like each other.
+At a party|GEORGE|There's Elaine.
+At a party|JERRY|See that guy he's talking with? That's her new boyfriend.
+At a party|GEORGE|Really? They work here in the office?
+At a party|JERRY|Yeah. They're having a little fling so don't say anything.
+At a party|GEORGE|Who am I going to tell? My mother? Like I've got nothing better to talk about.
+At a party|JERRY|You don't. He's a recovering alcoholic.
+At a party|GEORGE|Really?
+At a party|JERRY|Yeah. He's been off the wagon for two years.
+At a party|GEORGE|"Off the wagon"?
+At a party|JERRY|I think it's off the wagon.
+At a party|GEORGE|I think it's "on the wagon".
+At a party|ELAINE|Jerry, George, what are you doing here?
+At a party|JERRY|What am I doing here? Ba-boom (holding out a present)
+At a party|ELAINE|*gasp* My god! My watch! You found my watch! (pushing Jerry)
+At a party|JERRY|Hey keep your hands to yourself if you know what's good for you.
+At a party|ELAINE|Where did you find it?
+At a party|JERRY|Under the sofa cushion.
+At a party|ELAINE|And you stopped by just to give it to me?
+At a party|JERRY|It's your Christmas present.
+At a party|ELAINE|I though I'd never find it.
+At a party|GEORGE|Well today's your lucky day.
+At a party|ELAINE|No. Today's *your* lucky day.
+At a party|GEORGE|It will be my first one.
+At a party|ELAINE|You want to work here?
+At a party|GEORGE|Huh?
+At a party|ELAINE|Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.
+At a party|DICK|Hi nice to meet you. Is this the guy?
+At a party|JERRY|"The guy?"
+At a party|ELAINE|(softly to Dick) Dick.
+At a party|GEORGE|How can you just get it?
+At a party|ELAINE|My boss told me to find someone. I'm in charge of it. All you have to do is meet him. Come on. Come on, come on, here hold my drink.
+At a party|JERRY|Cranberry juice?
+At a party|ELAINE|And vodka.
+At a party|DICK|I got the cranberry juice.
+At a party|DICK|So... you're Jerry.
+At a party|JERRY|So... I'm Jerry. (he puts down the drink)
+At a party|GEORGE|Well, you know, book reports. That kind of stuff.
+At a party|GEORGE|I like Mike Lubika.
+At a party|GEORGE|He's a sports writer for the daily news. I find him very insightful...
+At a party|GEORGE|Lot of good ones. I don't even want to mention anyone because I'm afraid I'm going to leave somebody out.
+At a party|GEORGE|Who do I like? I, like, uh, Art, Vandelay.
+At a party|GEORGE|He's an obscure writer. Betnik, on the village.
+At a party|GEORGE|Venetian Blinds.
+At a party|DICK|(picking up the drink) I've got new for you. I'm funnier than you are.
+At a party|JERRY|Why don't get we together New Years day and watch some football.
+At a party|ELAINE|Where's my drink?
+At a party|JERRY|There. (turns to George) So, how did it go?
+At a party|GEORGE|I think he was impressed.
+At a party|ELAINE|No, no, no, this is just cranberry juice.
+At a party|JERRY|Oh, uh, I think maybe Dick picked up yours.
+At a party|ELAINE|Dick? He can't drink. He's an alcoholic. I told you to hold it.
+At a party|JERRY|I didn't know you meant *hold* it, I thought you meant hold it.
+At a party|ELAINE|One drink like that and he could fall right off the wagon.
+At a party|GEORGE|Told you.
+At a clothing store|JERRY|I never feel comfortable in the women's department. I feel like I'm just a *little* too close to trying on a dress.
+At a clothing store|GEORGE|Do I really have to buy her something?
+At a clothing store|JERRY|Hey the woman got you a job. The least you could do is buy her a gift. How about this?
+At a clothing store|GEORGE|What is that? Is that cashmere?
+At a clothing store|JERRY|Yeah. She would love cashmere.
+At a clothing store|GEORGE|Who doesn't like cashmere? Find me one person in the world that doesn't like cashmere. It's too expensive.
+At a clothing store|JERRY|Look at this. It's 85 dollars marked down from 600.
+At a clothing store|GEORGE|Wow. Excuse me, Miss?
+At a clothing store|GEORGE|How come this sweater is only 85 dollars?
+At a clothing store|GEORGE|What? I don't see anything.
+At a clothing store|GEORGE|Oh yeah.
+At a clothing store|JERRY|Oh it's damaged. (grabbing the sweater)
+At a clothing store|GEORGE|(grabbing the sweater back) Well it's not really damaged. 85 dollars huh?
+At a clothing store|GEORGE|You think she would care about the red dot?
+At a clothing store|JERRY|It's hard to say.
+At a clothing store|GEORGE|I don't even think she'd notice it. Can you see it?
+At a clothing store|JERRY|Well I can see it.
+At a clothing store|GEORGE|Yeah, but you know where it is.
+At a clothing store|JERRY|Well what do you want me to do? Not look at it?
+At a clothing store|GEORGE|Pretend you didn't know it was there. Can you see it?
+At a clothing store|JERRY|It's hard to pretend because I know where it is.
+At a clothing store|GEORGE|Well just take an overview. Can't you just take an overview?
+At a clothing store|JERRY|You want me to take an overview?
+At a clothing store|GEORGE|Please.
+At a clothing store|JERRY|I see a very cheap man holding a sweater trying to get away with something. That's my overview.
+At Jerry's apartment|JERRY|Yeah so?
+At Jerry's apartment|ELAINE|He's acting very strangely. I think he started drinking again.
+At Jerry's apartment|JERRY|Oh boy, can you smell it?
+At Jerry's apartment|ELAINE|No. I can't smell it.
+At Jerry's apartment|JERRY|Well if you can't smell it then he hasn't been drinking.
+At Jerry's apartment|ELAINE|You don't always smell someone from a drink.
+At Jerry's apartment|JERRY|Yes you do.
+At Jerry's apartment|ELAINE|What about one drink? Would you smell it from one drink?
+At Jerry's apartment|JERRY|Yes you would.
+At Jerry's apartment|action|Kramer enters
+At Jerry's apartment|JERRY|I'll prove it. Would you do me a favor?
+At Jerry's apartment|KRAMER|Okay.
+At Jerry's apartment|JERRY|Would you take a drink and let us smell you?
+At Jerry's apartment|KRAMER|You can smell me without the drink.
+At Jerry's apartment|ELAINE|I suspect that this guy I'm seeing might be drinking but I can't smell it.
+At Jerry's apartment|KRAMER|Okay, well what am I drinking? What do you got?
+At Jerry's apartment|JERRY|I got a bottle of scotch my uncle gave me. It's Hennigans. It's been here for two years. I've been using it as a paint thinner.
+At Jerry's apartment|action|Kramer drinks.
+At Jerry's apartment|KRAMER|All right.
+At Jerry's apartment|action|Elaine and Jerry lean up really close to him.
+At Jerry's apartment|JERRY|I don't smell anything.
+At Jerry's apartment|ELAINE|Maybe we're too close to the bottle.
+At Jerry's apartment|action|Jerry's buzzer buzzes.
+At Jerry's apartment|JERRY|Yeah.
+At Jerry's apartment|GEORGE|(over the speaker) It's George.
+At Jerry's apartment|JERRY|Come on up.
+At Jerry's apartment|KRAMER|That is *damn* good scotch. I could do a commercial for this stuff. Mmmmm, boy that Hennigans goes down smooth. And afterwords you don't even smell. That's right folks. I just had three shots of Hennigans and I don't smell. Imagine, you can walk around drunk all day. That's Hennigans, the no-smell, no-tell scotch.
+At Jerry's apartment|GEORGE|Hello everybody.
+At Jerry's apartment|KRAMER|Hey. (snuggling really close to George) I'm going to tell you what I think. I know you don't care what I think, but I'm going to tell you. I think that you are terrific.
+At Jerry's apartment|GEORGE|(uncomfortablly) Thank you.
+At Jerry's apartment|ELAINE|Hey what's that?
+At Jerry's apartment|GEORGE|It's an early Christmas present.
+At Jerry's apartment|ELAINE|Christmas present? For who?
+At Jerry's apartment|GEORGE|For you.
+At Jerry's apartment|ELAINE|*gasp* (pushing George) Get out of here.
+At Jerry's apartment|KRAMER|Say you got a big job interview, and you're a little nervous. Well throw back a couple shots of Hennigans and you'll be as loose as a goose and ready to roll in no time. And because it's odorless, why, it will be our little secret. (singing) h-e-double n...
+At Jerry's apartment|JERRY|Kramer. Yeah that'll do.
+At Jerry's apartment|ELAINE|(opening the present) Oh George, this is beautiful. Is this cashmere?
+At Jerry's apartment|GEORGE|Of course it's cashmere.
+At Jerry's apartment|ELAINE|Oh, I love cashmere.
+At Jerry's apartment|GEORGE|Well who doesn't.
+At Jerry's apartment|ELAINE|My, George this must have cost a fortune.
+At Jerry's apartment|GEORGE|Ahh, money.
+At Jerry's apartment|ELAINE|Jerry, how could you let him spend so much money?
+At Jerry's apartment|JERRY|I tried to stop him. I couldn't. He just wants to make people happy.
+At Jerry's apartment|ELAINE|George, this is one of the nicest things anyone has ever given me.
+At Jerry's apartment|GEORGE|Well good, good. Take it off you're going to wear it out already. It's for special occasions this thing.
+At Jerry's apartment|KRAMER|What's that red dot on your sweater?
+At Jerry's apartment|ELAINE|What?
+At Jerry's apartment|GEORGE|Just take it off. I'm getting hot just looking at it.
+At Jerry's apartment|ELAINE|Uhh. This. It's like a red dot.
+At Jerry's apartment|GEORGE|What red dot? What are you talking about? Jerry come here for a second. Do you see anything here?
+At Jerry's apartment|JERRY|(uncomfortable) Uh, I don't know. Uh, I don't know.
+At Jerry's apartment|ELAINE|What don't you know?
+At Jerry's apartment|JERRY|I don't know.
+At Jerry's apartment|ELAINE|Well do you see it or don't you?
+At Jerry's apartment|JERRY|Ahem. Say that again?
+At Jerry's apartment|ELAINE|Do you see it or don't you?
+At Jerry's apartment|JERRY|Do I see it... or don't I? That's the question.
+At Jerry's apartment|action|Jerry goes to the counter and pours some scotch. He drinks it. He comes back groggy.
+At Jerry's apartment|JERRY|Now what did you ask me again.
+At Jerry's apartment|action|Kramer is snoring.
+At the office. Elaine is walking by|ELAINE|You're still here. You're a dynamo.
+At the office. Elaine is walking by|GEORGE|I can't believe I get paid for this.
+At the office. Elaine is walking by|ELAINE|I'll see you tomorrow.
+At the office. Elaine is walking by|action|Elaine walks out. George gets back to work. The cleaning lady comes by.
+At the office. Elaine is walking by|GEORGE|How you doing?
+At the office. Elaine is walking by|action|The lady starts cleaning. George has a thought. He watches the lady as she is cleaning.
+At Monk's|JERRY|You had sex with the cleaning woman on your desk? Who are you, how did you do that?
+At Monk's|GEORGE|Hennigans. I was there sitting in the office and the cleaning woman comes in. I've always been attracted to cleaning women. Cleaning women, chambermaids.
+At Monk's|JERRY|Yeah chambermaids, I'm attracted to them too.
+At Monk's|GEORGE|Why is that?
+At Monk's|JERRY|It's a woman in your room. So go ahead.
+At Monk's|GEORGE|So she starts vaccuming, back and forth, back and forth, her hips swivelling, her breasts, uh... (trying to think of a word)
+At Monk's|JERRY|Convulsing?
+At Monk's|GEORGE|Convulsing?
+At Monk's|JERRY|I don't know, I'm trying to help you.
+At Monk's|GEORGE|Then I asked her if she wanted a drink.
+At Monk's|JERRY|You don't drink.
+At Monk's|GEORGE|I know but I couldn't think of anything else to say to her.
+At Monk's|JERRY|So you started drinking.
+At Monk's|GEORGE|So we started drinking, and I'll tell you I don't know if it was the alcohol or the ammonia, but the next think I knew she was mopping the floor with me.
+At Monk's|JERRY|So how was it?
+At Monk's|GEORGE|Well the sex was okay, but I threw up from the Hennigans.
+At Monk's|JERRY|Good thing the cleaning lady was there.
+At Jerry's apartment|ELAINE|Dick was fired.
+At Jerry's apartment|JERRY|You mean to tell me if I had put that drink six inches over to the right, and none of this would have happened.
+At Jerry's apartment|ELAINE|You knew he was an alcoholic. Why'd you put the drink down at all?
+At Jerry's apartment|JERRY|What are you saying?
+At Jerry's apartment|ELAINE|I'm not saying anything.
+At Jerry's apartment|JERRY|You're saying something.
+At Jerry's apartment|ELAINE|What could I be saying?
+At Jerry's apartment|JERRY|Well you're not saying nothing you must be saying something.
+At Jerry's apartment|ELAINE|If I was saying something I would have said it.
+At Jerry's apartment|JERRY|Well why don't you say it?
+At Jerry's apartment|ELAINE|I said it.
+At Jerry's apartment|JERRY|What did you say?
+At Jerry's apartment|ELAINE|Nothing. It's exhausting being with you.
+At Jerry's apartment|action|Jerry's buzzer buzzes.
+At Jerry's apartment|JERRY|Yeah?
+At Jerry's apartment|GEORGE|(over the speaker) It's George.
+At Jerry's apartment|JERRY|Come on up.
+At Jerry's apartment|ELAINE|Hey, let me ask you something something. Did George buy that sweater knowing the red dot was on it because it was cheaper? (Jerry is unconfortable) Ooookay, you just gave me the answer.
+At Jerry's apartment|JERRY|No I didn't.
+At Jerry's apartment|ELAINE|Yes you did, yes you did. I saw your expression.
+At Jerry's apartment|JERRY|I didn't have an expression. I have a deviated septum. I have to open my mouth sometimes to breathe.
+At Jerry's apartment|ELAINE|How much did he save?
+At Jerry's apartment|JERRY|Frankly I am shocked that you would ask such a question (Elaine sticking out her tongue like she isn't buying a word of it) of me, that you would think - the only surprise is how you could even think of that. That's what you were seeing.
+At Jerry's apartment|action|Elaine gets up and goes into the bathroom.
+At Jerry's apartment|GEORGE|I have to talk to Elaine. This cleaing lady is turning the screws on me. She's pushing for this whole relationship thing. She keeps calling me, threatening to go to the boss with this thing, I could lose my job, I gotta do something to keep her quiet.
+At Jerry's apartment|JERRY|Elaine is in the bathroom. She's wise to whole red dot thing. She's asking me all kinds of questions.
+At Jerry's apartment|GEORGE|Did you tell her anything?
+At Jerry's apartment|JERRY|No.
+At Jerry's apartment|GEORGE|Do you swear?
+At Jerry's apartment|JERRY|I'm not swearing. I don't want to swear.
+At Jerry's apartment|GEORGE|Oh you told her didn't you.
+At Jerry's apartment|JERRY|No.
+At Jerry's apartment|ELAINE|Hey George, did you buy that sweater knowing that red dot was on it because you could get it at a discount?
+At Jerry's apartment|GEORGE|What? Did I what?
+At Jerry's apartment|ELAINE|You did didn't you.
+At Jerry's apartment|GEORGE|Elaine, I'm, I'm shocked. I'm shocked. Here I go out in the spirit of the season (Elaine looking like she's not buying a word of it) and spend all my savings to buy you the most beautiful Christmas sweater I have ever seen to show my appreciation to you at Christmas and this is the thanks that I get at Christmas.
+At Jerry's apartment|ELAINE|Well Jerry told me that you did.
+At Jerry's apartment|GEORGE|You told her? How could you tell her? I told you not to say anything.
+At Jerry's apartment|JERRY|I didn't tell her you stupid idiot. She tricked you.
+At Jerry's apartment|GEORGE|Elaine you don't understand. I had 103 temperature when I bought that sweater. I was so dizzy I was seeing red dots everywhere. I thought everything in the store had a red dot on it. I couldn't distinguish one red dot from another. I couldn't afford anything. I have nothing. I haven't worked for a really long time. (Jerry is standing right behind George. Jerry takes out a hankerchief and starts fake-crying in it.) I mean look, I have no clothes, look at what I'm wearing. It's just a little red dot.
+At the office.|GEORGE|This is for you.
+At the office.|GEORGE|As you care for me. Which is why it is very important that you never breathe a word of this to anyone about the... you know. What, with Clarence Thomas and everything.
+At the office.|GEORGE|Yes of course go ahead. My guess is you're going to like this very much.
+At the office.|GEORGE|Of course it's cashemere.
+At the office.|GEORGE|Just a little something for Christmas.
+At the office.|GEORGE|I had a feeling you would like it. No, don't try it on now, try it on later.
+At the office.|GEORGE|Take it off. You're going to ruin it.
+At the comedy club|JERRY|I was in the men's room the other day and they had the hand blower, instead of the paper towels, you know this thing. I like the hand blower I have to say. It takes a little bit longer, but I feel when you're in a room with a revolting stench you want to spend as much time as you can.
+At the comedy club|DICK|The only stench is comming from you.
+At the comedy club|AUDIENCE|Oooooh.
+At the comedy club|JERRY|Oh, wait a second, I believe we have a heckler ladies and gentlemen. Hey Dick I don't know what your problem is. It's not my fault you're back on the wagon.
+At the comedy club|DICK|It's off the wagon.
+At the comedy club|JERRY|In the old days how do you think they got the alcohol from town to town?
+At the comedy club|DICK|I don't know.
+At the comedy club|JERRY|On the wagon. Don't you think they broke into a couple of those bottles along the way?
+At the comedy club|DICK|You can't drink on a wagon it would be too bumpy.
+At the comedy club|JERRY|They had smooth trails. What about the Cumberland Gap?
+At the comedy club|DICK|What the hell do you know about wagons?
+At the comedy club|JERRY|I know enough not to get on them.
+In the Lippman's office.|GEORGE|Who said that?
+In the Lippman's office.|GEORGE|Was that wrong? Should I have not done that? I tell you I gotta plead ignorance on this thing because if anyone had said anything to me at all when I first started here that that sort of thing was frouned upon, you know, cause I've worked in a lot of offices and I tell you peope do that all the time.
+In the Lippman's office.|GEORGE|Well you didn't have to say it like that.
+In the Lippman's office.|GEORGE|What about the whole Christmas spirit thing? Any flexability there?
+In the Lippman's office.|action|He tosses the sweater and it lands right on top of George's face. George walks out of the office "wearing" it. 
+In the hall of the office|ELAINE|You had sex on your desk with the cleaning woman.
+In the hall of the office|GEORGE|You never had sex in the office before?
+In the hall of the office|ELAINE|No. I once made out with someone but that was it.
+In the hall of the office|GEORGE|Alright so you made out with someone.
+In the hall of the office|ELAINE|Well that's not sex.
+In the hall of the office|GEORGE|Kissing is sex.
+In the hall of the office|ELAINE|Kissing is not sex.
+In the hall of the office|JERRY|George?
+In the hall of the office|GEORGE|Jerry.
+In the hall of the office|ELAINE|Hey, did Jerry leave that drink next to Dick's on purpose?
+In the hall of the office|GEORGE|No.
+In the hall of the office|JERRY|George?
+In the hall of the office|GEORGE|Over here.
+In the hall of the office|ELAINE|What are you doing here?
+In the hall of the office|JERRY|I'm taking the kid out to dinner to chear him up.
+In the hall of the office|ELAINE|Hey Jerry when do you consider that sex has taken place?
+In the hall of the office|JERRY|I would say when the nipple makes its first appearance.
+In the hall of the office|ELAINE|So, George told me that you left the drink next to Dick's on purpose.
+In the hall of the office|JERRY|Nice try. So guess who heckled me at the club last night.
+In the hall of the office|DICK|Merry Christmas.
+In the hall of the office|ELAINE|Oh my god that's Dick. It's Cape Fear.
+In the hall of the office|GEORGE|Hide, hide under the desk.
+In the hall of the office|ELAINE|Ow, ow move over.
+In the hall of the office|JERRY|Get off of me.
+In the hall of the office|ELAINE|I've got no room.
+In the hall of the office|action|Dick walks over dragging behind him a Christmas tree. He looks down and notices them under the table. George holds out the sweater, his hand shaking.
+In the hall of the office|DICK|Is that cashmere?
+In the hall of the office|GEORGE|Of course it's cashmere.
+In the hall of the office|DICK|(noticing the dot) What's this?
+At the comedy club|JERRY|But in a way, I think I inadvertantly turned this guy into an alcoholic. I hate being around alcoholics because they're either telling you how much they love you or how much they hate you. And those are the two statements that scare me the most. But I think he's okay now because I have no idea how he feels about me. He's finally off the wagon.
+At the comedy club|DICK|You mean on the wagon.
+At the comedy club|JERRY|Don't get smart.

@@ -1,0 +1,304 @@
+setting: NBC, pilot's set|action|Jerry, Tom, and Michael are at the counter, rehearsing. George is standing and watching them next to another guy. Rita, Jay, Stu and Russell are sitting in the crowd's bleachers
+setting: NBC, pilot's set|TOM|What do you mean made up?
+setting: NBC, pilot's set|JERRY|It's made up. Haagen-Dazs is made up. It's not Danish.
+setting: NBC, pilot's set|TOM|You're crazy.
+setting: NBC, pilot's set|JERRY|No I'm not. (to Michael) George. Is Haagen-Dazs Danish?
+setting: NBC, pilot's set|MICHAEL|What do you mean Danish?
+setting: NBC, pilot's set|GEORGE|(to the guy next to him) This guy stinks. (speaking of Michael)
+setting: NBC, pilot's set|JERRY|Danish. Is it from Denmark?
+setting: NBC, pilot's set|MICHAEL|No, they make it in New Jersey. It's just a Danishy name.
+setting: NBC, pilot's set|TOM|I can't believe that. They fooled *me* Jerry.
+setting: NBC, pilot's set|RITA|(to Jay) Boy, talk about a show about nothing. (Jay, the integral producer, smiles stupidly)
+setting: NBC, pilot's set|GEORGE|Uh, excuse me. (stopping them from rehearsing) Excuse me. (he walks to the guy's in charge of yelling: "take #!") This--This is not right. May I? (the guy looks at George with a bothered face. George then walks up to Tom and takes him away from Jerry and Michael to talk to him in private)(to Tom) You see, you're going: "They fooled *me* Jerry!" (George shakes his head with disapproval) You wanna hit 'fooled' more: "They *fooled* me Jerry!". You see the difference?
+setting: NBC, pilot's set|TOM|I'm not gonna say it like that.
+setting: NBC, pilot's set|GEORGE|Just a suggestion. (chuckles and walks back to the yelling guy)
+setting: NBC, pilot's set|GEORGE|(very casual and raising his hand in the air) Yep. That's five!
+setting: NBC, pilot's set|JERRY|George? (walks away to talk privately. George, still casual, taps on Jerry's shoulder) I don't have a lot of experience with this acting stuff. But from what I can gather, they're a little touchy about being told how to say the lines.
+setting: NBC, pilot's set|GEORGE|Why is that?
+setting: NBC, pilot's set|JERRY|I don't know, but they don't seem to like it. By the way how am I doing?
+setting: NBC, pilot's set|GEORGE|Oh, you're fine... you're fine. (looking at Tom in the back and then quieter to Jerry) So you think this guy playing Kramer took the raisins?
+setting: NBC, pilot's set|JERRY|Why would he steal a box of raisins?
+setting: NBC, pilot's set|GEORGE|Yeah, it's bizarre. (they both look around them suspiciously)
+setting: NBC, pilot's set|action|scene cuts to the bleachers with the producers
+setting: NBC, pilot's set|RITA|(to Jay about Russell) What's with him? (to Russell) Russell? (louder) Russell?
+setting: NBC, pilot's set|RUSSELL|What?
+setting: NBC, pilot's set|RITA|You O.K.?
+setting: NBC, pilot's set|RUSSELL|Yeah. No, uh, I was just thinking of something. I'll be back in a second. (he gets up and leaves)
+setting: NBC, pilot's set|action|scene cuts to Jerry sitting next to Sandi. They're both going through their copy of the script
+setting: NBC, pilot's set|SANDI|What's the matter?
+setting: NBC, pilot's set|JERRY|Nothing.
+setting: NBC, pilot's set|SANDI|You're acting weird. Is anything wrong?
+setting: NBC, pilot's set|JERRY|No.
+setting: NBC, pilot's set|SANDI|Are you breaking up with me?
+setting: NBC, pilot's set|JERRY|Are we going out?
+setting: NBC, pilot's set|SANDI|You're breaking up with me, aren't you? (almost crying)
+setting: NBC, pilot's set|JERRY|Do you want me to break up with you?
+setting: NBC, pilot's set|SANDI|If that's what you want.
+setting: NBC, pilot's set|JERRY|I don't even know what you're talking about.
+setting: NBC, pilot's set|SANDI|Fine. Break up with me.
+setting: NBC, pilot's set|JERRY|All right. We're broken up.
+setting: NBC, pilot's set|SANDI|(little pause) Can we still be friends? (Jerry raises his head, staring ahead and wondering what's going on)
+setting: NBC, pilot's set|action|scene cuts to George and Tom standing, backstage
+setting: NBC, pilot's set|GEORGE|Remember when you came to audition for us?
+setting: NBC, pilot's set|TOM|Yeah.
+setting: NBC, pilot's set|GEORGE|There was a box of raisins on the coffee table. Did you, by any chance, take them with you when left?
+setting: NBC, pilot's set|TOM|What are you talking about?
+setting: NBC, pilot's set|GEORGE|Well we were all eating the raisins. And I remember you--you were eating some of the raisins. And then you left, and the raisins were gone. And I was just wondering if, you know (chuckles), maybe you took them with you.
+setting: NBC, pilot's set|TOM|Are you accusing me of stealing the raisins?
+setting: NBC, pilot's set|GEORGE|Oh, no, no--
+setting: NBC, pilot's set|TOM|(angry) Why would I steal a box of raisins!?
+setting: NBC, pilot's set|GEORGE|No you wouldn't. Nobody would. It's just that... they were missing, and... well I'm just inquiring. (chuckles nervously)
+setting: NBC, pilot's set|TOM|Let me give you a word of advice. O.K.? I want you to stay away from me. I don't wanna talk to you, and I don't wanna hear anymore of your stupid little notes and suggestions. I don't like you. So if you got any other problems whether it's raisins, prunes, figs, or any other dried fruit, just keep it to yourself and stay out of my way, O.K.?
+setting: NBC, pilot's set|GEORGE|Mm-hmm. Mm-hmm. All right. I don't think we're gonna have any problem with that. (chuckles nervously) Good talking to you Tom. Really.
+setting: NBC, pilot's set|action|scene cuts to Russell, still on the set, but on the phone with Elaine
+setting: NBC, pilot's set|RUSSELL|(nervously, almost desperately) Elaine. Elaine. What do you want? What can I do? Is it my job? Is that what it is? Elaine I can't go on like this. Will you call me? Would you call me? Well, why? All right. May I call you? Elaine? Elaine? (she hung up. An employee walks by, bumps into Russell and spills coffee accidentally on him)
+setting: NBC, pilot's set|DAVID|Excuse me Mr. Dalrimple. I am so sorry.
+setting: NBC, pilot's set|RUSSELL|All right. All right. What's your name?
+setting: NBC, pilot's set|DAVID|David Richardson.
+setting: NBC, pilot's set|RUSSELL|Get out! You're fired!
+setting: NBC, pilot's set|DAVID|But Mr. Dalrimple--
+setting: NBC, pilot's set|RUSSELL|Don't talk back to me. Didn't you hear what I say? Get out! You want me to call the cops? I make and break little worms like you every day. Do you know how much money I make? Do you have any idea! Do you know where I live? I can have any woman in this city that I want. Any one. Now, GET OUT! (David leaves. Everyone on the set is looking at Russell) What are you all looking at? Go back to work! BACK! NOW! (they do, Russell leaves)
+setting: NBC, pilot's set|action|scene ends
+setting: Jerry's|GEORGE|The doc called and said the lab's backed up and now I'm not gonna get the results for another two days.
+setting: Jerry's|JERRY|Ah! You're fine. There's nothing wrong with you. I'm the one who's dying.
+setting: Jerry's|GEORGE|What do you mean?
+setting: Jerry's|JERRY|Because I can't act! I stink! I don't what I'm doing!
+setting: Jerry's|GEORGE|Come on you're... uh... you're fine.
+setting: Jerry's|JERRY|This show's gonna ruin my entire career. I don't know how I got involved in this.
+setting: Jerry's|GEORGE|What about me? I was a total failure. Everything was fine. Now this thing's gonna be a success and God's gonna give me a terminal disease.
+setting: Jerry's|JERRY|This actress playing Elaine, she's out of her mind.
+setting: Jerry's|GEORGE|The guy playing Kramer threatened me.
+setting: Jerry's|JERRY|Why?
+setting: Jerry's|GEORGE|'cause I asked him about the raisins.
+setting: Jerry's|JERRY|You mentioned the raisins.
+setting: Jerry's|GEORGE|Oh yeah.
+setting: Jerry's|JERRY|Did he take 'em?
+setting: Jerry's|GEORGE|I don't know.
+setting: Jerry's|JERRY|Well if he didn't take 'em, what happened to 'em?
+setting: Jerry's|GEORGE|That's what I'm trying to find out.
+setting: Jerry's|action|Kramer enters slowly and carefully
+setting: Jerry's|JERRY|Hey.
+setting: Jerry's|KRAMER|Hey.
+setting: Jerry's|JERRY|Any luck?
+setting: Jerry's|KRAMER|No. No, nothing. I got no... peristalsis.
+setting: Jerry's|JERRY|What about bran?
+setting: Jerry's|KRAMER|I tried bran-- 40%, 50% 100%. The bran isn't working for me.
+setting: Jerry's|JERRY|Well my friend, (Jerry puts his hand on Kramer's shoulder) it may be time to consider the dreaded apparatus.
+setting: Jerry's|KRAMER|Pfft! Hold it right there. If you're suggesting what I think you're suggesting, you're wasting your time. I am not Jerry, under any circumstances, doing any inserting in that area.
+setting: Jerry's|JERRY|Oh, it's not that bad!
+setting: Jerry's|GEORGE|Yes it is.
+setting: Jerry's|action|Elaine enters
+setting: Jerry's|ELAINE|Well it's all taken care of. I filed a report. An investigation is underway.
+setting: Jerry's|JERRY|(to Elaine) So, you going to the taping tomorrow night?
+setting: Jerry's|ELAINE|No. I don't think I should go. I really don't wanna bump into Russell. He called me the other day. He won't quit.
+setting: Jerry's|JERRY|Oh, come on you gotta go! He's harmless. He's got a little crush on you.
+setting: Jerry's|ELAINE|Jerry, this is not a crush. This is a complete fixation. he makes me very uncomfortable.
+setting: Jerry's|JERRY|We need you there!
+setting: Jerry's|ELAINE|(to Kramer) Hey are you gonna go?
+setting: Jerry's|KRAMER|No. No. I'm gonna stay home. I want to be close to my home base in case there's any news from the front. (he leaves)
+setting: Jerry's|action|scene ends
+setting: NBC, pilot's set, the taping|SANDI|(to her hairdresser) No! Pick it up more in the front! It's got to be higher! Higher! Make a wall! A wall!
+setting: NBC, pilot's set, the taping|JERRY|Try Elaine.
+setting: NBC, pilot's set, the taping|SANDI|Yes?
+setting: NBC, pilot's set, the taping|action|scene cuts to the crowd. Elaine is sitting in the front with her disguise, and a guy behind her taps on her shoulder
+setting: NBC, pilot's set, the taping|WILTON|Elaine? It's me-- Wilton Marshall. Remember? Camp Tioga-- 1978? Remember?
+setting: NBC, pilot's set, the taping|ELAINE|Oh, right.
+setting: NBC, pilot's set, the taping|WILTON|Wow! You know you haven't changed a bit.
+setting: NBC, pilot's set, the taping|action|scene cuts to Michael, backstage, still walking around nervously. He sees Jerry andruns to him
+setting: NBC, pilot's set, the taping|MICHAEL|I can't remember my lines!!!
+setting: NBC, pilot's set, the taping|JERRY|Just relax, you'll be fine.
+setting: NBC, pilot's set, the taping|MICHAEL|I can't relax. I don't know what line! I don't know any of 'em!
+setting: NBC, pilot's set, the taping|JERRY|You're just like George. George'd do the same thing. You're just like him. It's amazing!
+setting: NBC, pilot's set, the taping|MICHAEL|Help me Jerry! Help me!
+setting: NBC, pilot's set, the taping|action|scene cuts to the producers in the crowd
+setting: NBC, pilot's set, the taping|RITA|(to Stu) Where is Russell?
+setting: NBC, pilot's set, the taping|STU|You know I don't know. I thought he was coming. I assumed he wouldn't miss it.
+setting: NBC, pilot's set, the taping|JAY|He hasn't been well.
+setting: NBC, pilot's set, the taping|STU|(to Rita) Can I tell you something in confidence? I think it's a woman.
+setting: NBC, pilot's set, the taping|RITA|How pathetic.
+setting: NBC, pilot's set, the taping|action|scene cuts to George on the same phone as Russell earlier
+setting: NBC, pilot's set, the taping|GEORGE|This is George Costanza, I'm calling for my test results. Negative? Oh, my God. WHY! WHY! WHY? What? What? Negative is good? Oh, yes of course! How stupid of me. Thank you. Thank you very much. (he hangs up)
+setting: NBC, pilot's set, the taping|action|scene cuts to the crowd and we see Joe Devola is there
+setting: NBC, pilot's set, the taping|action|scene cuts to Kramer entering his apartment with the dreaded apparatus
+setting: NBC, pilot's set, the taping|action|scene cuts to George, happy, eating and double-dipping chips. Tom is staring at him, George notices him, and aborts a double-dip
+setting: NBC, pilot's set, the taping|GEORGE|(he walks casually to Tom, and taps his arm) Listen. I know we've had our problems in the past, but we got a show to do tonight. Time to pull together as a team. Life's too short. I say, let's let bygones be bygones. If you took the raisins, if you didn't take the raisins-- They weren't even my raisins. I was just curious because it seems like a strange to do to walk into a room, audition, and to walk out with a box of raisins. Anyway, whatever. If you ever want to tell me about it, the door to my office is always opened. In the event that I get an office. You'll come in, we'll talk about the raisins. We'll have a nice laugh.
+setting: NBC, pilot's set, the taping|TOM|How would you like it if I just pulled your heart out of your chest right now, and shoved it down your throat?
+setting: NBC, pilot's set, the taping|action|scene cuts to the presentor, Pat Hazell, talking to the crowd
+setting: NBC, pilot's set, the taping|action|scene cuts to Kramer holding and staring at the dreaded apparatus, then closing his bathroom's door.
+setting: NBC, pilot's set, the taping|action|scene cuts to Jerry, holding a microphone and talking to the crowd
+setting: NBC, pilot's set, the taping|JERRY|Good evening, folks. How you doing? (small reaction from the crowd) Well, you sound like a great crowd. We have a show we're gonna put on for you tonight. It's a new TV show. It's what they call a pilot. And we hope it becomes a series. It's called 'Jerry', and I'm playing Jerry--
+setting: NBC, pilot's set, the taping|action|scene ends
+setting: Jerry's|GEORGE|Sic semper tyrannis? What is that, Latin?
+setting: Jerry's|JERRY|Yeah, it's what John Wilkes Booth yelled out when he shot Lincoln.
+setting: Jerry's|GEORGE|Really? What does it mean?
+setting: Jerry's|JERRY|It means: "Death to tyrants".
+setting: Jerry's|GEORGE|I can see that.
+setting: Jerry's|action|Elaine enters
+setting: Jerry's|ELAINE|See, now this is exciting! This is exciting! Did I miss anything already?
+setting: Jerry's|JERRY|No, it starts in five minutes. You were there at the taping, what's the big deal?
+setting: Jerry's|ELAINE|Nah, now it's on TV. It's different. I told everybody I know to watch it.
+setting: Jerry's|GEORGE|Yeah, me too.
+setting: Jerry's|JERRY|Hey, what about Russell? Did you hear from him?
+setting: Jerry's|ELAINE|No.
+setting: Jerry's|JERRY|Strange. Even not showing up at the taping...
+setting: Jerry's|action|Kramer enters, singing and dancing
+setting: Jerry's|KRAMER|Hey, pistol-packin mama, you swing that gal around, Allemande left with the old gray hag, around and around you go. Yee-ha!!
+setting: Jerry's|JERRY|Well, well, well.
+setting: Jerry's|ELAINE|Congratulations.
+setting: Jerry's|KRAMER|Well, thank you.
+setting: Jerry's|GEORGE|You went for the big "E".
+setting: Jerry's|KRAMER|Wet and wild.
+setting: Jerry's|JERRY|All right. Come on sit down. It's about to start.
+setting: Jerry's|KRAMER|Oh, yes.
+setting: Jerry's|action|Elaine finds something under the couch cushions
+setting: Jerry's|ELAINE|Hey, what's this? Look. A wallet.
+setting: Jerry's|JERRY|A wallet? Let me see that.
+setting: Jerry's|ELAINE|Here.
+setting: Jerry's|JERRY|Ah, man! It's my father's wallet! The one he thought they stole at the doctor's office that time.
+setting: Jerry's|GEORGE|Shh! This is it!
+setting: Jerry's|JERRY|How do you like that?
+setting: Jerry's|action|they all applause as the intro ends
+setting: Jerry's|ELAINE|Bravo!
+setting: Jerry's|action|Kramer taps George on the shoulder
+setting: Jerry's|GEORGE|You hurt me.
+setting: Jerry's|action|Jerry's apartment, Michael knocks and enters
+setting: Jerry's|MICHAEL|Hey.
+setting: Jerry's|JERRY|Hey George.
+setting: Jerry's|MICHAEL|New sneakers?
+setting: Jerry's|JERRY|Yeah.
+setting: Jerry's|MICHAEL|What do you need new sneakers for?
+setting: Jerry's|JERRY|I like sneakers.
+setting: Jerry's|MICHAEL|How do you make a decision which one to wear? I'd go crazy if I have to decide which sneakers to wear every day.
+setting: Jerry's|JERRY|Nah, you're crazy anyway.
+setting: Jerry's|action|Susan and Allison from 'The Smelly Car'. They're eating popcorn, sitting on a couch
+setting: Jerry's|action|Sid and the housekeeper from 'The Old Man'
+setting: Jerry's|SID|What kind of stupid show is this? Hey! It's that idiot that took all my records! (the houskeeper starts laughing)
+setting: Jerry's|action|John-John and Marla the virgin from 'The Contest'. Marla is under the bed sheets while John-John is sitting at the end of the bed, with the TV remote in his hands
+setting: Jerry's|MARLA|John, what are you doing? Come back to bed.
+setting: Jerry's|JOHN|(with a Boston accent) This show looks interesting. Isn't he that Seinfeld fellow you went out with?
+setting: Jerry's|MARLA|Ooh, he's horrible! Horrible!
+setting: Jerry's|JOHN|Nevertheless...
+setting: Jerry's|action|The Drake, who went back with the Drakette, Allison, from 'The Handicap Spot'. They watch the pilot on a tiny mini-TV with a tiny antenna
+setting: Jerry's|ALLSION|Hate the Sein! (while she adjusts the tiny antenna)
+setting: Jerry's|action|Ping and Cheryl from 'The Visa'. They talk in Chinese and we see sub-titles in English
+setting: Jerry's|PING|I can't believe you liked him.
+setting: Jerry's|CHERYL|I thought he was dark and disturbed.
+setting: Jerry's|PING|Real perceptive.
+setting: Jerry's|action|Donald and his parents from 'The Bubble boy'. We see his arm coming off the bubble, between his parents. He doesn't have the TV remote anymore. His parents are laughing
+setting: Jerry's|DONALD|This is a piece of crap!
+setting: Jerry's|MOTHER|Donald, you used to like him.
+setting: Jerry's|DONALD|What a sellout! Give me that remote!
+setting: Jerry's|MEL|No, Donald.
+setting: Jerry's|action|he grabs the remote from his father's hand and the three of them start to fight
+setting: Jerry's|action|Jerry is getting a soda from the refrigerator
+setting: Jerry's|KRAMER|Come on Jerry, the commercials almost over.
+setting: Jerry's|JERRY|All right.
+setting: Jerry's|ELAINE|You know Jerry I really like this guy who's playing the butler.
+setting: Jerry's|JERRY|Oh yeah. He's good. You know he's John Ritter's cousin.
+setting: Jerry's|ELAINE|Really?
+setting: Jerry's|JERRY|Yeah.
+setting: Jerry's|action|doorbell, Jerry opens the door, it's the butler, Charles
+setting: Jerry's|JERRY|Hello, Charles.
+setting: Jerry's|CHARLES|Hello. So, where do you want me to start today?
+setting: Jerry's|JERRY|Why don't you start in the bedroom?
+setting: Jerry's|CHARLES|(to himself, upset) Start in the bedroom...
+setting: Jerry's|action|Tom enters
+setting: Jerry's|TOM|Hey.
+setting: Jerry's|JERRY|Hey. The butler's here.
+setting: Jerry's|TOM|He is? Listen. When he's finished, send him over to my house.
+setting: Jerry's|JERRY|I'm not sending him to your house.
+setting: Jerry's|TOM|Why not?
+setting: Jerry's|JERRY|Because the judge decreed he'd become my butler, not my friend's butler.
+setting: Jerry's|TOM|Jerry, he is your butler. You can give him any order you want. That's what butlers do.
+setting: Jerry's|JERRY|But I don't want to.
+setting: Jerry's|KRAMER|Jerry, my house is a pigsty, come on.
+setting: Jerry's|action|buzzer, Jerry presses the button
+setting: Jerry's|JERRY|Yeah?
+setting: Jerry's|SANDI|(from the buzzer's speaker) It's Elaine.
+setting: Jerry's|JERRY|Come on up.
+setting: Jerry's|action|The butler comes back from the bedroom with a can of Pledge
+setting: Jerry's|CHARLES|I need more Pledge.
+setting: Jerry's|JERRY|More Pledge! I just bought two cans last week and I don't even have any wood in the house!
+setting: Jerry's|CHARLES|Well, it goes fast.
+setting: Jerry's|action|Sandi enters
+setting: Jerry's|SANDI|(to Charles, very friendly) Hello.
+setting: Jerry's|CHARLES|Hello. (he goes back in the bedroom)
+setting: Jerry's|JERRY|What's all this about?
+setting: Jerry's|SANDI|We had a date.
+setting: Jerry's|JERRY|You had a date? You went out with my butler? Who said you could go out with my butler?
+setting: Jerry's|SANDI|Why do I need your permission?
+setting: Jerry's|JERRY|Because he's my butler!
+setting: Jerry's|action|Morty and Helen laughing
+setting: Jerry's|MORTY|That's terrific!
+setting: Jerry's|HELEN|How could anyone not like him?
+setting: Jerry's|action|Calvin Klein with Tia from 'The Pick'
+setting: Jerry's|TIA|But he picks his nose.
+setting: Jerry's|action|Sal Bass and Sidra from 'The Implant'
+setting: Jerry's|SIDRA|Yeah...
+setting: Jerry's|action|Newman sleeping and snoring in his chair while a baseball game is on TV
+setting: Jerry's|action|final monologue at the comedy club
+setting: Jerry's|JERRY|Ever notice a lot of butlers are named Jeeves?
+setting: Jerry's|action|quick shot at ===[Jerry's]=== they all watch
+setting: Jerry's|JERRY|You know I think when you name a baby Jeeves, you've pretty much mapped out his future, wouldn't you say? Not much chance is gonna be a hitman I think after that. (with a British accent) "Terribly sorry Sir, but I'm going to have to whack you".
+setting: Jerry's|action|end of the pilot and of the three different settings
+setting: back to Jerry's|ALL|(applauding and shaking hands) Wooh! Yeah!
+setting: back to Jerry's|ELAINE|Wow! That was great! That show was so funny. It was really funny. I'm not just saying that cause I know you. Honestly.
+setting: back to Jerry's|JERRY|Let's go out and celebrate! (they all get up)
+setting: back to Jerry's|ELAINE|That was so good.
+setting: back to Jerry's|JERRY|Come on let's eat something. (phone rings)
+setting: back to Jerry's|ELAINE|You know what I think this thing is gonna get picked up George. You guys are gonna be rich!
+setting: back to Jerry's|GEORGE|Do you really think so?
+setting: back to Jerry's|ELAINE|Oh yeah.
+setting: back to Jerry's|GEORGE|And God didn't kill me.
+setting: back to Jerry's|JERRY|(to the phone) Hello?
+setting: back to Jerry's|RITA|Hi Jerry, this is Rita Kierson.
+setting: back to Jerry's|JERRY|Oh, hi Rita.
+setting: back to Jerry's|RITA|I'm calling to let you know that Russell Dalrimple is no longer with this network.
+setting: back to Jerry's|JERRY|Oh, my God. Did he get fired?
+setting: back to Jerry's|RITA|To be honest with you. Nobody really knows. He seems to have disappeared.
+setting: back to Jerry's|JERRY|Russell's disappeared?
+setting: back to Jerry's|RITA|In any event, I've been made the new president of NBC. As you may or may not know, Russell and I did not see eye to eye on many, many projects. And as my first order of business, I'm, uh, passing on your show.
+setting: back to Jerry's|JERRY|You're passing already? But the show just ended two minutes ago!
+setting: back to Jerry's|RITA|Well, I just got the job. Goodbye, Jerry.
+setting: back to Jerry's|JERRY|Yeah, see ya. (he hangs up)
+setting: back to Jerry's|action|Jerry and George stare at Elaine
+setting: back to Jerry's|ELAINE|What-- What are you looking at me for?
+setting: back to Jerry's|GEORGE|It was you!
+setting: back to Jerry's|ELAINE|What did I do?
+setting: back to Jerry's|JERRY|Do you realize his obsession with you cost us a TV series?
+setting: back to Jerry's|ELAINE|I didn't know that he'd fall for me and I'd drive him insane. I mean, you know, that's not my fault.
+setting: back to Jerry's|GEORGE|Yes it is! You're very charming!
+setting: back to Jerry's|ELAINE|I can't believe this? What happened to him? Where the hell is he?
+setting: back to Jerry's|JERRY|No one knows.
+setting: back to Jerry's|action|scene ends
+setting: Greenpeace raft on the ocean, following a whaler|action|Russell with two other guys in the Greenpeace boat
+setting: Greenpeace raft on the ocean, following a whaler|RUSSELL|She works for Pendant Publishing. She's the most beautiful woman I've ever seen. You know, I used to work for NBC, but when I go back to her this time, she'll respect me.
+setting: Greenpeace raft on the ocean, following a whaler|action|scene ends
+setting: Monk's|action|The restaurant is full of men, some of them standing and waiting for a table. Jerry, Elaine, George and Kramer enters
+setting: Monk's|JERRY|Hey look at this. What is going on here?
+setting: Monk's|GEORGE|Well, well, well.
+setting: Monk's|ELAINE|Nothing has changed. How did this happen? (she sees the two guys of the Equal Employment Opportunity Commission at a table) Ah, these are the two guys I talked to at the Equal Employment Opportunity Commission. Hey! What are you two guys doing here? I thought you were gonna do something about this. Now you're eating here?
+setting: Monk's|FRED|Oh no. That's why we're here. We're checking things out.
+setting: Monk's|PAUL|Yeah, we're checking it out.
+setting: Monk's|ELAINE|(to Paul) You're checking it out?
+setting: Monk's|action|a man is leaving the restaurant and walks by Fred and Paul's table
+setting: Monk's|MAN|(to Fred and Paul) See you back at the office, guys.
+setting: Monk's|ELAINE|(to the manager) Hey! Come here a second. I want you to know something. You are not gonna get away with this!
+setting: Monk's|ELAINE|Ah, "with what?" You know what. With the waitresses. How they're all... alike.
+setting: Monk's|action|they all show smiles of surprise
+setting: Monk's|ELAINE|(embarrassed, but smiling) Oh, your daughters.
+setting: Monk's|GEORGE|You must be very proud Mr. Visaki. (shaking his hand) And may I say sir they're lovely girls, absolutely lovely girls. It's nice to see such fine upstanding women in gainful employment, Mr. Visaki.
+setting: Monk's|GEORGE|A table right here.
+setting: Monk's|GEORGE|Peggy! (they all sit) His daughter Peggy. Peggy's coming over to serve.
+setting: Monk's|JERRY|What a family!
+setting: Monk's|GEORGE|Ah! Peggy. Good to see you.
+setting: Monk's|ELAINE|Hi Peggy.
+setting: Monk's|GEORGE|Thank you very much. (Peggy leaves the menus and walks away) So guess what I got do tomorrow?
+setting: Monk's|JERRY|What?
+setting: Monk's|GEORGE|Start looking for a job.
+setting: Monk's|KRAMER|You know what you ought to do George? You should work for Greenpeace. You those people they attack the whalers out on the open sea.
+setting: Monk's|GEORGE|Are you crazy? You take your life in your hands with those nuts.
+setting: Monk's|action|scene ends
+setting: Greenpeace raft|action|Russell fell off the boat but still hangs on to a rope. The other man, still in the boat is screaming to him and holds the rope.
+setting: Greenpeace raft|MAN|Keep fighting matey! Get your head above the water! I've got you matey! I've got you! Matey! (he loses the rope) I'll remember her name! Elaine Benes! I'll write to her. I'll tell her all about you and what you did out here! Goodbye, matey! Goddbye!
+setting: Greenpeace raft|action|we see the script of the pilot 'Jerry' floating on the ocean

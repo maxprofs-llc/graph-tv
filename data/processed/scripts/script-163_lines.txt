@@ -1,0 +1,367 @@
+Elaine wakes up in bed with Jerry.|ELAINE|Hey.
+Elaine wakes up in bed with Jerry.|JERRY|Morning.
+Elaine wakes up in bed with Jerry.|ELAINE|Look, this is crazy, I can't go on like this.
+Elaine wakes up in bed with Jerry.|JERRY|But why?
+Elaine wakes up in bed with Jerry.|ELAINE|I need some space.
+Elaine wakes up in bed with Jerry.|action|Elaine turns to the other side and there's George.
+Elaine wakes up in bed with Jerry.|GEORGE|Does that mean I have to go too?
+Elaine wakes up in bed with Jerry.|JERRY|You don't think she's just talking to me?
+Elaine wakes up in bed with Jerry.|GEORGE|Hey, shut up.
+Elaine wakes up in bed with Jerry.|JERRY|You shut up.
+Elaine wakes up in bed with Jerry.|ELAINE|I hate this.
+Elaine wakes up in bed with Jerry.|action|Kramer pops out the covers.
+Elaine wakes up in bed with Jerry.|KRAMER|You'll get used to it. It's like a grubby scrub.
+Elaine wakes up in bed with Jerry.|ELAINE|No, I don't want this anymore.
+Elaine wakes up in bed with Jerry.|JERRY|We'll come to work with you.
+Elaine wakes up in bed with Jerry.|GEORGE|And on your dates.
+Elaine wakes up in bed with Jerry.|JERRY|And shopping.
+Elaine wakes up in bed with Jerry.|KRAMER|And to the bathroom.
+Elaine wakes up in bed with Jerry.|ELAINE|I can't breath...I'm sorry...(Elaine wakes up) You're killing me!
+Elaine wakes up in bed with Jerry.|action|Elaine tries to push her alarm clock showing 3:30. She realizes, that alarm comes from next door.
+Elaine wakes up in bed with Jerry.|ELAINE|(Banging the wall) Turn your alarm off!! (Screams)
+Mr. Kruger's office. Kruger is reading George's CV.|KRUGER|Your background is impressive George, but how does it apply to what we do here, at Kruger Industrial Smoothing?
+Mr. Kruger's office. Kruger is reading George's CV.|GEORGE|Well, at the Yankees it was all about smoothing things over, you know, chiseling away, grinding down. In fact we used to call it 'the grind'.
+Mr. Kruger's office. Kruger is reading George's CV.|KRUGER|It says here that you worked at Play Now for four days?
+Mr. Kruger's office. Kruger is reading George's CV.|GEORGE|That should be 14, let me just...(corrects it with a pen.)
+Mr. Kruger's office. Kruger is reading George's CV.|KRUGER|George, I have to honest; I could go either way with you...but what the hell, we need someone, huh.
+Mr. Kruger's office. Kruger is reading George's CV.|GEORGE|You won't regret this, sir.
+Mr. Kruger's office. Kruger is reading George's CV.|KRUGER|I don't care. Let's find you an office.
+Mr. Kruger's office. Kruger is reading George's CV.|action|Kruger leaves and George notices a photograph on the table: Kruger's family and George on the background.
+Monk's cafe. Jerry, George and Kramer.|JERRY|The boom box incident?
+Monk's cafe. Jerry, George and Kramer.|GEORGE|Summer of '89 I'm at the beach. This family sits up next to me. I go in to the surfs and when I come from out, my clothes, my towel, my umbrella, they're all gone. I am furious, I start screaming to these kids demanding my stuff back and finally I lose it; I grab their boom box and I chuck it in to the ocean.
+Monk's cafe. Jerry, George and Kramer.|JERRY|Seems reasonable.
+Monk's cafe. Jerry, George and Kramer.|GEORGE|Then I see my clothes floating out there. The tied took them out, not the kids.
+Monk's cafe. Jerry, George and Kramer.|JERRY|Even more reasonable.
+Monk's cafe. Jerry, George and Kramer.|GEORGE|So now, the father is screaming at me, he's demanding that I pay for the boom box. Finally, I gave them a fake address and got the hell out of there.
+Monk's cafe. Jerry, George and Kramer.|JERRY|And that guy is your new boss?
+Monk's cafe. Jerry, George and Kramer.|GEORGE|Until that stupid photo jogs his memory.
+Monk's cafe. Jerry, George and Kramer.|KRAMER|Kruger? That's not Kruger Industrial Smoothing, is it?
+Monk's cafe. Jerry, George and Kramer.|GEORGE|Yeah.
+Monk's cafe. Jerry, George and Kramer.|KRAMER|Grinders, sanders, wet stones. They are the ones who botched the Statue of Liberty job.
+Monk's cafe. Jerry, George and Kramer.|JERRY|Right, they couldn't get the green stuff off.
+Monk's cafe. Jerry, George and Kramer.|GEORGE|It is a horrible company. There's no management what so ever. I could go hog wild in there.
+Monk's cafe. Jerry, George and Kramer.|KRAMER|You now what you do? You sneak that photo out of there for couple of days and get it air brushed.
+Monk's cafe. Jerry, George and Kramer.|GEORGE|Like retouched.
+Monk's cafe. Jerry, George and Kramer.|KRAMER|You remember that photo of me and Gerald Ford and I took it in. Got that Ford right out of there.
+Monk's cafe. Jerry, George and Kramer.|GEORGE|Oh, this is good. This Kruger guy is clueless. I can't wait to work for him.
+Monk's cafe. Jerry, George and Kramer.|action|George leaves. Kramer tries to eat a sandwich and it brakes in to his hands.
+Monk's cafe. Jerry, George and Kramer.|KRAMER|Look at this. This sandwich is terrible. Everywhere you go, they give you this misshaped shardy meat. Look at this...
+Monk's cafe. Jerry, George and Kramer.|action|Kramer tosses Jerry's sandwich around.
+Monk's cafe. Jerry, George and Kramer.|KRAMER|I haven't had a decent sandwich in 13 years.
+Monk's cafe. Jerry, George and Kramer.|JERRY|Neither have I.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|KRAMER|Hey, our meat problems are solved.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|JERRY|Where did you get this thing?
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|KRAMER|I traded it to my sausage press. Look how thin that is, see that's all surface area. The taste has nowhere to hide.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|action|Elaine comes in.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|ELAINE|Hey.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|KRAMER|Hey, spice. (gives Elaine a piece of meat.) Welcome to flavor country.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|ELAINE|Yeah, that's pretty good.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|JERRY|Hey, I got a date with that doctor you met.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|ELAINE|Sara Sitarides?
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|JERRY|Mmhu.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|ELAINE|Oh...(falls in to the sofa.)
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|JERRY|What's with you?
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|ELAINE|You remember that next door neighbor of mine, the apartment that always smells like potatoes?
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|JERRY|Your whole building smells like potatoes.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|ELAINE|This jackass goes to Paris, leaves the alarm on. It's been beeping since 3:30 this morning.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|KRAMER|You know, that happened to Lomez, so he blew his neighbor's circuit.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|ELAINE|How do you do that?
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|KRAMER|Yeah well, that's easy. Just let me finish this mile high and I'll be right with you. Oh, and Jerry, we are gonna need a case of Kaiser rolls.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|JERRY|I think we might have one left in the stock room.
+5A. Kramer is slicing meat with a meat slicer. Jerry comes in.|action|Kramer looks lost.
+Elaine's building. Elaine and Kramer.|KRAMER|This hallway smells like potatoes.
+Elaine's building. Elaine and Kramer.|ELAINE|I know, I know, this is it. (points to a door.)
+Elaine's building. Elaine and Kramer.|KRAMER|Ok, oh, you see this socket it's probably connected to her apartment. So what we'll do, we'll take this paper clip and bend it so it'll short out the entire circuit. Here you go...
+Elaine's building. Elaine and Kramer.|ELAINE|I think I'll let you do it.
+Elaine's building. Elaine and Kramer.|KRAMER|No no no. It's easy, you just...do it quickly.
+Elaine's building. Elaine and Kramer.|ELAINE|No, I really don't want to.
+Elaine's building. Elaine and Kramer.|KRAMER|Well, I don't want to either.
+Elaine's building. Elaine and Kramer.|ELAINE|I thought you had done this before.
+Elaine's building. Elaine and Kramer.|KRAMER|It's just...it's no picnic.
+Elaine's building. Elaine and Kramer.|ELAINE|Well, how are we gonna do it?
+Elaine's building. Elaine and Kramer.|KRAMER|Alright, fine fine, I'll do it.
+Elaine's building. Elaine and Kramer.|action|Kramer moisturizes the paper clip in his mouth and sticks it to the power socket. Electric buzz and Kramer twitches on the floor. The lights go off.
+Elaine's building. Elaine and Kramer.|KRAMER|Oh mama.
+Elaine's building. Elaine and Kramer.|ELAINE|Are you okay?
+Elaine's building. Elaine and Kramer.|KRAMER|I will lose that nail.
+Monk's cafe. Jerry and Dr. Sara Sitarides.|SARA|I enjoy the challenge of medicine. Naturally you have no idea what it's like to have someone's life depending on you.
+Monk's cafe. Jerry and Dr. Sara Sitarides.|JERRY|Well, I have this neighbor...
+Monk's cafe. Jerry and Dr. Sara Sitarides.|SARA|A joke. Do you have any idea how it feels like to save someone's life?
+Monk's cafe. Jerry and Dr. Sara Sitarides.|JERRY|Is it anything like hitting a home run in softball?
+Monk's cafe. Jerry and Dr. Sara Sitarides.|SARA|No.
+Monk's cafe. Jerry and Dr. Sara Sitarides.|JERRY|Cause I hit a whopper last week!
+Flash Foto. George is picking up the photo.|CLERK|Here you go, airbrushed in to sand and sky.
+Flash Foto. George is picking up the photo.|action|George looks at the picture and he is still there, but Kruger isn't.
+Flash Foto. George is picking up the photo.|GEORGE|What did you do here? You took out the wrong guy.
+Flash Foto. George is picking up the photo.|CLERK|I thought you said you wanted to be out?
+Flash Foto. George is picking up the photo.|GEORGE|Well, I'm still here. You took out the other guy!
+Flash Foto. George is picking up the photo.|CLERK|You've really lost a lot of hair.
+Flash Foto. George is picking up the photo.|GEORGE|I am aware!
+Elaine's apartment. She is reading a catalog on her bed.|action|She hears a loud cat meowing next door.
+Elaine's apartment. She is reading a catalog on her bed.|ELAINE|The cat.
+5A, Jerry, George and Kramer.|JERRY|He took out Kruger?
+5A, Jerry, George and Kramer.|GEORGE|I just pray Kruger doesn't realize that it's gone until this guy can fix it up.
+5A, Jerry, George and Kramer.|action|Kramer cuts meat wearing a white coat.
+5A, Jerry, George and Kramer.|KRAMER|This slicer is indomitable.
+5A, Jerry, George and Kramer.|JERRY|Where did you get that butcher's coat?
+5A, Jerry, George and Kramer.|KRAMER|You buy enough meat, they'll give you anything.
+5A, Jerry, George and Kramer.|action|Elaine comes in.
+5A, Jerry, George and Kramer.|ELAINE|Kramer, my neighbor has a cat. When you blew the power, we must've shut off the automatic feeder.
+5A, Jerry, George and Kramer.|KRAMER|See, that's the same thing that happened to Lomez.
+5A, Jerry, George and Kramer.|ELAINE|What did he do about it?
+5A, Jerry, George and Kramer.|KRAMER|Well, he moved to a hotel and the cat eventually died.
+5A, Jerry, George and Kramer.|ELAINE|Well, this meowing is absolutely worst than the alarm.
+5A, Jerry, George and Kramer.|KRAMER|Oh, that's a prickly one.
+5A, Jerry, George and Kramer.|ELAINE|Yeah, how's the doctor date?
+5A, Jerry, George and Kramer.|JERRY|Eh, died on the table. Just spent hour and a half making me feel, if I don't save lives, I'm worthless.
+5A, Jerry, George and Kramer.|ELAINE|Well, she's very focused. Dermatology is her life.
+5A, Jerry, George and Kramer.|JERRY|Dermatology?
+5A, Jerry, George and Kramer.|ELAINE|Yes, she's a dermatologist.
+5A, Jerry, George and Kramer.|JERRY|Saving lives? The whole profession is; eh, just put some aloe on it.
+5A, Jerry, George and Kramer.|KRAMER|The slicer! Elaine, let's go.
+5A, Jerry, George and Kramer.|ELAINE|Where are we going?
+5A, Jerry, George and Kramer.|KRAMER|The cat. Just grab that meat and let's ride.
+5A, Jerry, George and Kramer.|action|Elaine and Kramer leave.
+5A, Jerry, George and Kramer.|GEORGE|When are you going on your next date with her?
+5A, Jerry, George and Kramer.|JERRY|Oh, what's the point?
+5A, Jerry, George and Kramer.|GEORGE|What, you're gonna pass up a wonderful opportunity to put that aloe pusher in her place?
+5A, Jerry, George and Kramer.|JERRY|Revenge date? That sound like you more than me.
+5A, Jerry, George and Kramer.|GEORGE|This good be so sweet, Jerry. Saving lives? She's one step away working at the clinique counter!
+5A, Jerry, George and Kramer.|JERRY|Dermatologist? Skin doesn't need a doctor!
+5A, Jerry, George and Kramer.|GEORGE|Of course not! Wash it, dry it, move on!
+5A, Jerry, George and Kramer.|JERRY|You're right. I'm gonna call her right now and tell her off.
+5A, Jerry, George and Kramer.|GEORGE|No no no no no, this has to be carefully orchestrated. You go to a fancy dinner, flowers...
+5A, Jerry, George and Kramer.|JERRY|Flowers?
+5A, Jerry, George and Kramer.|GEORGE|Yeah, you gotta do it classy (wipes his mouth to his sweater.)
+5A, Jerry, George and Kramer.|JERRY|So, you've done this?
+5A, Jerry, George and Kramer.|GEORGE|Almost. Couldn't get the girl go out with me the second time.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|I think we are looking half a millimeter.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|Can it cut that thin?
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|Oh, I've cut slices so thin, I couldn't even see them.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|How did you know you cut it?
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|Well, I guess I just assumed.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|Hold on kitty, dinner's coming.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|Yeah, that's a hall of famer.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|Alright, let's do it.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|Alright, here we go. Yeah, watch that baby slide...(Puts a slice of meat under the door.)
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|Come on, come on kitty...(slice disappears) ooh...how about that; it worked! Wow, can I borrow that thing for a while?
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|Oh no, I don't think so.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|Why not?
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|Well, you're not checked at on it.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|What do I have to know?
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|Well, where the meat goes?
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|Right there.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|Where do you turn it on?
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|ELAINE|Right there.
+Elaine's hallway. Kramer and Elaine are sizing the space under the door.|KRAMER|But where does the meat go?
+Jerry is on the revenge date with Sara.|SARA|Restaurant, flowers...this is so nice.
+Jerry is on the revenge date with Sara.|JERRY|Well, I'm a classy guy. How's the life saving business?
+Jerry is on the revenge date with Sara.|SARA|It's fine.
+Jerry is on the revenge date with Sara.|JERRY|It must take a really really big zit, to kill a man!
+Jerry is on the revenge date with Sara.|SARA|What is with you?
+Jerry is on the revenge date with Sara.|JERRY|You call yourself a lifesaver. I call you pimple popper MD!
+Jerry is on the revenge date with Sara.|action|A man comes to the table.
+Jerry is on the revenge date with Sara.|PARRY|Dr. Sitarides?
+Jerry is on the revenge date with Sara.|SARA|Mr. Parry, how are you?
+Jerry is on the revenge date with Sara.|PARRY|I just wanted to thank you again for saving my life.
+Jerry is on the revenge date with Sara.|JERRY|She saved your life?
+Jerry is on the revenge date with Sara.|PARRY|I had skin cancer.
+Jerry is on the revenge date with Sara.|JERRY|Skin cancer! Damn.
+Elaine's apartment. She is opening letters with the slicer and talking on the phone.|ELAINE|You were right Kramer, this slicer is absolutely amazing...yeah, yeah...no no no I'll bring it by tonight...ok bye.
+Elaine's apartment. She is opening letters with the slicer and talking on the phone.|action|Walks off the couch.
+Elaine's apartment. She is opening letters with the slicer and talking on the phone.|ELAINE|These heals are so uneven. (Watches the slicer.)
+Flash foto. George is picking up the photo.|CLERK|Here you Mr. Costanza.
+Flash foto. George is picking up the photo.|action|George looks at the photo. Mr. Kruger has been drawn in to the picture.
+Flash foto. George is picking up the photo.|GEORGE|What is this? This is a drawing.
+Flash foto. George is picking up the photo.|CLERK|Looks real, doesn't it?
+Flash foto. George is picking up the photo.|GEORGE|This is a cartoon!
+Flash foto. George is picking up the photo.|CLERK|Hey, I had to draw that guy from memory. Considering, I think that's damn good.
+Flash foto. George is picking up the photo.|GEORGE|But it's not a photograph, I need a photograph!
+Flash foto. George is picking up the photo.|CLERK|Then you better get a camera.
+5A, George is showing Jerry the picture.|JERRY|He looks like a Peanuts character.
+5A, George is showing Jerry the picture.|GEORGE|I know. The only way to fix it now, is to get a whole new photo of Kruger.
+5A, George is showing Jerry the picture.|JERRY|You can do that.
+5A, George is showing Jerry the picture.|GEORGE|Without his shirt on.
+5A, George is showing Jerry the picture.|JERRY|You can't do that. Well, maybe Kruger wasn't the place for you.
+5A, George is showing Jerry the picture.|GEORGE|It seemed so disorganized.
+5A, George is showing Jerry the picture.|JERRY|I understand.
+5A, George is showing Jerry the picture.|GEORGE|What about the Coast Guard? Seems like a lot of pride there, a lot of tradition.
+5A, George is showing Jerry the picture.|JERRY|True. You mean, for you?
+5A, George is showing Jerry the picture.|GEORGE|I think.
+5A, George is showing Jerry the picture.|JERRY|What about your sea sickness?
+5A, George is showing Jerry the picture.|GEORGE|Maybe I could be a land guy.
+5A, George is showing Jerry the picture.|JERRY|I don't know if they have land guys.
+5A, George is showing Jerry the picture.|GEORGE|Someone's have to unhook the boat before it leaves...the place!
+5A, George is showing Jerry the picture.|action|Elaine comes in.
+5A, George is showing Jerry the picture.|ELAINE|Pliers?
+5A, George is showing Jerry the picture.|JERRY|Drawer.
+5A, George is showing Jerry the picture.|ELAINE|Got it.
+5A, George is showing Jerry the picture.|JERRY|What are they for?
+5A, George is showing Jerry the picture.|ELAINE|I...eh...I got a piece a my heal stuck in a slicer.
+5A, George is showing Jerry the picture.|JERRY|Come again?
+5A, George is showing Jerry the picture.|ELAINE|Okay, I got a little slicer happy, but listen; don't tell Kramer, okay? He has very strong feelings for it.
+5A, George is showing Jerry the picture.|GEORGE|I forgot to ask you; how did the revenge date go?
+5A, George is showing Jerry the picture.|JERRY|Eh, it went okay.
+5A, George is showing Jerry the picture.|GEORGE|Did you dressed nice, did you do it classy?
+5A, George is showing Jerry the picture.|JERRY|Yeah, I started out real classy...
+5A, George is showing Jerry the picture.|GEORGE|Yeah you did, you classed it up!
+5A, George is showing Jerry the picture.|JERRY|But then I found out about the skin cancer.
+5A, George is showing Jerry the picture.|GEORGE|Oh, so it backfired?
+5A, George is showing Jerry the picture.|JERRY|Yeah.
+5A, George is showing Jerry the picture.|GEORGE|So, I guess I was lucky that I never tried that myself.
+5A, George is showing Jerry the picture.|ELAINE|Of course she treats skin cancer. That's how I met her, she was doing a skin cancer screening at Peterman. That's what dermatologists do.
+5A, George is showing Jerry the picture.|JERRY|Sadly, that knowledge could've help me.
+5A, George is showing Jerry the picture.|GEORGE|Wait a minute, she did a skin cancer screening at Peterman?
+5A, George is showing Jerry the picture.|ELAINE|Aha.
+5A, George is showing Jerry the picture.|GEORGE|Could she do that at Kruger?
+5A, George is showing Jerry the picture.|ELAINE|I don't know, I guess.
+5A, George is showing Jerry the picture.|GEORGE|So I set up a screening, everyone takes their shirt off and click, I snap me a shot of a bear-chested Kruger.
+5A, George is showing Jerry the picture.|ELAINE|You have a little thing for this fella'?
+5A, George is showing Jerry the picture.|GEORGE|Jerry, you gotta talk to Sitarides.
+5A, George is showing Jerry the picture.|JERRY|Yesterday you said I had to get my revenge on her!
+5A, George is showing Jerry the picture.|GEORGE|And that was wrong, Jerry! You simple must to apologize..
+5A, George is showing Jerry the picture.|JERRY|Must I?
+5A, George is showing Jerry the picture.|GEORGE|Yes! Because it is the mature, adult thing to do.
+5A, George is showing Jerry the picture.|JERRY|How does that reflect me?
+5A, George is showing Jerry the picture.|action|Kramer comes in.
+5A, George is showing Jerry the picture.|KRAMER|Elaine, alright where's the SP2000? Cause I gotta slice.
+5A, George is showing Jerry the picture.|ELAINE|Aah, I forgot it. I gotta get home.
+5A, George is showing Jerry the picture.|KRAMER|Ok, I'll go with you.
+5A, George is showing Jerry the picture.|ELAINE|Umm, I'm not actually going straight to home, I have to first stop at the eh...circus, you know with all the...clowns.
+5A, George is showing Jerry the picture.|KRAMER|Oh, well you have fun...(Elaine leaves) oh no clowns...hate clowns...the clowns.
+Jerry and Sara at Sara's office.|JERRY|So again, I'm sorry. I had no right to yell at you, you're a life saving doctor and I'm just a comedian...
+Jerry and Sara at Sara's office.|SARA|Jerry, enough. I'll do your friend's cancer screening, because I believe in that, but as far as you and I are concerned; it's off.
+Jerry and Sara at Sara's office.|JERRY|Was it pimple popper MD?
+Jerry and Sara at Sara's office.|SARA|That's the one. (Taps Jerry on the cheek and leaves.)
+Jerry and Sara at Sara's office.|JERRY|Still got it.
+Elaine is trying to get the shoe heal off the slicer.|ELAINE|Out, damn heal!
+Elaine is trying to get the shoe heal off the slicer.|action|Knock on the door.
+Elaine is trying to get the shoe heal off the slicer.|KRAMER|Elaine?
+Elaine is trying to get the shoe heal off the slicer.|ELAINE|Kramer?
+Elaine is trying to get the shoe heal off the slicer.|KRAMER|Yeah listen, I need my slicer back.
+Elaine is trying to get the shoe heal off the slicer.|ELAINE|Just hold on!
+Elaine is trying to get the shoe heal off the slicer.|action|Elaine bangs the slicer to the door.
+Elaine is trying to get the shoe heal off the slicer.|KRAMER|Hey, what's going on?
+Elaine is trying to get the shoe heal off the slicer.|ELAINE|Nothing...(heal comes loose and Elaine opens the door.) Here, ok I'm on the phone alright? I'm on the phone with someone...
+Elaine is trying to get the shoe heal off the slicer.|action|Elaine closes the door and Kramer checks the slices.
+Elaine is trying to get the shoe heal off the slicer.|KRAMER|My blade is all dinged up. Oh, come on! Elaine!
+Elaine is trying to get the shoe heal off the slicer.|ELAINE|Phone call! I'm in a big phone call!
+Elaine is trying to get the shoe heal off the slicer.|KRAMER|Come on, this is important! (Shakes the door handle and it comes loose. Kramer falls backwards to the next door.)
+Elaine is trying to get the shoe heal off the slicer.|NEIGHBOR|Hey, get the hell out of here!
+Elaine is trying to get the shoe heal off the slicer.|KRAMER|Wow, that's a lot of potatoes.
+5A. Jerry and Kramer.|KRAMER|So, George took my slicer down to Kruger and they're smoothing it out for me.
+5A. Jerry and Kramer.|action|Jerry comes and shows Kramer his neck, which has red spots all over it.
+5A. Jerry and Kramer.|JERRY|What the hell is this?
+5A. Jerry and Kramer.|KRAMER|Boy, that looks like an allergic reaction. Have you been wearing a fake beard?
+5A. Jerry and Kramer.|JERRY|No.
+5A. Jerry and Kramer.|KRAMER|Well, what have you been doing?
+5A. Jerry and Kramer.|JERRY|Nothing, I got up, run some errands, I went down to Sara's office and apologized...
+5A. Jerry and Kramer.|KRAMER|Whoa whoa, backup, Dr. Sitarides, what happened there?
+5A. Jerry and Kramer.|JERRY|Well, I tried to apologise, it didn't go over that well...
+5A. Jerry and Kramer.|KRAMER|There, there's your hives.
+5A. Jerry and Kramer.|JERRY|What, she gave me hives?
+5A. Jerry and Kramer.|KRAMER|Jerry, as the Bible says; Thou who cureth, can maketh ill.
+5A. Jerry and Kramer.|JERRY|She did kind of touch my face.
+5A. Jerry and Kramer.|KRAMER|Now you listen to me, you've got to find this woman and tell her that you're not a test tube pin cushion.
+5A. Jerry and Kramer.|JERRY|It does itch. Maybe I will go down at Kruger and talk to her.
+5A. Jerry and Kramer.|KRAMER|Alright, great, because I got to get down there and pick up my blade. Hey, and I couldn't find that stock room.
+Elaine tries to go to feed the cat, but door knob comes loose to her hand.|ELAINE|Oh, that's fantastic.
+Kruger's. George and Sara.|GEORGE|I just talked to Mr. Kruger, he'll be down in a minute. He wanted me to take a photograph for the record.
+Kruger's. George and Sara.|SARA|What record?
+Kruger's. George and Sara.|GEORGE|His personal file, I, I don't ask...
+Kruger's. George and Sara.|action|Jerry and Kramer walk in.
+Kruger's. George and Sara.|SARA|Jerry? What brings you here?
+Kruger's. George and Sara.|JERRY|I don't know, this? (Shows his neck to Sara.)
+Kruger's. George and Sara.|SARA|Looks like hives.
+Kruger's. George and Sara.|JERRY|Where do you suppose that could've come from?
+Kruger's. George and Sara.|GEORGE|Jerry, what are you doing...
+Kruger's. George and Sara.|KRAMER|He is just setting the record straight.
+Kruger's. George and Sara.|JERRY|Come on Sitarides, cop to it. What brand of perverted science do you practice?
+Kruger's. George and Sara.|SARA|Are you suggesting I somehow I infected you on purpose?
+Kruger's. George and Sara.|JERRY|I want the antidote, pimple popper!
+Kruger's. George and Sara.|SARA|That's it, I'm out of here! You're insane.
+Kruger's. George and Sara.|JERRY|Am I? You touched my face. I didn't imagine that!
+Kruger's. George and Sara.|action|Sara leaves and Jerry goes after her.
+Kruger's. George and Sara.|GEORGE|Dr. Sitarides don't go! Oh, thanks Jerry!
+Kruger's. George and Sara.|action|Kruger comes to George and Kramer. Kramer is wearing the white butcher's coat.
+Kruger's. George and Sara.|KRUGER|Hey George, hey Doc. We doing the screening here?
+Kruger's. George and Sara.|GEORGE|Aah, yeah, yeah. Won't you head on in, we'll be in in a second. Be right with you.
+Kruger's. George and Sara.|KRAMER|Doc, huh?
+Kruger's. George and Sara.|GEORGE|Kramer, this is perfect. I need you to go in there, pretend you're a doctor and check this guy for moles.
+Kruger's. George and Sara.|KRAMER|Moles, yes. Freckle's ugly cousin.
+Kruger's. George and Sara.|GEORGE|And get a picture of him, with his shirt off.
+Kruger's. George and Sara.|KRAMER|You really are cooking up a little scheme here, aren't you?
+Kruger's. George and Sara.|GEORGE|Alright, lets get in there. Quick, quick, quick...
+Elaine's bedroom. Cat is meowing next door.|ELAINE|This is it. I can take this anymore.
+Elaine's bedroom. Cat is meowing next door.|action|She turns the radio on loud (Foghat: Slow Ride) and "dances" few little kicks.
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|Male mammal. Approximately 30 to 60 years of age. Weight...uh indeterminate. Ok, Mr. Kruger, we are gonna take a photo now for the records. So if you'll stand up please and give me a big smile, oh no no no, not that big. Yeah, that's nice, yes okay. Yes, let's have a looksee...ok, so eh, fiber from shirt on the left shoulder. I'm gonna have to keep my on that.
+Kruger's. Kramer is examining Mr. Kruger.|KRUGER|How long have you been doing this Dr. Van Nostrand?
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|Uuh, long long time. Yes, I've seen moles so big they have their own moles. Freckles that cover two men.
+Kruger's. Kramer is examining Mr. Kruger.|KRUGER|So, how am I looking?
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|Oh, so far, so good...(looks at Mr. Kruger's shoulder) yeuye...
+Kruger's. Kramer is examining Mr. Kruger.|action|Kramer comes out to talk to George.
+Kruger's. Kramer is examining Mr. Kruger.|GEORGE|Kramer, I really owe you one.
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|George, we got a problem.
+Kruger's. Kramer is examining Mr. Kruger.|GEORGE|What?
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|Well, he's got a mole on his shoulder. Very suspicious.
+Kruger's. Kramer is examining Mr. Kruger.|GEORGE|So, tell him you're concerned about it and he should see someone else.
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|George, why would I, a Juilliard trained dermatologist, send him to another doctor?
+Kruger's. Kramer is examining Mr. Kruger.|GEORGE|Because, you're not a dermatologist.
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|He thinks I am. I'm not gonna betray that trust. Here's what I wanna do; I think I can get a section...
+Kruger's. Kramer is examining Mr. Kruger.|GEORGE|Whoa, whoa, a section?!
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|Yeah, if I could crab my slicer and he'd hold still...
+Kruger's. Kramer is examining Mr. Kruger.|GEORGE|No, you're not taking a deli slicer to my boss...
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|It'll be operative thing, he would barely feel it.
+Kruger's. Kramer is examining Mr. Kruger.|GEORGE|No! Absolutely Not!
+Kruger's. Kramer is examining Mr. Kruger.|KRAMER|Well, it's my medical opinion, that you're making a big mistake. And it's going in my chart.
+Elaine is on the phone and the radio plays music very loud (Iron Butterfly: In-A-Gadda-Da-Vida)|ELAINE|Yeah, hello is this Allied Lock Smith?! Oh, finally, listen I need someone to come over here right away!
+Elaine is on the phone and the radio plays music very loud (Iron Butterfly: In-A-Gadda-Da-Vida)|NEIGHBOR|Turn it off! Turn it off!
+Elaine is on the phone and the radio plays music very loud (Iron Butterfly: In-A-Gadda-Da-Vida)|ELAINE|I am getting a lock smith, alright?! Relax!
+Elaine is on the phone and the radio plays music very loud (Iron Butterfly: In-A-Gadda-Da-Vida)|NEIGHBOR|Alright, that's it!
+Elaine is on the phone and the radio plays music very loud (Iron Butterfly: In-A-Gadda-Da-Vida)|ELAINE|Yeah, the address is 78th West...
+Elaine is on the phone and the radio plays music very loud (Iron Butterfly: In-A-Gadda-Da-Vida)|action|Electric buzz and lights go off and music stops.
+Elaine is on the phone and the radio plays music very loud (Iron Butterfly: In-A-Gadda-Da-Vida)|NEIGHBOR|Oh, oh mama...
+5A. Jerry and George|JERRY|So, Kramer pulled it off?
+5A. Jerry and George|GEORGE|Yep, and the photo was all fixed and back on his desk, no thanks to you.
+5A. Jerry and George|JERRY|Well, that woman had it coming to her. Look at my neck, it looks like I had a beard of bees!
+5A. Jerry and George|GEORGE|Why don't you see someone about it?
+5A. Jerry and George|JERRY|I've called everyone. You know how hard it is to get a dermatologist in this town? (Kramer comes in) A real dermatologist.
+5A. Jerry and George|KRAMER|(Points to a page on the book) Squamous cell carcinoma.
+5A. Jerry and George|GEORGE|You're not a doctor. You shouldn't even have books like this.
+5A. Jerry and George|KRAMER|George, that's what he has and I have to give him a call. Now we gotta came clean.
+5A. Jerry and George|GEORGE|You can't tell him the truth, you're gonna blow the whole thing.
+5A. Jerry and George|KRAMER|I don't want this on my conscience.
+5A. Jerry and George|GEORGE|I'll get him to see a real doctor. You just stay away from this.
+5A. Jerry and George|KRAMER|Yeah, alright...
+5A. Jerry and George|JERRY|Hey, I wonder if they have a picture of my rash in here.
+5A. Jerry and George|KRAMER|They've got everything there, Jerry. I underlined the best parts.
+5A. Jerry and George|JERRY|Hey, this looks like the thing I have. Caused by exposure to benzene, a common ingredient in metal cleaners.
+5A. Jerry and George|action|Kramer cleans the blade with some liquid and a towel.
+5A. Jerry and George|KRAMER|Well, that's weird.
+5A. Jerry and George|JERRY|What are you doing?
+5A. Jerry and George|KRAMER|Well, I'm cleaning my slicer.
+5A. Jerry and George|JERRY|That's my hand towel! I use that on my face, hands and chest! That's where the hives are coming from! It's not from Dr. Sitarides, it's from Dr. Van Nostrand!
+5A. Jerry and George|KRAMER|So, somehow the Bronzo (?) is reacting to the poison she's giving you.
+5A. Jerry and George|JERRY|Alright, get out. And take your Bronzo with you (throws the bottle to Kramer.)
+5A. Jerry and George|KRAMER|Ohh, that's toxic. (Jerry throws the towel over Kramer's head.) Ououou....
+Kruger's office|KRUGER|George, come in. I'm just going over our annual report...boy did we take it on the chin last year.
+Kruger's office|GEORGE|Eh, listen Mr. Kruger, I got a message from Dr. Van Nostrand and he says it might be wise to you to see another doctor about that mole.
+Kruger's office|KRUGER|I'm not too worried about it.
+Kruger's office|GEORGE|Well, he said it could be cancer, maybe you should get it checked out.
+Kruger's office|KRUGER|George, take a look at this photo. This is taken 10 years ago. That mole looks exactly as it does today. So, there's no cause for concern, eh?
+Kruger's office|GEORGE|Whatever.
+Kruger's office|KRUGER|Actually, funny thing about this photo. We were at the beach and there was this dumb looking guy near by. When he went in for a swim, my sons and I took all his stuff and threw it in the ocean! What a pear shaped loser.
+Kruger's office|GEORGE|Well, that pear shaped loser was me! And I was in that photo, until I broke in here, stole the photograph and airbrushed myself out of there!
+Kruger's office|KRUGER|Well, I'll be...you have lost a lot of hair.
+Kruger's office|GEORGE|That's what they tell me!
+Kruger's office|KRAMER|Do you want more pastrami?
+Kruger's office|ELAINE|Um, what was that last thing you gave me? That was pretty good.
+Kruger's office|KRAMER|Yeah, it was olive loaf. You want that?
+Kruger's office|JERRY|I can't believe Kruger didn't fire you after all you did.
+Kruger's office|GEORGE|He said he didn't care. Oh, God I love that place. Hey, have you seen other dermatologist?
+Kruger's office|JERRY|Yeah, I finally got to see Dr. Kazarian. He said it was really bad.
+Kruger's office|GEORGE|What did he give you for it.
+Kruger's office|JERRY|Aloe. So where's that lock smith?
+Kruger's office|GEORGE|Have to give him time on this hour.
+Kruger's office|ELAINE|Can I have a zip? (Sticks a straw out from keyhole.)
+Kruger's office|KRAMER|Oh yeah, coming up...

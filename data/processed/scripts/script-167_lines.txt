@@ -1,0 +1,388 @@
+Setting: A car dealership|action|Jerry and George are looking over some cars
+Setting: A car dealership|GEORGE|When are they gonna have the flying cars, already?
+Setting: A car dealership|JERRY|Yeah, they have been promising that for a while..
+Setting: A car dealership|GEORGE|Years. When we were kids, they made it seem like it was right around the corner.
+Setting: A car dealership|JERRY|I think Ed Begley Jr. has one.
+Setting: A car dealership|GEORGE|No. That's just electric.
+Setting: A car dealership|JERRY|What about Harrison Ford? He had one in, uh, Blade Runner. That was a cool one.
+Setting: A car dealership|GEORGE|(Sarcastically) What's the competition, Chitty Chitty Bang Bang?
+Setting: A car dealership|JERRY|Well, what do you think the big holdup is?
+Setting: A car dealership|GEORGE|The government is very touchy about us being in the air. Let us run around on the ground as much as we want. Anything in the air is a big production.
+Setting: A car dealership|JERRY|Yeah, right. And what about the floating cities?
+Setting: A car dealership|GEORGE|And the underwater bubble cities?
+Setting: A car dealership|JERRY|It's like we're living in the '50s here.
+Setting: A car dealership|action|Kramer is bouncing up and down on the rear bumper of one of the cars for sale
+Setting: A car dealership|KRAMER|It's good suspension!
+Setting: A car dealership|JERRY|(To Kramer) Would you stop it? You'll have plenty of time to destroy it after I get it. Hey, George, I'm buyin' this car. (Gestures to a black Saab)
+Setting: A car dealership|GEORGE|Shhh… What is wrong with you? You never tell 'em you like the car. (Advising) You're not sure what you want. You don't even know why you're here.
+Setting: A car dealership|JERRY|(Gestures to his forehead) You’re getting that vein again.
+Setting: A car dealership|GEORGE|I'm starving. We should have had lunch first..
+Setting: A car dealership|JERRY|(Trying to quiet George down) It'll be twenty minutes. I told ya, Puddy's getting me an insider deal.
+Setting: A car dealership|GEORGE|Since when is Elaine's boyfriend selling cars? I thought he was a mechanic.
+Setting: A car dealership|JERRY|I guess he graduated.
+Setting: A car dealership|GEORGE|There's an easy move: go from screwin' you behind your back to screwin' you right to your face.
+Setting: A car dealership|action|Kramer, in one of the cars, honks the horn
+Setting: A car dealership|JERRY|(To Kramer) Thank you.
+Setting: A car dealership|GEORGE|Puddy’s just gonna give you the car, huh? (Skeptically) You’ll see. First they stick you with the undercoating, rust-proofing, dealer prep. Suddenly, you’re on your back like a turtle.
+Setting: A car dealership|JERRY|All right. Calm down.
+Setting: A car dealership|GEORGE|My father had a car salesman buddy. He was gonna fix him up real nice. Next thing I know, I’m gettin’ dropped of in a Le Car with a fabric sunroof. All the kids are shoutin’ at me, "Hey, Le George! Bonjour, Le George! Let’s stuff Le George in Le Locker!"
+Setting: A car dealership|action|Kramer is now on his back, under a car
+Setting: A car dealership|KRAMER|Jerry, I don’t think this thing is hooked up right.
+Setting: A car dealership|action|Jerry and George go to enter the office buildings
+Setting: A car dealership|JERRY|(To Kramer) All right, we’re goin’ in.
+Setting: A car dealership|action|A salesman walks up to Kramer. He’s still under the car
+Setting: A car dealership|SALESMAN|You’ve got a good eye, there. I see you’ve noticed the uni-body construction. I’m Rick. Are you looking to buy or to lease?
+Setting: A car dealership|action|Kramer emerges from under the car
+Setting: A car dealership|KRAMER|Uh, borrow. It’s for my friend. Yeah, he’ll be buying..
+Setting: A car dealership|RICK|Maybe I should talk to him.
+Setting: A car dealership|KRAMER|Oh, I don’t think so. No, he’s an entertainer. You know, all over the place. That’s where I come in.
+Setting: A car dealership|RICK|I see. So, you’re his manag-
+Setting: A car dealership|action|Kramer hops into the car
+Setting: A car dealership|KRAMER|Yeah, neighbor. That’s right. Yeah, why don’t we take this boiler out for a shakedown huh?
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|GEORGE|Look at these salesmen. The only thing these guys fear is the walk-out. No matter what they say, you say, "I’ll walk out of here right now!"
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|action|A salesman approaches
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|SALESMAN|Can I help you with something?
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|GEORGE|(Threatening) Hold it! One more step and we’re walkin’!
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|JERRY|(Scolding) George. (To salesman) Sorry, we’re just waiting for David Puddy.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|GEORGE|(Still with a tone) He is. You don’t know what I’m doin’ here.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|action|Elaine walks into the showroom with David Puddy
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|ELAINE|Hey.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|JERRY|Hey.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|PUDDY|Sorry I’m late.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|ELAINE|(Full of pride) My new salesman boyfriend took me out to celebrate his promotion.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|JERRY|Ah. Where’d you go?
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|ELAINE|(Obviously embarrassed) Uh, to a restaurant.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|PUDDY|Arby’s.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|ELAINE|I had the roast beef…
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|JERRY|So, Puddy, I decided I’m gonna go with another 900 convertible.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|PUDDY|All right. Classic. (Holds his hand up) High-five.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|ELAINE|(Interrupting) David, can you tell me where the Xerox machine is?
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|PUDDY|Oh, sure, babe. Salesman-only copy room (Points) right there.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|ELAINE|Oh. (Leaves for the room)
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|PUDDY|(To Jerry and George) Hey, come on, guys. I’ll show you the 900.
+Scene cuts to the insides of the dealership building. Jerry and George are waiting for a salesman to assist them|GEORGE|(Mocking, skeptic) Yeah, you show us the 900.
+Scene cuts to Kramer. He’s in the car with the salesman, Rick, and they’re driving an unknown street|RICK|… And look at these features, Mr. Kramer: Anti-lock brakes, automatic climate control. Uh, (Points out the windshield) make a right at this corner, please. (Goes back to the features) An adjustable steering wheel, and… Oh, Mr. Kramer, you missed the turn..
+Scene cuts to Kramer. He’s in the car with the salesman, Rick, and they’re driving an unknown street|KRAMER|No, no, no, I didn’t.
+Scene cuts to Kramer. He’s in the car with the salesman, Rick, and they’re driving an unknown street|RICK|Well, that’s okay. (Pointing) We’ll make this next right, and swing around to get back to the dealership.
+Scene cuts to Kramer. He’s in the car with the salesman, Rick, and they’re driving an unknown street|KRAMER|(Up to something) Well, it’s a test drive, right? I never drive around here. If I’m gonna recommend this car, I need to see that it’ll handle my daily routine.
+Scene cuts to Kramer. He’s in the car with the salesman, Rick, and they’re driving an unknown street|RICK|Well where are we going?
+Scene cuts to Kramer. He’s in the car with the salesman, Rick, and they’re driving an unknown street|KRAMER|Just a little place I like to call, "You’ll see".
+Setting: Puddy’s office|action|George and Jerry are in conference with Puddy
+Setting: Puddy’s office|GEORGE|I’m starving. You got any of those free donuts you use to soften people up?
+Setting: Puddy’s office|PUDDY|(Pointing out his office door) By the service department.
+Setting: Puddy’s office|GEORGE|(Getting up, he addresses Jerry) All right, remember: no rust-proofing. Commit to nothing. If you have to speak - mumble.
+Setting: Puddy’s office|JERRY|(As George is leaving for the donuts) Au revoir, Le George.
+Setting: Puddy’s office|GEORGE|Don’t think it can’t happen! (Leaves)
+Setting: Puddy’s office|JERRY|So, Puddy, this is a pretty good move for you, huh? No more "grease monkey".
+Setting: Puddy’s office|PUDDY|I don’t care for that term.
+Setting: Puddy’s office|JERRY|Oh. Sorry, I didn’t know..
+Setting: Puddy’s office|PUDDY|No, I don’t know too many monkeys who could take apart a fuel injector.
+Setting: Puddy’s office|JERRY|I saw one once that could do sign language.
+Setting: Puddy’s office|PUDDY|Yeah, I saw that one. Uh.. Koko.
+Setting: Puddy’s office|JERRY|Yeah, Koko.
+Setting: Puddy’s office|PUDDY|Right, Koko. That chimp’s all right. (Holds up his hand) High-five.
+Setting: Puddy’s office|action|Returning, George sees Jerry reluctantly slap hands with Puddy
+Setting: Puddy’s office|GEORGE|Hey, hey, hey! What’s goin’ on here? (To Jerry) You didn’t agree to anything, did ya?
+Setting: Puddy’s office|JERRY|No. We both just saw the same monkey.
+Setting: Puddy’s office|GEORGE|(Aggravated) Well, I got screwed on the donuts. There were none left. Heh!
+Setting: Puddy’s office|PUDDY|(Standing up) Well, there’s a vending machine. I could show you where it is. (Leaves, showing George the way)
+Setting: Puddy’s office|GEORGE|(To Jerry) Hey, gimme a dollar.
+Setting: Puddy’s office|JERRY|(Getting a dollar out) Where’s your money?
+Setting: Puddy’s office|GEORGE|(Talking it) I’m here helpin’ you.
+Setting: Puddy’s office|action|Elaine enters
+Setting: Puddy’s office|ELAINE|Hey. Where’s Puddy? The copy machine is broken.
+Setting: Puddy’s office|GEORGE|(On his way out) Heh, heh, heh. That’s what they want you to think.
+Setting: Puddy’s office|JERRY|Hey, Elaine, have you noticed your boyfriend has developed an annoying little habit?
+Setting: Puddy’s office|ELAINE|(Squints, imitating Puddy) The squinting?
+Setting: Puddy’s office|JERRY|No.
+Setting: Puddy’s office|ELAINE|(Stares ahead, again, imitating Puddy) The staring?
+Setting: Puddy’s office|JERRY|No. He keeps asking me to give him a high-five.
+Setting: Puddy’s office|ELAINE|(Shrugging) I thought all guys do that.
+Setting: Puddy’s office|JERRY|Slapping hands is the lowest form of male primate ritual. In fact, even some of them have moved on - they’re doing sign language now.
+Setting: Puddy’s office|ELAINE|It’s that bad?
+Setting: Puddy’s office|JERRY|What do you think the Nazis were doin’? (Imitates the Nazi’s salute) That was the heil-five.
+Setting: Puddy’s office|ELAINE|(Pointing out) Isn’t that from your act, like, ten years ago?
+Setting: Puddy’s office|JERRY|(Slightly embarrassed) It was a good bit in the ‘80’s, and it’s still relatable today.
+Setting: Puddy’s office|action|Puddy approaches them
+Setting: Puddy’s office|PUDDY|Good news. We got a 900 in black. That’s the hot color. (Holds up his hand) High-five.
+Setting: Puddy’s office|action|Elaine and Jerry exchange looks
+Setting: Puddy’s office|ELAINE|Um, David, you know what? Can you come help me fix the copy machine? Come.
+Setting: Puddy’s office|action|Elaine takes Puddy’s arm, leading him to the room
+Setting: Puddy’s office|PUDDY|(Pointing at Jerry) You owe me five.
+Setting: Dealership back room|action|George is eyeing a Twix candy bar through the vending machine glass
+Setting: Dealership back room|GEORGE|Twix.. (Makes various noises) B-5.
+Setting: Dealership back room|action|George put in his dollar, but the machine rejects it. He tries to jam it in, same result. He tries one more time - unsuccessful
+Setting: Dealership back room|GEORGE|Ah, come on!
+Setting: Dealership back room|action|A heavy-set mechanic approaches and stands in line behind George to use the vending machine. George steps back to let him use it. The machine readily accepts the mechanic’s dollar
+Setting: Dealership back room|GEORGE|Ah, excuse me. Do you have, uh, change of a dollar?
+Setting: Dealership back room|MECHANIC|(While retrieving his candy) No.
+Setting: Dealership back room|GEORGE|Could I, uh, could I trade you for another dollar?
+Setting: Dealership back room|MECHANIC|(While walking away) Don’t have one.
+Setting: Dealership back room|GEORGE|(Stopping him) Ah, excuse me. When your, uh, when your wallet was open, I - I glanced inside, and I couldn’t help but notice that you have several crisp dollar bills.
+Setting: Dealership back room|MECHANIC|(Calm) You’re incorrect.
+Setting: Dealership back room|GEORGE|(Persistent) Perhaps you could look again, please? I’m very hungry.
+Setting: Dealership back room|MECHANIC|(While taking his exit) We had donuts earlier.
+Setting: Dealership back room|GEORGE|(Losing it) I guess everyone here enjoys giving the old screwgie, huh?! You’re all doin’ a hell of a job! (Looks longingly at the Twix in the machine) Ho, ho. What I would do with you..
+Setting: Dealership car|action|Rick and Kramer are still on the test-drive. The back seat is filled with various items - those including a giant, stuffed Tweety bird
+Setting: Dealership car|RICK|Uh, Mr. Kramer, we’re really not allowed to use the cars to run errands.
+Setting: Dealership car|KRAMER|Now look, Rick. I’m very close to giving this car, that my celebrity friend is considering, my full endorsement. (Looks out the window) Oooh, Let’s see if I can get a smile from these femininas.. (Yells out to them) Hey, Ladies! (Points to the car) It’s the Saab 900! What do you think? Can I interest you in a little supplemental restraint?! (They obviously do something to offend him. Kramer reacts with a face) Geez…
+Setting: Dealership back room|action|Jerry walks up to the vending machine. George is on his stomach, reaching under the vending machine for change
+Setting: Dealership back room|JERRY|(Tapping the door you lift to retrieve your candy on the machine) I think the candy comes out over there.
+Setting: Dealership back room|GEORGE|People can drop change down here, Jerry. And they’re too lazy to pick it up.
+Setting: Dealership back room|JERRY|Either that, or they’ve got a weird little hang-up about lying face-down in filth. Why don’t you just go to the cashier?
+Setting: Dealership back room|action|George gets up
+Setting: Dealership back room|GEORGE|The cashier is at lunch - which is where I’d like to be.
+Setting: Dealership back room|JERRY|How much was under there?
+Setting: Dealership back room|GEORGE|(Looking at his finger) I think somethin’ bit me. I just need another nickel.
+Setting: Dealership back room|JERRY|(While fishing through his pocket for change) Hey, Puddy thinks I should go for the CD player. What do you think? (Hands him a nickel)
+Setting: Dealership back room|GEORGE|Ho, ho, ho! He’s got a live one. He’s just reeling his big fish in!
+Setting: Dealership back room|JERRY|Hey, can I have my dollar back?
+Setting: Dealership back room|GEORGE|(Stingy) It’s wrinkled. It’s worthless.
+Setting: Dealership back room|action|Jerry gives George a look, then leaves. George hurriedly puts the money into the machine
+Setting: Dealership back room|GEORGE|(As the Twix starts to move) Ha, ha, ha, ha! (The Twix gets stuck in the spindle right before falling. George begins to pound the machine) Come on! Jump!
+Setting: Dealership back room|action|A man holding a donut walks past George
+Setting: Dealership back room|MAN|They just put out some more donuts.
+Setting: Dealership back room|GEORGE|They did?
+Setting: Dealership back room|MAN|(Holding his up) Last one.
+Setting: Dealership car|action|Kramer’s still on the road with Rick
+Setting: Dealership car|KRAMER|Well, just one more errand and we can head back.
+Setting: Dealership car|RICK|Actually, it looks like we’re gonna need some gas.
+Setting: Dealership car|KRAMER|Oh? Well, how much gas do you think is in there right now?
+Setting: Dealership car|RICK|(Looking) Well, it’s on "E".
+Setting: Dealership car|KRAMER|You know, Rick, oftentimes, Jerry - he lends me his car and I find myself in a situation where the car is almost out of gas. But, for a variety of reasons, I don’t want to be the one responsible for purchasing costly gasoline.
+Setting: Dealership car|RICK|(Pointing out) So, you want to know how far you can drive your friend’s car for free.
+Setting: Dealership car|KRAMER|(In the spotlight, his voice goes high) Well, I make it up to him in other ways.
+Setting: Dealership back room|action|George enters with a salesman, regarding the machine
+Setting: Dealership back room|GEORGE|As you will see, the candy bar is paid for, and yet, remains dangling in the machine. (Notices that the Twix slot is completely empty) Hey, it’s gone. Where is my Twix? (Quickly looks around. His sights fall on the window of a door labeled "Employees Only". The same mechanic from before is eating a candy bar) What?! That guy’s eatin’ it!
+Setting: Dealership back room|SALESMAN|Well, how do you know that one’s yours?
+Setting: Dealership back room|GEORGE|Uh, it was dangling! There were only two left in the machine! He must’ve bought one, and gotten both.
+Setting: Dealership back room|SALESMAN|Sir, are you gonna buy a car?
+Setting: Dealership back room|GEORGE|No! (The salesman walks away. He addresses the mechanic through the door’s window) Hey! Hey! I see you! That is my Twix! (The mechanic eats the last of the Twix, obviously to make George even more angered. It works) Oh, ha, ha! Ho, ho!
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|Paper jam.. Got it!
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|ELAINE|Yay!
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|(Holds his hand up) High-five. (Elaine reluctantly slaps it. He turns around, and puts his hand out behind his back) On the flip side.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|ELAINE|David, um, I..
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|(Still holding out his hand) Don’t leave me hangin’.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|ELAINE|You’re a salesman now - and the high-five is… it’s very “grease monkey.”
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|What did I tell you about that?
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|ELAINE|Ah, I, I’m sorry, but the high-five is just so stupid.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|(Somewhat hurt) Oh yeah? I’ll tell you what’s stupid. You. Stupid.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|ELAINE|(Sarcastically) Oh, that is really mature.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|Yeah? So are you. You’re the grease monkey.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|ELAINE|(Confused at David’s attempts at a comeback) Uh… that doesn’t make any sense. I am leaving.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|Yeah, if you leave, we’re through.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|ELAINE|Fine! We’re through!
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|Oh, so you’re leaving?
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|ELAINE|(While leaving) That’s right. (Mocking Puddy, she puts her hand up) High-five! (Turns around, putting her hand behind her back like he had done) On the flip side! (As Elaine is leaving, she mutters to herself) Takin’ me to Arby’s…
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|JERRY|(Sees Elaine leaving) Hey! Wh-where are you…?
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|action|She exits. Puddy sits down at his desk - disturbed
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|Let’s finish this up.
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|JERRY|Did you two break up?
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|(While punching up numbers on a calculator) That chick’s whacked. We’re history. (Back to the transaction) I just left out a couple of things: uh, rust-proofing…
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|JERRY|"Rust-proofing"?
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|(Reading off what he’s adding up on the calculator) Transport charge, storage surcharge, additional overcharge, finder’s fee…
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|JERRY|"Finder’s fee"? It was on the lot!
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|Yeah, that’s right. (Continues reading off) Uh, floor mats, keys…
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|JERRY|“Keys”?!
+Scene cuts to Puddy in the copy room with Elaine. He’s trying to fix the Xerox machine|PUDDY|How ya gonna start it?
+Setting: Dealership’s shop|action|George catches up with the portly mechanic
+Setting: Dealership’s shop|GEORGE|Excuse me. I believe you just ate my Twix bar. It was dangling. And when you purchased your Twix bar, you got a little freebie, and you never bothered to ask why, or seek out its rightful owner.
+Setting: Dealership’s shop|MECHANIC|First of all, it wasn’t a Twix. It was a 5th Avenue bar.
+Setting: Dealership’s shop|GEORGE|Huh. You must think I’m pretty stupid. (The mechanic shoots him a look as if he cleary does think he’s stupid) That was no 5th Avenue bar. I can see the crumb right there in the corner of your lip! Now, that-that-that is a cookie - and we all know that Twix is the only candy bar with the cookie crunch.
+Setting: Dealership’s shop|MECHANIC|It’s uh, it’s just a little nougat.
+Setting: Dealership’s shop|GEORGE|Nougat? Please. I think I’ve reached the point in my life where I can tell the difference between nougat and cookie. So let’s not just say things that we both know are obvious fabrications.
+Setting: Dealership’s shop|MECHANIC|(Pointing to George’s forehead) You know, you’re gettin’ a little vein there..
+Setting: Dealership’s shop|GEORGE|(Watching the mechanic leave) I know about the vein! I can’t believe this guy..
+Setting: Dealership’s shop|action|Jerry rushes in with a box of candy
+Setting: Dealership’s shop|JERRY|Hey, George!
+Setting: Dealership’s shop|GEORGE|Hey, starving! (Grabs the box from Jerry)
+Setting: Dealership’s shop|JERRY|No, last one. Listen, you gotta help me out. Elaine and Puddy just broke up, he’s treatin’ me just like a regular customer, now!
+Setting: Dealership’s shop|GEORGE|I tried to tell you, but you wouldn’t listen. No, ho, ho! You were gonna get a deal, huh? There’s no laws in this place. Anything goes! It’s Thunderdome!
+Setting: Dealership’s shop|action|A saleswoman approaches them
+Setting: Dealership’s shop|SALESWOMAN|Is someone helping you?
+Setting: Dealership’s shop|GEORGE|Stay back! (Runs out of the room, pushing Jerry out ahead of him)
+Setting: Dealership car|RICK|(Trying to look at the gas gauge) Where is it now?
+Setting: Dealership car|KRAMER|There’s still some overlap between the needle and the slash below the "E".
+Setting: Dealership car|RICK|How low are you gonna go?
+Setting: Dealership car|KRAMER|Oh, I’ve been in the slash many times. This is nothing. You’ll get used to it. Just, (Makes a popping sound) put it out of your mind.
+Setting: Dealership car|RICK|Have you ever been completely below the slash?
+Setting: Dealership car|KRAMER|Well, I almost did once, and I blacked out. When I came to, the car was in a ditch, and the tank was full. I don’t know who did it, and I never got to thank them..
+Setting: Dealership car|RICK|(As the car slowly drifts off the road) Mr. Kramer, the road!
+Setting: Dealership car|action|Kramer swerves around, trying to get back in place
+Setting: Dealership car|KRAMER|Whoop! Whoop!
+Setting: Puddy’s office|action|Jerry and George are in conference
+Setting: Puddy’s office|JERRY|(Threatening tone) So, listen, Puddy. When we first started this deal, I thought things were gonna be different. Now, if you want to play hard ball, I got my friend, George, here, and he can play pretty hard… ball. (Leaving the negotiation to George) George, vein it up.
+Setting: Puddy’s office|GEORGE|All right, Puddy, listen, and listen good: I need to know the name of that mechanic that walks around here. Big guy, a liar. Short name. Sam? Moe? Sol?!
+Setting: Puddy’s office|JERRY|George! Can we focus on the car, here?
+Setting: Puddy’s office|GEORGE|I’m starving! I can feel my stomach sucking up against my spine.
+Setting: Puddy’s office|PUDDY|(Handing a sheet of paper to Jerry) Jerry, I just need your signature here, and we’ll get you that yellow car ready to go.
+Setting: Puddy’s office|JERRY|Yellow? I wanted black.
+Setting: Puddy’s office|PUDDY|I can’t give you black at that price.
+Setting: Puddy’s office|JERRY|(Pleading) George, would you help me, please?
+Setting: Puddy’s office|GEORGE|(Standing up) Yes. This is wrong!
+Setting: Puddy’s office|JERRY|Sing it, sister!
+Setting: Puddy’s office|GEORGE|Just because a candy bar fails to fall from its perch…
+Setting: Puddy’s office|JERRY|(Exasperated) Oh, God…
+Setting: Puddy’s office|GEORGE|(Losing it) …does not imply transfer of ownership. Moe, Sol, or… Lem is not gonna get away with this!
+Setting: Puddy’s office|action|Jerry follows George out the office
+Setting: Puddy’s office|JERRY|(To Puddy) I’ll be right back.
+Setting: Puddy’s office|PUDDY|Okay.
+Setting: Puddy’s office|action|Jerry catches up with George
+Setting: Puddy’s office|JERRY|Hey, George!
+Setting: Dealership car|action|The needle is now below "E". Rick is looking at it
+Setting: Dealership car|RICK|Is it just the angle I’m looking from?
+Setting: Dealership car|KRAMER|No, Sir. We are down there.
+Setting: Dealership car|RICK|Oh, this is amazing! Oh, I’ve never felt so alive!
+Setting: Dealership car|KRAMER|All right, I’m satisfied. We better get some gas.
+Setting: Dealership car|RICK|What? Well, we can’t stop now.
+Setting: Dealership car|KRAMER|What do you mean?
+Setting: Dealership car|RICK|We have to keep going - all the way back to the dealership. That was the plan.
+Setting: Dealership car|KRAMER|There was no plan.
+Setting: Dealership car|RICK|Well, let’s make it the plan! Let’s just… go for it! Like Thelma and Louise.
+Setting: Dealership car|KRAMER|What, they drove to a dealership?
+Setting: Dealership car|RICK|No, they drove off a cliff.
+Setting: Dealership car|action|Kramer eyes Rick, frightened
+Setting: Dealership car|KRAMER|You are one sick mama… I like it.
+Setting: Dealership car|RICK|Mr. Kramer, the road!
+Setting: Dealership car|action|Kramer swerves around again
+Setting: Dealership car|KRAMER|Yup! Yup!
+Setting: Elaine’s apartment|action|Phone rings, she answers it
+Setting: Elaine’s apartment|ELAINE|Hello?
+Setting: Elaine’s apartment|JERRY|(Over the phone) Elaine, you’ve got to get back down to the dealer. Puddy is screwin’ me on this car, which is yellow now!
+Setting: Elaine’s apartment|ELAINE|(Jokingly mimicking Jerry) Who is this?
+Setting: Elaine’s apartment|JERRY|(Banging the phone against the booth) Elaine!
+Setting: Elaine’s apartment|action|Elaine flinches with every loud banging noise
+Setting: Elaine’s apartment|ELAINE|What?!
+Setting: Elaine’s apartment|JERRY|You gotta get back together with Puddy so I can make this deal.
+Setting: Elaine’s apartment|ELAINE|(Sarcastically) You know, just that you cared enough to call means so much, Jerry.
+Setting: Elaine’s apartment|JERRY|You’re gonna get back together, anyway. It’s thousands of dollars!
+Setting: Elaine’s apartment|ELAINE|Oh, I don’t know..
+Setting: Elaine’s apartment|JERRY|Come on. Then you don’t have to see him again ‘til my 15,000-mile check.
+Setting: Elaine’s apartment|ELAINE|Well, will you pay my cab fare out there?
+Setting: Elaine’s apartment|JERRY|Fine.
+Setting: Elaine’s apartment|ELAINE|And I didn’t like that roast beef, so how ‘bout some lunch?
+Setting: Elaine’s apartment|JERRY|No. No lunch.
+Setting: Elaine’s apartment|ELAINE|I’ll hang this phone up right now!
+Setting: Elaine’s apartment|JERRY|All right! Lunch!
+Setting: Elaine’s apartment|ELAINE|I’ll see ya. (Hanging up the phone)
+Setting: Elaine’s apartment|JERRY|Bye. (Hangs up)
+Setting: Elaine’s apartment|JERRY|(Frustrated, he reacts) Everybody’s ripping me off!
+Scene cuts to George at the customer complaint window|GEORGE|Yes, I’d like to report a problem with one of your mechanics.
+Scene cuts to George at the customer complaint window|WILLIE|When did you bring the car in?
+Scene cuts to George at the customer complaint window|GEORGE|(To the man behind him in line) Yeah, right… I’m gonna get my car repaired at a dealership. Huh! Why don’t I just flush my money down the toilet?
+Scene cuts to George at the customer complaint window|WILLIE|Sir, what, exactly, is the problem?
+Scene cuts to George at the customer complaint window|GEORGE|One of your guys - Kip, or Ned, short name - stole my Twix candy bar!
+Scene cuts to George at the customer complaint window|WILLIE|Are you saying he grabbed your candy bar away from you?
+Scene cuts to George at the customer complaint window|GEORGE|He might as well have! I caught him, and his face was covered in chocolate and cookie crumbs.
+Scene cuts to George at the customer complaint window|WILLIE|I thought you said it was a Twix.
+Scene cuts to George at the customer complaint window|GEORGE|Oh, it was. But he claimed it was a 5th Avenue bar.
+Scene cuts to George at the customer complaint window|WILLIE|Maybe it was.
+Scene cuts to George at the customer complaint window|GEORGE|Oh, no, no. Twix is the only candy with the cookie crunch.
+Scene cuts to George at the customer complaint window|WILLIE|What about the Hundred-Thousand-Dollar bar?
+Scene cuts to George at the customer complaint window|GEORGE|No. Rice and caramel.
+Scene cuts to George at the customer complaint window|WILLIE|Nougat?
+Scene cuts to George at the customer complaint window|GEORGE|No.
+Scene cuts to George at the customer complaint window|WILLIE|Positive?
+Scene cuts to George at the customer complaint window|GEORGE|Please.
+Scene cuts to George at the customer complaint window|action|A woman appears from behind the window
+Scene cuts to George at the customer complaint window|WOMAN|You know they changed the name from Hundred-Thousand-Dollar bar to Hundred-Grand?
+Scene cuts to George at the customer complaint window|GEORGE|All I want is my seventy-five cents back, an apology, and for him to be fired!
+Scene cuts to George at the customer complaint window|action|An old man sitting in a nearby chair speaks up. He’s Willie’s father
+Scene cuts to George at the customer complaint window|action|The man behind George speaks up
+Scene cuts to George at the customer complaint window|MAN|What’s the one with the swirling chocolate in the commercial?
+Scene cuts to George at the customer complaint window|GEORGE|They all have swirling chocolate in the commercial!
+Scene cuts to George at the customer complaint window|WILLIE|Dad, I told you you could sit here only if you don’t talk.
+Scene cuts to George at the customer complaint window|WOMAN|(Sitting behind George) You make your father sit here all day?
+Scene cuts to George at the customer complaint window|WILLIE|He likes it!
+Scene cuts to George at the customer complaint window|GEORGE|All right, do you mind? I have the window! (To Willie) Now, what are you gonna do about my Twix?
+Scene cuts to George at the customer complaint window|MAN|(In line behind George) Twix has too much coconut.
+Scene cuts to George at the customer complaint window|GEORGE|No! There’s no coconut!
+Scene cuts to George at the customer complaint window|WOMAN|(Behind service window) I’m allergic to coconut.
+Scene cuts to George at the customer complaint window|WILLIE|I’m not.
+Setting: Dealership office showroom|action|Elaine enters, and hands Jerry the receipt for her cab
+Setting: Dealership office showroom|ELAINE|Cab receipt. Hey, Puddy.
+Setting: Dealership office showroom|PUDDY|I’m with a customer.
+Setting: Dealership office showroom|action|Elaine throws up her hands, giving a face of disgust, and starts to walk away
+Setting: Dealership office showroom|ELAINE|Uh…
+Setting: Dealership office showroom|JERRY|No, no. No, Elaine, the car can wait. What’s important is you two getting back together. Eh, then we’ll talk about the car.
+Setting: Dealership office showroom|PUDDY|(Like a kid) I don’t want to get back with her. She’s too bossy.
+Setting: Dealership office showroom|ELAINE|(Raising her finger at him, in an authoritative tone) David..
+Setting: Dealership office showroom|JERRY|Okay. Now, I know this is an important decision. Why don’t we all just sit down and talk about it? Come on, come on. (All three sit down) Now, look, you both find each other attractive, right?
+Setting: Dealership office showroom|JERRY|Clearly, no one else can stand to be with either one of you.
+Setting: Dealership office showroom|ELAINE|I guess.
+Setting: Dealership office showroom|PUDDY|Good point.
+Setting: Dealership office showroom|JERRY|(Smiling, like a salesman) All right. Now, what do I have to do to put you two in a relationship today?
+Setting: Gas station|action|Kramer pulls the car into a gas station and gets out
+Setting: Gas station|KRAMER|Cars can go on empty, but not us humans, huh, fella? I’ll get us a couple of Twix bars.
+Setting: Gas station|RICK|No, no coconut for me.
+Setting: Gas station|KRAMER|All right, I’ll get ya a Mounds bar. Keep the engine running.
+Setting: Gas station|action|Rick sits back in the car a second, then hurriedly jumps out and reaches for the gas pump. Kramer pops up from behind the pump and scares him
+Setting: Gas station|RICK|Ahh!
+Setting: Gas station|KRAMER|No, man! Not the gas!
+Setting: Gas station|RICK|But it needs it, Kramer! It needs it bad!
+Setting: Gas station|KRAMER|Do you think that this’ll make you happy? ‘Cause it won’t!
+Setting: Gas station|RICK|(Walking away) Ah, you can just go on without me.
+Setting: Gas station|action|Kramer grabs him by the collar
+Setting: Gas station|KRAMER|Listen to me. When that car rolls into that dealership, and that tank is bone dry, I want you to be there with me when everyone says, "Kramer and that other guy, oh, they went further to the left of the slash than anyone ever dreamed!"
+Setting: Gas station|action|The car makes puttering noises
+Setting: Gas station|RICK|Maybe we better get moving.
+Setting: Gas station|KRAMER|It’s good to have you back, Stan.
+Setting: Gas station|action|Both hop into the car
+Setting: Gas station|RICK|It’s Rick, by the way.
+Setting: Gas station|KRAMER|No time!
+Setting: Dealership’s customer service room|WILLIE|Mr. Costanza, I really don’t have time for this.
+Setting: Dealership’s customer service room|GEORGE|Now, if this mechanic guy, was, in fact, eating a 5th Avenue bar, as he claims, wouldn’t you agree he would have no problem picking one out from a candy line-up?
+Setting: Dealership’s customer service room|WILLIE|"Candy line-up"?
+Setting: Dealership’s customer service room|GEORGE|I’ve spent the last hour preparing ten candy bars with no wrappers or identification of any kind for him to select from.
+Setting: Dealership’s customer service room|WILLIE|It took you an hour?
+Setting: Dealership’s customer service room|GEORGE|Only I hold the answer key to their true candy identities. And so, without further ado, I give you… the candy line-up. (Opens a door to a back room. Various dealership employees are munching on candy bars)
+Setting: Dealership’s customer service room|SALESWOMAN|Hey, Willie, check it out! Free candy!
+Setting: Dealership’s customer service room|GEORGE|That’s my candy line-up! Where are all my cards?! They’re - they’re all on the floor!
+Setting: Dealership’s customer service room|action|George starts picking up the numbered cards from off the floor. He sees the mechanic eating one of the candy bars
+Setting: Dealership’s customer service room|GEORGE|And you! How many Twix does that make for you, today?! Like, 8 Twix?!
+Setting: Dealership’s customer service room|MECHANIC|No.
+Setting: Dealership’s customer service room|MAN|Hey, this Clark bar is good.
+Setting: Dealership’s customer service room|GEORGE|It’s a Twix! They’re all Twix! It was a setup! A setup, I tell ya! And you’ve robbed it! You’ve all screwed me again! Now, gimme one! Gimme a Twix!
+Setting: Dealership’s customer service room|MECHANIC|They’re all gone.
+Setting: Dealership’s customer service room|GEORGE|(Yelling out, frustrated. The camera spins from a top angle) Twwwwiiiiiixxxxx!
+Scene cuts to Elaine, Puddy and Jerry, all in conference|ELAINE|What was that?
+Scene cuts to Elaine, Puddy and Jerry, all in conference|PUDDY|There’s a mental hospital right near here.
+Scene cuts to Elaine, Puddy and Jerry, all in conference|JERRY|All right. Elaine, David, I believe we have a deal here in principle: Arby’s no more than once a month. And in exchange, Elaine comes to your softball game, and doesn’t read a book.
+Scene cuts to Elaine, Puddy and Jerry, all in conference|ELAINE|(While looking over the contract Jerry just drew up) Yeah, well, that’s not bad.
+Scene cuts to Elaine, Puddy and Jerry, all in conference|PUDDY|I can live with that.
+Scene cuts to Elaine, Puddy and Jerry, all in conference|JERRY|So, you’re back together?
+Scene cuts to Elaine, Puddy and Jerry, all in conference|PUDDY|Yeah.
+Scene cuts to Elaine, Puddy and Jerry, all in conference|action|Jerry sees them stare at each other, smiling
+Scene cuts to Elaine, Puddy and Jerry, all in conference|JERRY|All right, all right. All right, that’s enough! Let’s get back to my deal. That undercoating, that’s a rip-off, isn’t it, David?
+Scene cuts to Elaine, Puddy and Jerry, all in conference|PUDDY|Oh, we don’t even know what it is.
+Scene cuts to Elaine, Puddy and Jerry, all in conference|JERRY|So, I’m gettin’ the insider’s deal?
+Scene cuts to Elaine, Puddy and Jerry, all in conference|PUDDY|Insider’s deal. (Holds up his hand) High-five.
+Scene cuts to Elaine, Puddy and Jerry, all in conference|action|Jerry gives a face of resentment
+Setting: Dealership car|action|Rick and Kramer are driving back to the dealership
+Setting: Dealership car|RICK|(Seeing the turn-off up ahead) There’s the dealer!
+Setting: Dealership car|KRAMER|Hey!
+Setting: Dealership car|RICK|We did! We pulled it off! I can’t believe it! Where’s the needle?
+Setting: Dealership car|KRAMER|Oh, it broke off, baby! Woo, hoo, hoo!
+Setting: Dealership car|RICK|Oh, Mr. Kramer, I gotta thank you. I - I learned a lot. Things are gonna be different for me now.
+Setting: Dealership car|KRAMER|Well, that’s a weird thing to say…
+Setting: Dealership car|RICK|I wonder how much longer we could have lasted.
+Setting: Dealership car|KRAMER|Yeah, yeah. I wonder… hmm.
+Setting: Dealership car|action|They both eye each other, then lock hands. Kramer slams on the gas, and they both cheer and scream as they drive on
+Setting: NYC Cab|action|Elaine, George, and Jerry are riding home in a cab
+Setting: NYC Cab|ELAINE|This is nice. What kind of car is this?
+Setting: NYC Cab|CABBIE|Caprice Classic.
+Setting: NYC Cab|ELAINE|(To Jerry) You couldn’t just give him one high-five?
+Setting: NYC Cab|JERRY|And where does it end? Then everyone’s doin’ it. It’s like the wave at ball games. Air quotes. The phrase, "Don’t go there." - Someone’s gotta take a stand!
+Setting: NYC Cab|GEORGE|(Munching on a hamburger) This Arby’s is good.
+Setting: NYC Cab|ELAINE|So, George, I still don’t understand - how was that a setup?
+Setting: NYC Cab|JERRY|And who were you tryin’ to set up, anyway? The mechanic or the manager?
+Setting: NYC Cab|GEORGE|I don’t know. All of ‘em. They’re all crooks! Besides, I couldn’t get all different candy bars, anyway.
+Setting: NYC Cab|action|Kramer and Rick speed by the cab in the Saab - both screaming and yelling
+Setting: NYC Cab|GEORGE|What was that?
+Setting: NYC Cab|JERRY|I think there’s a mental hospital near here.
+Setting: NYC Cab|ELAINE|Very near.
+Scene cuts to Kramer and Rick. Still yelling, they slowly come to a stop|KRAMER|Ya-hoo! Ya-hoo! (Rick is silent) Whew! Well, I think we stopped.
+Scene cuts to Kramer and Rick. Still yelling, they slowly come to a stop|RICK|You - you can probably let go of my hand now.
+Scene cuts to Kramer and Rick. Still yelling, they slowly come to a stop|KRAMER|Yeah, yeah. (Getting out of the car) Well, I’ll think about it..
+Scene cuts to Kramer and Rick. Still yelling, they slowly come to a stop|RICK|Do you have my card?
+Scene cuts to Kramer and Rick. Still yelling, they slowly come to a stop|action|After the Castle Rock Logo Willie Sr. voice is heard saying "A Nickel"

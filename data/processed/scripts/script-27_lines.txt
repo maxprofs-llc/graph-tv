@@ -1,0 +1,348 @@
+Jerry and George are in a drug store.|JERRY| How did you get fleas?
+Jerry and George are in a drug store.|GEORGE| Because my cousin's imbecile dog was rolling around outside and they got in his carpet.
+Jerry and George are in a drug store.|JERRY| Maybe you can get yourself a little bowtie flea collar.
+Jerry and George are in a drug store.|GEORGE| That's not funny.  So, are you coming to the party?
+Jerry and George are in a drug store.|JERRY| I'd go, but Long Island, it's so far out, it smacks of desperation.  The whole party, everyone's gonna be saying to me, "You came all the way out from Manhattan for this?"
+Jerry and George are in a drug store.|GEORGE| You know Ava's gonna be there.
+Jerry and George are in a drug store.|JERRY| Who?
+Jerry and George are in a drug store.|GEORGE| The nice one that works in my office.
+Jerry and George are in a drug store.|JERRY| Nah.
+Jerry and George are in a drug store.|GEORGE| I'll drive.
+Jerry and George are in a drug store.|JERRY| Oh, well, now you're talking.
+Jerry and George are in a drug store.|GEORGE| It's supposed to be a good party.
+Jerry and George are in a drug store.|JERRY| What does that mean, good dip?
+Jerry and George are in a drug store.|GEORGE| No, there'll be girls there.
+Jerry and George are in a drug store.|JERRY| There's girls everywhere.  I go out of my apartment, there's girls in the elevator.  They're in cafeterias, subways, so what?
+Jerry and George are in a drug store.|GEORGE| There's a hundred different things here.  What's the difference between these two?  (They each grab a box and check the ingredients)  You got propylparabin?
+Jerry and George are in a drug store.|JERRY| Got it.
+Jerry and George are in a drug store.|GEORGE| You got isobutane-30?
+Jerry and George are in a drug store.|JERRY| I got isobutane-20.
+Jerry and George are in a drug store.|GEORGE| A-ha.
+Jerry and George are in a drug store.|JERRY| You got  sorbitant sesquioliate?
+Jerry and George are in a drug store.|GEORGE| Got it.
+Jerry and George are in a drug store.|JERRY| I have aloe!
+Jerry and George are in a drug store.|GEORGE| You got aloe?  I love aloe.
+Jerry and George are in a drug store.|JERRY| Where do they make yours?
+Jerry and George are in a drug store.|GEORGE| Jersey.
+Jerry and George are in a drug store.|JERRY| White Plains.
+Jerry and George are in a drug store.|action|George puts down the "Jersey" box and grabs the "White Plains" box from Jerry and they go to the check out counter.  Two women are standing at the magazine rack in the background.
+Jerry and George are in a drug store.|JERRY| Girls.  There's girls right here in the store.  Look, look, there's one over there.  Look, there's another one.  Soon as I walk outside there'll be girls out there.  What's the matter?
+Jerry and George are in a drug store.|GEORGE| I gave her a twenty, she only gave me change for a ten.
+Jerry and George are in a drug store.|JERRY| Are you sure?  Oh boy, here we go.
+Jerry and George are in a drug store.|GEORGE|(to the cashier)  Excuse me, I gave you a twenty dollar bill and you only actually gave me change for a ten.
+Jerry and George are in a drug store.|CASHIER| You gave me a ten.
+Jerry and George are in a drug store.|GEORGE| I'm positive I gave you a twenty.
+Jerry and George are in a drug store.|CASHIER| I know what you gave me.
+Jerry and George are in a drug store.|GEORGE| You owe me ten dollars.
+Jerry and George are in a drug store.|CASHIER| Will you please step aside?  Next?
+Jerry and George are in a drug store.|GEORGE| Alright, let's just examine the situation for a second.  Who, in this situation, would be more likely to make a mistake?  Me, who had access to my wallet, knew exactly what was in there?  Or you--
+Jerry and George are in a drug store.|CASHIER| You.
+Jerry and George are in a drug store.|GEORGE| No, no, no, see you're not really listening.
+Jerry and George are in a drug store.|GEORGE| No problem.  There's no problem.  She just owes me ten dollars, that's all.
+Jerry and George are in a drug store.|CASHIER| He's claiming short.
+Jerry and George are in a drug store.|GEORGE| Oh, so you don't believe me either?
+Jerry and George are in a drug store.|GEORGE| You haven't won.  You may think you've won, but you haven't won.  Do you know why?  It's not over.  This is not over.  I'm not forgetting what's happening here.  You have my ten dollars.  I will get it back.  Alright, don't worry.  It's not over.  I'm going now.  Good bye.  I will be back.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Well don't stand here, let's walk in, blend in, blend in.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| No, let's survey first.  Camp here.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE|(waving:  Eva.
+George, Elaine and Jerry enter The Party and stand by the door|action|A beautiful woman starts walking over.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| What could possess anyone to throw a party?  I mean, to have a bunch of strangers treat your house like a hotel room.
+George, Elaine and Jerry enter The Party and stand by the door|AVA| So, guess who just sold 129 West 81st.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| Oh no you didn't.  Get out, when?
+George, Elaine and Jerry enter The Party and stand by the door|AVA| Yesterday
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I don't believe it.
+George, Elaine and Jerry enter The Party and stand by the door|AVA| Ask Mark.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| Mark, is this true?
+George, Elaine and Jerry enter The Party and stand by the door|action|A man across the room nods.  George and Ava walk towards him.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Yeah, this has got disaster written all over it.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| How did I ever let you talk me into this, I must have been out of my mind.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Now listen, let's keep an eye on each other tonight.  In case one of us gets in a bad conversation, we should have a signal that you're in trouble so the other one can get us out of it.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| How old are you?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Thirty-six.  What's the signal?  Howbout this?  Chicken wing?  No, no, no, I got a better one.  Head patting.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Whatever you want.
+George, Elaine and Jerry enter The Party and stand by the door|action|Fast forward a bit, Jerry is sitting on the couch with a stranger.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| You came all the way out from Manhattan for this?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Yeah, yeah I did.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| So what do you do?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY|(Patting his head:  I'm a comedian.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| Are you?  Lemme ask you something.  Where do you get your material?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY|(still Patting)  I hear a voice.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| What kind of voice?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| A man's voice, but he speaks in German so I have to get a translator.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| How come you keep tapping your head.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| It's a nervous tic.  I'm on L-Dopa.
+George, Elaine and Jerry enter The Party and stand by the door|action|Cut to Elaine, engaged in a conversation with another guy and patting her head.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| On the other hand, you take a guy like George Washington Carver.  The man devoted his whole life to the peanut.  Imagine having so much passion for something.
+George, Elaine and Jerry enter The Party and stand by the door|action|Cut back to Jerry and his 'guy'.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| Ya know, people tell me I'm a funny guy.
+George, Elaine and Jerry enter The Party and stand by the door|action|Cut back to Elaine and her 'guy'.  She's still tapping madly.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| I've often wondered if he ever worked with the pecan.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Yeah, me too.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| Now is that considered a nut, because I know the cashew is a legume.
+George, Elaine and Jerry enter The Party and stand by the door|action|Cut to George, now talking with Jerry.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| How's it going?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Great, how about you?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I can't believe what's happening here.  She hasn't taken her hands off me all night.  She was always friendly around the office, but that was it.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| How do you account for this?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I don't know, maybe a safe fell on her head.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Well, she obviously liked you all along.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| No, I would have picked up on it.  I can always tell when a woman likes me, they always somehow let you know.  With me, they could torture me, I wouldn't tell them.  If anything I'd try to make them think I don't like them, then they think, "Oh, look at this guy, he's not even looking at me, he must have something going for him."
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Anyway, I'm ready to go.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| Now?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| If not now, when?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| Gimme a half-hour.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Okay, half-hour.
+George, Elaine and Jerry enter The Party and stand by the door|action|Cut to Elaine and the 'peanut guy'.  By now, she's weary from tapping.
+George, Elaine and Jerry enter The Party and stand by the door|GUY| Peanut brittle, peanut butter, peanut oil...
+George, Elaine and Jerry enter The Party and stand by the door|JERRY|(interrupting)  Can I talk to you for a second?
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Oh, excuse me.  (gets up to talk with Jerry)  What have you been doing, I've been smacking myself senseless.  People think I'm a mental patient.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Hey, I was dying over there.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| This guy's going off on the peanut.  Now pay attention.
+George, Elaine and Jerry enter The Party and stand by the door|action|Fast forward a bit, a woman (Ellen) is talking to Jerry.
+George, Elaine and Jerry enter The Party and stand by the door|ELLEN| Yeah, I think I've seen you in a club.  You talk about a lot of everyday things, right?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Right.
+George, Elaine and Jerry enter The Party and stand by the door|ELLEN| Yeah, I remember you.
+George, Elaine and Jerry enter The Party and stand by the door|action|Ellen turns her back and the camera pans out to Elaine, sitting on the couch near a pretentious woman.
+George, Elaine and Jerry enter The Party and stand by the door|WOMAN| I wonder what happened to my fiancé.  I know he's here somewhere. Ellen?  Have you seen my fiancé?
+George, Elaine and Jerry enter The Party and stand by the door|ELLEN| He's upstairs.
+George, Elaine and Jerry enter The Party and stand by the door|WOMAN| Are you going upstairs?  Tell my fiancé I'm looking for him.  I havelost my fiancé, the poor baby.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Maybe the dingo ate your baby.
+George, Elaine and Jerry enter The Party and stand by the door|WOMAN| What?
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| The dingo ate your baby!
+George, Elaine and Jerry enter The Party and stand by the door|action|Cut to George and Jerry.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| You ready?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| Listen, I have a tremendous favor to ask.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| I do favors.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I think something's happening here.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| What?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I think she wants me to take her home.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Wow.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| What should I do?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Go!  What could you do?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| What about you and Elaine?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| We'll get a ride.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| Are you sure?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| We'll be fine, what did she say?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| She told me she wants-- (Pauses until a woman coming down the stairs passes)  She told me she wants me to make love to her.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| What?  She said that?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| Yeah.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Get out of here.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I swear.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| What did you say?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I, I, I can't.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| What did you say?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| Please, it's--
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| What?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I... I... I long for you.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| I long for you?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I was so shocked I was lucky I said anything.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| It's okay, that's not bad.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I don't like when a woman says, 'Make love to me', it's intimidating. The last time a woman said that to me, I wound up apologizing to her.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Really?
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| That's a lot of pressure.  Make love to me.  What am I, in the circus? What if I can't deliver?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Oh, come on.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I can't perform under pressure.  That's why I never play anything for money, I choke.  I could choke tonight.  And she works in my office, can you imagine?  She goes around telling everyone what happened?  Maybe I should cancel, I have a very bad feeling about this.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| George, you're thinking too much.
+George, Elaine and Jerry enter The Party and stand by the door|GEORGE| I know, I know, I can't stop it!
+George, Elaine and Jerry enter The Party and stand by the door|action|Cut to Elaine, talking with yet another guy on the couch.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Well, right now I'm reading manuscripts for Pendant Publishing.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY|(walking up)  Pendant?  Those bastards.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Excuse me.
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Listen, George is going home with this Ava from his office
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Really?  Huh.  What a world.  So we can go now?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Uh, no, he's taking the car.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Well, what are we gonna do for a ride?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| I don't know.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| You don't know?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| Maybe Kramer can come pick us up.
+George, Elaine and Jerry enter The Party and stand by the door|ELAINE| Oh great, oh, this is great.  How could you let him take the car?
+George, Elaine and Jerry enter The Party and stand by the door|JERRY| There's nothing I could do, it's part of the code.
+Still at the Party|ELAINE|(noticing Ava in a fur)  Oh look at that.  Look at what she's wearing. You see what she's wearing?
+Still at the Party|JERRY| Yeah, yeah, alright.
+Still at the Party|ELAINE| I can't believe she's walking around in that.
+Still at the Party|JERRY| Just don't make a scene.
+Still at the Party|ELAINE| Hey, is that real fur?
+Still at the Party|JERRY| Oh boy.
+Still at the Party|AVA| It better be or my ex-husband owes me an explanation.
+Still at the Party|GEORGE| Yeah, good night.
+Still at the Party|ELAINE| You don't care that innocent defenseless animals are being tortured so that you can look good?
+Still at the Party|GEORGE| Could we talk about this some other time?
+Still at the Party|AVA| Are you a vegetarian?
+Still at the Party|JERRY| Here we go.
+Still at the Party|ELAINE| Yeah, I eat fish occasionally.
+Still at the Party|AVA| So you're a hypocrite.
+Still at the Party|GEORGE| Hey, I've eaten frogs, so nobody's perfect.  Anyway-
+Still at the Party|AVA| Well, talk to me when you stop eating fish.
+Still at the Party|ELAINE| Fish don't feel any pain.
+Still at the Party|AVA| How do you know?  Do you communicate with fish?
+Still at the Party|ELAINE| Well, they're not kept in little cages.
+Still at the Party|AVA| Ever seen a goldfish?
+Still at the Party|GEORGE| Goldfish.
+Still at the Party|ELAINE| Yeah, yeah I've seen goldfish.  They're not unhappy.
+Still at the Party|AVA| Oh yeah, right.  Swim around in a bowl for two weeks and get flushed down the toilet, that's a good life.  (To George)  Let's go.
+Still at the Party|ELAINE| Oh yeah, that's right.  Go ahead, go ahead, maybe you can run over a squirrel!
+Still at the Party|GEORGE| That's why we're here in America.
+Still at the Party|JERRY| You're beautiful.
+Still at the Party|ELAINE| Call Kramer.
+Still at the Party|JERRY| Alright. (Approaches host)  Excuse me, this is your party, right?
+Still at the Party|STEVE| No, I just live here.
+Still at the Party|JERRY| Can I use your phone?
+Still at the Party|STEVE| What's in it for me?
+Still at the Party|JERRY| A bigger bill?
+Still at the Party|STEVE| He he, go for it.
+Still at the Party|action|Jerry picks up the phone and dials.
+Still at the Party|JERRY| Krame?  Sein.  What are you doing?  Well, I'm stuck out here on Long Island.  What are your thoughts about taking a ride?  You sure?  Okay, but don't leave me hanging here.  Okay, great.  Let me give you directions.
+Still at the Party|action|Cut to several hours later.  The party has ended.  The hosts, Steve and Jenny, are cleaning up, Elaine and Jerry are still there.
+Still at the Party|ELAINE| You sure you don't need any help?
+Still at the Party|JENNY| No, not really.
+Still at the Party|JERRY| I'm sure he'll be here any minute.
+Still at the Party|JENNY|(To Steve)  I want them out of here.
+Still at the Party|ELAINE| Call him again.
+Still at the Party|JERRY| I called, what should I do? (To Jenny) We really appreciate this.
+Still at the Party|JENNY|(To Steve)  It's two o'clock in the morning.
+Still at the Party|JERRY|(noticing a coffee table book)  Oh, you got the Civil War book.  I saw some of that show, it was wonderful.
+Still at the Party|ELAINE| Six hundred and twenty million people died.
+Still at the Party|JERRY| Thousand.
+Still at the Party|ELAINE| Thousand.  Six hundred and twenty thousand.  The horror, the horror. (To Jerry)  The wife keeps giving us dirty looks.  Are you sure you gave him the right directions?
+Still at the Party|JERRY| Yes.  (To Jenny)  You're sure there's nothing we can do?
+Still at the Party|JENNY| No!  (To Steve)  I am not going to bed with them in our house, this is ridiculous.
+Still at the Party|JERRY| You know a friend of my father's used to live right around here.  Mike Wichter.  He sold plastic straws.  You know the ones?  You could bend them.
+Still at the Party|ELAINE| Have you noticed, people don't use straws as much as they used to for some reason.
+Still at the Party|JENNY| You know, it doesn't look as if your friend is coming.
+Still at the Party|JERRY| Oh, he's coming.
+Still at the Party|JENNY| Maybe you should take a look at a train schedule.
+Still at the Party|action|Jenny sees a figure outside the kitchen window and screams.
+Still at the Party|JERRY| That's him.
+Still at the Party|JENNY| I'm going to bed!
+Still at the Party|ELAINE| Thanks a lot.
+Still at the Party|JERRY| Thanks, great party.
+Still at the Party|action|As Jenny storms up the stairs there's a knock at the door, Steve answers.
+Still at the Party|KRAMER| Hey, how ya doing?
+Still at the Party|STEVE| Ah, look who's here.
+Still at the Party|KRAMER| I'm sorry.
+Still at the Party|JERRY| Hey, it's okay.
+Still at the Party|KRAMER| I had the directions on the seat right next to me, they flew out the window.
+Still at the Party|ELAINE| Then how did you find the place?
+Still at the Party|KRAMER| Well I knew the exit on the Long Island Expressway, and I thought that the address was 8713 Riviera Drive.  Uh uh, so I drove around knocking on everybody's doors that had those numbers; 8317, 7813, 3718, 1837, whoo. Finally, I hit it.  8173.
+Still at the Party|JERRY| Anyway, thanks a lot for letting us stay here, Steve, I really owe you one.
+Still at the Party|STEVE| No problem.
+Still at the Party|JERRY| And if you're ever in the city, you know, you want to come to a comedy club, whatever.
+Still at the Party|STEVE| Hey, I might take you up on that.
+Still at the Party|JERRY|(writing)  Here's my address and number.  And really, thanks again.
+Still at the Party|KRAMER|(to Elaine)  You better zip up.  I couldn't get the top on the convertible up.
+Still at the Party|ELAINE| But it's cold out.
+Still at the Party|KRAMER| Yeah, wait till we get on the Expressway.
+Jerry's at his apartment, talking on the phone.|JERRY| George, I've been sick all week.  Elaine was too.  Eighty miles an hour, forty degree temperature for fifty minutes.  Do the math.  Yeah, maybe I will get out.  Hey, let me just stop off at the drug store first.  Okay, meet me down there in fifteen minutes then we'll go do something.  Yeah, Selwyn's.  Okay bye.
+Jerry's at his apartment, talking on the phone.|action|Jerry hangs up and grabs his coat and there's a knock at the door.
+Jerry's at his apartment, talking on the phone.|JERRY| Who is it?
+Jerry's at his apartment, talking on the phone.|VOICE| Mr. Pocatello.
+Jerry's at his apartment, talking on the phone.|JERRY| Who?
+Jerry's at his apartment, talking on the phone.|VOICE| You mean you don't recognize my voice?
+Jerry's at his apartment, talking on the phone.|action|Jerry opens the door.  Steve steps in.
+Jerry's at his apartment, talking on the phone.|STEVE| Jerry, baby!
+Jerry's at his apartment, talking on the phone.|JERRY| Do I know you?
+Jerry's at his apartment, talking on the phone.|STEVE| Boy this comedy's really frying your brain.
+Jerry's at his apartment, talking on the phone.|JERRY| I'm sorry, uh-
+Jerry's at his apartment, talking on the phone.|STEVE| See, this is the kind of lasting impression I make on people.
+Jerry's at his apartment, talking on the phone.|JERRY| Oh, okay.
+Jerry's at his apartment, talking on the phone.|STEVE| You said if I was ever in the city, I'm in the city.
+Jerry's at his apartment, talking on the phone.|JERRY| You certainly are.  What's going on?
+Jerry's at his apartment, talking on the phone.|STEVE| I'm just waiting for a lift back to the island, he won't be ready until eleven, so I figured I'd give you a break.  I thought I'd see what it was like to hang out with someone in show business.
+Jerry's at his apartment, talking on the phone.|JERRY| Listen, I'm really sorry but I'm just on my way out to meet a friend.
+Jerry's at his apartment, talking on the phone.|STEVE| Oh, come on, you can come up with something better than that.
+Jerry's at his apartment, talking on the phone.|JERRY| No, really, I just got off the phone with him.
+Jerry's at his apartment, talking on the phone.|STEVE| I understand.
+Jerry's at his apartment, talking on the phone.|JERRY| Look, you can hang out here if you want.
+Jerry's at his apartment, talking on the phone.|STEVE| Don't be so enthusiastic.
+Jerry's at his apartment, talking on the phone.|JERRY| No, it's-
+Jerry's at his apartment, talking on the phone.|STEVE| I'm not gonna steal anything.
+Jerry's at his apartment, talking on the phone.|JERRY| No, of course not, just close the door when you leave.
+Jerry's at his apartment, talking on the phone.|STEVE| I think I can do that.
+Jerry's at his apartment, talking on the phone.|JERRY| Really, I'm sorry.  Maybe another time.
+Jerry's at his apartment, talking on the phone.|STEVE| Yeah.  Let's have lunch.
+Jerry and George are at the drug store.|JERRY| They guy's in my house right now.  What a mistake that party was, I never should have gone.
+Jerry and George are at the drug store.|GEORGE| Yeah, me either.
+Jerry and George are at the drug store.|JERRY| Oh, come on.
+Jerry and George are at the drug store.|GEORGE| What come on?  Have you ever dated a woman that worked in your office?
+Jerry and George are at the drug store.|JERRY| I've never had a job.
+Jerry and George are at the drug store.|GEORGE| You know the anxiety you feel on a date?  That's what I have every day now.  My worst nightmare's come true, every day is a date.
+Jerry and George are at the drug store.|JERRY| That's one of Dante's nine stages of hell, isn't it?
+Jerry and George are at the drug store.|GEORGE| Ava was one of the reasons I used to like going to work, she was a friend.  Now we sleep together and suddenly, I don't know how to talk to her. Every time I go to the bathroom I pass her desk.  I have to plan little patter. I spend half my day writing.  Then afterwards, I sit in my office and analyze how it went.  If it was a good conversation, I don't go to the bathroom for the rest of the day.  I see her laughing and talking with other people, they're all so loose and relaxed, I think, 'that used to be me.  I want to go back there again.'
+Jerry and George are at the drug store.|JERRY| What are you gonna do?
+Jerry and George are at the drug store.|GEORGE| I have no choice, I'm quitting.
+Cut back to Steve sitting alone on Jerry's couch watching TV.  Kramer walks in and it takes a moment for him to recognize the visitor.|KRAMER| The party, Long Island?
+Cut back to Steve sitting alone on Jerry's couch watching TV.  Kramer walks in and it takes a moment for him to recognize the visitor.|STEVE| Kramer, right?
+Cut back to Steve sitting alone on Jerry's couch watching TV.  Kramer walks in and it takes a moment for him to recognize the visitor.|KRAMER| Hey, what are you doing here?
+Cut back to Steve sitting alone on Jerry's couch watching TV.  Kramer walks in and it takes a moment for him to recognize the visitor.|STEVE| I'm waiting for my ride.
+Cut back to Steve sitting alone on Jerry's couch watching TV.  Kramer walks in and it takes a moment for him to recognize the visitor.|KRAMER| Where's Jerry?
+Cut back to Steve sitting alone on Jerry's couch watching TV.  Kramer walks in and it takes a moment for him to recognize the visitor.|STEVE| He split.  Let me ask you something.  Is there anything to drink in here or is that, like, a stupid question?
+Cut back to Steve sitting alone on Jerry's couch watching TV.  Kramer walks in and it takes a moment for him to recognize the visitor.|KRAMER| Well, Jerry, he doesn't have anything.  (Sensing Steve's disappointment)  Well, but I might have something.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| Alright, I'm gonna get this.  This looks good.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| How much is that?
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| Nine sixty.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| Nine sixty?  Give it to me.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| Why?
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| Don't worry, I got it.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| What do you mean, you got it?
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| I got it.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|action|George takes the box and begins to place it in his jacket
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| Since when are you treating me to medicine?  What are you doing?  You're stealing this, aren't you?
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| I'm not stealing it.  They owe me ten dollars.  They stole from me.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| You're a lunatic.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| I have to do this, it's a matter of honor.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| What do you say to a person like you?
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| Just walk.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| Oh.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|action|A security guard approaches George.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| What?
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE| Oh, I was gonna pay for this.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE|(nervous)  Where are you taking me?  I was gonna pay for it.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|CASHIER|um-hmm.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE|(more nervous)  What are you talking about?
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|GEORGE|(panicky)  What are you gonna do?  Are you gonna call the police?
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|action|The Security Guard drags George away and Jerry steps to the counter.
+Cut back to Jerry and George at the drugstore.  Jerry is selecting medication.|JERRY| Can I still buy this or is this evidence now?
+Cut back to Kramer and Steve, they're obviously tanked.  Kramer is in the middle of a story.|KRAMER| So, I'm chasing these doves down the street and she's screaming at the top of her lungs, and then when the magician comes back from Europe, two of them turned brown!  Well I followed the instructions!
+Cut back to Kramer and Steve, they're obviously tanked.  Kramer is in the middle of a story.|action|They both erupt in raucous laughter.
+Cut back to Kramer and Steve, they're obviously tanked.  Kramer is in the middle of a story.|STEVE|(hysterical)  Ah, they turned brown!!  Brown!! (the laughter winds down) So let me ask you something, you know any women we could call?
+Cut back to Kramer and Steve, they're obviously tanked.  Kramer is in the middle of a story.|KRAMER| Not really.
+Cut back to Kramer and Steve, they're obviously tanked.  Kramer is in the middle of a story.|STEVE| Maybe we should call one of those escort services.  I saw one of them advertised before on the cable station.
+Cut back to Kramer and Steve, they're obviously tanked.  Kramer is in the middle of a story.|KRAMER|(handing Steve the phone)  555-LOVE.
+Cut back to Kramer and Steve, they're obviously tanked.  Kramer is in the middle of a story.|STEVE| Hey, you want in on this?
+Cut back to Kramer and Steve, they're obviously tanked.  Kramer is in the middle of a story.|KRAMER| No, I got a girl in the next building
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|VOICE| Now I want my money, mister, and I ain't leaving until I get it.  Now I am through playing games with you, I got things to do.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|STEVE|(drunk and slurring)  Oh Jerry!  Jerry!  Look who's here, it's Jerry
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY| What the hell?
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|STEVE| Jerry, this is Patti.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY| Nice to meet you.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|PATTI| It's a pleasure to make your acquaintance, I'm sure.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY| What the hell is going on here?
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|STEVE| I don't know, but I gotta do this more often.  (The buzzer goes off) Ooh, there's my ride, finally.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|PATTI| I'm not gonna go anywhere until I get the rest of my money.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|STEVE| See ya, Jerr.  And tell Kramer thanks and I'll call him tomorrow.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY| Oh, Kramer huh?
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|STEVE| Yeah, he's a hoot.  Oh, goodbye, my dear.  (trying to kiss Patti's hand as she pulls it away)  Ouch.  (To Jerry)  Weekend of the 26th, come on out, we're having another party.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|action|Steve walks out, leaving the front door open.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|PATTI| I ain't leaving.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY| Patti?
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|PATTI| You got anything to drink?
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY| Alright, how much does he owe you?
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|PATTI| Fifty dollars.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY|(taking out his wallet and handing over bills grudgingly)  Fifty dollars.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|action|In mid-payment, a police officer walks through the open door.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|COP| This your apartment?
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY| Yeah, but--
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|COP| You're under arrest for solicitation of prostitution.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|JERRY| Wait a second, I--
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|action|Elaine walks in.
+Jerry is outside his apartment door, as he puts in the key, he hears a woman's voice from inside.|ELAINE| I brought you chicken soup.  (To Patti)  Is that real fur?
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|GEORGE| You had Sgt. Chadway?  Me too.
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|JERRY| He was a nice guy.
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|GEORGE| Oh, great guy.
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|JERRY| Was there a red-headed guy there?
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|GEORGE| The one with the long sideburns?
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|JERRY| Yeah.
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|GEORGE| Where does he come off?
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|JERRY| Yeah, I know.  There's no call for that kind of attitude.
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|GEORGE| One of the guys in my cell threw a piece of gum at him.
+Jerry and George are at Jerry's apartment, watching TV and eating pizza.|JERRY| Oh, we all hated him.

@@ -1,0 +1,336 @@
+Restaurant|GEORGE|Jerry it's funny, Paula and I actually met because of Elaine.
+Restaurant|PAULA|Elaine is in my drawing class at the new school
+Restaurant|GEORGE|..And I went down there one time to see...
+Restaurant|JERRY|(cuts in) A nude model.
+Restaurant|GEORGE|If Elaine wanted to get some coffee.
+Restaurant|JERRY|You know I went out once with a nude model. Never let me see her naked. Hundreds of people see her naked every week, except me. Needless to say it was quite vexing.
+Restaurant|GEORGE|Are you through?
+Restaurant|JERRY|Yeah!
+Restaurant|GEORGE|So Anyway, I started to compliment Elaine on her sketches and it turns out,they're Paula's.
+Restaurant|PAULA|George, I just like to doodle
+Restaurant|action|Jerry picks up a pecan that his girlfriend had just masticated.
+Restaurant|GEORGE|Oh! Dropped a napkin...(Whispers) Jerry!
+Restaurant|JERRY|What?
+Restaurant|GEORGE|What are you doing?...She had those nuts in her mouth, she just spit them out.
+Restaurant|JERRY|(spits the nut) OooH!!! You. you ate these? You sucked on these and put them on the plate?
+Restaurant|SHELLY|Well I didn't know you were gonna eat them?
+Restaurant|JERRY|Soo...
+Restaurant|SHELLY|I'm sorry you find me so repulsive?
+Restaurant|JERRY|No ,no I don't, I mean, Don't be silly..
+Restaurant|SHELLY|Yeah!
+Restaurant|JERRY|It's just...
+Restaurant|SHELLY|Well, hem ,if you'll excuse me I think I'll just go to the ladies room.
+Restaurant|PAULA|I'll join you.
+Restaurant|JERRY|Oh! man did you see that. I ate discarded food.
+Restaurant|GEORGE|Well I've done that.
+Restaurant|JERRY|Yeah, but with you it's intentional.
+Restaurant|GEORGE|Haven't you kissed her?
+Restaurant|JERRY|Yeah, but this is different , this is like ,you know, semi digested food stuff. You know the next stop is the stomach and you can take it from there.
+Restaurant|action|George stops a passing busboy
+Restaurant|GEORGE|Excuse me just for a second. ( fixes his hair looking at his reflection in a coffee pot.)
+Restaurant|JERRY|AH. Yes that's gonna make a big difference.
+Restaurant|GEORGE|This is dating , you can't leave anything to chance.
+Restaurant|JERRY|Hey ,You think that Shelly's upset that I made such a big deal about the pecan.
+Restaurant|GEORGE|Hehummm , Yeah!
+Restaurant|JERRY|Thanks.
+Restaurant|GEORGE|No problem.
+Restaurant|action|The girls return from the ladies room.
+Restaurant|SHELLY|Well Jerry , I guess we should get going .
+Restaurant|JERRY|Ah! boy.
+Restaurant|GEORGE|Well, it was very nice meeting you Shelly and Jerry be careful, there's a lot of nuts out there. (to Paula) All right you have everything?
+Restaurant|PAULA|Can you grab my purse.
+Restaurant|GEORGE|Yeah.( reaches for the purse and finds a piece of paper . he looks annoyed.
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|Yeah! So
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|Don't you see what this is?
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|Yeah! It's a doodle.
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|Yeah!, a doodle of me...look at the size of the nose , the ears, all my features are distorted.
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|Oh!.It's an affectionate caricature.
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|I'm grotesque . I look like a troll.
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|It's just a drawing.
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|Don't you see what this says? How can you possibly like somebody ,if you think they look like this?
+Monks, next day. George showing Jerry the piece of paper he picked up|action|Elaine walks in
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|(gets up to leave the table) HELLO!!! (angrily)
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|What is with him?
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|the usual
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|So, you know what? My friend Judy recommended me for a job at Viking Press.
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|Good for you
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|Yeah! But get this. Viking has a deal with the Plaza Hotel, they got a two bedroom suite, there, for out-of-town clients...So guess what I did?
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|Oh! Come on, you told them you're from out-of-town just so you could stay in a hotel room.
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|I know, I know Jerry.. but it's The Plazaaa... I've never stayed there .It'll be like a little vacation
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|Well be sure to catch a Broadway show while you're in town.
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|( laughs)Listen, I've used your parents address in Florida.
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|Oh! There coming to town tomorrow by the way.
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|Hey. What's this.?.
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|Don't ask.
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|What is it ..A drawing of Mr. Magoo
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|No ,it's George ( Elaine laughs heartily)
+Monks, next day. George showing Jerry the piece of paper he picked up|action|George comes back
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|It is..
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|You enjoying yourself? (More laughs from Elaine)
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|Sorry.
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|You see. You see! Listen when is your next drawing class?
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|Tomorrow .
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|All right, I want you to do me a favor.
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|What?
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|I want you to find out is she likes me.
+Monks, next day. George showing Jerry the piece of paper he picked up|ELAINE|Find out if likes you?. What, are you in High School?...George come on can't you just talk to her yourself?
+Monks, next day. George showing Jerry the piece of paper he picked up|GEORGE|But she's gonna know that I like her more than she likes me.
+Monks, next day. George showing Jerry the piece of paper he picked up|JERRY|You know my parents are coming in and I got some clean up to do , so if you and Potsie are done scheming....
+Jerry's apartment|KRAMER|Well, they're in...
+Jerry's apartment|JERRY|What's in?
+Jerry's apartment|KRAMER|The MACANAW PEACHES ,Jerry , the MACANAW PEACHES!!!!
+Jerry's apartment|JERRY|Aah! .. right. The ones from Oregon that are only ripe for two weeks a year..
+Jerry's apartment|KRAMER|Yeah Yeah I split a case with Newman..I waited all year for this.. Oooh this is fantastic.. Makes your taste buds come alive....It's like having a circus in your mouth.....Take a taste
+Jerry's apartment|JERRY|Nah, I don't wanna
+Jerry's apartment|KRAMER|Come on ,Just take a taste
+Jerry's apartment|JERRY|I don't want it..
+Jerry's apartment|KRAMER|Come on JUST TASTE!!!
+Jerry's apartment|JERRY|I DON'T WANT IT ....
+Jerry's apartment|KRAMER|HE..YA. AYA. AYYYYYAAAAA!!!!
+Jerry's apartment|JERRY|I am not gonna taste your peach. I ate some one's pecan last night, I'm not gonna eat your peach.
+Jerry's apartment|KRAMER|Jerry , this is a miracle of nature that exists for a brief period. It's like the Aurora Borealis.
+Jerry's apartment|action|Jerry scratches his ankle furiously
+Jerry's apartment|JERRY|..What is this?
+Jerry's apartment|KRAMER|What?
+Jerry's apartment|JERRY|Yeah! I think I got flea bites.
+Jerry's apartment|KRAMER|Flea bites?
+Jerry's apartment|JERRY|Look at this, my ankle's all bitten up.
+Jerry's apartment|KRAMER|You got a dog?
+Jerry's apartment|JERRY|No.
+Jerry's apartment|KRAMER|Well, that is strange.
+Jerry's apartment|JERRY|How could I have fleas?
+Jerry's apartment|KRAMER|Don't sweat it buddy...I used to have fleas.
+Jerry's apartment|JERRY|What did you do about them?
+Jerry's apartment|KRAMER|What do you mean?...
+Jerry's parents come through the door.|MORTY|Hey guys . Jerry . Kramer
+Jerry's parents come through the door.|HELEN|Hi Jerry......What's wrong?
+Jerry's parents come through the door.|JERRY|Nothing...
+Jerry's parents come through the door.|HELEN|Jerry, I'm your mother, now what is it?
+Jerry's parents come through the door.|JERRY|Mom, Dad.....I have fleas..
+Elaine's drawing class|ELAINE|Hey Paula!.. I hear you been going out with George Costanza?
+Elaine's drawing class|PAULA|How did you know??
+Elaine's drawing class|ELAINE|Everybody knows. y'know George told me he thinks you're totally cute and everything.
+Elaine's drawing class|PAULA|He said that?
+Elaine's drawing class|ELAINE|Ha hum...Do you like George?
+Elaine's drawing class|PAULA|Yeaaah! he's cool.
+Elaine's drawing class|ELAINE|No I mean...Do you like him or do you like him like him?
+Elaine's drawing class|PAULA|Like like.. looks aren't important to me ,you know?
+Elaine's drawing class|TEACHER|Miss Benes , Are you chewing gum?
+Elaine's drawing class|ELAINE|(nods) HumHummmm....
+Elaine's drawing class|action|Elaine spits the gum in the waste basket then as the teacher turns around she makes a throwing up motion at Paula.
+Later at Jerry's|KARL|Yep!...In your bedroom too Mr. Seinfeld. You've got a full outbreak of fleas on your hands.
+Later at Jerry's|JERRY|I don't get this. How did this happen. I don't have a dog.
+Later at Jerry's|KARL|I don't explain 'em Mr. Seinfeld. I just exterminate them.
+Later at Jerry's|JERRY|I don't understand this..
+Later at Jerry's|KARL|I 'm gonna have to seal the place up for 48 hours and fog it. That's the only way to get rid of them.
+Later at Jerry's|JERRY|Nobody can be in here for 48 hours, I got my parents in town.
+Later at Jerry's|KARL|Well , unless you want to kill them. They can't stay in here. This stuff is pretty toxic. I'll go get my stuff, it's in the truck.
+Later at Jerry's|JERRY|Okay..
+Later at Jerry's|action|Elaine comes in
+Later at Jerry's|ELAINE|Hi....???
+Later at Jerry's|JERY|Bug guy.
+Later at Jerry's|ELAINE|Why do you have a bug guy?
+Later at Jerry's|JERRY|I have fleas.
+Later at Jerry's|ELAINE|Argh.. Fleas ( strikes the purse she just deposited on the couch) How did you get fleas?
+Later at Jerry's|JERRY|I don't know...But every one's got to clear out of the apartment for two days. I don't know what I'm gonna do with my parents. they'll never let me pay for a hotel and if they go to someplace on their own I'm sure it's gonna be some awful dump. Wait a second.. Have you checked in The Plaza yet?
+Later at Jerry's|ELAINE|No....Oh No....
+Later at Jerry's|JERRY|Come on,c'mon
+Later at Jerry's|ELAINE|No, No...
+Later at Jerry's|JERRY|c'mon ,c'mon....
+Later at Jerry's|ELAINE|No, No...
+Later at Jerry's|JERRY|c'mon, c'mon....
+Later at Jerry's|ELAINE|No, No....Yesss!!!!!!
+Later at Jerry's|JERRY|Yes!!!
+Later at Jerry's|action|Door buzzer
+Later at Jerry's|JERRY|Yes!!!
+Later at Jerry's|GEORGE|yeah!
+Later at Jerry's|ELAINE|Well what about you. Where you gonna stay?
+Later at Jerry's|JERRY|I dunno , I'm gonna ask Shelley ,but she still might be upset from the masticated pecan incident.
+Later at Jerry's|ELAINE|Hey!! I found out from Paula; She likes George. I'll bet he'll be relieved.
+Later at Jerry's|JERRY|Yeah.. When he's dead he'll be relieved... Oh by the way Viking Press sent a Fedex for you to my parents. They brought it with 'em.
+Later at Jerry's|ELAINE|Yeah that's just some stuff about the company.
+Later at Jerry's|GEORGE|Hum..( to Elaine) Hey! did you talk to Paula?
+Later at Jerry's|ELAINE|Yeah.
+Later at Jerry's|GEORGE|So what did she say?
+Later at Jerry's|ELAINE|She...likes you..
+Later at Jerry's|GEORGE|She said she liked me. No kiddin' she said that?
+Later at Jerry's|ELAINE|Ya!
+Later at Jerry's|GEORGE|Those were her exact words, I like George.
+Later at Jerry's|ELAINE|Yep!
+Later at Jerry's|GEORGE|Ha Haaaaaaa... Jerry how do you like that.You see I get myself in a dizzy, I'm all worked up and for what?
+Later at Jerry's|ELAINE|For nothing..
+Later at Jerry's|GEORGE|ha Ha..
+Later at Jerry's|ELAINE|In fact she said that looks aren't even that important to her...
+Later at Jerry's|GEORGE|You see.....WHAT!!
+Later at Jerry's|ELAINE|Ah Oh!!
+Later at Jerry's|GEORGE|She said looks aren't important to her?
+Later at Jerry's|ELAINE|Well..hum...let me rephrase that, She said....
+Later at Jerry's|GEORGE|She thinks I'm ugly. I knew it.
+Later at Jerry's|JERRY|You see the thing of it is, there's a lot of ugly people out there walking around, but they don't know they're ugly, because nobody actually tells them.
+Later at Jerry's|GEORGE|.....So what's your point?
+Later at Jerry's|JERRY|I dunno...
+Later at Jerry's|ELAINE|Okay.. The point , George, is she likes you.
+Later at Jerry's|GEORGE|Oh!, so what. I'd rather she hate me and thought I was good looking....At least I can get somebody else. (scratching his chest) What is this? Why am I itching?
+Later at Jerry's|JERRY|That'd be the fleas.
+At the Plaza Hotel|JERRY|Hey!!!
+At the Plaza Hotel|MORTY|Hey! I do you like this? Huh, huh!
+At the Plaza Hotel|HELEN|Oh! my god, Morty lets go, this is too nice.
+At the Plaza Hotel|MORTY|Hey! This is the kind of room Sinatra stays in. Hey! look , Macadamian nuts.
+At the Plaza Hotel|HELEN|Macadamian nuts?
+At the Plaza Hotel|MORTY|Hey! You know what these cost, they're like 80 cents a nut.
+At the Plaza Hotel|HELEN|Jerry, are you sure this all right?
+At the Plaza Hotel|JERRY|Yeah! it's all taken care of.
+At the Plaza Hotel|MORTY|( from the other room) Hey!!! They got a phone in the john here.
+Outside Elaine's building|ELAINE|Judy .
+Outside Elaine's building|JUDY|Hey!!!!.
+Outside Elaine's building|ELAINE|Hi, Thank you so much for recommending me to Viking Press .
+Outside Elaine's building|JUDY|It is my pleasure , just make sure you give that manuscript a good read.
+Outside Elaine's building|ELAINE|Manuscript?
+Outside Elaine's building|JUDY|Yeah. I'm sure they Fedexed you a manuscript. They want to see that you can read an unpublished work and give insightful criticism.
+Outside Elaine's building|ELAINE|Oooh!!
+Outside Elaine's building|JUDY|Read it twice if you have to. This is a big step in your career.
+Outside Elaine's building|ELAINE|Yeah! hmmm..I gotta go..
+Outside Elaine's building|JUDY|Hey! What about lunch?
+Outside Elaine's building|ELAINE|(she leaves hurriedly) I gotta gooo...
+Catches up with Jerry on the street.|ELAINE|Thank god I found you..
+Catches up with Jerry on the street.|JERRY|Oh! Hey!
+Catches up with Jerry on the street.|ELAINE|You still got that Fedex?
+Catches up with Jerry on the street.|JERRY|Yeah! I got it . It's in the apartment, but we can't go in there it's being fumigated.
+Catches up with Jerry on the street.|ELAINE|No I'll take my chances. Come on...( Grabs him by the coat and head back to his place)
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|You see?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|Jerry , I need that Fedex right now..
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|I told you to take it.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|Well, I didn't know that it was a manuscript that I had to read...
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|Well, You can't go in there it's like a gas chamber in there.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|action|Kramer comes out of the apartment.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|I left a Macanaw peach in your refrigerator.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|Kramer, they're fumigating. There's toxic gas in there.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|Toxic gas!!!
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|Aw! You'll be fine, you were in there for what , a couple of minutes.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|An hour and a half!!! I was reading a manuscript, I just couldn't put it down.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|My manuscript?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|How do you feel?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|Now that you mention it , a little woozy.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|Kramer You got go back in there grab my manuscript.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|I'm not going back in there!!
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|all right then, where is it??
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|I left it on the coffee table or somethin'
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|Well wh..wh.what are you doing?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|I'm going in .
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|Didn't you see the sign on the door?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|Well I thought it was so your parents wouldn't walk in while you're with a girl.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|action|Elaine breathes heavily does the sign of the cross and enters. She goes to the coffee table then looks underneath the couch and finishes by his desk then the dinner table. She runs out of air so she has to rush out.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|( Heavy Panting) It's not on any table, Kramer. Where is it?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|Well I don't know . I was in the bathroom , the kitchen...
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|Okay... bathroom....kitchen.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|Can you get me a soda?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|action|Elaine goes back in
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|KRAMER|Jerry, I had some milk, I made a sandwich. I got to get out of the building.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|action|Elaine searches the kitchen , then the couch cushions and gives up.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|(again pants) I couldn't find it anywhere. How did you get fleas anyway?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|I don't know. Who could've been in my apartment.
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|I 've looked everywhere , even under the couch but all I could find were the stupid Chunky wrappers. I couldn't....
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|Wait a minute . Did you say chunky wrappers?
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|ELAINE|Yeah!
+Jerry's place . There is a sign on the door that says "Fumigation Do not enter"|JERRY|Let me see those. ( smells them) Oh! I know the chunky that left these Chunkies......NEWMAN!!! I've got him.
+Newman's door . Jerry knocks|JERRY|Newman . Open the door, Newman, I know you're in there.
+Newman's door . Jerry knocks|NEWMAN|Hello jerry. What a pleasant surprise.
+Newman's door . Jerry knocks|JERRY|There's nothing pleasant about it, so lets just cut the crap.. You gave me fleas. I know it and you know it..
+Newman's door . Jerry knocks|NEWMAN|Fleas? Bwa ha ha ha ha .That's preposterous. How can I , give you fleas. Now if you don't mind...
+Newman's door . Jerry knocks|JERRY|Oh! but I do. There's probably fleas crawling all over your little snack bar. ( as he says this Newman is wildly scratching behind his back. he suddenly stops when Jerry turns around)
+Newman's door . Jerry knocks|NEWMAN|So , you have fleas. Maybe you keep your house in a state of disrepair. Maybe you live in squalor.
+Newman's door . Jerry knocks|JERRY|You know Newman , the thing about fleas is that they irritate the skin and they start to...itch. Oh! maybe you can hold out five seconds or ten, maybe fifteen or twenty but after a while, no matter how much will power a person may have. It won't matter, because they're crawling , crawling on your skin. Up your legs , up your spine , up your back.....
+Newman's door . Jerry knocks|NEWMAN|(Cannot take this torture anymore) Baaaaaaaaarrhhhhhhhhhhh....I'm ripped with fleas ( scratches furiously)
+Plaza Hotel, Morty is getting a massage.|MORTY|Oh! Oh! That feels good. Hey! This guy charges a hundred bucks an hour but I'm telling ya he's worth every penny OOOOHH!
+Plaza Hotel, Morty is getting a massage.|HELEN|I'm next.
+Plaza Hotel, Morty is getting a massage.|MORTY|Hey! Leo, get this, four movies at once; Pay Per View.
+Plaza Hotel, Morty is getting a massage.|LEO|I love these nuts.
+Plaza Hotel, Morty is getting a massage.|NANA|This Champagne's gone flat. ( throws her glass over her shoulder)
+Plaza Hotel, Morty is getting a massage.|HELEN|Nana!!!
+Plaza Hotel, Morty is getting a massage.|NANA|He Ha Ha Ha...Let the chambermaid clean it up
+On the street in front of a flower shop|GEORGE|Hello..
+On the street in front of a flower shop|PAULA|What's the matter?...
+On the street in front of a flower shop|GEORGE|Well I spoke to Elaine...
+On the street in front of a flower shop|PAULA|Hey! Look , no shave.
+On the street in front of a flower shop|GEORGE|No...Why should that make any difference to you?
+On the street in front of a flower shop|PAULA|It doesn't..
+On the street in front of a flower shop|GEORGE|Of course not. You don't care what I look like.
+On the street in front of a flower shop|PAULA|That's right I don't.
+On the street in front of a flower shop|GEORGE|I suppose I could just pull this out ( his tucked shirt)and walk around like this and you wouldn't care?
+On the street in front of a flower shop|PAULA|Not a wit.
+On the street in front of a flower shop|GEORGE|Hu humm? i suppose we could go to Lincoln Center and I'd be wearing sneakers and jeans and that would be fine too.
+On the street in front of a flower shop|PAULA|You can wear sweatpants.
+On the street in front of a flower shop|GEORGE|I could..
+On the street in front of a flower shop|PAULA|(seductively) You could drape yourself in velvet, for all I care.
+On the street in front of a flower shop|GEORGE|Velvet...
+Monks|ELAINE|Did you read the whole thing?
+Monks|KRAMER|Oh! yeah.
+Monks|ELAINE|Huh . So What's it about?
+Monks|KRAMER|Well it's a story about love, deception, greed, lust and...unbridled enthusiasm.
+Monks|ELAINE|unbridled enthusiasm...?
+Monks|KRAMER|Well , that's what led to Billy Mumphrey's downfall.
+Monks|ELAINE|Oh! boy.
+Monks|KRAMER|You see Elaine, Billy was a simple country boy. You might say a cockeyed optimist, who got himself mixed up in the high stakes game of world diplomacy and international intrigue.
+Monks|ELAINE|Oh! my God.
+Monks|KRAMER|ah! Here we go.
+Monks|ELAINE|(to the waitress) can I have a scotch on the rocks.
+Monks|KRAMER|May I..( pointing her food)
+Monks|ELAINE|(feeling sick) Yeah! go ahead.
+Monks|KRAMER|what is this?
+Monks|ELAINE|What? What are you doin'? ( Kramer salting her food)
+Monks|KRAMER|I can't taste this.
+Monks|ELAINE|What are you talking about?
+Monks|KRAMER|This food ,it has no taste......nothin' I'm gettin' nothin'...( realizes) It must be the toxic gas from the fumigation......( he leaves paranoid and confused)
+At Shelly's|JERRY|Hey, thanks a lot for lettin' me stay here.
+At Shelly's|SHELLY|Well, I don't keep pecans in the house so I didn't think it'd be a problem.
+At Shelly's|JERRY|( embarrassed laugh) ...Oh! Damn..
+At Shelly's|SHELLY|What's the matter?
+At Shelly's|JERRY|I forgot my toothbrush.
+At Shelly's|SHELLY|Oh! no problem.....You can use mine.
+At Shelly's|JERRY|Yours?....You know what I'll think I'll brush later.
+At Shelly's|SHELLY|Brush now.
+At Shelly's|JERRY|(long pause).......Sure. ( humms a song then stares at the toothbrush)
+Kramer and Newman who is coming out of the market eating a peach.|KRAMER|Newman ,Let me have a bite of your Macanaw..
+Kramer and Newman who is coming out of the market eating a peach.|NEWMAN|What for, you got your own.
+Kramer and Newman who is coming out of the market eating a peach.|KRAMER|Come on ,c'mon i need to taste it. ( takes his peach).....Nothin' , Can't even taste a Macanaw.
+Kramer and Newman who is coming out of the market eating a peach.|NEWMAN|( resumes eating) Well that's a shame.
+Kramer and Newman who is coming out of the market eating a peach.|KRAMER|Waited all year and I can't even taste it..
+Kramer and Newman who is coming out of the market eating a peach.|NEWMAN|You can't taste 'em . Why waste 'em . Why not give them all to me.
+At Viking Press.|ELAINE|It's a story about love , deception ,greed , lust and.... unbridled enthusiasm .
+At Viking Press.|MANDEL|Unbridled enthusiasm.
+At Viking Press.|ELAINE|Yeah!..tha..that's right. that That's what led to...(throath clearing) Billy Mumphrey's downfall.
+At Viking Press.|MANDEL|hmmm...interesting take. So you believe, has he not been so enthusiastic he could have adverted disaster.
+At Viking Press.|ELAINE|Yes...Ye..Yes..That's right...You see ,Billy Mumphrey was a simple country boy. Some might say a cockeyed optimist, who got caught up in the dirty game of world diplomacy and International intrigue.
+At Viking Press.|MANDEL|So.. It was more a question of attitude than politics..
+At Viking Press.|ELAINE|Yes, yes Mr. Mandel.
+Plaza Hotel|MORTY|Hey! Under Siege is on again. Whose up for it?
+Plaza Hotel|LEO|No more nuts. Awrghh.....
+Monks. George walks in wearing velvet.|JERRY|Oh! my god. What the hell is this? ..... Don't tell me.......Velvet!!!
+Monks. George walks in wearing velvet.|GEORGE|It's the real deal.
+Monks. George walks in wearing velvet.|JERRY|She's seen you in this thing.
+Monks. George walks in wearing velvet.|GEORGE|That's right...We just had sex......You know Jerry I've been searching for someone a long time. Well the search is over.
+Monks. George walks in wearing velvet.|JERRY|And now the search for the right psychiatrist begins.
+Monks. George walks in wearing velvet.|GEORGE|He he...So huh! What's with the suitcase.
+Monks. George walks in wearing velvet.|JERRY|Ahh! She threw me out.
+Monks. George walks in wearing velvet.|GEORGE|Why?
+Monks. George walks in wearing velvet.|JERRY|I wouldn't use her toothbrush.
+Monks. George walks in wearing velvet.|GEORGE|So where are you staying?
+Monks. George walks in wearing velvet.|JERRY|Well I guess I'm stuck with the Velvet Fog.
+At Viking again.|MANDEL|Three hours of massage time , twelve in-room movies including several adult features, five shoe shines and four hundred dolars worth of snacks. Not to mention the damage to the room.
+At Viking again.|ELAINE|Mr Mandel, you don't understand ...my my friend had fleas. I ran into the gas, it could have killed me, and my, my other friend couldn't taste his peaches ,they only good for two weeks.
+At Viking again.|MANDEL|I think , you've read, one too many, Billy Mumphrey stories. Good day Miss Benes.
+At Viking again.|ELAINE|Okay...Good day..
+Monks again. George comes in eating a Macanaw peach.|PAULA|Hi George.
+Monks again. George comes in eating a Macanaw peach.|GEORGE|( mouth full) Hi, this is fantastic ( puts the pit in the a plate)D'you ever had a Macanaw peach?
+Monks again. George comes in eating a Macanaw peach.|PAULA|Oh! yeah I love those.
+Monks again. George comes in eating a Macanaw peach.|GEORGE|Too bad , it's all done.
+Monks again. George comes in eating a Macanaw peach.|action|Paula takes the pit and puts it in her mouth. George stares in disbelief , then disgust.
+Kramer is about to lick an envelope he is about to send.|KRAMER|ya....Yes!....Yes! it's back I can taste again. ( to a passerby) Hey! What's the date today?
+Kramer is about to lick an envelope he is about to send.|PASSERBY|The fifteenth.
+Kramer is about to lick an envelope he is about to send.|KRAMER|Fifteenth , Yes last day for the Macanaws. I can still make it. Wait.. Newman...
+Kramer is about to lick an envelope he is about to send.|NEWMAN|Sorry , last one . Would you want to suck the pit?
+Kramer is about to lick an envelope he is about to send.|KRAMER|( fake laugh ) Look Hubert. It's the mailman. You remember the mailman don't you.
+Kramer is about to lick an envelope he is about to send.|action|unleashes a dog; Dog proceeds to chase after Newman
+Finally at The Plaza Hotel|ELAINE|( knocks) Hello is anybody here?..
+Finally at The Plaza Hotel|LEO|They said they were sending an Asian woman.
+Finally at The Plaza Hotel|ELAINE|Oh! my God.

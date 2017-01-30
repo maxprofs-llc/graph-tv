@@ -1,0 +1,293 @@
+Jerry's Apartment|GEORGE|...pianist. A *classical* pianist. She *plays* the piano. She's a *brilliant* woman. I-I-I sat in her living room... She played the *Waldstein Sonata*! The *Waldstein*!
+Jerry's Apartment|GEORGE|We did a crossword puzzle together, *in bed*. It was the most fun I ever had in my entire life. Did you hear me? in my *life*! Y'know?
+Jerry's Apartment|action|Jerry enters
+Jerry's Apartment|JERRY|Were you talking? I couldn't hear anything.
+Jerry's Apartment|GEORGE|I was telling you about Noel.
+Jerry's Apartment|JERRY|Oh, Noel! Yeah, the one who plays bongos...
+Jerry's Apartment|GEORGE|[sarcastically] Heh heh heh... So side-splittingly funny...
+Jerry's Apartment|JERRY|All right, I'm sorry. What about her?
+Jerry's Apartment|GEORGE|What, you think I'm going to repeat the whole thing now?
+Jerry's Apartment|JERRY|I know, you told me you like her, everything is going good.
+Jerry's Apartment|GEORGE|No everything is *not* going good. I'm very uncomfortable. I have no power. I mean, why should she have the upper hand. *Once* in my life I would like the upper hand. I have no hand-- no hand at all. She has the hand; I have *no* hand...
+Jerry's Apartment|GEORGE|How do I get the hand?
+Jerry's Apartment|JERRY|We all want the hand. Hand is tough to get. You gotta get the hand right from the opening.
+Jerry's Apartment|GEORGE|She's playing a recital this week at the McBierney School. You wanna hear her play? I got two extra tickets, you and Elaine could go...
+Jerry's Apartment|JERRY|Yeah, that sounds like somethin'...
+Jerry's Apartment|GEORGE|Then afterwards maybe we could all go out together. Y'know she'll see me with my friends, she'll observe me as I really am, as myself. Maybe I can get some hand that way.
+Jerry's Apartment|action|Kramer enters
+Jerry's Apartment|KRAMER|Hey, smell my arm... Smell it!
+Jerry's Apartment|GEORGE|With all due respect, I don't think so...
+Jerry's Apartment|JERRY|That smells good, what is that?
+Jerry's Apartment|KRAMER|The *beach*!
+Jerry's Apartment|JERRY|The *beach*?
+Jerry's Apartment|GEORGE|What, did you go swimmin'? It's 29 degrees out!
+Jerry's Apartment|KRAMER|I just joined the Polar Bear Club.
+Jerry's Apartment|JERRY|You joined the *Polar Bears*?!
+Jerry's Apartment|GEORGE|What the Hell is a "Polar Bear"?
+Jerry's Apartment|KRAMER|Well, it's these people-- they go swimmin' in the winter. They're terrific, I just took my first swim today. Brrrrrrr! It's invigorating....
+Jerry's Apartment|JERRY|Yeah... So's shock therapy.
+Jerry's Apartment|JERRY|[with glee] What is that, a Pez dispenser?!
+Jerry's Apartment|KRAMER|Want one? Yeah, I just bought it at the Flea Market.
+Jerry's Apartment|GEORGE|Hey, what goes on there, exactly?
+Jerry's Apartment|JERRY|You don't know?
+Jerry's Apartment|GEORGE|No, I-I-I know... [retreats back to his Chinese take out] I know...
+Jerry's Apartment|JERRY|You think they have fleas there, don't you?
+Jerry's Apartment|GEORGE|*No*...
+Jerry's Apartment|JERRY|Yes you do, Biff. You've never been to a Flea Market, and you think they have fleas there.
+Jerry's Apartment|GEORGE|All right, I think they have fleas there. So what...
+Jerry's Apartment|ELAINE|I don't know how anyone does this. It must be *so* nerve racking... How do they warm up their fingers?
+Jerry's Apartment|JERRY|They have a piano backstage they warm up on.
+Jerry's Apartment|ELAINE|*No*, we would have heard it.
+Jerry's Apartment|JERRY|What, do you think they just crack their knuckles and come out?
+Jerry's Apartment|GEORGE|I told her we'd all go out afterwards, okay? And don't applaud when she stops playing the first time. It's not over yet.
+Jerry's Apartment|JERRY|[quickly whispering] I resent that you said that! That's directed at *me*, isn't it?!
+Jerry's Apartment|action|A very elegant Noel comes out and sits at her piano.
+Jerry's Apartment|JERRY|Is this okay? Can I do this? (he claps)
+Jerry's Apartment|action|Noel begins. Dramatically. It's enough to make a man reach for his candy pooper. Jerry helps himself to a Pez, he stands Tweety up on Elaine's purse on her lap. Elaine valiantly tries to hold back her laughter, but it escalates from a giggle to a chortle to a chuckle to laughter to snorting. Noel is visibly shaken and she has difficulty playing with this anonymous distraction from one of the unwashed masses. Elaine removes herself from the auditorium, all the while snorting and gasping for breath, (we're talkin' full-on gales of laughter, here). Outside, she runs into an old acquaintance.
+Jerry's Apartment|STEVE|Something I said? [no response] It's John... Mollika.
+Jerry's Apartment|ELAINE|Oh, oh, *John*... Oh, hi John... Hi...
+Jerry's Apartment|STEVE|What're you doing down here?
+Jerry's Apartment|ELAINE|Oh, I was just at this recital and Jerry put a Pez dispenser on my leg and I started laughing.
+Jerry's Apartment|MOLLIKA|Jerry's in there? I heard you guys broke up.
+Jerry's Apartment|ELAINE|We did. We're just hanging out.
+Jerry's Apartment|MOLLIKA|REally. ... You really look great.
+Jerry's Apartment|ELAINE|Oh, uh, thank you. Are you still friends with Richie Appel?
+Jerry's Apartment|MOLLIKA|Oh, Richie, he's been doing comedy in L. A. for a few years. He just got back a month ago. He's kind of messed up. On drugs. I don't know what to do for the guy.
+Jerry's Apartment|ELAINE|Have you thought about an intervention?
+Jerry's Apartment|MOLLIKA|What's that?
+Jerry's Apartment|ELAINE|You get all his friends in a room, They confront himm to try to get him into rehab. It's a very popular thing now.
+Jerry's Apartment|MOLLIKA|He'd never listen to anyone. ... Except of course Jerry. He'd listen to Jerry. Jerry would have to be involved. He really respects Jerry.
+Jerry's Apartment|action|Cut to Jerry playing with Tweety Bird Pez dispenser.
+Outside Noel's dressing room|GEORGE|What did you put the Pez dispenser on her leg for in the first place?
+Outside Noel's dressing room|JERRY|I dunno, it was an impulse.
+Outside Noel's dressing room|GEORGE|What kind of a sick impulse does that??
+Outside Noel's dressing room|JERRY|How could I know she would start to laugh?
+Outside Noel's dressing room|ELAINE|I'm sorry. I'm sorry. I *am*!
+Outside Noel's dressing room|JERRY|Can we just go in already?
+Outside Noel's dressing room|GEORGE|What are we gonna tell her?
+Outside Noel's dressing room|ELAINE|I'll tell her I was the one who laughed.
+Outside Noel's dressing room|GEORGE|No, don't say a word. If she thinks my friends are jerks, then I'm a *jerk*...
+Outside Noel's dressing room|ELAINE|[To Jerry] Oh, remind me to talk to you about something later.
+Outside Noel's dressing room|JERRY|What about?
+Outside Noel's dressing room|GEORGE|Hey, hey! We're discussing something!
+Outside Noel's dressing room|JERRY|I know, but I'm distracted now.
+Outside Noel's dressing room|GEORGE|What are you? A *baby*!? All right. Tell her.
+Outside Noel's dressing room|ELAINE|When I was outside I ran into John Mollika.
+Outside Noel's dressing room|JERRY|Really John Mollika, they guy that used to bartend at the Comedy Club. How's he doing?
+Outside Noel's dressing room|ELAINE|He's good.
+Outside Noel's dressing room|GEORGE|Uh, can we cut to the chase?
+Outside Noel's dressing room|JERRY|"Cut to the chase"?
+Outside Noel's dressing room|GEORGE|Yeah...
+Outside Noel's dressing room|JERRY|What're you, "Joe Hollywood"?
+Outside Noel's dressing room|GEORGE|A lot of people say it.
+Outside Noel's dressing room|JERRY|I would lose that.
+Outside Noel's dressing room|GEORGE|[Accusingly] What's *that*?
+Outside Noel's dressing room|JERRY|"Lose that"? That's not a Hollywood expression!
+Outside Noel's dressing room|GEORGE|[Realizing full well it isn't] ...Yes it is.
+Outside Noel's dressing room|ELAINE|Anyway ... So John told me that Richie is in town from Los Angeles and he's really messed up on drugs. So I told him that he should do an intervention.
+Outside Noel's dressing room|JERRY|Really, an intervention ...
+Outside Noel's dressing room|GEORGE|Y'know people, we got a situation over here!
+Outside Noel's dressing room|ELAINE|Yeah, but he want's you to be a part of it.
+Outside Noel's dressing room|JERRY|Me? Why me?
+Outside Noel's dressing room|ELAINE|'Cause Richie really respects you and he would listen to you.
+Outside Noel's dressing room|JERRY|Y'know these things are *really* hard to load...
+Outside Noel's dressing room|GEORGE|All right, OK, I'm goin' in.
+Outside Noel's dressing room|JERRY|We've got to talk about this (to Elaine)
+Outside Noel's dressing room|ELAINE|All right.
+Outside Noel's dressing room|action|They Enter
+Outside Noel's dressing room|GEORGE|Hi, hi, hi, You were wonderful.
+Outside Noel's dressing room|NOEL|No..
+Outside Noel's dressing room|GEORGE|Oh, these are my friends, Elaine and Jerry, ... Noel
+Outside Noel's dressing room|JERRY|You play a *Hell* of a piano.
+Outside Noel's dressing room|ELAINE|Yeah, I was really moved, *really* moved.
+Outside Noel's dressing room|NOEL|Well didn't you hear that person laughing? I couldn't play. I was *humiliated...
+Outside Noel's dressing room|ELAINE|Well, I'm sure it wasn't *at* you.
+Outside Noel's dressing room|NOEL|Well then, what was she laughing at?
+Outside Noel's dressing room|JERRY|Pez?
+Outside Noel's dressing room|NOEL|Uh, no, No thank you. Did you see her?
+Outside Noel's dressing room|GEORGE|Me, uh, uh, no, ...
+Outside Noel's dressing room|JERRY|Anyone who would laugh at a recital is probably some sort of lunatic anyway. I mean only a sick twisted mind could be that rude and ignorant.
+Outside Noel's dressing room|ELAINE|Maybe some mental defective put something stupid on her leg.
+Outside Noel's dressing room|JERRY|Even if this so called mental defective did put something on her leg she's still the one who laughed.
+Outside Noel's dressing room|NOEL|I'll never forget that laugh for the rest of my life. [exits]
+Outside Noel's dressing room|ELAINE|I'm sure she would apologize if she could. Probably somebody is holding her back against every fibre in her being.
+Outside Noel's dressing room|GEORGE|If she want's to continue to have a fibre of her being she'll be very careful (hitting each other)
+Noel enters|GEORGE|All right, so are you ready, so we'll go out and get something to eat.
+Noel enters|NOEL|I don't feel like it tonight.
+Noel enters|JERRY|We'll be outside
+Noel enters|ELAINE|Yeah
+Noel enters|JERRY|It was nice meeting you By the way, How do you warm up your fingers before you play?
+Noel enters|NOEL|I just crack my knuckles.
+Noel enters|GEORGE|We'll have a good time
+Noel enters|NOEL|I don't feel like it
+Noel enters|GEORGE|Ah, come on
+Noel enters|NOEL|I said I DON'T FEEL LIKE IT!
+Noel enters|GEORGE|Um, all right, um, uh, I'll call 'ya. I'll call you and we'll talk on the phone. A telephone communiqué. Every thing is fine ok, uh, fine, .. [exits]
+MONKS|JERRY|You know I thing Kramer might have been responsible for getting Richie involved with drugs in the first place.
+MONKS|ELAINE|What? How?
+MONKS|JERRY|A few years ago the comedy club had a softball team. Kramer was our first baseman You couldn't get anything by him It was unbelievable. Anyway this one game we came back to win from like 8 runs behind. So Kramer says to Richie why don't you dump the bucket of Gatorade on Marty Benson's head? The club owner. So Richie goes ahead and does it.
+MONKS|ELAINE|So? What happened?
+MONKS|JERRY|What happened? The guy was like 67 years old, it was freezing out, he caught a cold, got pneumonia, and a month later he was dead.
+MONKS|ELAINE|Shut up!
+MONKS|JERRY|All the comedians were happy. He was one of these club owners nobodu liked anyway. But Richie was never the same.
+MONKS|ELAINE|Whar about Kramer?
+MONKS|JERRY|He's the same!
+Jerry on phone at home|JERRY|Are you sure you want me John. I have spoken to Richie in two years. I don't have a good apartment for an intervention. The furniture, it's very non-confrontational. All right All right. Goodbye. [to Kramer] Remember Ricie Appel?
+Jerry on phone at home|KRAMER|(looks shocked) Oh sure, the guy I told to pour the Gatorade that killed Marty Benson?
+Jerry on phone at home|JERRY|Right, we'll John Mollika is organizing some kind of intervention for him. We're having it here.
+Jerry on phone at home|KRAMER|Can I get in on that?
+Jerry on phone at home|JERRY|What do you think? It's like a poker game?
+Jerry on phone at home|KRAMER|Is Elaine going?
+Jerry on phone at home|JERRY|Yeah
+Jerry on phone at home|KRAMER|Well, I knew him as well as she did.
+Jerry on phone at home|JERRY|Yeah, but John invited her.
+Jerry on phone at home|KRAMER|So what are you saying, you don't want me to intervene?
+Jerry on phone at home|JERRY|No, intervene, go intervene all you want. I am just afraid you might be interfering while we're intervening.
+Jerry on phone at home|action|Buzzer
+Jerry on phone at home|GEORGE|It's George
+Jerry on phone at home|JERRY|Stop smelling your arm.
+Jerry on phone at home|KRAMER|You know I got a great idea for a cologne. The Beach. You spray it on and you smell like you just came home from the beach
+Jerry on phone at home|JERRY|Hum, a cologne that smells like the beach. I can't believe I'm saying this, "That's not a bad idea."
+Jerry on phone at home|KRAMER|Tell me about it!
+Jerry on phone at home|JERRY|Why don't you call Steve D'Jiff, he works in the marketing department at Calvin Klein. In fact he's a good friend of John Mollika and Richie also.
+George enters|GEORGE|Well it's over. It's definitely over.
+George enters|JERRY|She broke up with you?
+George enters|GEORGE|No, but I can tell she's going to. I can sense it. We had this terrible phone conversation. I was so nervous before I called I made up this whole list of things to talk about.
+George enters|JERRY|What was on the list?
+George enters|GEORGE|Let's see, How I'm very good at going in reverse in my car, why isn't Postum a more popular drink,
+George enters|JERRY|Yeah, Postum is under-ratted,
+George enters|GEORGE|Anyway there was all this tension. I asked her if she wanted to go out to dinner and she said "no, maybe we could get together for lunch." You know what that means.
+George enters|JERRY|What's wrong with lunch?
+George enters|GEORGE|Lunch is fine at the beginning then you move on to dinner. you don't move back to lunch. It's like being demoted. I'll never do another crossword puzzle with her again. I know it.
+George enters|KRAMER|I like the Jumble You ever do the Jumble?
+George enters|GEORGE|I have no power Do you understand? I need hand. I have no hand.
+George enters|KRAMER|Break up with her
+George enters|GEORGE|What?
+George enters|KRAMER|You break up with her. You reverse everything that way.
+George enters|JERRY|A preemptive breakup.
+George enters|GEORGE|A preemptive breakup. This is an incredible idea. I got nothing to lose. We either break up which she would do anyway but at least I go out with some Dignity. Completely turn the tables. It's absolutely brilliant.
+MONKS|GEORGE|So, I am have to going to break up with you.
+MONKS|NOEL|You're breaking up with me?
+MONKS|GEORGE|I, ... am breaking up with, ... you.
+MONKS|NOEL|Wow.
+MONKS|GEORGE|Shocked?
+MONKS|NOEL|I really am.
+MONKS|GEORGE|Never expected this did you?
+MONKS|NOEL|I thought everything was fine.
+MONKS|GEORGE|Well, live and learn.
+MONKS|NOEL|I don't understand. You're breaking up with me. Didn't we have fun doing the crossword puzzles?
+MONKS|GEORGE|Kind of.
+MONKS|NOEL|I'm very confused.
+MONKS|GEORGE|Well, I didn't mean to hurt you kid.
+MONKS|NOEL|I thought,...
+MONKS|GEORGE|Now, stop it ...
+MONKS|NOEL|What do you want, I can make you happy.
+MONKS|GEORGE|When you're playing the piano do you think about me?
+MONKS|NOEL|I don't know.
+MONKS|GEORGE|This is what I'm talking about.
+MONKS|NOEL|OK, I'll think about you.
+MONKS|GEORGE|All the time.
+MONKS|NOEL|All the time? ... OK, All the time.
+MONKS|GEORGE|I can't hear you.
+MONKS|NOEL|All the time. ALL THE TIME.
+MONKS|GEORGE|See, It's not so hard.
+CALVIN KLEIN|KRAMER|Go ahead smell, smell
+CALVIN KLEIN|STEVE|Yeah, so?
+CALVIN KLEIN|KRAMER|Do you recognize it? ... The beach.
+CALVIN KLEIN|STEVE|What are you talking about?
+CALVIN KLEIN|KRAMER|Oh, I'm talking about the beach.
+CALVIN KLEIN|STEVE|What about it?
+CALVIN KLEIN|KRAMER|You know the way you smell when you first come home from the beach? Well, I want to make a cologne that captures the essence of that smell. Oh yeah.
+CALVIN KLEIN|STEVE|That is the dumbest idea I have ever heard.
+CALVIN KLEIN|KRAMER|Oh, wait, Did you here what I just said?
+CALVIN KLEIN|STEVE|Do you think people are going to pay $80 a bottle to smell like dead fish and sea weed? That's why people take showers when the come home from the beach. It's an objectionable offensive odour.
+CALVIN KLEIN|KRAMER|So you don't think it's a good idea?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|To Elaine
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GUY|The membranes get dried and it just starts bleeding. Since I was a kid so I have to stick tissue up there
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|(very uninterested) Uh, you have to work like that?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GUY|Nobody minds Nobody has ever said anything to me.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|To Jerry
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|In the freezer.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Well I guess there aren't any ice cubes.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GUY|Shouldn't we rehearse this a little bit before Richie comes?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|STEVE|What's the plan?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Do I have to talk? I don't feel like talking.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GUY|No, we all have to talk.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|What's the order?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GUY|We'll go in alphabetical order. First Roberta.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ROBERTA|Why am I first?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|Albano is your last name.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ROBERTA|That's not my name any more. I'm divorced.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|STEVE|I'll go first.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Kramer enters
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|KRAMER|Hey.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Hey.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|KRAMER|Is this the interference?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Intervention.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|KRAMER|Uh, is it all right if I stay for the intervention?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|STEVE|Hey, this is for close friends only.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|KRAMER|I'm a friend. Who do you think told him to pour the Gatorade over Marty Benson's head?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|KRAMER|Hey, you know I got someone to make up that cologne for me, big mouth.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|STEVE|Somebody's going to make that crap?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Some old guys enter
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|KRAMER|Hey, come on, these are some of my polar bear buddies.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|No, we're having an intervention
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|There's a friend of ours on drugs and we're going to confront him.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Buzzer
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GUY|It's him.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ROBERTA|What should we do?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|Hide!
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|It's NOT a surprise party! Yeah (to intercom)
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|It's George
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Yeah, come on up. ... It's not him.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GUY|If you don't go out with me it's because I'm a bar tender.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|Look, I don't think this is appropriate right now.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GUY|Is it because I have a tissue in my nose?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|You're getting warm.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|George and Noel enter (Noel looks awful
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|We just came from Chadway's(?) What's going on.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|We're having the intervention for Richie.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|Oh, right, right, the intervention. Should we leave?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Well, uh..
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|NOEL|(happily) Elaine, hi.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|Oh, hi Noel
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Noel sits on couch with Elaine with Old Guy between them
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Well, you're looking well.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|Jerry, let me tell you something, "A man without hand is not a man." I got so much hand I'm coming out of my gloves. I got to thank Kramer.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|STEVE|Even if I were dragged through manure I still wouldn't put that stuff on.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|(to Kramer) This man is a genius. Genius!
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|STEVE|You think so?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|I don't think so I know so, Kramer, come here I got to talk to you
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|(Chuckles)
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|(laughs)
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Noel turns to Elaine. Jerry raises his eyes to heaven
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|NOEL|That laugh. That's the laugh. That's it. You're the one.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|ELAINE|No, no. It was an accident. It really wasn't my fault. It was Jerry.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Jerry put a Pez dispenser on my leg
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|NOEL|You put a Pez dispenser on her leg during my recital?.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|I didn't know she would laugh.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|NOEL|You lied to me George, you lied to me.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|No, I, uh, um, wa, wa, What did I do? ... Where are you going?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|NOEL|I ... am breaking up ... with you!
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|You can't break up with me. I've got hand.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|NOEL|And you're going to need it.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Noel exits, George chases her
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Richie and John enter
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Hey Richie
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|RICHIE|So what's going on?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|action|Later
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|It was pretty ugly from the get go. he's not listening, He's hostile, he's talking back.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|I can't do these puzzles.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|So he starts to get up He spots the Pez dispenser on the coffee table
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|Ah ah Pez dispenser.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|He picks it up - he stares at it - It's like he's hypnotized by it. Then he's telling us this story about how when he was a kid he was in the car with his father, and his father was trying to load one of them
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|Well they're hard to load.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Tell me something I don't know. So as the father's trying to load it he loses control of the car and it crashes into a high school cafeteria. Nobody's hurt but Pez is all over the car. And the dispenser was destroyed virtually beyond recognition.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|Poor kid.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|So as he's telling the story he starts crying.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|What did you do?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|What do you think? I gave him my Pez dispenser.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|Wow
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|Two hours later he checks into Smither's clinic. I talked to the doctor yesterday. He's doing great on the rehab. He's hooked on Pez. He's eating them like there's no tomorrow.
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|GEORGE|What's a three letter word for candy?
+The Intervention [NOTE:DOUBLE CHECK THIS PART FOR SURE!!!!|JERRY|I can't do those things.

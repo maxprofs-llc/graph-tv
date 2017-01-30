@@ -1,0 +1,326 @@
+COMEDY CLUB|action|Jerry is on stage, performing.
+COMEDY CLUB|JERRY|So I move into the centre lane, now I get ahead of this women, who felt for some reason I guess, that she thought that I cut her off. So, she pulls up along side of me, gives me the finger. It seems like such an arbitrary, ridiculous thing to just pick a finger and you show it to the person. It’s a finger, what does it mean? Someone shows me one of their fingers and I’m supposed to feel bad. Is that the way it’s supposed to work? I mean, you could just give someone the toe, really, couldn’t you? I would feel worse if I got the toe, than if I got the finger. ‘Cause it’s not easy to give someone the toe, you’ve gotta get the shoe off, the sock off and drive, get it up and... (Jerry pretends to drive with one foot in the air, giving the toe.) “Look at that toe, buddy.” (He puts his foot down.) I mean, that’s really insulting to get the toe, isn’t it?
+JERRY’S APARTMENT|action|Jerry is packing a suitcase. Elaine is sitting at the table, watching him.
+JERRY’S APARTMENT|JERRY|Is that it? Got the cue tips, got the mini-umbrella, something boring to read on the plane. (Jerry zips his bag ceremoniously.) That’s it. Done!
+JERRY’S APARTMENT|ELAINE|(claps her hands) That is the single greatest packing performance I have ever seen.
+JERRY’S APARTMENT|JERRY|(proudly) I am...the master packer.
+JERRY’S APARTMENT|ELAINE|(laughs) Yeah, right, you’re the master packer.
+JERRY’S APARTMENT|JERRY|What you must understand, Elaine, (picking up the umbrella) packing is no different than leading men into battle. (Jerry hits his bag rhythmically with his umbrella.) You’ve gotta know the strengths and weaknesses of every soldier in that platoon. From a collapsible toothbrush to a pair of ordinary black socks.
+JERRY’S APARTMENT|ELAINE|(raising her hand) ‘Scuse me, master packer...
+JERRY’S APARTMENT|JERRY|Yes.
+JERRY’S APARTMENT|ELAINE|Just gimme your keys.
+JERRY’S APARTMENT|JERRY|All right, sir. (He tosses Elaine his keys. The apartment buzzer goes off; Jerry presses the first button; to the intercom) George?
+JERRY’S APARTMENT|GEORGE|(from the intercom) Yeah.
+JERRY’S APARTMENT|action|Jerry presses the second button, and opens the apartment door.
+JERRY’S APARTMENT|ELAINE|Okay, so, now, is there anything else I need to know about this place?
+JERRY’S APARTMENT|JERRY|Uh, yeah, the, uh, hot water takes a little while to come on. So, the best thing to do is to turn it on, do all your shopping, you come back and take a shower.
+JERRY’S APARTMENT|ELAINE|Okay, this is quite a place.
+JERRY’S APARTMENT|JERRY|There’s more. The refrigerator.
+JERRY’S APARTMENT|action|Jerry opens the fridge.
+JERRY’S APARTMENT|JERRY|Deduct a minimum of two days off all expiration dates. (He uses the umbrella to point to certain compartments in the fridge.) No meat, no leftovers, no butter. (He closes the fridge.) And I cannot overstate this: No soft cheeses of any kind. Is that clear?
+JERRY’S APARTMENT|ELAINE|I’ll eat out.
+JERRY’S APARTMENT|JERRY|One more thing, Benes, regarding sexual activity: Strictly prohibited, but if you absolutely must, do us all a big favour. Do it in the tub.
+JERRY’S APARTMENT|action|George enters.
+JERRY’S APARTMENT|GEORGE|(to Jerry) Ready?
+JERRY’S APARTMENT|JERRY|Yeah, one sec.
+JERRY’S APARTMENT|action|George closes the door.
+JERRY’S APARTMENT|GEORGE|Hey, Elaine.
+JERRY’S APARTMENT|ELAINE|Hi.
+JERRY’S APARTMENT|GEORGE|Coming to the airport with us?
+JERRY’S APARTMENT|ELAINE|No, I’m staying here for the weekend. I’m getting a break from my roommate.
+JERRY’S APARTMENT|GEORGE|Oh, the actress-waitress?
+JERRY’S APARTMENT|ELAINE|No, the waitress-actress. She just got some part in some dinner theater production of “A Chorus Line”. So, now all day long she’s walking around the apartment singing, “God, I hope I get it, I hope I get it!” She’s gonna get it right in her...
+JERRY’S APARTMENT|GEORGE|So just kick her out.
+JERRY’S APARTMENT|ELAINE|She’s on the lease! George you have got to find another place for me.
+JERRY’S APARTMENT|GEORGE|Yeah, well...a little rough finding something good in your price-range. (to Jerry) But you, my friend, may be in luck.
+JERRY’S APARTMENT|JERRY|I’m not looking.
+JERRY’S APARTMENT|GEORGE|No no no, this one’s different. This one’s a beauty!
+JERRY’S APARTMENT|JERRY|Yeah, what’s it like?
+JERRY’S APARTMENT|GEORGE|I haven’t seen it yet, but it’s a two-bedroom, it’s on the uh, west 83rd, ‘bout a half block from the park?
+JERRY’S APARTMENT|JERRY|How much?
+JERRY’S APARTMENT|GEORGE|Uh, twice what you’re payin’ here, but it’s a great building. It’s two bedrooms!
+JERRY’S APARTMENT|JERRY|Two bedrooms? Why do I need two bedrooms? I got enough trouble maintaining activity in one. (George gives Elaine a look while Jerry’s back is turned. Jerry turns around.) I saw that.
+JERRY’S APARTMENT|ELAINE|You oughta at least take a look at it.
+JERRY’S APARTMENT|JERRY|Really? Why?
+JERRY’S APARTMENT|ELAINE|‘Cause then I could move in here.
+JERRY’S APARTMENT|JERRY|Ohhhh...
+JERRY’S APARTMENT|ELAINE|It’s time you got outta here anyway.
+JERRY’S APARTMENT|GEORGE|Yeah, tell ‘im. But quickly, I’m double parked here.
+JERRY’S APARTMENT|ELAINE|Listen, Jerry, this place is falling apart. You have no hot water, you can’t have soft cheese...
+JERRY’S APARTMENT|GEORGE|Let’s not forget the radiator. The steam has been on here for ten years. No human can turn this off.
+JERRY’S APARTMENT|ELAINE|Jerry, come on, you’re doin’ okay now. You should at least take a look at this place. You shouldn’t have to live like this.
+JERRY’S APARTMENT|JERRY|Like this? You just said you wanted to live here.
+JERRY’S APARTMENT|ELAINE|Well, for me it’s a step up. It’s like moving from Iceland to Finland.
+JERRY’S APARTMENT|GEORGE|Jerry, what do you, you wanna, you wanna see the place or not?
+JERRY’S APARTMENT|JERRY|I can’t think about it now. Come on, I’m going to Minneapolis. I got four shows this weekend.
+JERRY’S APARTMENT – DAY|action|Jerry enters his apartment with his bags.
+JERRY’S APARTMENT – DAY|JERRY|Elaine. (Jerry puts his bags down, sits down on the couch, picks up the remote control and points it at the spot the TV usually occupies. The TV is not there. He continues to point the remote at random things around the room, searching for the TV.) ELAINE!
+JERRY’S APARTMENT – DAY|ELAINE|(from the bathroom) JERRY! (Elaine enters the living-room.) Jerry, oh, hi, welcome back. How were the shows?
+JERRY’S APARTMENT – DAY|JERRY|Great, I had fun. Where’s the TV, where’s the VCR?
+JERRY’S APARTMENT – DAY|action|Elaine has a guilty look on her face.
+JERRY’S APARTMENT – DAY|JERRY|What?
+JERRY’S APARTMENT – DAY|ELAINE|They were stolen.
+JERRY’S APARTMENT – DAY|JERRY|Stolen? When?
+JERRY’S APARTMENT – DAY|ELAINE|A couple a hours ago. The police are coming right over.
+JERRY’S APARTMENT – DAY|JERRY|Stolen?
+JERRY’S APARTMENT – DAY|action|Kramer enters the apartment.
+JERRY’S APARTMENT – DAY|ELAINE|(looking at Kramer) Someone left the door open.
+JERRY’S APARTMENT – DAY|action|Elaine enters the bathroom.
+JERRY’S APARTMENT – DAY|JERRY|(to Kramer) You left the door open?!
+JERRY’S APARTMENT – DAY|KRAMER|Uh, Jer, well you know, I was cookin’ and I, I uh, I came in to get this spatula...and I left the door open, ‘cause I was gonna bring the spatula right back!
+JERRY’S APARTMENT – DAY|JERRY|Wait, you left the lock open or the door open?
+JERRY’S APARTMENT – DAY|KRAMER|(guiltily) The door.
+JERRY’S APARTMENT – DAY|JERRY|The door? You left the door open?
+JERRY’S APARTMENT – DAY|KRAMER|Yeah, well, I was gonna bring the spatula right back.
+JERRY’S APARTMENT – DAY|JERRY|Yeah, and?
+JERRY’S APARTMENT – DAY|KRAMER|Well, I got caught up... watching a soap opera. “The Bold And The Beautiful”.
+JERRY’S APARTMENT – DAY|JERRY|So the door was wide open?
+JERRY’S APARTMENT – DAY|KRAMER|Wide open!
+JERRY’S APARTMENT – DAY|action|Elaine enters the living room.
+JERRY’S APARTMENT – DAY|JERRY|(to Elaine) And where were you?
+JERRY’S APARTMENT – DAY|ELAINE|I was at Bloomingdale’s... waiting for the shower to heat up.
+JERRY’S APARTMENT – DAY|KRAMER|Look, Jerry, I’m sorry, I’m uh- you have insurance, right buddy?
+JERRY’S APARTMENT – DAY|JERRY|No.
+JERRY’S APARTMENT – DAY|KRAMER|(shocked) How can you not have insurance?
+JERRY’S APARTMENT – DAY|JERRY|Because I spent my money on the Clapgo D-29. It’s the most impenetrable lock on the market today. It has only one design flaw. The door... (Jerry pushes the door shut.) ...MUST BE CLOSED!!
+JERRY’S APARTMENT – DAY|KRAMER|Jerry! I’m gonna find your stuff. I’m gonna solve it, I’m on the case, buddy, I’m on the case.
+JERRY’S APARTMENT – DAY|JERRY|Yeah, don’t investigate, don’t pay me back, it was an accident.
+JERRY’S APARTMENT – DAY|KRAMER|(theatrical) I made a mistake.
+JERRY’S APARTMENT – DAY|ELAINE|These things happen.
+JERRY’S APARTMENT – DAY|KRAMER|I’m human.
+JERRY’S APARTMENT – DAY|JERRY|In your way.
+JERRY’S APARTMENT – DAY|action|A policeman is filling out a report. Jerry and Elaine are there.
+JERRY’S APARTMENT – DAY|POLICEMAN|Let’s see, that’s, one TV, a stereo, one leather jacket, a VCR and a computer...is that ‘bout it?
+JERRY’S APARTMENT – DAY|ELAINE|Answering machine.
+JERRY’S APARTMENT – DAY|JERRY|(disappointed) Answering machine. (jovially) Oh, I hate the idea of somebody out there returning my calls.
+JERRY’S APARTMENT – DAY|POLICEMAN|What do you mean?
+JERRY’S APARTMENT – DAY|JERRY|It’s a joke.
+JERRY’S APARTMENT – DAY|POLICEMAN|I see. Well, mister Seinfeld uh, we’ll look into it and uh, we’ll let you know if we uh, you know, if we find anything.
+JERRY’S APARTMENT – DAY|JERRY|You ever find anything?
+JERRY’S APARTMENT – DAY|POLICEMAN|No.
+JERRY’S APARTMENT – DAY|action|Policeman hands Jerry his copy of the report.
+JERRY’S APARTMENT – DAY|JERRY|Well, thanks anyway.
+JERRY’S APARTMENT – DAY|POLICEMAN|You bet.
+JERRY’S APARTMENT – DAY|action|Policeman leaves the apartment, while George enters.
+JERRY’S APARTMENT – DAY|ELAINE|I didn’t get that joke either.
+JERRY’S APARTMENT – DAY|JERRY|The crook has the machine. The messages aren’t for him. He’s the crook. Why would he answer- (Jerry gives up on the explanation and turns around to see George standing behind him.) How did you get in here?
+JERRY’S APARTMENT – DAY|action|George slaps his right hand on his left elbow, and vice versa, acting like a genie.
+JERRY’S APARTMENT – DAY|JERRY|Again?
+JERRY’S APARTMENT – DAY|GEORGE|I don’t know how you put up with this.
+JERRY’S APARTMENT – DAY|ELAINE|Yeah, tell ‘im George.
+JERRY’S APARTMENT – DAY|JERRY|(to Elaine) You would still wanna move in here?
+JERRY’S APARTMENT – DAY|ELAINE|Yes! You don’t understand. I’m living with Ethel Merman without the talent.
+JERRY’S APARTMENT – DAY|JERRY|(to George) Is that uh, other apartment still available?
+JERRY’S APARTMENT – DAY|action|George shows him the keys.
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|I got ripped off for about the...18th time? And now, the first couple a times you go through it, it’s very upsetting and your first reaction or one of your friends will say, “Call the police. You really should call the police.” So you think to yourself, you know, you watch TV, you think, “Yeah, I’m calling the police. Stakeouts, manhunts... I’m gonna see some real action.” Right, you think that. So, the police come over to your house, they fill out: The Report. They give you: Your Copy. Now, unless they give the crook his copy, I don’t really think we’re gonna crack this case, do you? It’s not like Batman, where there’s three crooks in the city and everybody pretty much knows, who they are. Very few crooks even go to the trouble to come up with a theme for their careers anymore. It makes them a lot tougher to spot. “Did you lose a sony? It could be the Penguin. I think we can round him up, he’s dressed like a PENGUIN! We can find him, he’s a PENGUIN!
+THE APARTMENT ON 83RD STREET – DAY|action|George, Elaine and Jerry are entering the apartment.
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Oh, well, come on. This is an apartment, this is a home! This is a place to live. Oooh, a fireplace, are you kidding me! Does this work?
+THE APARTMENT ON 83RD STREET – DAY|action|Elaine takes a closer look at the fireplace.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|I didn’t know there was a fireplace. A fireplace, that's incredible.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|How do you get all that wood in here?
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|They deliver it.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|They deliver wood?
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Yeah.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|What do you tip a wood guy?
+THE APARTMENT ON 83RD STREET – DAY|action|George looks intensively at the apartment description.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|I didn’t know there was a fireplace.
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Look! Look at- look at this! There’s a garden.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|A garden! I can’t believe there’s a garden!
+THE APARTMENT ON 83RD STREET – DAY|JERRY|Would I have to get a gardener?
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Yeah, you can get a gardener.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|You tip him?
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|You can.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|(to Elaine) You don’t tip a gardener!
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|You can tip a gardener.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|You don’t need a gardener.
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Jerry, you can barbecue back here.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|They deliver the coal?
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Sure, it’s...probably the same guy, who delivers the wood.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|Oh, then I gotta tip him.
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Oh, damn, this place is incredible, look at all this great light!
+THE APARTMENT ON 83RD STREET – DAY|JERRY|I don’t have any plants.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|I have plants. (snorts)
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Jerry, look at this closet! Look at this! I’m walking in it! (Elaine walks into the closet.) It’s a walk-in. Can you believe it? I’m nuts about this, what do you think?
+THE APARTMENT ON 83RD STREET – DAY|action|Jerry closes the door, with Elaine still in it.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|I like that. (He opens the closet. Elaine walks out with an angry look.) What do you think, George?
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|It’s your decision.
+THE APARTMENT ON 83RD STREET – DAY|action|Jerry walks around with Elaine walking next to him, copying his every move. Suddenly Jerry stops walking. Elaine is not able to copy this move; they look at each other, laughing.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|I’m takin’ it, I’m takin’ the place. I’m gonna take it, this is gonna be my new place. I’m livin’ here...I’m movin’.
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|(laughing with joy) Your movin’? That means I’m movin’. (She hugs Jerry.) Geeeeee (to George) isn’t that incredible!
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|(unenthusiastic) Congratulations.
+JERRY’S APARTMENT – DAY|action|Jerry and Elaine are there.
+JERRY’S APARTMENT – DAY|ELAINE|What about the couch?
+JERRY’S APARTMENT – DAY|JERRY|You like the couch? I’ll tell you what I’m gonna do.
+JERRY’S APARTMENT – DAY|ELAINE|What?
+JERRY’S APARTMENT – DAY|JERRY|You’re movin’ in, you’re a good friend, I wanna start you off on the right foot. Give me...a hundred and fifty dollars. (Elaine is shocked, Jerry opens the door to the hall.) Get it outta here right now, take it out the door, I don’t even wanna see it, go, get it out.
+JERRY’S APARTMENT – DAY|ELAINE|A hundred and fifty dollars? A hundred and fifty dollars for what? For this couch?
+JERRY’S APARTMENT – DAY|JERRY|Yeah!
+JERRY’S APARTMENT – DAY|ELAINE|For this couch?!
+JERRY’S APARTMENT – DAY|action|Jerry shuts the apartment door.
+JERRY’S APARTMENT – DAY|JERRY|Okay, you tell me. What is it worth?
+JERRY’S APARTMENT – DAY|ELAINE|Okay, uh, I’ll tell you what. I could go as high as uh... (She takes a closer look at couch.) I don’t know, maybe...twenty dollars?
+JERRY’S APARTMENT – DAY|action|Jerry looks at her as if to say, “You can’t be serious.” The apartment buzzer goes off. Jerry speaks over the intercom.
+JERRY’S APARTMENT – DAY|JERRY|Yeah?
+JERRY’S APARTMENT – DAY|GEORGE|(from the intercom) Yeah, it’s George.
+JERRY’S APARTMENT – DAY|JERRY|Come on up. (Jerry presses the second button and opens the apartment door. He walks back to the couch.) Oh, all right, forget it, I’m gonna take it with me now... (He picks up the cushions.) I’m just gonna pack up the cushions right now...
+JERRY’S APARTMENT – DAY|ELAINE|Okay okay okay okay, you win. Forty dollars.
+JERRY’S APARTMENT – DAY|JERRY|(continuing unphased) You wanna get the other end, ‘cause I wanna get it in the hall.
+JERRY’S APARTMENT – DAY|action|He is about to lift up the couch.
+JERRY’S APARTMENT – DAY|ELAINE|Fifty dollars, okay? Fifty dollars, is that all right?
+JERRY’S APARTMENT – DAY|JERRY|Fifty dollars?
+JERRY’S APARTMENT – DAY|ELAINE|Uh-huh.
+JERRY’S APARTMENT – DAY|JERRY|Thank you very much.
+JERRY’S APARTMENT – DAY|ELAINE|Thank you very much.
+JERRY’S APARTMENT – DAY|action|George enters and closes the door.
+JERRY’S APARTMENT – DAY|GEORGE|Hey, what’s goin’ on?
+JERRY’S APARTMENT – DAY|ELAINE|I just bought Jerry’s couch for fifty dollars.
+JERRY’S APARTMENT – DAY|JERRY|(to George) So did you bring the lease? (George takes the lease from his inside pocket and hands it to Jerry.) All right, gee, three years, that kinda seems like a long time.
+JERRY’S APARTMENT – DAY|GEORGE|(frantic) Oh, Jerry Jerry Jerry Jerry Jerry, listen, if, if you are feeling uncomfortable about this at all, at all. Do not feel like you have to take it.
+JERRY’S APARTMENT – DAY|JERRY|Why?
+JERRY’S APARTMENT – DAY|GEORGE|If you’re having second thoughts, if you didn’t want it, don’t worry about it because uh, you know, I, I...I could take it, you know.
+JERRY’S APARTMENT – DAY|JERRY|You could take it? You want it?
+JERRY’S APARTMENT – DAY|GEORGE|No, I don’t want it. I want it, if you don’t want it.
+JERRY’S APARTMENT – DAY|JERRY|So you do want it.
+JERRY’S APARTMENT – DAY|GEORGE|No I, I want it if you don’t want it.
+JERRY’S APARTMENT – DAY|JERRY|You just said you wanted it!
+JERRY’S APARTMENT – DAY|GEORGE|No, I’m saying, if a situation arose in which you didn’t want it, I might take it.
+JERRY’S APARTMENT – DAY|action|Jerry picks up the lease and hands it to George.
+JERRY’S APARTMENT – DAY|JERRY|So take it.
+JERRY’S APARTMENT – DAY|GEORGE|How can I take it?
+JERRY’S APARTMENT – DAY|JERRY|How can I take it?
+JERRY’S APARTMENT – DAY|GEORGE|It’s your apartment!
+JERRY’S APARTMENT – DAY|JERRY|How can I want it now, if you want it?
+JERRY’S APARTMENT – DAY|ELAINE|Excuse me, uh, I don’t mean to cause any trouble here, but George, if you take it, can I take your place?
+JERRY’S APARTMENT – DAY|GEORGE|Yes, but I am not taking it.
+JERRY’S APARTMENT – DAY|JERRY|I...am not taking it.
+JERRY’S APARTMENT – DAY|action|He drops the lease demonstratively on his line.
+JERRY’S APARTMENT – DAY|ELAINE|Well, one of you better damn well take it!
+JERRY’S APARTMENT – DAY|JERRY|Well, whaddaya wanna do here?
+JERRY’S APARTMENT – DAY|GEORGE|I, I don’t know.
+JERRY’S APARTMENT – DAY|JERRY|Do you wanna flip a coin?
+JERRY’S APARTMENT – DAY|GEORGE|Who flips? You’ll flip, I’ll call.
+JERRY’S APARTMENT – DAY|JERRY|Okay, fine. (Jerry takes a coin from his pocket.) This is the official flip. No crying, no guilt, winner takes all and that’s it. Agreed?
+JERRY’S APARTMENT – DAY|GEORGE|I’m good.
+JERRY’S APARTMENT – DAY|ELAINE|I don’t know, who to root for, George’s place has carpeting.
+JERRY’S APARTMENT – DAY|action|George "shushes" Elaine
+JERRY’S APARTMENT – DAY|JERRY|All right, now you call it in the air.
+JERRY’S APARTMENT – DAY|GEORGE|No catchin’.
+JERRY’S APARTMENT – DAY|JERRY|No no.
+JERRY’S APARTMENT – DAY|GEORGE|Flip it.
+JERRY’S APARTMENT – DAY|action|Jerry flips the coin.
+JERRY’S APARTMENT – DAY|GEORGE|Heads!
+JERRY’S APARTMENT – DAY|action|The coin hits the table. It falls on the floor. They all look intently at the coin.
+JERRY’S APARTMENT – DAY|JERRY|Tails!
+JERRY’S APARTMENT – DAY|GEORGE|No, it hit the table, it hit the table.
+JERRY’S APARTMENT – DAY|JERRY|So what?
+JERRY’S APARTMENT – DAY|GEORGE|Interference! You can’t count that! Come on, are you crazy?! The coin cannot touch anything, it affects it.
+JERRY’S APARTMENT – DAY|JERRY|You didn’t call no interference!
+JERRY’S APARTMENT – DAY|GEORGE|You don’t have to call that! That’s a rule!
+JERRY’S APARTMENT – DAY|JERRY|I don’t believe this.
+JERRY’S APARTMENT – DAY|GEORGE|Oh oh oh, all right, fine, Jerry, you win. Take it, just take it!
+JERRY’S APARTMENT – DAY|JERRY|I don’t wanna win it like this! Elaine, what do you think?
+JERRY’S APARTMENT – DAY|ELAINE|I’d better not.
+JERRY’S APARTMENT – DAY|JERRY|Well, I’ll tell you what. I’ll choose you for it. Straight choose, three takes it, no disputes...that’s it, you gotta win three.
+JERRY’S APARTMENT – DAY|GEORGE|Okay. (They walk around each other.) OK. I’ll choose you. Whaddaya want?
+JERRY’S APARTMENT – DAY|JERRY|Odds.
+JERRY’S APARTMENT – DAY|GEORGE|I want evens.
+JERRY’S APARTMENT – DAY|JERRY|Good.
+JERRY’S APARTMENT – DAY|GEORGE|You got odds.
+JERRY’S APARTMENT – DAY|JERRY|You got evens.
+JERRY’S APARTMENT – DAY|GEORGE|Right, ready?
+JERRY’S APARTMENT – DAY|JERRY|For the apartment.
+JERRY’S APARTMENT – DAY|action|They take their choose positions.
+JERRY’S APARTMENT – DAY|BOTH|Once, twice, three, shoot!
+JERRY’S APARTMENT – DAY|JERRY|Mine!
+JERRY’S APARTMENT – DAY|BOTH|Once, twice, three, shoot!
+JERRY’S APARTMENT – DAY|JERRY|Mine!
+JERRY’S APARTMENT – DAY|action|George walks to the table to take a break. They resume their positions.
+JERRY’S APARTMENT – DAY|BOTH|Once, twice, three, shoot!
+JERRY’S APARTMENT – DAY|GEORGE|Mine!
+JERRY’S APARTMENT – DAY|BOTH|Once, twice, three, shoot!
+JERRY’S APARTMENT – DAY|action|Jerry wins. Elaine starts measuring up Jerry’s couch.
+JERRY’S APARTMENT – DAY|GEORGE|Congratulations...congratulations.
+JERRY’S APARTMENT – DAY|JERRY|Thanks.
+JERRY’S APARTMENT – DAY|GEORGE|I'm just gonna...wash. (George walks to the bathroom; screaming) WHY DID I PUT UP TWO? WHY DID I PUT UP TWO?
+JERRY’S APARTMENT – DAY|action|Kramer slides into the apartment.
+JERRY’S APARTMENT – DAY|KRAMER|Jerry, I think I’m on to something. I think I found your stuff. You know the Englishman who lives down the hall?
+JERRY’S APARTMENT – DAY|JERRY|Yeah.
+JERRY’S APARTMENT – DAY|KRAMER|The last couple a days he’s been acting very strange. I think he’s avoiding me.
+JERRY’S APARTMENT – DAY|JERRY|Hard to imagine.
+JERRY’S APARTMENT – DAY|KRAMER|Yeah! And get this: I just got off the elevator with him and I tested him, I tested him, like I...this is what I said to him, like I, I was like this, I went, “Oh, by the way, I know about the stuff.”
+JERRY’S APARTMENT – DAY|KRAMER|..you know, very casually,
+JERRY’S APARTMENT – DAY|JERRY|Right.
+JERRY’S APARTMENT – DAY|KRAMER|(cont'd) so that he was gonna take me into his confidence.
+JERRY’S APARTMENT – DAY|ELAINE|So what did he say?
+JERRY’S APARTMENT – DAY|KRAMER|“What stuff?”
+JERRY’S APARTMENT – DAY|JERRY|Ooh, (to Elaine) case closed!
+JERRY’S APARTMENT – DAY|KRAMER|No, you don’t understand, you see, he swallowed. See, the guy, he swallowed. Oh, he was nervous about something! Now, I’m gonna go over there, I’m gonna borrow some tea. If I don’t get back in five minutes, maybe you’d better call the police.
+JERRY’S APARTMENT – DAY|JERRY|Okay, starting...NOW!
+JERRY’S APARTMENT – DAY|action|Jerry looks at his watch.
+JERRY’S APARTMENT – DAY|KRAMER|Yeah!
+JERRY’S APARTMENT – DAY|action|Kramer darts off.
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|One of the problems in life is that when you’re a kid, you have a certain way of working out disagreements. And those laws do not work in the adult world. One of the main ways that kids resolve any dispute is by calling it. One of them says, “I got the front seat” “I wanted the front seat!” “I called it”. And the other kid knows he’s got nothing to say: “He called it. What can I do?” If there was a Kid Court Of Law, it holds up. “Your Honour, my client did ask for the front seat” And the judge would go, “Did he call it?” “Well no, he didn’t call-” BANG! (Jerry imitates a judge banging his gavel.) “He has to call it, case closed. Objection overruled.”
+MONK’S DINER – DAY|action|Jerry is sitting at a table, George returns from the bathroom.
+MONK’S DINER – DAY|GEORGE|I love the mirror in that bathroom! I don’t know what in the hell it is. I look terrific in that mirror. (George sits.) I don’t know if it’s the tile or the lighting... I feel like Robert Wagner.
+MONK’S DINER – DAY|JERRY|It’s a good mirror. (They look at their menus.) So, what are you gettin’?
+MONK’S DINER – DAY|GEORGE|I don’t know, I can’t eat. You, you can’t have anything anymore. Look at this, look at this. Eggs: out. Coffee: out. French fries: out. BLT: out! I go to visit my grandparents: three big brisket sandwiches, I’m sittin’ here with a carrot! They’re closing in on a hundred, I’m sayin’ to them, “How can you eat that stuff?” (They look at their menus again.) I’m so sick about losin’ that choose, you don’t know.
+MONK’S DINER – DAY|JERRY|All right, forget it, forget it. I’m not taking the place!
+MONK’S DINER – DAY|GEORGE|What?!
+MONK’S DINER – DAY|JERRY|How can I live there?
+MONK’S DINER – DAY|GEORGE|Why not?!
+MONK’S DINER – DAY|JERRY|Look at you, you’re still thinking about it. I’ll never feel comfortable.
+MONK’S DINER – DAY|GEORGE|Oh, get outta here.
+MONK’S DINER – DAY|JERRY|How can I ever have you over? You’ll sit there moping.
+MONK’S DINER – DAY|GEORGE|I won’t mope.
+MONK’S DINER – DAY|JERRY|You’re already moping! Would you take the place?
+MONK’S DINER – DAY|GEORGE|No, impossible! It’s your apartment.
+MONK’S DINER – DAY|JERRY|You found the place.
+MONK’S DINER – DAY|GEORGE|You won the choose.
+MONK’S DINER – DAY|JERRY|All right, forget it, it’s over, I’m not moving.
+MONK’S DINER – DAY|GEORGE|Well, me neither.
+MONK’S DINER – DAY|JERRY|Definitely?
+MONK’S DINER – DAY|GEORGE|Definitely.
+MONK’S DINER – DAY|JERRY|Alright, then just get rid of it. You won’t have any problem.
+MONK’S DINER – DAY|GEORGE|No, it’s not a problem, I can get rid of the apartment this afternoon.
+MONK’S DINER – DAY|action|A waitress, Carol, approaches.
+MONK’S DINER – DAY|CAROL|What apartment?
+MONK’S DINER – DAY|GEORGE|Oh, it’s a great place, it’s uh two-bedroom uh, west 83rd ‘bout half block from the park.
+MONK’S DINER – DAY|CAROL|What’s the rent?
+THE APARTMENT ON 83RD STREET – DAY|action|The housewarming party for Carol, the waitress. Jerry, Elaine and George are invited to the house, they’re sitting on a couch, all three moping.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|I don’t know, what we’re doin’ here, this is ridiculous.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|She wanted to thank us for the apartment.
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|I can’t believe I lost the deposit on that U-Haul. And I threw out my couch.
+THE APARTMENT ON 83RD STREET – DAY|action|She slaps Jerry on the leg.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|If only the coin hadn’t hit the table.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|The table is interference, you know it!
+THE APARTMENT ON 83RD STREET – DAY|JERRY|It is not!
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|It is too!
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|My roommate starts rehearsal tonight on “Carousel”.
+THE APARTMENT ON 83RD STREET – DAY|action|Carol approaches them.
+THE APARTMENT ON 83RD STREET – DAY|CAROL|Hi.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|Hi, Carol.
+THE APARTMENT ON 83RD STREET – DAY|CAROL|I just wanted to introduce you to my husband, this is Larry.
+THE APARTMENT ON 83RD STREET – DAY|action|Jerry, Elaine and George get up. 
+THE APARTMENT ON 83RD STREET – DAY|CAROL|This is George, Elaine and Jerry. These are the guys who got us the apartment.
+THE APARTMENT ON 83RD STREET – DAY|LARRY|Oh, you don’t know how grateful I am, if there’s anything I can ever do to repay you, I, I mean, we’re just so thrilled with this place.
+THE APARTMENT ON 83RD STREET – DAY|CAROL|It’s a dream.
+THE APARTMENT ON 83RD STREET – DAY|LARRY|I’m running in the park now, I’ve lost weight, we’re barbecuing every night and the rent is unbelievable.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|We’re really glad for you.
+THE APARTMENT ON 83RD STREET – DAY|ELAINE|Couldn’t be happier.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|It’s wonderful.
+THE APARTMENT ON 83RD STREET – DAY|action|They sit down again.
+THE APARTMENT ON 83RD STREET – DAY|CAROL|Diane, Diane, come here.
+THE APARTMENT ON 83RD STREET – DAY|action|Diane comes to the couch. She is very attractive.
+THE APARTMENT ON 83RD STREET – DAY|CAROL|This is my new next door neighbour, Diane.
+THE APARTMENT ON 83RD STREET – DAY|action|Jerry, Elaine and George get up.
+THE APARTMENT ON 83RD STREET – DAY|CAROL|(to Diane) These are the guys, who turned this place down, can you believe it? (to Jerry, George and Elaine) Diane gave me the greatest backrub today. She’s a masseuse!
+THE APARTMENT ON 83RD STREET – DAY|DIANE|How, how could you guys have turned this place down, it’s such a great location and it’s...so close to the park.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|We’re aware of the proximity to the park, yes.
+THE APARTMENT ON 83RD STREET – DAY|DIANE|Well, it was nice to meet you.
+THE APARTMENT ON 83RD STREET – DAY|action|Diane walks away.
+THE APARTMENT ON 83RD STREET – DAY|GEORGE|Nice meeting you.
+THE APARTMENT ON 83RD STREET – DAY|action|George shakes Carol’s hand. The three sit down again. Carol walks away.
+THE APARTMENT ON 83RD STREET – DAY|JERRY|How late are the stores open? I’m thinking of maybe uh, buying a new TV and smash it over my head.
+THE APARTMENT ON 83RD STREET – DAY|action|Two men are standing behind the couch, talking.

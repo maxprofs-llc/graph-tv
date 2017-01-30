@@ -1,0 +1,257 @@
+George and Jerry enter Monk's Coffee Shop.|GEORGE|Kramer was on Murphy Brown?
+George and Jerry enter Monk's Coffee Shop.|JERRY|Yeah.
+George and Jerry enter Monk's Coffee Shop.|GEORGE|Are you sure?
+George and Jerry enter Monk's Coffee Shop.|JERRY|Yeah.
+George and Jerry enter Monk's Coffee Shop.|GEORGE|Murphy Brown, the TV show.
+George and Jerry enter Monk's Coffee Shop.|JERRY|C'mon, will ya?
+George and Jerry enter Monk's Coffee Shop.|GEORGE|Kramer was on Murphy Brown? That son of a gun!
+George and Jerry enter Monk's Coffee Shop.|JERRY|Something, isn't it?
+George and Jerry enter Monk's Coffee Shop.|GEORGE|With Candace Bergen!
+George and Jerry enter Monk's Coffee Shop.|JERRY|I know!
+George and Jerry enter Monk's Coffee Shop.|GEORGE|I've always liked her. Remember her in 'Carnal Knowledge'?
+George and Jerry enter Monk's Coffee Shop.|JERRY|Sure.
+George and Jerry enter Monk's Coffee Shop.|GEORGE|Did she show her breasts in that?
+George and Jerry enter Monk's Coffee Shop.|JERRY|She's not really the naked type.
+George and Jerry enter Monk's Coffee Shop.|GEORGE|I can't believe I missed Kramer. You know he asked me to go with him to California.
+George and Jerry enter Monk's Coffee Shop.|JERRY|He did?
+George and Jerry enter Monk's Coffee Shop.|GEORGE|Yeah, I turned him down.
+George and Jerry enter Monk's Coffee Shop.|JERRY|How come you didn't tell me?
+George and Jerry enter Monk's Coffee Shop.|GEORGE|He asked me to keep it a secret.
+George and Jerry enter Monk's Coffee Shop.|JERRY|But you can never keep a secret.
+George and Jerry enter Monk's Coffee Shop.|GEORGE|I know. This was like a record. My previous record was when Joni Hirsch asked me not to tell anybody that we slept together. Kept a lid on that for about 28 seconds.
+George and Jerry enter Monk's Coffee Shop.|JERRY|Well, you've come a long way.
+George and Jerry enter Monk's Coffee Shop.|GEORGE|I've matured.
+George and Jerry enter Monk's Coffee Shop.|JERRY|Hey listen, the Tonight Show called me, they want me to come out and do the show on the 28th and they're giving me two free tickets to LA. You wanna go?
+George and Jerry enter Monk's Coffee Shop.|GEORGE|A free ticket?
+George and Jerry enter Monk's Coffee Shop.|JERRY|Yeah, in fact we could track down Kramer. I always felt bad about the way he left, you know? That was a mess. I never should have taken back those keys.
+George and Jerry enter Monk's Coffee Shop.|GEORGE|What about accommodations?
+George and Jerry enter Monk's Coffee Shop.|JERRY|All taken care of.
+George and Jerry enter Monk's Coffee Shop.|GEORGE|Is there a meal allowance? What about seat assignments? Could I have the Kosher meal? I hear the Kosher meal is good. And I need clothes. Gotta get a haircut. Gonna have to, I have to refill my allergy medication. Oh, do I need a hat? I need a hat, don't I? Could we do the Universal tour? They have that Backdraft exhibit now, that looks very cool to me...
+Kramer, backstage, talking to some aspiring young actors.|KRAMER|So my acting technique, my personal acting technique is working with color, imagining color, then finding the emotional vibrational mood connected to the color. See, if you look through my scripts, you'll see that all my lines have a special color, so I don't memorize language, I memorize color. This way I can go through red, yellow, green, blue. And I have a full palette of emotions.
+Kramer, backstage, talking to some aspiring young actors.|KRAMER|Uh, did you?
+Kramer, backstage, talking to some aspiring young actors.|KRAMER|Well, I was just--
+Kramer, backstage, talking to some aspiring young actors.|KRAMER|Alright, we'll talk about this a little later. Are you an actor?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|VOICE|Murphy Brown.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Uh, yeah, uh, Candace Bergen please.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|VOICE|Who's calling please?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Ah, well, just tell her that it's Kramer.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|action|Dial tone.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Alright I'll uh, I'll call her at home. (To man waiting behind him) Go ahead, it's all yours.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|action|Helena, a neighbor, steps into the hallway.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|Hello Kramer.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Oh, uh, Helena, how are you?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|I haven't worked since 1934, how do you think I am?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Well, that's only uh, 58 years.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|It was a Three Stooges short, "Sappy Pappy." I played Mr. Sugarman's secretary, remember?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Yeah, right, right, yeah, yeah, that was a Shemp, right?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|No, a Curly. The boys played three sailors who find a baby, the baby's been kidnapped and the police think that they did it.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Uh huh, right.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|But, but of course they didn't do it, the police had made an awful mistake.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Right.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|Moe hits Curly with an axe,
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Uh huh.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|The Stooges catch the kidnappers,
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Right.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|But it's too late.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Really.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|The baby's dead.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Really?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|The boys are sent to Death Row and are executed.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Well I don't remember that part.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|I play Mr. Sugarman's secretary.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Oh, yeah, yeah, you were, you were very good.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|Yeah, it was sad for a Three Stooges, what with the dead baby and the Stooges being executed and all.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Well, that was an unusual choice for the stooges.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|Would you like to buy me a fat-free frozen yogurt at the store, Kramer?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Uh, well, uh, you know I can't right now, you know, uh, I got a very big meeting, I got these people interested in my movie treatment. So, uh, I guess we'll have to make it another time, alright?
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|Well No! No, don't go out there, Kramer, they'll hurt you, they'll destroy you. You'll never make it in this town, you're too sensitive like me,
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|KRAMER|Helena, you're wrong, you know I'm not that sensitive at all.
+Kramer's apartment building in LA. Singers and actors are heard practicing in the background. Kramer leaves his apartment and makes a call on the pay phone in the hall.|HELENA|I was engaged to Mickey Rooney! He left me at the altar. Kramer! Kramer!
+Jerry's apartment. George walks in with several stuffed suitcases and backpacks.|JERRY|What is this?
+Jerry's apartment. George walks in with several stuffed suitcases and backpacks.|GEORGE|What?
+Jerry's apartment. George walks in with several stuffed suitcases and backpacks.|JERRY|We're going on a two day trip, what are you, Diana Ross?
+Jerry's apartment. George walks in with several stuffed suitcases and backpacks.|GEORGE|I happen to dress based on mood.
+Jerry's apartment. George walks in with several stuffed suitcases and backpacks.|JERRY|Oh. But you essentially wear the same thing all the time.
+Jerry's apartment. George walks in with several stuffed suitcases and backpacks.|GEORGE|Seemingly. Seemingly. But within that basic framework there are many subtle variations, only discernable to an acute observer, that reflect the many moods, the many shades, the many sides of George Costanza.
+Jerry's apartment. George walks in with several stuffed suitcases and backpacks.|JERRY|(referring to George's outfit): And what mood is this.
+Jerry's apartment. George walks in with several stuffed suitcases and backpacks.|GEORGE|This is Morning Mist.
+Jerry and George are at the airport, in line for the metal detector.|JERRY|Look at this guy, he's like a cat burglar. He thinks if he goes through real slow the machine won't detect him.
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|Personally I'm a little nervous about going through these things. I'm afraid I'm gonna step through into another dimension.
+Jerry and George are at the airport, in line for the metal detector.|JERRY|Just go.
+Jerry and George are at the airport, in line for the metal detector.|action|George braces himself and walks through the detector.
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|Heh he, I made it.
+Jerry and George are at the airport, in line for the metal detector.|action|Jerry walks through and the machine beeps.
+Jerry and George are at the airport, in line for the metal detector.|action|Jerry empties his pockets and walks through again, the machine beeps again.
+Jerry and George are at the airport, in line for the metal detector.|action|Jerry walks through, the machine beeps again.
+Jerry and George are at the airport, in line for the metal detector.|JERRY|Anklets?
+Jerry and George are at the airport, in line for the metal detector.|JERRY|Really?
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|My bag?
+Jerry and George are at the airport, in line for the metal detector.|JERRY|Over here?
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|A knife?
+Jerry and George are at the airport, in line for the metal detector.|action|George opens his bag, the other security guard begins rummaging.
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|Moisturizer?
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|No, I uh... I use it.
+Jerry and George are at the airport, in line for the metal detector.|action|The security guard begins waving a small beeping detector up and down Jerry's body.
+Jerry and George are at the airport, in line for the metal detector.|JERRY|(facing the lengthening line behind him) Ladies and gentlemen, I implore you.
+Jerry and George are at the airport, in line for the metal detector.|JERRY|That's it?
+Jerry and George are at the airport, in line for the metal detector.|JERRY|Alright.
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|C'mon Jerry, let's go. What was that all about?
+Jerry and George are at the airport, in line for the metal detector.|JERRY|I must have iron rich blood.
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|Here we go, LA.
+Jerry and George are at the airport, in line for the metal detector.|JERRY|The Coast,
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|La-la Land. I got the window seat, right?
+Jerry and George are at the airport, in line for the metal detector.|JERRY|Who said that?
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|I called it.
+Jerry and George are at the airport, in line for the metal detector.|JERRY|Oh no.
+Jerry and George are at the airport, in line for the metal detector.|GEORGE|What do you mean, oh no.
+Stock photo of the HOLLYWOOD sign. Cut to a casting office. Kramer enters.|KRAMER|Oh ah, yeah, I'm here for the audition.
+Stock photo of the HOLLYWOOD sign. Cut to a casting office. Kramer enters.|RECEPTIONIST|Which audition, the music video, the horror movie, the exercise tape or the infomercial?
+Stock photo of the HOLLYWOOD sign. Cut to a casting office. Kramer enters.|KRAMER|Uh, let's see... well.
+Cut to a montage of Kramer in group auditions for the productions the receptionist mentioned.|KRAMER|You scream good.
+Cut to a montage of Kramer in group auditions for the productions the receptionist mentioned.|CHELSEA|You too.
+Kramer and Chelsea are seated at a restaurant table.|CHELSEA|So, can I keep this treatment?
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Oh yeah, yeah, I got 20 copies.
+Kramer and Chelsea are seated at a restaurant table.|CHELSEA|'Cause I can, uh, show it to my manager. He has connections with West German television money.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Really.
+Kramer and Chelsea are seated at a restaurant table.|CHELSEA|Yeah, they're trying to put together a miniseries for me on Eva Braun. I mean think about it, is that a great idea? We know nothing about Eva Braun, only that she was Hitler's girlfriend.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Um-hm.
+Kramer and Chelsea are seated at a restaurant table.|CHELSEA|What was it like having sex with Adolf Hitler? What do you wear in a bunker? What did her parents think of Hitler as a potential son-in-law? I mean it could just go on and on...
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Wait wait, hold it, hold it. Look who's over there. Don't look, don't look! It's Fred Savage.
+Kramer and Chelsea are seated at a restaurant table.|CHELSEA|Big deal.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|He'd be perfect for my movie. This is a once-in-a-lifetime opportunity. (takes a deep breath) I gotta go over there, I gotta give him a copy of my treatment.
+Kramer and Chelsea are seated at a restaurant table.|CHELSEA|Why are you breathing so hard?
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Well, I'm just a little nervous. OK, I gotta relax. Phew. Wish me luck, huh?
+Kramer and Chelsea are seated at a restaurant table.|action|Kramer gets up and approaches Fred Savage who's sitting at a table nearby.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Hey. Oh, did I frighten you? I'm not crazy. I mean, I may look weird, but I'm just like you, I'm just a regular guy just trying to make it in this business. You know I really like your work, the, uh...
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Yeah, I can't remember the name of it.
+Kramer and Chelsea are seated at a restaurant table.|FRED|Thanks.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Yeah, my mind's a blank, I'm sorta nervous, you know, uh...
+Kramer and Chelsea are seated at a restaurant table.|FRED|That's ok. Relax, relax.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Ok, but I got this...
+Kramer and Chelsea are seated at a restaurant table.|action|Kramer lifts his leg and places his foot on a low table and the table collapses.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|Stupid table. You know, I'm not normally like this, usually I'm very cool and charming, I don't mean to bother you or anything but I think it's fate that you happened to be here at the same time as me.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|I got this treatment I think you'll be great in.
+Kramer and Chelsea are seated at a restaurant table.|FRED|Yeah.
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|So I'd like to give it to you.
+Kramer and Chelsea are seated at a restaurant table.|FRED|Yeah, thank you, thanks a lot. Bye!
+Kramer and Chelsea are seated at a restaurant table.|KRAMER|(bumping into a lamp) Alright, excuse me. Uh wait, wait.
+Kramer and Chelsea are seated at a restaurant table.|action|Fred takes the treatment and bolts for the door. After he leaves, Kramer gives the rest of the patrons a thumbs-up.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Yeah, Kramer. K-R-A-M-E-R. Uh, I don't know, wavy? George, how would you describe Kramer's hair?
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Curly.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Wavy.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|What'd you ask me for?
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Yeah, I'll hold on. Hey George, did you see a piece of paper I had on the nightstand here, like crumpled up, like a napkin?
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Nope.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|'Cause I had like three jokes on it, they were all perfectly worded just the way I wanted to have it. Can't find it. Hello?
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|I don't know, 6-3, George, how tall is Kramer?
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|You got your own shampoo, conditioner, body lotion! Jerry, body
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|About 6-3.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Ooh, a shower cap!
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Coming.
+George and Jerry are in their hotel room. Jerry's on the telephone.|action|George walks to the door wearing a shower cap.
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Hello. I have more towels.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Oh good, good, come in. Come in, welcome. I'm George. And this is Jerry, over there, on the phone, that's Jerry. And you are, um?
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Lupe.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Lupe. That's very nice, very nice. Listen, are you going to be making up the bed in the morning?
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Oh Yes.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Fine. Excellent. Could you do me a favor? Could you not tuck the blankets in? 'Cause I can't sleep all tucked in.
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Oh, yes, yes.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Yes, I like to just be able to take the blankets and swish them and swirl them, you know what I mean? You know, I don't like being all tucked in. I like to have a lot of room, you know I like to have my toes pointed up in the air. Just like to scrunch up the blankets.
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Yes, yes. It's too tight to sleep.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Exactly, you know what I'm talking about, right?
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Oh yees, It's too tight. (Gesturing towards Jerry) Him too?
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Uh, Jerry, you want your blankets tucked in?
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Excuse me, what?
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|You want your blankets tucked in?
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|What blankets?
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|When Lupe makes up the beds in the morning.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|I don't know, whatever they do.
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|I tuck in? Yes?
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Tuck in, tuck in.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Alright, so that's one tuck and one no-tuck.
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Okay.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Yeah. One second sweetheart. Jerry, I really think it'd be easier if you didn't tuck.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Excuse me, fine, you don't want me to tuck, put me down for a no-tuck.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Uh, hang on a second, You know what? Changed my mind, make it a tuck.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|You just said you weren't tucking.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|I'm tucking! Hello? Hello? They hung up on me. They don't know where Kramer is anyway.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Alrighty, so. That's one tuck and one no-tuck. Got that?
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Excuse me, um, did you see a piece of paper on the nightstand here earlier today crumpled up like a napkin?
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Oh, yes, yes. I throw away when we clean the room.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Oh, okay, thanks.
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Thank you.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Thank you.
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Bye-bye.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Alright, Lupe, bye-bye now.
+George and Jerry are in their hotel room. Jerry's on the telephone.|LUPE|Bye.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Bye-bye.
+George and Jerry are in their hotel room. Jerry's on the telephone.|action|Lupe exits.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|I can't believe she threw that out. I had like the perfect wording of a whole joke I was gonna do about the X-ray counter at the airport, I was gonna do it on the Tonight Show, now I can't remember it.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Well what did you want her to do, you left it on the night table.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|They're not supposed to just take everything and throw it out!
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Hey, hey, hey! It's not Lupe's fault, you shouldn't have left it out.
+George and Jerry are in their hotel room. Jerry's on the telephone.|JERRY|Alright, just get your thing together and let's get out of here.
+George and Jerry are in their hotel room. Jerry's on the telephone.|GEORGE|Alright, now. What mood am I in, what mood am I in?
+Cut to Jerry and George in the car, continuing their discussion.|GEORGE|You shouldn't have tucked.
+Cut to Jerry and George in the car, continuing their discussion.|JERRY|I like it tucked.
+Cut to Jerry and George in the car, continuing their discussion.|GEORGE|Nobody tucks anymore.
+Cut to Jerry and George in the car, continuing their discussion.|action|As Jerry drives past, Kramer exits a printing shop, gets into his car and drives off, spilling dozens of 8"x10" publicity photos. A police office notices this and picks up one of the photos.
+Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.|OFFICER|Hey, Lieutenant.
+Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.|OFFICER|This was found on her person.
+Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.|OFFICER|I don't know, sir. Police lingo.
+Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.|OFFICER|Ross.
+Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.|OFFICER|Yes sir.
+Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.|OFFICER|Yes sir.
+Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.|OFFICER|Yes sir.
+Another murder scene. A police officer pulls a blanket over the body's head, but we catch a glimpse of the dead girl; it's Chelsea, Kramer's friend from the auditions. The same two Lieutenants as before are just arriving.|action|The Lt. examines the evidence. It's a title page that says "The Keys" A movie treatment by Kramer. The paper is torn so that the space where Kramer's first name was is missing.
+Jerry and George are at the NBC studio.|GEORGE|This is very exciting! You're on the Tonight Show, NBC, who else is on the show?
+Jerry and George are at the NBC studio.|JERRY|I don't know.
+Jerry and George are at the NBC studio.|GEORGE|Might meet a celebrity.
+Jerry and George are at the NBC studio.|JERRY|I can't believe she threw out my napkin.
+Jerry and George are at the NBC studio.|GEORGE|What are you worried about, you know it.
+Jerry and George are at the NBC studio.|JERRY|You gonna be alright here?
+Jerry and George are at the NBC studio.|GEORGE|Yeah yeah yeah yeah, go. Go about your business, I'll just wander around.
+Jerry and George are at the NBC studio.|JERRY|Alright, don't wander too far, I'll meet you back here in fifteen minutes.
+Jerry and George are at the NBC studio.|GEORGE|Go, go, go, don't worry about it.
+Jerry and George are at the NBC studio.|action|Jerry leaves and Corbin Bernsen enters through a stage door. he stands near George, obviously waiting for someone.
+Jerry and George are at the NBC studio.|GEORGE|Hey. (pointing at him) Corbin Bernsen.
+Jerry and George are at the NBC studio.|GEORGE|Big fan! Big fan.
+Jerry and George are at the NBC studio.|GEORGE|Hey, you grew a beard, huh?
+Jerry and George are at the NBC studio.|GEORGE|Hey. You know, do I have a case for you guys to do on L.A. Law.
+Jerry and George are at the NBC studio.|action|Flash forward to the middle of George's 'pitch'.
+Jerry and George are at the NBC studio.|GEORGE|...so mind you, at this point I'm only going out with her two or three weeks. So she goes out of town and she asks me to feed her cat. So at this time, there's a lot of stuff going on in my life and, uh, it slips my mind for a few days. Maybe a week. Not a week, five, six days.
+Jerry and George are at the NBC studio.|GEORGE|Well, it's the damnedest thing. The cat dies. So she comes back into town, she finds the cat lying on the carpet stiff as a board.
+Jerry and George are at the NBC studio.|GEORGE|That's what she says. I say, listen. It was an old cat. It died of natural causes. So get this, now she tells me that I gotta buy her a brand new cat. I say listen, honey. First of all, it was a pretty old cat. I'm not gonna buy you a brand new cat to replace an old dying cat. And second of all, I go out to the garbage, I find you a new cat in fifteen seconds. I say, you show me an autopsy report that says this cat died of starvation, I spring for a new cat. So she says something to me, like, uh, I dunno, get the hell out of here, and she breaks up with me. Now don't you think that would be a great case on L.A. Law?
+Jerry and George are at the NBC studio.|action|Corbin Bernsen just stares at George.
+Jerry and George are at the NBC studio.|action|Flash forward, George is now talking with George Wendt in the same hallway.
+Jerry and George are at the NBC studio.|GEORGE|I don't wanna tell you how to run your show.
+Jerry and George are at the NBC studio.|GEORGE|But really, it's enough with the bar already.
+Jerry and George are at the NBC studio.|GEORGE|Seriously, have they though about changing the setting?
+Jerry and George are at the NBC studio.|GEORGE|Really? Because people do meet in places besides a bar, huh?
+Jerry and George are at the NBC studio.|GEORGE|What about a rec room? Huh? Or a community center.
+Jerry and George are at the NBC studio.|GEORGE|Yeah?
+Jerry and George are at the NBC studio.|GEORGE|Fabulous, I'll think about that George, thank you!
+Jerry and George are at the NBC studio.|action|Jerry walks up as George Wendt leaves hastily.
+Jerry and George are at the NBC studio.|JERRY|How's it going?
+Jerry and George are at the NBC studio.|GEORGE|Great! Great! I actually just had two meaningful intelligent conversations with Corbin Bernsen and George Wendt.
+Jerry and George are at the NBC studio.|JERRY|Really?
+Jerry and George are at the NBC studio.|GEORGE|Yeah, yeah, not fan talk, not gushing, you know? Actual conversation, I was incredibly articulate!
+Jerry and George are at the NBC studio.|JERRY|You got toilet paper on your heel there.
+Jerry and George are at the NBC studio.|action|George looks down, Jerry walks away.
+The Tonight Show, George is in the audience applauding.|action|Quick cut to Corbin Bernsen, mid-interview.
+The Tonight Show, George is in the audience applauding.|action|Quick shot of the audience, everyone is laughing besides George.
+Cut to a police station. Helena is being questioned by Lt. Martel.|HELENA|He's a very handsome man. Passionate, intense, but troubled, strange. I think he may be in love with me. Of course there's nothing abnormal about that, I have many suitors.
+Cut back to the Tonight Show, George Wendt, mid-interview.|action|Another quick shot of the audience, again everyone is laughing besides George.
+Cut back to the Tonight Show, Corbin Bernsen and George Wendt are talking between takes.|action|Cut to Jerry, on stage, doing his routine.
+Cut back to the Tonight Show, Corbin Bernsen and George Wendt are talking between takes.|JERRY|So I'm going through the airport and I have to put my bag on that little uh, uh, the uh, that uh, the conveyor belt.
+Cut back to the Tonight Show, Corbin Bernsen and George Wendt are talking between takes.|action|Quick shot of the audience, nobody is laughing.
+Cut back to the Tonight Show, Corbin Bernsen and George Wendt are talking between takes.|action|Quick shot of an extremely uncomfortable Jerry.
+George and Jerry are leaving the Tonight Show set|JERRY|I was terrible.
+George and Jerry are leaving the Tonight Show set|GEORGE|What are you, crazy? You were fine.
+George and Jerry are leaving the Tonight Show set|JERRY|Nah, did you hear the end? I couldn't remember what I was trying to say, that whole thing about the, uh...
+George and Jerry are leaving the Tonight Show set|GEORGE|Conveyor belt.
+George and Jerry are leaving the Tonight Show set|JERRY|Yeah. Because she threw out my napkin.
+George and Jerry are leaving the Tonight Show set|GEORGE|I can't believe, you're blaming Lupe?
+George and Jerry are leaving the Tonight Show set|JERRY|Yes, Lupe. I'm blaming Lupe.
+George and Jerry are leaving the Tonight Show set|action|George and Jerry walk past a TV and stop as a special report is being broadcast.
+George and Jerry are leaving the Tonight Show set|action|George and Jerry stare at each other in disbelief.

@@ -1,0 +1,338 @@
+Outside Auto Shop|action|Jerry and Elaine are outside the autoshop. Jerry is on the payphone.
+Outside Auto Shop|JERRY|Okay, thank you. (hangs up the phone)
+Outside Auto Shop|ELAINE|So? What'd they say?
+Outside Auto Shop|JERRY|They're sending a detective to my apartment tomorrow.
+Outside Auto Shop|ELAINE|What the hell were you thinking leaving my clubs in that car?!
+Outside Auto Shop|JERRY|Well, I didn't count on my mechanic pulling a Mary-Beth Whitehead, did I?
+Outside Auto Shop|ELAINE|What kind of maniac is this guy?
+Outside Auto Shop|JERRY|He's a very special maniac.
+Outside Auto Shop|ELAINE|What am I supposed to tell Mr Peterman.
+Outside Auto Shop|JERRY|I don't know.
+Outside Auto Shop|ELAINE|Why couldn't you take better care of that car?!
+Elaine's Office|action|Elaine at her desk. Peterman enters.
+Elaine's Office|PETERMAN|Well, are they here?
+Elaine's Office|ELAINE|Mr Peterman, uh... There seems to be a bit of a snag.
+Elaine's Office|PETERMAN|Snag?
+Elaine's Office|ELAINE|It seems that a psychotic mechanic has absconded with my friend's car.
+Elaine's Office|PETERMAN|What does that have to do with my clubs?
+Elaine's Office|ELAINE|They happened to be in the back seat at the time.
+Jerry's Apartment|action|Jerry is talking with a police detective at his door.
+Jerry's Apartment|DETECTIVE|What was the suspect wearing at the time of the incident?
+Jerry's Apartment|JERRY|You know, like mechanic's pants, a shirt that said 'Tony'. Lemme ask you something, have you ever seen a case like this before?
+Jerry's Apartment|DETECTIVE|All the time. A mechanic forms an emotional attachment, thinks he'sgonna lose the car, he panics, he does something rash. I'm gonna ask you somepersonal questions. I'm sorry if I touch a nerve, but I think it'll help with the case. Had you been taking good care of the car?
+Jerry's Apartment|JERRY|Had I been taking...?
+Jerry's Apartment|DETECTIVE|Well, did you leave the A/C on? Do you zip over speed bumps? Do you ride the clutch? Things like that.
+Jerry's Apartment|JERRY|W-well, what does it matter? It's my car, I can do whatever I want with it.
+Jerry's Apartment|action|The detective stares at Jerry.
+Jerry's Apartment|JERRY|Not that I would think of doing such things.
+Jerry's Apartment|DETECTIVE|(making a note) Alright Mr Seinfeld, we'll let you know if we find anything. I gotta be honest with you, these cases never end up well.
+Jerry's Apartment|JERRY|Well uh, whatever you can do. Thanks.
+Yankee Stadium: George's Office|action|George sits at his desk, his forehead resting on a folder he has clutched in his hands. Mr Wilhelm enters, looking happy.
+Yankee Stadium: George's Office|GEORGE|(hesitant) Uh, Mr Wilhelm. Uh, about the project...
+Yankee Stadium: George's Office|WILHELM|That's what I came to talk to you about. Great job George. (shakes George's hand) You really nailed it.
+Yankee Stadium: George's Office|GEORGE|I did?
+Yankee Stadium: George's Office|WILHELM|Oh yes, I read through it this morning. I couldn't have done it better myself, and I turned it right over to Mr Steinbrenner. Good work George.
+Yankee Stadium: George's Office|action|Wilhelm leaves. George looks stunned and confused.
+Jerry's Apartment|action|By now, George is looking much more pleased.
+Jerry's Apartment|JERRY|I don't get it. He assigns it to you, you don't do it. Somehow it gets done, and now he's telling you what a great job you did.
+Jerry's Apartment|GEORGE|Maybe somebody did it and didn't take credit for it. Maybe it was already done and didn't need doing in the first place. I have no idea who did it, what they did, or how they did it so well. And you know what? Jimmy crack corn and I don't care.
+Mr Wilhelm's Home|action|Wilhelm sits on the couch. He has a newspaper and is talking to his wife, who's in another room.
+Mr Wilhelm's Home|WILHELM|The gardener did a nice job planting the rose bushes, didn't he dear?
+Mr Wilhelm's Home|WILHELM|I did?
+Mr Wilhelm's Home|WILHELM|(thinks for a moment) That's right. (pause) What's for dinner?
+Mr Wilhelm's Home|action|Wilhelm can be seen struggling to recollect.
+Jerry's Apartment|action|A still pleased looking George is fetching a drink from Jerry's fridge.
+Jerry's Apartment|GEORGE|The point is, however it got done, it's done. So, any luck with the car?
+Jerry's Apartment|JERRY|No. The police have no leads (sitting on the couch arm) and I just found out today my insurance doesn't cover it.
+Jerry's Apartment|GEORGE|Why not?
+Jerry's Apartment|JERRY|They don't consider it stolen, if you wilfully give the guy the keys.
+Jerry's Apartment|action|The door opens and Elaine enters.
+Jerry's Apartment|ELAINE|(to George) Hey.
+Jerry's Apartment|GEORGE|Hey.
+Jerry's Apartment|ELAINE|(to Jerry) Hey. What did the detective say?
+Jerry's Apartment|JERRY|They're looking.
+Jerry's Apartment|GEORGE|I gotta go.
+Jerry's Apartment|action|George leaves. The phone rings and Jerry picks up.
+Jerry's Apartment|JERRY|Y'hello.
+Jerry's Apartment|JERRY|Yeah.
+Jerry's Apartment|action|Elaine looks quizzical. Jerry mouths, 'It's the police'
+Jerry's Apartment|JERRY|Yeah, okay. (to Elaine) They may have found the car.
+Jerry's Apartment|ELAINE|(makes surprise noise) Are the clubs in it? Ask him.
+Jerry's Apartment|JERRY|Are there golf clubs in the back?
+Pier 38 Warehouse|action|The interior of the warehouse is gloomy and dank. There are cars and parts of cars arranged round the area, together with tools, welding gear, etc. Detective McMahon stands beside a car-shaped object hidden under a white sheet. Jerry and Elaine are led in by a young patrolman who looks queasy.
+Pier 38 Warehouse|DETECTIVE|How d'you do. Thanks for coming down.
+Pier 38 Warehouse|JERRY|(indicating) This is Elaine Benes.
+Pier 38 Warehouse|ELAINE|(explaining) We used to date, but now we're just friends.
+Pier 38 Warehouse|DETECTIVE|I see.
+Pier 38 Warehouse|JERRY|Yeah.
+Pier 38 Warehouse|DETECTIVE|I'm sorry to make you go through this, but we need to make sure.
+Pier 38 Warehouse|JERRY|Well, what's going on? What is this thing?
+Pier 38 Warehouse|DETECTIVE|One of our patrolmen stumbled over this.
+Pier 38 Warehouse|action|He lifts the sheet, revealing what's beneath to Jerry and Elaine.
+Pier 38 Warehouse|ELAINE|(horrified) Huuh! (she turns away and covers her mouth)
+Pier 38 Warehouse|JERRY|Oh my God!
+Pier 38 Warehouse|action|The young patrolman removes his cap out of respect for the victim.
+Pier 38 Warehouse|DETECTIVE|The block is nearly split apart. We found the overhead cams thirty feet away. We can only hope the body sold for scrap.
+Pier 38 Warehouse|ELAINE|Oh, my God.
+Pier 38 Warehouse|DETECTIVE|And we know it's a Saab. The angle on the Vee-6 is definitely ninety-two. The model is hard to determine because the drive train is all burnt out.
+Pier 38 Warehouse|JERRY|What is that smell?
+Pier 38 Warehouse|DETECTIVE|Look at the clutch.
+Pier 38 Warehouse|action|They look. Jerry and Elaine don't like what they see.
+Pier 38 Warehouse|ELAINE|Uuh.
+Pier 38 Warehouse|action|The patrolman cracks and leaves hurriedly, looking nauseous.
+Pier 38 Warehouse|DETECTIVE|Whoever did this didn't just dismantle it. I mean, they took their time, they had fun. They were very systematic. They went out of their way to gouge the sides of every piston, and the turbo was separated from the housing and shoved right up the exhaust pipe.
+Pier 38 Warehouse|ELAINE|Uhh
+Pier 38 Warehouse|JERRY|Wait a second. Turbo? I didn't have a turbo.
+Pier 38 Warehouse|DETECTIVE|Your car's not a turbo?
+Pier 38 Warehouse|JERRY|No, it's a nine-hundred S. (happy) It's a turbo, Elaine, a turbo!
+Pier 38 Warehouse|ELAINE|(sobbing happiness) It's a tu-hur-bo.
+Pier 38 Warehouse|action|Elaine and Jerry hug in happiness. In the background, another woman arrives.
+Pier 38 Warehouse|WOMAN|Excuse me, did you say turbo? Saab turbo nine-thousand? Is it... (voice breaking) midnight blue?
+Pier 38 Warehouse|DETECTIVE|(condolences) Yes ma'am.
+Mail Truck|action|Newman drives as he and Kramer give voice to their happiness.
+Mail Truck|action|Their singing ends shambolically as they lose track of the lyrics. But the pair still look gleeful.
+Jerry's Apartment/Jerry's car|action|The phone rings in Jerry's apartment. He picks it up.
+Jerry's Apartment/Jerry's car|JERRY|Hello.
+Jerry's Apartment/Jerry's car|TONY|Hey Jerry, it's Tony.
+Jerry's Apartment/Jerry's car|JERRY|Tony, where are you?
+Jerry's Apartment/Jerry's car|action|The Saab is driving down a quiet country road at night.
+Jerry's Apartment/Jerry's car|TONY|Aw look, I just want you to know that the car is fine. I got her all fixed up. We're in a nice area, no potholes, no traffic. So there's nothing to worry about. Okay? In fact, here, somebody wants to talk to you.
+Jerry's Apartment/Jerry's car|action|Tony holds the phone toward the dash and revs the engine a little. Jerry can hear the engine noise over the phone.
+Jerry's Apartment/Jerry's car|JERRY|Tony, y-you better bring that car back!
+Jerry's Apartment/Jerry's car|TONY|(angry) Nobody's giving anything back! You tried to take it from me, I don't forget that.
+Jerry's Apartment/Jerry's car|JERRY|Tony, it is my car, and I want it back!
+Jerry's Apartment/Jerry's car|TONY|Oh, your car. You want your car back!
+Jerry's Apartment/Jerry's car|JERRY|Tony.
+Jerry's Apartment/Jerry's car|TONY|Listen, that registration may have your name on it, Jerry. But this engine's running on my sweat and my blood.
+Jerry's Apartment/Jerry's car|action|Tony hangs up the phone.
+Jerry's Apartment/Jerry's car|JERRY|(exasperated) Where do I find these guys?
+Mail Truck|action|Kramer is driving the truck along a highway in daylight.
+Mail Truck|NEWMAN|How much gas we got?
+Mail Truck|KRAMER|Three quarters of a tank.
+Mail Truck|action|Newman punches the numbers into a calculator.
+Mail Truck|KRAMER|That's better than we estimated.
+Mail Truck|NEWMAN|(smugly) That is seven dollars and twenty-two cents better.
+Mail Truck|action|They give a smug little laugh.
+Mail Truck|NEWMAN|Maybe we could uh, stop for a snack.
+Mail Truck|KRAMER|Ah, no, that's not in the budget.
+Mail Truck|NEWMAN|Yeah well, the budget changed, you know. I mean, it might be a good investment.
+Mail Truck|KRAMER|That's not a good investment, that's a loss.
+Mail Truck|action|A convertible black Saab passes the mail truck.
+Mail Truck|KRAMER|Hey, d'you see that car? Looks like Jerry's. I'm gonna check out that license plate.
+Mail Truck|action|He accelerates the mail truck to close on the Saab, and leans forward, straining to make out the plate.
+Mail Truck|KRAMER|Yeah, those are New York plates.
+Mail Truck|NEWMAN|Is that Jerry's number?
+Mail Truck|KRAMER|I don't know, but that's New York and we're in Ohio. Those are pretty good odds.
+Mail Truck|action|Kramer reaches under his seat, rummaging for something.
+Mail Truck|NEWMAN|What're you doing?
+Mail Truck|KRAMER|I'm calling Jerry.
+Mail Truck|NEWMAN|On what?
+Mail Truck|KRAMER|Brought my phone.
+Mail Truck|action|He pulls out his mobile and hits the speed dial for Jerry.
+Jerry's Apartment/Mail Truck|JERRY|(answering phone) Y'hello.
+Jerry's Apartment/Mail Truck|KRAMER|Yeah, hey Jerry, what's your licence plate number?
+Jerry's Apartment/Mail Truck|JERRY|Why, what's up?
+Jerry's Apartment/Mail Truck|KRAMER|Yeah, well I think I spotted your car.
+Jerry's Apartment/Mail Truck|JERRY|Oh my god, you're kidding. (dives for his wallet) Hang on a second. (reading from his registration) It's JVN 728.
+Jerry's Apartment/Mail Truck|KRAMER|(checks the car ahead of him) Hey, that's it! That's it. Hey, uh look, we got him. We're driving right behind him in a truck.
+Jerry's Apartment/Mail Truck|JERRY|Oh my god. Yeah, yeah, he said he brought it to the country.
+Jerry's Apartment/Mail Truck|KRAMER|Well we're in the country and we're right on his tail.
+Jerry's Apartment/Mail Truck|JERRY|Good work Kramer, this is incredible.
+Jerry's Apartment/Mail Truck|KRAMER|Yeah, don't worry Jerry. We're right on this guy like stink on a monkey! I'll check back with you.
+Elaine's Office/Jerry's Apartment|action|The phone rings in Elaine's office. She answers it.
+Elaine's Office/Jerry's Apartment|ELAINE|Elaine Benes.
+Elaine's Office/Jerry's Apartment|JERRY|Yeah, it's me. Kramer found the car!
+Elaine's Office/Jerry's Apartment|ELAINE|Oh my god, where is it?
+Elaine's Office/Jerry's Apartment|JERRY|It's somewhere in the country, they're following 'em.
+Elaine's Office/Jerry's Apartment|ELAINE|Are the clubs there?
+Elaine's Office/Jerry's Apartment|JERRY|I don't know. They're tailing him. I'm waiting for them to call me back.
+Elaine's Office/Jerry's Apartment|ELAINE|Alright, I'm heading over right now.
+Jerry's Apartment|action|Elaine enters at a rush.
+Jerry's Apartment|ELAINE|What's the status?
+Jerry's Apartment|JERRY|Last check-in, they were still on him.
+Jerry's Apartment|ELAINE|Well, have they called the police yet?
+Jerry's Apartment|JERRY|No, they won't call the police.
+Jerry's Apartment|ELAINE|What? Why not?
+Jerry's Apartment|JERRY|They're afraid they'll get in trouble for misusing a mail truck. Kramer doesn't want a record.
+Jerry's Apartment|ELAINE|Kramer has a record.
+Jerry's Apartment|JERRY|Not a Federal record.
+Jerry's Apartment|action|The phone rings. Jerry grabs the handset by the couch, Elaine picks up in the kitchen.
+Mail Truck/Jerry's Apartment|JERRY|What's going on?
+Mail Truck/Jerry's Apartment|KRAMER|Yeah, nothing. We're still following him.
+Mail Truck/Jerry's Apartment|action|Ahead of the truck, the black Saab indicates his intention to move onto the off-ramp.
+Mail Truck/Jerry's Apartment|KRAMER|Wait a second, he's getting off. Yeah, he's gonna be going south on the one-thirty-five.
+Mail Truck/Jerry's Apartment|ELAINE|Keep following him.
+Mail Truck/Jerry's Apartment|KRAMER|Alright, alright, I'll follow him.
+Mail Truck/Jerry's Apartment|NEWMAN|Hey, we can't follow him, we're going north to Michigan.
+Mail Truck/Jerry's Apartment|KRAMER|Yeah, hey listen, I can't. It's gonna be taking us out of our way.
+Mail Truck/Jerry's Apartment|ELAINE|I need those clubs.
+Mail Truck/Jerry's Apartment|JERRY|Kramer, I want my car.
+Mail Truck/Jerry's Apartment|KRAMER|Well, I don't know what to do.
+Mail Truck/Jerry's Apartment|NEWMAN|Hey, we got ten thousand deposit bottles here. I mean, this guy could be going to Arkansas.
+Mail Truck/Jerry's Apartment|JERRY|Keep following him Kramer. don't let me down.
+Mail Truck/Jerry's Apartment|NEWMAN|Hey, don't listen to him. I mean, we can't afford a detour. Our budget won't hold it.
+Mail Truck/Jerry's Apartment|KRAMER|Well, I don't know what to do man!
+Mail Truck/Jerry's Apartment|NEWMAN|Kramer! Stay left. Left, left, left.
+Mail Truck/Jerry's Apartment|KRAMER|Alright! Alright. I'm getting off! I'm gonna go on the ramp.
+Mail Truck/Jerry's Apartment|action|Kramer swerves onto the off-ramp at the last moment. Tyres squeal and the truck sways.
+Mail Truck|NEWMAN|I hope you realise what you've done. You've destroyed our whole venture.
+Mail Truck|KRAMER|This ramp is steep.
+Mail Truck|NEWMAN|All my work, my planning, my genius. All for nought.
+Mail Truck|KRAMER|Alright, look, we're pulling too much weight. He's getting away from us here. (indicating) Take the wheel.
+Mail Truck|action|Newman reaches across and takes the steering wheel as Kramer gets out of the driving seat.
+Mail Truck|NEWMAN|What're you doing?
+Mail Truck|KRAMER|(climbing though into the back of the truck) I'm gonna get something.
+Mail Truck|NEWMAN|Are you crazy?
+Mail Truck|action|The truck swerves as Newman slides into the driving seat.
+Mail Truck|KRAMER|Keep your foot on the gas.
+Mail Truck|action|Kramer shoves his way through the sackloads of bottles and cans.
+Mail Truck|NEWMAN|Hey! You're not dumping those bottles back there, are you?
+Mail Truck|action|Kramer slides open the rear door of the truck.
+Mail Truck|NEWMAN|Hey Kramer, those have wholesale value! We could cut our losses.
+Mail Truck|action|Kramer grabs a sack and heaves it out the back of the truck.
+Mail Truck|KRAMER|Look out below!!
+Mail Truck|action|Car horns can be heard as the sack lands in the carriageway. Kramer grabs another sack and hurls that out, with another yelled warning.
+Yankee Stadium: Steinbrenner's Office|action|Steinbrenner sits behind his desk. He's examining something on his desktop with a large powerful magnifying glass.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|(to himself) With this magnifying glass, I feel like a scientist.
+Yankee Stadium: Steinbrenner's Office|action|There is a tap at the door, and George cautiously enters.
+Yankee Stadium: Steinbrenner's Office|GEORGE|You wanted to see me, sir?
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|Ah, come in George, come in.
+Yankee Stadium: Steinbrenner's Office|action|George strolls up to Big Stein's desk, looking more confident.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|Uh, Wilhelm gave me this project you worked on.
+Yankee Stadium: Steinbrenner's Office|GEORGE|(smiling) Yes sir.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|Let me ask you something, George. You having any personal problems at home? Girl trouble, love trouble of any kind?
+Yankee Stadium: Steinbrenner's Office|GEORGE|(wondering where this is leading) No sir.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|What about drugs? You doing some of that crack cocaine? You on the pipe?
+Yankee Stadium: Steinbrenner's Office|GEORGE|(worried now) No sir.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|Are you seeing a psychiatrist? Bcause I got a flash for you young man, you're non compos mentis! You got some bats in the belfry!
+Yankee Stadium: Steinbrenner's Office|GEORGE|What're.. What're you talking about?
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|George, I've read this report. It's very troubling, very troubling indeed. It's a sick mind at work here.
+Yankee Stadium: Steinbrenner's Office|action|Two burly guys who are clearly medical orderlies come into the room behind George.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|Okay, come on boys, come on in here. George, this is Herb and Dan.
+Yankee Stadium: Steinbrenner's Office|action|George regards the two guys, very nervously as they approach him and stand behind him, one on either shoulder.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|They're gonna take you away to a nice place where you can get some help. They're very friendly people there. My brother-in-law was there for a couple of weeks. The man was obsessed with lactating women. They completely cured him, although he still eats a lot of cheese.
+Yankee Stadium: Steinbrenner's Office|action|Herb and Dan take hold of George's arms. George gets panicky
+Yankee Stadium: Steinbrenner's Office|GEORGE|Ah, see, Mister.. I didn't write that report. That, that's not mine.
+Yankee Stadium: Steinbrenner's Office|action|Herb and Dan begin to drag the struggling George across the office toward the door.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|Of course you didn't George. Of course you didn't write it.
+Yankee Stadium: Steinbrenner's Office|GEORGE|I didn't do it! It..It just got done. I don't know how it got done, but it did.
+Yankee Stadium: Steinbrenner's Office|action|As Herb and Dan haul George through the door, George makes his last stand, trying to get a hold on the doorframe with his feet. Eventually he is dragged out into the corridor and vanishes from view.
+Yankee Stadium: Steinbrenner's Office|STEINBRENNER|Of course. Of course it got done. Things get done all the time, I understand. (as George disappears) Don't worry, your job'll be waiting for you when you get back. (banging his fist on his desk) Get better George. Get better!
+Mail Truck|action|The Saab travels down a quiet country road at night, followed by the mail truck. Kramer is driving, Newman looks furious in the passenger seat.
+Mail Truck|KRAMER|(frustrated) Damn. I don't understand this. I've ditched every bottle and can, and we still can't gain. It's like we're...
+Mail Truck|action|He looks across at the substantial bulk of Newman and a thought occurs.
+Mail Truck|KRAMER|...sluggish.
+Mail Truck|NEWMAN|I went through all those bottles and all those cans, for what? What a waste. And I'm really gonna catch hell for those missing mailbags.
+Mail Truck|KRAMER|Heyy, wasn't that a pie stand back there?
+Mail Truck|NEWMAN|(perks up) A pie stand? Where?
+Mail Truck|KRAMER|Oh yeah. Home-made pies, two hundred yards back.
+Mail Truck|NEWMAN|Aww, c'mon, pull over, pull over will ya.
+Mail Truck|action|Kramer pulls the truck into the roadside. As it halts, Newman sticks his head out the window to peer back down the road.
+Mail Truck|NEWMAN|Where? I..I..I don't see it.
+Mail Truck|KRAMER|Well open the door, you get a better look.
+Mail Truck|action|Newman slides back the door and leans out.
+Mail Truck|NEWMAN|I don't see any pie...
+Mail Truck|action|Kramer plants his foot firmly in Newman's backside and heaves him out of the truck.
+Mail Truck|NEWMAN|...Aargh!
+Mail Truck|action|As Newman lands heavily in the verge, Kramer slides the door shut and drives away.
+Mail Truck|NEWMAN|Kramer!!
+Mail Truck|KRAMER|I'm sorry Newman, you were holding us back.
+Mail Truck|NEWMAN|(after speeding truck) Kramer!!
+Mail Truck|action|In the mail truck, Kramer picks up his phone and redials.
+Mail Truck|KRAMER|(shouting) Jerry! We've lost the fat man, and we're running lean. We're back on track, buddy!
+Country Roadside|action|Newman wanders forlornly along the roadside at night. He tries to thumb a ride from passing traffic, displaying his uniform insignia to drivers.
+Country Roadside|NEWMAN|Federal employee. Federal employee.
+Country Roadside|action|Aside from a few blaring car horns, he gets no response. He continues his trudge, a sour look on his face.
+Countryside|action|Newman struggles up a steep slope. Newman pushes his way through a field of crops. He emerges from the vegetation and sees a farmhouse, its lights blazing. His face lights up. He stumbles towards the welcoming lights, tripping and falling, before picking himself up and running up to the building.
+Farm|action|Newman reaches the steps to the porch and stumbles up them. As he reaches the door, a scent catches his attention. Looking to the window, he sees a pie left out on the window sill to cool. A craftier look comes to his face. He turns back to the door and knocks. After a few seconds, it opens.
+Farm|FARMER|Hello stranger.
+Farm|NEWMAN|(a touch desperate) Ah, look, I..I'm sorry to bother you, but I'm a US postal worker and my mail truck was just ambushed by a band of backwoods mail-hating survivalists.
+Farm|FARMER|Calm down, now. Calm down. Don't worry, we'll take care of you. This farm ain't much, but uh, you're welcome to what we have. Hot bath, hearty meal, clean bed.
+Farm|NEWMAN|Oh, thank you, sir.
+Farm|FARMER|Just have one rule. Keep your hands off my daughter.
+Farm|action|Just then, the daughter in question slinks up behind the farmer. Blonde, twenty-ish, just one walking temptation.
+Mail Truck/Jerry's Apartment|action|Kramer has the mail truck right behind Jerry's Saab as they race along a quiet country road.
+Mail Truck/Jerry's Apartment|KRAMER|Jerry, we got 'im. I'm riding his tail. There's no escape. He's running scared, buddy.
+Mail Truck/Jerry's Apartment|action|Jerry and Elaine are sitting on the couch, each with a phone handset.
+Mail Truck/Jerry's Apartment|JERRY|How's the gas situation?
+Mail Truck/Jerry's Apartment|KRAMER|(checks dial) I got enough to get to Memphis.
+Mail Truck/Jerry's Apartment|action|In front of him, Tony reaches into the back seat of the Saab.
+Mail Truck/Jerry's Apartment|KRAMER|He's reaching in back. He's grabbing at something.
+Mail Truck/Jerry's Apartment|action|Tony extracts a long, metallic object from behind himself.
+Mail Truck/Jerry's Apartment|KRAMER|He's pulling out a gun! He's got a gun, Jerry!!
+Mail Truck/Jerry's Apartment|JERRY|Duck, Kramer! Duck!
+Mail Truck/Jerry's Apartment|action|Kramer crouches as far as he can. Tony flings the object at Kramer's mail truck. It crashes against the windshield and bounces away.
+Mail Truck/Jerry's Apartment|KRAMER|It's a golf club! It's no gun. He threw a golf club at me!
+Mail Truck/Jerry's Apartment|ELAINE|Those are JFK's golf clubs!
+Mail Truck/Jerry's Apartment|action|Tony hurls another club at the mail truck. Again, it bounces off the windshield, leaving some cracks.
+Mail Truck/Jerry's Apartment|KRAMER|Hey, I'm under fire here. (another club hits) I'm under heavy fire here, boy. (another hit) Jeez! That was a five-iron!
+Mail Truck/Jerry's Apartment|ELAINE|Stop the truck, Kramer. Pick up the clubs!
+Mail Truck/Jerry's Apartment|JERRY|No, don't stop, Kramer. Keep going, don't let him get away.
+Mail Truck/Jerry's Apartment|KRAMER|Wait a minute, I think he's done. (peers at the Saab) Oh no, he's taking out the woods!
+Mail Truck/Jerry's Apartment|action|Tony flings a heavy wood at the truck.
+Mail Truck/Jerry's Apartment|KRAMER|(noise)
+Mail Truck/Jerry's Apartment|action|The Saab leads the truck down the road, with Tony hurling club after club over his shoulder and into the front of the truck.
+Mail Truck/Jerry's Apartment|KRAMER|(yelling at Tony) You'll have to do a lot better than that!
+Mail Truck/Jerry's Apartment|action|Tony hurls the golf bag at the truck. It slams solidly against the windshield, Kramer flinches, the truck swerves. The front wheel runs over a club on the tarmac and the tyre bursts.
+Mail Truck/Jerry's Apartment|JERRY|(hearing the noises) What's happening!
+Mail Truck/Jerry's Apartment|action|The truck is rattling and lurching as it struggles along the road.
+Mail Truck/Jerry's Apartment|KRAMER|This truck is dying. We're losing him.
+Mail Truck/Jerry's Apartment|action|The Saab easily outpaces the truck and accelerates away. The truck staggers to a halt, giving out a death rattle. A cloud of steam and smoke erupts from under the hood.
+Mail Truck/Jerry's Apartment|KRAMER|I think we lost him.
+Mail Truck/Jerry's Apartment|JERRY|(disappointment) Dammit!
+Mail Truck/Jerry's Apartment|ELAINE|(quietly) Can you stop and pick up those clubs Kramer?
+Mail Truck/Jerry's Apartment|KRAMER|(subdued) Yeah, yeah, I'll get 'em.
+Mail Truck/Jerry's Apartment|action|Jerry hangs up.
+Country|action|Kramer climbs out of the truck and looks back down the road. He kicks the deflated tyre. Coming to the front of the truck, he picks a club off the front bumper and pulls the broken shaft of another out of the radiator grille. Kramer walks along the road with the bent and broken clubs. He comes upon the bag and transfers the clubs into it. Slinging it over his shoulder, he continues on his way, picking up more battered golf clubs as he goes.
+Farm|action|Newman, the farmer and the farmer's daughter sit round the kitchen table. They are working their way through a generous meal.
+Farm|FARMER|Enjoy that mutton?
+Farm|NEWMAN|(mouth full) It's delicious mutton. This is uh, this is outta sight. I would, I would love to get the recipe. It's very good.
+Farm|action|The farmer's daughter is staring at Newman and toying with her fork, touching it to her lips and teeth. (It's difficult to be arousing with cutlery, but she's giving it a pretty good shot.) Newman notices this and tries to take a nonchalant sip from a glass, but it goes down the wrong way and he splutters.
+Farm|FARMER|That cider too strong for you?
+Farm|NEWMAN|No, no. I love strong cider. (for the farmer's daughter's benefit) I'm a big, strong, cider guy.
+Farm|action|The farmer's daughter licks her lips.
+Farm|FARMER|Gonna be milking Holsteins in the morning, if you'd like to lend a hand.
+Farm|NEWMAN|(reluctant) You know, I don't really know that much about uh.. I don't have any.. I don't.. I don't think I know much about that.
+Farm|FARMER|Ahh, Susie here'll teach you.
+Farm|action|The farmer's daughter goes wide eyed.
+Farm|FARMER|Just gotta pull on the teat a little.
+Farm|action|Susie and Newman half-laugh nervously.
+Farm|SUSIE|(suggestive) Nice having a big, strong, man around.
+Farm|NEWMAN|You know, those mail bags, they get mighty heavy. I uh, I Nautilus, of course. (puffs out his chest)
+Farm|action|The farmer looks at him oddly.
+Farm|NEWMAN|(breaking from his pose) Can I have some gravy?
+Institution|action|George is using a payphone in the corner of the room. His free hand is holding the waistband of his trousers. In the background are a couple of inmates and visitors, and an orderly. Notable among them are Pop and Deena Lazzari, previously seen in 'The Gum'.
+Institution|GEORGE|(desperate) Steinbrenner had me committed! I'm in the nuthouse!
+Institution|DEENA|I'll be back same time next week, Pop.
+Institution|GEORGE|(quieter desperation) They took my belt, Jerry. I got nothing to hold my pants up. (listens) Well, you gotta come over here now! Just tell 'em what we talked about, how I, how I, I didn't do the project.
+Institution|action|Deena spots George as she makes her way out of the room.
+Institution|DEENA|George?
+Institution|action|George looks like his salvation has arrived. He hangs up the phone.
+Institution|DEENA|I see you're finally getting some help.
+Institution|GEORGE|Aw, hoh, oh Deena, thank God. (he hugs Deena) Thank God you're here. Listen, you gotta help me. You gotta tell these people that I'm okay. You know that I don't belong in here.
+Institution|DEENA|George, this is the best thing for you. (she walks away)
+Institution|GEORGE|Yea... (sinks in) What? No, no!
+Institution|action|As he tries to follow Deena, the orderly grabs hold of him and restrains him.
+Institution|GEORGE|Deena! Deena, wait a... Deena, help!
+Institution|action|George is almost in tears and hops from foot to foot in frustration as the orderly holds him. Pop Lazzari wanders over.
+Institution|POP|Is that little Georgie C? How's the folks? You still got that nice little car?
+Countryside|action|Kramer approaches a familiar farmhouse. As he mounts the steps up to the porch, a commotion erupts inside the place. A gunshot rings out and the farmer's daughter screams. Kramer flinches. The farmer can be heard yelling angrily. The door is flung open and Newman runs out pulling up his trousers.
+Countryside|NEWMAN|(screaming in panic) Aaah!! Aaah!
+Countryside|KRAMER|What you doing?!
+Countryside|NEWMAN|(pushing past Kramer) Kramer, help me! Help me!
+Countryside|action|Newman sets off running. From the door of the farmhouse comes the farmer, armed with a shotgun, closely followed by his daughter, whose shirt is undone and hair is dishevelled.
+Countryside|KRAMER|(takes one look and sets off after Newman) Jeez!
+Countryside|FARMER|(taking aim) I told you to keep away from my daughter!
+Countryside|action|As Kramer and Newman reach the edge of the crops, the farmer fires a shot. Both Newman and Kramer leap in the air and run into the cover of the crop. Before the farmer can fire again, his daughter pushes the barrel of the shotgun downward, spoiling his aim.
+Countryside|SUSIE|No daddy, you'll hurt him! I love him! (waving after Newman) Goodbye Norman, goodbye.
+Elaine's Office|action|Elaine is sitting with her head in her hands. Peterman enters at a rush.
+Elaine's Office|PETERMAN|(excited) Elaine! You found the clubs. That's wonderful news. Where are they?
+Elaine's Office|ELAINE|(not the soul of happiness) Yep. Lemme get 'em for you, Mr Peterman.
+Elaine's Office|PETERMAN|Oh, I'll be inaugrating them this weekend, with none other than Ethel Kennedy. A woman whose triumph in the face of tragedy is exceeded only by her proclivity to procreate.
+Elaine's Office|action|Elaine puts the bag of clubs down beside Peterman. The clubs are, of course, wrecked. Elaine looks like she's expecting a poor reaction. Peterman picks up a club or two, staring in disbelief at the twisted metal.
+Elaine's Office|ELAINE|The uh, the letter of, authenticity's in the side pocket there.
+Elaine's Office|PETERMAN|Elaine. I never knew Kennedy had such a temper.
+Elaine's Office|ELAINE|(spotting a chance to keep her job) Oh. Oh yeah. The only thing worse was his slice. (she laughs nervously)
+Elaine's Office|PETERMAN|See you on Monday.
+Elaine's Office|action|Peterman picks up the bag and heads for the door.
+Elaine's Office|ELAINE|Have a good game.

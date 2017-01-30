@@ -1,0 +1,304 @@
+Jerry and George are entering Jerry's apartment.|JERRY|Do you believe this? The car was parked right out front.
+Jerry and George are entering Jerry's apartment.|GEORGE|Was the alarm on?
+Jerry and George are entering Jerry's apartment.|JERRY|I don't know, I guess it was on. I don't know my alarm sound; I'm not tuned in to it like it's my son.
+Jerry and George are entering Jerry's apartment.|GEORGE|I don't understand, how do these thieves start the car?
+Jerry and George are entering Jerry's apartment.|JERRY|They cross the wires or something.
+Jerry and George are entering Jerry's apartment.|GEORGE|Cross the wires? I can't even make a pot of spaghetti.
+Jerry and George are entering Jerry's apartment.|action|Kramer enters.
+Jerry and George are entering Jerry's apartment.|JERRY|They stole my car.
+Jerry and George are entering Jerry's apartment.|KRAMER|Who did?
+Jerry and George are entering Jerry's apartment.|JERRY|They did.
+Jerry and George are entering Jerry's apartment.|KRAMER|Was it more than just one?
+Jerry and George are entering Jerry's apartment.|JERRY|What should I do, should I call the police?
+Jerry and George are entering Jerry's apartment.|KRAMER|What are they gonna do?
+Jerry and George are entering Jerry's apartment.|JERRY|I'd better call the car phone company, cancel my service.
+Jerry and George are entering Jerry's apartment.|GEORGE|Maybe you should call your car phone.
+Jerry and George are entering Jerry's apartment.|JERRY|Yeah, he's probably driving it right now.
+Jerry and George are entering Jerry's apartment.|GEORGE|Wait a minute, call the car phone, see what happens.
+Jerry and George are entering Jerry's apartment.|JERRY|Are you serious?
+Jerry and George are entering Jerry's apartment.|GEORGE|Yeah, go ahead, call.
+Jerry and George are entering Jerry's apartment.|JERRY|I don't even know if I remember the number.
+Jerry and George are entering Jerry's apartment.|action|Jerry dials.
+Jerry and George are entering Jerry's apartment.|JERRY|What do I say if he picks up?
+Jerry and George are entering Jerry's apartment.|JERRY|Hello? Is this 555-8383?
+Jerry and George are entering Jerry's apartment.|JERRY|Can I ask you a question?
+Jerry and George are entering Jerry's apartment.|JERRY|Did you steal my car?
+Jerry and George are entering Jerry's apartment.|JERRY|You did?!
+Jerry and George are entering Jerry's apartment.|JERRY|That's my car!
+Jerry and George are entering Jerry's apartment.|JERRY|What are you gonna do with it?
+Jerry and George are entering Jerry's apartment.|JERRY|Then can I have it back?
+Jerry and George are entering Jerry's apartment.|action|Kramer gestures for Jerry to hand him the phone.
+Jerry and George are entering Jerry's apartment.|KRAMER|Hello?
+Jerry and George are entering Jerry's apartment.|KRAMER|Kramer.
+Jerry and George are entering Jerry's apartment.|KRAMER|Listen, there's a pair of gloves in the glove compartment.
+Jerry and George are entering Jerry's apartment.|KRAMER|Yeah. Listen, could you mail those to me? Or bring them by my building, it's 129 West 81st St.
+Jerry and George are entering Jerry's apartment.|KRAMER|Thanks a lot, uh here's Jerry.
+Jerry and George are entering Jerry's apartment.|JERRY|(derisively at Kramer) Gloves. (Into the phone) Hello?
+Jerry and George are entering Jerry's apartment.|JERRY|Yeah, let me ask you a question. How do you cross those wires?
+Jerry and George are entering Jerry's apartment.|JERRY|Sid left the keys in the car. Alright, I gotta go. Drive carefully.
+Jerry and George are entering Jerry's apartment.|action|Jerry hangs up.
+Jerry and George are entering Jerry's apartment.|JERRY|Sid left the keys in the car.
+Jerry and George are entering Jerry's apartment.|GEORGE|Who's Sid?
+Jerry and George are entering Jerry's apartment.|JERRY|He's this guy in the neighborhood, parks cars on the block.
+Jerry and George are entering Jerry's apartment.|GEORGE|What do you mean?
+Jerry and George are entering Jerry's apartment.|JERRY|He moves them from one side of the street to the other so you don't get a ticket.
+Jerry and George are entering Jerry's apartment.|GEORGE|What, do you pay him for that?
+Jerry and George are entering Jerry's apartment.|JERRY|Yeah, like fifty bucks a month.
+Jerry and George are entering Jerry's apartment.|GEORGE|How many people does he do that for?
+Jerry and George are entering Jerry's apartment.|JERRY|The whole block, forty, fifty cars.
+Jerry and George are entering Jerry's apartment.|KRAMER|He only works three hours a day. He makes a fortune. Course he's been doing that for years, right Jerry?
+Jerry and George are entering Jerry's apartment.|GEORGE|Could anybody do that?
+Jerry and George are entering Jerry's apartment.|action|Sid enters.
+Jerry and George are entering Jerry's apartment.|JERRY|Hey Sid, what happened?
+Jerry and George are entering Jerry's apartment.|SID|I'm sorry, Jerry. Maybe I'm getting too old for this stuff.
+Jerry and George are entering Jerry's apartment.|JERRY|You left the keys in the car?
+Jerry and George are entering Jerry's apartment.|SID|Well, you know they're making that Woody Allen movie in the block, and all those people and trucks everywhere, when I saw him I must have got a little distracted.
+Jerry and George are entering Jerry's apartment.|KRAMER|You know I'm in that movie?
+Jerry and George are entering Jerry's apartment.|GEORGE|You are?
+Jerry and George are entering Jerry's apartment.|KRAMER|Yeah, I'm an extra.
+Jerry and George are entering Jerry's apartment.|GEORGE|How'd you get that?
+Jerry and George are entering Jerry's apartment.|KRAMER|Well, I was just watching them film yesterday and some guy just asked me.
+Jerry and George are entering Jerry's apartment.|GEORGE|Right out of the clear blue sky?
+Jerry and George are entering Jerry's apartment.|KRAMER|Clear blue sky!
+Jerry and George are entering Jerry's apartment.|GEORGE|Well, why didn't they ask me?
+Jerry and George are entering Jerry's apartment.|KRAMER|I got a quality.
+Jerry and George are entering Jerry's apartment.|SID|Jerry, you got insurance, right?
+Jerry and George are entering Jerry's apartment.|JERRY|Yeah, but no car. I'll have to rent one.
+Jerry and George are entering Jerry's apartment.|SID|Well I'm going down to visit my sister in Virginia next Wednesday, for a week, so I can't park it.
+Jerry and George are entering Jerry's apartment.|JERRY|This Wednesday?
+Jerry and George are entering Jerry's apartment.|SID|No, next Wednesday, week after this Wednesday.
+Jerry and George are entering Jerry's apartment.|JERRY|But the Wednesday two days from now is the next Wednesday.
+Jerry and George are entering Jerry's apartment.|SID|If I meant this Wednesday, I would have said this Wednesday. It's the week after this Wednesday.
+Jerry and George are entering Jerry's apartment.|GEORGE|Sid, who's gonna move the cars while you're away?
+Jerry and George are entering Jerry's apartment.|SID|Whoever wants to move them, why do I care who moves them? They can move themselves if they want.
+Jerry and George are entering Jerry's apartment.|GEORGE|Maybe I could move them until you get back.
+Jerry and George are entering Jerry's apartment.|SID|What's a young man like you want to move cars for? You don't work?
+Jerry and George are entering Jerry's apartment.|GEORGE|I'm in a transition phase right now.
+Jerry and George are entering Jerry's apartment.|SID|Well if you want to move the cars, move the cars. Just don't forget to take the keys out, that's all.
+Jerry and George are entering Jerry's apartment.|action|Phone rings.
+Jerry and George are entering Jerry's apartment.|JERRY|Hello? Yeah, the defroster's the one on the bottom, just slide it all the way over. You're welcome.
+Jerry and Elaine are in line at the rental car agency.|ELAINE|I'm in awe of his intellect, when he talks it sounds like he's reading from one of his novels.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Owen March, I never heard of him.
+Jerry and Elaine are in line at the rental car agency.|ELAINE|Well, he's not a baseball player.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Yeah, that's true. Well it sounds like it's going pretty good.
+Jerry and Elaine are in line at the rental car agency.|ELAINE|Yeah. Well, there is one little problem.
+Jerry and Elaine are in line at the rental car agency.|JERRY|What's that?
+Jerry and Elaine are in line at the rental car agency.|ELAINE|He's sixty-six years old.
+Jerry and Elaine are in line at the rental car agency.|ELAINE|Well, go, go.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Seinfeld. I made a reservation for a mid-size, and she's a small. I'm kidding around, of course.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Sixty-six years old?
+Jerry and Elaine are in line at the rental car agency.|ELAINE|Yeah, well, he's in perfect health. He works out, he's vibrant. You'd really like him.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Why do people always say that? I hate everyone, why would I like him?
+Jerry and Elaine are in line at the rental car agency.|ELAINE|What do you think, would you go out with a sixty-six year old woman?
+Jerry and Elaine are in line at the rental car agency.|JERRY|Well, I'll tell you, she would have to be really vibrant. So vibrant, she'd be spinning.
+Jerry and Elaine are in line at the rental car agency.|JERRY|I don't understand, I made a reservation, do you have my reservation?
+Jerry and Elaine are in line at the rental car agency.|JERRY|But the reservation keeps the car here. That's why you have the reservation.
+Jerry and Elaine are in line at the rental car agency.|JERRY|I don't think you do. If you did, I'd have a car. See, you know how to take the reservation, you just don't know how to *hold* the reservation and that's really the most important part of the reservation, the holding. Anybody can just take them.
+Jerry and Elaine are in line at the rental car agency.|action|The agent goes into an office with a window in the door so she can be seen speaking with someone.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Uh, here we go. The supervisor. You know what she's saying over there?
+Jerry and Elaine are in line at the rental car agency.|ELAINE|What?
+Jerry and Elaine are in line at the rental car agency.|JERRY|Hey Marge, you see those two people over there? They think I'm talking to you, so you pretend like you're talking to me, okay now you start talking.
+Jerry and Elaine are in line at the rental car agency.|ELAINE|Oh, you mean like this? So it looks like I'm saying something but I'm not really saying anything at all?
+Jerry and Elaine are in line at the rental car agency.|JERRY|Now you say something else and they won't yell at me 'cause they thought I was checking with you.
+Jerry and Elaine are in line at the rental car agency.|ELAINE|Okay, that's it. I think that's enough, see you later.
+Jerry and Elaine are in line at the rental car agency.|action|The agent returns.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Yeah, it looked as if you were in a real conversation over there.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Fine.
+Jerry and Elaine are in line at the rental car agency.|JERRY|Yeah, you better give me the insurance, because I am gonna beat the hell out of this car.
+Jerry and Elaine are in line at the rental car agency.|ELAINE|What do you think, you think I'm making a big mistake?
+Jerry and Elaine are in line at the rental car agency.|JERRY|Hey, if you enjoy being with him, that's what's important.
+Jerry and Elaine are in line at the rental car agency.|ELAINE|I love being with him. I mean, I like being with him. It's okay being with him.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|I just don't enjoy being with him.
+Elaine and Jerry are at Jerry's apartment.|JERRY|Well that's what's important.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|I'm meeting him for lunch at Chadway's around the corner, do I have to break up with him face to face or can I just wait and do it over the phone?
+Elaine and Jerry are at Jerry's apartment.|JERRY|How many times you been out with him?
+Elaine and Jerry are at Jerry's apartment.|ELAINE|Seven?
+Elaine and Jerry are at Jerry's apartment.|JERRY|Face to face.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|Seven dates is a face-to-face break up?
+Elaine and Jerry are at Jerry's apartment.|JERRY|If it was six I could have let you go, but seven, I'm afraid, is over the limit. Unless, of course, there was no sex.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|Hmm... How's the pasta over there?
+Elaine and Jerry are at Jerry's apartment.|KRAMER|Whoa, whoa!!
+Elaine and Jerry are at Jerry's apartment.|JERRY|What is going on out there?
+Elaine and Jerry are at Jerry's apartment.|GEORGE|I need like a bucket of water! I got a car overheating, I got an alarm that won't go off, I'm pressing 'one', I'm pressing 'two', nothing! What do I do?! Help me! Help me!
+Elaine and Jerry are at Jerry's apartment.|action|George runs off into the bathroom.
+Elaine and Jerry are at Jerry's apartment.|KRAMER|Hey, you know they were supposed to do my scene today?
+Elaine and Jerry are at Jerry's apartment.|ELAINE|Today?!
+Elaine and Jerry are at Jerry's apartment.|KRAMER|You know they told me that they wanted me to walk down the block carrying this bag of groceries.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|Yeah.
+Elaine and Jerry are at Jerry's apartment.|KRAMER|So I start to walk, and I trip, and the grocery bag goes flying, and Woody, Woody starts laughing.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|He was laughing?!
+Elaine and Jerry are at Jerry's apartment.|KRAMER|Oh yeah, he was drinking something, it started to come out of his nose.
+Elaine and Jerry are at Jerry's apartment.|JERRY|So then what?
+Elaine and Jerry are at Jerry's apartment.|KRAMER|I got a line in the movie!
+Elaine and Jerry are at Jerry's apartment.|ELAINE|Get out!
+Elaine and Jerry are at Jerry's apartment.|JERRY|That's great!
+Elaine and Jerry are at Jerry's apartment.|GEORGE|You got a line in the Woody Allen movie?
+Elaine and Jerry are at Jerry's apartment.|KRAMER|Pretty good, huh?
+Elaine and Jerry are at Jerry's apartment.|GEORGE|You're in the movie? Is he in the scene?
+Elaine and Jerry are at Jerry's apartment.|KRAMER|Oh yeah, yeah, it's me and him. I might have a whole new career on my hands, huh?
+Elaine and Jerry are at Jerry's apartment.|JERRY|You mean *a* career.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|So was Mia Farrow there?
+Elaine and Jerry are at Jerry's apartment.|KRAMER|Uh, I didn't see him.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|What's your line?
+Elaine and Jerry are at Jerry's apartment.|KRAMER|Oh, well uh, okay I'm there with, uh, Woody, you know, I'm at this bar and, uh, I'm sit-- you know it's Woody Allen, did I mention that?
+Elaine and Jerry are at Jerry's apartment.|action|The other three impatiently encourage Kramer to continue.
+Elaine and Jerry are at Jerry's apartment.|KRAMER|So I'm sitting there with Woody and I say, I turn to him and I go, "Boy, these pretzels are making me thirsty."
+Elaine and Jerry are at Jerry's apartment.|GEORGE|Is that how you're gonna say it?
+Elaine and Jerry are at Jerry's apartment.|KRAMER|No, no, I'm working on it.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|Do it like this. "These pretzels are making me thirsty."
+Elaine and Jerry are at Jerry's apartment.|JERRY|No. "These pretzels are making me thirsty."
+Elaine and Jerry are at Jerry's apartment.|KRAMER|No, no. See, that's no good. See, you don't know how to act.
+Elaine and Jerry are at Jerry's apartment.|GEORGE|"These pretzels are making me thirsty!!"
+Elaine and Jerry are at Jerry's apartment.|action|Jerry pinches his nose.
+Elaine and Jerry are at Jerry's apartment.|GEORGE|That was no good?
+Elaine and Jerry are at Jerry's apartment.|KRAMER|I didn't say anything.
+Elaine and Jerry are at Jerry's apartment.|ELAINE|I'm gonna go break up with Owen.
+Elaine and Jerry are at Jerry's apartment.|GEORGE|What was wrong with that? I had a different interpretation! Do you know anything about this pretzel guy?! Maybe he's been in the bar a really long time and he's really depressed because he has no job and no woman and he's parking cars for a living! (out the window to honking cars) Alright! Alright! Shut up! Shut up! I hear you! I'm coming down! These pretzels are making me thirsty!
+Elaine and Jerry are at Jerry's apartment.|action|George storms out.
+Still Jerry's apartment, some time later. There's a pounding on the door, Jerry opens it and Elaine enters with an unconscious older man.|JERRY|Oh my god.
+Still Jerry's apartment, some time later. There's a pounding on the door, Jerry opens it and Elaine enters with an unconscious older man.|ELAINE|Call an ambulance.
+Still Jerry's apartment, some time later. There's a pounding on the door, Jerry opens it and Elaine enters with an unconscious older man.|JERRY|Boy, he took it hard.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|We were walking down the block right by your house and I was just about to break up with him then all of a sudden he started to twitch.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|(on the phone) Hello? Yes, I need an ambulance at one twenty nine west Eighty-first Street, apartment five-A.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|Tell then to hurry! Hurry!
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|(To Elaine) It's an ambulance. (To the operator) I don't know but he's unconscious.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|action|Kramer enters.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|These pretzels are making me thirsty. (He bites into a pretzel.) Boy, these pretzels are making me thirsty.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Kramer.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|What happened here?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|I don't know, I don't know, what should we do? We called an ambulance, does anyone know first aid?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Shouldn't you do something with the extremities?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|What extremities?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|What's an extremity?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|You raise the feet, get blood to the head.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|You raise the head, you get blood to the feet.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|Okay, what about a cold compress? They always do that.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|I don't have a washcloth.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|Well use a paper towel.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|You can't put a paper towel on his head.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|What about a big sponge?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|How you gonna hold it on there?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|Use a belt.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|No no no no no, that'll, it'll drip all over him.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Should we walk him around?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|Yeah, I've seen them do that.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|No, no that's for a drug overdose.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|Maybe that's what he's got.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|No no no no, Kramer, I just had lunch with him, he didn't leave the table.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|Well he could have dropped acid when you weren't looking.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|He is not a drug addict!
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Hey, you know what? Maybe he's a diabetic, he might just need a cookie or something.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|A cookie!
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|Can you give him a cookie?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|How's he gonna chew it?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|We'll move his teeth, it happened to my uncle, the sugar revived him.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|action|Kramer puts a cookie into Owen's mouth and starts working his jaw up and down.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|Careful, you're getting crumbs all over him.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|I got him chewing but I don't think he's gonna swallow.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|You know what, let's put a few cookies in a blender and he could drink it.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Cookies don't liquefy.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|Yes they do, you can liquefy a cookie.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|Alright I'll get a blender.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|What blender? I don't have a blender.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|You got a blender.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|I would know if I had a blender.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|Where is the ambulance?!
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|action|Just then a siren can be heard followed by a skidding sound followed by a crashing sound.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|action|The frame dissolves out and in as if to show time passing.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|(on phone) Hello, yes, I called for an ambulance like thirty-five minutes ago.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|I can't believe what's going on out here.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|This is an emergency, what's taking so long? (the door buzzer buzzes) Wait a second, maybe that's them. (presses button) Hello?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|VOICE|Paramedics.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Come on up. Okay, they're here.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|He seems to be breathing.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Ya know, I gotta tell you, he's a pretty good-looking guy.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|I know.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Those eyebrows could use a trimming, you ever mention that to him?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|Almost.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Hey, look at this, c'mon, running wild there.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|It's not an easy thing to bring up.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Yeah, that's true.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|Aw, you should see his bathrobe, man, it's all silk.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Yeah? Does he wear slippers? I bet he wears slippers.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|He does, how'd you know that?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|I could tell.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|action|Two paramedics enter with a stretcher.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|What happened, what took you so long?!
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|PARAMEDIC|We got here twenty minutes ago but we couldn't move, the whole intersection is gridlocked, I've never seen anything like it. So finally we make the turn and this guy who's running around triple-parking cars slammed into us with a blue Escort.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|Blue Escort? That's my rent-a-car!
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|action|George enters, blotting his forehead with a washcloth.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|GEORGE|Oh man.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|What happened to the car?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|GEORGE|Sorry, you don't know what's going on out there! (looks at Owen) Who's he?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|ELAINE|This guy I'm seeing.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|GEORGE|What happened?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|We don't know!
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|PARAMEDIC|Who put cookies in his mouth?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|PARAMEDIC|You're not supposed to do that.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|So how'd you hit the car?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|GEORGE|I was moving it across the street, I looked up and I saw Woody Allen and I got all distracted.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|JERRY|It's not even my car, it's a rental.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|action|Kramer enters.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|What are you doing out there?! You're holding up the production of the movie! We can't shoot and Woody, he's really mad at you.
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|GEORGE|Woody mentioned me? What did he say?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|He said, 'Who's the moron in the blue jacket who's got the street all screwed up?'
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|GEORGE|Should I apologize to Woody?
+Owen is now lying on Jerry's couch and Elaine is explaining what happened.|KRAMER|Alright, I'll tell you what. Next time I talk to him, maybe I'll bring it up. I'll feel him out.
+Jerry, George and Sid are in Jerry's apartment.|SID|Now you didn't tell me you didn't know how to drive. You should have mentioned that.
+Jerry, George and Sid are in Jerry's apartment.|GEORGE|Well I know how to drive.
+Jerry, George and Sid are in Jerry's apartment.|SID|Then how'd all those cars get damaged? Why are people calling me up screaming on the phone? Most of them cancelled out on me.
+Jerry, George and Sid are in Jerry's apartment.|JERRY|Can I get anybody anything?
+Jerry, George and Sid are in Jerry's apartment.|SID|Moving cars from one side of the street to the other don't take no more sense than putting on a pair of pants. My question to you is who's putting your pants on?
+Jerry, George and Sid are in Jerry's apartment.|GEORGE|I put my pants on, Sid.
+Jerry, George and Sid are in Jerry's apartment.|SID|I don't believe you. If you can put your pants on, you can move those cars.
+Jerry, George and Sid are in Jerry's apartment.|GEORGE|Well I don't want to get into a big dispute about the pants.
+Jerry, George and Sid are in Jerry's apartment.|SID|Who's gonna send money to my sister in Virginia? Her little boy needs surgery on his foot. Now he'll be walking around with a limp because you can't park a few cars.
+Jerry, George and Sid are in Jerry's apartment.|GEORGE|Maybe I could call my father.
+Jerry, George and Sid are in Jerry's apartment.|action|Kramer enters holding a newspaper.
+Jerry, George and Sid are in Jerry's apartment.|KRAMER|Hey, you seen the paper yet?
+Jerry, George and Sid are in Jerry's apartment.|JERRY|Interestingly enough, no, inasmuch as it is my paper.
+Jerry, George and Sid are in Jerry's apartment.|KRAMER|Yeah. There's an article in there about that writer.
+Jerry, George and Sid are in Jerry's apartment.|JERRY|(reading) Owen March, prominent author and essayist suffered a stroke yesterday in the upper West Side apartment of a friend.
+Jerry, George and Sid are in Jerry's apartment.|KRAMER|Uh huh, that's the guy that was here. You're the friend.
+Jerry, George and Sid are in Jerry's apartment.|JERRY|(continuing) The extent of the damage would have been far less severe had paramedics been able to reach him sooner.
+Jerry, George and Sid are in Jerry's apartment.|SID|Oh lord.
+Jerry, George and Sid are in Jerry's apartment.|JERRY|(finishing) The commotion also delayed production of a Woody Allen movie that was shooting up the block. A spokeswoman for the legendary filmmaker said that Mr. Allen was extremely agitated and wondered if his days of shooting movies in New York were over.
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|ELAINE|Five seconds. Jerry, I was five seconds away from breaking up with him. Five seconds. The next words out of my mouth were, 'Owen, it's over.'
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|Can he communicate?
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|ELAINE|Yeah, well, he nods. And I think he understands me, he seems to enjoy it when I read to him.
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|Alright, she's free. (Steps up to the counter) Hi, I called before, uh, my car got smashed.
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|ELAINE|So listen, what should I do? I mean if I break up with him now it'll look like I'm abandoning him because of his condition, I'll be ostracized from the community.
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|What community? There's a community?
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|ELAINE|Of course there's a community.
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|All these years I'm living in a community, I had no idea.
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|Hmm, well, I got the insurance and everything so...
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|That is right, somebody else was driving.
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|Uh huh, what's that?
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|Other drivers?
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|Your whole business is based on other drivers. It's a rented car. That's who's driving it, other drivers. Doesn't my credit card cover me or something?
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|Well I got a hundred cards, here, pick a card, take a card, any card you want, go ahead, whichever one, I don't care.
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|Did you see the size of that document? It's like the Declaration of Independence, who's gonna read that?
+Elaine and Jerry are back at the car rental agency, Jerry's eating a bag of pretzels.|JERRY|These pretzels are making me thirsty.
+Elaine and Owen are at Owen's apartment, Owen is in a wheelchair and in generally unresponsive as Elaine feeds him soup|ELAINE|Ahh, it's good, isn't it? Yankee Bean. Why Yankee Bean, huh? Don't they have beans in the south? I mean if you order Yankee Bean in the south, are they offended? Huh? (singing) Yankee Bean, Yankee Bean, I like my Yankee Bean. (she puts the bowl down and wipes Owen's mouth with a napkin) Owen, I think we have to talk. I mean, uh, *I* have to talk. It would be nice if *we* could, but, uh, whatever. Um, don't get me wrong, I like coming here, and uh, feeding you and cleaning a little, and paying your bills, that's good stuff. Good stuff! I have a wonderful time when I'm with you, wonderful! But at this point in my life, I'm not really sure that I'm ready to make a commitment to one person. I'm just not really sure that we have enough in common. For example, I like running in the park, bicycling, roller skating, tennis and skiing, and um, well, I'm gonna be brutally honest with you now, Owen, it's a bitch to get here. It's two subways. I have to transfer at Forty-second Street to take the double-R. Anyway, I mean, this doesn't mean we can't be friends. These pretzels are making me thirsty.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|ELAINE|Can you die from an odor? I mean, like if you were locked in a vomitorium for two weeks, could you actually die from the odor?
+Coffee shop. Elaine, Jerry and George are at their usual booth.|JERRY|An overdose of odor? Good question.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|GEORGE|Do I smell?
+Coffee shop. Elaine, Jerry and George are at their usual booth.|ELAINE|No no no no, I was just down on the forty-second street subway today, it is disgusting. Guess who I bumped into. Owen.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|JERRY|Ahh.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|GEORGE|He's alright?
+Coffee shop. Elaine, Jerry and George are at their usual booth.|ELAINE|Yeah, he's almost fully recovered. He told me he was just using me for sex.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|action|The waitress brings the check.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|JERRY|Let me get that.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|GEORGE|No no no, I got it.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|JERRY|Please.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|GEORGE|No come on, let me, let me. I smashed your car, it cost you over two thousand dollars,
+Coffee shop. Elaine, Jerry and George are at their usual booth.|JERRY|(sarcastically) Yeah, a cup of coffee should cover it.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|action|Kramer enters and sits down.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|JERRY|What are you doing here?
+Coffee shop. Elaine, Jerry and George are at their usual booth.|KRAMER|I got fired from the movie.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|GEORGE|Get out of here, why?
+Coffee shop. Elaine, Jerry and George are at their usual booth.|KRAMER|Well, you know they were gonna shoot it today, and uh, we rehearsed it twice, then Woody yells 'Action!' and I turn to him and I say, 'These pretzels are making me thirsty' and I took a swig of beer, ya know, and I slammed the glass down on the bar and it shattered.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|ELAINE|Aww.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|KRAMER|Well, one of the pieces must have hit Woody. He started crying. And he yells out, 'I'm bleeding' and he runs off. Anyway, this woman, she came up to me and she says, 'You're fired.' Boy I really nailed that scene.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|action|Kramer drops a pair of gloves on the table. Jerry picks up the gloves.
+Coffee shop. Elaine, Jerry and George are at their usual booth.|JERRY|Aw, wait a--. Oh. Oh, for crying out loud.

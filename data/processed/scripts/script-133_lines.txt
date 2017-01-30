@@ -1,0 +1,362 @@
+Setting: The Coffee Shop|action|Elaine and Jerry are sitting across from each other in a booth
+Setting: The Coffee Shop|JERRY|Hairdo?
+Setting: The Coffee Shop|ELAINE|(Looking up from a menu) Yeah.
+Setting: The Coffee Shop|JERRY|You look like Brenda Starr.
+Setting: The Coffee Shop|ELAINE|Is that good?
+Setting: The Coffee Shop|JERRY|It's better than Dondi.
+Setting: The Coffee Shop|action|Elaine laughs, then draws her attention to a table across the room
+Setting: The Coffee Shop|ELAINE|Hey, my God, look at that. (Jerry looks over at the table. A man and a woman are dining) David and Beth Lookner. (Leaning in for confidentiality) You know, I heard a rumor their marriage was a little rocky.
+Setting: The Coffee Shop|JERRY|(Interested, still looking at the couple) Really?
+Setting: The Coffee Shop|ELAINE|Mm-hmm.
+Setting: The Coffee Shop|JERRY|You know, I have a little thing for Beth Lookner.
+Setting: The Coffee Shop|ELAINE|Well, I have to admit, I've always thought David was kind of sponge-worthy. (Winks, making a clicking sound with her tongue)
+Setting: The Coffee Shop|JERRY|Yeah.. I've been waitin' out their marriage for three years.
+Setting: The Coffee Shop|ELAINE|Yeah, me too. Well, I've been waiting out two or three marriages, but this is the one I really had my eye on.
+Setting: The Coffee Shop|action|George enters, somewhat annoyed. He's gesturing to the parking lot
+Setting: The Coffee Shop|GEORGE|This car out there is taking up, like, three parking spaces.
+Setting: The Coffee Shop|action|Jerry moves over, making room for George to sit
+Setting: The Coffee Shop|ELAINE|Oh, (Laughs at George's misfortune) that's mine.
+Setting: The Coffee Shop|GEORGE|You have a car?
+Setting: The Coffee Shop|ELAINE|Well, my friend, Elise, lent it to me for the week. She's out of town.
+Setting: The Coffee Shop|JERRY|(Noting) You know, I've never seen you drive.
+Setting: The Coffee Shop|GEORGE|Me either.
+Setting: The Coffee Shop|action|David and Beth Lookner, on their way out, approach the booth
+Setting: The Coffee Shop|BETH|(Unsure as to whether it's him or not) Jerry? Elaine, Hi!
+Setting: The Coffee Shop|ELAINE|(Overly generous) Hi, David!
+Setting: The Coffee Shop|JERRY|Hi, Beth!
+Setting: The Coffee Shop|BETH|Oh, uh, George, (Introducing to two) this is my husband, David.
+Setting: The Coffee Shop|GEORGE|Oh, hi.. (They shake hands)
+Setting: The Coffee Shop|DAVID|Hello. So, George, uh, you're the one who works for the Yankees, right?
+Setting: The Coffee Shop|GEORGE|Yeah. Why, what do you do?
+Setting: The Coffee Shop|DAVID|Well, I sell insurance, but Beth used to be Don Mattingly's doctor.
+Setting: The Coffee Shop|GEORGE|Really?
+Setting: The Coffee Shop|BETH|Mm-hm.
+Setting: The Coffee Shop|DAVID|Yeah.
+Setting: The Coffee Shop|GEORGE|(Laughs slightly) A physician married to a salesman. (Chuckles) Well, I gotta tell you, Beth, you coulda done a lot better than him.
+Setting: The Coffee Shop|action|George and Elaine both laugh out loud. Beth and David look at each other, taking in the awkward moment
+Setting: The Coffee Shop|action|Scene ends
+Setting: Jerry's apartment|action|Jerry's in the kitchen. Kramer slides in, followed by Mickey. Mickey's reading a script
+Setting: Jerry's apartment|KRAMER|Hey!
+Setting: Jerry's apartment|JERRY|Hey. Hey, Mickey. What's going on?
+Setting: Jerry's apartment|MICKEY|I'm very nervous. I'm auditioning to be in the Actor's Studio tonight.
+Setting: Jerry's apartment|JERRY|Really?
+Setting: Jerry's apartment|KRAMER|It's a method, Jerry. It's intense. (Clicks his tongue)
+Setting: Jerry's apartment|MICKEY|Kramer's going to be my scene partner.
+Setting: Jerry's apartment|JERRY|Kramer?
+Setting: Jerry's apartment|MICKEY|He doesn't have to say anything, he just has to sit there. I'm playing a detective.
+Setting: Jerry's apartment|KRAMER|Yeah, and I'm playing a business man accused of murder.
+Setting: Jerry's apartment|JERRY|Ohh boy. Well, I gotta meet Elaine and run some errands. So.. (Goes for his coat)
+Setting: Jerry's apartment|KRAMER|(Fixing up his pants) Yeah.. look at this, Mickey. These pants are fallin' apart, huh?
+Setting: Jerry's apartment|JERRY|(Fishing for his keys in a kitchen drawer) You know, when I first met you, Kramer, you used to wear jeans all the time.
+Setting: Jerry's apartment|KRAMER|(Looking over Mickey's shoulder at the script) Yeah, well, I was a different man then.
+Setting: Jerry's apartment|JERRY|(Jokingly playing off Kramer's statement) With a different body.
+Setting: Jerry's apartment|KRAMER|(Slightly offended) Hey, I got the body of a.. taught, pre-teen, Swedish boy.
+Setting: Jerry's apartment|action|Mickey visibly rolls his eyes
+Setting: Jerry's apartment|JERRY|Ehh, I dunno..
+Setting: Jerry's apartment|KRAMER|Now, what are you thinkin'? (Getting upset) You think that I'm not able to wear jeans anymore? Is that what you're sayin'? Because if that's what you're sayin', Jerry, I'll go and I'll buy some jeans. (Jerry shrugs. Kramer raises his voice to a menacing tone) I swear to God I will! (Jerry's showing off a skeptical face.
+Setting: Jerry's apartment|action|Scene ends
+Setting: Elaine's car|action|Elaine is obviously an incredibly bad driver. Jerry, in the passenger's seat, looks car sick
+Setting: Elaine's car|ELAINE|God, it is so great to drive again. I miss it so much! (Suddenly swerves to the right, then yells out of her window) How about a left turn signal, ya moron?!
+Setting: Elaine's car|JERRY|(His thoughts) I'm so nauseous. She's the worst driver.
+Setting: Elaine's car|ELAINE|You know what? On my first road test, I hit a dog. (Jerry nods, blinking) I think it was a golden retriever. No, no, no, it was a - it was a yellow lab. (Picks up the car phone) I'm gonna check my messages. (Begins to dial as she pulls up to a pedestrian crosswalk. She stops right before hitting a man crossing the street)
+Setting: Elaine's car|MAN|Hey!
+Setting: Elaine's car|JERRY|(Once again, the audience hears his thoughts) I'm so car sick. I'm gonna vomit!
+Setting: Elaine's car|action|Elaine's expression changes as she's listening to her messages
+Setting: Elaine's car|ELAINE|Oh my God! Jerry! My friend, Kim called - David and Beth got separated last night!
+Setting: Elaine's car|JERRY|(Out of it) Huh?
+Setting: Elaine's car|ELAINE|They're gettin' divorced! (Quickly breaks, stopping traffic)
+Setting: Elaine's car|action|Scene ends
+Setting: Monk's coffee shop|action|Elaine and Jerry sitting across from each other in a booth
+Setting: Monk's coffee shop|ELAINE|So, now, what is our move? What do we do?
+Setting: Monk's coffee shop|JERRY|I don't know, but we don't have much time.
+Setting: Monk's coffee shop|ELAINE|(Agreeing) Mm.
+Setting: Monk's coffee shop|JERRY|The city's probably teeming with people who've been waiting out that marriage.
+Setting: Monk's coffee shop|ELAINE|Right.
+Setting: Monk's coffee shop|JERRY|It's like when tenant dies in a rent controlled building - you gotta take immediate action.
+Setting: Monk's coffee shop|ELAINE|Yeeah, but David and Beth are going to need their grieving time.
+Setting: Monk's coffee shop|JERRY|Their grieving time is a luxury I can't afford. I'm calling Beth tonight, and if you want a clean shot at David, I suggest you do likewise.
+Setting: Monk's coffee shop|ELAINE|(Nodding) Yeah, yeah..
+Setting: Monk's coffee shop|JERRY|But we gotta make it seem like we're not calling for dates.
+Setting: Monk's coffee shop|ELAINE|Then why are we calling?
+Setting: Monk's coffee shop|JERRY|Good question. (More to himself than to Elaine) Why are we calling?
+Setting: Monk's coffee shop|action|Both start chanting "why are we calling..", thinking deeply
+Setting: Monk's coffee shop|ELAINE|Ah! (Jerry has a surprised look) I've got it! I've got it! We're calling just to say, "I'm there for you."
+Setting: Monk's coffee shop|JERRY|(Nodding, trying it out) "I'm there for you."
+Setting: Monk's coffee shop|ELAINE|Then, after a period of being "there for you", we slowly remove the two words "for you", and we're just (Makes a "ta-da!" gesture) "there".
+Setting: Monk's coffee shop|action|Scene ends
+Setting: Jerry's apartment|action|George enters
+Setting: Jerry's apartment|ELAINE|Hey.
+Setting: Jerry's apartment|JERRY|Hey, remember Beth and David from yesterday? They got separated.
+Setting: Jerry's apartment|GEORGE|Really? (Realizes) Well, you don't think it had anything to do with what I said, do you?
+Setting: Jerry's apartment|JERRY|What'd you say?
+Setting: Jerry's apartment|GEORGE|You know, that, that thing about her being too good for him. I mean, I was just bein' folksy. They could tell I was just being folksy..?
+Setting: Jerry's apartment|ELAINE|Yeah, I thought you were being folksy.
+Setting: Jerry's apartment|GEORGE|Totally folksy.
+Setting: Jerry's apartment|action|Kramer enters wearing a new pair of jeans. They're obviously way too small. Unable to bend his knees, he walks awkwardly into the room. Elaine, Jerry, and George are speechless - staring at him. Kramer walks past them, and attempts to pick a magazine off the table, but does so with great difficulty. Jerry starts to laugh as Kramer throws the magazine back down
+Setting: Jerry's apartment|JERRY|hey, uh.. (Kramer walks around a little) what'd you get there?
+Setting: Jerry's apartment|KRAMER|Uh, yeah, I bought Dungarees.
+Setting: Jerry's apartment|ELAINE|Kramer, they're painted on!
+Setting: Jerry's apartment|KRAMER|Well, they're slim-fit.
+Setting: Jerry's apartment|JERRY|Slim-fit?
+Setting: Jerry's apartment|KRAMER|(Talking fast) Yeah, they're streamlined.
+Setting: Jerry's apartment|JERRY|You're walkin' like Frankenstein!
+Setting: Jerry's apartment|KRAMER|(Making his way toward the door) What? They just gotta be worked in a little bit, that's all. (Pulling the door shut behind him) Alright, see you later.
+Setting: Jerry's apartment|action|Everyone stares after him
+Setting: Jerry's apartment|action|Scene ends
+Setting: Elaine's apartment|action|Sitting up on her bed, she's on the phone with David Lookner
+Setting: Elaine's apartment|ELAINE|(Mock sympathy) Well.. David, it happens.
+Setting: Elaine's apartment|action|Scene cuts to Jerry - he's on the phone with Beth
+Setting: Elaine's apartment|JERRY|Sure, Beth, these things happen. (Brief pause) So, have you told many.. people yet?
+Setting: Elaine's apartment|action|Scene jumps back to Elaine
+Setting: Elaine's apartment|ELAINE|Because it's really nobody's business.
+Setting: Elaine's apartment|action|Back to Jerry
+Setting: Elaine's apartment|JERRY|Anyway, I just called to tell you that, I'm there for you.
+Setting: Elaine's apartment|action|Cut back to Elaine
+Setting: Elaine's apartment|ELAINE|"There" is, um.. anywhere you want me to be..
+Setting: Elaine's apartment|action|Back to Jerry
+Setting: Elaine's apartment|JERRY|Sure, dinner would be fine.
+Setting: Elaine's apartment|action|Back to Elaine
+Setting: Elaine's apartment|ELAINE|And I could just be there. (Adding) For you.
+Setting: Elaine's apartment|action|Scene takes a final cut back to Jerry. Kramer enters, still in his pants, as Jerry hangs up. Kramer's frantic
+Setting: Elaine's apartment|KRAMER|Jerry, you gotta help me!
+Setting: Elaine's apartment|JERRY|What's wrong?
+Setting: Elaine's apartment|KRAMER|I can't get my pants off, and Mickey's audition is in twenty minutes! You know, I'm supposed to be a business man, I gotta be in costume!
+Setting: Elaine's apartment|JERRY|Alright, alright. Uh, undo them. I'll help you get them off.
+Setting: Elaine's apartment|KRAMER|(Bracing himself on a bar stool) Yeah, I already did it. It won't come off. The zipper's suck..
+Setting: Elaine's apartment|JERRY|(Walks over and starts pulling on Kramer's pants) You just gotta wiggle your hips a little bit.
+Setting: Elaine's apartment|KRAMER|(Wiggling and floppin) Pull Down
+Setting: Elaine's apartment|JERRY|(Stops pulling on the pants) Alright, alright, That's no good. (Moves Kramer over to the couch) Let me try getting them from the bottom. (Goes for Kramer's Leg) Just gimme one leg.
+Setting: Elaine's apartment|KRAMER|(Feet off the ground, his body going everywhere on the couch) Wait, Jerry...Wait a minu...
+Setting: Elaine's apartment|JERRY|(Still pulling on Kramer's pants from the ankles) Man these are tight. (Yanking) Squinch your hips in
+Setting: Elaine's apartment|JERRY|(Still pulling) Squinch em!
+Setting: Elaine's apartment|KRAMER|(Getting Pulled and pulled) I...um...ei...
+Setting: Elaine's apartment|JERRY|(Stops) Alright, that's not gonna work, it's not gonna work. Let me just think for a second here.
+Setting: Elaine's apartment|KRAMER|(Starts to tilt back onto the couch) You better get me. (Falls back and Jerry starts to him upright) Get me up, Get me up, Get me up.
+Setting: Elaine's apartment|JERRY|Hold it, hold it...Look your gonna need the jaws of life to get out of those things.
+Setting: Elaine's apartment|KRAMER|(walking toward the door) Look I don't have time to wait, I'm gonna be late.
+Setting: Elaine's apartment|JERRY|(Kramer waddling out the door) Maybe you can soak in the tub.
+Setting: Elaine's apartment|KRAMER|You better get the door.
+Setting: Elaine's apartment|action|Scene Ends
+Setting: Elaine's apartment|action|Kramer waddling through the city down the sidewalk
+Setting: Restaurant|action|Jerry and Beth
+Setting: Restaurant|BETH|It was nice to get your call.
+Setting: Restaurant|JERRY|Well, I just want you to know I'm there for you. Course now I'm here for you, but when i'm not here for you, i'm there for you.
+Setting: Restaurant|BETH|(Laughing) Well where ever you are i appreciate it.
+Setting: Restaurant|JERRY|So how did this all happen?
+Setting: Restaurant|BETH|Well actually, it had a lot to do with George's comment.
+Setting: Restaurant|JERRY|(stunned) Is that right?
+Setting: Restaurant|BETH|I thought maybe i could do better.
+Setting: Restaurant|JERRY|Maybe, maybe
+Setting: Restaurant|BETH|Well it wasn't just that, i realized after 3 years of marriage that David's little quirks were getting on my nerves a little.
+Setting: Restaurant|JERRY|(agreeing) well three years is a long time to be married.
+Setting: Restaurant|BETH|Like in the middle of our fight last night he did this thing that he always does where he asks questions to himself, aloud. And then answers them.
+Jump to David and Elaine out to Dinner|DAVID|Am I happy Beth left me? Of course not. Do I hope to pick up the pieces and move on? Absolutely
+Jump to David and Elaine out to Dinner|ELAINE|You're gonna pick up the pieces.
+Jump to David and Elaine out to Dinner|DAVID|Just had our third anniversary on April 8th
+Jump to David and Elaine out to Dinner|ELAINE|10th
+Jump to David and Elaine out to Dinner|DAVID|(very sad) right
+Jump to David and Elaine out to Dinner|ELAINE|Right
+Jump to David and Elaine out to Dinner|DAVID|(Mad) You know as far as I'm concerned, this whole thing is George's fault
+Jump to David and Elaine out to Dinner|ELAINE|Well, David the thing about George is that he's an idiot.
+Jump to David and Elaine out to Dinner|action|End Scene
+Setting: Play House|action|Mickey and the other people auditioning in the crowd
+Setting: Play House|MICKEY|(stands up) Sorry my scene partner isn't here yet so I guess uh..(Kramer enters and runs into some chairs) Oh
+Setting: Play House|KRAMER|Hey, sorry I'm late.
+Setting: Play House|MICKEY|(quietly talking to Kramer) What's with the jeans you're supposed to be a business man
+Setting: Play House|KRAMER|I know, it's a long story.
+Setting: Play House|MICKEY|Well just get up there
+Setting: Play House|action|Kramer and Mickey get on the stage, Kramer trips on the step, They start the scene
+Setting: Play House|MICKEY|So, Bradley. I guess this is the last place you expected to find yourself.
+Setting: Play House|KRAMER|(takes a breath)
+Setting: Play House|MICKEY|Well we're gonna be here a while so take a seat. (Kramer starts trying to sit down, Mickey has his back to him and gets out a pack of cigarettes, Mickey then turns around once he has his cigarette to find Kramer struggling to sit down) You know if it hadn't been for that secretary of yours...I said sit down! (Kramer still trying to sit down, Mickey throws the pack of cigarettes to the floor) Are you deaf Bradley?! I said sit down!
+Setting: Play House|KRAMER|(still trying to sit down, says under his breath) I'm trying. {hard to make out}
+Setting: Play House|MICKEY|(almost starts to laugh) Bradley! (looking to the crowd) It's very important that you sit down (Kramer still trying to sit down) Now for the last time, (angry) Try again to Sit Down! (Running at Kramer with his arms in the air) Sit down you big stupid Ape! (Mickey tackles Kramer)
+Setting: Play House|action|Scene Ends
+Setting: Jerry's Apartment|action|Elaine sitting in a chair and Jerry in his Kitchen
+Setting: Jerry's Apartment|ELAINE|Did I have a great time with David Lickner last night? I sure did. (Jerry comes over to the couch with a beverage and sits down) Do I think there is a future here? I don't see why not.
+Setting: Jerry's Apartment|JERRY|I'll tell you, that There for you crap was a stroke of genius.
+Setting: Jerry's Apartment|ELAINE|Ooooh, please.
+Setting: Jerry's Apartment|JERRY|Never mind
+Setting: Jerry's Apartment|ELAINE|Ah come on
+Setting: Jerry's Apartment|JERRY|You're a Genius!
+Setting: Jerry's Apartment|ELAINE|Aaalright!
+Setting: Jerry's Apartment|action|George Enters
+Setting: Jerry's Apartment|ELAINE|Mmmnn, Georgie!
+Setting: Jerry's Apartment|action|Jerry and Elaine clapping and yelling get up to great George
+Setting: Jerry's Apartment|GEORGE|(confused) What, what's going on?
+Setting: Jerry's Apartment|JERRY|What's going on? You're the man of the hour, That's what's going on.
+Setting: Jerry's Apartment|ELAINE|Right
+Setting: Jerry's Apartment|GEORGE|What do you mean?
+Setting: Jerry's Apartment|ELAINE|Well thanks to you and your little comment there to David and Beth. Jerry and I are in prime pouncing position to scoop these two up (Jerry and Elaine do a little slow dance of joy) before they know what hit em.
+Setting: Jerry's Apartment|GEORGE|So it was my comment that broke them up?
+Setting: Jerry's Apartment|action|Jerry and Elaine stop their dance
+Setting: Jerry's Apartment|JERRY|According to them
+Setting: Jerry's Apartment|ELAINE|Ya
+Setting: Jerry's Apartment|GEORGE|I feel terrible, I can't be responsible for breaking up a marriage. Oh no (starting moving for the door, Elaine begins to stop him)
+Setting: Jerry's Apartment|JERRY|(moving over to block the door) Where are you going?
+Setting: Jerry's Apartment|GEORGE|Well I gotta go talk to Beth.
+Setting: Jerry's Apartment|JERRY|Talk to Beth?
+Setting: Jerry's Apartment|GEORGE|Well I gotta undo what I did.
+Setting: Jerry's Apartment|JERRY|You're not undoing anything.
+Setting: Jerry's Apartment|GEORGE|Oh yes I am
+Setting: Jerry's Apartment|JERRY|Oh no you're not!
+Setting: Jerry's Apartment|GEORGE|(starts to try to get passed Jerry and Elaine) Alright get out of my way. (Jerry and Elaine push him back, George very annoyed) Alright don't make me get physical here!
+Setting: Jerry's Apartment|ELAINE|(Put her finger in George's face) You be careful George.
+Setting: Jerry's Apartment|action|Scene Ends with Elaine jumping on George back and Jerry taking out George's Legs
+Setting: Beth's Apartment|BETH|(Opens the door to reveal a ruffed up George) George?!
+Setting: Beth's Apartment|GEORGE|Hi Beth (Scene Ends then re-begins with Beth and George on Beth's couch) Um anyway Jerry told me that uh.. it might have been my comment in the Coffee Shop that broke you up.
+Setting: Beth's Apartment|BETH|Oh, well you know it's funny George. Sometimes you don't know how you're really feeling about something until a person like you comes along and articulates it so perfectly.
+Setting: Beth's Apartment|GEORGE|Oh (snorts) Articulate....Me? I've never articulated anything, i'm completely incoherent.
+Setting: Beth's Apartment|action|Phone Rings
+Setting: Beth's Apartment|BETH|(gets up to answer the phone) I don't know about that. Hold on (Picks phone up) Hello...Hi (pauses for Jerry to speak) ya last night I had a good time too (pauses for Jerry to speak) Really? that's so funny he's here right now.
+Setting: Beth's Apartment|JERRY|(talking to Beth on the phone) Could you put him on, I'd love to say hello.
+Setting: Beth's Apartment|BETH|(talk to Jerry) Sure. (starts to hand George the phone) George it's Jerry.
+Setting: Beth's Apartment|GEORGE|He..he wants to talk to me?
+Setting: Beth's Apartment|BETH|Ya he says he wants to say hello.
+Setting: Beth's Apartment|GEORGE|Sweet guy (Receives the phone from Beth, Starts to talk to Jerry) Hello
+Setting: Beth's Apartment|JERRY|George what the hell are you doing over there? I told you to mind your own business now stay out of my affairs!
+Setting: Beth's Apartment|GEORGE|Oh Jerry, that is so sweet of you but actually i already ate.
+Setting: Beth's Apartment|JERRY|Ate? What? What the hell are you talking about? Now you listen to me, you get out of that apartment this instant. If you screw this up for me I swear....
+Setting: Beth's Apartment|GEORGE|(cuts into Jerry talking) Chocolate chip mint? Oh well, actually Jerry I prefer chocolate chip. What is it about the chocolate and the mint that makes it go so well together?
+Setting: Beth's Apartment|JERRY|What are you talking about?
+Setting: Beth's Apartment|GEORGE|Oh of course you can use it, sure. (Jerry saying stuff through the phone) Ok, bye. (hangs the phone up)
+Setting: Beth's Apartment|action|Scene Ends
+Setting: Jerry's Apartment|action|Jerry sitting on his couch watching tv
+Setting: Jerry's Apartment|action|Kramer enters still wearing the tight jeans
+Setting: Jerry's Apartment|KRAMER|Hey
+Setting: Jerry's Apartment|JERRY|Hey, are you still wearing those things.
+Setting: Jerry's Apartment|KRAMER|Oh ya, I think they are starting to loosen up a bit. (Mrs. Anvino come to Jerry's threshold) Oh hi Mrs. Anvino.
+Setting: Jerry's Apartment|KRAMER|Sure Mrs. Anvino, ya.
+Setting: Jerry's Apartment|KRAMER|(salutes Jerry on his way out) See you later buddy.
+Setting: Jerry's Apartment|JERRY|See you later
+Setting: Jerry's Apartment|action|Phone rings
+Setting: Jerry's Apartment|JERRY|Hello
+Setting: Jerry's Apartment|BETH|Hi Jerry it's Beth.
+Setting: Jerry's Apartment|JERRY|(excited) Oh, Hi Beth
+Setting: Jerry's Apartment|BETH|Hi, i've been doing a lot of thinking today and i don't know maybe i made a huge mistake
+Setting: Jerry's Apartment|JERRY|(under his breath) George.
+Setting: Jerry's Apartment|action|Elaine enters
+Setting: Jerry's Apartment|BETH|I'm feeling really confused.
+Setting: Jerry's Apartment|JERRY|Um. I'll call you back ok?
+Setting: Jerry's Apartment|BETH|ok
+Setting: Jerry's Apartment|action|Jerry hangs up the phone
+Setting: Jerry's Apartment|JERRY|Trouble
+Setting: Jerry's Apartment|ELAINE|What
+Setting: Jerry's Apartment|JERRY|George
+Setting: Jerry's Apartment|ELAINE|is it?
+Setting: Jerry's Apartment|JERRY|ya
+Setting: Jerry's Apartment|ELAINE|Dam
+Setting: Jerry's Apartment|JERRY|What are we gonna do?
+Setting: Jerry's Apartment|ELAINE|What do we do? You get your ass over to Beth's, toot sweet. That's what you do and turn on some of that so called charm you're always telling me about.
+Setting: Jerry's Apartment|JERRY|Ya i could try and do that.
+Setting: Jerry's Apartment|ELAINE|(Pushing Jerry) You don't try, you Do It! I got the loser in this relationship and I'm breathing new life into him, you give me three more days, he won't be able to remember her name. You got the winner, you got the easy part. Alright let's go (claps) I'll drive you over there. Come on.
+Setting: Jerry's Apartment|JERRY|No you go on ahead, I'll take the bus.
+Setting: Jerry's Apartment|ELAINE|What? I'm parked right outside, let's go. Come on (grabs Jerry's arm) come on.
+Setting: Jerry's Apartment|JERRY|No, no. I'll take the subway.
+Setting: Jerry's Apartment|ELAINE|(pulling Jerry out the door) Nah It doesn't matter come on, I'll take you.
+Setting: Jerry's Apartment|JERRY|Na, uh, no, uh, I'll hitch hike.
+Setting: Jerry's Apartment|ELAINE|What's your Problem?
+Setting: Jerry's Apartment|JERRY|It's really not necessary.
+Setting: Jerry's Apartment|action|Jerry is pulled passed his open door by Elaine and doesn't get a chance to close it.
+Setting: Jerry's Apartment|action|Scene Ends
+Setting: Monk's|action|George and Susan sitting at the middle table
+Setting: Monk's|GEORGE|(breaks a long silence) The uh, the shoe laces that you bought me, they uh, they worked out well. (thumbs up)
+Setting: Monk's|SUSAN|Well you know, if you need some more. I can get them for ya.
+Setting: Monk's|GEORGE|Should be a while though.
+Setting: Monk's|action|Scene Ends
+Setting: Jerry and Elaine driving through the city|action|Elaine is weaving in and out of traffic
+Setting: Jerry and Elaine driving through the city|ELAINE|(Car tires screeching) Woah, ahhh. Hehe Ha ha ha. That was close. Confide in her, open up to her. You know women like that.
+Setting: Jerry and Elaine driving through the city|JERRY|I don't feel so good.
+Setting: Jerry and Elaine driving through the city|action|Scene ends
+Setting: Beth's apartment|JERRY|Anyway Beth, you know i was thinking on my way over how when i was 9. I wanted these handball sneakers, they were all black but they came in adult sizes so you know i never got the sneakers. (Beth looks him confused)
+Setting: Beth's apartment|BETH|Oh really?
+Setting: Beth's apartment|action|Scene ends
+Setting: Elaine and David walking|ELAINE|My father left us when I was 9 so I guess that is why i have such a fear of abandonment.
+Setting: Elaine and David walking|DAVID|Wow that's so touching
+Setting: Elaine and David walking|ELAINE|Yes it is.
+Setting: Elaine and David walking|action|Jump to George and Susan still in Monk's
+Setting: Elaine and David walking|DAVID|(Looking in through the window) Hey it's George
+Setting: Elaine and David walking|ELAINE|Oh, maybe we should go some place else.
+Setting: Elaine and David walking|DAVID|No, let's go in.
+Setting: Elaine and David walking|action|Elaine and David enter Monk's, George is very surprised
+Setting: Elaine and David walking|GEORGE|Oh uh hi Hi, David
+Setting: Elaine and David walking|DAVID|Hi George
+Setting: Elaine and David walking|GEORGE|Elaine
+Setting: Elaine and David walking|ELAINE|Hi
+Setting: Elaine and David walking|GEORGE|Listen uh, David, I, I, I want to apologize about that comment
+Setting: Elaine and David walking|DAVID|(interrupting) George please, please I'm fine.
+Setting: Elaine and David walking|GEORGE|Oh ya, This is my fiance, Susan. This is David
+Setting: Elaine and David walking|SUSAN|David
+Setting: Elaine and David walking|DAVID|Oh fiance. Boy you coulda done a lot better than him. (Susan laughs) Come on Elaine lets go.
+Setting: Elaine and David walking|action|Susan starts pondering something, George notices and has a big smirk on his face
+Setting: Elaine and David walking|action|Scene Ends
+Setting: The Anvino Apartment|action|Joey Anvino sleeping in his bed, Kramer walking through the halls of this seemingly large apartment with his tight jeans still on
+Setting: The Anvino Apartment|JOEY|(wakes up to see a shadow image of Kramer and takes off out of the apartment) Aah! It's Frankinstein! Frankinstein!
+Setting: The Anvino Apartment|KRAMER|(waddling after Joey) Joey! Joey!
+Setting: The Anvino Apartment|action|Scene Jump
+Setting: The Anvino Apartment|action|Mickey with a girl from his Scene audition
+Setting: The Anvino Apartment|GIRL|Mickey you were so incredible in that scene yesterday, the rage.
+Setting: The Anvino Apartment|MICKEY|Right, the rage. Tons of rage.
+Setting: The Anvino Apartment|action|Scene Jump back to Kramer in the Anvino Apartment
+Setting: The Anvino Apartment|KRAMER|(Going to the phone) I don't believe this
+Setting: The Anvino Apartment|action|Jump to Mickey
+Setting: The Anvino Apartment|MICKEY|(phone rings, sighs, answers) Hello?
+Setting: The Anvino Apartment|KRAMER|Mickey
+Setting: The Anvino Apartment|MICKEY|Oh Hi Kramer. What do you want, I'm a little busy.
+Setting: The Anvino Apartment|KRAMER|Look, you gotta do me a favor.
+Setting: The Anvino Apartment|MICKEY|What? Now? I can't
+Setting: The Anvino Apartment|KRAMER|Hey, you owe me. I got you into Actor's Studio. They thought what we did was the scene.
+Setting: The Anvino Apartment|MICKEY|Oh alright, alright. I'll be right over.
+Setting: The Anvino Apartment|action|Scenes end
+Setting: The Anvino Apartment|action|Resume George and Susan at Monk's
+Setting: The Anvino Apartment|GEORGE|(coming back to the table from the bathroom) Oh uh. You ready?
+Setting: The Anvino Apartment|SUSAN|(sighs) You know what George, uh. Why don't you go ahead. I think I'd like to be alone for a while.
+Setting: The Anvino Apartment|GEORGE|Oh sure, sure. You wanna be alone, sure. I understand that, you wanna a little time to think uh thing..ponder things..you know..ruminant..(chuckles) you go ahead, lotta stuff on your mind..you think things out..Think, mull, mull, do a lot of mulling. (short laugh then exits Monk's)
+Setting: The Anvino Apartment|action|Scene Ends
+Setting: Anvino Apartment, Joey's bedroom|KRAMER|I gotta go find this kid. So all you gotta do is lay here, pretend you're asleep in case she gets back, here (grabs the covers and throws em over Mickey) keep the covers over ya.
+Setting: Anvino Apartment, Joey's bedroom|MICKEY|Why don't you just cut the stupid pants and get them off already/
+Setting: Anvino Apartment, Joey's bedroom|KRAMER|I'm breaking them in, and they're feeling better.
+Setting: Anvino Apartment, Joey's bedroom|MICKEY|What am I gonna do in here?
+Setting: Anvino Apartment, Joey's bedroom|KRAMER|Just keep the lights down and your eyes closed. I'll be back.
+Setting: Anvino Apartment, Joey's bedroom|action|Scene ends
+Setting: Jerry's Apartment|GEORGE|Jerry! Jerry! Je Jerry Jerry . The most unbelievable thing has just happened, it's too Unbelievable! I'm sitting in the coffee shop, i'm talking to Susan, were talking about shoe laces (does two guns to the head) so in walks..in walks David, right, he walks right to the table..righ I introduced him to Susan..and he says get this (laughs) he says 'boy you could do a lot better than this guy' huh right (more laughing by George, Jerry is totally just mellow and straight faced) The exact same thing that I said to him, just to get back at me just to get back at me..and then, and then she says she wants to be alone for awhile..Alone Jerry! I think that she thinks that she could do better (laughs) Do you appreciate this? Do you see the irony of this? Do you see what is going on here? What's the matter?
+Setting: Jerry's Apartment|JERRY|I'm nauseous.
+Setting: Jerry's Apartment|GEORGE|Is that what's hurting your appreciation for the story?
+Setting: Jerry's Apartment|JERRY|A little
+Setting: Jerry's Apartment|GEORGE|Because it's really a pretty good little story. Don't you think?
+Setting: Jerry's Apartment|JERRY|It's not bad.
+Setting: Jerry's Apartment|GEORGE|Yea
+Setting: Jerry's Apartment|action|Scene Ends
+Setting Streets of NY|action|Kramer waddling down the sidewalk
+Setting Streets of NY|KRAMER|Joey, there you are. Hey
+Setting Streets of NY|JOEY|AH!!
+Setting Streets of NY|KRAMER|Joey
+Setting Streets of NY|JOEY|(runs into the arms of a police officer) A Monster
+Setting Streets of NY|KRAMER|I'm the babysitter
+Setting Streets of NY|action|Jump to Mickey laying in Joey's Bed, In walks Joey's mom
+Setting Streets of NY|MICKEY|Goodnight
+Setting Streets of NY|action|Jump to Jerry's, Jerry and George sitting on his couch watching TV, Mrs Anvino screams and it is heard at Jerry's
+Setting Streets of NY|JERRY|It's gotta have something to do with Kramer
+Setting Streets of NY|action|Scenes End
+Setting: David and Elaine at David's apartment|DAVID|Elaine, here's to you being there.
+Setting: David and Elaine at David's apartment|ELAINE|and here.
+Setting: David and Elaine at David's apartment|action|knock on the door
+Setting: David and Elaine at David's apartment|DAVID|Excuse me. (answers the door) Beth
+Setting: David and Elaine at David's apartment|BETH|David
+Setting: David and Elaine at David's apartment|action|Beth and David fall into each other's arms
+Setting: David and Elaine at David's apartment|ELAINE|(takes a huge shot) I'll tell ya, it's not bad.
+Setting: David and Elaine at David's apartment|action|Beth and David making out ends the Scene
+Setting: George and Susans' Apartment|action|In walks Susan, George comes down the hall with a bunch of clothes and one of Susan's dolls
+Setting: George and Susans' Apartment|SUSAN|George?
+Setting: George and Susans' Apartment|GEORGE|(Places the doll presumingly where it belongs on a shelf) Ya?
+Setting: George and Susans' Apartment|SUSAN|Can I talk to you for a minute?
+Setting: George and Susans' Apartment|GEORGE|Ya, sure sure.
+Setting: George and Susans' Apartment|SUSAN|I've been doing a lot of thinking about the wedding and all. and uh (George puts his head down and his hand on her shoulder as if to brace himself for something big) I've decided to go with the chicken.
+Setting: George and Susans' Apartment|action|Scene ends with George confused after Susan heads for the bedroom
+Setting: Kramer at the police station|OFFICER|So chasing little kids huh? You're in a lot of trouble mister.
+Setting: Kramer at the police station|KRAMER|No no look, I was baby-sitting
+Setting: Kramer at the police station|OFFICER|Ya ya right. Sit down!
+Setting: Kramer at the police station|action|Kramer looks at the chair then looks at the officer
+Setting: Kramer at the police station|OFFICER|What are you deaf? I said sit down! (Kramer tries to sit down but struggles) Hey, for the last time, sit down.
+Setting: Kramer at the police station|KRAMER|(somewhat under his breath) Ya ya.
+Setting: Kramer at the police station|action|Scene ends with Kramer leaning on the chair seat with his legs out stretched under the table

@@ -1,0 +1,337 @@
+Setting: Jerry's apartment|action|Jerry and George enter with some plastic bags
+Setting: Jerry's apartment|JERRY|She hasn't told her father yet?
+Setting: Jerry's apartment|GEORGE|No. We're supposed to tell him tonight.
+Setting: Jerry's apartment|JERRY|"We're"? What do you mean, "We're"?
+Setting: Jerry's apartment|GEORGE|Susan wants me to be there.
+Setting: Jerry's apartment|JERRY|You're meetin' the father for the first time?
+Setting: Jerry's apartment|GEORGE|(Reluctantly) Yeah.
+Setting: Jerry's apartment|JERRY|(Chuckles slightly) Well, you'll make quite an impression on him when you tell him how you burned his cabin down.
+Setting: Jerry's apartment|GEORGE|I didn't burn it down - Kramer did!
+Setting: Jerry's apartment|JERRY|(Laughs) I mean, the whole thing is ironic. Think of it: Here the guy is nice enough to give you a box of very fine Cuban cigars..
+Setting: Jerry's apartment|GEORGE|Yeah, I know what happened.
+Setting: Jerry's apartment|JERRY|No, but wait, wait: And then you dump them off onto Kramer..
+Setting: Jerry's apartment|GEORGE|(Getting frustrated) I know.
+Setting: Jerry's apartment|JERRY|(Continuing) ..Who, who proceeds to burn the man's cabin down with one of those very same cigars! (Topping off his observation) It's very comical..
+Setting: Jerry's apartment|GEORGE|Listen, maybe we shouldn't start writing today. I got a lot on my mind.
+Setting: Jerry's apartment|JERRY|(Persisting) No, no, we put this off long enough. Today's the day.
+Setting: Jerry's apartment|GEORGE|(Letting his conscious get the best of him) I wonder how Susan's father's going to react to this. Alright, what- what's the worst he could do? So you burn a cabin down..
+Setting: Jerry's apartment|JERRY|(Agreeing) C'mon. It's not even a house - it's, like, a cabin.
+Setting: Jerry's apartment|GEORGE|We could build a cabin like (Snaps) that.
+Setting: Jerry's apartment|JERRY|(Blunt) Well, maybe not us, but two men could.
+Setting: Jerry's apartment|GEORGE|(Looking over the writing materials they just bought) Bics? What, d'ja get, bics?
+Setting: Jerry's apartment|JERRY|What, you got a problem with the pen now?
+Setting: Jerry's apartment|GEORGE|Well, I like a rolling writer. They're very smooth.
+Setting: Jerry's apartment|JERRY|Alright, let's just get to work. (They both move into the living room - ready to start writing their script. Jerry sits down) NBC Pilot, Seinfeld project. Act I, Scene A.
+Setting: Jerry's apartment|GEORGE|(Still standing) So, you're gonna sit there?
+Setting: Jerry's apartment|JERRY|(Wanting to get started) Just - just park yourself. (George reluctantly sits on the sofa) Alright. Act I, Scene A.
+Setting: Jerry's apartment|GEORGE|(Offering) Drink?
+Setting: Jerry's apartment|JERRY|No, no thank you.
+Setting: Jerry's apartment|GEORGE|(Uncapping his pen) Alright, here we go.
+Setting: Jerry's apartment|JERRY|Act I, Scene A..
+Setting: Jerry's apartment|action|A long pause as they both attempt to start writing passes
+Setting: Jerry's apartment|GEORGE|Weren't you supposed to call Elaine?
+Setting: Jerry's apartment|JERRY|(Eagerly reaching for the phone) Yes. (George turns the TV on, and begins watching as Jerry dials the number) Hi, is Elaine there? Oh, uh, Hi, Sandra. Uh, yeah. I can hold. (To George) Every time I call I gotta chit-chat with her assistant for, like, twenty minutes. (Back into the phone) Oh, hi, Sandra. Listen, I'm at a pay phone, and there's lots of people here waiting to use it. (Yelling out for believability) I'll be off in a minute! (To Sandra) Yeah, could you just put me through to Elaine? Okay, thanks! (He turns to George) Are you thinking of ideas? (George, picking his teeth with his finger, is absorbed into the television. He seems to not even notice Jerry) Listen, Elaine, is there any way I could get through to you directly? Every time I call Sandra bends my ear for, like, twenty minutes. (Pause) So we're on for later?
+Setting: Jerry's apartment|action|Scene cuts to Elaine's office. She's waving a pencil around in her free hand
+Setting: Jerry's apartment|ELAINE|Yeah, I'll come by after work. Hey, I got a rubber pencil thing happenin' here.. (Sandra passes her doorway) Uh, I gotta go. I gotta go. (Hangs up) Sandra! Sandra? Hi, can you come here for a second?
+Setting: Jerry's apartment|action|Scene goes back to Jerry's apartment
+Setting: Jerry's apartment|JERRY|Okay, let's go. (George shuts the television off, ready to work)
+Setting: Jerry's apartment|GEORGE|Alright, here we go. You got it?
+Setting: Jerry's apartment|JERRY|Yeah.
+Setting: Jerry's apartment|GEORGE|Here we go.
+Setting: Jerry's apartment|JERRY|Okay, how about this: I'm in my apartment, you come in.
+Setting: Jerry's apartment|GEORGE|(Holding out his arms - giving praise) It's beautiful. Now, what do I say?
+Setting: Jerry's apartment|action|A long pause, then the scene jumps back to Elaine and Sandra
+Setting: Jerry's apartment|ELAINE|Could you do me a favor? Um, when my friends call, could you not talk to them for too long?
+Setting: Jerry's apartment|SANDRA|Why? Did Jerry say something?
+Setting: Jerry's apartment|ELAINE|No, no.
+Setting: Jerry's apartment|SANDRA|He must have said something.
+Setting: Jerry's apartment|ELAINE|Oh, no, he didn't say anything.
+Setting: Jerry's apartment|SANDRA|(Near tears) I can't work for you! I can't. I'm leaving. (Exits quickly)
+Setting: Jerry's apartment|ELAINE|(Calling out to Sandra) No, Sandra. I'm sorry, I'm sorry! I really am! Listen, listen, Jerry's under a lot of pressure right now. It's very hard being a stand-up comedian! Sometimes they don't laugh!
+Setting: Jerry's apartment|action|Scene goes back to Jerry's apartment. Jerry and George are sleeping. Kramer slams his apartment door shut, waking both of them up
+Setting: Jerry's apartment|GEORGE|Alright, let's go.
+Setting: Jerry's apartment|JERRY|Here we go.
+Setting: Jerry's apartment|action|Both get situated to write as Kramer enters
+Setting: Jerry's apartment|KRAMER|Hey.
+Setting: Jerry's apartment|GEORGE|yeah, Kramer, we're, uh, kind of in the middle of something here. We're trying to do a little work..
+Setting: Jerry's apartment|JERRY|Yeah, come on. (Kramer gives out a frustrated sigh) What's with you?
+Setting: Jerry's apartment|KRAMER|(Complaining) No more golf.
+Setting: Jerry's apartment|JERRY|Why?
+Setting: Jerry's apartment|KRAMER|Well, you remember I told you about the pro, you know, at the Westchester Country Club, who's letting me play a round every time I give him a couple of those Cuban cigars?
+Setting: Jerry's apartment|JERRY|Yeah.
+Setting: Jerry's apartment|KRAMER|(Angered) Yeah, well, I lost them all in the fire! (Leaning over the couch, he addresses George) Hey, George, maybe you can ask Susan's father for more, huh?
+Setting: Jerry's apartment|GEORGE|What are you, Crazy? I can't ask the guy for more cigars after you burned down his cabin!
+Setting: Jerry's apartment|KRAMER|Why? What's one thing got to do with another?
+Setting: Jerry's apartment|GEORGE|Kramer, please.
+Setting: Jerry's apartment|KRAMER|Well, I can't go back to the public courses, now. I can't! I won't. I mean, you know what that's like? It's crowded, the grass has big brown patches in it, they don't rake the sand traps! Not to mention the caliber of people you have to play with!
+Setting: Jerry's apartment|GEORGE|Kramer, I can't help you. You're gonna have to get them some place else.
+Setting: Jerry's apartment|KRAMER|(Opening the door) Where? They're Cubans. (Leaves)
+Setting: Jerry's apartment|GEORGE|(Getting up) You know what? Maybe I should take off.
+Setting: Jerry's apartment|JERRY|What?!
+Setting: Jerry's apartment|GEORGE|Well, you know, I gotta go to, uh, Susan's parent's house for dinner.. and, you know, I want to shower first.. and I want to leave myself plenty of time.
+Setting: Jerry's apartment|JERRY|(Looking at his watch) You got four hours! What about the script?
+Setting: Jerry's apartment|GEORGE|I think we got a bite on it. (Exits)
+Setting: Jerry's apartment|action|Scene ends
+Setting: The Ross' house|action|Susan, her parents, and George are all dining
+Setting: The Ross' house|action|George laughs slightly
+Setting: The Ross' house|GEORGE|Ohh, I have tremendous respect for people who work with feet. I mean, to dedicate yourself to the foot - you're toiling in virtual anonymity. I mean..
+Setting: The Ross' house|action|Seeing the Ross' expression, he trails off
+Setting: The Ross' house|GEORGE|Oh, uh, the cigars.. (Chuckles nervously) I'm, uh, suckin' 'em down. I'm puffing my brains out, yeah.
+Setting: The Ross' house|GEORGE|(Impersonating Carson) I didn't not know that. Weird. Wild. (Susan and George both laugh)
+Setting: The Ross' house|SUSAN|(Explaining) He's doing Johnny Carson, daddy.
+Setting: The Ross' house|SUSAN|(To George) Daddy never laughs.
+Setting: The Ross' house|GEORGE|Oh, well, so what? Laughter - what is that? I mean, what is the point of opening your mouth and going "Ha, ha!"? What is that? "Ha, ha!"?
+Setting: The Ross' house|SUSAN|Daddy, there's, um, there's something that we have to talk to you about..
+Setting: The Ross' house|GEORGE|(Even more nervous than before) Oh, the, uh, the cabin.. well, (Clears throat)
+Setting: The Ross' house|action|Scene ends
+Setting: Jerry's apartment|action|Jerry and Elaine are talking. Jerry's using a harsh tone
+Setting: Jerry's apartment|JERRY|Right after we get off the phone, then you go and tell her that?! Well, of course she knows it was me who complained! Now I'm responsible for this woman's quitting. Oh, this is unbelievable!
+Setting: Jerry's apartment|ELAINE|(Full of guilt) I know! I screwed up. It's all my fault. Would you call her?
+Setting: Jerry's apartment|JERRY|(Caving in) Ohh.. dial the number. (Elaine picks up the phone, and starts to dial) How could you do this?
+Setting: Jerry's apartment|ELAINE|(Handing the phone over to him) I was just trying to help you.
+Setting: Jerry's apartment|JERRY|(Muttering) Oh, just trying to (Rudely grabs the phone from her) help me.. (Into the phone) Hello? Sandra? Hi, uh, this is Jerry Seinfeld. (Elaine now has her hand in a bowl of popcorn - grabbing a fistful) Listen, I - I just want to tell you, (Jerry sternly grabs Elaine's hand - forcing her to drop the popcorn, then shoves her hand away. Elaine sits back like a scolded child) There's been a terrible misunderstanding: See, I told Elaine that, uh, it was a real treat talking to you on the phone, and she thought I was being sarcastic, you know, 'cause I'm a comedian and all. She thought I meant (Deeply sarcastic) "Yeah, it was a real treat talking to her on the phone." (Back to normal) You know, but I was really being sincere.. No, of course I like you.. Tonight? ..Um, uh, hold on a second. (To Elaine, whispering) Now she wants to have a drink with me. (Elaine mouths out "Just go" while making gestures. Jerry, again, gives in. Back on the phone) Yeah, I think I can.. Um.. yeah, I know where that is.. Ok.. uh, I'll see you there. Okay, bye. (Hangs up, peeved) Now I gotta have a drink with her.
+Setting: Jerry's apartment|action|Scene ends
+Setting: The Ross' house|action|Same diner party is going on. News of the cabin has yet to be discussed
+Setting: The Ross' house|GEORGE|The cabin.. (Laughs nervously) Well.. (Pauses as he thinks of a way to break the news, then decides to pass it off) Susan?
+Setting: The Ross' house|SUSAN|Uhh.. about the cabin..
+Setting: The Ross' house|GEORGE|(Annoyingly butting in) Kinda like Superman's fortress of solitude.
+Setting: The Ross' house|GEORGE|S, uh, Superman - he, uh, built the fortress of solitude up at the North Pole, to, uh, you know, sort of get away from it all..
+Setting: The Ross' house|SUSAN|Daddy..
+Setting: The Ross' house|SUSAN|Daddy, about the cabin..
+Setting: The Ross' house|SUSAN|Well, the thing is..
+Setting: The Ross' house|SUSAN|Well, the - the cabin, is, kind of, uh.. George?
+Setting: The Ross' house|GEORGE|(Extremely blunt) Burned.
+Setting: The Ross' house|SUSAN|There was a fire, and it uh..
+Setting: The Ross' house|GEORGE|Burned.
+Setting: The Ross' house|GEORGE|(Laughs) yeah, burned. Whoo..
+Setting: The Ross' house|SUSAN|(Solemn) No. Nothing.
+Setting: The Ross' house|action|Mr. Ross, devastated, slowly gets up and starts walking toward the room's exit as everyone continues to talk
+Setting: The Ross' house|GEORGE|Eh, but, you know, Mr. Ross, if - if you look at the whole situating, what with it being your cigars, and everything, it's really rather ironic - one might even say, in a sense, comical.. (Mr. Ross has, by now, left the room. Mrs. Ross is pointing at George, nodding, laughing. As if to say he hit the bullseye. George calls out to Mr. Ross) Really. Think about it.
+Setting: The Ross' house|action|Scene ends
+Setting: Jerry's apartment|action|Sandra runs out of Jerry's room, hastily putting on her jacket. Jerry follow, buttoning his shirt
+Setting: Jerry's apartment|SANDRA|(Offended) I can't believe you said that!
+Setting: Jerry's apartment|JERRY|What?!
+Setting: Jerry's apartment|SANDRA|(Buttoning her jacket) How could you say something like that to me?!
+Setting: Jerry's apartment|JERRY|What? What?! You were the one who was talking dirty. I was just trying to keep up!
+Setting: Jerry's apartment|SANDRA|That was a weird thing to say.
+Setting: Jerry's apartment|JERRY|Why? It didn't mean anything. I was just trying to join in so you wouldn't feel embarrassed.
+Setting: Jerry's apartment|SANDRA|Ohh, I think you're really sick.
+Setting: Jerry's apartment|JERRY|(Getting slightly offended) I'm not sick. (Pointing at her) You - you said much sicker things than me.
+Setting: Jerry's apartment|SANDRA|I'm leaving. (Moves toward the door. Jerry blocks her path)
+Setting: Jerry's apartment|JERRY|I really think you're making too much of this.
+Setting: Jerry's apartment|SANDRA|(Attempting to get past him) Excuse me. (They both move to the door)
+Setting: Jerry's apartment|JERRY|Let me walk you to a cab.
+Setting: Jerry's apartment|SANDRA|(Opens the door) That's ok.
+Setting: Jerry's apartment|JERRY|I mean, the main thing is that this is just between us, and that'll be the end of it.
+Setting: Jerry's apartment|SANDRA|Oh, really? (Quickly walks out)
+Setting: Jerry's apartment|JERRY|(Calling after her) I mean, people - they're not interested in things like this. They don't want to hear about it. They really don't.
+Setting: Jerry's apartment|action|Scene ends
+Setting: The Coffee shop|action|Jerry's telling George about last night
+Setting: The Coffee shop|JERRY|So, we're.. uhh, drinkin' and talkin', and uhh, so, she starts rubbing my leg.
+Setting: The Coffee shop|GEORGE|Wo-hoah! What did you do?
+Setting: The Coffee shop|JERRY|(Sarcastic) Have you ever told a woman to stop touching your leg?
+Setting: The Coffee shop|GEORGE|Yeah, right.
+Setting: The Coffee shop|JERRY|I mean, I know it's the wrong thing to do. She works in Elaine's office. I know it's wrong - but I can't get that hand off my leg. I mean, I'm looking at the hand, and I'm thinking, "That hand should not be on my leg." But I can't make my brain to get my mouth to say the words, "Would you mind?!"
+Setting: The Coffee shop|GEORGE|Yeah, woman have no problem getting the hand off. How do they do that?
+Setting: The Coffee shop|JERRY|I don't know, they're working on a whole other level..
+Setting: The Coffee shop|GEORGE|Alright, so, go ahead.
+Setting: The Coffee shop|JERRY|So we go back to my apartment..
+Setting: The Coffee shop|GEORGE|(Expressing shock) Woah. Whoa! Woah!
+Setting: The Coffee shop|JERRY|So, we're, uh, foolin' around there.. you know, it's getting a little passionate.. (Scoots closer to George, to prevent others from hearing) and, uh, she starts with the dirty talking.
+Setting: The Coffee shop|GEORGE|(Putting his hands up) Alright, alright, hold on! (Jerry has George's full attention) Time out! Woah, woah! (Scooting in, giddy) What did she say?
+Setting: The Coffee shop|JERRY|(Modest) Oh, you know, the usual..
+Setting: The Coffee shop|GEORGE|No, I don't know. How do I know the usual?
+Setting: The Coffee shop|JERRY|Typical things.
+Setting: The Coffee shop|GEORGE|(Picking up the ketchup) What typical? Gimme typical. Gimme some typical.
+Setting: The Coffee shop|JERRY|She says, uh.. (Mumbles something inaudible. George, so shocked by what he's just heard, accidentally squeezes the ketchup bottle - ketchup squirts out and files off-screen. George reacts deeply)
+Setting: The Coffee shop|GEORGE|(Breathing deeply) That's very dirty. (Jerry nods) That's absolutely filthy.
+Setting: The Coffee shop|JERRY|..And then she starts talking about her panties.
+Setting: The Coffee shop|GEORGE|(Yelling out to a waitress) Gonna need some water here!
+Setting: The Coffee shop|JERRY|So I said something.
+Setting: The Coffee shop|GEORGE|Ok, what did you say?
+Setting: The Coffee shop|JERRY|(Defensively) Now, bear in mind, I am just trying to keep up.
+Setting: The Coffee shop|GEORGE|Of course.
+Setting: The Coffee shop|JERRY|Okay? So, she's taking about her panties, so, uh.. So, I said, "You mean the panties your mother laid out for you?"
+Setting: The Coffee shop|GEORGE|(Takes a few seconds to mull this one over. Shooting Jerry a confused look, he repeats it) "The panties your mother laid out for you"? (Jerry nods) What does that mean?
+Setting: The Coffee shop|JERRY|(Throwing up his hands) I don't know! It just popped out.
+Setting: The Coffee shop|GEORGE|Well, how did she react?
+Setting: The Coffee shop|JERRY|She flipped out! Just left.
+Setting: The Coffee shop|GEORGE|Well, that's not offensive. (Reflects) It's abnormal, but it's not offensive.
+Setting: The Coffee shop|JERRY|Look, the main thing is I don't want Elaine to know about any of this. I mean, especially the panty remark. I mean, it's embarrassing. And she's never let me hear the end of it.
+Setting: The Coffee shop|JERRY|She will tell her. She's going back to work. I talked her into it - how stupid was that? (Changing subject as they both collect money to pay for the check) Hey, so, Susan's father took that news pretty hard, huh?
+Setting: The Coffee shop|GEORGE|Yeah, yeah. He went into the bedroom and started sobbing.
+Setting: The Coffee shop|JERRY|I guess he failed to see the humor in it.
+Setting: The Coffee shop|GEORGE|Huh. (Makes a "over his head" gesture with his arm) C'mon, let's go, go. We got a lot of work to do today.
+Setting: The Coffee shop|JERRY|(Getting up) Alright, big work day.
+Setting: The Coffee shop|GEORGE|That's right.
+Setting: The Coffee shop|action|Scene ends
+Setting: Jerry's apartment|action|Jerry and George, with their writing materials, go to sit down in the living room while giving each other pep talks
+Setting: Jerry's apartment|GEORGE|Okay.
+Setting: Jerry's apartment|JERRY|Let's go.
+Setting: Jerry's apartment|GEORGE|Here we are.
+Setting: Jerry's apartment|JERRY|Right now.
+Setting: Jerry's apartment|GEORGE|Let's do it.
+Setting: Jerry's apartment|JERRY|You and me.
+Setting: Jerry's apartment|GEORGE|Okay.
+Setting: Jerry's apartment|JERRY|Alright.
+Setting: Jerry's apartment|GEORGE|What'dya got?
+Setting: Jerry's apartment|JERRY|(Reading from his notebook) I got: You enter, you go "Hi", and I go, "Hello." Now.. we need something here..
+Setting: Jerry's apartment|action|Kramer enters
+Setting: Jerry's apartment|KRAMER|Oh, hey.
+Setting: Jerry's apartment|action|Both George and Jerry get up, giving Kramer an excited greeting - talking fast, together) Oh, you guys are working? I'll come back. (Turns to leave. Jerry and George strongly protest with a series of "No, no, no!"'s) No, you guys should get back to work. (More protests
+Setting: Jerry's apartment|GEORGE|Don't be silly.
+Setting: Jerry's apartment|JERRY|Come in, we're taking a break.
+Setting: Jerry's apartment|KRAMER|(Moving back into the room) Oh, yeah?
+Setting: Jerry's apartment|JERRY|Yeah!
+Setting: Jerry's apartment|KRAMER|Uh, George, did you talk to that guy about getting me some more cigars?
+Setting: Jerry's apartment|GEORGE|(Scoffs) No, I told you, I'm not gonna do that.
+Setting: Jerry's apartment|KRAMER|(Concluding) Okay.. well, I guess I'm just going to have to take matters into my own hands, huh? (Pause) Alright, I'll see you guys. (Leaves, despite "No, don't go!" and other various comments by Jerry and George)
+Setting: Jerry's apartment|action|Scene ends
+Setting: United Nations' Permanent Mission of Cuba building|action|Kramer walks up to a secretary
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Buenos dias.
+Setting: United Nations' Permanent Mission of Cuba building|SECRETARY|Buenos dias.
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Uh, habla ingles?
+Setting: United Nations' Permanent Mission of Cuba building|SECRETARY|Si.
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Giddy-up. Ok, uh, (Looks at a woman wearing dark sunglasses and sitting on a sofa behind him. He reacts oddly) Um. I need to talk to someone.
+Setting: United Nations' Permanent Mission of Cuba building|SECRETARY|What is this about?
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Uh, well, It's a very private matter, but it's extremely urgent.
+Setting: United Nations' Permanent Mission of Cuba building|SECRETARY|Are you an American?
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Oh, yeah.
+Setting: United Nations' Permanent Mission of Cuba building|SECRETARY|I see.. excuse me. (Picks up the phone)
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Okay.
+Setting: United Nations' Permanent Mission of Cuba building|action|Scene ends
+Setting: Jerry's apartment|action|Jerry, curled up on his living room chair, and George, laid out on the sofa, are asleep. Jerry's buzzer goes off, waking them up. George rolls off the couch and falls to the floor
+Setting: Jerry's apartment|JERRY|(Stirring, he gets up to answer the buzzer) Alright, let's get going. C'mon, c'mon now. (Approaches the intercom) C'mon, let's get it together.. (Through intercom) Yeah?
+Setting: Jerry's apartment|ELAINE|It's Elaine.
+Setting: Jerry's apartment|JERRY|C'mon up. (Slightly opens the door for Elaine)
+Setting: Jerry's apartment|GEORGE|(Standing up, still waking up) Alright, you know what we should do? We should go to the movies. Get away from this script for a while..
+Setting: Jerry's apartment|JERRY|(Agreeing) Yeah, we should.
+Setting: Jerry's apartment|GEORGE|Alright, I just have to go over to the Ross' apartment and drop off Susan's sunglasses. You'll come with me?
+Setting: Jerry's apartment|JERRY|Yeah. Wha - what, does she live with them?
+Setting: Jerry's apartment|GEORGE|No, no, no, no.
+Setting: Jerry's apartment|JERRY|Oh.
+Setting: Jerry's apartment|action|Elaine enters
+Setting: Jerry's apartment|ELAINE|Hey, nice going, Jerome Seinfeld!
+Setting: Jerry's apartment|JERRY|What?
+Setting: Jerry's apartment|ELAINE|I just got a message from Sandra, she's coming back to work.
+Setting: Jerry's apartment|JERRY|Well, then, you've just got to fire her! Don't even think about it - there's no two ways about it.
+Setting: Jerry's apartment|ELAINE|Why? What happened? Did you talk?
+Setting: Jerry's apartment|JERRY|Talk? Did I talk? It - you're darn right I talk to her! We talked up a storm - and I concluded from the basis of these talks that this isn't anybody you should be talking to.
+Setting: Jerry's apartment|ELAINE|Really?
+Setting: Jerry's apartment|JERRY|Yes.
+Setting: Jerry's apartment|ELAINE|Really? You really think I should fire her?
+Setting: Jerry's apartment|JERRY|Oh yeah. Yeah, in fact, if George and I weren't so busy here working on the script, I'd do it myself.
+Setting: Jerry's apartment|action|George, sitting out the couch, dozes off to sleep
+Setting: Jerry's apartment|action|Scene ends
+Setting: United Nations' Permanent Mission of Cuba building|action|A group of men in suits walk out into the lobby to deal with Kramer
+Setting: United Nations' Permanent Mission of Cuba building|MAN|(To secretary) Expira te afuera.
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|(Standing up, greeting the men) Buenos dias.
+Setting: United Nations' Permanent Mission of Cuba building|MAN|What is your name, Senor?
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Uh, Kramer.
+Setting: United Nations' Permanent Mission of Cuba building|MAN|So, Senor Kramer, what is this about?
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|(Leaning in, confidentially) Cigars.
+Setting: United Nations' Permanent Mission of Cuba building|MAN|(Confused) Cigars?
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|(Definite) Cigars.
+Setting: United Nations' Permanent Mission of Cuba building|MAN|What about cigars?
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Uh, see here, I.. (Pulls out a paper ring from his pocket) I saved one of the cigar rings..
+Setting: United Nations' Permanent Mission of Cuba building|MAN|Ohh.. (Laughs, pulling a cigar from his inner coat pocket) You mean - one of these..
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|(Pointing at the cigar, incredibly nervous) Yeah, yeah. That- that's, uh, okay, So, uh, I'd like to buy a couple of boxes of those from you, yeah?
+Setting: United Nations' Permanent Mission of Cuba building|MAN|(Deeply sniffs the cigar's aroma) You do realize, of course, these are illegal in your country.
+Setting: United Nations' Permanent Mission of Cuba building|KRAMER|Um, wha - oh, illegal, huh?
+Setting: United Nations' Permanent Mission of Cuba building|action|The man is staring at Kramer's clothes, mesmerized. He reaches out to touch Kramer's legendary jacket
+Setting: United Nations' Permanent Mission of Cuba building|MAN|I like that jacket..
+Setting: United Nations' Permanent Mission of Cuba building|action|Scene ends
+Setting: The Ross' apartment|action|There's a knock at the door. Susan answers it - it's Jerry and George
+Setting: The Ross' apartment|SUSAN|Hi!
+Setting: The Ross' apartment|GEORGE|Hi, how are ya? (They kiss)
+Setting: The Ross' apartment|SUSAN|Hey, Jerry.
+Setting: The Ross' apartment|JERRY|Hi.
+Setting: The Ross' apartment|SUSAN|I thought you two guys were working today.
+Setting: The Ross' apartment|JERRY|Ah, just - takin' a little break.
+Setting: The Ross' apartment|GEORGE|(Chuckling) yeah. Uh, oh, here's your sunglasses. (Hands them to her)
+Setting: The Ross' apartment|SUSAN|Ok, thanks. Come on in for a second. (They move into the living room. Susan gestures to a man sitting on the couch reading the paper) This is my brother, Ricky. He's home from college for the weekend.
+Setting: The Ross' apartment|GEORGE|Ohh, hey there, young fella. (They shake hands) What's your major?
+Setting: The Ross' apartment|RICKY|(Blunt) I don't have one.
+Setting: The Ross' apartment|GEORGE|Well, you should always consider podiatry. (Patting Ricky on the shoulder) There's nothing wrong with the feet. (Ricky looks critically back at George)
+Setting: The Ross' apartment|SUSAN|(Now gestures to an old woman in a wheelchair) And this is my Aunt, Sara.
+Setting: The Ross' apartment|SARA|(Staring at George) He doesn't look like me.
+Setting: The Ross' apartment|SARA|Nothing, they're clean.
+Setting: The Ross' apartment|RICKY|(Annoyed) Yes.
+Setting: The Ross' apartment|action|Doorbell rings
+Setting: The Ross' apartment|SUSAN|Excuse me. (Answer the door. It's her doorman, Raymond, carrying a burnt box) Hello, Raymond.
+Setting: The Ross' apartment|RAYMOND|Ah, yes, the man from the insurance company dropped this off this morning. He said it was the only thing left from the remains of the fire.
+Setting: The Ross' apartment|SUSAN|(Accepts the box) Oh, thank you. (As the doorman leaves, she turns to Jerry and George) Wow, I've never seen this before.. (Opens the charred box) Oh, they're letters. (Hands the box to George) Here.
+Setting: The Ross' apartment|GEORGE|Oh, sure. (Holds the box out as Susan takes out a few letters)
+Setting: The Ross' apartment|SUSAN|From.. (Trying to read one) from John Cheever.
+Setting: The Ross' apartment|SUSAN|(Chuckles as she opens up one of the letters. She reads it) "Dear Henry, last night with you was bliss. I fear my.. orgasm (She now has everyone's attention) has left me a cripple. I don't how how I shall ever get back to work.. (Jerry and George make odd faces as Susan is still concentrating on the notes) I love you madly, John. (Pause) P.S. Loved the cabin." (George nods, and Jerry gives a "Oh, of course" reaction)
+Setting: The Ross' apartment|action|A long pause
+Setting: The Ross' apartment|GEORGE|Well, we.. we, we, ah..
+Setting: The Ross' apartment|JERRY|(Looking at his watch ) Yeah..
+Setting: The Ross' apartment|GEORGE|We really should be, uh, heading out..
+Setting: The Ross' apartment|JERRY|Yeah. (Tapping his watch) Look at the time.
+Setting: The Ross' apartment|GEORGE|You know, the time..
+Setting: The Ross' apartment|action|Susan's father is now standing in the hallway
+Setting: The Ross' apartment|SARA|(Yelling out) I knew it!
+Setting: The Ross' apartment|RICKEY|John Cheever?! Dad, you and John Cheever?!
+Setting: The Ross' apartment|GEORGE|Well, we really should be-
+Setting: The Ross' apartment|JERRY|Yeah.
+Setting: The Ross' apartment|GEORGE|Uh, heading out. Jerry really hates to miss the coming attractions.
+Setting: The Ross' apartment|JERRY|Yeah, and, (Pointing to his watch) because of the.. (Slowly exiting) time.
+Setting: The Ross' apartment|GEORGE|yeah, time is what he's indicating there..
+Setting: The Ross' apartment|JERRY|(Waving good bye) We'll see ya.
+Setting: The Ross' apartment|GEORGE|Uh, anyway, (Waving bye to everyone) onward and upward.
+Setting: The Ross' apartment|action|Jerry grabs George, leaving
+Setting: The Ross' apartment|action|Scene ends
+Setting: Jerry's apartment|action|Jerry and George, once again, are sitting down in the living room, attempting to write
+Setting: Jerry's apartment|GEORGE|Alright, here we go.
+Setting: Jerry's apartment|JERRY|Alright, let's go.
+Setting: Jerry's apartment|GEORGE|Come on now.
+Setting: Jerry's apartment|JERRY|Right now.
+Setting: Jerry's apartment|GEORGE|Here we go.
+Setting: Jerry's apartment|JERRY|You and me.
+Setting: Jerry's apartment|GEORGE|You got it.
+Setting: Jerry's apartment|JERRY|No foolin'
+Setting: Jerry's apartment|GEORGE|Ok, so, what'dya got?
+Setting: Jerry's apartment|JERRY|(Looking at his notebook) Alright, I got, uh, you come in, you say "Hi", and I say "Hello".
+Setting: Jerry's apartment|GEORGE|Alright, so, we need something..
+Setting: Jerry's apartment|JERRY|Yeah.. how about this: I say "How's it goin'?"
+Setting: Jerry's apartment|GEORGE|"How's it going?" - beautiful.
+Setting: Jerry's apartment|JERRY|(Getting up to answer the door) Alright, did you get that line?
+Setting: Jerry's apartment|GEORGE|(Nodding, writing) "How's it going?"
+Setting: Jerry's apartment|JERRY|Did you write it down?
+Setting: Jerry's apartment|GEORGE|I'm writin' it. "How's it going?"
+Setting: Jerry's apartment|JERRY|Okay.. (Opens the door to a frantic Elaine)
+Setting: Jerry's apartment|ELAINE|Real good!
+Setting: Jerry's apartment|JERRY|What?!
+Setting: Jerry's apartment|ELAINE|Do you know how much money you cost me today?! 429 dollars!
+Setting: Jerry's apartment|JERRY|What?! How?
+Setting: Jerry's apartment|ELAINE|I got Sandra transferred to another office upstairs, okay?! So, she blabs to Lippman about my long distance calls to Europe!
+Setting: Jerry's apartment|JERRY|What calls?!
+Setting: Jerry's apartment|ELAINE|Uh! I made a friend when I was in Europe, okay?! And we've been in touch, and Sandra told Lippman!
+Setting: Jerry's apartment|JERRY|Oh, did - did she say anything else to you?
+Setting: Jerry's apartment|ELAINE|(Confused) "Anything else"? What do you mean "anything else"?
+Setting: Jerry's apartment|JERRY|So she just left the office - didn't say a word to you about anything?
+Setting: Jerry's apartment|ELAINE|Yeah!
+Setting: Jerry's apartment|JERRY|(Smiling to himself) Beautiful.
+Setting: Jerry's apartment|ELAINE|Why is that beautiful?
+Setting: Jerry's apartment|JERRY|Oh, no, not beautiful.
+Setting: Jerry's apartment|ELAINE|It's four hundred and twenty nine dollars!
+Setting: Jerry's apartment|JERRY|Hey, look, I'm going to pay for that.
+Setting: Jerry's apartment|ELAINE|No, no.
+Setting: Jerry's apartment|JERRY|(Taking out his checkbook) No, I insist. I was the one who encouraged you to fire her - the whole thing was all my-
+Setting: Jerry's apartment|ELAINE|(Giving up too easy) Okay.
+Setting: Jerry's apartment|JERRY|(Pauses, noting Elaine's quick accept) fault. (Starts to write a check out, then stops, looking at the door) Do you smell smoke?
+Setting: Jerry's apartment|action|Elaine opens the door to find Kramer and the 3 Cubans dressed up in golf wear, smoking cigars
+Setting: Jerry's apartment|KRAMER|Oh, hey! Hey, Jer, I want you to meet my new friends, here. (Introducing each one) This is, uh, Louis, Jorge, and Umberto.
+Setting: Jerry's apartment|JERRY|Oh, how you doing? Nice to meet you.
+Setting: Jerry's apartment|KRAMER|Yeah, we're heading up to Westchester - gonna hit the links.
+Setting: Jerry's apartment|JERRY|Oh. (Notices Louis' jacket) Isn't that, uh, your..
+Setting: Jerry's apartment|KRAMER|(Trying to avoid the issue) Oh, yeah, yeah, Okay, we're going. (To his three friends) Vamanos, muchachos!
+Setting: Jerry's apartment|action|They exit
+Setting: Jerry's apartment|ELAINE|(Turns to George, he is now reading a book) Hey, what are you reading?
+Setting: Jerry's apartment|GEORGE|Oh, uh, "The Falconer" by John Cheever. It's really excellent.
+Setting: Jerry's apartment|ELAINE|(To Jerry) John Cheever, you ever read any of his stuff?
+Setting: Jerry's apartment|JERRY|Uh, yeah, I'm familiar with some of his writing. (George shoots Jerry a smirk, then returns to his book) Alright, (Hand the check to Elaine) look, we gotta get back to work. We just had a big breakthrough here.
+Setting: Jerry's apartment|ELAINE|(Folding up the check) Ok, I'll leave you two alone.
+Setting: Jerry's apartment|JERRY|(Moving back into the living room) Okay.
+Setting: Jerry's apartment|ELAINE|(In the door way) Maybe I'll go visit my mother. She just bought me some new panties (Jerry pauses right before sitting in his chair) and they're - all laid out for me. (Leaves, smiling to herself. Jerry and George both look at each other, frozen in their places)

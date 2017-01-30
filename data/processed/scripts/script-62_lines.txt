@@ -1,0 +1,340 @@
+Opening Monologue|JERRY|I have a friend who is about to get married, they're having the bachelor party and the bridal shower on the same day... So it's conceivable that while she's getting the lingerie, he'd be at a nude bar watching a table dancer wearing the same outfit. That is possible. But to me, the difference between being single and being married, is the form of government. You see, when you're single, you are the dictator of your own life. I have complete power. I can give the order to fall asleep on the sofa with the TV on in the middle of the day, no-one can overrule me! When you're married, you're part of a vast decision-making body. Before anything gets done there are meetings. Committees have to study the situation. And this is if the marriage works. That's what's so painful about divorce: you get impeached and you're not even the president!
+Jerry's apartment|GEORGE|Hey, is it my imagination, or do really good looking women walk a lot faster than everybody else?
+Jerry's apartment|ELAINE|We don't walk that fast...
+Jerry's apartment|GEORGE|No seriously...
+Jerry's apartment|ELAINE|Seriously, we don't.
+Jerry's apartment|GEORGE|The better looking they are, the faster they go! I mean, I see they out there on the street, they're zooming around, like a blur. Like they have a motor on their ass.
+Jerry's apartment|ELAINE|(Yelling to Jerry in the bedroom) Hey Jerry, come on, let's go. We're gonna miss the previews!
+Jerry's apartment|ELAINE|Hey, how are we gettin' to Scott Drake's party on Saturday night?
+Jerry's apartment|JERRY|Oh, Drake's party, I forgot to buy a present.
+Jerry's apartment|GEORGE|I gotta buy a present now?
+Jerry's apartment|ELAINE|Of course you do, it's an engagement party.
+Jerry's apartment|GEORGE|It never ends, this present stuff! Engagement present! Then they get married, you gonna have to get them something for that! Then the baby, there's another present. Then the baby starts getting their presents. I don't even like Drake.
+Jerry's apartment|JERRY|You don't like the Drake?
+Jerry's apartment|GEORGE|Hate the Drake.
+Jerry's apartment|ELAINE|I *love* the Drake.
+Jerry's apartment|JERRY|How could you not like the Drake?
+Jerry's apartment|GEORGE|Who's the Drake?
+Jerry's apartment|ELAINE|"Who's the Drake"?
+Jerry's apartment|JERRY|The Drake is good!
+Jerry's apartment|ELAINE|So listen, what are you gonna get him?
+Jerry's apartment|GEORGE|I haven't even met the fiancee! Whatever! (Leaves for washroom)
+Jerry's apartment|JERRY|Elaine, look. I drew this triangle free-hand. It's a doodle. It's perfect!
+Jerry's apartment|ELAINE|So what? That's easy.
+Jerry's apartment|JERRY|Easy?
+Jerry's apartment|action|Kramer enters in his usual way
+Jerry's apartment|ELAINE|Hi! Hey, have you gotten your present yet for the Drake?
+Jerry's apartment|KRAMER|Uh, no, no, not yet.
+Jerry's apartment|JERRY|Do you like the Drake?
+Jerry's apartment|KRAMER|I *love* the Drake! I'm looking forward to meeting the Drakette!
+Jerry's apartment|ELAINE|I'm lukewarm about the Drakette.
+Jerry's apartment|KRAMER|(Looking at Jerry's doodle) That's a nice triangle...
+Jerry's apartment|JERRY|It's Isosceles
+Jerry's apartment|KRAMER|Ooh, Isosceles. I love the name Isosceles. If I had a kid, I would name him Isosceles. Isosceles Kramer.
+Jerry's apartment|ELAINE|Hey, you know what, maybe we should all chip in for the gift.
+Jerry's apartment|JERRY|The chip-in!
+Jerry's apartment|ELAINE|Hey, a pretty good idea, huh?
+Jerry's apartment|JERRY|Yeah!
+Jerry's apartment|KRAMER|Yeah, the chip-in, defenitely!
+Jerry's apartment|JERRY|You know what, let's go to that mall in Liberal(sp?) before we go to the party. We'll have to take your car, it's got the most room.
+Jerry's apartment|KRAMER|No, no! My car's not running.
+Jerry's apartment|action|George enters the room from the washroom
+Jerry's apartment|JERRY|What about your father's car?
+Jerry's apartment|GEORGE|No, no, no. Out of the question. I was over there today. He's got the good spot in front of the good building in the good neighbourhood. I know he's not gonna wanna move.
+Jerry's apartment|JERRY|Are you serious?
+Jerry's apartment|GEORGE|You don't know what that spot means to him. Once he gets it, he doesn't go out for weeks.
+Jerry's apartment|JERRY|How about this, you put your car in the good spot, that'll hold the good spot in front of the good building, and we can get the good car!
+Jerry's apartment|GEORGE|Good thinking!
+Jerry's apartment|JERRY|Good to meet you!
+George's father's car|ELAINE|So what are we gonna get him?
+George's father's car|JERRY|We could get him anything we wanted, we're chippin' in.
+George's father's car|GEORGE|I like this area. I could live out here.
+George's father's car|KRAMER|Yeah, we ought to all get a house and live together.
+George's father's car|JERRY|Yeah, that's a good idea. I'll tell you what chuckles, I give you permission to sublet my room right now.
+George's father's car|GEORGE|Look at this. There's no spaces here. (to another car) Excuse me, are you gettin' out?
+George's father's car|KRAMER|Why don't you take a handicap spot...
+George's father's car|GEORGE|You think?
+George's father's car|ELAINE|No, no! We'll find a space. There's spaces in the other lot.
+George's father's car|GEORGE|I don't want to walk that far.
+George's father's car|ELAINE|What if a handicapped person needs it?
+George's father's car|KRAMER|Oh, come on, they don't drive!
+George's father's car|JERRY|Yes, they do!
+George's father's car|KRAMER|Have you ever seen a handicapped person pull into a space and park?
+George's father's car|JERRY|Well there's spaces there, they must drive!
+George's father's car|KRAMER|Well they don't. If they could drive, they wouldn't be handicapped.
+George's father's car|ELAINE|So if you can drive, you're not handicapped?
+George's father's car|GEORGE|Look, we're not gonna be that long anyway... we have to get to the "party"!
+George's father's car|KRAMER|I got news for you: handicapped people, they don't even want to park there! They wanna be treated just like anybody else! That's why, those spaces are always empty.
+George's father's car|GEORGE|He's right! It's the same thing with the femenists. You know, they want everything to be equal, everything! But when the check comes, where are they?
+George's father's car|ELAINE|What does that mean?
+George's father's car|GEORGE|Yeah! Alright, I'm pulling in.
+George's father's car|KRAMER|Yeah, go ahead.
+George's father's car|ELAINE|George!
+George's father's car|GEORGE|Oh, come on, it's five minutes.
+George's father's car|action|pulls into handicap spot
+George's father's car|KRAMER|Make sure we don't forget where the car's parked.
+walking in the parking garage|JERRY|Do you believe the deal we got on this? A big screen TV? At that price?
+walking in the parking garage|ELAINE|What a sale, huh? And how about that store, delivering it tonight? We're gonna be swimming in 'thank you's...
+walking in the parking garage|GEORGE|What did I get the veggie burger for? You got a veggie burger, so I had to get the veggie burger, I'm allover crums...
+walking in the parking garage|JERRY|No-one's gonna have a better gift than this big screen TV! Good for them, love the Drake!
+walking in the parking garage|ELAINE|Got to *love* the Drake!
+walking in the parking garage|action|sound of police cars
+walking in the parking garage|JERRY|Hey, what's going on over here?
+walking in the parking garage|ELAINE|Must have been an accident...
+walking in the parking garage|action|they turn the corner so they can see their car, surrounded by a lot of people
+walking in the parking garage|JERRY|(to a woman) Hey, what's going on?
+walking in the parking garage|WOMAN|Some jerk parked in a handicap spot, so this woman in a wheelchair had to wheel up this incline, and half way up her batteries gave up, and she rolled backwards into the wall. Taken her to St. Elizabeth's...
+walking in the parking garage|JERRY|Is she OK?
+walking in the parking garage|WOMAN|I don't know. We're just waiting here for the owner of this car to show up. May not get out alive! Thug! Taking up a handicap spot? He's gonna pay!
+walking in the parking garage|JERRY|Son's of bitches! Good luck finding them... him... whatever. I'd like to stick around and get my hands on him myself, but I gotta take off.
+walking in the parking garage|action|man hits George's car in rage
+walking in the parking garage|GEORGE|How are we gonna get out of here? They'll kill us!
+walking in the parking garage|ELAINE|(to George) Are you happy now?
+walking in the parking garage|KRAMER|Who would think these people we're gonna be here?
+walking in the parking garage|JERRY|I don't know...
+walking in the parking garage|ELAINE|What about the party? What about the Drake?
+walking in the parking garage|GEORGE|Screw the Drake!
+walking in the parking garage|JERRY|I love the Drake!
+walking in the parking garage|KRAMER|Let's just take a bus back to the city.
+walking in the parking garage|GEORGE|Can't leave the car here!
+walking in the parking garage|KRAMER|Why not?
+walking in the parking garage|GEORGE|It's my father's car!
+walking in the parking garage|MAN|Let's smash it!
+walking in the parking garage|EVERYBODY|Yeah! Yeah!
+walking in the parking garage|JERRY|Let's get out of here.
+coffee shop|GEORGE|What are we gonna do? How are we gonna get out of here?
+coffee shop|JERRY|The thing is, even if we go back by the car, and there's nobody there, how do we know they're not all hiding, waiting for us?
+coffee shop|ELAINE|Well, they have to give up some time, they can't stay out there all night?
+coffee shop|JERRY|What are we, John Dillinger? How did this get to be the crime of the century? It's not like we stuck a broomstick in her spokes and she went flying...
+coffee shop|GEORGE|What I don't get is, just because the battery is dead, you think she'd be able to roll up the hill with her hands!
+coffee shop|KRAMER|You'd think...
+coffee shop|GEORGE|I mean, batteries have gone dead before, aren't they prepared for that?
+coffee shop|KRAMER|Most of them don't even have batteries.
+coffee shop|GEORGE|Must be one of those rich, spoiled handicapped people, who didn't want to do any work, and just wanted to sit in her wheelchair and take it easy.
+coffee shop|KRAMER|Yeah...
+coffee shop|GEORGE|Well, I'm sorry!
+coffee shop|ELAINE|Our big screen TV is probably arriving right now...
+coffee shop|GEORGE|How are we gonna get out of here? We need a plan!
+coffee shop|JERRY|I got it! (snaps his fingers) We give the keys to Elaine.
+coffee shop|ELAINE|Me?
+coffee shop|JERRY|Yeah! You're a woman! Men don't hit a woman!
+coffee shop|ELAINE|Oh, they won't?
+coffee shop|JERRY|Not if they don't know you...
+coffee shop|ELAINE|I'm not going for this, Kramer should go! It was all his idea!
+coffee shop|KRAMER|No chance in hell!
+coffee shop|JERRY|What if we created some sort of diversion? What if we all went by the car and started screaming: "There he is, there's the guy that took the handicap spot!" And then, when they all run into the other direction, we'll jump in the car!
+coffee shop|GEORGE|That's good, we'll give it a try...
+coffee shop|ELAINE|That's good...
+coffee shop|JERRY|That doesn't work, we'll give 'em Kramer!
+coffee shop|KRAMER|Huh?
+parking garage|action|the four of them approach George's car, which is smashed to pieces
+parking garage|JERRY|(as George picks up a broken piece of his car) You know, a lot of these scratches will buff right out...
+George's parents' house|FRANK|Eight years have I had this car. Not a scratch on it! Eight years!
+George's parents' house|action|Estelle is playing Mahjongh with the ladies
+George's parents' house|FRANK|A beautiful Mercury! I special-ordered that bench seat!
+George's parents' house|GEORGE|Dad, that other car cut us off! They had swastikas all over it... They were hurling racial epiphates at us... I could have been killed!
+George's parents' house|ESTELLE|(to Frank) I told you not to give it to him!
+George's parents' house|FRANK|(to George) You know, my insurance doesn't cover this? The whole thing is a total loss!
+George's parents' house|FRANK|No it isn't!
+George's parents' house|GEORGE|I'm uh... writing a pilot for NBC...
+George's parents' house|FRANK|Where the hell is my paper?
+George's parents' house|ESTELLE|With his friend, Jerry Seinfeld... the comedian...
+George's parents' house|GEORGE|Well, Jerry's car gets hit and the other driver doesn't have any insurance, so the judge
+George's parents' house|action|giggling
+George's parents' house|ESTELLE|Every time you're with that Kramer, something happens... He's a real trouble maker!
+George's parents' house|GEORGE|Nah, he didn't have anything to do with it...
+George's parents' house|ESTELLE|He's all together crazy, that one! Jerry? I used to think was nice... I don't know what happened to him...
+George's parents' house|action|Estelle wins at Mahjongh
+Jerry's apartment|action|Jerry's on the phone with the Drake, Elaine is eating an Oreo cookie
+Jerry's apartment|JERRY|(to the Drake) So it was a good party, huh? Oh... you're welcome, you're welcome... (to Elaine) They loved the TV, *loved* it!
+Jerry's apartment|ELAINE|Oh, yeah...
+Jerry's apartment|JERRY|(to the Drake) Oh, wait a second, I'll ask her.. that's a great idea. (To Elaine) Drake wants to know if we want to come out to Minneolis this afternoon, since we missed the partly last night, to maybe get something to eat?
+Jerry's apartment|ELAINE|Sure!
+Jerry's apartment|JERRY|(to the Drake) Sure! ... Okay... Don't worry, I'm taking MY car! ... okay... okay, see you later... bye...
+Jerry's apartment|JERRY|The Drake is great!
+Jerry's apartment|ELAINE|Hmm.. he's so nice! I'm really happy for them.
+Jerry's apartment|JERRY|Yeah. Well, I don't know if I'm happy for them, I mean I'm glad they're happy, but, frankly, that doesn't do anything for me.
+Jerry's apartment|action|buzzer rings
+Jerry's apartment|JERRY|Yes?
+Jerry's apartment|GEORGE|It's me.
+Jerry's apartment|JERRY|Come on up.
+Jerry's apartment|action|Door opens, Kramer enters
+Jerry's apartment|KRAMER|Hey. I just came from St. Elizabeth's.
+Jerry's apartment|JERRY|St. Elizabeth's Hospital? Why?
+Jerry's apartment|KRAMER|Well, the handicapped woman? I went to see her.
+Jerry's apartment|ELAINE|You went to see her?
+Jerry's apartment|KRAMER|Yeah.
+Jerry's apartment|JERRY|Wow, what happened?
+Jerry's apartment|KRAMER|I'm in love.
+Jerry's apartment|JERRY|What?
+Jerry's apartment|KRAMER|Yeah, she is the most beautiful woman I have ever seen. I love her Jerry, I really love her. I'm gonna ask her to marry me. She's got everything I've always wanted in another human being. Except for the walking.
+Jerry's apartment|JERRY|Oh, what's the difference, you don't go out that much.
+Jerry's apartment|action|George enters
+Jerry's apartment|KRAMER|Ah, I'm glad you're here.
+Jerry's apartment|GEORGE|What?
+Jerry's apartment|KRAMER|Alright, now, we gotta go out. We gotta buy a wheelchair.
+Jerry's apartment|GEORGE|A wheelchair? What for?
+Jerry's apartment|KRAMER|Well, you know I went to the hospital today, and I saw the woman, you know, and the wheelchair is totalled, we gotta get her another one!
+Jerry's apartment|GEORGE|Doesn't she have collision?
+Jerry's apartment|KRAMER|George, I'm in love with her!
+Jerry's apartment|GEORGE|Well, my father works for the United Volunteers, maybe he can get her one.
+Jerry's apartment|KRAMER|No! She needs it now!
+Jerry's apartment|GEORGE|What about these two? Aren't they gonna chip in?
+Jerry's apartment|KRAMER|Well...
+Jerry's apartment|ELAINE|Hey, we told you not to park there!
+Jerry's apartment|GEORGE|Can't we just fix the old one?
+Jerry's apartment|KRAMER|Alright, alright. Fine George! Don't chip in! But some day, we're gonna be driving along, we're gonna look out the window, and see her crawling along 5th avenue! Is that what you want?
+Jerry's apartment|GEORGE|Alright, alright! We'll buy her a wheelchair! Wheelchairs, engagement presents.. IT NEVER ENDS!
+at Surgical Appliances|SALESMAN|This is out best model. The Cougar 9000. It's the Rolls Royce of wheelchairs. This is like... you're almost glad to be handicapped.
+at Surgical Appliances|KRAMER|So now, what's this got?
+at Surgical Appliances|SALESMAN|Inductive joystick, dynamic braking, flip-up arms, it's fully loaded. I put Stephen Hawking in one of these two months ago, he's lovin' it! It's rated number one by Hospital Supply and Prosthetic Magazine.
+at Surgical Appliances|GEORGE|How much?
+at Surgical Appliances|SALESMAN|6200.
+at Surgical Appliances|GEORGE|Do you have something a little more... less expensive?
+At the Drake's|action|The Drake opens the door, the Drakette is sitting on the couch
+At the Drake's|ELAINE|My God this is fantastic! Tell me, were you guys just blown away or what?
+At the Drake's|action|Jerry sits down next to Alison
+At the Drake's|JERRY|I am gonna make good use of this! I'm watching every superbowl here, every big fight....
+At the Drake's|ELAINE|Oh man, there is nothing like a really big TV, huh?
+At the Drake's|JERRY|So where're we eatin'?
+At the Drake's|ELAINE|I'm *really* hungry!
+At the Drake's|JERRY|When did this happen?
+At the Drake's|JERRY|(looking at the TV) Look at the picture on this thing...
+At the Drake's|ELAINE|Oh, cristal clear!
+At the Drake's|JERRY|They know how to make 'em...
+At the Drake's|action|The Drake starts sobbing
+At the Drake's|ELAINE|Are there any good Italian restaurants around here?
+At the Drake's|JERRY|Well... we should...
+At the Drake's|ELAINE|Get movin'...
+At the Drake's|JERRY|Yeah... Hey, Drake, what ever happens, I am sure it'll be for the best.
+At the Drake's|ELAINE|Take it easy. Bye-Bye Alison!
+At the Drake's|action|The Drake is sobbing again, Elaine takes the remote control out the door then returns
+At the Drake's|ELAINE|Oh, the remote! Okay, I'm just gonna put it on top of the television...
+at Surgical Appliances|SALESMAN|Alright, this one is about 8 years old. Not a scratch on it, it was owned by some lady who only used it to go from the bathroom to the kitchen and to feed her cat.
+at Surgical Appliances|KRAMER|But this'll get you around?
+at Surgical Appliances|SALESMAN|Oh sure, it just doesn't have any of the thrills of the Cougar.
+at Surgical Appliances|GEORGE|Like what?
+at Surgical Appliances|SALESMAN|For example, your tremor-damping.
+at Surgical Appliances|KRAMER|Now what's that?
+at Surgical Appliances|SALESMAN|It helps to control the direction regardless of the operator's tremors or spasticity.
+at Surgical Appliances|KRAMER|Well, is it alright if I try it?
+at Surgical Appliances|SALESMAN|Hop in!
+at Surgical Appliances|action|Kramer sits down, and likes it
+at Surgical Appliances|KRAMER|Oh yeah!
+at Surgical Appliances|action|Salesman is laughing
+at Surgical Appliances|SALESMAN|I tell ya...
+at Surgical Appliances|action|Kramer crashes into wheelchairs while trying to control his
+at Surgical Appliances|SALESMAN|When I see someone enjoying themselves like that, it reminds me why I got into this business in the first place.
+at Surgical Appliances|GEORGE|How much?
+at Surgical Appliances|action|Kramer crashes into some more wheelchairs
+at Surgical Appliances|SALESMAN|How about $240?
+Jerry's appartment|ELAINE|Drake gave her the TV?
+Jerry's appartment|JERRY|He gave her all the gifts; he felt guilty.
+Jerry's appartment|ELAINE|Well, she can't keep it, it's not fair, that's *our* TV!
+Jerry's appartment|JERRY|I know it is!
+Jerry's appartment|ELAINE|Boy, I am really starting to dislike the Drake!
+Jerry's appartment|JERRY|I hate the Drake! Maybe the whole thing was a scam. Anybody can just get engaged and get presents and just keep them all. Maybe they're on their way to Chicago tomorrow and do the whole thing all over again.
+Jerry's appartment|ELAINE|They don't know anybody in Chicago.
+Jerry's appartment|JERRY|Don't worry, they'll make friends fast with that nice TV.
+Jerry's appartment|action|George enters
+Jerry's appartment|GEORGE|Hey.
+Jerry's appartment|JERRY|Hey, guess what? The Drake broke up.
+Jerry's appartment|JERRY|I don't know about defraying.
+Jerry's appartment|GEORGE|Why?
+Jerry's appartment|JERRY|We're not gettin' that TV.
+Jerry's appartment|GEORGE|What do you mean? The engagement is off, we get the TV back. That's business.
+Jerry's appartment|ELAINE|The Drakette took it.
+Jerry's appartment|GEORGE|She can't take it. It's not hers, it's theirs. Once there's no theirs there's no hers, it should be ours.
+Jerry's appartment|ELAINE|Well, she has it!
+Jerry's appartment|GEORGE|(upset) I *told* you the Drake was bad! I hate the Drake!
+Jerry's appartment|GEORGE|Maybe we should call her.
+Jerry's appartment|ELAINE|Well, who's gonna call?
+Jerry's appartment|JERRY|You are.
+Jerry's appartment|ELAINE|What? Why is it me who always has to do these things?
+Jerry's appartment|JERRY|Because that's your thing!
+Jerry's appartment|ELAINE|What? Calling people I hardly know, and demanding they return expensive gifts, that's my "thing"?
+Jerry's appartment|JERRY|Yeah, that's your thing.
+Jerry's appartment|ELAINE|Alright, gimme the phone... it's my "thing"...
+Jerry's appartment|action|Elaine starts dialling
+Jerry's appartment|JERRY|(to George) You know, I'm thinking about getting a yo-yo.
+Jerry's appartment|GEORGE|Really?
+Jerry's appartment|JERRY|Yeah.
+Jerry's appartment|GEORGE|I could see that...
+Jerry's appartment|ELAINE|Alison! Hi, this is Elaine...
+Jerry's appartment|ELAINE|Oh, Okay... well thanks a lot... sorry again about you and the Drake...
+Jerry's appartment|ELAINE|Everybody does. Bye-bye....
+Jerry's appartment|action|Elaine hangs up the phone
+Jerry's appartment|ELAINE|She gave it to charity.
+Jerry's appartment|JERRY|Charity?!? That's apalling.
+Jerry's appartment|GEORGE|How could anybody be so selfish and inconsiderate!
+Jerry's appartment|action|Kramer enters
+Jerry's appartment|KRAMER|Well, I gave her the wheelchair! You should have seen the look on her face. And then she told me, that the old wheelchair, that wasn't any good anyway! So you see George, the whole incident was a God blessing! Yeah!
+Jerry's appartment|GEORGE|You mean a blessing in disguise?
+Jerry's appartment|KRAMER|Yeah....
+At George's parents' place|LADY|And I would also like to personally thank our gracious host Frank Costanza, who has earned the silver circle award and is our unanimous choice for the United Volunteer Representative of the Month!
+At George's parents' place|action|applause
+At George's parents' place|LADY|Due to his tireless effort, he personally raised over $22,000. That's a lot of wheelchairs!
+At George's parents' place|action|applause, door bel rings
+At George's parents' place|LADY|On behalf of the United Volunteers of Greater New York, we thank you!
+At George's parents' place|action|Estelle opens the front door, two men walk in
+At George's parents' place|FRANK|Well... thank you very much!
+At George's parents' place|COP|Mr. Costanza?
+At George's parents' place|FRANK|Yes?
+At George's parents' place|COP|You're under arrest.
+At George's parents' place|FRANK|Under arrest? What for?
+At George's parents' place|COP|Reckless endangerment of public safety, and violation of traffic code 342-A.
+At George's parents' place|FRANK|What's that?
+At George's parents' place|COP|Parking in a handicap spot. Let's go...
+At George's parents' place|FRANK|George! George!
+Jerry's appartment|JERRY|Your father got arrested? For what?
+Jerry's appartment|GEORGE|Parking in a handicap spot. Right in the middle of his United Volunteers meeting. When he got back, he chased after me with a baseball bat.
+Jerry's appartment|JERRY|Ho-ly!
+Jerry's appartment|GEORGE|Between the car getting totalled, the towing charge and the fine, there's no way I can ever pay him back...
+Jerry's appartment|JERRY|So what are you gonna do?
+Jerry's appartment|GEORGE|I agreed to become his butler.
+Jerry's appartment|JERRY|What?
+Jerry's appartment|action|Kramer enters
+Jerry's appartment|JERRY|What's the matter?
+Jerry's appartment|KRAMER|It's over!
+Jerry's appartment|JERRY|What's over?
+Jerry's appartment|KRAMER|Me and Lola....
+Jerry's appartment|GEORGE|The woman we bought the wheelchair for?
+Jerry's appartment|KRAMER|Yeah, she dumped me!
+Jerry's appartment|JERRY|She dumped you?
+Jerry's appartment|KRAMER|She dumped me! She rolled right over me! Said I was a hipster dufus. Am I a hipster dufus?
+Jerry's appartment|KRAMER|Said I'm not good looking enough for her. Not good looking! Jerry, look at me, look at my face, huh, am I beautiful? George, am I beautiful?
+Jerry's appartment|GEORGE|...you're very attractive...
+Jerry's appartment|KRAMER|yeah... she says she doesn't wanna see me again. Told me to drop dead!
+Jerry's appartment|JERRY|Drop dead?
+Jerry's appartment|GEORGE|Boy, even I never heard that one...
+Jerry's appartment|JERRY|She's pretty rough!
+Jerry's appartment|KRAMER|Yeesh-jip!
+Jerry's appartment|GEORGE|Well, we just blew 240 bucks on a wheelchair.
+Jerry's appartment|JERRY|240 bucks?
+Jerry's appartment|GEORGE|Well, it was slightly used...
+Jerry's appartment|JERRY|Used?
+George's parents' place|action|George's vaccuuming
+George's parents' place|action|George turns off the vaccuum
+George's parents' place|GEORGE|What!?
+George's parents' place|FRANK|You're supposed to your face there! Do you see your face in there?
+George's parents' place|action|Phone rings
+George's parents' place|FRANK|Yeah? ...oh really?...oh... how about that?... Right down a hill huh? Okay! Alight! Bye!
+George's parents' place|action|hangs up the phone
+George's parents' place|FRANK|George, forget about the shoes. Want you to do something for me (scribbles something on a piece of paper). This handicapped woman had an accident. Somebody gave her a used wheelchair with defective brakes.
+George's parents' place|GEORGE|Sons of bitches!
+George's parents' place|FRANK|Anyway, I want you to pick up this big screen TV, and deliver it to her.
+George's parents' place|GEORGE|Big screen TV?
+George's parents' place|FRANK|Do you think you can handle it?
+At the Drakette's|action|knock on door, the Drakette opens
+At the Drakette's|ALLISON|Yes?
+At the Drakette's|GEORGE|Hi, we're from the United Volunteers, we've come to pick up the TV.
+At the Drakette's|ALLISON|Oh great, it's right over there.
+At the Drakette's|KRAMER|Ooh, it's a big one!
+All four inside a delivery van outside the mall|GEORGE|Who's got the receipt?
+All four inside a delivery van outside the mall|ELAINE|I do.
+All four inside a delivery van outside the mall|GEORGE|Will they give us cash?
+All four inside a delivery van outside the mall|JERRY|That's their policy.
+All four inside a delivery van outside the mall|GEORGE|I hate this mall, there are never any spaces here...
+All four inside a delivery van outside the mall|KRAMER|Why don't you park in front of the hydrant?
+All four inside a delivery van outside the mall|GEORGE|What if there is a fire?
+All four inside a delivery van outside the mall|KRAMER|What are the chances of that?

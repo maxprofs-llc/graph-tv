@@ -1,0 +1,322 @@
+Jerry's Car|action|Jerry driving, with Elaine in passenger seat and Kramer in back seat
+Jerry's Car|KRAMER|All right, get off at the next exit.
+Jerry's Car|JERRY|Kramer, I've driven to east Hampton many times, I know the exit.
+Jerry's Car|KRAMER|It's a great house, pool, sun deck? Yeah, I'll be there.
+Jerry's Car|JERRY|(To Elaine) You sure we're makin' the right move?
+Jerry's Car|ELAINE|We gotta see the new baby anyway, at least we'll get a weekend in the Hamptons out of it.
+Jerry's Car|JERRY|Didn't they just have a baby?
+Jerry's Car|ELAINE|That was two years ago, remember? 'Jeh-Ree, you gotta see the Bay-Bee! You gotta see the Bay-Bee!'
+Jerry's Car|JERRY|Is it possible they're just having babies to get people to visit them?
+Jerry's Car|KRAMER|Hey Jerry, you ever wear silk underwear?
+Jerry's Car|JERRY|No.
+Jerry's Car|KRAMER|Put that on the top of your list.
+Jerry's Car|JERRY|No, not for me. A little too delightful. Well, George and Jane should be almost there by now.
+Jerry's Car|ELAINE|Oh, isn't that weird that George and Jane haven't had sex yet, but they're spending a weekend together?
+Jerry's Car|JERRY|I know, George is pretty pleased about it. It's like she signed a letter of intent.
+Jerry's Car|ELAINE|When's Rachel comin' out?
+Jerry's Car|JERRY|She's makin' the three o'clock train.
+Jerry's Car|ELAINE|Her father is so religious, I'm just amazed that he's letting you see her again after that Schindler's List make-out session.
+Jerry's Car|JERRY|I bought him some kishka.
+Jerry's Car|KRAMER|What's that?
+Jerry's Car|JERRY|It's kind of a stuffed meat thing. Israeli soldiers carry it. In case they're captured behind enemy lines, they eat it and it kills them.
+Jerry's Car|action|Elaine laughs
+George and Jane in another car driving to the Hamptons.|GEORGE|I never tasted a cough medicine I didn't love.
+George and Jane in another car driving to the Hamptons.|JANE|Me too. I love cough medicine.
+George and Jane in another car driving to the Hamptons.|GEORGE|You see? We were made for each other. (Thinking to himself) It's amazing. If I reach out and touch her breast right not, she'd scream and throw me out of the car. But at this time tomorrow, I could touch it all I want.
+George and Jane in another car driving to the Hamptons.|JANE|What's your favorite?
+George and Jane in another car driving to the Hamptons.|GEORGE|Potussan. Ever try it with club soda?
+George and Jane in another car driving to the Hamptons.|JANE|No.
+George and Jane in another car driving to the Hamptons.|GEORGE|Oh, very refreshing. (Thinking again) Sex is like joining a private club. I'll be the same me tomorrow, but suddenly, the no trespassing sign will be gone.
+George and Jane in another car driving to the Hamptons.|JANE|Are we almost there?
+George and Jane in another car driving to the Hamptons.|GEORGE|Yeah, about ten, fifteen minutes. But I have to stop at a vegetable stand.
+George and Jane in another car driving to the Hamptons.|JANE|What for?
+George and Jane in another car driving to the Hamptons.|GEORGE|My mother loves Hampton tomatoes. She's nuts for Hampton tomatoes.
+George and Jane in another car driving to the Hamptons.|JANE|Can you buy 'em later? I really wanna get some... sun.
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|Hey Jerry. Rub some lotion on my back.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|Who are you, Mrs. Robinson?
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|Come on, I'll rub some on yours.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|No, that's no sweet'ning the deal. No.
+George, Jane, Kramer, and Jerry outside of the house in the back.|GEORGE|(To Jane) You know, when I was a kid, I once found a dollar and fifty cents in change on the bottom of the pool.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JANE|(No feeling in her voice) You must've been excited.
+George, Jane, Kramer, and Jerry outside of the house in the back.|GEORGE|Yeah. Hey, you know, I gotta go get these tomatoes. You wanna go for a ride?
+George, Jane, Kramer, and Jerry outside of the house in the back.|JANE|I don't think so.
+George, Jane, Kramer, and Jerry outside of the house in the back.|GEORGE|'Kay. I'll uh, I'll see you later. Anybody want some tomatoes?
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|No thanks.
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|No. (George leaves for the tomatoes)
+George, Jane, Kramer, and Jerry outside of the house in the back.|JANE|I'm gonna take a dip. (She leaves for beach, Elaine enters with a shady hat on)
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|And then there's Maude. (She sits down next to Jerry)
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Look at my face, look at it. You see any lines?
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|No lines.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|You know why? One word: shade.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|So when are we gonna see this baby? When is the momentous event?
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|I don't know. They're takin' a nap or something.
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|I'm gonna go see if there are any girls on the beach. Elaine, you wanna come?
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|(Sarcastic) No thanks. I got plenty of girlfriends.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|(Looking toward beach) Oh this is interesting.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|What?
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|Jane's topless. (They all look)
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|Yo yo ma.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|Boutros Boutros-Ghali.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Nice rack. (Carol and Michael inside open back door)
+George, Jane, Kramer, and Jerry outside of the house in the back.|CAROL|Come on, you guys. You can come and see the bay-bee!
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|Oh, in a minute, Carol.
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|We're gonna be right there.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|This is weird wild stuff. George hasn't even seen her yet.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Why do you think we're getting the sneak preview?
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|Maybe she's trying to create a buzz.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|What?
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|You know, get some good word of mouth goin'.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|Oh, here she comes. (They pretend to not have watched as Jane enters)
+George, Jane, Kramer, and Jerry outside of the house in the back.|JANE|I'm thirsty. Anyone want a drink?
+George, Jane, Kramer, and Jerry outside of the house in the back.|action|Jerry, Elaine and Kramer are shocked
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|No thanks.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|I'm good.
+George, Jane, Kramer, and Jerry outside of the house in the back.|KRAMER|Deh-deh-deh-deh- (Jane exits) All right, show's over. I'm goin' to the beach.
+George, Jane, Kramer, and Jerry outside of the house in the back.|action|Carol enters the Bay-bee's room with Elaine, Jerry, and husband Michael not far behind.
+George, Jane, Kramer, and Jerry outside of the house in the back.|CAROL|Adam (the baby's name), Jerry and Elaine are here.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Oh, he's a cute little shnugly baby.
+George, Jane, Kramer, and Jerry outside of the house in the back.|CAROL|Isn't he gorgeous? (Elaine looks at baby, only to be frightened and turn away)
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Ugghh.
+George, Jane, Kramer, and Jerry outside of the house in the back.|CAROL|Is she gorgeous? (Elaine and Jerry looking away)
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Oh, gorgeous, yes.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|So very gorgeous.
+George, Jane, Kramer, and Jerry outside of the house in the back.|CAROL|Michael, shut the door! You're letting bugs in.
+George, Jane, Kramer, and Jerry outside of the house in the back.|action|Cut to Kramer on the beach with some girls, then using a metal detector, then seeing a rope leading to something he doesn't know of yet.
+George, Jane, Kramer, and Jerry outside of the house in the back.|action|Jerry and Elaine gasping for air outside after they just left the baby's room.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|Is it me or was that the ugliest baby you have ever seen?
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Uh, I couldn't look. It was like the Pekinese.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|Boy, a little too much chlorine in that gene pool. (They sit) And, you know, the thing is, they're never gonna know, no one's ever gonna tell them.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Oh, you have to lie.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|It's a must lie situation.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|Yes, it's a must lie situation.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|You know, I don't think we should tell George we saw Jane topless.
+George, Jane, Kramer, and Jerry outside of the house in the back.|ELAINE|No, I don't think so.
+George, Jane, Kramer, and Jerry outside of the house in the back.|JERRY|In fact remind me to tell Kramer too.
+Cut to Kramer reeling in a box of lobster on the ocean.|KRAMER|Oooh, lobsters.
+Carol and the baby's doctor with the baby|BEN|Oh this ointment should do it.
+Carol and the baby's doctor with the baby|CAROL|How are you feeling, Adam? (She sees Elaine in the hall) Elaine! (Elaine enters) This is our pediatrician, Ben Feffa.
+Carol and the baby's doctor with the baby|ELAINE|Hi.
+Carol and the baby's doctor with the baby|CAROL|Look at him, Elaine. How gorgeous is he? I ask you, how gorgeous?
+Carol and the baby's doctor with the baby|ELAINE|(Looking at Ben) Pretty gorgeous.
+Carol and the baby's doctor with the baby|BEN|Elaine, you have children?
+Carol and the baby's doctor with the baby|ELAINE|Me? Oh no, but I'd love to have a baby, I mean, I can't wait to have a baby. I'm just dyin' to have a baby.
+Carol and the baby's doctor with the baby|BEN|A beautiful woman like you should. You're quite breathtaking.
+Carol and the baby's doctor with the baby|ELAINE|Breathtaking? I'm breathtaking?
+Carol and the baby's doctor with the baby|CAROL|And he's very particular. Ben, you're staying tonight, right?
+Carol and the baby's doctor with the baby|BEN|Uh, Sure. (Elaine celebrates to herself as Jerry enters and quickly looks away from the baby)
+Carol and the baby's doctor with the baby|JERRY|Ah, I'm gonna go pick up Rachel at the station.
+Carol and the baby's doctor with the baby|ELAINE|Yeah, see ya.
+Carol and the baby's doctor with the baby|JERRY|Okay. (He leaves)
+Carol and the baby's doctor with the baby|CAROL|Oh, just look at him!
+Carol and the baby's doctor with the baby|BEN|Yeah, he really is breathtaking. (Elaine confused by his comment)
+Jerry and Rachel outside|RACHEL|Train was so crowded. I had to sit in the seat facing the wrong way.
+Jerry and Rachel outside|JERRY|Oh I like that. It's like going back in time. (George comes outside)
+Jerry and Rachel outside|GEORGE|Hey Rachel!
+Jerry and Rachel outside|RACHEL|(Quickly gets out of seat) Hi. I'm gonna go in there to change.
+Jerry and Rachel outside|action|She leaves
+Jerry and Rachel outside|GEORGE|What kind of a greeting was that?
+Jerry and Rachel outside|JERRY|She's got greeting problems.
+Jerry and Rachel outside|GEORGE|Yeah. I love Hampton tomatoes. You know, you can eat 'em like apples. You know it's funny, the tomato never really took on as a hand fruit.
+Jerry and Rachel outside|JERRY|Well, the tomato's an anomaly. So successful with the ketchup and the sauce, but you can't find a good one. (Kramer enters with a box of lobster)
+Jerry and Rachel outside|KRAMER|Hey, hey, hey! Look at what I got!
+Jerry and Rachel outside|GEORGE|Hey! Wow, the K-Man! (They walk into the kitchen inside)
+Jerry and Rachel outside|JERRY|You got lobster for everybody?
+Jerry and Rachel outside|KRAMER|Yeah, and they're fresh! Right out of the ocean.
+Jerry and Rachel outside|GEORGE|This is fantastic. Man, what a weekend. Swimming, lobster for dinner...
+Jerry and Rachel outside|KRAMER|I know, it's great. And I saw Jane topless. (Jerry shows that 'damn' expression behind George)
+Jerry and Rachel outside|GEORGE|You saw who, what?
+Jerry and Rachel outside|KRAMER|Yeah, I saw Jane topless. Well, we all saw her.
+Jerry and Rachel outside|JERRY|(Jerry realizes the situation is hopeless) All right.
+Jerry and Rachel outside|GEORGE|You saw Jane topless?
+Jerry and Rachel outside|JERRY|Well, when you went for the tomatoes she lied out topless.
+Jerry and Rachel outside|GEORGE|Oh you mean face down on her chest.
+Jerry and Rachel outside|JERRY|No.
+Jerry and Rachel outside|GEORGE|Face up on her back?
+Jerry and Rachel outside|JERRY|Yeah.
+Jerry and Rachel outside|GEORGE|Well why'd she do that?
+Jerry and Rachel outside|KRAMER|I guess she was hot.
+Jerry and Rachel outside|GEORGE|You mean she just laid there topless?
+Jerry and Rachel outside|KRAMER|No, no, she got up, she walked around...
+Jerry and Rachel outside|GEORGE|Walked around? And you looked?
+Jerry and Rachel outside|KRAMER|Of course. She's got a great body, buddy. All right, I'm gonna go upstairs, I'll be right back.
+Jerry and Rachel outside|GEORGE|I can't believe that you saw her before me.
+Jerry and Rachel outside|JERRY|Think of me as a doctor. (They go outside again)
+Jerry and Rachel outside|GEORGE|Well, how good a look did you get?
+Jerry and Rachel outside|JERRY|Well what'd you mean?
+Jerry and Rachel outside|GEORGE|Well, if she was a criminal and you had to describe her to a police sketch artist...
+Jerry and Rachel outside|JERRY|They'd pick her up in about ten minutes.
+Jerry and Rachel outside|GEORGE|Great, great. So anytime you want you can just visualize her naked.
+Jerry and Rachel outside|JERRY|(looking of into the distance) I guess that's true...
+Jerry and Rachel outside|GEORGE|Stop it, stop it! It's not fair. It's not fair. I don't like this situation, Jerry. I don't like it one bit.
+Jerry and Rachel outside|JERRY|What do you want me to do? You wanna see Rachel naked?
+Jerry and Rachel outside|GEORGE|Yes, yes! The punishment should fit the crime.
+Jerry and Rachel outside|JERRY|You can see me naked. I can offer you that.
+Jerry and Rachel outside|GEORGE|It's like I'm Neil Armstrong. I turn around for a sip of Tang and you jump out first.
+Jerry and Rachel in their room, with Elaine there as well|ELAINE|Nobody ever called me breathtaking before.
+Jerry and Rachel in their room, with Elaine there as well|JERRY|I've never been called breathtaking either.
+Jerry and Rachel in their room, with Elaine there as well|ELAINE|I mean, if he thinks that that baby's breathtaking, then who's not breathtaking?
+Jerry and Rachel in their room, with Elaine there as well|JERRY|Maybe he just said it because the mother was in the room.
+Jerry and Rachel in their room, with Elaine there as well|ELAINE|Yeah, right, that's a possibility. I have to find out.
+Jerry and Rachel in their room, with Elaine there as well|JERRY|How are you gonna do that?
+Jerry and Rachel in their room, with Elaine there as well|ELAINE|I can be very clever.
+Jerry and Rachel in their room, with Elaine there as well|RACHEL|I'm gonna take a swim.
+Jerry and Rachel in their room, with Elaine there as well|ELAINE|Oh, me too. I'll meet you down. (She goes in the hall and sees George) Oh, don't go in, Rachel's getting undressed.
+Jerry and Rachel in their room, with Elaine there as well|GEORGE|Oh, okay. (Starts to walk other way and then walks to their room and goes in)
+Jerry and Rachel in their room, with Elaine there as well|RACHEL|Hey!
+Jerry and Rachel in their room, with Elaine there as well|GEORGE|Oh, sorry.
+Jerry and Rachel in their room, with Elaine there as well|RACHEL|Don't you knock?
+Jerry and Rachel in their room, with Elaine there as well|GEORGE|I'm sorry, uh, it's not like I'm gonna see something I've never seen before.
+Jerry and Rachel in their room, with Elaine there as well|JERRY|You might have.
+Jerry and Rachel in their room, with Elaine there as well|GEORGE|I didn't.
+Jerry and Rachel in their room, with Elaine there as well|JERRY|You won't.
+Jerry and Rachel in their room, with Elaine there as well|RACHEL|What'd you want anyway, George?
+Jerry and Rachel in their room, with Elaine there as well|JERRY|Yes, George. I'm kind of wondering myself. What is it what you want?
+Jerry and Rachel in their room, with Elaine there as well|GEORGE|No, I was just wondering... if you guys, uh, had any gum.
+Jerry and Rachel in their room, with Elaine there as well|JERRY|Oh! So you were swimming in the pool, and you wanted some gum.
+Jerry and Rachel in their room, with Elaine there as well|GEORGE|Yes, because the water was cold... and the chewing warms me up.
+Jerry and Rachel in their room, with Elaine there as well|RACHEL|We don't have any gum.
+Jerry and Rachel in their room, with Elaine there as well|GEORGE|Okay. (Chewing) Thanks anyway. (Continues to chew as he exits)
+Jerry and Rachel in their room, with Elaine there as well|RACHEL|Strange man.
+Jerry and Rachel in their room, with Elaine there as well|JERRY|Wait'll you get to know him.
+Jerry and Rachel in their room, with Elaine there as well|RACHEL|So where is this baby, anyway?
+Jerry and Rachel in their room, with Elaine there as well|JERRY|Oh, check it out. I guarantee you've never seen anything quite so objectionable. It's down the hall, third door on your left. (Rachel walks down hall, walks in on George changing out of his swimsuit)
+Jerry and Rachel in their room, with Elaine there as well|RACHEL|(She screams) Oh my God! I'm sorry, I thought this was the baby's room. I'm really sorry. (She exits)
+Jerry and Rachel in their room, with Elaine there as well|GEORGE|(realizing he was short changed) I was in the pool! I was in the pool!
+Jerry and George talking in Jerry's room|GEORGE|Did she do it on purpose?
+Jerry and George talking in Jerry's room|JERRY|It was my fault, I told her the wrong door.
+Jerry and George talking in Jerry's room|GEORGE|I was supposed to see her. She wasn't supposed to see me.
+Jerry and George talking in Jerry's room|JERRY|So what?
+Jerry and George talking in Jerry's room|GEORGE|Well ordinarily I wouldn't mind. But...
+Jerry and George talking in Jerry's room|JERRY|But...
+Jerry and George talking in Jerry's room|GEORGE|Well I just got back from swimming in the pool. And the water was cold...
+Jerry and George talking in Jerry's room|JERRY|Oh... You mean... shrinkage.
+Jerry and George talking in Jerry's room|GEORGE|Yes. Significant shrinkage.
+Jerry and George talking in Jerry's room|JERRY|So you feel you were short changed.
+Jerry and George talking in Jerry's room|GEORGE|Yes! I mean, if she thinks that's me she's under a complete misapprehension. That was not me, Jerry. That was not me.
+Jerry and George talking in Jerry's room|JERRY|Well, so what's the difference?
+Jerry and George talking in Jerry's room|GEORGE|What if she discusses it with Jane?
+Jerry and George talking in Jerry's room|JERRY|Oh, she's not gonna tell Jane.
+Jerry and George talking in Jerry's room|GEORGE|How do you know?
+Jerry and George talking in Jerry's room|JERRY|Women aren't like us.
+Jerry and George talking in Jerry's room|GEORGE|They're worse! They're much worse than us, they talk about everything! Couldn't you at least tell her about the shrinkage factor?
+Jerry and George talking in Jerry's room|JERRY|No, I'm not gonna tell her about your shrinkage. Besides, I think women know about shrinkage.
+Jerry and George talking in Jerry's room|GEORGE|How do women know about shrinkage?
+Jerry and George talking in Jerry's room|JERRY|Isn't it common knowledge?
+Jerry and George talking in Jerry's room|GEORGE|Do women know about shrinkage?
+Jerry and George talking in Jerry's room|ELAINE|What do you mean, like laundry?
+Jerry and George talking in Jerry's room|GEORGE|No.
+Jerry and George talking in Jerry's room|JERRY|Like when a man goes swimming... afterwards...
+Jerry and George talking in Jerry's room|ELAINE|It shrinks?
+Jerry and George talking in Jerry's room|JERRY|Like a frightened turtle!
+Jerry and George talking in Jerry's room|ELAINE|Why does it shrink?
+Jerry and George talking in Jerry's room|GEORGE|It just does.
+Jerry and George talking in Jerry's room|ELAINE|I don't know how you guys walk around with those things.
+Everyone at the dinner table eating Kramer's lobster.|MICHAEL|Thanks for the lobster, Kramer.
+Everyone at the dinner table eating Kramer's lobster.|KRAMER|Rachel, aren't you gonna have any?
+Everyone at the dinner table eating Kramer's lobster.|RACHEL|Oh, no, I can't. I'm kosher, we don't eat shellfish.
+Everyone at the dinner table eating Kramer's lobster.|KRAMER|You mean you've never tasted lobster?
+Everyone at the dinner table eating Kramer's lobster.|RACHEL|No.
+Everyone at the dinner table eating Kramer's lobster.|KRAMER|Wow. You're so pious. I really respect that. You know when you die, you're gonna get some special attention.
+Everyone at the dinner table eating Kramer's lobster.|action|Baby is heard crying
+Everyone at the dinner table eating Kramer's lobster.|CAROL|Oh, the baby's crying. I'll go get him. He can sit with us.
+Everyone at the dinner table eating Kramer's lobster.|JERRY|No, you don't wanna do that. You'll be uncomfortable.
+Everyone at the dinner table eating Kramer's lobster.|ELAINE|Yeah, finish eating. The baby's not gonna have any fun over here. We're-We're not fun for a baby.
+Everyone at the dinner table eating Kramer's lobster.|JERRY|Yeah, the lobster'll scare him.
+Everyone at the dinner table eating Kramer's lobster.|CAROL|I'm gonna get him.
+Everyone at the dinner table eating Kramer's lobster.|GEORGE|See, look at this. (wearing a very tight shirt) Rachel, my T-shirt shrunk. It used to be much bigger, and now it shrunk. You see, that's what water does. It shrinks things.
+Everyone at the dinner table eating Kramer's lobster.|ELAINE|Really? Tell us more, Mr. Science. (Rachel whispers in Jane's ear, which prompts Jane to laugh)
+Everyone at the dinner table eating Kramer's lobster.|GEORGE|What're you doing? What're you, telling secrets? What're you laughing at?
+Everyone at the dinner table eating Kramer's lobster.|JANE|It's nothing, George.
+Everyone at the dinner table eating Kramer's lobster.|GEORGE|You know, it's very impolite to tell secrets. Are you talking about me?
+Everyone at the dinner table eating Kramer's lobster.|JANE|What is it with you?
+Everyone at the dinner table eating Kramer's lobster.|JERRY|(To George) Easy big fella.
+Everyone at the dinner table eating Kramer's lobster.|MICHAEL|So Kramer, where'd you get all these lobster, at the Fleesher's Market?
+Everyone at the dinner table eating Kramer's lobster.|KRAMER|No, I got 'em in the ocean.
+Everyone at the dinner table eating Kramer's lobster.|MICHAEL|The ocean? What'd you mean?
+Everyone at the dinner table eating Kramer's lobster.|KRAMER|Well, I found this rope and I kept tugging on it, and all these lobsters came up.
+Everyone at the dinner table eating Kramer's lobster.|MICHAEL|Those are commercial lobster traps. You can't take those lobsters from there. That's against the law.
+Everyone at the dinner table eating Kramer's lobster.|KRAMER|Take it easy. There's plenty of lobsters in the ocean for everyone.
+Everyone at the dinner table eating Kramer's lobster.|MICHAEL|My father was a lobsterman. He got up every morning at four and came home every night stinking of brine! He sent me through law school with the lobsters he caught! (Kramer stands up from table)
+Everyone at the dinner table eating Kramer's lobster.|CAROL|(Entering with baby) Here he is.
+Everyone at the dinner table eating Kramer's lobster.|KRAMER|Ahhh! (Shocked after seeing the baby)
+Out on the porch, Ben and Elaine|ELAINE|Some night, huh?
+Out on the porch, Ben and Elaine|BEN|Yeah, I wish I had my telescope.
+Out on the porch, Ben and Elaine|ELAINE|Some dinner, huh?
+Out on the porch, Ben and Elaine|BEN|Nothing like fresh caught lobster.
+Out on the porch, Ben and Elaine|ELAINE|Some house, huh?
+Out on the porch, Ben and Elaine|BEN|It was built by Mark Fargman. He build a lot of these homes here.
+Out on the porch, Ben and Elaine|ELAINE|Some ugly baby, huh?
+Out on the porch, Ben and Elaine|BEN|What did you say?
+Out on the porch, Ben and Elaine|ELAINE|(improvising) I said, uh, some snuggly baby.
+Out on the porch, Ben and Elaine|BEN|He is something.
+Out on the porch, Ben and Elaine|ELAINE|Well, to tell you the truth, Dr. Feffa, I , I was surprised to hear you use a word like breathtaking to describe a baby, I mean, because you also used it referring to me.
+Out on the porch, Ben and Elaine|BEN|Well, you know Elaine, sometimes you say things just to be nice. (Elaine relieved, then confused, not knowing if he was being nice to her or to the baby)
+Rachel and Jerry in their room|JERRY|You told her?
+Rachel and Jerry in their room|RACHEL|Yeah, what's the big deal?
+Rachel and Jerry in their room|JERRY|You don't understand. This organ, it's very... schizophrenic.
+Rachel and Jerry in their room|RACHEL|Jerry, what the difference? You know, you're the ones obsessed with this stuff, not us. I'm sure it wouldn't matter to Jane.
+In Jane & George's room, Jane is packing her things|GEORGE|You're going back to New York now?
+In Jane & George's room, Jane is packing her things|JANE|Yeah, I have some things to do.
+In Jane & George's room, Jane is packing her things|GEORGE|Uh huh. Uh huh! I think you spoke to your little friend Rachel, that's what I think.
+In Jane & George's room, Jane is packing her things|JANE|So what if I did?
+In Jane & George's room, Jane is packing her things|GEORGE|And she didn't say something to you about a certain something?
+In Jane & George's room, Jane is packing her things|JANE|I don't know what you're talking about.
+In Jane & George's room, Jane is packing her things|GEORGE|*I* think that *you* think that a certain *something* is not all that it could be, when in fact it is is all that it *should* be, and *more*!
+In Jane & George's room, Jane is packing her things|JANE|(patronizing George) I'm sure it is.
+In Jane & George's room, Jane is packing her things|GEORGE|Look, you don't understand. There was shrinkage.
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|KRAMER|You looking for this? (Holding up lobster)
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|RACHEL|Oh, Kramer! You startled me.
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|KRAMER|Well, I thought you might wind up around here.
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|RACHEL|Yeah, well, I couldn't stop thinking about how everyone was enjoying the lobster so much an' well I thought I little taste wouldn't hurt, huh?
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|KRAMER|No I'm afraid I couldn't do that.
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|RACHEL|Why not?
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|KRAMER|Well, that wouldn't be kosher.
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|RACHEL|C'mon, Kramer. I really want to try it.
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|KRAMER|Nah, I'm sorry, honey. Not on my watch.
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|RACHEL|Come on, Kramer.
+Rachel enters the kitchen with Kramer sitting at table. Rachel opens fridge and Kramer lights up a cigar|KRAMER|Heyahhh!
+Rachel walks back into Jerry's bedroom.|RACHEL|I just heard a car drive out. What was that?
+Rachel walks back into Jerry's bedroom.|JERRY|Oh, that's just Jane driving home to New York in the middle of the night. (Rachel shocked)
+Breakfast table the next morning, George cooking|CAROL|George, thanks so much for making breakfast.
+Breakfast table the next morning, George cooking|ELAINE|George, these are the best scrambled eggs I've ever tasted.
+Breakfast table the next morning, George cooking|KRAMER|Ya I didn't know you could cook.
+Breakfast table the next morning, George cooking|GEORGE|Well, I'm just expressing my gratitude to our gracious host.
+Breakfast table the next morning, George cooking|BEN|Yes, George, the whole breakfast is breathtaking. (hearing this Elaine looks at him extremely annoyed)
+Breakfast table the next morning, George cooking|action|Rachel and Jerry enter
+Breakfast table the next morning, George cooking|RACHEL|Good morning.
+Breakfast table the next morning, George cooking|ALL|Hey, hey. Morning
+Breakfast table the next morning, George cooking|RACHEL|Kramer, I just want to thank you again for last night, you really saved me.
+Breakfast table the next morning, George cooking|MICHAEL|What happened?
+Breakfast table the next morning, George cooking|RACHEL|Well, I almost tried the lobster, but Kramer stopped me.
+Breakfast table the next morning, George cooking|KRAMER|Well I knew you'd regret it for the rest of your life.
+Breakfast table the next morning, George cooking|RACHEL|You're right, I would have.
+Breakfast table the next morning, George cooking|JERRY|(Referring to George) Hey, look at this guy.
+Breakfast table the next morning, George cooking|GEORGE|A little breakfast.
+Breakfast table the next morning, George cooking|JERRY|Yeah.
+Breakfast table the next morning, George cooking|GEORGE|(To Rachel) And, uh, you eat eggs, right?
+Breakfast table the next morning, George cooking|RACHEL|Yes, I do. Thank you.
+Breakfast table the next morning, George cooking|JERRY|Geez, these are delicious. Where did you learn to make eggs like this?
+Breakfast table the next morning, George cooking|RACHEL|Umm... This is so good.
+Breakfast table the next morning, George cooking|GEORGE|Ah, enjoying them?
+Breakfast table the next morning, George cooking|RACHEL|Mm-hmm.
+Breakfast table the next morning, George cooking|GEORGE|Uh, good. You know, you might wanna try eating it with one of these. (Holds up lobster bib)
+Breakfast table the next morning, George cooking|RACHEL|There's lobster in these eggs?
+Breakfast table the next morning, George cooking|GEORGE|Not that much. You know, they tend to shrink in the water.
+Breakfast table the next morning, George cooking|action|Rachel storms out of room
+Breakfast table the next morning, George cooking|JERRY|Well, I guess I gotta go, too.
+Breakfast table the next morning, George cooking|ELAINE|Well, this has turned out to be one *helluva* weekend. (Policeman knocks on door, Michael answers)
+Breakfast table the next morning, George cooking|MICHAEL|Excuse me?
+Breakfast table the next morning, George cooking|POLICE|I'm sorry to bother you, but we're trying to track down a lobster poacher that uh cleaned out on of the traps.
+Breakfast table the next morning, George cooking|KRAMER|Wonder what's goin' on.
+Breakfast table the next morning, George cooking|GEORGE|Ah, I guess I should go up and apologize.
+Breakfast table the next morning, George cooking|MICHAEL|There he is, officer. (Michael points to Kramer, Kramer waves to policeman)
+George walks into Jerry and Rachel's room|RACHEL|Ahh! Don't you ever knock?
+Jerry, Elaine, and George in the car.|GEORGE|I don't know why Rachel had to drive back with Michael and Carol.
+Jerry, Elaine, and George in the car.|ELAINE|Hey, if you saw me naked, I wouldn't want to ride back in the same car with you either.
+Jerry, Elaine, and George in the car.|JERRY|I still can't believe Michael finked on Kramer.
+Jerry, Elaine, and George in the car.|ELAINE|How is he gonna pay off a thousand dollar fine?
+Jerry, Elaine, and George in the car.|JERRY|They got some sort of program.
+Back to the car with Jerry, Elaine and George|GEORGE|Hey, there's a tomato stand, let's stop, I can get some more.
+Back to the car with Jerry, Elaine and George|JERRY|Hey, isn't that Michael's car?
+Back to the car with Jerry, Elaine and George|ELAINE|There's Rachel.
+Back to the car with Jerry, Elaine and George|GEORGE|Where? (He looks out window and gets hit by a tomato)

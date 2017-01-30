@@ -1,0 +1,377 @@
+Scene: In the Play Now office|THOMASSOULO|George, you’re not really handicapped, are you?
+Scene: In the Play Now office|GEORGE|I’ve had my difficulties.
+Scene: In the Play Now office|THOMASSOULO|I saw you running down Amsterdam Avenue lifting that 200 pound motorized cart with one hand.
+Scene: In the Play Now office|GEORGE|Mr. Thomassoulo during times of great stress, people are capable of super human strength. Have you ever seen the Incredible Hulk, sir?
+Scene: In the Play Now office|THOMASSOULO|No
+Scene: In the Play Now office|GEORGE|How about the old Spider Man live action show?
+Scene: In the Play Now office|THOMASSOULO|George, I’ve realized we’ve signed a one-year contract with you, but at this point I think it’s best that we both go our separate ways.
+Scene: In the Play Now office|GEORGE|I don’t understand.
+Scene: In the Play Now office|THOMASSOULO|We don’t like you. We want you to leave.
+Scene: In the Play Now office|GEORGE|Clearer
+Scene: At Monks Café|JERRY|So you’re staying at Play Now?
+Scene: At Monks Café|GEORGE|Why not? Pay is good. I got dental, private access to one of the great handicapped toilets in the city.
+Scene: At Monks Café|JERRY|But they not you aren’t handicapped, aren’t you ashamed?
+Scene: At Monks Café|GEORGE|They’re the ones who should be ashamed. They signed me to a one-year contract. As long as I show up for work every day, they have to pay me.
+Scene: At Monks Café|action|Elaine walks in
+Scene: At Monks Café|ELAINE|Hey
+Scene: At Monks Café|GEORGE|Hello-o-o-o Elaine!
+Scene: At Monks Café|ELAINE|What’s that?
+Scene: At Monks Café|JERRY|Oh, it’s just this stupid thing.
+Scene: At Monks Café|ELAINE|Well, I’m sure it’s stupid. It’s not about me, is it?
+Scene: At Monks Café|JERRY|(doing the voice) No-o-o-o.
+Scene: At Monks Café|GEORGE|(doing the voice) Not at all.
+Scene: At Monks Café|ELAINE|Tell me!
+Scene: At Monks Café|JERRY|All right. You know this girl Clare I am seeing?
+Scene: At Monks Café|ELAINE|Yeah.
+Scene: At Monks Café|JERRY|Well, he and I starting joking that when she falls asleep her stomach stays awake all night and talks to me.
+Scene: At Monks Café|ELAINE|How is it talking?
+Scene: At Monks Café|JERRY|Well, her belly button is like a mouth. (doing the voice) I’m bored. Talk to me.
+Scene: At Monks Café|ELAINE|Oh I gotta start taking these "stupid" warnings more seriously.
+Scene: At Monks Café|action|Puddy walks in
+Scene: At Monks Café|JERRY|Hey, look whose here - Puddy.
+Scene: At Monks Café|ELAINE|My Puddy? But we broke up.
+Scene: At Monks Café|JERRY|And yet he continues to live.
+Scene: At Monks Café|action|Puddy walks over to the table
+Scene: At Monks Café|PUDDY|Hey Benes, How are you?
+Scene: At Monks Café|ELAINE|I’m doing great.
+Scene: At Monks Café|PUDDY|Great. (pauses) See ya.
+Scene: At Monks Café|JERRY|Well, that’s it. You two are back together.
+Scene: At Monks Café|ELAINE|What?
+Scene: At Monks Café|JERRY|The bump into. The bump into always leads to the backslide.
+Scene: At Monks Café|ELAINE|David and I will not be getting back together.
+Scene: At Monks Café|JERRY|Elaine, breaking up is like knocking over a coke machine. You can’t do it in one push, you got to rock it back and forth a few times, and then it goes over.
+Scene: At Monks Café|GEORGE|That’s beautiful.
+Scene: At Monks Café|ELAINE|What about you? You were even engaged, and you cut it off just like that.
+Scene: At Monks Café|JERRY|That’s different. I didn’t have feelings for those people. But you, you’ll backslide
+Scene: At Monks Café|ELAINE|You want to bet?
+Scene: At Monks Café|JERRY|Stakes?
+Scene: At Monks Café|ELAINE|50
+Scene: At Monks Café|JERRY|Dollars?
+Scene: At Monks Café|ELAINE|All right. Witness? (looks at George).
+Scene: At Monks Café|GEORGE|Witness.
+Scene: At Monks Café|JERRY|Done.
+Scene: At Monks Café|GEORGE|Percentage?
+Scene: At Jerry’s apartment|CLARE|So I’ll call you tonight?
+Scene: At Jerry’s apartment|JERRY|Yeah.
+Scene: At Jerry’s apartment|CLARE|What’s wrong with the belt?
+Scene: At Jerry’s apartment|JERRY|I went to the movies last night, I went to the bathroom and I unbuckled a little wobbly and the buckle kind of banged against the side of the urinal. So…(throws away belt) that’s it!
+Scene: At Jerry’s apartment|CLARE|So, you’re insane?
+Scene: At Jerry’s apartment|JERRY|Oh yes, quite.
+Scene: At Jerry’s apartment|action|Kramer walks in
+Scene: At Jerry’s apartment|KRAMER|Hello!
+Scene: At Jerry’s apartment|JERRY|Of course it’s a sliding scale.
+Scene: At Jerry’s apartment|CLARE|Catch you later.
+Scene: At Jerry’s apartment|JERRY|(doing the voice) La la la.
+Scene: At Jerry’s apartment|KRAMER|(doing the voice) La la la.
+Scene: At Jerry’s apartment|action|Kramer is reading the newspaper at the table
+Scene: At Jerry’s apartment|KRAMER|Look at this, they are redoing the Cloud Club.
+Scene: At Jerry’s apartment|JERRY|Oh, that restaurant on top of the Chrysler building? Yeah, that’s a good idea.
+Scene: At Jerry’s apartment|KRAMER|Of course it’s a good idea, it’s my idea. I conceived this whole project two years ago.
+Scene: At Jerry’s apartment|JERRY|Which part? The renovating the restaurant you don’t own part or spending the two hundred million you don’t have part?
+Scene: At Jerry’s apartment|KRAMER|You see I come up with these things, I know they’re gold, but nothing happens. You know why?
+Scene: At Jerry’s apartment|JERRY|No resources, no skill, no talent, no ability, no brains.
+Scene: At Jerry’s apartment|KRAMER|(interrupts) No, no…time! It’s all this meaningless time. Laundry, grocery, shopping, coming in here talking to you. Do you have any idea how much time I waste in this apartment?
+Scene: At Jerry’s apartment|JERRY|I can ball park it.
+Scene: At Jerry’s apartment|action|Elaine walks in – how did she come up without the buzzer?
+Scene: At Jerry’s apartment|ELAINE|(doing the voice) Hello-o-o-o!
+Scene: At Jerry’s apartment|KRAMER|Here we go; now she comes in. Now my whole day is shot!
+Scene: At Jerry’s apartment|JERRY|Hey, I called you last night, where were you?
+Scene: At Jerry’s apartment|ELAINE|(looking VERY guilty) I went out with a (fake cough) a friend.
+Scene: At Jerry’s apartment|JERRY|George?
+Scene: At Jerry’s apartment|ELAINE|(looking guiltier) No, no…no.
+Scene: At Jerry’s apartment|JERRY|Well, I was here, that’s everyone (laughing).
+Scene: At Jerry’s apartment|ELAINE|(laughing).
+Scene: At Jerry’s apartment|JERRY|Are those the same shoes as yesterday?
+Scene: At Jerry’s apartment|ELAINE|Oh, you know I wear these shoes all the time.
+Scene: At Jerry’s apartment|JERRY|Your hair, it’s somewhat de-poofed.
+Scene: At Jerry’s apartment|ELAINE|It’s the new look. You know Heroin Cheek?
+Scene: At Jerry’s apartment|JERRY|Wait a second, what’s going on here?
+Scene: At Jerry’s apartment|ELAINE|Nothing, nothing.
+Scene: At Jerry’s apartment|JERRY|(screams).
+Scene: At Jerry’s apartment|ELAINE|(screams).
+Scene: At Jerry’s apartment|JERRY|You’re wearing the same clothes as yesterday!!! (pauses) You saw Puddy!
+Scene: At Jerry’s apartment|KRAMER|Hoochie moochie. (haha)
+Scene: At Jerry’s apartment|JERRY|Hand it over. Pay up.
+Scene: At Jerry’s apartment|ELAINE|No! It’s an isolated, sexual incident. We are not back together!
+Scene: At Jerry’s apartment|JERRY|Then what do you call it? People don’t just bump into each other and have sex. This isn’t cinemax.
+Scene: At Jerry’s apartment|ELAINE|It was no big deal OK? I mean we fooled around, then we went out and grabbed a little dinner.
+Scene: At Jerry’s apartment|JERRY|Ah, dinner! That’s it, you’re all the way back!
+Scene: At Jerry’s apartment|ELAINE|Ugh!
+Scene: At Jerry’s apartment|JERRY|Sex, that’s meaningless, I can understand that, but dinner; that’s heavy. That’s like an hour.
+Scene: At Jerry’s apartment|KRAMER|(still reading the paper) Man, 2.9 percent financing on a Toyota Onedun (Sp?). That was my idea too!
+Scene: At Play Now|GEORGE|Good Morning!
+Scene: At Play Now|GEORGE|Hi Allison, that’s a nice dress.
+Scene: At Play Now|ALLISON|Don’t even look at me.
+Scene: At Play Now|GEORGE|Hey Glenn!
+Scene: At Play Now|GLENN|Hey, go tell hell!
+Scene: At Play Now|GEORGE|Heard that one already.
+Scene: At Jerry’s apartment|action|Jerry walks in. Kramer is showing his "intern," Darren around
+Scene: At Jerry’s apartment|KRAMER|…So that’s the bedroom. Here’s the bathroom. If you need to, you can familiarize yourself with the kitchen…Yeah, go ahead and look through some of the drawers.
+Scene: At Jerry’s apartment|JERRY|And you are?
+Scene: At Jerry’s apartment|DARREN|Oh, hey, I’m Darren. I’m new here.
+Scene: At Jerry’s apartment|KRAMER|Yeah, that’s Jerry, you don’t have to worry about him. Why don’t you go across the hall and get started on that mail.
+Scene: At Jerry’s apartment|DARREN|Right!
+Scene: At Jerry’s apartment|KRAMER|He’s a go getter!
+Scene: At Jerry’s apartment|JERRY|Who’s he?
+Scene: At Jerry’s apartment|KRAMER|My intern from NYU. Well, you remember my corporation, Kramerica Industries.
+Scene: At Jerry’s apartment|JERRY|Alright.
+Scene: At Jerry’s apartment|KRAMER|Well, apparently NYU is very enthusiastic about their students getting some real world corporate experience.
+Scene: At Jerry’s apartment|JERRY|But you only provide fantasy world corporate experience.
+Scene: At Jerry’s apartment|KRAMER|Well, this will really free up my time so I can focus on more important things, like my bladder system.
+Scene: At Jerry’s apartment|JERRY|Alright, it’s time to go.
+Scene: At Jerry’s apartment|KRAMER|Jerry, it’s not for people, it’s for oil tankers.
+Scene: At Jerry’s apartment|JERRY|(sarcastically) I know!
+Scene: At Jerry’s apartment|action|Jerry tries to shove Kramer out the door
+Scene: At Jerry’s apartment|KRAMER|You see the idea is for a rubber ball inside the tanker so if it crashes, the oil won’t spill out.
+Scene: At Jerry’s apartment|JERRY|Actually, that is not a bad idea.
+Scene: At Jerry’s apartment|KRAMER|(smiles) yeah.
+Scene: At Jerry’s apartment|JERRY|Now, it’s time to go.
+Scene: At Jerry’s apartment|action|slams door
+Scene: At Jerry’s apartment|action|phone rings
+Scene: At Jerry’s apartment|JERRY|Hello
+Scene: At Jerry’s apartment|GEORGE|(doing the voice) Hello-o-o-o. (He’s sitting on the floor in his Play Now office).
+Scene: At Jerry’s apartment|JERRY|(doing the voice) Hello-o-o-o. (pauses) So, what’s going on?
+Scene: At Jerry’s apartment|GEORGE|Siege mentality, Jerry. They really want me out of here. They’ve downgraded me to some sort of a bunker. I’m like Hitler’s last days here.
+Scene: At Jerry’s apartment|JERRY|So, are you going to leave?
+Scene: At Jerry’s apartment|GEORGE|Oh no! I’m vigilant. They’ll never get me out. I’m like a weed, Jerry.
+Scene: At Jerry’s apartment|JERRY|I thought you’re like Hitler in the bunker?
+Scene: At Jerry’s apartment|GEORGE|I’m a weed in Hitler’s bunker.
+Scene: At Jerry’s apartment|JERRY|I’m getting a little uncomfortable with the Hitler stuff. (his other line beeps) I’m getting another call, see ya…(answers call) Hello!
+Scene: At Jerry’s apartment|DARREN|Hi, this is Darren from Kramer’s office. Mr. Kramer would like to schedule a lunch with you at Monk’s coffee shop.
+Scene: At Jerry’s apartment|JERRY|(looking shocked) Really? When?
+Scene: At Jerry’s apartment|DARREN|In 10 minutes. Do you need directions?
+Scene: At Jerry’s apartment|JERRY|No, I don’t.
+Scene: At Jerry’s apartment|DARREN|Well, I’ll call back in 5 minutes to confirm.
+Scene: At Jerry’s apartment|KRAMER|Yeah, 5.
+Scene: At Jerry’s apartment|action|Elaine walks in – again, how did she get up without the buzzer?
+Scene: At Jerry’s apartment|ELAINE|Hey!
+Scene: At Jerry’s apartment|JERRY|Hey! So, where’s my money?
+Scene: At Jerry’s apartment|ELAINE|No money, I am Puddy free. So, are we eating or what?
+Scene: At Jerry’s apartment|JERRY|Oh yeah, hold on.
+Scene: At Jerry’s apartment|action|Jerry calls Kramer and Darren answers
+Scene: At Jerry’s apartment|JERRY|Hello Darren, this is Jerry from Jerry’s office. (Elaine is looking confused). We’re going to be three for lunch. (Elaine is still looking confused) What do you mean he’s already left?
+Scene: At Jerry’s apartment|action|Kramer walks in
+Scene: At Jerry’s apartment|JERRY|Hey, Elaine is going to come with us, alright?
+Scene: At Jerry’s apartment|KRAMER|What? When did this happen?
+Scene: At Jerry’s apartment|JERRY|Well, just…
+Scene: At Jerry’s apartment|KRAMER|(yelling) DARREN!
+Scene: At Elaine’s apartment|action|Sitting on the couch thinking to herself
+Scene: At Elaine’s apartment|ELAINE|I am not calling Puddy. What did I do with my gloves? Oh, I bet I left them over at Puddy’s. I should call him. I need those gloves. No, I better not. I’ll call. (looks at table) Oh, look at that! There are the gloves. I was just about to call. There they are. That’s funny. That’s really funny. That’s really really funny. You know who loves funny stories, David Puddy. (Picks up phone).
+Scene: At Monk’s Cafe|GEORGE|Well, Play Now is through playing. They turned the heat way up in my office. They tried to sweat me out.
+Scene: At Monk’s Cafe|JERRY|Do you have to write all this stuff down.
+Scene: At Monk’s Cafe|DARREN|Well, Mr. Kramer is in a meeting with Mr. Lohmase and he didn’t want to miss anything.
+Scene: At Monk’s Cafe|JERRY|So, how hot did it get?
+Scene: At Monk’s Cafe|GEORGE|I don’t know, 120, 130…Then they sent some guys to sandblast for 6 hours. Tomorrow they are putting in asbestos.
+Scene: At Monk’s Cafe|JERRY|I guess you can take anything, but actual work.
+Scene: At Monk’s Cafe|GEORGE|Bring it on!
+Scene: At Monk’s Cafe|action|Kramer walks in
+Scene: At Monk’s Cafe|GEORGE|(doing the voice) Hello-o-o-o Kramer!
+Scene: At Monk’s Cafe|JERRY|(doing the voice) Wel-l-l-c-o-m-e!
+Scene: At Monk’s Cafe|GEORGE|(doing the voice) La la la.
+Scene: At Monk’s Cafe|KRAMER|Sorry I couldn’t get out of there, what did I miss? (asking his "intern")
+Scene: At Monk’s Cafe|DARREN|Well, after ordering, Mr. Seinfeld and Mr. Costanza debated on whether or not iron man wore some sort under garment between his skin and his iron suit…
+Scene: At Monk’s Cafe|KRAMER|Uh huh…
+Scene: At Monk’s Cafe|GEORGE|(Interrupts) And I still say he’s naked under there!
+Scene: At Monk’s Cafe|JERRY|Oh that makes a lot of sense.
+Scene: At Monk’s Cafe|GEORGE|Oh, shut up!
+Scene: At Monk’s Cafe|DARREN|…Then Mr. Seinfeld went to the restroom, at which point Mr. Costanza scooped ice out of Mr. Seinfeld’s drink with his bare hands using it to wash up (Jerry is taking a sip of water and looking mad) then Mr. Costanza remarked to me, "This never happened." (Jerry then spits out the water).
+Scene: At Monk’s Cafe|action|George is looking pissed off
+Scene: At Jerry’s apartment in his bed|JERRY|(giggling)
+Scene: At Jerry’s apartment in his bed|CLARE|What’s so funny?
+Scene: At Jerry’s apartment in his bed|JERRY|Oh, nothing. (still giggling)
+Scene: At Jerry’s apartment in his bed|CLARE|What are you laughing about? Tell me.
+Scene: At Jerry’s apartment in his bed|JERRY|Oh all right, this is really dumb, really stupid. We’ve been doing this silly, dumb voice.
+Scene: At Jerry’s apartment in his bed|action|Clare storms out of the room mad!
+Scene: At Jerry’s apartment in his bed|CLARE|So is it fun humiliating me?
+Scene: At Jerry’s apartment in his bed|JERRY|No, it’s not you. It’s your stomach, he’s taking with this funny, booming, jovial voice. (doing the voice) Hello-o-o-o.
+Scene: At Jerry’s apartment in his bed|CLARE|So you think I’m fat?
+Scene: At Jerry’s apartment in his bed|JERRY|No it’s…
+Scene: At Jerry’s apartment in his bed|action|Darren walks in
+Scene: At Jerry’s apartment in his bed|DARREN|Mr. Kramer says, "hey buddy!"
+Scene: At Jerry’s apartment in his bed|JERRY|Hey, we’re kind of in the middle of something here. Would you mind coming back later?
+Scene: At Jerry’s apartment in his bed|DARREN|Oh yeah sure, sure. Should we set something up now?
+Scene: At Jerry’s apartment in his bed|JERRY|(Screams) GET OUT!
+Scene: At Jerry’s apartment in his bed|CLARE|I’m leaving too.
+Scene: At Jerry’s apartment in his bed|JERRY|No body said you’re fat. He’s a loving character, like the Kool-ade guy.
+Scene: At Jerry’s apartment in his bed|CLARE|He is fat!
+Scene: At Jerry’s apartment in his bed|JERRY|No, he’s just a little bloated.
+Scene: At Jerry’s apartment in his bed|CLARE|Good-bye!
+Scene: At Jerry’s apartment in his bed|JERRY|It’s mostly water weight.
+Scene: At Jerry’s apartment in his bed|action|Kramer walks in
+Scene: At Jerry’s apartment in his bed|KRAMER|Boysenberry, the kid is still learning.
+Scene: At Jerry’s apartment in his bed|action|Darren is standing in the hallway on the phone
+Scene: At Jerry’s apartment in his bed|DARREN|Mr. Kramer…Dean, my internship is on line two, she wants to set up a meeting.
+Scene: At Jerry’s apartment in his bed|KRAMER|Yeah, well nothing before noon.
+Scene: At Jerry’s apartment in his bed|JERRY|Line two?
+Scene: At Jerry’s apartment in his bed|KRAMER|Yeah, your phone is line one.
+Scene: At Jerry’s apartment in his bed|JERRY|Oh…
+Scene: At Elaine’s apartment|PUDDY|So the gloves were right by the phone. That is pretty funny.
+Scene: At Elaine’s apartment|ELAINE|See, this is what Jerry’s doesn’t understand. We can see each other. We can see each other every day, but it doesn’t mean we are back together.
+Scene: At Elaine’s apartment|PUDDY|I mean I love just seeing you and having sex.
+Scene: At Elaine’s apartment|ELAINE|Yeah.
+Scene: At Elaine’s apartment|PUDDY|Not having to do all that…you know…work.
+Scene: At Elaine’s apartment|ELAINE|Well, either way…
+Scene: At Elaine’s apartment|PUDDY|All that calling you, and buying you stuff…
+Scene: At Elaine’s apartment|ELAINE|David…
+Scene: At Elaine’s apartment|PUDDY|Caring about how everyone at work isn’t as smart as you. It’s brutal.
+Scene: At Elaine’s apartment|ELAINE|Alright that’s it! We’re back together!
+Scene: At Elaine’s apartment|PUDDY|Oh, no.
+Scene: At Elaine’s apartment|ELAINE|Oh, yeah.
+Scene: At Elaine’s apartment|PUDDY|Look Elaine, be reasonable.
+Scene: At Elaine’s apartment|action|Elaine kisses Puddy
+Scene: At Elaine’s apartment|ELAINE|Get those clothes off. You’re going to spend the night and we’re going to cuddle.
+Scene: At Elaine’s apartment|PUDDY|What?
+Scene: At Elaine’s apartment|ELAINE|You heard me. Strip!
+Scene: At Play Now|action|George is walking in the hallway to his office. He sees his office has been boarded up
+Scene: At Play Now|GEORGE|(whistling)….(laughing)….Alright……OK….
+Scene: At Play Now|action|George goes through air vent – in his office
+Scene: At Play Now|GEORGE|(on phone – calling secretary) Hello Margery, George Costanza. How are you sweet heart? Listen, can you give Mr. Thomassoulo a message for me? …Yes. If he needs me, tell him (screams) I’M IN MY OFFICE! Thanks.
+Scene: At NYU|KRAMER|Dean Jones, you wanting to talk to me?
+Scene: At NYU|KRAMER|…Yeah.
+Scene: At NYU|KRAMER|I know it sounds pretty glamorous, but it’s business as usual at Kramerica.
+Scene: At NYU|KRAMER|And with Darren’s help, we’ll get that chicken.
+Scene: At NYU|KRAMER|Well, I have to say this seems capricious and arbitrary.
+Scene: At Jerry’s apartment|action|Jerry & Clare are talking by the doorway
+Scene: At Jerry’s apartment|JERRY|So you’re sure you’re not still angry about last night?
+Scene: At Jerry’s apartment|CLARE|No, I’m fine. Just as long as you don’t ever do that voice again.
+Scene: At Jerry’s apartment|JERRY|Never?
+Scene: At Jerry’s apartment|CLARE|Never.
+Scene: At Jerry’s apartment|JERRY|What about if you’re not around?
+Scene: At Jerry’s apartment|CLARE|No!
+Scene: At Jerry’s apartment|JERRY|So I have to choose between seeing you and doing the voice?
+Scene: At Jerry’s apartment|CLARE|That’s right.
+Scene: At Jerry’s apartment|JERRY|I can do that.
+Scene: At Jerry’s apartment|CLARE|So what’s your decision?
+Scene: At Jerry’s apartment|JERRY|I don’t know.
+Scene: At Jerry’s apartment|action|At the dock or beach
+Scene: At Jerry’s apartment|action|Jerry is thinking to himself – looking quite funny
+Scene: At Jerry’s apartment|action|He’s thinking about all the times him and Clare spent together. He’s trying to decide if he likes her more or the voice more
+Scene: At Jerry’s apartment|action|Jerry knocks on Clare’s door
+Scene: At Jerry’s apartment|CLARE|Jerry…HI.
+Scene: At Jerry’s apartment|JERRY|(doing the voice) Hello-o-o-o. La-la-la. (haha)
+Scene: At Jerry’s apartment|GEORGE|You broke up with her? Why?
+Scene: At Jerry’s apartment|JERRY|So we could do the voice. (doing the voice) La-la-la. What’s the matter?
+Scene: At Jerry’s apartment|GEORGE|I think I’m getting tired of it. I mean is that all it does? Hello? La-la-la?
+Scene: At Jerry’s apartment|JERRY|No, it can do anything. It can be Spanish. (doing the voice) Hola. Hello-o-o-o.
+Scene: At Jerry’s apartment|GEORGE|I think I like the girl better than the voice.
+Scene: At Jerry’s apartment|JERRY|Really?
+Scene: At Jerry’s apartment|action|Elaine walks in – how does she keep getting up without that buzzer?!
+Scene: At Jerry’s apartment|JERRY|(doing the voice) Hello-o-o-o.
+Scene: At Jerry’s apartment|ELAINE|Still?
+Scene: At Jerry’s apartment|GEORGE|I told you.
+Scene: At Jerry’s apartment|ELAINE|Alright, here you go, choke on it (hands him money).
+Scene: At Jerry’s apartment|JERRY|See, never bet against the backslide. I knew you two would get back together.
+Scene: At Jerry’s apartment|ELAINE|Yeah, well not for long. I’m breaking up with him.
+Scene: At Jerry’s apartment|JERRY|No, I don’t think so. I’ve seen you two together. You make each other miserable. It’s kismet.
+Scene: At Jerry’s apartment|ELAINE|Double or nothing.
+Scene: At Jerry’s apartment|JERRY|Done.
+Scene: At Jerry’s apartment|GEORGE|(talking from bathroom) Witness?
+Scene: At Jerry’s apartment|JERRY|You’re in there again.
+Scene: At Jerry’s apartment|GEORGE|I think Play Now is putting something in my food.
+Scene: At Jerry’s apartment|action|Kramer walks in
+Scene: At Jerry’s apartment|ELAINE|Alright, I’m out of here.
+Scene: At Jerry’s apartment|JERRY|What is this? (Kramer is wearing jeans that look like it doesn’t fit him).
+Scene: At Jerry’s apartment|KRAMER|I don’t know. I found them in your closet. Ever since Darren left I haven’t been able to find anything. He took all my clothes to some cleaners. I’m clueless. (looks at clock) Is that clock right?
+Scene: At Jerry’s apartment|JERRY|Yeah. Nine o’clock.
+Scene: At Jerry’s apartment|KRAMER|I was supposed to pick up Newman at the zoo twelve hours ago.
+Scene: At Jerry’s apartment|JERRY|(doing the voice) Good-bye Kramer.
+Scene: At Jerry’s apartment|KRAMER|Jerry, buddy, I got to tell you something. That voice is played.
+Scene: At Jerry’s apartment|JERRY|Really?
+Scene: At Jerry’s apartment|KRAMER|So played.
+Scene: At Jerry’s apartment|GEORGE|I told you.
+Scene: Hallway, Darren is knocking on Kramer’s door|KRAMER|Darren? What are you doing here? The college canceled the internship.
+Scene: Hallway, Darren is knocking on Kramer’s door|DARREN|I don’t care about the internship. I care about Kramerica.
+Scene: Hallway, Darren is knocking on Kramer’s door|KRAMER|Kramerica is no more.
+Scene: Hallway, Darren is knocking on Kramer’s door|DARREN|What about the oil tanker bladder system? We were going to put an end to maritime oil spills.
+Scene: Hallway, Darren is knocking on Kramer’s door|KRAMER|Probably. Darren, you go home. Forget about Kramerica.
+Scene: Hallway, Darren is knocking on Kramer’s door|action|Kramer slams door
+Scene: Hallway, Darren is knocking on Kramer’s door|action|Kramer opens door
+Scene: Hallway, Darren is knocking on Kramer’s door|KRAMER|Well, you’re still here?
+Scene: Hallway, Darren is knocking on Kramer’s door|DARREN|I haven’t had time to leave.
+Scene: Hallway, Darren is knocking on Kramer’s door|KRAMER|Well, I haven’t changed my mind.
+Scene: Hallway, Darren is knocking on Kramer’s door|action|Kramer slams door
+Scene: Hallway, Darren is knocking on Kramer’s door|action|Kramer opens door
+Scene: Hallway, Darren is knocking on Kramer’s door|KRAMER|Well, you are a tenacious little monkey. Alright, I’ll do it. Kramerica industries lives! Let’s get back to work!
+Scene: Hallway, Darren is knocking on Kramer’s door|action|Kramer slams door
+Scene: Hallway, Darren is knocking on Kramer’s door|action|Kramer opens door
+Scene: Hallway, Darren is knocking on Kramer’s door|KRAMER|Let’s see what Jerry has to eat.
+Scene: At Play Now – in the bosses office|THOMASSOULO|You win George. We’ve had it. If you leave right now, Play Now will give you six months pay. That’s half of your entire contract. Please…just go.
+Scene: At Play Now – in the bosses office|GEORGE|You see if I stay the whole year, I get it all.
+Scene: At Play Now – in the bosses office|THOMASSOULO|Want to play hand ball huh? Fine. (calls on intercom) Attention Play Now employees, George Costanza’s handicapped bathroom is now open on the sixteenth floor to all employees and their families.
+Scene: At Play Now – in the bosses office|GEORGE|Well played.
+Scene: At Play Now – in the bosses office|THOMASSOULO|I’ll see you in hell Costanza.
+Scene: At Jerry’s apartment|JERRY|(on the phone with Clare) Clare thanks for giving me a second chance. Our relationship is certainly worth more than some silly, stupid voice. Hold on one second. (George walks in – Jerry asks George) So we definitely don’t want to do the voice anymore? (George shakes his head NO) Alright, we’re back together again, great. Bye bye.
+Scene: Hallway – Kramer & Darren are pushing an oil tank|KRAMER|Hey.
+Scene: Hallway – Kramer & Darren are pushing an oil tank|JERRY|Trouble down at the plant?
+Scene: Hallway – Kramer & Darren are pushing an oil tank|KRAMER|It’s a tank of oil. Darren and I are finally going to test out my bladder system.
+Scene: Hallway – Kramer & Darren are pushing an oil tank|GEORGE|You have to drink that whole thing?
+Scene: Hallway – Kramer & Darren are pushing an oil tank|KRAMER|No. No. No. It’s for oil tankers. All I need to do is fill some sort of rubber container with oil and then drop it to see whether or not it can restrain the impact.
+Scene: Hallway – Kramer & Darren are pushing an oil tank|JERRY|I understand (not really understanding, lol).
+Scene: Hallway – Kramer & Darren are pushing an oil tank|GEORGE|Would a giant rubber ball work?
+Scene: Hallway – Kramer & Darren are pushing an oil tank|KRAMER|Conceivably.
+Scene: Hallway – Kramer & Darren are pushing an oil tank|GEORGE|Well, Play Now has all kinds of different rubber balls. Why don’t we test your bladder system at my office?
+Scene: Hallway – Kramer & Darren are pushing an oil tank|JERRY|You’re not…
+Scene: Hallway – Kramer & Darren are pushing an oil tank|GEORGE|Oh, yes I am. Mr. Thomassoulo likes to play dirty. Well, there’s nothing dirtier than a giant ball of oil.
+Scene: At Monk’s Cafe|PUDDY|Hey, you want to split a root beer (I think that’s what he says)?
+Scene: At Monk’s Cafe|ELAINE|I don’t think so David, we’re through.
+Scene: At Monk’s Cafe|PUDDY|Oh…That’s a nice sweater (Elaine smiles).
+Scene: At Elaine’s house – the two are in bed|ELAINE|Whew that was a dozy.
+Scene: At Jerry’s apartment|JERRY|Go again?
+Scene: At Jerry’s apartment|ELAINE|Book it.
+Scene: At Jerry’s apartment|GEORGE|(again from bathroom) Witness.
+Scene: At Elaine’s apartment|ELAINE|David I know this hurts, but it’s the way it has to be (Puddy is giving her a look like he’s going to still get some).
+Scene: At Jerry’s apartment|action|Elaine is placing money on the table one by one
+Scene: At Jerry’s apartment|JERRY|Ha ha ha. Ha ha ha ha.
+Scene: Jerry and Elaine at the movies|ELAINE|I’m going to get some popcorn.
+Scene: Jerry and Elaine at the movies|action|Elaine hands Jerry money
+Scene: Jerry and Elaine at the movies|ELAINE|So, how did it end?
+Scene: Jerry and Elaine at the movies|JERRY|They got away.
+Scene: Jerry and Elaine at the movies|ELAINE|uh.
+Scene: At Elaine’s apartment|ELAINE|Listen David, I’ve got to run. Can you lend me fifty bucks?
+Scene: At Play Now|action|Darren & Kramer are pushing the ball of oil – Jerry walks in
+Scene: At Play Now|JERRY|Hey.
+Scene: At Play Now|KRAMER|Did you bring the video camera?
+Scene: At Play Now|JERRY|Yeah, I put a six hour tape in. That should cover the experiment, the arrest, and most of your trial. Alright, I’ll see ya.
+Scene: At Play Now|GEORGE|Oh, you might want to stick around Jerry. Mr. Thomassoulo picked the wrong man to hire because he was fake handicapped.
+Scene: At Play Now|JERRY|I can’t. I got to meet Clare.
+Scene: At Play Now|KRAMER|You gave up the voice?
+Scene: At Play Now|JERRY|Yeah, I thought it was stupid. Unless you guys are liking it again.
+Scene: At Play Now|JERRY|Darren?
+Scene: At Play Now|DARREN|Sorry Mr. Seinfeld.
+Scene: At Play Now|JERRY|Uh, bathroom.
+Scene: At Play Now|GEORGE|Hey, use mine. I’ll let you in.
+Scene: At Play Now|JERRY|I thought it was open to the public.
+Scene: At Play Now|GEORGE|I uh, took care of that.
+Scene: At Play Now|action|Both go to the bathroom, which looks really nice
+Scene: At Play Now|JERRY|Wow! Zanadu . No wonder you’re putting in so many hours. (looks at urinal) May I?
+Scene: At Play Now|GEORGE|I insist. I’ll fix us a drink. (phone rings – who would that be?) I got it.
+Back to Kramer & Darren in George’s office|KRAMER|Whew. You know Darren, if you would have told me twenty-five years ago that some day I’d be standing here about to solve the worlds energy problems, I would’ve said you’re crazy… Now let’s push this giant ball of oil out the window.
+Back in the bathroom|GEORGE|So, check out my view.
+Back in the bathroom|JERRY|Wow! Hey, there’s Clare. I better go down.
+Back in the bathroom|GEORGE|Hey, there’s Kramer & Darren.
+Back in the bathroom|JERRY|There’s the giant ball of oil. Clare’s right underneath that thing. Clare! Hello-o-o-o! Hello-o-o-o! Hello-o-o-o!
+Back in the bathroom|CLARE|I don’t believe this. I am not looking up if you’re going to do that voice.
+Back in the bathroom|KRAMER|Bombs away (Uh oh).
+Back in the bathroom|JERRY|This is going to be a shame.
+Back in the bathroom|action|SPLAT!
+Back in the bathroom|GEORGE|Hello.
+Back in the bathroom|KRAMER|Well, that didn’t work. Hey, how about this…ketchup and mustard in the same bottle?
+Back in the bathroom|DARREN|Oh that sounds interesting sir.
+Back in the bathroom|KRAMER|Yeah.
+Back in the bathroom|action|Police sirens – uh oh
+Scene: At Monk’s Café|JERRY|Clare won her lawsuit against Play Now. Gee, Play Now is filing for bankruptcy. I guess you’re not going in anymore.
+Scene: At Monk’s Café|GEORGE|Yeah.
+Scene: At Monk’s Café|JERRY|So they’re not paying you your…
+Scene: At Monk’s Café|GEORGE|No.
+Scene: At Monk’s Café|JERRY|So you’re pretty much…
+Scene: At Monk’s Café|GEORGE|Yeah.
+Scene: At Monk’s Café|JERRY|What ever happened to Darren?
+Scene: At Monk’s Café|KRAMER|Darren is going away for a long long time.
+Scene: At Monk’s Café|JERRY|So Clare sure looked real funny covered in oil like that… (doing the voice) Hello-o-o-o I got beamed with a giant ball of oil…
+Scene: At Monk’s Café|GEORGE|(doing the voice) I’m slippery as an eel…
+Scene: At Monk’s Café|KRAMER|(doing the voice) La la la.
+Scene: At Monk’s Café|JERRY|I’m just so glad it’s back.
+Scene: At Monk’s Café|action|Scene: At Elaine’s apartment in bed with Puddy AGAIN
+Scene: At Monk’s Café|ELAINE|See, this is good. This is the way it should be. You know why are we fooling ourselves. We belong together.
+Scene: At Monk’s Café|PUDDY|ELAINE: I want to break up.
+Scene: At Monk’s Café|ELAINE|Ah nuts!

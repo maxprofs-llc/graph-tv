@@ -1,0 +1,275 @@
+Monk's Restaurant - Jerry, George, Elaine|JERRY|(to Elaine) I can't believe you write for this J.Peterman catalog. (to George) Get this one: "I packed my rod and reel. 30 hours later, lost in the fiord, a welcoming smile. Thank god she spotted the epaulettes on my Norwegian ice-fishing vest".
+Monk's Restaurant - Jerry, George, Elaine|GEORGE|This catalog is all about how to score in a foreign country.
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Yeah. What do you do all day?
+Monk's Restaurant - Jerry, George, Elaine|GEORGE|Not that much.
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|uh-uh.
+Monk's Restaurant - Jerry, George, Elaine|JERRY|I thought that new promotion was supposed to be a lot more work.
+Monk's Restaurant - Jerry, George, Elaine|GEORGE|Yeah, when the season starts. Right now, I sit around pretending that I'm busy.
+Monk's Restaurant - Jerry, George, Elaine|JERRY|How do you pull that off?
+Monk's Restaurant - Jerry, George, Elaine|GEORGE|I always look annoyed. Yeah, when you look annoyed all the time, people think that you're busy. Think about it... (acts annoyed for 3 seconds).
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Yeah, you do! He looks very busy!
+Monk's Restaurant - Jerry, George, Elaine|JERRY|Yeah, he looks busy! Yeah!
+Monk's Restaurant - Jerry, George, Elaine|GEORGE|I know what I'm doin'. In fact Mr. Wilhelm gave me one of those little stress dolls. All right. (gets up) Back to work. (acts annoyed and leaves)
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|(laughs)
+Monk's Restaurant - Jerry, George, Elaine|JERRY|So did you come up with a little stupid story for the Himalayan walking shoe yet?
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|No. I'm completely blocked! In fact, I'm gonna work on it tonight. Oh. Oh no! Oh, I can't! I got that marathon runner coming in tonight.
+Monk's Restaurant - Jerry, George, Elaine|JERRY|What marathon runner?
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|You know, this guy Jean-Paul, Jean-Paul... I met him when I was working at Pendant, editing a book on running...
+Monk's Restaurant - Jerry, George, Elaine|JERRY|Oh, wait! Jean-Paul, Jean-Paul! Isn't he the guy who overslept at the Olympics 4 years ago and missed the marathon?!
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Yeah, that's him.
+Monk's Restaurant - Jerry, George, Elaine|JERRY|He's from uh...Trinidad and Tobago, right?
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Yeah, he's Trinidadian and...Tobagan. (laughs)
+Monk's Restaurant - Jerry, George, Elaine|JERRY|How do you oversleep at the Olympics...?
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Ah, I know. I know...!
+Monk's Restaurant - Jerry, George, Elaine|JERRY|I mean, it's like the biggest event of your life! You'd think you'd have, like, 6 alarm clocks, payin'-off little kids in the village to come banging on your door...
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Yeah, well, he was pretty devastated. This is his first race in 3 years.
+Monk's Restaurant - Jerry, George, Elaine|JERRY|Ah...that's a big responsability on your hands.
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|What responsibility? I don't have any responsibility.
+Monk's Restaurant - Jerry, George, Elaine|JERRY|You gotta wake him up!
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Eh...he'll get up...
+Monk's Restaurant - Jerry, George, Elaine|action|A woman passes by with a baby
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Hi, Judy.
+Monk's Restaurant - Jerry, George, Elaine|JUDY|Hi, Elaine. How are you?
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Fine. (laughs)
+Monk's Restaurant - Jerry, George, Elaine|action|woman leaves
+Monk's Restaurant - Jerry, George, Elaine|JERRY|I've seen her in your building.
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|Yeah.
+Monk's Restaurant - Jerry, George, Elaine|JERRY|I didn't know she was married.
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|(whispering) She's not... and the guy just took off. (makes a sad face) Don't say anything to anybody.
+Monk's Restaurant - Jerry, George, Elaine|JERRY|Whom I gonna tell?
+Monk's Restaurant - Jerry, George, Elaine|ELAINE|I know, it's just something you have to say...
+George's office at the Yankee Stadium|action|George is reading a newspaper when he hears a fly that lands on his desk. He tries to kill it with the paper but misses. Mr. Wilhelm comes in. George switches to annoyed-mode
+George's office at the Yankee Stadium|WILHELM|George, we just got the final budget numbers. We went over budget on some of the items, but I don't think there's gonna be a problem. (hands over the budget file to a very annoyed George) I'll let you get back to work, George. (Mr. Wilhelm leaves the office)
+George's office at the Yankee Stadium|action|George hears the fly again. It lands on the wall and he starts bashing it with the file. Mr. Wilhelm sees George hitting the wall with the budget file and shakes his head, worried
+Jerry's apartment - Jerry, George|JERRY|He overslept and missed the whole race. Isn't that amazing?
+Jerry's apartment - Jerry, George|GEORGE|I'll tell you what happened. I bet he got the AM/PM mixed-up.
+Jerry's apartment - Jerry, George|JERRY|My money's on the snooze. I bet he hit the snooze for an extra 5 and it never came back on. (Kramer enters with a bucket and starts filling it with water on the sink) Imagine your whole life riding on an alarm clock.
+Jerry's apartment - Jerry, George|KRAMER|Alarm clocks? I never use 'em. Don't trust 'em.
+Jerry's apartment - Jerry, George|JERRY|What do you do?
+Jerry's apartment - Jerry, George|KRAMER|I have a uh...mental alarm. I set my head for... quarter to seven and... (makes sound with the lips - "pop!") ...I get up!
+Jerry's apartment - Jerry, George|JERRY|Always works?
+Jerry's apartment - Jerry, George|KRAMER|It never fails. See, it's based on your body clock. See, your body has an internal mechanism. It knows what time it is.
+Jerry's apartment - Jerry, George|GEORGE|uh-uh. What's with the bucket?
+Jerry's apartment - Jerry, George|KRAMER|Lomez, he sold me his hot tub.
+Jerry's apartment - Jerry, George|JERRY|Hot tub?
+Jerry's apartment - Jerry, George|KRAMER|Yeah yeah, it's in my living room. I just gotta fill it. (points to bucket)
+Jerry's apartment - Jerry, George|GEORGE|You put a hot tub... in your living room?
+Jerry's apartment - Jerry, George|KRAMER|Oh, it's a beauty! It's got these high-volume aqua-sage jets oscillating and pulsating, soothing your every aching muscle. The water's gonna get over 120 degrees! (happy)
+Jerry's apartment - Jerry, George|GEORGE|Is that tolerable?
+Jerry's apartment - Jerry, George|KRAMER|Oh...it's tolerable...! (happy)
+Jerry's apartment - Jerry, George|JERRY|Isn't that the same temperature the coffee that scalded you?
+Jerry's apartment - Jerry, George|KRAMER|Oh, I think it's a little cooler than that... (smiles and leaves)
+Jerry's apartment - Jerry, George|GEORGE|He uh...doesn't have any running water?
+Jerry's apartment - Jerry, George|JERRY|I don't ask those kind of questions anymore.
+Monk's Restaurant - Jerry|action|Elaine and Jean-Paul come in
+Monk's Restaurant - Jerry|ELAINE|Jerry. Jerry, this is Jean-Paul.
+Monk's Restaurant - Jerry|JERRY|Ah, hi Jean-Paul. Nice to meet you.
+Monk's Restaurant - Jerry|JERRY|Sorry about the Olympics.
+Monk's Restaurant - Jerry|ELAINE|Listen, listen I'm gonna go call work to see if I can get my deadline extended. I can't...come up with anything for this thing.
+Monk's Restaurant - Jerry|JERRY|Ah...catalog writer's block?
+Monk's Restaurant - Jerry|ELAINE|Yeah, that's funny. (annoyed)
+Monk's Restaurant - Jerry|action|Elaine leaves
+Monk's Restaurant - Jerry|JERRY|(pause) So what happened? The snooze alarm, wasn't it?
+Monk's Restaurant - Jerry|JERRY|AM/PM.
+Monk's Restaurant - Jerry|JERRY|Ah...the volume.
+Monk's Restaurant - Jerry|JERRY|Ah, separate knob.
+Monk's Restaurant - Jerry|JERRY|Some people like to have the radio alarm a little louder than the radio.
+Monk's Restaurant - Jerry|JERRY|Don't worry, it's not gonna happen again. Not if I have anything to say about it.
+Monk's Restaurant - Jerry|action|Elaine returns
+Monk's Restaurant - Jerry|JERRY|Elaine, what's the alarm clock situation in your house?
+Monk's Restaurant - Jerry|ELAINE|Jerry...
+Monk's Restaurant - Jerry|JERRY|It's a simple question...
+Monk's Restaurant - Jerry|ELAINE|I've got an alarm, ok?
+Monk's Restaurant - Jerry|JERRY|That old one? Didn't I once miss a flight to Cleveland because of that alarm clock?
+Monk's Restaurant - Jerry|ELAINE|It works.
+Monk's Restaurant - Jerry|JERRY|Elaine...
+Monk's Restaurant - Jerry|ELAINE|It... works!
+George's office at the Yankee Stadium|action|George is doing the newspaper's crossword. The pen stops working.
+George's office at the Yankee Stadium|GEORGE|Eh...come oooon...(starts stabbing the paper with the pen. Mr. Wilhelm comes in)
+George's office at the Yankee Stadium|action|George switches to annoyed-mode again
+George's office at the Yankee Stadium|WILHELM|George...I think you may be taking work a little too seriously.
+George's office at the Yankee Stadium|GEORGE|Well...I've got a lot to do!
+George's office at the Yankee Stadium|WILHELM|George, I'll tell you what I'd like you to do. I, I'd like you to drop everything.
+George's office at the Yankee Stadium|action|George acts annoyed
+George's office at the Yankee Stadium|WILHELM|I have this... fun little assignment I think you'll enjoy. There's some reps in from the Houston Astros for talks on that interleague play... and I want you to show them a good time.(George acts like "ok, you're the boss")
+Jerry's apartment - Jerry|action|Elaine comes in
+Jerry's apartment - Jerry|ELAINE|Hey. Sorry I'm late.
+Jerry's apartment - Jerry|JERRY|You're 40 minutes late. What happened?
+Jerry's apartment - Jerry|ELAINE|I got held up. Do you mind if I heat this muffin up?
+Jerry's apartment - Jerry|JERRY|No.
+Jerry's apartment - Jerry|ELAINE|What? (Elaine puts her muffin in the microwave and sets the timer) What is the problem?
+Jerry's apartment - Jerry|JERRY|Well, you said you were gonna be here at a certain time, and you weren't.
+Jerry's apartment - Jerry|ELAINE|uh-uh. uh-uh. And this all means uh...what?
+Jerry's apartment - Jerry|JERRY|Well, means that a man has come from very far away to compete in a very difficult race, he's put his faith in you, and frankly, I'm a little concerned!
+Jerry's apartment - Jerry|ELAINE|Oh are you?!
+Jerry's apartment - Jerry|JERRY|Yes I am.
+Jerry's apartment - Jerry|ELAINE|Hey, I'm not running in the marathon! He is!
+Jerry's apartment - Jerry|JERRY|Yeah, I know that!
+Jerry's apartment - Jerry|ELAINE|Yeah, I got enough to think about just tryin' to come up with some load o'crap for that Himalayan walking shoe! I mean, I've given him a place to stay, I'll set an alarm, but I'm not gonna turn my life completely upside down for this guy!
+Jerry's apartment - Jerry|JERRY|I'm not talking about upside down. (Jean-Paul and Kramer come in) I'm talking about waking him up!
+Jerry's apartment - Jerry|ELAINE|Hey, Jean-Paul.
+Jerry's apartment - Jerry|JERRY|Hey, Jean-Paul. How was your soak? Was a good soak?
+Jerry's apartment - Jerry|KRAMER|(smelling) What's burning?
+Jerry's apartment - Jerry|ELAINE|Oh! (rushing to the microwave) My muffin! (opens microwave door) Oh, shoot! (slams it)
+Jerry's apartment - Jerry|JERRY|What happened?
+Jerry's apartment - Jerry|ELAINE|Oh I don't know. I set this thing for 20 seconds.
+Jerry's apartment - Jerry|KRAMER|This was set for 2 minutes. See?
+Jerry's apartment - Jerry|action|Jerry raises his hands in the air, worried
+Jerry's apartment - Jerry|ELAINE|(pointing at Jerry) Don't say anything! Don't..say..anything!
+Jerry's apartment - Jerry|ELAINE|(leaning against the refrigerator) Jean-Paul, it's not my microwave, ok? Ok? All right, listen, let's just go. Come on, Jean-Paul, let's go. Let's go.
+Jerry's apartment - Jerry|ELAINE|(to Jerry) All right. We'll see you at the race, ok?
+Jerry's apartment - Jerry|JERRY|Yeah. I hope so ?!
+Jerry's apartment - Jerry|ELAINE|Oh that's cute! (closes door and exits with Jean-Paul)
+Jerry's apartment - Jerry|JERRY|Kramer, I'm tellin' you, Elaine doesn't know whatta hell she's doin'! I gotta take over this whole operation!
+Jerry's apartment - Jerry|KRAMER|Jerry, look how tense you are... You need to take a soak.
+Jerry's apartment - Jerry|JERRY|I'm not taking a soak in that human bacteria frat you got goin' there.
+Jerry's apartment - Jerry|KRAMER|Come on, I'm tellin' you, it's great. I opened up all the windows... the air is cold, the tub is boiling hot... It's like Sweden, man. Sweeeeden!
+Kramer's hot tub|action|The water is at 105.F degrees. Kramer takes his robe off and goes inside
+Kramer's hot tub|KRAMER|(relaxing) ...oooohhh yeeaaah... aaahhh... (he is really enjoying this)
+in a bar - George and 3 other men, drinking|CLAYTON|...'till this bastard over here says: "let's call the sons o'bitches and go visit 'em on New York!" (the 3 men laugh)
+in a bar - George and 3 other men, drinking|GEORGE|(smiling) Well, we're certainly glad that you could make it.
+in a bar - George and 3 other men, drinking|GARDNER|I like your organization, George. We've been talkin' to a really friendly son of a bitch in the front office. Wilhelm, I think his name.
+in a bar - George and 3 other men, drinking|GEORGE|Oh yes, Mr.Wilhelm, yeah...
+in a bar - George and 3 other men, drinking|GARDNER|He told us that George Costanza was gonna be takin' us bastards out on the town. (the 3 men laugh again) I said: "that son of a bitch doesn't know what he's got in store for him!". (the 3 men laugh once more)
+in a bar - George and 3 other men, drinking|ZEKE|Finish your drink?
+in a bar - George and 3 other men, drinking|GEORGE|Oh yeah, al-almost. Almost.
+in a bar - George and 3 other men, drinking|ZEKE|Let's get that bastard bring us another round! (waves to bartender)
+in a bar - George and 3 other men, drinking|CLAYTON|You a big drinker, George?
+in a bar - George and 3 other men, drinking|GEORGE|Well...maybe not as much as this bastard... (points at Zeke, they all laugh) I can hold my own! (they all continue laughing and drinking)
+Monk's Restaurant - Jerry, Jean-Paul|JERRY|Jean-Paul, I asked you down here this morning because I'm concerned. Concerned that tomorrow is perhaps the biggest race of your entire career. And the person with whom you have chosen to stay... is uh...
+Monk's Restaurant - Jerry, Jean-Paul|JERRY|I'm saying "get the hell outta there"! Let me put you in a hotel. You'll be comfortable, you'll be near the starting line, and most importantly... you'll have a wake-up call, Jean-Paul! A wake-up call!
+Monk's Restaurant - Jerry, Jean-Paul|JERRY|These people never fail. They sit in a room with a big clock all night long, just waitin' to make that call! (George comes in)
+Monk's Restaurant - Jerry, Jean-Paul|GEORGE|Hey, you bastards.
+Monk's Restaurant - Jerry, Jean-Paul|JERRY|Hey, how was the meeting?
+Monk's Restaurant - Jerry, Jean-Paul|GEORGE|I really like those sons of bitches.
+Monk's Restaurant - Jerry, Jean-Paul|JERRY|Sons of bitches?
+Monk's Restaurant - Jerry, Jean-Paul|GEORGE|Yeah! That's how they talk. You know, everyone's either a bastard or a son of a bitch. Yeah, it's like uh..."boy, that son of a bitch Box can really hit, uh?!" (laughs)
+Monk's Restaurant - Jerry, Jean-Paul|GEORGE|Yeah, yeah. That's how they talk in the major league. (laughs)
+Monk's Restaurant - Jerry, Jean-Paul|action|Kramer walks in wearing winter coat, scarf, cap, gloves... They all look at him very surprised
+Monk's Restaurant - Jerry, Jean-Paul|KRAMER|Heeeeey...
+Monk's Restaurant - Jerry, Jean-Paul|JERRY|How many sweaters you got on?
+Monk's Restaurant - Jerry, Jean-Paul|KRAMER|Oh...four. (to waitress) Yeah, could I have a cup o'tea? Boiling hot.
+Monk's Restaurant - Jerry, Jean-Paul|GEORGE|What's goin'on?
+Monk's Restaurant - Jerry, Jean-Paul|KRAMER|I fell asleep in the hot tub and the heat pump broke. Water went down to 58 degrees. I can't get my core temperature back up!
+Monk's Restaurant - Jerry, Jean-Paul|JERRY|Your core temperature?
+Monk's Restaurant - Jerry, Jean-Paul|KRAMER|(to Jean-Paul) Here, feel my hand. (takes off glove) Yeah, feel.
+inside an airplane - the 3 men|action|They are calling George at the Yankee Stadium, while they're drinking and laughing in the plane
+inside an airplane - the 3 men|GEORGE|Hello?
+inside an airplane - the 3 men|CLAYTON|uh...is that you, George?
+inside an airplane - the 3 men|GEORGE|(laughs) Yeah, it's me. Is this Clayton?
+inside an airplane - the 3 men|CLAYTON|Well listen, you son of a bitch! You know where we are? 30 000 feet above your head, you bastard! (the 3 laugh and howl)
+inside an airplane - the 3 men|GEORGE|What are they doin' lettin' you bastards on an airplane? Don't they know that's against FAA regulation?
+inside an airplane - the 3 men|CLAYTON|(to the other 2 men) Hey, hush up, now! I can't hear him!
+inside an airplane - the 3 men|GEORGE|Listen. I want you guys to send along those agreements the minute you land. Our boys can't wait to kick your butts!
+inside an airplane - the 3 men|ZEKE|(to Clayton) When's that bastard comin' to Houston?
+inside an airplane - the 3 men|CLAYTON|Hey, Zeke wants to know when you Yankee bastards are comin' to Houston!
+inside an airplane - the 3 men|GEORGE|You tell that son of a bitch no Yankee is ever comin' to Houston. Not as long as you bastards are running things.
+inside an airplane - the 3 men|CLAYTON|Hey, uh, speak up, George, I can't hear ya!
+inside an airplane - the 3 men|GEORGE|(Mr.Wilhelm comes in and hears George yelling) You tell that son of a bitch no Yankee is ever comin' to Houston! Not as long as you bastards are running things!
+inside an airplane - the 3 men|action|Mr.Wilhelm comes running, takes the phone from George and hangs up
+inside an airplane - the 3 men|WILHELM|George! George, get a hold of yourself!
+inside an airplane - the 3 men|GEORGE|Mr.Wilhelm...
+inside an airplane - the 3 men|WILHELM|What's the matter with you?!
+inside an airplane - the 3 men|GEORGE|Well I-I...
+Elaine's office - Elaine|action|She's trying to think of a story for the shoes while she's at the computer
+Elaine's office - Elaine|ELAINE|(thinking and typing) It was a cold winter's night in Timbuktu... (hits the keyboard) Oh! This stinks! (grabs a Himalayan walking shoe and starts squeezing it for inspiration) Oh, come on... come on...!...God! (quits)
+Elaine's building - Jean-Paul, Judy with baby|JUDY|Hello.
+Elaine's building - Jean-Paul, Judy with baby|JUDY|Oh, hi.
+Elaine's building - Jean-Paul, Judy with baby|action|Judy goes away angry and Jean-Paul is surprised by that
+Elaine's building - Jean-Paul, Judy with baby|MANAGER|Whatta hell are you doin' harassing my tenants?
+Elaine's building - Jean-Paul, Judy with baby|MANAGER|All right, that's it! (grabs Jean-Paul and gets him out) Let's go!
+Jerry's apartment at night- Kramer|action|Kramer is lying on Jerry's sofa, "fully" dressed and covered with a blanket. Jerry and George come in
+Jerry's apartment at night- Kramer|GEORGE|Whoa...it's like a furnace in here!
+Jerry's apartment at night- Kramer|JERRY|Oh whatta hell is goin'on?!
+Jerry's apartment at night- Kramer|KRAMER|Yeah, I turned up the heat.
+Jerry's apartment at night- Kramer|JERRY|Turn up the heat in your apartment! (opens a window)
+Jerry's apartment at night- Kramer|KRAMER|I'm freezin'! I just need to get my hot tub running. I'm waiting for my new heat pump.
+Jerry's apartment at night- Kramer|GEORGE|Well what's in this giant box out in the hall?
+Jerry's apartment at night- Kramer|KRAMER|Uh? Oh that must be it.
+Jerry's apartment at night- Kramer|GEORGE|It's huge!
+Jerry's apartment at night- Kramer|KRAMER|Yeah, yeah, I got the biggest one they had. It's industrial strength. 16000 BTU's.
+Jerry's apartment at night- Kramer|action|Kramer leaves. The phone rings and Jerry picks it up
+Jerry's apartment at night- Kramer|JERRY|Hello?...yeah, I can be there in 10 minutes...you can count on me! (hangs up)
+Jerry's apartment at night- Kramer|GEORGE|(Jerry is going to his bedroom) What?
+Jerry's apartment at night- Kramer|JERRY|I got the call...!
+Jerry's apartment at night- Kramer|GEORGE|Jean-Paul?
+Jerry's apartment at night- Kramer|JERRY|(stops walking) Jean-Paul! (George acts like he scored)
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|Pretty lucky to find this hotel, Jean-Paul.
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|All right. (picks up the alarm clock) Let's check out the clock. Notch good... 6:50... volume check. (music playing, he starts swinging) What kinda music you wanna wake up to? Top 40, classical...
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|How about adult contemporary?
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|All right...we're going with adult contempo... (puts alarm away, gets phone) now... the failsafe. The wake-up guy... (dials)
+hotel - Jerry, Jean-Paul. Sitting in different beds|MAN|(on the phone) Front desk...?
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|Yeah, this is room 419, I'd like a wake-up call for 6:50 AM tomorrow morning.
+hotel - Jerry, Jean-Paul. Sitting in different beds|MAN|Yes sir.
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|That's room 419. 6:50 AM. Four...one...niner...
+hotel - Jerry, Jean-Paul. Sitting in different beds|MAN|Yes, I got it sir. You only had to say it once.
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|I know, but it's a very important wake-up call... and I don't wanna take any chances.
+hotel - Jerry, Jean-Paul. Sitting in different beds|MAN|Every wake-up call I make is important. You're no more important than any of our guests.
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|Well, I just...don't wanna get into a whole thing with you here...
+hotel - Jerry, Jean-Paul. Sitting in different beds|MAN|Are you through? (annoyed)
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|...Yeah I am, but I just...(man hangs-up)
+hotel - Jerry, Jean-Paul. Sitting in different beds|action|Jerry pauses thinking
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|humm...
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|I think I offended the wake-up guy...! (worried)
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|(gets up) No, no, I did. I think he's got it in for me!
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|What if he doesn't call now out of spite?
+hotel - Jerry, Jean-Paul. Sitting in different beds|action|Jerry sits down
+hotel - Jerry, Jean-Paul. Sitting in different beds|JERRY|(pause) Not comfortable... (gets up again)
+Elaine's apartment|action|Elaine comes in
+Elaine's apartment|ELAINE|Jean-Paul? (searching everywhere) Hey Jean-Paul? Jean-Paul? (worried) Jean-Paul?! Oh man... (calling Jerry's) Oh...machine.
+Elaine's apartment|ELAINE|Jerry, Jerry, Jean-Paul's missing! He's alone in the city! Call me back. (hangs up)
+Elaine's apartment|action|She leaves her apartment and knocks on Judy's door
+Elaine's apartment|ELAINE|Judy, hi, listen...
+Elaine's apartment|JUDY|You have got some nerve, Elaine! I told you about that baby in confidence!
+Elaine's apartment|ELAINE|Oh I didn't tell anyone.
+Elaine's apartment|JUDY|Well your friend certainly seemed to know all about it. (shuts the door)
+Elaine's apartment|ELAINE|... Jerry! (runs angry to her apartment)
+Jerry's apartment|action|Jerry and Jean-Paul come in
+Jerry's apartment|JERRY|Feel much better here at my home base, Jean-Paul. It's a controlled environment.
+Jerry's apartment|JERRY|Hey, believe me, if I'd been with you there in Barcelona...you'd be polishing that medal right now. (covers Jean-Paul with a blanket)
+Jerry's apartment|JERRY|That wake-up guy was trouble! All right, I'll be right back. (goes knocking on Kramer's)
+Jerry's apartment|action|Kramer checks the water temperature and then opens the door
+Jerry's apartment|JERRY|(shouting) Man that thing is noisy!
+Jerry's apartment|KRAMER|(shouting) Yeah yeah, we're cracking along pretty good! We're almost up to 80 degrees!
+Jerry's apartment|JERRY|Yeah, listen, do me a favor. Set your mental alarm for 6:30 and gimme a call.
+Jerry's apartment|KRAMER|Yeah, ok. Wait. (concentrates and makes the "pop!" sound) Done! (Jerry stares, confused)
+street at night- Elaine walking and thinking, very worried|action|the following voices are on Elaine's mind
+street at night- Elaine walking and thinking, very worried|JERRY|He's put his faith in you. He's put his faith in you.
+street at night- Elaine walking and thinking, very worried|JERRY|Frankly, I'm a little concerned.
+street at night- Elaine walking and thinking, very worried|ELAINE|Ohhh, I'm exhausted. I've been on this street a thousand times! It's never looked so strange! The faces...so cold! In the distance, a child is crying. Fatherless...a bastard child, perhaps. My back aches...my heart aches...but my feet (stops to look at her feet) ...my feet are resilient! (a big smile grows in her face, as she thinks...) Thank God I took off my heels, and put on my... HIMALAYAN WALKING SHOES!!! (lifting her arms up in the air, in ecstasy, as she says...) Yes!
+Jerry's apartment|action|Two clocks at a table, both 4:02 AM. Jean-Paul's sleeping at the sofa
+Kramer's apartment|action|4:02 AM. Kramer snores. The heat pump short circuits and blows the fuses on the entire building
+Jerry's apartment|action|Jerry wakes up with the sunlight. Looks at the electric clock, which stopped at 4:02
+Jerry's apartment|JERRY|4:02? (Checks his wristwatch) Aaa-aaahhh! Eight forty seven Jean-Paul! Wake up! Wake uuuuup!
+Jerry's apartment|action|both running around, getting ready to go
+Jerry's apartment|JERRY|Come on, just put your clothes on! You'll get dressed in the car!
+Jerry's apartment|action|Kramer comes in wrapped up in a blanket
+Jerry's apartment|JERRY|Kramer, what happened to the building?! The electricity went out!
+Jerry's apartment|KRAMER|Yeah, the heat pump blew all the fuses!
+Jerry's apartment|JERRY|What happened to your mental alarm?!
+Jerry's apartment|KRAMER|I guess I hit the snooze... (Jerry runs by Kramer and Kramer falls down)
+New York marathon|action|Jerry and Jean-Paul try to get to the starting line through a crowd
+New York marathon|JERRY|Make way! I've got-I've got a runner here! Get outta the way! Make way! Make way! Make way, it's a contender! (an event guard stops them)
+New York marathon|GUAD|Hey, hold it!
+New York marathon|GUARD|Go ahead.
+New York marathon|JERRY|All right, go, it's a race! Come on!
+George Steinbrenner's office at the Yankee Stadium|action|George comes in
+George Steinbrenner's office at the Yankee Stadium|GEORGE|You wanted to see me, Mr.Steinbrenner?
+George Steinbrenner's office at the Yankee Stadium|STEINBRENNER|Yes, George, come in, come in. George, word up's you've been cracking under the pressure. Can't cope, can't stand the heat. Spit the bit.
+George Steinbrenner's office at the Yankee Stadium|GEORGE|Oh no, Mr.Steinbrenner, I can explain...
+George Steinbrenner's office at the Yankee Stadium|STEINBRENNER|Oh we all get a little cuckoo sometimes George, I used to be like you. Rating personnel 'till they cried, calling managers on the field during a game, threatening to move the team to New Jersey, just to upset people. Then I found a way to relax. I've got two words to say to you, George hot tub. (George looks at him, puzzled)
+New York marathon - Jerry, Elaine, Kramer|JERRY|I'm tellin'you, I never told anyone about that baby. I never even went near your building!
+New York marathon - Jerry, Elaine, Kramer|ELAINE|Then how did she find out, Jerry?!
+New York marathon - Jerry, Elaine, Kramer|JERRY|Maybe you should check with the rabbi.
+New York marathon - Jerry, Elaine, Kramer|KRAMER|(to Elaine) You want some hot tea?
+New York marathon - Jerry, Elaine, Kramer|ELAINE|Oh no, thank you.
+New York marathon - Jerry, Elaine, Kramer|KRAMER|Oh. There's some runners. Here they come!
+New York marathon - Jerry, Elaine, Kramer|action|The first runner to appear is Jean-Paul
+New York marathon - Jerry, Elaine, Kramer|ELAINE|There's Jean-Paul! He's up front! He's leading! (jumping) Go Jean-Paul!(starts screaming)
+New York marathon - Jerry, Elaine, Kramer|KRAMER|Oh yeah! Yeah! Come on! (starts howling)
+New York marathon - Jerry, Elaine, Kramer|JERRY|Come on, let's go Jean-Paul!
+New York marathon - Jerry, Elaine, Kramer|ELAINE|Go Jean-Paaaaaul!
+New York marathon - Jerry, Elaine, Kramer|action|We switch over to Jean-Paul. We hear him breathing. We hear his heart beating. Some people offer him drinks. Jean-Paul grabs one, Kramer's hot tea, and leaves scene. Kramer gets very surprised. We then hear Jean-Paul screaming in pain, and it's not hard to guess why. Kramer puts on a "whatta hell" look, Elaine puts on an "ouch" look and Jerry puts on his "it's a shame" one.
+George and Mr.Steinbrenner inside a hot tub|STEINBRENNER|How're you enjoying it, George? Melts that tension away, doesn't it? You gotta get that jet on the good spot. Oh. Oh. Uh. Uh. Yes, that feels good. Yes, that's real good. Oh yeah, that's where I keep all my tension. Right down to that chicken bone. Sometimes I get my wife to just stuck her thumb right in there like a screwdriver. Ya know, the Phillips head, not the flat one. Oh God, those flat ones frustrate me. You got it in, but it slips out. You put it in again, slips out again. You a single man, George?
+George and Mr.Steinbrenner inside a hot tub|GEORGE|(bored to death) Well, I-I just recently uh...
+George and Mr.Steinbrenner inside a hot tub|STEINBRENNER|I'll tell you, if you wanna get something wild goin'on in your life, you get a girl and bring her to one o'these things. Just like 4 shots a wild turkey. (laughs) She'll think you're Hopalong Cassidy. (George starts sliding, until he gets all his head -and glasses- under water, as Steinbrenner keeps talking) A show, about that Mickey Mantle, wasn't it? You know we used to talk. I don't think he liked me very much, you know.

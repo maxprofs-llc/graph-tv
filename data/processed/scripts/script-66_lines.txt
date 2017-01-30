@@ -1,0 +1,344 @@
+Setting: Jerry's apartment|action|Jerry and George are waiting for Kramer, so he can help them move George's stuff back into his parent's house
+Setting: Jerry's apartment|GEORGE|I can't believe this.
+Setting: Jerry's apartment|JERRY|Oh, it won't be for that long.
+Setting: Jerry's apartment|GEORGE|How can I do this? How can I move back in with those people? Please, tell me. They're insane. You know that.
+Setting: Jerry's apartment|JERRY|Hey, my parents are just as crazy as your parents.
+Setting: Jerry's apartment|GEORGE|How can you compare you parents to my parents?!
+Setting: Jerry's apartment|JERRY|My father has never thrown anything out. Ever!
+Setting: Jerry's apartment|GEORGE|My father wears his sneakers in the pool! Sneakers!
+Setting: Jerry's apartment|JERRY|My mother has never set foot in a natural body of water.
+Setting: Jerry's apartment|GEORGE|(Showing Jerry up) Listen carefully. My mother has never laughed. Ever. Not a giggle, not a chuckle, not a tee-hee.. never went 'Ha!'
+Setting: Jerry's apartment|JERRY|A smirk?
+Setting: Jerry's apartment|GEORGE|Maybe!.. And I'm moving back in there!
+Setting: Jerry's apartment|JERRY|I told you I'd lend you the money for the rent.
+Setting: Jerry's apartment|GEORGE|No, no, no, no. Borrowing money from a friend is like having sex. It just completely changes the relationship.
+Setting: Jerry's apartment|action|Kramer stumbles in
+Setting: Jerry's apartment|KRAMER|Alright. I'm ready. (To George) You know, I still don't understand - why do you want to move back in with your parents?
+Setting: Jerry's apartment|GEORGE|I don't want to! I'm outta money! I got 714 dollars left in the bank.
+Setting: Jerry's apartment|KRAMER|Well, move in here.
+Setting: Jerry's apartment|JERRY|(Stopping the notion) What's that?
+Setting: Jerry's apartment|KRAMER|Why doesn't he just move in here?
+Setting: Jerry's apartment|GEORGE|(Sarcastic) Yeah, yeah. I'm gonna move in with him. He doesn't even let you use the toilet!
+Setting: Jerry's apartment|KRAMER|You can move in with me, if you want.
+Setting: Jerry's apartment|GEORGE|(Sincerely) Thank you.. I, uh.. that might not work out.
+Setting: Jerry's apartment|action|Scene ends
+Setting: The Costanza's house|action|Jerry, George, and Kramer enter carrying George's luggage. Kramer clumsily bangs the wall with one of the suitcases
+Setting: The Costanza's house|ESTELLE|Careful! Careful with the suitcases! We just painted!
+Setting: The Costanza's house|KRAMER|Hello, Mrs. Costanza.
+Setting: The Costanza's house|JERRY|(quietly) Hello, Mrs. Costanza.
+Setting: The Costanza's house|ESTELLE|(not really noticing Jerry said Hello) Hello, Kramer. Close the door.
+Setting: The Costanza's house|action|They set down George's luggage
+Setting: The Costanza's house|KRAMER|Well, I gotta bring in more stuff. (Heads for the door)
+Setting: The Costanza's house|ESTELLE|More stuff?!
+Setting: The Costanza's house|KRAMER|Yeah. (Exits)
+Setting: The Costanza's house|ESTELLE|(To George) How much is there?!
+Setting: The Costanza's house|GEORGE|(Annoyed) There's more.
+Setting: The Costanza's house|ESTELLE|So, how are ya, Jerry?
+Setting: The Costanza's house|JERRY|Fine, Mrs. Costanza. (Attempts to get Estelle to laugh) Hey, I got a terrific joke for you..
+Setting: The Costanza's house|ESTELLE|(Sits down on the couch) Nah, not interested.
+Setting: The Costanza's house|JERRY|No, no. It-It's really funny. There's these two guys-
+Setting: The Costanza's house|ESTELLE|(Interrupting) Tell it to the audience. (George gives Jerry an 'I told you so' look) Here, (Picks up a plate full of sandwiches) I made some bologna sandwiches.
+Setting: The Costanza's house|GEORGE|Bologna?! No one eats bologna anymore!
+Setting: The Costanza's house|ESTELLE|What are you talking about?! (to Jerry) Have a sandwich.
+Setting: The Costanza's house|JERRY|(setting down a box) No thanks.
+Setting: The Costanza's house|action|Kramer enters with some more suitcases
+Setting: The Costanza's house|ESTELLE|Oh, stop it! You don't want one, Kramer?
+Setting: The Costanza's house|KRAMER|Uhh.. no thanks. (Goes back out the door)
+Setting: The Costanza's house|ESTELLE|I think you're all a little touched in the head. (Puts the plate down) You're so worried about your health.. You're young men.
+Setting: The Costanza's house|JERRY|I really don't eat it.
+Setting: The Costanza's house|ESTELLE|What am I gonna do with all these sandwiches?! Will you take them home? Give them to someone in your building?
+Setting: The Costanza's house|JERRY|I don't know if I'd feel comfortable handing out bologna sandwiches in the building..
+Setting: The Costanza's house|KRAMER|(Enters with a box) Alright, that's it. Anything else?
+Setting: The Costanza's house|GEORGE|(Muttering) No, that's it.
+Setting: The Costanza's house|action|A horn honks from outside the house
+Setting: The Costanza's house|KRAMER|Oh, I gotta go move the car. Alright (Leaves)
+Setting: The Costanza's house|JERRY|Well, I guess we'll be going.. (Heads for the door)
+Setting: The Costanza's house|GEORGE|(Runs over to him, not wanting him to leave) What? You're going?
+Setting: The Costanza's house|JERRY|Yeah.
+Setting: The Costanza's house|GEORGE|Wha - what are you doing later?
+Setting: The Costanza's house|JERRY|Oh, Elaine and I are going out to dinner with Kramer and his new girlfriend.
+Setting: The Costanza's house|GEORGE|Really?
+Setting: The Costanza's house|JERRY|Yeah, You can't believe this woman. She's one of those low-talkers. You can't hear a word she's saying! You're always going 'excuse me?', 'what was that?'
+Setting: The Costanza's house|GEORGE|Yeah.. may - maybe I'll meet ya?
+Setting: The Costanza's house|ESTELLE|No, George. We're going out to eat tonight with your father.
+Setting: The Costanza's house|GEORGE|(Mutters) Oh.. okay.. talk to you later.
+Setting: The Costanza's house|JERRY|Yeah, take it easy. (Leaves)
+Setting: The Costanza's house|action|George watches his mother sitting contentedly on the couch. She's staring off into space
+Setting: The Costanza's house|GEORGE|Oh, my God.. (Buries his face into his hands)
+Setting: The Costanza's house|action|Scene ends
+Setting: A Restaurant|action|Jerry, Elaine, Kramer, and Leslie are all laughing
+Setting: A Restaurant|ELAINE|Okay, well, he had this idea of a pizza place where you make your own pie! (Laughs)
+Setting: A Restaurant|JERRY|Right.
+Setting: A Restaurant|ELIANE|You remember that?
+Setting: A Restaurant|KRAMER|Yeah, well, that was a good one.
+Setting: A Restaurant|JERRY|Well..
+Setting: A Restaurant|action|Kramer's girlfriend starts to mumble out some words, but Kramer's the only one who seems to hear her. Jerry and Elaine both bend forward, trying to hear what she's saying
+Setting: A Restaurant|ELAINE|What's that?
+Setting: A Restaurant|JERRY|Excuse me?
+Setting: A Restaurant|action|She 'talks' some more. Jerry and Elaine still can't hear her. They give up - leaning back in their seats
+Setting: A Restaurant|JERRY|Yeah.. yeah.
+Setting: A Restaurant|ELAINE|Yep. Yeah..
+Setting: A Restaurant|KRAMER|You know that, uh, Leslie (Points to her) is in the clothing business? She's a designer.
+Setting: A Restaurant|ELAINE|(Interested) Oh?
+Setting: A Restaurant|KRAMER|In fact, she's come up with a new one that is going to be the big new look in men's fashion.. It's a, a puffy shirt. (Leslie mumbles to Kramer) Well, yeah, it - it's all puffy. Like the pirates used to wear.
+Setting: A Restaurant|ELAINE|Oh, a puffy shirt.
+Setting: A Restaurant|JERRY|Puffy.
+Setting: A Restaurant|KRAMER|Yeah, see, I think people want to look like pirates. You know, it's the right time for it.. to be all puffy, and devil-may-care..
+Setting: A Restaurant|action|Leslie starts 'talking', Kramer laughs. Jerry and Elaine have no clue what she's saying. They lean closer
+Setting: A Restaurant|KRAMER|(Still laughing) That's true.. (Gets up) I'll be right back. (Walks off laughing. Jerry and Elaine are left with the low-talker. A moment passes)
+Setting: A Restaurant|ELAINE|Uh, o... (Remembers something they could talk about) Jerry's going to be on the "Today" show on Friday.
+Setting: A Restaurant|JERRY|Yeah, that's right!
+Setting: A Restaurant|ELAINE|Yep.. yep. Um, he's promoting a (pauses) benefit for Goodwill, you know, they, uh, they clothe the (clears her throat) poor, and the homeless..
+Setting: A Restaurant|JERRY|(Points at Elaine) And the indigent.
+Setting: A Restaurant|ELAINE|And the indigent, yeah.. I, I do volunteer work for them. I-I set the whole thing up, and I got Jerry to do it.
+Setting: A Restaurant|action|Leslie starts talking. Jerry sitting back not hearing what she said, just shacks his head; Elaine who can't hear either is leaned in trying hard to listen
+Setting: A Restaurant|JERRY|Sure.
+Setting: A Restaurant|ELAINE|Ohh, yeah. Yeah.. yep.
+Setting: A Restaurant|action|Leslie talks some more
+Setting: A Restaurant|JERRY|Uh-huh.
+Setting: A Restaurant|ELAINE|Yep.
+Setting: A Restaurant|JERRY|Yep..
+Setting: A Restaurant|ELAINE|Mmm
+Setting: A Restaurant|action|Scene ends
+Setting: A Restaurant|ESTELLE|Maybe you should take a civil service test.
+Setting: A Restaurant|GEORGE|(Studying the salt shaker) I'm not taking a civil service test.
+Setting: A Restaurant|FRANK|Look at this, George. (Takes a coin out of his pocket) You ever seen a silver dollar?
+Setting: A Restaurant|GEORGE|Yes, I've seen a silver dollar.
+Setting: A Restaurant|ELAINE|Why don't you want to take a civil service test?
+Setting: A Restaurant|GEORGE|To do what?! Work in a post office? Is that what you want me to do?
+Setting: A Restaurant|FRANK|Would you believe when I was 18, I had a ssssilver dollar collection?
+Setting: A Restaurant|ESTELLE|I don't understand. You get job security - you get a pay check every week..
+Setting: A Restaurant|GEORGE|I'm a college graduate. You want me to be a mailman?
+Setting: A Restaurant|FRANK|(Still looking at his coin) You know, I couldn't bring myself to spend one of these. I got some kind of a-a-a-a-a phobia.
+Setting: A Restaurant|ESTELLE|So what are you gonna do?!
+Setting: A Restaurant|GEORGE|I don't know. I do know that I have some kind of a talent - something to offer. I just don't know what it is yet!
+Setting: A Restaurant|FRANK|I bet that collection would be worth a lot of money today. (does a form of magic trick making the coin disappear as he shows George an empty hand)
+Setting: A Restaurant|GEORGE|(Looks fed up with his parents) Oh my God..
+Setting: A Restaurant|FRANK|I don't like this waiter. (Holds up his hand to get the waiters attention - starts snapping) Look at him.. He sees us.. he doesn't want to come over.
+Setting: A Restaurant|GEORGE|(Needing to get away from his parents, he gets up) I need some air..
+Setting: A Restaurant|ESTELLE|George, where are you going?!
+Setting: A Restaurant|GEORGE|(Walks off) I got a lot of thinking to do.
+Setting: A Restaurant|action|Scene cuts to the front of the restaurant. George accidentally runs into a woman - causing her to drop her purse. Items spill out onto the floor
+Setting: A Restaurant|GEORGE|Oh, I'm sorry. I'm terribly sorry.. (Bends down, and starts picking up her things)
+Setting: A Restaurant|WOMAN|Look at what you've done! You spilled my bag!
+Setting: A Restaurant|GEORGE|(Stuttering) I, I, I, .. here, let me - let me help you..
+Setting: A Restaurant|WOMAN|No, no ,no. It's all right. (Begins helping him pick her things up)
+Setting: A Restaurant|GEORGE|It - it's just that I'm here with my parents, and my mother wants me to take a civil service test - and to tell you the truth, I don't even think I'd pass it.. So..
+Setting: A Restaurant|action|George hands the last of the items to her, she takes them from him, then starts to admire his hand
+Setting: A Restaurant|WOMAN|Hmm..
+Setting: A Restaurant|GEORGE|What?
+Setting: A Restaurant|WOMAN|(Looking at both his hands intensely) Your hands.
+Setting: A Restaurant|GEORGE|What about them?
+Setting: A Restaurant|WOMAN|They're quite exquisite!
+Setting: A Restaurant|GEORGE|They are?
+Setting: A Restaurant|WOMAN|(Mesmerized) Extraordinary! Have you ever done any hand modeling?
+Setting: A Restaurant|GEORGE|Hand modeling? (Shakes his head 'No')
+Setting: A Restaurant|WOMAN|(Fishes a card out of her purse, then hands it to George) Here's my card. Why don't you, uh, give me a call? (Walks off)
+Setting: A Restaurant|action|George looks at the card; A shot of the card is shown saying "Specialty Models"
+Setting: A Restaurant|action|Scene ends
+Setting: Jerry's apartment|action|George is holding up his hands for Jerry to see
+Setting: Jerry's apartment|JERRY|(Shrugs) I - I don't get it.
+Setting: Jerry's apartment|GEORGE|Me neither!
+Setting: Jerry's apartment|JERRY|What is it?
+Setting: Jerry's apartment|GEORGE|I don't know.
+Setting: Jerry's apartment|JERRY|They're hands!
+Setting: Jerry's apartment|GEORGE|This woman just set me up for a job!
+Setting: Jerry's apartment|JERRY|(Gets up, and displays his own hands) Well, what about my hands? I don't see how your hands are any better than my hands.
+Setting: Jerry's apartment|GEORGE|What, are you kidding? (Points at the flaws of Jerry's hands) The knuckles are all out of proportion. you got hair over there - where do you get off comparing your hands to my hands?! This is a one-in-a-million hand. (Points to his own hand)
+Setting: Jerry's apartment|JERRY|Well, that's what comes from avoiding manual labor your whole life.
+Setting: Jerry's apartment|GEORGE|This is it! It happened to me, Jerry! I was sitting in the restaurant, the two nut jobs were talking - I couldn't take it any more. I got up, and (Makes a noise) I bop into this woman..
+Setting: Jerry's apartment|JERRY|It's just like in the movies.
+Setting: Jerry's apartment|action|Enter Kramer
+Setting: Jerry's apartment|KRAMER|Hey. (He's carrying a suit cover. He hangs it on Jerry's coat hooks)
+Setting: Jerry's apartment|JERRY|Hey.
+Setting: Jerry's apartment|KRAMER|Hey, George! (Holds out his hand. George shakes it - a hand buzzer goes off. George starts freaking out. Kramer laughs)
+Setting: Jerry's apartment|GEORGE|OH!!!! What are you, crazy?! Are you, crazy?!
+Setting: Jerry's apartment|KRAMER|What?!
+Setting: Jerry's apartment|GEORGE|You coulda damaged my hand!
+Setting: Jerry's apartment|KRAMER|(Laughing) But, it's only a toy!
+Setting: Jerry's apartment|JERRY|(Explaining) George has become a hand model.
+Setting: Jerry's apartment|KRAMER|A hand model?
+Setting: Jerry's apartment|JERRY|Yes.
+Setting: Jerry's apartment|KRAMER|(To George) Really? Let me see your hands.
+Setting: Jerry's apartment|GEORGE|(Defensively) You can look at them, but do NOT touch them. (Holds them out)
+Setting: Jerry's apartment|KRAMER|Let's see.. (studies them) oh, those are nice. You know, I've never noticed this before? They're smooth.. creamy.. delicate, yet (Turns to Jerry) masculine.
+Setting: Jerry's apartment|GEORGE|(Takes two oven mitts from his back pack) Alright, (puts them on) I gotta get going.
+Setting: Jerry's apartment|JERRY|Oven mitts?
+Setting: Jerry's apartment|GEORGE|(Embarrassed) That's all I could find. (A moment passes) Would you mind getting the door?
+Setting: Jerry's apartment|KRAMER|Yeah..
+Setting: Jerry's apartment|JERRY|Alright. (Jerry opens the door for George)
+Setting: Jerry's apartment|GEORGE|Thank you very much. (Walks out)
+Setting: Jerry's apartment|action|Jerry shuts the door, then starts going through his mail
+Setting: Jerry's apartment|KRAMER|You're not going to believe what happening with Leslie. You know, ever since you agreed to wear the puffy shirt on the Today show, she's been getting all these orders from boutiques and department stores..
+Setting: Jerry's apartment|JERRY|Uh-huh.. (Finally realizes what Kramer said, he looks up) Since I said what?
+Setting: Jerry's apartment|KRAMER|Agreed to wear the puffy shirt. (Starts unzipping the suit cover)
+Setting: Jerry's apartment|JERRY|What are you talking about?
+Setting: Jerry's apartment|KRAMER|When you said that you'd agree to wear the puffy shirt on the Today show. (Takes the ridiculous puffy shirt out of the cover)
+Setting: Jerry's apartment|JERRY|(Goes up to it) This?
+Setting: Jerry's apartment|KRAMER|Yea.
+Setting: Jerry's apartment|JERRY|I agreed to wear this?!
+Setting: Jerry's apartment|KRAMER|Yeah, yeah.
+Setting: Jerry's apartment|JERRY|But, when did I do that?
+Setting: Jerry's apartment|KRAMER|When we went to dinner the other night.
+Setting: Jerry's apartment|JERRY|What are you, crazy?!
+Setting: Jerry's apartment|KRAMER|What were you talking about when I went to the bathroom?
+Setting: Jerry's apartment|JERRY|I don't know! I couldn't understand a word she was saying! I was just nodding!
+Setting: Jerry's apartment|KRAMER|(makes his pop sound) There you go.
+Setting: Jerry's apartment|JERRY|Where I go? You mean she was asking me to wear this ridiculous shirt on national TV, and I said 'Yes'?!
+Setting: Jerry's apartment|KRAMER|Yes, yes! You said it!
+Setting: Jerry's apartment|JERRY|But, I - I didn't know what she was talking about. I couldn't hear her!
+Setting: Jerry's apartment|KRAMER|(Takes it off the hook, and starts walking toward Jerry with it. He backs defensively backs away from it) Well, she asked you.
+Setting: Jerry's apartment|JERRY|I - I can't wear this puffy shirt on TV! I mean, look at it! It looks ridiculous!
+Setting: Jerry's apartment|KRAMER|Well, you gotta wear it now! All those stores are stocking it based on the condition that you're gonna wear this on the TV show! The factory in New Jersey is already makin' em.
+Setting: Jerry's apartment|JERRY|They're making these?
+Setting: Jerry's apartment|KRAMER|Yes, yes. This pirate trend that she's come up with, Jerry, this-this is gonna be the new look for the 90's. You're gonna be the first pirate!
+Setting: Jerry's apartment|JERRY|(Like a little kid) But, I don't want to be a pirate!
+Setting: Jerry's apartment|action|Scene ends
+Setting: The Costanza house|action|George is giving himself a manicure over a tray. He's carefully primping his fingernails
+Setting: The Costanza house|ESTELLE|I knew it. I knew it.. I always knew you always had beautiful hands. I used to tell people. Frank, didn't I use to talk about his hands?
+Setting: The Costanza house|FRANK|(Looking up from his paper) Who the hell did'ya ever mention his hands to?
+Setting: The Costanza house|ESTELLE|(Getting annoyed) I mentioned his hands to plenty of people!
+Setting: The Costanza house|FRANK|You never mentioned them to me!
+Setting: The Costanza house|GEORGE|(Snaps, then points to the coffee table) Hand me an Emory board.
+Setting: The Costanza house|action|Estelle hands an Emory board to George. He takes it, then goes back to his manicure
+Setting: The Costanza house|ESTELLE|I always talk about your hands - how they're so soft and milky white..
+Setting: The Costanza house|FRANK|No! You never said milky white!
+Setting: The Costanza house|ESTELLE|(Getting angry) I said milky white!
+Setting: The Costanza house|action|A moment passes as George fights to keep his temper down around his parents
+Setting: The Costanza house|GEORGE|(To Estelle) Scissor. (She gets the scissors from the coffee table and hands them to George with the point facing him) Don't hand them to me with the point facing out!
+Setting: The Costanza house|action|Estelle, visibly nervous, reacts, flipping the scissors around
+Setting: The Costanza house|ESTELLE|I'm sorry.
+Setting: The Costanza house|GEORGE|You're sorry?!
+Setting: The Costanza house|ESTELLE|(Apologizing) I'll try to be more careful.
+Setting: The Costanza house|GEORGE|(Stern, angered) I hope so. (Takes the scissors)
+Setting: The Costanza house|action|Another moment passes as George primps his hands
+Setting: The Costanza house|ESTELLE|Georgie.. (Nudges George's arm, disrupting his work with the scissors) Oh, Georgie, would you like some Jell-O?
+Setting: The Costanza house|FRANK|(To Estelle, referring to the Jell-O) Why'd you put the bananas in there?!
+Setting: The Costanza house|ESTELLE|(Yelling) George likes the bananas!
+Setting: The Costanza house|FRANK|(Trying to match her tone) So let him have bananas on the side!
+Setting: The Costanza house|action|George stands up with the manicure tray. He's obviously had enough
+Setting: The Costanza house|GEORGE|Alright! Please, please! I cannot have this constant bickering!.. Stress is very damaging to the epidermis! Now, I have an important photo session in the morning - my hands have got to be in tip-top shape, so please - keep the television down, and the conversation to a minimum.
+Setting: The Costanza house|ESTELLE|(Meek) But Georgie.. what about the Jell-O?
+Setting: The Costanza house|GEORGE|(Definite) I'll take it in my room. (Walks off)
+Setting: The Costanza house|action|Scene ends
+Setting: A Today Show dressing room|action|Jerry's in a back room, getting dressed while Kramer's thumbing through a magazine. There's a knock at the door
+Setting: A Today Show dressing room|KRAMER|Yeah, come in.
+Setting: A Today Show dressing room|action|A Today Show stagehand enters
+Setting: A Today Show dressing room|STAGEHAND|I just wanted to let you know he's got about five minutes.
+Setting: A Today Show dressing room|KRAMER|Giddy-Up. (Stagehand leaves) Jerry! Five minutes!
+Setting: A Today Show dressing room|action|Jerry walks out from the back room wearing the 'puffy' shirt. He has the expression of extreme resentment
+Setting: A Today Show dressing room|KRAMER|Now that's a great looking shirt! (Gets up, admiring the shirt) Aye Captain! (Growls like a pirate) Yeah! I'm glad I ironed it. It's perfect. (Walks around Jerry, inspecting the shirt) Look at it! It's fantastic!
+Setting: A Today Show dressing room|JERRY|(Resisting) Kramer, how am I gonna wear this?! I-I can't wear this!
+Setting: A Today Show dressing room|KRAMER|(Reassuring) Hey, this look's better than anything you own. You know, in two months time, everybody's gonna be wearing the (imitates a pirate) pirate look!
+Setting: A Today Show dressing room|action|A knock at the door, Kramer answers it - it's Elaine
+Setting: A Today Show dressing room|KRAMER|Yeah.
+Setting: A Today Show dressing room|ELAINE|Hi, Kramer. Guess what - I just saw Bryant Gumbel, he said he might help out at the benefit!
+Setting: A Today Show dressing room|KRAMER|Great.
+Setting: A Today Show dressing room|action|Elaine stops in her tracks when she sees Jerry in the shirt. Then, bursts out laughing hysterically
+Setting: A Today Show dressing room|ELAINE|(Between laughs) What is that?!
+Setting: A Today Show dressing room|KRAMER|It's the puffy shirt. Look at it, eh? Whatd'ya think? Is it cool or what?
+Setting: A Today Show dressing room|ELAINE|(To Jerry) Why're you wearing that now?
+Setting: A Today Show dressing room|JERRY|(Obviously mad at the situation he's in) 'Why am I wearing is now?? I'll tell you why I'm wearing it now - because the lowtalker asked me to, that's why! And I said 'yes'. Do you know why? Because I couldn't HEAR her!
+Setting: A Today Show dressing room|ELAINE|When did she, (Snickers) when did she ask you this?
+Setting: A Today Show dressing room|JERRY|When we were at dinner, when Kramer went to the bathroom.
+Setting: A Today Show dressing room|ELAINE|I didn't hear anything.
+Setting: A Today Show dressing room|JERRY|(Yelling out) Of course not! Nobody hears anything when this woman speaks!
+Setting: A Today Show dressing room|ELAINE|(Just now making the matter serious) Well, you can't wear that on the show.
+Setting: A Today Show dressing room|KRAMER|(To Elaine, muffled, low, and threatening) Elaine, you want to stop?
+Setting: A Today Show dressing room|ELAINE|(Turning around to Kramer) Wha- What? No. (Back to Jerry) Jerry, you are promoting a benefit to CLOTHE homeless people. You can't come out dressed like that! You're all puffed up!.. You look like the Count of Monte Cristo!
+Setting: A Today Show dressing room|JERRY|(Arms out, complaining) I have to wear it! The woman has orders for this shirt based on me wearing it on TV.. they're producing them as we speak!
+Setting: A Today Show dressing room|ELAINE|(Arguing) Yeah, but you're supposed to be a compassionate person! That cares about poor people! You look like you're gonna.. swing in on a chandelier!
+Setting: A Today Show dressing room|action|A knock at the door, Jerry answers
+Setting: A Today Show dressing room|STAGEHAND|(Looking down at a clipboard, enters) Okay, let's go. (Looks up, points at Jerry's puffy shirt) Is that what you're wearing?
+Setting: A Today Show dressing room|action|Scene ends
+Setting: A photographer's studio|action|George is holding out his hands while a man and woman marvel at them. A photographer is fooling around with a camera towards the right wall
+Setting: A photographer's studio|MAN|I've never seen hands like these before..
+Setting: A photographer's studio|WOMAN|They're so soft and milky white.
+Setting: A photographer's studio|PHOTOGRAPHER|You know who's hands they remind me of? (Pauses for effect) Ray McKigney.
+Setting: A photographer's studio|action|The woman nods as the man looks off into space
+Setting: A photographer's studio|MAN|Ugh.. Ray.
+Setting: A photographer's studio|PHOTOGRAPHER|He was it.
+Setting: A photographer's studio|GEORGE|Who was he?
+Setting: A photographer's studio|PHOTOGRAPHER|The most exquisite hands you've ever seen.. Oh, he had it all.
+Setting: A photographer's studio|GEORGE|(Hands still out, even though they've stopped looking at them) What happened to him?
+Setting: A photographer's studio|action|Obviously a touchy subject, the woman coyly walks over to the photographer, and they both occupy themselves. The man is left to tell George the answer to his question
+Setting: A photographer's studio|MAN|(Clears throat) Tragic story, I'm afraid. He could've had any woman in the world.. but none could match the beauty of his own hand.. and that became his one true love..
+Setting: A photographer's studio|action|Long pause
+Setting: A photographer's studio|GEORGE|You mean, uh..?
+Setting: A photographer's studio|MAN|Yes. he was not.. master of his domain.
+Setting: A photographer's studio|GEORGE|(Makes a gesture saying he understands. The man nods) But how.. uh..?
+Setting: A photographer's studio|MAN|(Quick, to the point) The muscles.. became so strained with.. overuse, that eventually the hand locked into a deformed position, and he was left with nothing but a claw. (Holds hand up, displaying a claw-like shape) He traveled the world seeking a cure.. acupuncturists.. herbalists.. swamis.. nothing helped. Towards the end, his hands became so frozen the was unable to manipulate utensils, (Visibly disgusted by this last part) and was dependent on Cub Scouts to feed him. I hadn't seen another pair of hands like Ray McKigney's until today. You are his successor. (George looks down at his hands) I uh only hope you have a little more self-control.
+Setting: A photographer's studio|GEORGE|(Smiling to himself) You don't have to worry about me. (Nodding, gloating) I won a contest.
+Setting: A photographer's studio|action|The man nods, unsure of what to say or do
+Setting: A photographer's studio|PHOTOGRAPHER|Ok, let's get to work.
+Setting: A photographer's studio|action|Scene ends
+Setting: The Today Show|action|Jerry's in the guest chair, and Bryant Gumbel's in the interviewer's spot. Jerry, visibly, does not want to be there
+Setting: The Today Show|BRYANT|(Talking directly to the camera) Back now, 7:46. On Tuesday the 19th here in New York there will be a benefit for the Goodwill Industries - a used clothing organization that provides services to the needy. One of the performers will be comedian Jerry Seinfeld. (Turns to face Jerry) Jerry, good morning.
+Setting: The Today Show|JERRY|(Mumbling out) Thank you, Bryant.
+Setting: The Today Show|BRYANT|(Pointing out) And speaking of clothing, that is a very, very unusual shirt you have on.
+Setting: The Today Show|JERRY|(Looking down at the shirt; mumbling) Oh, thank you.
+Setting: The Today Show|action|Backstage, Kramer's standing with his girlfriend. She's brimming with pride
+Setting: The Today Show|BRYANT|You're all kinda, (Waves his hands around) kinda "puffed up". (Chuckles)
+Setting: The Today Show|JERRY|Yeah, it's a puffy shirt.
+Setting: The Today Show|BRYANT|(Laughing) You look kinda like a pirate.
+Setting: The Today Show|action|Elaine, also standing backstage, closes her eyes - showing her dissatisfaction
+Setting: The Today Show|JERRY|(Nervous laughter) Yeah.. like a pirate.. (Attempting to get on another subject) Anyway, ah, you know, we're hoping to, um, raise enough money.. with this.. uh..
+Setting: The Today Show|BRYANT|(Rudely interrupting, still snickering at the shirt) You.. ah, look, I'm sorry, it is just a VERY unusual shirt. It could be kind of a whole new look for you.. you know, you could put a patch over an eye, you could be kind of like the pirate-comedian.
+Setting: The Today Show|JERRY|Uh-huh, yeah. (Smiling, nodding, clearly wanting Bryant to shut up)
+Setting: The Today Show|BRYANT|Are you going to be wearing the shirt at the concert?
+Setting: The Today Show|JERRY|(Losing it, mad) Look, it's not my shirt.
+Setting: The Today Show|BRYANT|(Confused) Whose shirt is it?
+Setting: The Today Show|JERRY|What's the difference? I agreed to wear it. It's - it's a puffy shirt. I feel ridiculous in it, and I think it's the stupidest shirt I've ever seen, to be perfectly honest with you. (Nodding)
+Setting: The Today Show|LESLIE|(Off camera, shrill, high pitched yelling) You bastard!
+Setting: The Today Show|BRYANT|(To Jerry) Did you hear that?
+Setting: The Today Show|JERRY|(Pointing off screen, nodding) THAT I heard.
+Setting: The Today Show|action|Scene ends
+Setting: Photographer's studio|action|George is modeling a watch as the man and woman stand by. The photographer is setting the camera
+Setting: Photographer's studio|PHOTOGRAPHER|(Instructing George) Alright, a little to the left.. Little higher, little higher. Good. Perfect! Perfect.
+Setting: Photographer's studio|GEORGE|Like that?
+Setting: Photographer's studio|PHOTOGRAPHER|Just like that. Hold it. (Takes picture) Good, ok, let me get just one more, one more. (Takes another picture) Good, that's it. You're done.
+Setting: Photographer's studio|GEORGE|That's it?
+Setting: Photographer's studio|PHOTOGRAPHER|(Smiling) That's it.
+Setting: Photographer's studio|MAN|(Pulling a slip of paper out of his coat pocket) And here's your check. (George accepts) Thank you very much. (Pats him on the back) It was an honor.
+Setting: Photographer's studio|WOMAN|It was great working with you. (Somewhat coy) Your hands are beautiful.
+Setting: Photographer's studio|GEORGE|(Modest) Oh, thank you very much. (Chuckles)
+Setting: Photographer's studio|WOMAN|You know, I was wondering - if you're not doing anything later, maybe you'd like to get together..?
+Setting: Photographer's studio|action|Scene ends
+Setting: Park|action|George skipping along the city park path, dancing arms all the way up, rejoicing
+Setting: Park|action|Scene ends
+Setting: Today Show dressing room|action|Jerry, still in the puffy shirt, is getting yelled at by Leslie. Kramer's trying to calm her down, she's hysterical
+Setting: Today Show dressing room|LESLIE|You ruined me! You ruined my career!
+Setting: Today Show dressing room|JERRY|Oh, just keep your voice down. Everyone can hear you.
+Setting: Today Show dressing room|LESLIE|(Shouting out) Oh, I don't give a damn!
+Setting: Today Show dressing room|JERRY|(Reasoning) You know, if you talked this loud to begin with, I wouldn't be in this costume in the first place!
+Setting: Today Show dressing room|action|Leslie, deeply let down, finds comfort in Kramer as they go back and sit together on a sofa. George enters, ecstatic
+Setting: Today Show dressing room|GEORGE|(Quick, excited talking) Hey, hey! You can't believe this. Look at this check! (Hands it to Jerry) They told me I had the most beautiful hands they'd ever seen in their lives - except for this McKigney guy - this great looking girl gave me her phone number.. I got it! I got it all! I'm busting. Jerry, I'm busting!
+Setting: Today Show dressing room|ELAINE|Hey, I've never noticed your hands before. Let me see.
+Setting: Today Show dressing room|GEORGE|Alright. (Holds them up)
+Setting: Today Show dressing room|ELAINE|(Obviously not impressed, dull) Yeah, real nice.
+Setting: Today Show dressing room|GEORGE|(Turning back to Jerry, he takes the check back. He just now notices the shirt Jerry's wearing, and snickers, pointing) Nice shirt.. (Laughs, Jerry shrugs) What is this? Is this what you wore on the show?
+Setting: Today Show dressing room|action|Leslie is in full attention of what George is saying, quietly steaming
+Setting: Today Show dressing room|JERRY|Yeah.
+Setting: Today Show dressing room|action|Kramer notices Leslie's state of mind
+Setting: Today Show dressing room|GEORGE|What, have you completely lost your mind?
+Setting: Today Show dressing room|KRAMER|(Faint, trying to shut George up) Hey..
+Setting: Today Show dressing room|GEORGE|Who's dressing you? (Laughs) You look like a complete idiot! You know, I wouldn't wipe my- (Unable to take anymore, Leslie gets up and shoves George violently. His hands go straight for the hot iron sitting on the dressing room table. George screams out in agony) AAHHHH!!!!! (his voice is heard outside the building, on the street, and in the park were a bunch of pigeons are scared by the yelling)
+Setting: Today Show dressing room|action|Scene ends
+Setting: A Restaurant|action|George's hands are completely bandaged up. Elaine's stirring a cup of coffee for him
+Setting: A Restaurant|ELAINE|You ready?
+Setting: A Restaurant|action|George nods. She holds the cup up to his mouth, he takes a sip
+Setting: A Restaurant|GEORGE|Ow! Hot! Hot!
+Setting: A Restaurant|ELAINE|(Sincere) I'm sorry.
+Setting: A Restaurant|GEORGE|(Reflecting on his life gone wrong) This McKigney guy had a few good years.. (To Kramer, bitter) How could you forget to turn off an iron?
+Setting: A Restaurant|KRAMER|Well, I was excited because Jerry was putting on the puffy shirt.
+Setting: A Restaurant|GEORGE|My whole life is ruined because of the (Mocking, bitter tone) "puffy shirt".
+Setting: A Restaurant|JERRY|(Pointing out) It didn't do me any good either! That benefit was the worst show I ever did. Some of those heckles were really uncalled for: "Avast ye matey" - what the hell does that mean?! "20 degrees off the starboard side - the Spanish Galleon!" - there's no comeback for that!
+Setting: A Restaurant|ELAINE|(Reflecting) Well, it got me fired from the benefit committee.
+Setting: A Restaurant|KRAMER|You know all those stores canceled out on her? She's finished. (Concluding) We're (Leslie and him) finished.
+Setting: A Restaurant|JERRY|Really? What happened?
+Setting: A Restaurant|KRAMER|(Showing pure irony) I just can't be with someone who's life is in complete disarray.
+Setting: A Restaurant|JERRY|What happened with all the shirts?
+Setting: A Restaurant|KRAMER|They gave them all to Goodwill.
+Setting: A Restaurant|action|Finished, they all exit the cafe. George is muttering "puffy shirt.. puffy shirt.." as they meet up with two homeless men dressed in the puffy shirts with their hands out - begging for some change. George shows his two bandaged hands, then walks off with Elaine
+Setting: A Restaurant|JERRY|(While digging in his pocket for some money, he looks over the shirts one last time) You know, it's really not a bad looking shirt..
+Setting: A Restaurant|action|Scene ends

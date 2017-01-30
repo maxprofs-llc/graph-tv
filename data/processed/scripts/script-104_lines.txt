@@ -1,0 +1,427 @@
+Lobby, Mr. Pitt's Building|action|Jerry comes in from the street and walks toward the elevators. A doorman, stood reading a newspaper on a counter, objects. There's an undertone to the doorman's voice - unfriendly, contemptuous, even an edge of menace.
+Lobby, Mr. Pitt's Building|DOORMAN|Whoah, whoah, whoah. (rises and turns to Jerry) May I help you?
+Lobby, Mr. Pitt's Building|JERRY|(indicates with his thumb) Yeah, I'm just going up to see Elaine Benes.
+Lobby, Mr. Pitt's Building|DOORMAN|(unfriendly smile) Benes? (moves toward Jerry) No-one here by that name.
+Lobby, Mr. Pitt's Building|JERRY|Oh, she's uh, she's house-sitting for Mr. Pitt.
+Lobby, Mr. Pitt's Building|DOORMAN|Oh. House-sitting, mmm.
+Lobby, Mr. Pitt's Building|JERRY|Yeah.
+Lobby, Mr. Pitt's Building|DOORMAN|What're you, the boyfriend? Here for a... quickie?
+Lobby, Mr. Pitt's Building|JERRY|Can I just go up?
+Lobby, Mr. Pitt's Building|DOORMAN|Oh, I get it. Why waste time making small talk with the doorman? I should just shut up and do my job, opening the door for you.
+Lobby, Mr. Pitt's Building|action|The doorman wanders back to his newspaper. Jerry shrugs and pushes the button for one of the elevators. There's a pause as he waits for it to arrive. The doorman stands holding his paper, staring at Jerry, with the unfriendly smile on his face. Jerry throws a smile of his own back. The elevator is still not moving. Jerry tries to break the uncomfortable silence.
+Lobby, Mr. Pitt's Building|JERRY|How 'bout those Knicks?
+Lobby, Mr. Pitt's Building|DOORMAN|Oh, I see. On the sports page...
+Lobby, Mr. Pitt's Building|JERRY|Yeah.
+Lobby, Mr. Pitt's Building|DOORMAN|...What makes you think I wasn't reading the Wall Street page? Oh, I know, because I'm the uneducated doorman.
+Lobby, Mr. Pitt's Building|action|Jerry turns away and looks at the indicator, hoping that the elevator will come and rescue him.
+Street|action|George and Kramer walk along together.
+Street|KRAMER|So, you think your parents'll get back together?
+Street|GEORGE|I hope so. I can't take him living with me much longer. He makes this kasha, it stinks up the whole house.
+Street|action|Kramer has noticed a 'Sightseeing Tour' bus on the street, with a German flag painted on the door. It gives him an idea. Kramer steps in front of George and brings them to a halt.
+Street|KRAMER|Hey, George, stick 'em up.
+Street|GEORGE|What?
+Street|KRAMER|For these German tourists. Pretend that I'm robbing you.
+Street|GEORGE|Why?
+Street|KRAMER|So these people can go back home and tell their friends they saw a real New York mugging. It'll give them a thrill.
+Street|action|Kramer pushes his hand deep into a pocket and raises his arm, giving the impression that he has a gun concealed beneath his coat.
+Street|KRAMER|Awright, hands up, porky!
+Street|action|On the tourist bus, the occupants attention is attracted. They look out the window at the 'mugging'. George has his hands up, and Kramer is feeling through George's pockets with his free hand.
+Street|KRAMER|That's it. Now, gimme your wallet. Got it in here, huh, fat boy!
+Street|action|The tourist are looking out of the bus. Shocked, they knock on the glass. Kramer grabs George by the collar of his jacket and is shaking him violently.
+Street|KRAMER|(aggressive) Is that all you got?! Hah? Is that all you got?!
+Street|GEORGE|Alright, that's enough.
+Street|KRAMER|I'll tell you when it's enough! (he releases George) Alright, now you better not say anything, or I'll stalk you!
+Mr. Pitt's Apartment|action|Elaine admits Jerry to the apartment.
+Mr. Pitt's Apartment|ELAINE|Where've you been? We're gonna miss the movie, let's go.
+Mr. Pitt's Apartment|action|Elaine collects her bag, in readiness to leave.
+Mr. Pitt's Apartment|JERRY|I am not going back down there. I can't face that guy again.
+Mr. Pitt's Apartment|ELAINE|What guy?
+Mr. Pitt's Apartment|JERRY|The doorman. I don't wanna play anymore of his mindgames. What time does he get off?
+Mr. Pitt's Apartment|ELAINE|Six. But then the night doorman comes on. He's much scarier. (scary noise) Whugh! (laughs) Ha-ha.
+Mr. Pitt's Apartment|JERRY|Well, it's almost six now. Can't we just wait til he goes home?
+Mr. Pitt's Apartment|ELAINE|(unhappy) I...
+Mr. Pitt's Apartment|JERRY|We'll still make the movie.
+Mr. Pitt's Apartment|ELAINE|(accepting) Okay, okay.
+Mr. Pitt's Apartment|action|Jerry and Elaine sit on the couch to wait. They simultaneously look at their watches.
+George's Apartment|action|George and Kramer wear their jackets, ready to leave. Frank is in a shirt, mixing a bowl (of kasha?) as they talk.
+George's Apartment|GEORGE|What'd you do today, dad?
+George's Apartment|FRANK|Today, I went record shopping in Greenwich Village. I bought this record, but I can't seem to find the hi-fi.
+George's Apartment|GEORGE|I don't have a hi-fi.
+George's Apartment|FRANK|Didn't I give you my old record player?
+George's Apartment|GEORGE|(leaving to the bedroom) I gave it to Cosmo.
+George's Apartment|FRANK|Cosmo? Who's Cosmo?
+George's Apartment|KRAMER|I'm Cosmo.
+George's Apartment|FRANK|Well, I want it back. I wanna listen to that cha-cha record.
+George's Apartment|KRAMER|(little dance) One-two, cha-cha-cha.
+George's Apartment|GEORGE|(coming back in) Alright, alright. Can we go out and eat?
+George's Apartment|FRANK|(putting down the bowl) Lemme change my shirt.
+George's Apartment|action|George and Kramer stand together, by George's computer. Frank unfastens his shirt and opens it. Kramer and George turn and see Frank's torso exposed as the shirt comes off. Kramer's eyebrows go up in surprise. George looks horrified, and puts his hand to his mouth like he's going to vomit.
+Mr. Pitt's Apartment|action|Elaine still sits on the couch. Jerry is standing at the window, holding the curtain open and looking down at the street.
+Mr. Pitt's Apartment|ELAINE|Jerry, it's six. (claps her hands) Let's go.
+Mr. Pitt's Apartment|JERRY|Uh, that doorman's still milling around outside. He's very peculiar.
+Mr. Pitt's Apartment|action|The phone on Mr. Pitt's desk rings. Jerry is nearer, so he moves to answer it.
+Mr. Pitt's Apartment|ELAINE|No, don't...
+Mr. Pitt's Apartment|JERRY|(picks up phone) Hello? (listens) Oh, hi Mr. Pitt.
+Mr. Pitt's Apartment|action|Elaine looks exasperated.
+Mr. Pitt's Apartment|ELAINE|(quietly) Give that to me.
+Mr. Pitt's Apartment|ELAINE|(taking the phone) Hello Mr. Pitt. How's Scotland?
+Mr. Pitt's Apartment|action|Mr. Pitt sits in a comfortable chair in Scotland.
+Mr. Pitt's Apartment|ELAINE|A party. Oh no, that was just my stupid friend Jerry.
+Mr. Pitt's Apartment|action|Jerry is peering out of the window again.
+Mr. Pitt's Apartment|JERRY|Alright, he just left. We can go.
+Mr. Pitt's Apartment|ELAINE|Believe me, we're not entertained. We were just leaving. (to Jerry) Oh, can you grab those empty bottles for me.
+Mr. Pitt's Apartment|action|Jerry picks up a paper sack of empty bottles from the floor by the desk.
+Mr. Pitt's Apartment|ELAINE|Oh, well, Mr. Pitt, there's really nothing that can't wait. We're trying to catch a movie.
+Mr. Pitt's Apartment|ELAINE|Alright. (to Jerry, upset) I can't go.
+Mr. Pitt's Apartment|action|Jerry gives an irritated glance upwards and goes to leave.
+Lobby, Mr. Pitt's Building|action|Jerry emerges from the elevator (without the bottles). There is a new doorman on duty, who gives Jerry a friendly nod and smile and holds the door open for him. Jerry nods and smiles back, and leaves.
+Mr. Pitt's Apartment|action|Elaine is kneeling with the phone. She has Mr. Pitt's mail spread out on the floor in front of her and is going through it for Mr. Pitt's benefit.
+Mr. Pitt's Apartment|ELAINE|...Uhm, the new Time magazine. The new People...
+Street|action|Jerry walks down the street. He passes a doorway, where stands a familiar figure. The doorman still has the attitude problem.
+Street|DOORMAN|Hey, buddy.
+Street|JERRY|(surprise) You? Wh...what're you doing here? You work at this building too?
+Street|DOORMAN|Ah, sure. Poor doorman has to work two jobs to put food on the table for mother and baby. (supercilious) No, I live here. That's okay, isn't it?
+Street|JERRY|So you work all day as a doorman at one building. Then you come home and stand outside your own building?
+Street|DOORMAN|You got a problem with that?
+Street|JERRY|Look, I'm not going in your building. I really don't have to talk to you. Goodbye.
+Street|action|Jerry walks away.
+Street|DOORMAN|(calling after Jerry) You really think you're better than me, don't you?!
+Monk's|action|George and Kramer sit one side of a booth, facing Jerry. George is wearing a purple shirt. Kramer's eating a sandwich heartily. George looks as if he might never want to eat again.
+Monk's|GEORGE|My father opened his shirt...
+Monk's|JERRY|Yeah, and?
+Monk's|GEORGE|(nods to Kramer) Tell him, Kramer.
+Monk's|KRAMER|(matter of fact) He had breasts.
+Monk's|action|George nods, Jerry has a confused expression. Kramer keeps on eating. Jerry thinks for a moment, George can't even look anyone in the eye.
+Monk's|JERRY|What d'you mean, breasts?
+Monk's|GEORGE|(waves his hands) Big breasts!
+Monk's|JERRY|So what? A lot of older men have that.
+Monk's|KRAMER|No, not these. These were real hooters.
+Monk's|action|Jerry pulls a face at the thought.
+Monk's|GEORGE|I was throwing up all night. It was like my own personal Crying Game.
+Monk's|KRAMER|Well, maybe you're gonna get 'em too, George.
+Monk's|GEORGE|(worried) Yeah, that's right. What if it's a genetic thing, like father like son?
+Monk's|JERRY|But, your father's not bald.
+Monk's|GEORGE|No, no no. That skips a generation. The baldness gene comes from your grandfather.
+Monk's|JERRY|Then I suppose the bosom gene comes from your grandmother.
+Monk's|action|George snaps his finger and points, in agreement with Jerry. He continues to look deeply worried.
+Monk's|KRAMER|You know, Frank can't be too comfortable with those things clanging around. He should wear something for support.
+Monk's|GEORGE|You mean like a bra?
+Monk's|KRAMER|A bra is for ladies. I'm talking about a support undergarment specifically designed for men.
+Monk's|JERRY|Boy, that brain never stops working, does it?
+Monk's|KRAMER|I tell you, I'm gonna go noodle with this.
+Monk's|action|Kramer leaves. A buxom blonde woman in a purple shirt is making her way to the door, as she passes the booth she notices George.
+Monk's|GEORGE|(thinking she means the breasts) What!!
+Monk's|GEORGE|Oh, Huh, imagine that.
+Monk's|action|The woman smiles and leaves. Elaine enters Monk's and comes over to Jerry. She's not happy about something.
+Monk's|ELAINE|(to Jerry) What? What'd you say to the doorman?
+Monk's|JERRY|What? Nothing.
+Monk's|ELAINE|(sitting beside Jerry) He claims that you followed him home, and started harassing him.
+Monk's|JERRY|What has this guy got a personal vendetta with me?! What'd I do to him? 'Cos I asked him about the Knicks?
+Monk's|ELAINE|Hey, did you make the movie?
+Monk's|JERRY|No.
+Monk's|ELAINE|You wanna go tonight? You can pick me up.
+Monk's|JERRY|Alright. Can we go to a later show, so he's off his shift when I come by?
+Monk's|ELAINE|Ugh. So now we have to rearrange our lives to avoid the doorman?
+Monk's|JERRY|Yes, we do.
+Monk's|action|Elaine looks over at George, wondering what he's doing. George is holding the neck of his shirt open, and is peering down the inside of the garment at his chest. As Elaine and Jerry watch, George jiggles his upper body, to see if there's any movement.
+Monk's|ELAINE|What is wrong with George?
+Monk's|JERRY|He's... trying to get something off his chest.
+Monk's|action|George ends his experiment, and rises to leave. He digs in his wallet to pay the cheque.
+Monk's|GEORGE|(agitated) Alright, I gotta try and talk my mother into taking him off my hands.
+Lobby, Mr. Pitt's Building|action|Jerry enters from the street, only to find the unpleasant doorman standing inside the lobby. The doorman's demeanour hasn't improved.
+Lobby, Mr. Pitt's Building|DOORMAN|Help you?
+Lobby, Mr. Pitt's Building|JERRY|(jumps in surprise) Hoh! What're you doing here? You're supposed to be gone.
+Lobby, Mr. Pitt's Building|DOORMAN|I traded shifts with the night doorman. He had some personal affairs to attend to. You see, my fellow doorman and I watch out for each other. We don't stab each other in the back, like people in your world.
+Lobby, Mr. Pitt's Building|JERRY|(trying to ease the tension) Look, I don't want any trouble. I don't have a doorman in my building. I guess I'm just not used to talking to them. I'd really just like to be friends.
+Lobby, Mr. Pitt's Building|DOORMAN|You wanna be friends?
+Lobby, Mr. Pitt's Building|JERRY|I'd like to be.
+Lobby, Mr. Pitt's Building|DOORMAN|Then watch the door for a minute, would you?
+Lobby, Mr. Pitt's Building|action|The doorman swaps places with Jerry, putting Jerry beside the counter.
+Lobby, Mr. Pitt's Building|JERRY|What?
+Lobby, Mr. Pitt's Building|DOORMAN|Yeah, I just wanna run and get a beer. I'll be back in a minute.
+Lobby, Mr. Pitt's Building|JERRY|Wha...? Wai... wait a second. What do I do?
+Lobby, Mr. Pitt's Building|DOORMAN|It's not brain surgery. You open the door for people who live here. And, if they don't live here, don't let them in. (takes off his hat) Here. (putting it on Jerry's head) Wear that.
+Lobby, Mr. Pitt's Building|JERRY|Oh.
+Lobby, Mr. Pitt's Building|action|The doorman goes out the door. Jerry takes off the hat, which he's not thrilled about wearing, and leans on the counter. The doors of an elevator open, and a young woman pushing a baby buggy emerges and heads for the exit. After a second, Jerry realises his job. He puts on the hat and opens the door to allow the woman to leave. AS he opens the door, a man enters and strolls past Jerry into the elevator vacated by the woman.
+Lobby, Mr. Pitt's Building|JERRY|(to the man in the elevator) Hey, hey. Wait a second. Hey! Hello!
+Lobby, Mr. Pitt's Building|action|The man takes no notice of Jerry, the doors close. The street door opens and another, older guy, enters. Jerry moves and challenges him.
+Lobby, Mr. Pitt's Building|JERRY|Hey, hey, wait a second. You live here?
+Lobby, Mr. Pitt's Building|action|Jerry steps aside and motions for the guy to carry on into the building, but he looks resentful about it.
+Lobby, Mr. Pitt's Building|JERRY|(after the guy) You think you're better than me?
+Bus|action|George is riding the bus. As the vehicle travels along the street, it rattles, shakes and shudders like all poorly maintained public transport. George is strap-hanging, and he gets a worried look as he feels there might be some movement on his chest. He puts his hands on his chest, then notices another guy on the buss looking at him. Self-consciously, George pulls his coat tight shut, and crosses his arms firmly.
+Lobby, Mr. Pitt's Building|action|Jerry is standing behind the counter, reading the doorman's newspaper. A FedEx delivery guy enters with a package, lays it on the counter and scans a barcode on it with a little device he takes from his pocket. Jerry watches, disinterested. There is a brief pause, as the FedEx guy waits for something.
+Lobby, Mr. Pitt's Building|JERRY|Oh, right.
+Lobby, Mr. Pitt's Building|action|Jerry takes the FedEx guy's pen and signs for the package, then goes back to the newspaper.
+Lobby, Mr. Pitt's Building|action|Jerry gives the guy a hostile look, much as the doorman might.
+Lobby, Mr. Pitt's Building|JERRY|(dismissive) Yeah, yeah, yeah.
+Lobby, Mr. Pitt's Building|action|The FedEx guy leaves, looking a touch unhappy at Jerry's attitude. Jerry puts the paper down, and goes to have a look through the door. There's no sign of the doorman, so Jerry tosses the hat onto the counter, dismissing it with a wave of the hand as he moves to the elevator.
+George's Apartment|action|Frank opens the door, to reveal Kramer, carrying a large portable record player.
+George's Apartment|KRAMER|Hey. I uh, brought back your record player, huh.
+George's Apartment|FRANK|Thank you, Kramer.
+George's Apartment|KRAMER|Yeah.
+George's Apartment|FRANK|(indicating a chair) Put it over there.
+George's Apartment|action|Kramer dumps the record player on the chair. Frank goes to the couch, not moving very easily.
+George's Apartment|KRAMER|So, how you feeling?
+George's Apartment|FRANK|Tired.
+George's Apartment|KRAMER|Uh huh. Your back hurt?
+George's Apartment|FRANK|How did you know?
+George's Apartment|KRAMER|Well, it's obvious, you know. You're carrying a lot of extra baggage up there.
+George's Apartment|FRANK|(looks down, and indicates his chest) Up here?
+George's Apartment|KRAMER|Oh, yeah. Top floor. (sits beside Frank) Listen, Frank, have you ever considered wearing something for support? Now, look at this. (reaches into his pocket) Mind you, this is just a prototype.
+George's Apartment|action|Kramer brings out a garment constructed of canvas and elasticated fabric.
+George's Apartment|FRANK|You want me to wear a bra?!
+George's Apartment|KRAMER|No, no. A bra is for ladies.
+George's Apartment|action|Kramer holds the garment up to his own chest.
+George's Apartment|KRAMER|Meet, the bro.
+Estelle's Car|action|Estelle is driving a preoccupied-looking George.
+Estelle's Car|ESTELLE|So, is your father excited about coming home?
+Estelle's Car|action|George is miles away.
+Estelle's Car|ESTELLE|George?
+Estelle's Car|GEORGE|(broaching a subject) Hey mom. What kind of woman was grandma?
+Estelle's Car|ESTELLE|All of a sudden you're interested in your grandmother?
+Estelle's Car|GEORGE|Well, you know. You get to a certain point, you wanna know about your roots.
+Estelle's Car|ESTELLE|She was a lovely woman.
+Estelle's Car|GEORGE|Yuh. What about physically?
+Estelle's Car|ESTELLE|Physically?
+Estelle's Car|GEORGE|Yeah, you know, what'd she uh, look like?
+Estelle's Car|ESTELLE|Well, you've seen pictures.
+Estelle's Car|GEORGE|(to himself) You can't tell much from those pictures.
+Estelle's Car|ESTELLE|So what?
+Estelle's Car|GEORGE|Was she uh, was she a big, uh woman?
+Estelle's Car|ESTELLE|Big? No, just my height.
+Estelle's Car|GEORGE|Bosomy?
+Estelle's Car|ESTELLE|Bosomy? You wanna know if your grandmother was bosomy?!
+Estelle's Car|GEORGE|(trying to laugh it off) No, I was just wondering. The information could be relevant.
+Estelle's Car|ESTELLE|Where do you get your genes from?!
+Estelle's Car|GEORGE|(to himself) That's what I'd like to know.
+Elevator, Mr. Pitt's Building|action|Elaine and Jerry ride down.
+Elevator, Mr. Pitt's Building|ELAINE|I can't believe you left your post.
+Elevator, Mr. Pitt's Building|JERRY|He left me there. You see the mind games?
+Elevator, Mr. Pitt's Building|action|The bell rings as they reach the lobby, and the doors open.
+Lobby, Mr. Pitt's Building|action|Elaine and Jerry emerge into the lobby to find four or five tenants standing around, and a uniformed cop taking notes.
+Lobby, Mr. Pitt's Building|ELAINE|(to one of the tenants) Hey, what's up? What's going on here?
+Lobby, Mr. Pitt's Building|action|Jerry and Elaine look shocked.
+Lobby, Mr. Pitt's Building|ELAINE|(quietly to Jerry) Jerry, let's get out of here.
+Lobby, Mr. Pitt's Building|JERRY|Yeah.
+Lobby, Mr. Pitt's Building|action|Elaine and Jerry depart the scene of the crime in some haste.
+George's Apartment|action|Frank's cha-cha record is playing loudly on the record player. Frank and Kramer are half-dancing to the music, as Frank tries on the bro. Kramer stands behind Frank, making adjustments to the garment. The door opens and George and Estelle enter. They see the dancing twosome, and the undergarment, and look stunned.
+George's Apartment|ESTELLE|(shocked) Oh, my god!
+George's Apartment|action|George is frozen, staring. Kramer carries on dancing, behind a relatively unfazed Frank.
+Jerry's Apartment|action|The lighting, with moonlight coming through the blinds, and Elaine's red dress, give a very noirish look to the scene.
+Jerry's Apartment|ELAINE|What were you doing watching the door anyway?
+Jerry's Apartment|JERRY|He asked me to. We were getting along.
+Jerry's Apartment|ELAINE|(thinking) You know, my fingerprints are all over this. That doorman knows you're a friend of mine. He'll tell that co-op lady, she'll tell Mr. Pitt... Jerry, I'm in this too deep.
+Jerry's Apartment|JERRY|Don't you find it odd that as soon as he leaves, the couch gets stolen? Maybe he's setting me up!
+Jerry's Apartment|ELAINE|(taking command) Alright, shut up. Shut up. Just let me think. I gotta think. We gotta get our story straight.
+Jerry's Apartment|JERRY|Alright, well what if we say...
+Jerry's Apartment|ELAINE|Alright, (claps hands) here it is. This is what we'll tell 'em. You came to pick me up...
+Jerry's Apartment|JERRY|I came to pick you up.
+Jerry's Apartment|ELAINE|Yeah. That's what I just said.
+Jerry's Apartment|JERRY|I know. I was just...
+Jerry's Apartment|ELAINE|Yeah, I know what you were just. It's not helping.
+Jerry's Apartment|JERRY|Alright, well. Just, start again, then.
+Jerry's Apartment|ELAINE|Okay, you came to pick me up at...
+Jerry's Apartment|JERRY|Right.
+Jerry's Apartment|ELAINE|You see? Again.
+Jerry's Apartment|JERRY|What? I said right.
+Jerry's Apartment|action|Elaine give Jerry a look like he's an idiot.
+Jerry's Apartment|ELAINE|Alright, you came right upstairs, without talking to the doorman.
+Jerry's Apartment|JERRY|But the doorman's gonna say that I was there.
+Jerry's Apartment|ELAINE|(intense) So what? No-one's gonna believe a doorman!
+Jerry's Apartment|JERRY|But I don't know if this is gonna work.
+Jerry's Apartment|ELAINE|(aggressive, with finger pointing) Just stick with the story. We'll be fine. Let me do the talking!
+Jerry's Apartment|JERRY|Okay.
+Jerry's Apartment|ELAINE|Good. Now fix me a drink.
+George's Apartment|action|Frank has his shirt back on, over the bro.
+George's Apartment|KRAMER|How's that feel?
+George's Apartment|FRANK|This feels very comfortable.
+George's Apartment|KRAMER|You see?
+George's Apartment|FRANK|I feel ten years younger.
+George's Apartment|KRAMER|Yeah, and your posture's a lot better. Look at you.
+George's Apartment|action|Frank walks a few paces.
+George's Apartment|FRANK|And I can breathe easier, too.
+George's Apartment|KRAMER|I told you! Now, Frank, listen. Here's what I'm thinking. Now, you have a friend in the bra business, right?
+George's Apartment|FRANK|Of course. Sid Farkus. He's the best in the business.
+George's Apartment|KRAMER|(claps his hands) Here's our chance. What d'you say? It'll be me, you and the bro, bro.
+George's Apartment|FRANK|Let's do it!
+George's Apartment|action|Kramer and Frank share an elaborate and forceful handshake.
+George's Apartment|FRANK|Except, we gotta do something about the name.
+George's Apartment|KRAMER|Why, what's wrong with bro?
+George's Apartment|FRANK|No, bro's no good. Too ethnic.
+George's Apartment|KRAMER|Alright, you got something better?
+George's Apartment|FRANK|How 'bout uh... the mansiere?
+George's Apartment|KRAMER|Mansiere?
+George's Apartment|FRANK|That's right. A brassiere for a man. The mansiere, get it?
+George's Apartment|action|George enters, unhappy. He tosses his keys aside.
+George's Apartment|GEORGE|(upset) Well, you've scared her off. We may never see mom again.
+George's Apartment|FRANK|Hey George, what d'you like better? The bro, or the mansiere?
+George's Apartment|action|George looks down at the floor for a few seconds.
+George's Apartment|GEORGE|Dad. We need to talk.
+Lobby, Mr. Pitt's Building|action|The unpleasant doorman is being grilled by a severe looking Mrs. Payton.
+Lobby, Mr. Pitt's Building|DOORMAN|I had to use the bathroom, so I asked this guy to watch the door for a few minutes.
+Lobby, Mr. Pitt's Building|action|Behind Mrs. Payton, Elaine enters from the street and strolls to the elevator.
+Lobby, Mr. Pitt's Building|DOORMAN|(indicating Elaine) Actually, it was her friend.
+Lobby, Mr. Pitt's Building|action|Elaine turns as she hears this, and Mrs. Payton goes to talk to her. Elaine looks a tad worried at first but, of course, she has a plan.
+Lobby, Mr. Pitt's Building|action|The doorman peers over at the conversing
+Lobby, Mr. Pitt's Building|ELAINE|Oh really? (skeptical) The doorman. And, pray tell, what did the doorman say?
+Lobby, Mr. Pitt's Building|ELAINE|(dismissive) Oh, my. Well, the doorman certainly has a wild imagination, doesn't he?
+Lobby, Mr. Pitt's Building|action|Meanwhile, the doorman has discovered something behind the counter. He brings out the FedEx package Jerry signed for and carried it toward Mrs. Payton.
+Lobby, Mr. Pitt's Building|DOORMAN|Well... what do we have here? Perhaps Miss Benes could explain why a Jerry Seinfeld signed for this package (handing the package to Mrs. Payton) at the exact same time the couch was stolen.
+Lobby, Mr. Pitt's Building|action|Mrs. Payton and the doorman both look at Elaine. Elaine looks sick, as she's caught out.
+Lobby, Mr. Pitt's Building|ELAINE|(in a rush) He never watched a door before, Mrs Payton, he didn't know how to do it. (pleading) You know, he's a comedian, Mrs Payton, they don't know how to do anything.
+Lobby, Mr. Pitt's Building|action|The doorman walks silently away with the package and a quiet smile of triumph.
+Lobby, Mr. Pitt's Building|ELAINE|(desperate) Don't you see what's going on here? He set us up. He's playing all these mindgames.
+Lobby, Mr. Pitt's Building|action|The doorman stands behind his counter, smiling at Elaine's discomfiture.
+Monk's|action|Jerry and a downcast George sit one side of a booth, with an animated Elaine facing them.
+Monk's|JERRY|You're saying I'm responsible for the couch?
+Monk's|ELAINE|(worked up) There was nothing I could do. He said he had a Federal Express slip with your signature on it.
+Monk's|JERRY|(livid) Diabolical. He thought of everything. He was setting me up from day one!
+Monk's|ELAINE|Is it possible we were victims of a sting?
+Monk's|JERRY|I'm sure he's having a good laugh over this with his doorman buddies.
+Monk's|action|Jerry stares off, as he imagines...
+Jerry's Imagination|action|In the lobby of Mr. Pitt's building, a bunch of doormen stand around the unpleasant doorman, laughing at his tale.
+Jerry's Imagination|DOORMAN|No. I was just messing with his head.
+Jerry's Imagination|action|The doormen whoop it up again
+Monk's|action|Jerry has an expression of pure hatred for all doormen.
+Monk's|ELAINE|Anyway, Jerry... Jerry?
+Monk's|action|Jerry snaps back to the here and now.
+Monk's|ELAINE|We have to replace the couch.
+Monk's|JERRY|Now we have to buy a new couch?!
+Monk's|action|A thought occurs to George.
+Monk's|GEORGE|(crafty) Not necessarily. Why don't you take back the couch you gave me?
+Monk's|JERRY|The one with the Poppie stain?!
+Monk's|GEORGE|Yeah, sure. (big smile) Then my father will have no place to sleep. (snaps fingers) He's gotta move out.
+Monk's|ELAINE|But it's got a pee-stain on it.
+Monk's|GEORGE|No, the cushion's turned over.
+Monk's|ELAINE|(not sure) I guess.
+Monk's|GEORGE|(enthusiastic) Yeah. You get a couch. I get rid of my father. It couldn't be more perfect!
+Sid Farkus' Office|action|Sid Farkus sits behind his desk, in front of which sit Kramer and Frank. Kramer is holding his invention as they pitch it to Farkus.
+Sid Farkus' Office|KRAMER|Now, it's called the bro.
+Sid Farkus' Office|FRANK|Or, the mansiere.
+Sid Farkus' Office|KRAMER|Yeah, but I prefer the bro.
+Sid Farkus' Office|FRANK|I like mansiere.
+Sid Farkus' Office|action|Kramer puts the bro on the desk.
+Sid Farkus' Office|FARKUS|Well, I have to tell you, it's a very interesting idea.
+Sid Farkus' Office|KRAMER|Yeah.
+Sid Farkus' Office|FARKUS|You know, selling bras exclusively to women, we're really only utilising fifty percent of the market.
+Sid Farkus' Office|FRANK|(to Kramer) That's what we figured, huh?
+Sid Farkus' Office|KRAMER|(to Frank) I told you.
+Sid Farkus' Office|FARKUS|And, to be perfectly frank, I've always felt I could use some support. I know, when I'm wearing Banlon, there appears to be some jiggling.
+Sid Farkus' Office|FRANK|(vehement) I wouldn't be caught dead in Banlon.
+Sid Farkus' Office|action|Kramer shakes his head at the very thought of Banlon.
+Sid Farkus' Office|FARKUS|(indicating the bro) So uh, what d'you see in the back? Hooks? Velcro? What?
+Sid Farkus' Office|KRAMER|Uh.
+Sid Farkus' Office|FRANK|Definitely velcro.
+Sid Farkus' Office|action|Farkus gives a questioning look to Kramer.
+Sid Farkus' Office|KRAMER|Say you're getting intimate with a woman uh, you don't want her fumbling and struggling back there.
+Sid Farkus' Office|action|The three of them chuckle at the thought.
+Sid Farkus' Office|KRAMER|I think we've all experienced that.
+Sid Farkus' Office|action|They share a manly laugh.
+Sid Farkus' Office|FARKUS|Summer nights.
+Sid Farkus' Office|action|The laughter continues for a moment.
+Sid Farkus' Office|KRAMER|(pointing at Farkus) Very funny.
+Sid Farkus' Office|FARKUS|Well, I still have to talk about this to Mr. Degrunmont...
+Sid Farkus' Office|KRAMER|Of course, yes.
+Sid Farkus' Office|FARKUS|...But, barring any unforeseen developments, gentlemen, I think we're sitting on a winner.
+Sid Farkus' Office|action|Farkus offers his hand. Kramer shakes, and then takes his prototype and moves toward the door. Frank then shakes Farkus' hand.
+Sid Farkus' Office|FARKUS|(sympathy) Frank, I wanna tell you how sorry I am to hear about you and Estelle separating.
+Sid Farkus' Office|action|Kramer hovers behind Frank, waiting to leave.
+Sid Farkus' Office|FRANK|Oh, thank you, Sid, but that's all in the past. I'm ready to move on.
+Sid Farkus' Office|FARKUS|(thoughtful) I've always been very fond of Estelle. Beautiful woman. I uh, I hope you don't think uh, this is out of line, but would it be okay with you, if I were to ask her out?
+Sid Farkus' Office|FRANK|(anger) You wanna go out with my wife?! (rage) Where do you get the nerve to ask me something like that?!
+Sid Farkus' Office|FARKUS|Oh, no, Frank, I was just saying...
+Sid Farkus' Office|action|Kramer tries to calm Frank down.
+Sid Farkus' Office|FRANK|I know what you're saying, and I know what you're thinking!!
+Sid Farkus' Office|FARKUS|No, Frank...
+Sid Farkus' Office|FRANK|C'mon, Cosmo, I'm not doing business with this guy.
+Sid Farkus' Office|action|Frank storms out in a rage. Kramer gives Farkus an 'I'll calm him down' look and follows Frank out the door.
+George's Apartment|action|Frank and Kramer have just arrived, to find George packing a suitcase.
+George's Apartment|GEORGE|Jerry took the couch back.
+George's Apartment|FRANK|He took it back? Didn't you tell him I was using it?
+George's Apartment|GEORGE|Oh, I pleaded with him.
+George's Apartment|FRANK|Where am I supposed to sleep?
+George's Apartment|GEORGE|Well, I took the liberty of packing your things. (gleeful) Mom's coming to get you.
+George's Apartment|KRAMER|I thought Jerry didn't want that couch, because of the stain?
+George's Apartment|action|George waves at Kramer to shut the hell up.
+George's Apartment|FRANK|What stain?
+George's Apartment|KRAMER|Oh, you didn't notice? It has a pee-stain.
+George's Apartment|action|George bites his lip and shakes his head.
+George's Apartment|FRANK|(disbelief) You had me sleeping on a pee-stained couch?
+George's Apartment|GEORGE|(light) No. No, no, no. The cushion was turned over.
+George's Apartment|FRANK|(anger) But, the very idea. you had me lying in urine!!
+George's Apartment|action|George flashes Kramer an aggrieved look. There is a knock at the door.
+George's Apartment|GEORGE|Ah! There's mom, there's mom.
+George's Apartment|action|George races over and opens the door.
+George's Apartment|ESTELLE|Is it safe to come in?
+George's Apartment|GEORGE|Oh, of course. (motioning Estelle to enter) Of course.
+George's Apartment|ESTELLE|You're not having any of your transvestite parties?
+George's Apartment|FRANK|Will you stop it?
+George's Apartment|ESTELLE|(to Kramer) I lived with him for forty years, I never saw him trying on my underwear. As soon as he leaves the house, he turns into J. Edgar Hoover!
+George's Apartment|action|As Estelle speaks, Frank goes into the bedroom and brings out the record player.
+George's Apartment|FRANK|Here, Cosmo...
+George's Apartment|KRAMER|Oh, hey.
+George's Apartment|FRANK|...You can have the hi-fi. (hands it over) I don't need it now...
+George's Apartment|KRAMER|Awright, I got it.
+George's Apartment|FRANK|...I got one at home.
+George's Apartment|action|George is helping Frank on with his coat, a happy smile beaming from his face.
+George's Apartment|ESTELLE|Alright, let's go.
+George's Apartment|action|Kramer opens the door.
+George's Apartment|FRANK|We'll go out for dinner tonight.
+George's Apartment|ESTELLE|I can't tonight, I'm busy.
+George's Apartment|FRANK|What d'you mean, busy?
+George's Apartment|ESTELLE|I'm having dinner with someone.
+George's Apartment|FRANK|With whom?
+George's Apartment|action|George drapes the coat across Frank's shoulders.
+George's Apartment|ESTELLE|Sid Farkus.
+George's Apartment|FRANK|(anger) Sid Farkus?! You're not having dinner with a bra salesman.
+George's Apartment|action|George has picked up Frank's three suitcases, and is all ready to help carry them out to the car.
+George's Apartment|ESTELLE|Hey, he only sells them. He doesn't wear 'em.
+George's Apartment|FRANK|Okay, that's it! I'm not coming home!
+George's Apartment|action|Frank sits down in a chair. George's face drops.
+George's Apartment|GEORGE|(upset) But you can't stay here. There's no place to sleep!
+George's Apartment|FRANK|We'll work something out.
+George's Apartment|action|George drops the cases in disappointment.
+Street|action|The German sightseeing bus comes to a halt at the kerb. Kramer comes around the corner, carrying the record player in his arms. An elderly woman, one of the witnesses to the 'mugging' of George, recognises Kramer as he passes. She climbs out of the bus and points after Kramer.
+Street|action|Kramer looks back at the sound and sees the woman coming after him. He turns back and continues walking. The other German tourists get off the bus and join the woman as she follows Kramer.
+Street|action|Kramer looks worried and continues to carry his record player, pushing past bystanders as the tourists close on him.
+Street|action|Kramer dives into a doorway, but the doors are locked, so he's trapped by the tourists, who block his escape.
+Street|HORST|Hey, hey. (pointing) That record player is not yours.
+Street|KRAMER|Now, look. Somebody gave it to me.
+Street|HORST|You're a thief. We have proof.
+Street|action|Horst spots the straps of the bro hanging from Kramer's pocket.
+Street|HORST|What is that?
+Street|action|Kramer puts down the record player and brings out the bro. He holds it up against his body, to illustrate his words.
+Street|KRAMER|The first upper-body support undergarment, specifically designed for men.
+Street|action|One of the tourists nudges another, portlier, tourist on the shoulder at Kramer's explanation.
+Street|HORST|How does it connect in the back? With a hook?
+Street|KRAMER|Oh, no, no. (demonstrates) Here, velcro.
+Street|action|The portlier German reaches for Kramer's bro. The tourists are all looking much more jovial.
+Street|HORST|(to the portly German) Ooh, (indistinct German) ...keine problem, ah?
+Street|action|The tourists laugh uproariously, with Kramer joining in, and the portly German holding the bro up to himself.
+Street|HORST|Is gut, ja?
+Lobby, Mr. Pitt's Building|action|Jerry and Elaine have just dropped off the couch into the lobby. Mrs. Payton regards it critically. The doorman stands in the background as the delivery men leave.
+Lobby, Mr. Pitt's Building|ELAINE|It's a beautiful couch.
+Lobby, Mr. Pitt's Building|JERRY|It's hardly been used.
+Lobby, Mr. Pitt's Building|action|Elaine and Mrs. Payton walk away together. An elevator arrives, and a familiar character steps out and is noticed by Jerry.
+Lobby, Mr. Pitt's Building|JERRY|Poppie!
+Lobby, Mr. Pitt's Building|POPPIE|Oh, hello, Jerry.
+Lobby, Mr. Pitt's Building|JERRY|What're you doing here?
+Lobby, Mr. Pitt's Building|POPPIE|Visiting my friend.
+Lobby, Mr. Pitt's Building|JERRY|Ohh. Hey, how you feeling?
+Lobby, Mr. Pitt's Building|POPPIE|Oh, much better, much better. The doctors say I cannot have no aggravation.
+Lobby, Mr. Pitt's Building|JERRY|Hmm.
+Lobby, Mr. Pitt's Building|POPPIE|So, I sell the restaurant, uh? I just take it easy. See, if I get excited, 'ats aggravated my condition. The last time I got aggravated, was in the restaurant. With your friend.
+Lobby, Mr. Pitt's Building|action|Poppie holds his hands out, indicating someone of Elaine's height. Jerry nods, remembering and in sympathy.
+Lobby, Mr. Pitt's Building|POPPIE|She start the big fight, about abortion.
+Lobby, Mr. Pitt's Building|action|Elaine comes back over to Jerry and the couch. Poppie spots her approach, and is not happy.
+Lobby, Mr. Pitt's Building|POPPIE|It's you! It's you!
+Lobby, Mr. Pitt's Building|ELAINE|Wha...?
+Lobby, Mr. Pitt's Building|POPPIE|You! I... I gotta sit down!
+Lobby, Mr. Pitt's Building|action|Poppie, aggravated, moves toward the couch.
+Lobby, Mr. Pitt's Building|JERRY|No, Poppie! No!!
+Lobby, Mr. Pitt's Building|action|Poppie sinks onto the couch, despite the pleas, and horrified expressions, of Jerry and Elaine.
+George's Apartment|action|George sits up in bed reading a magazine. Frank enters, carrying a small bowl. George puts his magazine to one side, as Frank carefully climbs into bed whilst keeping hold of the bowl. George takes off his glasses, as Frank settles back. Picking up a spoon from the bowl Frank is about to eat, when a thought occurs. Carefully, Frank reaches over with the spoon, to offer George a taste.
+George's Apartment|FRANK|Kasha?
+George's Apartment|action|George looks disdainfully at the spoonful. A few morsels have fallen onto the bedclothes, George picks them up and puts them back into Frank's bowl.
+George's Apartment|GEORGE|No. Thanks, dad.
+George's Apartment|action|Wearily, George puts his glasses on the bedside table, and switches off his bedside lamp, bringing darkness to the room. George shuffles down beneath the bedclothes, to get comfortable, just as Frank switches on his bedside lamp. Exasperated, George lifts his pillow and places it over his own face, as Frank continues to eat his kasha.

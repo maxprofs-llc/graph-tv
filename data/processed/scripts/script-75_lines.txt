@@ -1,0 +1,298 @@
+Opening Monologue|JERRY|You know doctor is supposed to be such a prestigious occupation. But it’s really like one of the only jobs where you have to have your diploma right up there on the wall. It makes them seem so insecure, doesn’t it? "I really am a doctor you know. You think I’m not, just check it out." I don’t know why they need these little bits of psychological leverage over us all the time. "Go in that little room, take your pants off, wait 15 minutes, and I’ll give you my opinion." After that, anyone that comes in with pants on seems like they know what they’re talking about. In any difference of opinion, pants always beats no-pants.
+At a restaurant.|GEORGE|Can I say one word to you? Lobster. The lobster here is unbelievable. (looks at the menu) Ooh, a little expensive.
+At a restaurant.|SASHA|Twenty five dollars.
+At a restaurant.|GEORGE|Yes, well, you know, I’m not thinking about the price. You know you’re the only woman I’ve never thought about the price. Get the lobster. I beg you to get the lobster. Go for the lobster.
+At a restaurant.|SASHA|George, George, uh, I think we have to talk. I think we have a problem.
+At a restaurant.|GEORGE|We do?
+At a restaurant.|SASHA|We can’t keep seeing each other.
+At a restaurant.|GEORGE|Why?
+At a restaurant.|SASHA|(crying) Because it’s over. (sob, sob, sob) It’s my parents George, the differences in our religion. Oh George, can you ever forgive me? (sob)
+At a restaurant.|SASHA|(crying) Yes. I’ll have the lobster.
+At a restaurant.|GEORGE|Um, you know I’m starting to think that maybe lobster isn’t the way to go.
+The hallway outside Jerry’s apartment.|JERRY|Then he asked you out?
+The hallway outside Jerry’s apartment.|ELAINE|We started to talk, and I told him that I jog, and then he put his hand on my heart.
+The hallway outside Jerry’s apartment.|JERRY|On your heart?
+The hallway outside Jerry’s apartment.|ELAINE|Jerry, the man is a doctor.
+The hallway outside Jerry’s apartment.|JERRY|Doctor? He’s a podiatrist.
+The hallway outside Jerry’s apartment.|ELAINE|So, it’s the same thing.
+The hallway outside Jerry’s apartment.|JERRY|Anyone can get into podiatry school. George got into podiatry school.
+The hallway outside Jerry’s apartment.|ELAINE|Really?
+The hallway outside Jerry’s apartment.|TAWNI|Hello.
+The hallway outside Jerry’s apartment.|JERRY|Oh hi.
+The hallway outside Jerry’s apartment.|TAWNI|Are you going to be stopping by later?
+The hallway outside Jerry’s apartment.|JERRY|Yes, I’ll be stopping.
+The hallway outside Jerry’s apartment.|TAWNI|Ok, see you later.
+The hallway outside Jerry’s apartment.|JERRY|See you later. (to Elaine) Well we can’t all be dating podiatrists. (Elaine laughs)
+The hallway outside Jerry’s apartment.|action|They enter Jerry’s apartment. George is laying on the couch
+The hallway outside Jerry’s apartment.|GEORGE|It’s over.
+The hallway outside Jerry’s apartment.|ELAINE|What?
+The hallway outside Jerry’s apartment.|JERRY|How did you get in?
+The hallway outside Jerry’s apartment.|GEORGE|Kramer.
+The hallway outside Jerry’s apartment.|ELAINE|What’s that? (points at some foil on the table)
+The hallway outside Jerry’s apartment.|GEORGE|Lobster.
+The hallway outside Jerry’s apartment.|JERRY|Looks like a swan.
+The hallway outside Jerry’s apartment.|GEORGE|She says we can’t go out anymore.
+The hallway outside Jerry’s apartment.|ELAINE|Why?
+The hallway outside Jerry’s apartment.|GEORGE|Because I’m not Latvian Orthodox. Her parents won’t let her get involved with anyone who isn’t Latvian Orthodox.
+The hallway outside Jerry’s apartment.|ELAINE|Latvian Orthodox? (gasps) Mmm, it is lobster.
+The hallway outside Jerry’s apartment.|JERRY|She’s limiting herself to Latvian Orthodox? Too bad.
+The hallway outside Jerry’s apartment.|GEORGE|I know. This was the only woman I never lied to. Well that’s not entirely true.
+The hallway outside Jerry’s apartment.|action|Jerry hands Elaine a folk and they dig into the lobster
+The hallway outside Jerry’s apartment.|JERRY|Oh, whatever.
+The hallway outside Jerry’s apartment.|ELAINE|Mmm, this is delicious.
+The hallway outside Jerry’s apartment.|JERRY|Mmm, succulent.
+The hallway outside Jerry’s apartment.|GEORGE|She knew I didn’t have a job, she knew I lived at home. Didn’t seem to bother her. I think I could have married this woman.
+The hallway outside Jerry’s apartment.|ELAINE|Why don’t you just ask her parents?
+The hallway outside Jerry’s apartment.|GEORGE|I can’t. I met them. They’re devout. You know, in the cab on the way over here, I actually thought about converting.
+The hallway outside Jerry’s apartment.|JERRY|To Latvian Orthodox?
+The hallway outside Jerry’s apartment.|GEORGE|Why not? What do I care?
+The hallway outside Jerry’s apartment.|JERRY|You know it’s not like changing toothpaste.
+The hallway outside Jerry’s apartment.|ELAINE|I think it would be romantic.
+The hallway outside Jerry’s apartment.|GEORGE|Really?
+The hallway outside Jerry’s apartment.|ELAINE|Yeah, it’s like Edward the Eighth abdicating the throne and marrying Mrs. Simpson. Ooh.
+The hallway outside Jerry’s apartment.|GEORGE|King Edward. (snapping his fingers) King Edward, Jerry.
+The hallway outside Jerry’s apartment.|JERRY|Yeah well King Edward didn’t live in Queens with Frank and Estelle Costanza.
+The hallway outside Jerry’s apartment.|GEORGE|You know what? I could probably do this. What’s the difference.
+The hallway outside Jerry’s apartment.|ELAINE|George I was just kidding around.
+The hallway outside Jerry’s apartment.|GEORGE|No. I wouldn’t even have to tell her. I could surprise her.
+The hallway outside Jerry’s apartment.|ELAINE|George I wasn’t serious.
+The hallway outside Jerry’s apartment.|GEORGE|How hard could it be? You make a little contribution, you have a ceremony. I am going to think about this. I am really going to think about this.
+The hallway outside Jerry’s apartment.|action|George leaves.
+The hallway outside Jerry’s apartment.|ELAINE|I guess this one is my fault.
+The hallway outside Jerry’s apartment.|JERRY|Oh yeah.
+At Tawni’s apartment|TAWNI|(kiss, kiss, kiss) Oh that was nice. Have you always been such a good kisser?
+At Tawni’s apartment|JERRY|Oh I don’t know. Not always. No I uh I had to work at it. When I was a kid all the kids would be out playing, I would be up in my room practicing my kissing.
+At Tawni’s apartment|TAWNI|Well it was worth it. (kiss) I’ll be (kiss) right (kiss) back (kiss). Where are you going?
+At Tawni’s apartment|JERRY|To wash my hands. They’re sticky from the orange.
+At Tawni’s apartment|TAWNI|Meet you back here?
+At Tawni’s apartment|JERRY|Right there.
+At Tawni’s apartment|action|Jerry goes into the bathroom and washes his hands. He sees the medicine cabinet open slightly and peeks in. 
+At Tawni’s apartment|JERRY|(thinking to himself; picks up a tube) "Fungicide". Fungus?
+At Monk’s.|action|Jerry, Kramer, and Elaine eating at the normal booth
+At Monk’s.|JERRY|Fungicide. I mean what could she have?
+At Monk’s.|ELAINE|I don’t know.
+At Monk’s.|KRAMER|Fungus.
+At Monk’s.|JERRY|Exactly
+At Monk’s.|ELAINE|So what did you say?
+At Monk’s.|JERRY|I said I was coming down with the flu or something and I had to go home.
+At Monk’s.|ELAINE|I don't know, what were you doing opening her medicine cabinet?
+At Monk’s.|JERRY|I didn’t open it. It was open. I just nudged it a little.
+At Monk’s.|ELAINE|You were snooping.
+At Monk’s.|JERRY|I was not snooping. I did not break the seal. There was no breaking and entering. I wouldn’t do that.
+At Monk’s.|KRAMER|I would. I always open medicine cabinets.
+At Monk’s.|ELAINE|Well I trust people not to do that.
+At Monk’s.|KRAMER|Big mistake.
+At Monk’s.|JERRY|Why don’t you ask that doctor what it is?
+At Monk’s.|ELAINE|What? Now he’s a doctor? Before he was a podiatrist.
+At Monk’s.|JERRY|But that’s what podiatrists do. They deal in fungus. They’re knee- deep in fungus. This guy knows fungus.
+At Monk’s.|ELAINE|I am not going to ask him about funguses.
+At Monk’s.|KRAMER|Fungi.
+At Monk’s.|JERRY|What?
+At Monk’s.|KRAMER|Fungi.
+In the priest’s office.|GEORGE|(ahem) In this age of uncertainty and confusion, a man begins to ask himself certain questions. How can one even begin to put into words something so um… (trying to think of a word)
+In the priest’s office.|GEORGE|No.
+In the priest’s office.|GEORGE|No not vast (he pronounces it as "vost")
+In the priest’s office.|GEORGE|Yes.
+In the priest’s office.|GEORGE|(he thinks) I think the hats. The hat conveys that solemn religious look you want in a faith. Very pious.
+In the priest’s office.|GEORGE|Well perhaps, not to the extent that you are. But I know the basic plot. Yeah.
+In the priest’s office.|GEORGE|Yes. You know the uh flood, and the uh lepers, and the commandments and all that.
+In the priest’s office.|GEORGE|Oh yes I am Father. Incredibly sincere. So, uh, pffft, am I in?
+In the priest’s office.|GEORGE|Ah hah. You see Father, I’m I’m incredibly anxious to become a member. Um, don’t you offer any kind of an express conversion? A quick change?
+In the priest’s office.|action|Sister Roberta enters
+In the priest’s office.|action|They bow back and forth; Sister Roberta leaves
+In the priest’s office.|GEORGE|Nice nun.
+In the chapel.|KRAMER|Oh yeah, I’m here to pick up my friend George Costanza.
+In the chapel.|KRAMER|Oh yeah.
+In the chapel.|KRAMER|Oh. Kramer. Pleasure.
+At Jerry’s apartment.|action|George and Jerry in the kitchen area; George is taking a small cake out of a box
+At Jerry’s apartment.|GEORGE|I can’t believe how easy it is. I’m virtually Orthodox. All I have to do is read a few books, memorize a few prayers, and I’m in the club.
+At Jerry’s apartment.|JERRY|That’s all there is to it.
+At Jerry’s apartment.|GEORGE|That’s all there is to it. By Christmas day I will be Brother Costanza.
+At Jerry’s apartment.|JERRY|And when is Brother Costanza planning on telling Mother Costanza?
+At Jerry’s apartment.|GEORGE|Brother Costanza will be taking the vow of silence.
+At Jerry’s apartment.|action|Kramer enters. He is flinging a slinky.
+At Jerry’s apartment.|JERRY|Oh a slinky.
+At Jerry’s apartment.|KRAMER|Sister Roberta gave it to me.
+At Jerry’s apartment.|JERRY|Why did she give you that?
+At Jerry’s apartment.|KRAMER|I think she liked me.
+At Jerry’s apartment.|JERRY|What do you mean she liked you?
+At Jerry’s apartment.|KRAMER|Liked me.
+At Jerry’s apartment.|GEORGE|Kramer, they like everybody. They’re friendly people.
+At Jerry’s apartment.|KRAMER|No. I think I picked up on a vibe.
+At Jerry’s apartment.|JERRY|You picked up on a vibe, from a nun.
+At Jerry’s apartment.|KRAMER|Yeah, Jerry I’m telling you I have this power. And I have no control over it.
+At Jerry’s apartment.|JERRY|Yea alright.
+At Jerry’s apartment.|action|ringing sounds from Kramer's apartment
+At Jerry’s apartment.|KRAMER|Oh, that's my phone.
+At Jerry’s apartment.|action|Kramer leaves. Jerry’s girlfriend appears at the doorway.
+At Jerry’s apartment.|JERRY|Oh hi.
+At Jerry’s apartment.|TAWNI|Hi, I just wanted to stop by and see how you were feeling.
+At Jerry’s apartment.|JERRY|(weakly) A little better. (fake cough)
+At Jerry’s apartment.|TAWNI|If you need anything let me know.
+At Jerry’s apartment.|JERRY|Okay.
+At Jerry’s apartment.|TAWNI|Okay.
+At Jerry’s apartment.|JERRY|All right.
+At Jerry’s apartment.|TAWNI|Bye.
+At Jerry’s apartment.|JERRY|Bye.
+At Jerry’s apartment.|action|Tawni leaves; Jerry closes the door
+At Jerry’s apartment.|GEORGE|Story.
+At Jerry’s apartment.|JERRY|She’s subletting Carol’s place for a month.
+At Jerry’s apartment.|GEORGE|Yea, she likes you.
+At Jerry’s apartment.|JERRY|Yeah but there’s a problem. I found a tube of a fungicide in her medicine cabinet.
+At Jerry’s apartment.|GEORGE|So?
+At Jerry’s apartment.|JERRY|So I don’t know what she’s using it for.
+At Jerry’s apartment.|GEORGE|Well how do you even know it’s hers? Maybe it belonged to Carol. Did you see a name on the tube?
+At Jerry’s apartment.|JERRY|I didn’t even think to look.
+At Jerry’s apartment.|GEORGE|Well take a look. It might not even belong to her.
+At Jerry’s apartment.|JERRY|Yeah.
+At Jerry’s apartment.|GEORGE|People always leave old things in their medicine cabinet.
+At Jerry’s apartment.|JERRY|Yeah I’ve got this old bottle of cough medicine.
+At Jerry’s apartment.|GEORGE|I still have brill cream.
+At Tawni’s apartment. |action|Jerry knocks on the door 
+At Tawni’s apartment. |action|knock, knock, knock
+At Tawni’s apartment. |JERRY|Hi
+At Tawni’s apartment. |TAWNI|Hi.
+At Tawni’s apartment. |JERRY|Hi. Can I use your bathroom?
+At the doctor’s apartment.|ELAINE|You sure you don’t mind?
+At the doctor’s apartment.|DOCTOR|No of course not. People ask me medical questions all the time.
+At the doctor’s apartment.|ELAINE|Well I mean the question isn’t even for me it’s for a friend.
+At the doctor’s apartment.|DOCTOR|Elaine, I’m used to it. I’m a doctor.
+At the doctor’s apartment.|ELAINE|Well… podiatrist.
+At the doctor’s apartment.|DOCTOR|Huh?
+At the doctor’s apartment.|ELAINE|No no, I’m just saying you didn’t really go to medical school, you went to podiatry school. Which I’m sure is very grueling in it’s own way.
+At the doctor’s apartment.|DOCTOR|I went to podiatry school because I like feet. I chose to work with feet.
+At the doctor’s apartment.|ELAINE|I like feet too. I’m just saying…
+At the doctor’s apartment.|DOCTOR|Saying what?
+In Jerry’s girlfriend’s apartment. |action|She knocks on the bathroom door.
+In Jerry’s girlfriend’s apartment. |action|knock, knock, knock
+In Jerry’s girlfriend’s apartment. |TAWNI|How are you doing in there?
+In Jerry’s girlfriend’s apartment. |JERRY|Fine all done, just looking for the soap.
+In Jerry’s girlfriend’s apartment. |action|Jerry is looking around for the bottle of fungicide.
+In Jerry’s girlfriend’s apartment. |TAWNI|No soap?
+In Jerry’s girlfriend’s apartment. |JERRY|No I don’t see it.
+In Jerry’s girlfriend’s apartment. |action|Jerry finds the bottle of fungicide and picks it up. Jerry’s girlfriend enters the bathroom with soap. Hastily, Jerry puts the bottle of fungicide in his pocket.
+In Jerry’s girlfriend’s apartment. |TAWNI|(giving Jerry the soap) Here you go.
+At George’s parent’s house.|action|George is in the bathroom with his Latvian Orthodox books.
+At George’s parent’s house.|action|knock, knock, knock
+At George’s parent’s house.|ESTELLE|George what are you doing in there?
+At George’s parent’s house.|GEORGE|What? Nothing.
+At George’s parent’s house.|FRANK|You’ve been in there an hour.
+At George’s parent’s house.|ESTELLE|You don’t feel well?
+At George’s parent’s house.|GEORGE|I’m fine.
+At George’s parent’s house.|ESTELLE|I want to know what you’re doing in there.
+At George’s parent’s house.|GEORGE|Nothing.
+At George’s parent’s house.|FRANK|George, open the door.
+At George’s parent’s house.|GEORGE|No.
+At George’s parent’s house.|ESTELLE|Georgie.
+At George’s parent’s house.|GEORGE|No!
+At Kramer’s apartment.|action|Sister Roberta is knocking on the door.
+At Kramer’s apartment.|action|knock, knock, knock
+At Kramer’s apartment.|KRAMER|Hey.
+At Jerry’s Apartment.|JERRY|Okay, Latvius was the son of which apostle? And I’ll need that in the form of a question.
+At Jerry’s Apartment.|GEORGE|I don’t know. I can’t believe they’re making me take this test.
+At Jerry’s Apartment.|action|Elaine enters.
+At Jerry’s Apartment.|JERRY|Hey, did you talk to the doctor?
+At Jerry’s Apartment.|ELAINE|No.
+At Jerry’s Apartment.|JERRY|All right, the next time you see him show him this. (He presents the bottle of fungicide.)
+At Jerry’s Apartment.|ELAINE|You took her medicine.
+At Jerry’s Apartment.|JERRY|Not on purpose. I was hoping there would be a name on the tube. When are you seeing him again?
+At Jerry’s Apartment.|ELAINE|I don’t know. We got into this whole thing about how podiatrists aren’t real doctors.
+At Jerry’s Apartment.|JERRY|How could you say that?
+At Jerry’s Apartment.|ELAINE|It’s you fault. You just got me thinking.
+At Jerry’s Apartment.|JERRY|I was merely speaking extemporaneously.
+At Jerry’s Apartment.|ELAINE|I’ve got nothing against the foot. I’m pro-foot.
+At Jerry’s Apartment.|JERRY|Me too.
+At Jerry’s Apartment.|ELAINE|Do you think I should call him and apologize?
+At Jerry’s Apartment.|JERRY|Yes. He’s a doctor. (Elaine starts to leave. ) Wait a second. (Jerry puts the bottle of fungicide in Elaine’s purse.) (to George) What are you doing?
+At Jerry’s Apartment.|GEORGE|What does it look like I’m doing?
+At Jerry’s Apartment.|JERRY|(Reading words George wrote on his hand) "Matthew, Luke, Paul", what you’re cheating on your conversion chest?
+At Jerry’s Apartment.|action|Kramer enters.
+At Jerry’s Apartment.|KRAMER|I told you.
+At Jerry’s Apartment.|JERRY|What?
+At Jerry’s Apartment.|KRAMER|I told you she liked me.
+At Jerry’s Apartment.|JERRY|Who?
+At Jerry’s Apartment.|KRAMER|Sister Roberta.
+At Jerry’s Apartment.|JERRY|How do you know?
+At Jerry’s Apartment.|KRAMER|She told me. She said she’s never had a man stir up all of these feelings inside of her. She’s questioning her faith. She’s thinking of leaving the church.
+At Jerry’s Apartment.|JERRY|Wow
+At Jerry’s Apartment.|KRAMER|Oh, uh, this power. I’m dangerous Jerry, I’m very very dangerous.
+At the priest’s office.|GEORGE|Oh, I’m I’m full of it Father.
+At the priest’s office.|GEORGE|Oh, I understand. (George exits; Sees Kramer in the hallway) Hey.
+At the priest’s office.|KRAMER|(rushed) Yea, Hey. (Kramer enters.) Um, you wanted to see me Father?
+At the priest’s office.|KRAMER|I know what this is about Father. I didn’t do anything. I just spoke to her innocently for just a few minutes. It’s just that, that I have this power.
+At the priest’s office.|KRAMER|Kavorka?
+At the priest’s office.|KRAMER|I don’t understand.
+At the priest’s office.|KRAMER|Help me Father. Help me.
+The hallway by Jerry’s apartment|JERRY|What is that stench? I got it. (He follows the smell to Kramer’s door) Ah hah.
+The hallway by Jerry’s apartment|action|knock, knock, knock
+The hallway by Jerry’s apartment|action|Kramer opens his door. He is wearing a ring of garlics around his neck.
+The hallway by Jerry’s apartment|KRAMER|Hey.
+The hallway by Jerry’s apartment|JERRY|Hey. What are you doing?
+The hallway by Jerry’s apartment|KRAMER|I’ve got the Kavorka Jerry.
+The hallway by Jerry’s apartment|JERRY|The Kavorka? What’s that?
+The hallway by Jerry’s apartment|KRAMER|The lure of the animal. I’m dangerous.
+The hallway by Jerry’s apartment|JERRY|What is this thing around your neck?
+The hallway by Jerry’s apartment|KRAMER|The priests they’re helping me. I just bathed in vinegar.
+The hallway by Jerry’s apartment|JERRY|You know you’re funcifying the whole building.
+The hallway by Jerry’s apartment|KRAMER|Keep away Jerry. Keep away.
+The hallway by Jerry’s apartment|action|He closes his door.
+The hallway by Jerry’s apartment|JERRY|Kramer. (knock, knock, knock) Kramer.
+At the entrance of the church. There is a sign there. It reads: CONVERSION CEREMONY - FOR - GEORGE COSTANZA - 3:P.M. The sign is on a black background with white stick-on letters.|action|A woman reads the sign.
+At the entrance of the church. There is a sign there. It reads: CONVERSION CEREMONY - FOR - GEORGE COSTANZA - 3:P.M. The sign is on a black background with white stick-on letters.|WOMAN|George Costanza? Estelle’s son?
+At George’s parent’s house.|ESTELLE|Latvian Orthodox? Why are you doing this?
+At George’s parent’s house.|GEORGE|For a woman.
+At George’s parent’s house.|FRANK|A woman? What are you out of your mind?
+At George’s parent’s house.|ESTELLE|Why can’t you do anything like a normal person?
+At George’s parent’s house.|FRANK|Wait. Is this the group that goes around mutilating squirrels?
+At George’s parent’s house.|GEORGE|No it’s a regular religion.
+At George’s parent’s house.|FRANK|I’m calling my lawyer. It might not be too late to get out of this.
+At George’s parent’s house.|GEORGE|I don’t want to get out of it.
+At George’s parent’s house.|ESTELLE|Bu George, you don’t know what you’re saying. You’re under their control.
+At George’s parent’s house.|FRANK|What, they brainwashed you?
+At George’s parent’s house.|GEORGE|No no.
+At George’s parent’s house.|FRANK|You’re not performing any rituals in this house.
+At George’s parent’s house.|ESTELLE|Go back to the psychiatrist. I beg you.
+At George’s parent’s house.|FRANK|And stay away from those squirrels.
+At Tawni’s apartment.|TAWNI|Oh how you doing Jerry?
+At Tawni’s apartment.|JERRY|Good. What’s the matter?
+At Tawni’s apartment.|TAWNI|I’m tired. I hardly slept last night with all this scratching. Bonkers was going crazy.
+At Tawni’s apartment.|JERRY|Bonkers?
+At Tawni’s apartment.|TAWNI|My cat. He’s got this weird sort of skin condition. Some type of fungus, I couldn’t find his medicine.
+At Tawni’s apartment.|JERRY|Oh it’s your cat!
+At Tawni’s apartment.|TAWNI|What?
+At Tawni’s apartment.|JERRY|Ooh, nothing.
+At the church.|GEORGE|Yes faddah.
+At the church.|GEORGE|What?
+At the church.|GEORGE|I said faddah, I meant Father. Just a little bit nervous.
+Outside on a sidewalk.|action|A woman is waiting for a cab. Kramer walks up to her.
+Outside on a sidewalk.|KRAMER|How you doing?
+Outside on a sidewalk.|WOMAN|Get away from me you creep. (She walks away.)
+Outside on a sidewalk.|KRAMER|Yes, Yes. It worked. Sister Roberta I’ve still got time to catch her.
+At the church. It is George’s conversion ceremony.|action|Church music plays. George is dressed in a white church gown. He walks down the church aisle carrying a candle. Father-priest says some Latvian words. Kramer is running down the street going to the church. The church music is still playing. George takes a drink of some wine. He spills some on his gown. He makes a hand motion on his gown. Kramer is still running to the church.
+At the church. It is George’s conversion ceremony.|action|Kramer enters the church.
+At the church. It is George’s conversion ceremony.|CROWD|Kavorka, Kavorka.
+At Elaine’s apartment.|ELAINE|(kiss, kiss) You know, because I love the foot. I’m a big fan of the foot.
+At Elaine’s apartment.|DOCTOR|Well it’s my fault. I got a little defensive.
+At Elaine’s apartment.|ELAINE|And that pinkie toe, come on . How adorable is the pinkie toe.
+At Elaine’s apartment.|DOCTOR|It’s my favorite toe.
+At Elaine’s apartment.|ELAINE|Let’s face it, you get a bunion, where are you going? You’re not going to the ear guy.
+At Elaine’s apartment.|DOCTOR|No you’re not.
+At Elaine’s apartment.|action|phone rings
+At Elaine’s apartment.|ELAINE|I’ll be right back.
+At Elaine’s apartment.|DOCTOR|Oh uh, where’s the bathroom?
+At Elaine’s apartment.|ELAINE|It’s right down here to the left. I will uh meet you right back here.
+At Elaine’s apartment.|JERRY|Elaine it’s her cat. Her cat had the fungus. So I need the tube back.
+At Elaine’s apartment.|action|The doctor is in Elaine’s bathroom. He peeks into the medicine cabinet and finds the tube of fungicide.
+At Elaine’s apartment.|DOCTOR|(Thinking to himself) "Fungicide"? Fungus?
+At the church|KRAMER|You don’t?
+At the church|KRAMER|Yeah yeah.
+Closing Monologue|JERRY|But once you put medicine in your medicine cabinet you're never using it again. Any medicine you're using, is on the sink. It's not really even a medicine cabinet, it's really like an ointment museum isn't it? It's like here's a saff from 1983, some cream from the 70s. But you want to keep it private, because a medicine cabinet is a place that reveals our weaknesses and it can really throw off the balance between two people that might be going out. Somebody peeks in there, "Oh I see Mr. Perfect needs tough actin' Tinactin. Well I guess I'll be calling the shots in this relationship from now on."
+At Monk’s|SASHA|For me?
+At Monk’s|GEORGE|Well I didn’t do it for my mother.
+At Monk’s|SASHA|I’m really flattered. But I just don’t feel ready to make a commitment yet. Maybe when I get back from Latvia.
+At Monk’s|GEORGE|Latvia?
+At Monk’s|SASHA|Yes. I’m going to stay with some relatives there for a year. Isn’t it great?
+At Monk’s|GEORGE|Enjoy, enjoy.
+At Monk’s|SASHA|Oh George, you are so sweet. Don’t ever change.
+At Monk’s|action|She leaves
+At Monk’s|GEORGE|I’d like a doggie bag for this please. (hands her plate to the waitress)

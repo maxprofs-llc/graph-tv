@@ -1,0 +1,315 @@
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|So you're a lawyer. What kind of cases do you handle?
+George is at the counter at Monk's, he's talking with an Oriental woman.|CHERYL|Oh, everything. Divorce, patents, immigration and naturalization.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|What is that, immigrants come over, you show them how to act natural?
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|No, they're not funny at all. No, I have no funny friends. I'm the funny one. El Clowno.
+George is at the counter at Monk's, he's talking with an Oriental woman.|action|Quick pan to the front door as Jerry and Elaine are entering.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Look, I was nice enough to pick it up for you
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Hey, I've been back four days, I want my mail.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|It's mostly bills, magazines and junk mail anyway.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Elaine, that's what mail is. Without bills, magazines and junk mail, there is no mail.
+George is at the counter at Monk's, he's talking with an Oriental woman.|action|Cut back to George and Cheryl at the counter.
+George is at the counter at Monk's, he's talking with an Oriental woman.|CHERYL|Here's my card.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Oh, ok. Thank you. It was good talking to you.
+George is at the counter at Monk's, he's talking with an Oriental woman.|CHERYL|Nice meeting you.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Yeah.
+George is at the counter at Monk's, he's talking with an Oriental woman.|action|Cheryl leaves, George walks over to the booth to meet Jerry and Elaine.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Hi!
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Hey, how ya doin?
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|You would not believe what just happened. I was waiting for you and this woman was sitting at the counter.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|What, the one who just left?
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Yeah, yeah, and we started talking, and she's this lawyer who's incredible! Everything I said was funny! You know, she laughed at everything I said, she thinks I'm hilarious. You know in a way, it was almost too good. I started so good, I can't go any place but down now, ya know? I got no place to go.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Yeah, well, I guess it's all over.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|(looking behind the counter) Hey, is that Babu? It is! (walking over) Hey, Babu!
+George is at the counter at Monk's, he's talking with an Oriental woman.|BABU|Jerry!
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Look at you, you got the job.
+George is at the counter at Monk's, he's talking with an Oriental woman.|BABU|Yes, yes, they give me job thanks to you.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Oh, I didn't do anything.
+George is at the counter at Monk's, he's talking with an Oriental woman.|BABU|Yes, you do everything, get me job, you get me a place to live in your building.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Come on.
+George is at the counter at Monk's, he's talking with an Oriental woman.|BABU|You very very good man, you do everything for me. My family and I can never thank you enough for everything you do.
+George is at the counter at Monk's, he's talking with an Oriental woman.|action|Cut back to George and Elaine.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|You see, this is what I do with women. I start out too strong, now I have to become real, that's when it all falls apart. What good is real? They don't want real, they want funny.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|No they don't.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Ooooh, yes they do.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Nooo.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Ya gotta put on a show, ya always gotta give them a big show. You always have to be 'on' otherwise why would they like me? They'd just go for a better looking guy with more money.
+George is at the counter at Monk's, he's talking with an Oriental woman.|action|Elaine nods her head in approval.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|You mean that's true, I'm right?!
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Ok, great, well, I'm glad everything worked out, Babu.
+George is at the counter at Monk's, he's talking with an Oriental woman.|BABU|Oh, yes, yes, everything wonderful.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Ok, I'll see you around the building.
+George is at the counter at Monk's, he's talking with an Oriental woman.|BABU|I'll see you *in* the building.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|(returning to the table) Remember Babu Bhatt?
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Who's he?
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Remember that guy who opened the restaurant across the street from the building last year and he wasn't doing so well and I told him he should make it into all Pakistani and that drove him right out of business? So, you uh, going with me to the auto show with me Saturday?
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Yeah, yeah.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Can you bring my mail then?
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|What mail?
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|I picked up his mail while he was on the road
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Why didn't Kramer pick it up?
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Cause he's at that baseball fantasy camp in Florida.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Oh yeah, right. When's he coming back?
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Monday, I think.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Kramer goes to a fantasy camp. His whole life is a fantasy camp. People should plunk down two-thousand dollars to live like him for a week. Do nothing, fall ass-backwards into money, mooch food off your neighbors and have sex without dating; that's a fantasy camp.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|Hey listen, if you're gonna go out with this lawyer, why don't you have dinner with us and then maybe you can go to the auto show with her if you want, you know, have a little company, take the pressure off.
+George is at the counter at Monk's, he's talking with an Oriental woman.|action|George has a dream sequence where the four of them are at a dinner table and Cheryl is laughing hysterically at one of Jerry's jokes.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|...he never heard of corduroy!
+George is at the counter at Monk's, he's talking with an Oriental woman.|CHERYL|(howling with laughter) Stop it, you're killing me!!
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|He never heard of corduroy! True story, true story.
+George is at the counter at Monk's, he's talking with an Oriental woman.|action|Dream sequence ends.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|No, no I don't think so.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Why?
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|Well I think I'm better off going one-on-one.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|I don't know why you want to play man-to-man when you could play a zone.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|She might not be comfortable.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Why? We're all very nice, we're very friendly.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|We'll be funny.
+George is at the counter at Monk's, he's talking with an Oriental woman.|GEORGE|No! No. It's not good, I don't think so.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Alright, well if you change your mind, we'll wind up as Isabella's probably around seven.
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|No, no Isabella's, I don't want to go to Isabella's.
+George is at the counter at Monk's, he's talking with an Oriental woman.|ELAINE|Why?
+George is at the counter at Monk's, he's talking with an Oriental woman.|JERRY|No, it's too trendy, no Isabella's.
+George and Cheryl are at Isabella's.|GEORGE|(tasting the wine) Excellent. Like I really know what I'm talking about.
+George and Cheryl are at Isabella's.|action|Cheryl laughs.
+George and Cheryl are at Isabella's.|GEORGE|Toasting makes me uncomfortable. But toast, I love. Never start the day without a good piece of toast. In fact, let's toast to toast.
+George and Cheryl are at Isabella's.|action|Just then the headwaiter seats Jerry and Elaine at the next table.
+George and Cheryl are at Isabella's.|JERRY|Look who's here! Georgie-boy!
+George and Cheryl are at Isabella's.|GEORGE|What are you doing here? I thought you said you hated Isabella's?
+George and Cheryl are at Isabella's.|ELAINE|No, I talked him into it.
+George and Cheryl are at Isabella's.|GEORGE|What happened to the auto show?
+George and Cheryl are at Isabella's.|JERRY|Oh, we're still going, we're still going. Elaine, do the spokes model.
+George and Cheryl are at Isabella's.|ELAINE|The turbo quadramatic transmission offers you the power and prestige to propel you well into the 21st century.
+George and Cheryl are at Isabella's.|action|Jerry and Cheryl laugh, George, unamused, tries pushing Jerry and Elaine away from their table.
+George and Cheryl are at Isabella's.|GEORGE|Cheryl, Elaine, and uh, Jerry.
+George and Cheryl are at Isabella's.|CHERYL|Would you like to join us?
+George and Cheryl are at Isabella's.|GEORGE|Oh no no no, they don't want to join us.
+George and Cheryl are at Isabella's.|CHERYL|Oh no, it's ok, don't be silly.
+George and Cheryl are at Isabella's.|ELAINE|Ok, well why don't we just put these two tables together?
+George and Cheryl are at Isabella's.|GEORGE|(as the others are repositioning the tables) No, no, you can't do that, they're round, it makes an 'eight' and, yeah, well alright.
+George and Cheryl are at Isabella's.|ELAINE|Jerry? Jerry, tell them that funny story you were telling me--
+George and Cheryl are at Isabella's.|GEORGE|No! No.
+George and Cheryl are at Isabella's.|ELAINE|No George, it's so funny. We saw this cab driver's picture, right?
+George and Cheryl are at Isabella's.|GEORGE|(interrupting) You know we should really order, the service is so slow here, by the time you get anything...
+George and Cheryl are at Isabella's.|ELAINE|Oh, Cheryl, can I ask you a legal question? Um, I'm being sued.
+George and Cheryl are at Isabella's.|CHERYL|Oh? What happened?
+George and Cheryl are at Isabella's.|ELAINE|Well, I ran out to apologize to a virgin and I crossed against the light and I knocked over the delivery boy.
+George and Cheryl are at Isabella's.|CHERYL|Was he Chinese?
+George and Cheryl are at Isabella's.|ELAINE|Yeah.
+George and Cheryl are at Isabella's.|CHERYL|Is your last name Benes?
+George and Cheryl are at Isabella's.|JERRY|How did you know?
+George and Cheryl are at Isabella's.|CHERYL|Ping is my cousin!
+George and Cheryl are at Isabella's.|ELAINE|No!
+George and Cheryl are at Isabella's.|JERRY|That's so funny!
+George and Cheryl are at Isabella's.|CHERYL|I'm handling his case!
+George and Cheryl are at Isabella's.|ELAINE|What? You're Cheryl Fong?
+George and Cheryl are at Isabella's.|CHERYL|That's right!
+George and Cheryl are at Isabella's.|action|By now, they're all laughing.
+George and Cheryl are at Isabella's.|ELAINE|Oh my god, I can't believe it! That is such a coincidence!
+George and Cheryl are at Isabella's.|CHERYL|Yeah, I know!
+George and Cheryl are at Isabella's.|ELAINE|Wow, well, I guess you don't have any advice for me on how to win the case?
+George and Cheryl are at Isabella's.|CHERYL|Will you excuse me? I have to make a call.
+George and Cheryl are at Isabella's.|ELAINE|Tell Ping I said hello.
+George and Cheryl are at Isabella's.|JERRY|Tell him you think you may have broken the case wide open.
+George and Cheryl are at Isabella's.|action|They all laugh as Cheryl walks away.
+George and Cheryl are at Isabella's.|JERRY|What?
+George and Cheryl are at Isabella's.|GEORGE|This is not good. This is not good.
+George and Cheryl are at Isabella's.|JERRY|What's the matter?
+George and Cheryl are at Isabella's.|GEORGE|I just don't think it's such a great idea for you to sit here.
+George and Cheryl are at Isabella's.|JERRY|Why not?
+George and Cheryl are at Isabella's.|ELAINE|He thinks that if you're too funny, he might not look so funny.
+George and Cheryl are at Isabella's.|JERRY|Biff?
+George and Cheryl are at Isabella's.|GEORGE|What?
+George and Cheryl are at Isabella's.|JERRY|You're not worried about that?
+George and Cheryl are at Isabella's.|GEORGE|No, of course not.
+George and Cheryl are at Isabella's.|JERRY|I mean, so what if I'm funny? Who cares?
+George and Cheryl are at Isabella's.|ELAINE|He thinks that if a woman sees a guy put on a better show, she'll walk out on his show, go see the other show.
+George and Cheryl are at Isabella's.|JERRY|Well, should we leave?
+George and Cheryl are at Isabella's.|GEORGE|Maybe you don't have to be so funny. I mean, would it kill you not to be so funny all the time? That's all I'm asking. This woman thinks I'm very funny. Now you're gonna be funny, so what am I gonna be? I'm gonna be a short bald guy with glasses who suddenly doesn't seem so funny.
+George and Cheryl are at Isabella's.|ELAINE|This is so ridiculous. Can we just go over there?
+George and Cheryl are at Isabella's.|JERRY|I don't have to be funny, I don't care.
+George and Cheryl are at Isabella's.|GEORGE|You don't?
+George and Cheryl are at Isabella's.|JERRY|No way! It's completely under my control.
+George and Cheryl are at Isabella's.|ELAINE|No, it's not. You cannot not be funny.
+George and Cheryl are at Isabella's.|JERRY|Of course I can, am I being funny now?
+George and Cheryl are at Isabella's.|ELAINE|A little.
+George and Cheryl are at Isabella's.|JERRY|Oh, this is funny? I'm being funny?
+George and Cheryl are at Isabella's.|ELAINE|Yeah.
+George and Cheryl are at Isabella's.|JERRY|George, is this funny?
+George and Cheryl are at Isabella's.|GEORGE|It's funny! (To Elaine) and it wouldn't kill you to not be so funny either.
+George and Cheryl are at Isabella's.|ELAINE|What? What did I do?
+George and Cheryl are at Isabella's.|action|Cheryl returns.
+George and Cheryl are at Isabella's.|GEORGE|Hi.
+George and Cheryl are at Isabella's.|JERRY|(subdued, almost somber) Hello. Welcome back.
+George and Cheryl are at Isabella's.|CHERYL|Sorry, it was my aunt's birthday and she makes such a big deal about it.
+George and Cheryl are at Isabella's.|ELAINE|Well, nobody likes to get old, right?
+George and Cheryl are at Isabella's.|JERRY|Well, birthdays are merely symbolic of how another year has gone by and how little we've grown. No matter how desperate we are that someday a better self will emerge, with each flicker of the candles on the cake, we know it's not to be, that for the rest of our sad, wretched pathetic lives, this is who we are to the bitter end. Inevitably, irrevocably; happy birthday? No such thing.
+George and Cheryl are at Isabella's.|GEORGE|Funny guy, huh?
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|Here, take it. I was glad to get rid of it.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Well thank you very much, it's about time.
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|Oh listen, guess what? Cheryl convinced Ping to drop the case against me.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Drop the case? Well, congratulations, that'll save you some money.
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|Yeah, no kidding. That lawyer was gonna charge me a fortune.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|(leafing through his mail) Oh great, a birth announcement from Arnie and Joy Harris.
+Elaine is bringing Jerry's mail to his apartment.|action|They hear a noise from the hallway.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Hear that? Guess who's back. (Opening the door) Hey!
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Hey.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|I thought you weren't coming back till Monday.
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Well, the camp ended a few days early.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Why?
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Uh, well there was an incident.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|What happened?
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|I punched Mickey Mantle in the mouth.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|What?
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Yeah, I punched him and they took him to the hospital and then they canceled the rest of the week.
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|You punched who in the mouth?
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Mickey Mantle.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|What happened?
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Well, you know, we were playing a game and, you know, I was pitching, and I was really throwing some smoke. And Joe Pepitone, he was up, and man that guy, you know, he was crowding the plate.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Wow! Joe Pepitone!
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Yeah, well, Joe Pepitone or not, I own the inside of that plate. So I throw one, you know, inside, you know, a little chin music, put him right on his pants. Cause I gotta intimidate when I'm on the mound. Well the next pitch, he's right back in the same place. So, I had to plunk him.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|You plunked him.
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Oh yeah. Well, he throws down his bat, he comes racing up to the mound. Next thing, both benches are cleared, you know? A brouhaha breaks out between the guys in the camp, you know, and the old Yankee players, and as I'm trying to get Moose Skowron off of one of my teammates, you know, somebody pulls me from behind, you know, and I turned around and I popped him. I looked down, and woah man, it's Mickey. I punched his lights out.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Wow, this is incredible!
+Elaine is bringing Jerry's mail to his apartment.|action|A voice is heard from the hallway.
+Elaine is bringing Jerry's mail to his apartment.|BABU|Leave me alone! You can't do this to me!
+Elaine is bringing Jerry's mail to his apartment.|JERRY|What's going on out there?
+Elaine is bringing Jerry's mail to his apartment.|BABU|What are you doing? This is not right, people. You're making a very bad mistake, very bad.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Babu? (leaving) I'll be right back.
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|(to Kramer) Yeah, so?
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Then Hank Bauer, you know, he's screaming, "Mickey! Mickey! What have you done with Mickey? You killed Mickey!"
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|So what'd you do?
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Well, I got the hell out of there.
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|They took Babu away?!
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Yeah, the Immigration guy said his Visa was expired. Poor Babu, everything was going so well for him. He had an apartment, he had a job. What a shame.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|I will, Babu! I will help you, Babu, don't worry!
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Then Hank Bauer, you know, he's chasing me around, he trips over third base and knocks over Clete Boyer.
+Elaine is bringing Jerry's mail to his apartment.|JERRY|(thumbing through his mail) Uh oh.
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|What?
+Elaine is bringing Jerry's mail to his apartment.|JERRY|Well this is interesting.
+Elaine is bringing Jerry's mail to his apartment.|ELAINE|What is it?
+Elaine is bringing Jerry's mail to his apartment.|JERRY|It's a letter from the Immigration Bureau, it's Babu's Visa renewal application form. They must have put it in my mailbox by mistake.
+Elaine is bringing Jerry's mail to his apartment.|KRAMER|Well, doesn't he need that?
+Jerry and Elaine are at Jerry's apartment.|JERRY|If you had given me my mail last week when I got home, this whole thing never would have happened.
+Jerry and Elaine are at Jerry's apartment.|ELAINE|Well, you should have come to my house to pick it up.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Yeah, so am I being funny now?
+Jerry and Elaine are at Jerry's apartment.|ELAINE|No, actually, you're not being funny now.
+Jerry and Elaine are at Jerry's apartment.|JERRY|See, I told you I wasn't funny all the time. (George enters) Hey George, look, I'm not funny now.
+Jerry and Elaine are at Jerry's apartment.|GEORGE|No, and you weren't funny last night either. In fact, you got us both so depressed, she asked me to drive her home after dinner.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Oh look, I need to get in touch with Cheryl. Babu needs a lawyer, his Visa's expired.
+Jerry and Elaine are at Jerry's apartment.|GEORGE|What do you need her for? There's a million lawyers.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Yeah, but you said this is one of the things that her firm does.
+Jerry and Elaine are at Jerry's apartment.|GEORGE|Alright, alright, but no funny business, same deal as last night.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Ah, will you stop it already?
+Jerry and Elaine are at Jerry's apartment.|GEORGE|Jerry, please?
+Jerry and Elaine are at Jerry's apartment.|JERRY|How long is this gonna go on?
+Jerry and Elaine are at Jerry's apartment.|GEORGE|Till I'm comfortable.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Well, when is that gonna be?
+Jerry and Elaine are at Jerry's apartment.|GEORGE|After consummation.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Consummation? I don't think you have enough material.
+Jerry and Cheryl are at the coffee shop.|CHERYL|I actually have a friend in the Immigration Department who owes me a big favor. You're very lucky.
+Jerry and Cheryl are at the coffee shop.|JERRY|(somber) That's wonderful news. Thank you.
+Jerry and Cheryl are at the coffee shop.|CHERYL|You're a very serious person, aren't you?
+Jerry and Cheryl are at the coffee shop.|JERRY|Well, with so many people in the world deprived and unhappy, it doesn't seem like it would be fair to be cheerful.
+Jerry and Cheryl are at the coffee shop.|CHERYL|I understand.
+Jerry and Cheryl are at the coffee shop.|action|Jerry reaches for the milk for his coffee.
+Jerry and Cheryl are at the coffee shop.|CHERYL|I think it's curdled.
+Jerry and Cheryl are at the coffee shop.|JERRY|I don't care.
+Jerry and Cheryl are at the coffee shop.|CHERYL|Do you ever laugh?
+Jerry and Cheryl are at the coffee shop.|JERRY|Not really. Sometimes, when I'm in the tub.
+Jerry and Cheryl are at the coffee shop.|CHERYL|That's so sad. What do you do?
+Jerry and Cheryl are at the coffee shop.|JERRY|I'm a comedian. Oh, let me get that. (reaching for the check) You've been so helpful.
+Jerry and Cheryl are at the coffee shop.|ELAINE|(entering as Jerry heads to the register) Hey, we're gonna go see Babu now, right?
+Jerry and Cheryl are at the coffee shop.|JERRY|Yeah, I'll just pay for this.
+Jerry and Cheryl are at the coffee shop.|ELAINE|Oh, I'm just gonna go say hi to Cheryl. (walking over to the booth) Hi.
+Jerry and Cheryl are at the coffee shop.|CHERYL|Hi.
+Jerry and Cheryl are at the coffee shop.|ELAINE|Listen, gosh, I wanted to thank you so much for convincing Ping to drop the case.
+Jerry and Cheryl are at the coffee shop.|CHERYL|Well, after we met, you were all so nice. I just couldn't go through with it. But between you and me, you would have paid through the nose.
+Jerry and Elaine are at the Immigration office.|JERRY|Babu!
+Jerry and Elaine are at the Immigration office.|BABU|Jerry! Jerry, hello Jerry!
+Jerry and Elaine are at the Immigration office.|JERRY|You remember Elaine.
+Jerry and Elaine are at the Immigration office.|BABU|Yes, yes of course!
+Jerry and Elaine are at the Immigration office.|ELAINE|Nice to meet you.
+Jerry and Elaine are at the Immigration office.|BABU|So nice of you both to come.
+Jerry and Elaine are at the Immigration office.|JERRY|Oh, Babu.
+Jerry and Elaine are at the Immigration office.|BABU|No no, you're both very kind, very kind.
+Jerry and Elaine are at the Immigration office.|ELAINE|We try.
+Jerry and Elaine are at the Immigration office.|JERRY|We do what we can.
+Jerry and Elaine are at the Immigration office.|ELAINE|We do what we can.
+Jerry and Elaine are at the Immigration office.|BABU|The problem is I never got my Visa renewal form in the mail. I was expecting it.
+Jerry and Elaine are at the Immigration office.|JERRY|Yes, well, see, here's the thing, Babu. Um, what happened was I was away for a couple of weeks doing some comedy shows.
+Jerry and Elaine are at the Immigration office.|BABU|Comedy shows! You're a very funny man.
+Jerry and Elaine are at the Immigration office.|JERRY|Well, Elaine here was picking up my mail while I was away, because you know that little box can get very full.
+Jerry and Elaine are at the Immigration office.|BABU|Oh yes, of course. TV Guide, magazines, everything. You know, I would have picked up your mail, your box is right next to mine.
+Jerry and Elaine are at the Immigration office.|JERRY|Oh, I don't want to bother you.
+Jerry and Elaine are at the Immigration office.|BABU|No bother! You get me job, you get me apartment, you very very good man.
+Jerry and Elaine are at the Immigration office.|JERRY|So yesterday, after they took you away, I looked in my mail and I noticed that the mailman accidentally put your Visa renewal in my mail box.
+Jerry and Elaine are at the Immigration office.|BABU|Come again?
+Jerry and Elaine are at the Immigration office.|JERRY|You see, I've been home for a week and Elaine didn't give me my mail until yesterday, even though I asked her repeatedly for it.
+Jerry and Elaine are at the Immigration office.|ELAINE|Yeah, but Babu, he could have come to my house to pick it up.
+Jerry and Elaine are at the Immigration office.|BABU|You had my Visa application?!
+Jerry and Elaine are at the Immigration office.|JERRY|Well not technically.
+Jerry and Elaine are at the Immigration office.|BABU|(extremely and suddenly agitated) I kill you!!
+Jerry and Elaine are at the Immigration office.|JERRY|Well what about her?
+Jerry and Elaine are at the Immigration office.|BABU|I kill both of you!!
+Jerry and Elaine are at the Immigration office.|JERRY|Babu?!
+Jerry and Elaine are at the Immigration office.|BABU|No Babu! No Babu! You bad man! You very bad man! You very lazy bad man!
+Jerry and Elaine are at the Immigration office.|JERRY|Babu, I'm gonna fix everything! I have a lawyer who knows someone in the Immigration Department, they're gonna straighten the whole thing out, the wheels are in motion, things are happening even as we speak!
+Jerry and Elaine are at the Immigration office.|BABU|The wheels are in motion?
+Jerry and Elaine are at the Immigration office.|JERRY|The wheels are in motion, things are happening!
+George and Cheryl are parked.|GEORGE|Jerry?
+George and Cheryl are parked.|CHERYL|I'm very attracted to him.
+George and Cheryl are parked.|GEORGE|You think the person you were talking to is him? That's not even close to him. He's funny, Jerry's funny.
+George and Cheryl are parked.|CHERYL|He never said anything funny.
+George and Cheryl are parked.|GEORGE|He can't not be funny.
+George and Cheryl are parked.|CHERYL|No no no, he's dark. And disturbed.
+George and Cheryl are parked.|GEORGE|Dark and disturbed? His whole life revolves around Superman and cereal. I convinced him to act like that so that you would think I was funnier. That's how disturbed I am! If you want disturbed, that's disturbed. You can't find sickness like that anywhere, you think sickness like that grows on trees? Nobody is sicker than me, nobody. He's pretending, I'm the genuine article.
+George and Cheryl are parked.|CHERYL|So you're telling me Jerry's whole thing was an act?
+George and Cheryl are parked.|GEORGE|Yes! And I put him up to it, because I'm sick! I'm the one that needs help.
+George and Cheryl are parked.|CHERYL|I gotta go.
+George and Cheryl are parked.|GEORGE|Well, should I call you later?
+George and Cheryl are parked.|CHERYL|Please don't.
+George and Cheryl are parked.|GEORGE|But, but I'm disturbed! I'm depressed! I'm inadequate! I got it all!!
+Jerry and Elaine are at Jerry's apartment.|ELAINE|So, what's up with Babu? How come he's not back?
+Jerry and Elaine are at Jerry's apartment.|JERRY|I don't know, I don't understand it. Cheryl was supposed to take care
+Jerry and Elaine are at Jerry's apartment.|GEORGE|It's George.
+Jerry and Elaine are at Jerry's apartment.|JERRY|C'mon up.
+Jerry and Elaine are at Jerry's apartment.|action|They hear a voice in the hallway, Jerry opens the door.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Babu must be back.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Where's Babu?
+Jerry and Elaine are at Jerry's apartment.|JERRY|Who are you?
+Jerry and Elaine are at Jerry's apartment.|JERRY|I'm sure the lawyer did everything they could.
+Jerry and Elaine are at Jerry's apartment.|ELAINE|(offering a drink) Snapple?
+Jerry and Elaine are at Jerry's apartment.|action|Babu's Brother leaves, George enters.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Hey, what happened? I thought Cheryl was gonna help Babu get his Visa.
+Jerry and Elaine are at Jerry's apartment.|GEORGE|She didn't help him?
+Jerry and Elaine are at Jerry's apartment.|JERRY|No.
+Jerry and Elaine are at Jerry's apartment.|GEORGE|Where is he?
+Jerry and Elaine are at Jerry's apartment.|JERRY|He's in Pakistan.
+Jerry and Elaine are at Jerry's apartment.|GEORGE|Oh boy.
+Jerry and Elaine are at Jerry's apartment.|JERRY|What do you mean, oh boy?
+Jerry and Elaine are at Jerry's apartment.|GEORGE|Well, last night she told me that she liked you. Not you, the disturbed you, so I had to tell her the truth.
+Jerry and Elaine are at Jerry's apartment.|JERRY|Told her the truth? Well, you got Babu deported.
+Jerry and Elaine are at Jerry's apartment.|GEORGE|What do you mean, I got? You didn't give him his Visa application.
+Jerry and Elaine are at Jerry's apartment.|JERRY|That's because she had my mail.
+Jerry and Elaine are at Jerry's apartment.|action|Kramer enters.
+Jerry and Elaine are at Jerry's apartment.|ELAINE|Yeah, well I wouldn't have had to get your mail if he hadn't gone to that fantasy camp.
+Jerry and Elaine are at Jerry's apartment.|KRAMER|Well, I just came back from Mickey Mantle's restaurant.
+Jerry and Elaine are at Jerry's apartment.|JERRY|How could you go in there?
+Jerry and Elaine are at Jerry's apartment.|KRAMER|Well, I had to. I had to apologize. I mean, I punched Mickey Mantle, my idol. It was eating me up inside!
+Jerry and Elaine are at Jerry's apartment.|JERRY|Well, what happened?
+Jerry and Elaine are at Jerry's apartment.|KRAMER|I got down in my knees and went, "Go ahead, Mickey. Hit me. I'm begging you, Mickey, please hit me. C'mon, hit me. I love you, Mickey, I love you!"
+Jerry and Elaine are at Jerry's apartment.|ELAINE|So, what did he do?
+Jerry and Elaine are at Jerry's apartment.|KRAMER|Well, the four of them, they picked me up by my pants and they threw me outside, right into a horse.
+Jerry and Elaine are at Jerry's apartment.|action|There's a knock on Kramer's door.
+Jerry and Elaine are at Jerry's apartment.|VOICE|Kramer?
+Jerry and Elaine are at Jerry's apartment.|KRAMER|Yeah? It's my Chinese food.
+Jerry and Elaine are at Jerry's apartment.|action|Ping enters with a bag of food.
+Jerry and Elaine are at Jerry's apartment.|ELAINE|Oh! Ping! Hi! Listen, thank you so much for dropping that lawsuit against me.
+Jerry and Elaine are at Jerry's apartment.|PING|Not anymore.
+Jerry and Elaine are at Jerry's apartment.|ELAINE|What?
+Jerry and Elaine are at Jerry's apartment.|PING|Cheryl call me last night, lawsuit back on.
+Jerry and Elaine are at Jerry's apartment.|ELAINE|Why?
+Jerry and Elaine are at Jerry's apartment.|PING|She call you and your friends big liars. You think she nice girl? Wait till you see her in court. She's a shark! They call her the Terminator. She never lose a case. Now you make her mad. She double the damages. Hasta la vista, baby.
+Jerry and Elaine are at Jerry's apartment.|action|Ping exits.
+Babu and a friend are sitting at a table in an outdoor cafe in Pakistan|BABU|So his friend got the mail but she did not give it to him. And then he came to visit me. Said the lawyer was called to help, he said the wheels were in motion, but there was no motion. There was nothing. And so they sent me back here.
+Babu and a friend are sitting at a table in an outdoor cafe in Pakistan|BABU|I'm going to save up every rupee. Someday, I will get back to America, and when I do I will exact vengeance on this man. I cannot forget him. He haunts me. He is a very bad man. He is a very very bad man.

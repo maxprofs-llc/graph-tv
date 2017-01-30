@@ -1,0 +1,275 @@
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|I’m always in traffic with the lane expert. You know this type of person? Constantly reevaluating their lane choice. Never quite sure, “Is this the best lane for me? For my life?” They’re always a little bit ahead of you, “Can I get in over there? Could I get in over here? Could I get in there?” “Yeah, come on over here, pal. We’re zoomin’ over here. This is the secret lane, nobody knows about it.” The ultimate, I think the ultimate psychological test of traffic is the total dead stop. Not even rolling. And you look out the window, you can see gum clearly. So we know that in the future traffic will get even worse than that. I mean, what will happen? Will it start moving backwords, I wonder? I mean, is that possible? That someday we’ll be going, (Jerry pretends he’s driving in reverse.) “Boy, this is some really bad traffic now, boy. This, is really bad. I’m gonna try to get off and get back on going the other way.”
+JERRY’S CAR|action|Jerry is in the driver’s seat, and George is in the passenger seat.
+JERRY’S CAR|GEORGE|She can’t kill me right?
+JERRY’S CAR|JERRY|No, of course not.
+JERRY’S CAR|GEORGE|People break up all the time.
+JERRY’S CAR|JERRY|Everyday.
+JERRY’S CAR|GEORGE|It just didn’t work out. What can I do? I wanted to love her. I tried to love her. I couldn’t.
+JERRY’S CAR|JERRY|You tried.
+JERRY’S CAR|GEORGE|I kept looking at her face. I’d go, “C’mon, love her. Love her!”
+JERRY’S CAR|JERRY|Did you tell her you loved her?
+JERRY’S CAR|GEORGE|Oh, I had no choice. She squeezed it out of me! She’d tell me she loved me. All right, at first, I just look at her. I’d go, “Oh, really? Or uh, Boy, that’s, that’s something.” But, eventually you have to come back with, “Well, I love you.” You know, you can only hold out for so long.”
+JERRY’S CAR|JERRY|You’re a human being.
+JERRY’S CAR|GEORGE|And I didn’t even ask her out. She asked me out first. She called me up. What was I supposed to do? Say no? (laughs) I can’t do that to someone.
+JERRY’S CAR|JERRY|You’re too nice a guy.
+JERRY’S CAR|GEORGE|I am. I’m a nice guy. And she seduced me! We were in my apartment, I’m sitting on the couch, she’s on the chair. I get up to go to the bathroom, I come back, she’s on the couch. What am I supposed to do? Not do anything? I couldn’t do that. I would’ve insulted her.
+JERRY’S CAR|JERRY|You’re flesh and blood.
+JERRY’S CAR|GEORGE|I had nothing to do wtih any of this! I met all her friends, I didn’t want to meet them. I kept trying to avoid it. I knew it would only get me in deeper. But they were everywhere! They kept popping up all over the place. “This is Nancy, this is Susan, this is Amy, this is my cousin, this is my brother, this is my father...” It’s like I’m in quicksand.
+JERRY’S CAR|JERRY|I told you when I met her.
+JERRY’S CAR|GEORGE|My back is killing me.
+JERRY’S CAR|JERRY|You gotta go to my chiropractor, he’s the best.
+JERRY’S CAR|GEORGE|Oh yeah, everybody’s guy is the best.
+JERRY’S CAR|JERRY|I’m gonna make an appointment for you. We’ll go together.
+JERRY’S CAR|GEORGE|Please. They don’t do anything. Look, do I have to break up with her in person? Can’t I do it over the phone? I-I have no stomach for these things.
+JERRY’S CAR|JERRY|You should just do it like a Band-Aid. One motion! Right off!
+JERRY’S CAR|action|Car door opens. It’s Elaine.
+JERRY’S CAR|ELAINE|Hi.
+JERRY’S CAR|JERRY|Hi.
+JERRY’S CAR|action|George pulls his seat forward to allow Elaine into the back.
+JERRY’S CAR|ELAINE|Hey, what are you doing?
+JERRY’S CAR|GEORGE|I’m letting you in.
+JERRY’S CAR|ELAINE|Oh no. No. I don’t want to sit in the back. I’ll be left out of the conversation.
+JERRY’S CAR|GEORGE|No, you won’t.
+JERRY’S CAR|ELAINE|Yes, I will, George. I’ll have to stick my chin on top of the seat.
+JERRY’S CAR|GEORGE|Okay.
+JERRY’S CAR|action|George gets out, and gestures for Elaine to sit in the middle.
+JERRY’S CAR|ELAINE|Why can’t you sit in the middle?
+JERRY’S CAR|GEORGE|Please, it doesn’t look good. Boy, boy, girl.
+JERRY’S CAR|ELAINE|You’re afraid to sit next to a man. You’re a little homophobic, aren’t ya?
+JERRY’S CAR|GEORGE|Is it that obvious?
+JERRY’S CAR|action|Elaine sits in the middle.
+JERRY’S CAR|ELAINE|Hello, Jerry.
+JERRY’S CAR|JERRY|Hello.
+JERRY’S CAR|ELAINE|Did you get a haircut?
+JERRY’S CAR|JERRY|No, shower. So, where are we eating?
+JERRY’S CAR|ELAINE|Tell me if you think this is strange. There’s this guy who lives in my building, who I was introduced to a couple of years ago by a friend. He’s a uh teacher, or something. Anyway, after we met, whenever we’d run into each other on the street, or in the lobby, or whatever, we would stop and we would chat a little. Nothing much. Little pleasantries. He’s a nice guy, he’s got a family. Then after a while, I noticed there was not more stopping. Just saying hello and continuing on our way. And then the verbal hellos stopped, and we just went into these little sort of nods of recognition. So, fine. I figure, that’s where this relationship is finally gonna settle: polite nodding. Then one day, he doesn’t nod. Like I don’t exist?! He went from nods to nothing.
+JERRY’S CAR|GEORGE|(singing; imitating Tony Bennett) “You know, I’d go from nods to nothing...”
+JERRY’S CAR|ELAINE|And now, there’s this intense animosity whenever we pass. I mean, it’s like we really hate each other. It’s based on nothing.
+JERRY’S CAR|JERRY|A relationship is an organism. You created this thing and then you starved it so it turned against you. Same thing happened in “The Blob”.
+JERRY’S CAR|GEORGE|I think you absolutely have to say something to this guy. Confront him.
+JERRY’S CAR|ELAINE|Really?
+JERRY’S CAR|GEORGE|Yes.
+JERRY’S CAR|ELAINE|You would do that?
+JERRY’S CAR|GEORGE|If I was a different person.
+JERRY’S APARTMENT|action|Jerry is on the phone.
+JERRY’S APARTMENT|JERRY|Hello... Hello. Is Glen there?... I’m sorry. Is this 805-555-3234?... Yes, I know I have the wrong number, but I just want to know if I dialed wrong or if...
+JERRY’S APARTMENT|action|The other guy hangs up on Jerry; he redials. Kramer enters. The intercom buzzes; Kramer answers it.
+JERRY’S APARTMENT|KRAMER|(to the intercom) Come on up.
+JERRY’S APARTMENT|JERRY|(to the phone) Oh, it’s you again. See, now if you had answered me, I wouldn’t have had to do this. Now that’s two long distance calls I made to you why can’t you... (The guy hangs up on Jerry again; to nobody) Why? Why do they just hang up like that? Thank you very much.
+JERRY’S APARTMENT|action|Kramer holds up some cantaloupe.
+JERRY’S APARTMENT|KRAMER|Taste this.
+JERRY’S APARTMENT|JERRY|No, I just had a sandwich.
+JERRY’S APARTMENT|KRAMER|No, taste it. Taste it.
+JERRY’S APARTMENT|JERRY|I don’t want cantaloupe now.
+JERRY’S APARTMENT|KRAMER|You’ve never had cantaloupe like this before...
+JERRY’S APARTMENT|JERRY|I only eat cantaloupe at certain times...
+JERRY’S APARTMENT|KRAMER|...Jerry. This is great cantaloupe.
+JERRY’S APARTMENT|JERRY|...all right!
+JERRY’S APARTMENT|action|Jerry tastes it.
+JERRY’S APARTMENT|KRAMER|Uh-huh. It’s good?
+JERRY’S APARTMENT|JERRY|It’s very good.
+JERRY’S APARTMENT|KRAMER|Good, huh?
+JERRY’S APARTMENT|JERRY|Good.
+JERRY’S APARTMENT|KRAMER|I got it at Joe’s.
+JERRY’S APARTMENT|JERRY|Uh-huh.
+JERRY’S APARTMENT|KRAMER|Forty-nine cents a pound. That’s practically half than what you’re paying at the supermarket. I don’t know why you don’t go to Joe’s.
+JERRY’S APARTMENT|JERRY|It’s too far.
+JERRY’S APARTMENT|KRAMER|It’s three blocks further. You can use my shopping cart..
+JERRY’S APARTMENT|JERRY|I’m not pulling a shopping cart. What, am I suppose to wear a kerchief? Put stockings on and roll ‘em down below my knee?
+JERRY’S APARTMENT|KRAMER|See, the other thing is, if you don’t like anything, he takes it right back.
+JERRY’S APARTMENT|JERRY|I don’t return fruit. Fruit is a gamble. I know that going in.
+JERRY’S APARTMENT|action|Enter George. He dances around the room, singing the Zorba theme.
+JERRY’S APARTMENT|GEORGE|I’m outta there. I did it! It’s over.
+JERRY’S APARTMENT|JERRY|You did it? What happened?
+JERRY’S APARTMENT|GEORGE|I told her. In the kitchen – which was risky ‘cause it’s near all the knives. I started with the word “Listen.”
+JERRY’S APARTMENT|JERRY|Uh-huh...
+JERRY’S APARTMENT|GEORGE|I said, “Listen Marlene,” and then the next thing I know, I’m in the middle of it. And there’s this voice inside of me going, “You’re doing it! You’re doing it!” And then she started to cry, and I weakened a bit. I almost relented, but the voice, Jerry, the voice said, “Keep going, keep going. You’re almost out!” It’s like I was making a prison break, you know, and I’m heading for the wall, and I trip and I twist my ankle, and they throw the light on you, you know. So, somehow I get though the crying and I keep running. Then the cursing started. She’s firing at me from the guard tower. “Son of a bang! Son of a boom!” I get to the top of the wall – the front door. I opened it up, I’m one foot away, I took one last look around the penitentiary, and I jumped!
+JERRY’S APARTMENT|JERRY|See, it’s never as bad as you imagine.
+JERRY’S APARTMENT|KRAMER|I liked Marlene. What’s her number?
+JERRY’S APARTMENT|GEORGE|Uh, no, I, I don’t think so.
+JERRY’S APARTMENT|action|Kramer is eating cantaloupe.
+JERRY’S APARTMENT|JERRY|(to Kramer) Could you stop that smacking?
+JERRY’S APARTMENT|KRAMER|George, I want you to taste this cantaloupe.
+JERRY’S APARTMENT|GEORGE|Oh no, thank you.
+JERRY’S APARTMENT|KRAMER|It’s the best cantaloupe I ever had.
+JERRY’S APARTMENT|GEORGE|No, really. No, no, thanks.
+JERRY’S APARTMENT|KRAMER|Jerry, tell him how good this cantaloupe is.
+JERRY’S APARTMENT|JERRY|It’s very good cantaloupe. (Kramer leaves; to George) So that’s it? You’re out?
+JERRY’S APARTMENT|GEORGE|Except for one small problem. Hah, I left some books in her apartment.
+JERRY’S APARTMENT|JERRY|So, go get them.
+JERRY’S APARTMENT|GEORGE|Oh, no no, I can’t go back there. Jerry, it’s so awkward and, you know, it could be dangerous sexually. Something could happen, I’d be right back where I started from.
+JERRY’S APARTMENT|JERRY|So forget about the books. Did you read them?
+JERRY’S APARTMENT|GEORGE|Well, yeah.
+JERRY’S APARTMENT|JERRY|What do you need them for?
+JERRY’S APARTMENT|GEORGE|I don’t know. They’re books.
+JERRY’S APARTMENT|JERRY|What is this obsession people have with books? They put them in their houses like they’re trophies. What do you need it for after you read it?
+JERRY’S APARTMENT|GEORGE|They’re my books.
+JERRY’S APARTMENT|JERRY|So you want me to get the books? Is that it?
+MONK’S DINER – NIGHT|action|Jerry and Marlene are sitting at a booth. Marlene has a milkshake. A pile of books are on the table.
+MONK’S DINER – NIGHT|MARLENE|...so, it must’ve been ninety-five degrees that night, and everyone’s just standing around the pool with little drinks in their hands. I was wearing my old jeans and t-shirt. And I don’t know, I was just in one of those moods. So I said to myself, “Marlene, just do it.” And I jumped in. And as I’m getting out, I feel all these eyes on me, and I look up and everyone is just staring at me.
+MONK’S DINER – NIGHT|JERRY|So what’d you do?
+MONK’S DINER – NIGHT|MARLENE|Well, nothing. It’s no skin off my hide if people like to look. I just didn’t see what the big attraction was.
+MONK’S DINER – NIGHT|JERRY|Well, I have a general idea what it was. I could take a guess.
+MONK’S DINER – NIGHT|MARLENE|Hey, you know, Jerry, just because George and I don’t see each other anymore, it doesn’t mean we shouldn’t stay friends.
+MONK’S DINER – NIGHT|JERRY|No.
+MONK’S DINER – NIGHT|MARLENE|Good enough. I’m really glad we got that settled.
+CHIROPRACTOR’S WAITING ROOM – DAY|action|Jerry and George are reading magazines.
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|I don’t know how this happened.
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|Jerry, it’s not my fault.
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|No, no. It’s not your fault. “Books, books, I need my books.” Have you re-read those books yet, by the way? You know the great thing? When you read Moby Dick the second time, Ahab and the whale become good friends. You know, it’s not like Marlene’s a bad person or anything, but, my God! I mean, we’ve had like three lunches and a movie, and she never stops calling. (George nods.) And it’s these meaningless, purposeless, blather calls. She never asks if I’m busy or anything. I just pick up the phone, and she’s in the middle of a sentence!
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|It's standard. Has she left you one of those messages where she uses up the whole machine?
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|(disgusted) Ohh! You know, and sometimes she’ll go, (imitates Marlene) “Hello, Jerry?” And I’ll go, “Oh, hi Marlene.” And then it’s “Jerry...”
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|What trying to get off the phone?
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|(more disgusted) Ohhhh! You can’t! It’s impossible! There’s no break in the conversation where you can go, “All right then...” You know, it just goes on and on and on without a break in the wall. I mean, I gotta put a stop to this.
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|Just do it like a Band-Aid. One motion. Right off! (beat) She is sexy though. Don’t you think?
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|Yeah. Yes, she is.
+CHIROPRACTOR’S WAITING ROOM – DAY|action|The RECEPTIONIST enters.
+CHIROPRACTOR’S WAITING ROOM – DAY|RECEPTIONIST|Mr. Costanza?
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|Yeah.
+CHIROPRACTOR’S WAITING ROOM – DAY|RECEPTIONIST|The doctor will see you now.
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|(to Jerry, sarcastically) Yeah, doctor. I’m going to have to wait in that little room all by myself, aren’t I? (He picks up a crossword puzzle.) I better take this. I hate the little room. (George walks into the hallway that leads to the doctor’s office.) “Oh, hello, Doctor.”
+COMEDY CLUB|action|Jerry is on stage, performing.
+COMEDY CLUB|JERRY|The waiting room. I hate when they make you wait in the room. ‘Cause it says “Waiting Room.” There’s no chance of not waiting. ‘Cause they call it the waiting room, they’re gonna use it. They’ve got it. It’s all set up for you to wait. And you sit there, you know, and you’ve got your little magazine. You pretend you’re reading it, but you’re really looking at the other people. You know, you’re thinking about about them. Things like, “I wonder what he’s got. As soon as she goes, I’m getting her magazine.” And then, they finally call you and it’s a very exciting moment. They finally call you, and you stand up and you kinda look around at the other people in the room. “Well, I guess I’ve been chosen. I’ll see you all later.” You know, so you think you’re going to see the doctor, but you’re not, are you? No. You’re going into the next waiting room – the littler waiting room. But if they are, you know, doing some sort of medical thing to you, you want to be in the smallest room that they have, I think. You don’t wnat to be in the largest room that they have. You know what I mean? You ever see these operating theaters, that they have, with like, stadium seating? You don’t want them doing anything to you that makes other doctors go, “I have to see this! Are you kidding? Are they really gonna do that to him? Are there seats? Can we get in?” Do they scalp tickets to these things? “I got two for the Winslow tumor, I got two...”
+CHIROPRACTOR’S WAITING ROOM – DAY|action|George returns from his appointment to meet Jerry.
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|So, how was it?
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|I was in there for two minutes. He didn’t do anything. Touch this, feel that – seventy-five bucks!
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|Well, it’s a first visit.
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|What’s seventy-five bucks?! What, am I seeing Sinatra in there?! Am I being entertained? I don’t understand this. I’m only paying half.
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|You can’t do that.
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|Why not?
+CHIROPRACTOR’S WAITING ROOM – DAY|JERRY|He’s a doctor. You gotta pay what he says.
+CHIROPRACTOR’S WAITING ROOM – DAY|GEORGE|Oh, no no no. I pay what I say.
+JERRY’S CAR – NIGHT|action|Jerry is dropping off Marlene.
+JERRY’S CAR – NIGHT|MARLENE|Are you feeling weird?
+JERRY’S CAR – NIGHT|JERRY|No, I’m fine.
+JERRY’S CAR – NIGHT|MARLENE|Nothing really happened.
+JERRY’S CAR – NIGHT|JERRY|Yeah, I know.
+JERRY’S CAR – NIGHT|MARLENE|We just kissed a little. People kiss.
+JERRY’S CAR – NIGHT|JERRY|Yeah.
+JERRY’S CAR – NIGHT|MARLENE|Well... night.
+JERRY’S CAR – NIGHT|action|She leans over and kisses Jerry on the cheek. She exits the car. Jerry is stunned.
+JERRY’S CAR – NIGHT|JERRY|(belated) Good night.
+JERRY’S APARTMENT – DAY|action|Kramer enters with a golf club.
+JERRY’S APARTMENT – DAY|KRAMER|Hey.
+JERRY’S APARTMENT – DAY|JERRY|Hey.
+JERRY’S APARTMENT – DAY|KRAMER|I got it! This time, I got it!
+JERRY’S APARTMENT – DAY|action|Kramer sets up to show his golf swing.
+JERRY’S APARTMENT – DAY|KRAMER|Hips! See, it’s all hips.
+JERRY’S APARTMENT – DAY|JERRY|Uh-huh.
+JERRY’S APARTMENT – DAY|KRAMER|You gotta come through with the hips first.
+JERRY’S APARTMENT – DAY|action|He swings at an imaginary golf ball. Jerry looks off into the distance, at the ball.
+JERRY’S APARTMENT – DAY|JERRY|That is out there.
+JERRY’S APARTMENT – DAY|action|Kramer notices Jerry is eating cantaloupe; his eyes light up.
+JERRY’S APARTMENT – DAY|KRAMER|Joe’s?
+JERRY’S APARTMENT – DAY|JERRY|No, supermarket.
+JERRY’S APARTMENT – DAY|KRAMER|Well, is it good?
+JERRY’S APARTMENT – DAY|JERRY|It’s uh okay.
+JERRY’S APARTMENT – DAY|KRAMER|Let me taste it.
+JERRY’S APARTMENT – DAY|action|He takes a bite and immediately spits it out.
+JERRY’S APARTMENT – DAY|KRAMER|See, that stinks. You can’t eat that. You should take that back.
+JERRY’S APARTMENT – DAY|JERRY|I’m not taking it back.
+JERRY’S APARTMENT – DAY|KRAMER|All right, I’ll take it back. I’m going by there.
+JERRY’S APARTMENT – DAY|JERRY|I don’t care about it.
+JERRY’S APARTMENT – DAY|KRAMER|Jerry, you should care. Cantaloupe like this should be taken out of circulation.
+JERRY’S APARTMENT – DAY|JERRY|All right. Take it back.
+JERRY’S APARTMENT – DAY|action|Jerry’s phone rings. He is reluctant to answer it. The machine picks up.
+JERRY’S APARTMENT – DAY|MARLENE|(from the phone) Jerry, have you ever taken a bath in the dark? If I’m not talking into the soap right now, call me back.
+JERRY’S APARTMENT – DAY|KRAMER|Well?
+JERRY’S APARTMENT – DAY|JERRY|Marlene.
+JERRY’S APARTMENT – DAY|KRAMER|(smiles) Oh. Oh, Marlene...
+JERRY’S APARTMENT – DAY|JERRY|Yeah, I took her home one night – we kinda started up a little bit in the car.
+JERRY’S APARTMENT – DAY|KRAMER|I thought you were trying to get rid of her?
+JERRY’S APARTMENT – DAY|JERRY|I was. But, she’s got me, like, hypnotized.
+JERRY’S APARTMENT – DAY|KRAMER|Does George know?
+JERRY’S APARTMENT – DAY|JERRY|No, he’d go nuts.
+JERRY’S APARTMENT – DAY|KRAMER|Yeah, no kidding.
+JERRY’S APARTMENT – DAY|JERRY|I feel terrible. (Kramer smiling) I mean, I’ve seen her a couple of times since then, and I know I can’t go any further, but... She’s just got this like, psychosexual hold over me. I just want her, I can’t breathe. It’s like a drug.
+JERRY’S APARTMENT – DAY|KRAMER|Whoa, psychosexual.
+JERRY’S APARTMENT – DAY|JERRY|I don’t know how I’m going to tell him.
+JERRY’S APARTMENT – DAY|KRAMER|Man, I don’t understand people. I mean, why would George want to deprive you of pleasure? Is it just me?
+JERRY’S APARTMENT – DAY|JERRY|It’s partially you, yeah.
+JERRY’S APARTMENT – DAY|KRAMER|You’re his friend. Better that she should sleep with someone else? Some jerk that he doesn’t even know?
+JERRY’S APARTMENT – DAY|JERRY|Well, he can’t kill me, right?
+JERRY’S APARTMENT – DAY|KRAMER|You’re a human being.
+JERRY’S APARTMENT – DAY|JERRY|I mean, she called me. I haven’t called her. She started it.
+JERRY’S APARTMENT – DAY|KRAMER|You’re flesh and blood.
+JERRY’S APARTMENT – DAY|JERRY|I’m a nice guy.
+JERRY’S APARTMENT – DAY|action|Elaine enters, holding a desk lamp in the shape of an airplane.
+JERRY’S APARTMENT – DAY|ELAINE|Hi.
+JERRY’S APARTMENT – DAY|action|She hands Jerry the lamp.
+JERRY’S APARTMENT – DAY|JERRY|(excited) Oh, my little airplane lamp.
+JERRY’S APARTMENT – DAY|ELAINE|You know, you have the slowest elevator in the entire city. That’s hard to get used to when you’re in so many other fast ones.
+JERRY’S APARTMENT – DAY|JERRY|Well, the apartment elevators are always slower than the offices, because you don’t have to be home on time.
+JERRY’S APARTMENT – DAY|ELAINE|Unless you’re married to a dictator.
+JERRY’S APARTMENT – DAY|JERRY|Yeah... Because they would be very demanding people.
+JERRY’S APARTMENT – DAY|ELAINE|Right. Exactly. So I imagine at some point somebody’s going to offer me some cantaloupe?
+JERRY’S APARTMENT – DAY|KRAMER|Nope. No good.
+JERRY’S APARTMENT – DAY|JERRY|Well, you know what they say. Lucky in love, Unlucky with fruit.
+JERRY’S APARTMENT – DAY|KRAMER|Well, I’m taking this back.
+JERRY’S APARTMENT – DAY|action|Kramer exits.
+JERRY’S APARTMENT – DAY|ELAINE|So, I had what you might call a little encounter this morning.
+JERRY’S APARTMENT – DAY|JERRY|Really? That guy who stopped saying hello?
+JERRY’S APARTMENT – DAY|ELAINE|Yes.
+JERRY’S APARTMENT – DAY|JERRY|You talked to him?
+JERRY’S APARTMENT – DAY|ELAINE|Yes. I spotted him getting his mail. And at first, I was just going to walk on by, but then I thought, “No no no. No. Do not be afraid of this man.”
+JERRY’S APARTMENT – DAY|JERRY|Right.
+JERRY’S APARTMENT – DAY|ELAINE|So, I walked up behind him and I tapped him on the shoulder. And I said, “Hi, remember me?” And he furrows his brow, as if he’s really trying to figure it out. So I said to him, I said, “You little phony. You know exactly who I am.”
+JERRY’S APARTMENT – DAY|JERRY|You said "you little phony"?
+JERRY’S APARTMENT – DAY|ELAINE|I did. I most certainly did. And he said, he goes, “Oh, yeah. You’re Jeanette’s friend. We did meet once.” And I said, “Well, how do you go from that to totally ignoring a person when they walk by?”
+JERRY’S APARTMENT – DAY|JERRY|This is amazing.
+JERRY’S APARTMENT – DAY|ELAINE|And he says, he says, “Look, I just didn’t want to say hello anymore, All right?” And I said, “Fine. Fine. I didn’t want to say hello anymore either, but just I wanted you to know that I’m aware of it!”
+JERRY’S APARTMENT – DAY|action|Elaine tastes some cantaloupe.
+JERRY’S APARTMENT – DAY|JERRY|You are the Queen of Confrontation. You’re my new hero. In fact, you’ve inspired me. I’m gonna call George about something right now.
+JERRY’S APARTMENT – DAY|ELAINE|This cantaloupe stinks.
+JERRY’S APARTMENT – DAY|action|She spits it out in a napkin.
+MONK’S DINER – DAY|action|Jerry and George sit at a table for two.
+MONK’S DINER – DAY|GEORGE|(considers for a second) I don’t care.
+MONK’S DINER – DAY|JERRY|You’re kidding.
+MONK’S DINER – DAY|GEORGE|No, I don’t care.
+MONK’S DINER – DAY|JERRY|You mean that?
+MONK’S DINER – DAY|GEORGE|Absolutely.
+MONK’S DINER – DAY|JERRY|You don’t care?
+MONK’S DINER – DAY|GEORGE|No.
+MONK’S DINER – DAY|JERRY|How could you not care?
+MONK’S DINER – DAY|GEORGE|I don’t know. But I don’t. I’m actually almost happy to hear it.
+MONK’S DINER – DAY|JERRY|I thought you’d be upset.
+MONK’S DINER – DAY|GEORGE|I guess I should be, but I’m not.
+MONK’S DINER – DAY|JERRY|Am I a bad person? Did I do something terrible?
+MONK’S DINER – DAY|GEORGE|You’re a fine person. You’re a humanitarian. She’s very sexy.
+MONK’S DINER – DAY|JERRY|That voice. That voice. She’s driving me crazy.
+MONK’S DINER – DAY|GEORGE|I know. I know.
+MONK’S DINER – DAY|JERRY|So I can see her tonight, and you don’t care?
+MONK’S DINER – DAY|GEORGE|See her tonight. See her tomorrow. Go. Knock yourself out. She’s too crazy for me.
+MONK’S DINER – DAY|JERRY|All right. As long as you’re okay. Because I can’t stop thinking about her.
+MONK’S DINER – DAY|GEORGE|I’m okay. I’m fine. I’m wonderful. I never felt better in my whole life.
+MONK’S DINER – DAY|JERRY|Good. And I’ll tell you what... You don’t have to pay me back the thirty-five I gave to the chiropractor for the rest of your bill.
+MONK’S DINER – DAY|GEORGE|(shocked and angry) You paid that crook?!
+MONK’S DINER – DAY|JERRY|I had to.
+MONK’S DINER – DAY|GEORGE|He didn’t do anything, Jerry. It’s a scam! Who told you to do that?
+MONK’S DINER – DAY|JERRY|It was embarrassing to me.
+MONK’S DINER – DAY|GEORGE|Oh, I was trying to make a point.
+MONK’S DINER – DAY|JERRY|Why don’t you make a point with your own doctor? (George gulps.) What’s wrong?
+MONK’S DINER – DAY|GEORGE|(gasping) I think I swallowed a fly! I swallowed a fly! What do I do? (He turns to a coffee shop patron at the counter.) What can happen?!
+JERRY’S CAR – NIGHT|action|Jerry and Marlene are parked outside Jerry’s building.
+JERRY’S CAR – NIGHT|JERRY|So, you wanna come up for a few minutes?
+JERRY’S CAR – NIGHT|MARLENE|I’m sorry, Jerry. I just don’t think this is gonna work.
+JERRY’S CAR – NIGHT|JERRY|Really? I thought...
+JERRY’S CAR – NIGHT|MARLENE|I know, I’m sorry.
+JERRY’S CAR – NIGHT|JERRY|Gee, I just didn’t expect it from the way you’ve been acting.
+JERRY’S CAR – NIGHT|MARLENE|You sure you want to talk about this? ‘Cause I sure don’t.
+JERRY’S CAR – NIGHT|JERRY|Of course I want to talk about it.
+JERRY’S CAR – NIGHT|MARLENE|Well, okay. I guess things changed for me on Tuesday night.
+JERRY’S CAR – NIGHT|JERRY|Tuesday night? What happened Tuesday night?
+JERRY’S CAR – NIGHT|MARLENE|I saw your act.
+JERRY’S CAR – NIGHT|JERRY|My act? Wha-What does that have to do with anything?
+JERRY’S CAR – NIGHT|MARLENE|Well, to be honest, it just didn’t make it for me. It’s just so much fluff.
+JERRY’S CAR – NIGHT|JERRY|I can’t believe this. So what are you saying? You didn’t like my act, so that’s it?
+JERRY’S CAR – NIGHT|MARLENE|I can’t be with someone if I don’t respect what they do.
+JERRY’S CAR – NIGHT|JERRY|You’re a cashier!
+JERRY’S CAR – NIGHT|MARLENE|Look, Jerry, it’s just wasn't my kind of humor.
+JERRY’S CAR – NIGHT|JERRY|You can’t go by the audience that night. It was late. They were terrible.
+JERRY’S CAR – NIGHT|MARLENE|I heard the material.
+JERRY’S CAR – NIGHT|JERRY|I have other stuff. Y-You should come see me on the weekend.
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|Women need to like the job of the guy they’re with. If they don’t like the job, they don’t like the guy. Men know this. Which is why we make up the phony, bogus names for the jobs that we have. “Well, right now, I’m the regional management supervisor. I’m in development, research, consulting...” Men on the other hand – if they are physically attracted to a woman – are not that concerned with her job. Are we? Men don’t really care. Men’ll just go, “Really? Slaughterhouse? Is that where you work? That sounds interesting. So whaddaya got a big cleaver there? You’re just lopping their heads off? That sounds great! Listen, why don’t you shower up, and we’ll get some burgers and catch a movie.”

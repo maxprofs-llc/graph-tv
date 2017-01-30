@@ -1,0 +1,502 @@
+Subway Train|action|Jerry and Elaine sit side by side on a subway train. They're both reading newspapers, when something occurs to Jerry.
+Subway Train|JERRY|You know at the movies, they show that little ad for the concession stand?
+Subway Train|ELAINE|Where the cartoon candy's dancing and the Milk Dud's playing the banjo?
+Subway Train|JERRY|He's wailing on that banjo.
+Subway Train|ELAINE|Yeah.
+Subway Train|JERRY|I just don't understand the raisinettes.
+Subway Train|ELAINE|The sax player?
+Subway Train|JERRY|Yeah.
+Subway Train|ELAINE|Yeah.
+Subway Train|JERRY|The box of raisinettes runs up to the concession stand, buys another box of raisinettes.
+Subway Train|ELAINE|So?
+Subway Train|JERRY|Box of raisinettes eating another box of raisinettes? It's perverse.
+Subway Train|ELAINE|HE's not gonna eat them. He's buying 'em for his Pepsi girlfriend.
+Subway Train|JERRY|Why's he dating a Pepsi? They're not having children.
+Subway Train|ELAINE|He's a musician.
+Subway Train|JERRY|Musicians. Get a real job.
+Subway Train|action|They shrug and return to their reading.
+Monk's|action|George is sitting at the counter perusing a magazine. The waitress comes over to take his order.
+Monk's|WAITRESS|What d'you want?
+Monk's|GEORGE|Ah, I've had everything on the menu. Uh, surprise me.
+Monk's|action|The waitress disappears out back. George goes back to reading. Behind him, a beautiful woman enters, and approaches him.
+Monk's|DANIELLE|(to George) Neil.
+Monk's|action|The woman touches George on his shoulder, to get his attention.
+Monk's|DANIELLE|Neil.
+Monk's|action|George turns to face the woman.
+Monk's|DANIELLE|(apologetic) Oh, I am sorry. (smiling broadly) I'm supposed to meet my boyfriend here. He looks just like you.
+Monk's|GEORGE|(bemused) Really?
+Monk's|DANIELLE|(smiling) Yeah.
+Monk's|GEORGE|(pointing to himself) Like me?
+Monk's|DANIELLE|Uh-huh. Sorry.
+Monk's|action|Danielle walks away with a wave. George sits there, looking stunned.
+Monk's|GEORGE|(confused, to himself) Like me? But how?
+Monk's|action|The waitress returns from the back and puts a plate down on the counter before George.
+Monk's|WAITRESS|Here's your halibut omelette. Surprised?
+Monk's|GEORGE|Yes, yes, I am.
+Jerry's Apartment|action|Jerry has a suitcase on the table, packing for a trip. Kramer has brought in a large paper bag, from which he pulls a blue t-shirt.
+Jerry's Apartment|KRAMER|Look what I got for you, for your Florida trip. Crazy Shirts was closing 'em out. I got a dozen for a buck.
+Jerry's Apartment|KRAMER|Saved a fortune. Look at that. Heyy.
+Jerry's Apartment|JERRY|(reading, unimpressed) Ohh, 'Number 1 Dad'.
+Jerry's Apartment|KRAMER|Yeah.
+Jerry's Apartment|JERRY|(examining the label) Ooh, and it's in medium. Perfect.
+Jerry's Apartment|action|George enters.
+Jerry's Apartment|KRAMER|Hey.
+Jerry's Apartment|GEORGE|Hey.
+Jerry's Apartment|JERRY|Hey.
+Jerry's Apartment|GEORGE|Hey. You ready?
+Jerry's Apartment|JERRY|Almost.
+Jerry's Apartment|KRAMER|Okay, look, uh, when you're in Florida, can my cigar guy drop off some Cubans for me at your parents' house?
+Jerry's Apartment|JERRY|(reluctant) Kramer, I'm helping my parents move into their new condo. I'm gonna be busy.
+Jerry's Apartment|KRAMER|Aw, c'mon man. Help a brother out.
+Jerry's Apartment|JERRY|(grudging) Alright.
+Jerry's Apartment|KRAMER|Yeahh. I owe you one.
+Jerry's Apartment|JERRY|(holding up the '# DAD' shirt) We're even.
+Jerry's Apartment|action|Kramer leaves. George has got himself a bottle of water from the fridge and wanders into the living room, talking.
+Jerry's Apartment|GEORGE|Jerry, figure this out. I'm in the coffee shop, and this beautiful girl I could never even talk to, mistakes me for her boyfriend.
+Jerry's Apartment|JERRY|(continuing to pack) That's a nice four seconds.
+Jerry's Apartment|GEORGE|(incredulous) I look just like him. I. Me. (flings his arms out) This! This is what her boyfriend looks like. How is that possible?
+Jerry's Apartment|JERRY|Maybe he has money.
+Jerry's Apartment|GEORGE|(wondering) Maybe he doesn't. Maybe he and I are exactly the same, except for one minor, yet crucial, detail. You never know.
+Jerry's Apartment|JERRY|(zipping up his bag) Sometimes you do.
+Jerry's Apartment|GEORGE|Maybe it's some small thing I could change. Like a moustache. Or wearing a top hat, or a monocle, or a..or a cane.
+Jerry's Apartment|JERRY|(picking up his bag and coat) Who's she dating? Mr Peanut?
+Jerry's Apartment|action|Jerry opens the door as George looks at him.
+Jerry's Apartment|GEORGE|(pointedly) She could do a lot worse than Mr Peanut, my friend.
+Jerry's Apartment|action|George leaves, followed by Jerry.
+Outside Movie Theatre|action|Elaine and her latest boyfriend are standing in line.
+Outside Movie Theatre|BLAINE|So, what d'you wanna see?
+Outside Movie Theatre|ELAINE|(indicating a movie poster) What about Sack Lunch?
+Outside Movie Theatre|BLAINE|(indicating another poster) How about The English Patient? It's up for all those Oscars.
+Outside Movie Theatre|action|Elaine pulls a face, like she's really not interested in seeing Blaine's choice.
+Outside Movie Theatre|ELAINE|Oh, c'mon Blaine. I mean, look at the poster for Sack Lunch.
+Outside Movie Theatre|BLAINE|It's a family in a brown paper bag.
+Outside Movie Theatre|ELAINE|(laughing) Don't you wanna know how they got in there?
+Outside Movie Theatre|BLAINE|No.
+Outside Movie Theatre|action|Elaine and Blaine reach the front of the queue, just as the guy in the ticket booth puts a sign up on the window saying 'Sack Lunch Sold Out'.
+Outside Movie Theatre|ELAINE|(disappointment) Aww. Sold out.
+Outside Movie Theatre|BLAINE|(to the booth guy) Oh, two for The English Patient.
+Outside Movie Theatre|action|Elaine continues to study the Sack Lunch poster, while Blaine buys tickets.
+Outside Movie Theatre|ELAINE|So d'you think they got shrunk down, or is it just a giant sack?
+Monk's|action|Danielle, the beautiful woman, is paying at the register. George enters and sees her.
+Monk's|GEORGE|(smiling) Uh, hi. Uhm, remember me? I..I'm the guy who looks like Neil?
+Monk's|DANIELLE|(smiling back) Hi.
+Monk's|GEORGE|Huh-Hi. (looks around a little) Uhm, is Neil here?
+Monk's|DANIELLE|Oh, no. He got held up at work.
+Monk's|GEORGE|Oh, that's too bad. I kinda wanted to meet him, seeing as how we look so similar.
+Monk's|DANIELLE|Well, you know, you don't look that much like him.
+Monk's|GEORGE|(disappointment) Oh. Course not.
+Monk's|DANIELLE|No, you're a little taller.
+Monk's|action|George looks ever more bewildered.
+Monk's|DANIELLE|You look like you're in better shape than Neil. Do you work out?
+Monk's|GEORGE|(smiling) Listen, I..I..I don't mean to seem forward...
+Monk's|action|Danielle looks like she thinks George is hitting on her, and she's not against the idea.
+Monk's|GEORGE|...but is there any way that I could possibly have Neil's phone number?
+Monk's|action|Now it's Danielle's time to look surprised and bewildered.
+Outside Movie Theatre|action|Elaine and Blaine emerge from the exit, having seen The English Patient.
+Outside Movie Theatre|ELAINE|(very dissatisfied) Why is everyone talking about "The English Patient, it's so romantic". (vehement) God, that movie stunk!
+Outside Movie Theatre|BLAINE|I kinda liked it.
+Outside Movie Theatre|ELAINE|(firm) No you didn't.
+Outside Movie Theatre|action|From the exit emerge several of Elaine's friends, who hurry over to see her. They're all holding tissues.
+Outside Movie Theatre|CAROL|Elaine. Elaine, did you just see The English Patient?
+Outside Movie Theatre|GAIL|(tearful) Didn't you love it?
+Outside Movie Theatre|LISA|How could you not love that movie?
+Outside Movie Theatre|ELAINE|How about, it sucked?
+Outside Movie Theatre|CAROL|That Ralph Fiennes, I would give up my firstborn for him.
+Outside Movie Theatre|ELAINE|(aside) Huhh, getting the short end of that stick.
+Outside Movie Theatre|action|Blaine gives Elaine a strange look.
+Recreation Center, Del Boca Vista|action|Jerry and Morty walk into a room which contains some fitness equipment - exercise bike, weights, etc.
+Recreation Center, Del Boca Vista|MORTY|Jerry, this is Del Boca Vista's new physical fitness room. They got medicine balls, you can bike ride, anything you want.
+Recreation Center, Del Boca Vista|JERRY|Stairmaster?
+Recreation Center, Del Boca Vista|MORTY|What?
+Recreation Center, Del Boca Vista|JERRY|Nothin'.
+Recreation Center, Del Boca Vista|MORTY|(opening his tracksuit top) See what I'm wearing?
+Recreation Center, Del Boca Vista|action|Morty has on the '#1 DAD' shirt.
+Recreation Center, Del Boca Vista|JERRY|Oh, did you get that outta my bag?
+Recreation Center, Del Boca Vista|MORTY|No, your mother found it. Son, this is the most wonderful and thoughtful thing you've ever done for me.
+Recreation Center, Del Boca Vista|JERRY|You know, I bought you a Cadillac. Twice.
+Recreation Center, Del Boca Vista|action|In through the door comes a really old guy. He jogs slowly in, and begins doing physical jerks as Morty talks to Jerry.
+Recreation Center, Del Boca Vista|MORTY|Hoh, here he is. This is the man I wanted you to see. Izzy Mandelbaum. He's eighty years old, but strong as an ox. (pointing) Watch this.
+Recreation Center, Del Boca Vista|action|Izzy picks up a set of weights and lifts them chest high.
+Recreation Center, Del Boca Vista|MORTY|See that? You couldn't do that.
+Recreation Center, Del Boca Vista|JERRY|I could, but I choose not to.
+Recreation Center, Del Boca Vista|action|Another guy enters behind the Seinfelds. He walks over to an exercise bike and climbs aboard.
+Recreation Center, Del Boca Vista|SID|Hey Morty. (nodding toward Jerry) Who's this?
+Recreation Center, Del Boca Vista|MORTY|This is my son Jerry, from New York. (leaning toward Sid) He thinks he can lift more than Izzy.
+Recreation Center, Del Boca Vista|JERRY|(protesting) I..I didn't say that.
+Recreation Center, Del Boca Vista|SID|(calling over) Hey, Izzy, this kid says he can lift more than you can.
+Recreation Center, Del Boca Vista|action|Izzy looks over. He releases his grip on the weights and they drop to the floor with a clunk.
+Recreation Center, Del Boca Vista|IZZY|Your kid's pretty funny, Morty. Should be a comedian.
+Recreation Center, Del Boca Vista|JERRY|(smiles) Actually, I am a comedian.
+Recreation Center, Del Boca Vista|SID|That's not so funny.
+Recreation Center, Del Boca Vista|IZZY|(challenging) Think you're better than me, huh?
+Recreation Center, Del Boca Vista|MORTY|Izzy used to work out with Charles Atlas in the fifties.
+Recreation Center, Del Boca Vista|JERRY|(jocular) Eighteen-fifties?
+Recreation Center, Del Boca Vista|IZZY|Yeah, that's it. It's go time. (points to the weights he put down) Let's see you lift that.
+Recreation Center, Del Boca Vista|JERRY|(reluctant) Mr Mandelbaum, I...
+Recreation Center, Del Boca Vista|IZZY|C'mon, c'mon. Pump it!
+Recreation Center, Del Boca Vista|JERRY|(consenting) Alright.
+Recreation Center, Del Boca Vista|IZZY|Yeah, wrong attitude. you're not bringing that trash into my house.
+Recreation Center, Del Boca Vista|action|Jerry walks over and picks the weights up easily.
+Recreation Center, Del Boca Vista|JERRY|There. Alright?
+Recreation Center, Del Boca Vista|IZZY|Step aside, stringbean.
+Recreation Center, Del Boca Vista|action|Jerry puts down the weights, and rolls them out of the way. Izzy steps in front of a much, much, more substantial set of weights.
+Recreation Center, Del Boca Vista|IZZY|I'll show you. We're gonna take it up a notch.
+Recreation Center, Del Boca Vista|action|Izzy bends and takes hold of the bar. The second he puts any effort into the lift, there is a loud crunching noise and a pained look of horror comes to his face.
+Recreation Center, Del Boca Vista|IZZY|(agonised) Ah! My back. Ugh.
+Recreation Center, Del Boca Vista|action|Izzy keeps hold of the bar as he slowly keels over forwards. The circular weights roll in front of him and Izzy gently falls forward until he's face down on the floor.
+Recreation Center, Del Boca Vista|IZZY|(drawn out) Aaaahh.
+Recreation Center, Del Boca Vista|action|Jerry, Morty and Sid, look on, concerned.
+Recreation Center, Del Boca Vista|SID|Somebody, call an ambulance.
+Recreation Center, Del Boca Vista|MORTY|(unpanicked) There's already an ambulance here for Mrs Glickman. There's room for one more.
+Outside Movie Theatre|ELAINE|(handing over her money) Okay, one for Sack Lunch. (taking the ticket) It's good, right? (smiling) Yeah, good.
+Outside Movie Theatre|action|Elaine turns to enter the theatre, and meets Gail, Carol and Lisa coming out.
+Outside Movie Theatre|ELAINE|(surprise) Hey, what're you guys doing here?
+Outside Movie Theatre|LISA|We just saw The English Patient again.
+Outside Movie Theatre|GAIL|It's even better the second time.
+Outside Movie Theatre|ELAINE|They make it longer?
+Outside Movie Theatre|action|Out of the theatre comes Blaine, carrying an umbrella.
+Outside Movie Theatre|BLAINE|(to the girls) Got my umbrella.
+Outside Movie Theatre|ELAINE|(shocked) Blaine!?
+Outside Movie Theatre|BLAINE|Elaine.
+Outside Movie Theatre|ELAINE|I thought you were busy tonight.
+Outside Movie Theatre|BLAINE|(cold) Well, to tell you the truth Elaine. I don't know if I can be with someone who doesn't like The English Patient.
+Outside Movie Theatre|ELAINE|It's just a stupid movie.
+Outside Movie Theatre|BLAINE|(to Carol) That's what I'm talking about.
+Outside Movie Theatre|CAROL|(taking Blaine's arm) Come on, Blaine. Let's go.
+Outside Movie Theatre|BLAINE|(bitter) Enjoy Sack Lunch!
+Outside Movie Theatre|action|Blaine walks away with the girls.
+Outside Movie Theatre|ELAINE|(fierce) I will!
+Seinfeld Residence, Del Boca Vista|action|Helen is talking to Jerry, with Morty on the couch. Helen and Morty are in their nightclothes. Morty has on the '#1 DAD' shirt.
+Seinfeld Residence, Del Boca Vista|HELEN|(accusing) How could you do that to Mr Mandelbaum? You should be ashamed of yourself.
+Seinfeld Residence, Del Boca Vista|JERRY|(defensive) He egged me on.
+Seinfeld Residence, Del Boca Vista|HELEN|You should be more mature.
+Seinfeld Residence, Del Boca Vista|JERRY|He's eighty!
+Seinfeld Residence, Del Boca Vista|MORTY|(standing) Okay. Tomorrow, Jerry and I will visit Izzy and apologise. Now, goodnight.
+Seinfeld Residence, Del Boca Vista|action|Morty begins to head to the bedroom.
+Seinfeld Residence, Del Boca Vista|HELEN|(walking after Morty) You're not sleeping in that shirt. It's too tight.
+Seinfeld Residence, Del Boca Vista|MORTY|This shirt will never leave my body.
+Seinfeld Residence, Del Boca Vista|action|Helen follows Morty down the short hallway.
+Seinfeld Residence, Del Boca Vista|HELEN|(to Jerry) Goodnight.
+Seinfeld Residence, Del Boca Vista|JERRY|(smiling) Alright. Seven-thirty, got the place to myself.
+Seinfeld Residence, Del Boca Vista|action|There is a knock at the door. Jerry answers it. Outside are three Hispanic-looking guys.
+Seinfeld Residence, Del Boca Vista|GUILLERMO|Jerry Seinfeld please.
+Seinfeld Residence, Del Boca Vista|JERRY|Ah, you must be Kramer's guys. (indicating) Come on in. You got the cigars?
+Seinfeld Residence, Del Boca Vista|action|The guys enter.
+Seinfeld Residence, Del Boca Vista|GUILLERMO|What cigars?
+Seinfeld Residence, Del Boca Vista|JERRY|Kramer said I was supposed to bring him back some Cubans.
+Seinfeld Residence, Del Boca Vista|GUILLERMO|(indicating the threesome) We are the Cubans.
+Seinfeld Residence, Del Boca Vista|action|Jerry stares, stunned.
+Jerry's Apartment/Del Boca Vista|action|Kramer stands, shirtless, in Jerry's kitchen. There's a pot on the stove, and Kramer's chopping vegetables on a board. The phone rings and Kramer answers.
+Jerry's Apartment/Del Boca Vista|KRAMER|Yeah, hello, Jerry's place.
+Jerry's Apartment/Del Boca Vista|action|In the Seinfelds' condo, the three guys are asleep on the fold-out couch and a chair, while an upset Jerry rants into the phone.
+Jerry's Apartment/Del Boca Vista|JERRY|(animated) They're real Cubans?! They're human beings, from Cuba?!
+Jerry's Apartment/Del Boca Vista|KRAMER|I said Cubans. What'd you think I meant?
+Jerry's Apartment/Del Boca Vista|JERRY|Cigars!
+Jerry's Apartment/Del Boca Vista|KRAMER|Jerry, Cuban cigars are illegal in this country. That's why I got these guys.
+Jerry's Apartment/Del Boca Vista|JERRY|(incredulous) You're making your own cigars now?
+Jerry's Apartment/Del Boca Vista|KRAMER|Yeah, yeah. I got investors all lined up.
+Jerry's Apartment/Del Boca Vista|action|Behind Jerry, Morty wanders over to the kitchen counter.
+Jerry's Apartment/Del Boca Vista|JERRY|(to Kramer) Hold on a second. (to Morty) Hiya dad.
+Jerry's Apartment/Del Boca Vista|action|Morty sorts through some pill bottles, before picking one out.
+Jerry's Apartment/Del Boca Vista|MORTY|(without looking up) Who are they?
+Jerry's Apartment/Del Boca Vista|JERRY|They're Cuban cigar rollers.
+Jerry's Apartment/Del Boca Vista|MORTY|(walking back out of the room) Don't tell your mother.
+Jerry's Apartment/Del Boca Vista|action|Something catches Jerry's ear on the phone.
+Jerry's Apartment/Del Boca Vista|JERRY|What is that bubbling sound? Are you making your tomato sauce?
+Jerry's Apartment/Del Boca Vista|KRAMER|Hot and spicy.
+Jerry's Apartment/Del Boca Vista|JERRY|(accusing) You're not wearing a shirt, are you?
+Jerry's Apartment/Del Boca Vista|KRAMER|Yes I am.
+Jerry's Apartment/Del Boca Vista|JERRY|What colour is it?
+Jerry's Apartment/Del Boca Vista|action|Kramer looks down at his bare torso, and can't think.
+Jerry's Apartment/Del Boca Vista|KRAMER|Damn!
+Jerry's Apartment/Del Boca Vista|action|Kramer hangs up the phone.
+New York Hallway|action|George and Danielle walk up to her door in her building. George has a napkin in his hand on which is some scribbled numbers. Danielle is looking at George, very much as if she's interested.
+New York Hallway|GEORGE|You know, you could've just given me Neil's number. You..you didn't have to take me out to dinner.
+New York Hallway|DANIELLE|I wanted to give it to you in person.
+New York Hallway|action|George shrugs his understanding.
+New York Hallway|DANIELLE|(flirtatious) You know, I don't have to be up in the morning, and I know a great breakfast place, right around the corner.
+New York Hallway|action|Danielle gives George a big smile. George smiles, but thoughtfully.
+New York Hallway|GEORGE|Does Neil like to eat a big breakfast?
+New York Hallway|DANIELLE|(inviting) Why don't you come in? We'll take about it.
+New York Hallway|GEORGE|(looking at his watch) I really should get going. Y'know, I..I wanna be home in case Neil calls.
+New York Hallway|DANIELLE|Well, goodnight.
+New York Hallway|action|Danielle leans toward George, for a kiss. But George walks away completely oblivious to Danielle. 
+New York Hallway|GEORGE|(hurried) I'll see you.
+New York Hallway|action|Danielle looks down the hall after George, looking perplexed.
+Monk's|action|An unhappy Elaine sits at the counter as the waitress pours her coffee.
+Monk's|WAITRESS|Rough night?
+Monk's|ELAINE|Ugh. You wouldn't believe it. My boyfriend dumped me. My friends, who I don't even like, they won't talk to me. (face-pulling) All because I don't like that stupid English Patient movie.
+Monk's|WAITRESS|Really? I thought it was pretty good.
+Monk's|ELAINE|Oh, come on. Good? What was good about it? (scoffs) Those sex scenes! I mean, please! Gimme something I can use!
+Monk's|WAITRESS|(sour) Well, I liked it.
+Monk's|action|The waitress takes the coffee pot and walks away into the back.
+Monk's|ELAINE|(calling after) Hey. You forgot about my piece of pie. Hello? (irritated) You know, sex in a tub. That doesn't work!
+Mandelbaum Residence, Del Boca Vista|action|Jerry and Morty stroll into the bedroom of the hugely impressive Mandelbaum condo. Morty is still wearing the '#1 DAD' shirt under his tracksuit. Izzy is asleep in the bed.
+Mandelbaum Residence, Del Boca Vista|JERRY|This is quite a condo.
+Mandelbaum Residence, Del Boca Vista|MORTY|The Mandelbaums own the Magic Pan restaurants.
+Mandelbaum Residence, Del Boca Vista|JERRY|The crepe place?
+Mandelbaum Residence, Del Boca Vista|MORTY|Yeah. This is all big crepe money.
+Mandelbaum Residence, Del Boca Vista|JERRY|(doubtful) There's crepe money?
+Mandelbaum Residence, Del Boca Vista|action|Izzy wakes up and sees the Seinfelds at the foot of his bed.
+Mandelbaum Residence, Del Boca Vista|IZZY|What are you doing here?
+Mandelbaum Residence, Del Boca Vista|JERRY|(apologetic) Aw, Mr Mandelbaum, I just wanted to come by and tell you how sorry I was that you hurt yourself.
+Mandelbaum Residence, Del Boca Vista|action|Izzy stares at Morty as Jerry speaks.
+Mandelbaum Residence, Del Boca Vista|IZZY|What the hell is that?
+Mandelbaum Residence, Del Boca Vista|JERRY|What?
+Mandelbaum Residence, Del Boca Vista|IZZY|That shirt. You think that you are the number one dad?
+Mandelbaum Residence, Del Boca Vista|MORTY|This was a gift from my son.
+Mandelbaum Residence, Del Boca Vista|action|Morty displays the shirt proudly. Jerry smiles.
+Mandelbaum Residence, Del Boca Vista|IZZY|Oh, I see how it works now. (indicates Jerry) He knocks me outta commission, so (indicates Morty) you can strut around in your fancy number one shirt. (moves the bedcovers) Well, I'll show you who's number one.
+Mandelbaum Residence, Del Boca Vista|action|Izzy starts to move to get out of bed.
+Mandelbaum Residence, Del Boca Vista|JERRY|Mr Mandelbaum, please.
+Mandelbaum Residence, Del Boca Vista|IZZY|It's go time.
+Mandelbaum Residence, Del Boca Vista|action|Izzy stands up and there is a familiar crunching noise. Izzy freezes in his stance, arms raised.
+Mandelbaum Residence, Del Boca Vista|IZZY|(pained) Ahh. My back. I can't move.
+Mandelbaum Residence, Del Boca Vista|action|Jerry and Morty look on with horrified concern.
+Mandelbaum Residence, Del Boca Vista|MORTY|Call an ambulance.
+Mandelbaum Residence, Del Boca Vista|JERRY|I think I saw one a coupla doors down.
+Mandelbaum Residence, Del Boca Vista|action|Jerry darts out of the door, followed moments later by Morty.
+Jerry's Apartment/Del Boca Vista|action|Jerry has just returned from Florida, and is putting away his bag. A worried George sits at the table.
+Jerry's Apartment/Del Boca Vista|JERRY|(disbelief) So she wanted you to come up, but you left because you thought some guy might be calling you?!
+Jerry's Apartment/Del Boca Vista|action|Jerry puts his bag in the bedroom and returns as George paces the floor.
+Jerry's Apartment/Del Boca Vista|GEORGE|(animated) Some guy. Some guy? Neil! I have got to find out how he could get a girl like Danielle.
+Jerry's Apartment/Del Boca Vista|JERRY|(pointing out the obvious) George, you've got Danielle. Forget about Neil. You've out-Neiled him.
+Jerry's Apartment/Del Boca Vista|GEORGE|(surprised) So, I'm Neil? How did I do that?
+Jerry's Apartment/Del Boca Vista|JERRY|I don't know, but you better keep it up.
+Jerry's Apartment/Del Boca Vista|GEORGE|I'm gonna go meet Danielle. (grabs his coat) There's a new Neil in town! (triumphant laughter) Hahaha!
+Jerry's Apartment/Del Boca Vista|action|George exits, cheerfully. The phone rings as the door closes.
+Jerry's Apartment/Del Boca Vista|JERRY|(to himself) I try to take a vacation, I come back, the whole operation's a shambles. (answers phone) Hello.
+Jerry's Apartment/Del Boca Vista|action|In Florida, Helen and Morty each have a handset. Morty is still wearing the '#1 DAD' shirt.
+Jerry's Apartment/Del Boca Vista|MORTY|Hey Jerry. Number One here. Did you go see Izzy at the back specialist?
+Jerry's Apartment/Del Boca Vista|JERRY|I will, I just walked in the door.
+Jerry's Apartment/Del Boca Vista|HELEN|You have to go see him.
+Jerry's Apartment/Del Boca Vista|JERRY|Ma.
+Jerry's Apartment/Del Boca Vista|MORTY|Helen, will you stop bothering him.
+Jerry's Apartment/Del Boca Vista|HELEN|Jerry, that shirt is gone right to his head.
+Jerry's Apartment/Del Boca Vista|MORTY|Number One, signing off.
+Jerry's Apartment/Del Boca Vista|action|The Seinfelds hang up. Jerry's door opens and Kramer bursts in, agitated.
+Jerry's Apartment/Del Boca Vista|KRAMER|Jerry, I just picked up the Cubans at the bus station. (shrill) What's going on!?
+Jerry's Apartment/Del Boca Vista|JERRY|What?
+Jerry's Apartment/Del Boca Vista|KRAMER|(animated) They're not real Cubans. They're Dominicans.
+Jerry's Apartment/Del Boca Vista|JERRY|So?
+Jerry's Apartment/Del Boca Vista|KRAMER|So, Jerry, if my investors don't get Cubans, the whole deal's off.
+Jerry's Apartment/Del Boca Vista|JERRY|What's the difference?
+Jerry's Apartment/Del Boca Vista|KRAMER|Jerry, once you've had real Cubans, there's just nothing else like it.
+Jerry's Apartment/Del Boca Vista|JERRY|(confused) We're talking about people, right?
+Jerry's Apartment/Del Boca Vista|KRAMER|Yes, yes. The quality, the texture, the intoxicating aroma. These guys don't have it.
+Jerry's Apartment/Del Boca Vista|JERRY|I thought they smelled pretty nice.
+Jerry's Apartment/Del Boca Vista|KRAMER|Jerry, your palate's unrefined.
+Jerry's Apartment/Del Boca Vista|JERRY|Is not.
+Jerry's Apartment/Del Boca Vista|KRAMER|Is too.
+Jerry's Apartment/Del Boca Vista|JERRY|Is not.
+Jerry's Apartment/Del Boca Vista|KRAMER|Is too.
+Jerry's Apartment/Del Boca Vista|JERRY|I'm not having this conversation.
+Jerry's Apartment/Del Boca Vista|KRAMER|Are too.
+Jerry's Apartment/Del Boca Vista|JERRY|Am not.
+Jerry's Apartment/Del Boca Vista|KRAMER|Are too.
+Jerry's Apartment/Del Boca Vista|JERRY|Am not.
+Jerry's Apartment/Del Boca Vista|KRAMER|Are too.
+J Peterman's Office|action|Peterman lounges behind his desk, as Elaine and another employee pick up notes, photographs, etc.
+J Peterman's Office|PETERMAN|Another productive meeting. By the way, I saw that English Patient film last night. It was extraordinary.
+J Peterman's Office|DUGAN|(enthusiastic) Oh yes. It was so romantic. It ravished me.
+J Peterman's Office|action|Dugan walks away.
+J Peterman's Office|PETERMAN|Elaine, what'd you think?
+J Peterman's Office|ELAINE|(hesitant) Well, uh, act..actually, I haven't seen it. So, I couldn't tell you whether I liked it, or whether it really sucked.
+J Peterman's Office|PETERMAN|(aghast) You haven't seen it?
+J Peterman's Office|ELAINE|(shakes head) No.
+J Peterman's Office|PETERMAN|That's it! Drop everything. We're going right now.
+J Peterman's Office|action|Peterman stuffs some paperwork into a desk drawer.
+The New York Hospital|action|Izzy is in a hospital bed, as Jerry stands beside it.
+The New York Hospital|JERRY|Again, Mr Mandelbaum, this back specialist is supposed to be the best. So if there's anything else I can do, please don't hesitate to, uh, try and find my number.
+The New York Hospital|action|Jerry turns to walk out.
+The New York Hospital|IZZY|Uh, oh, wait.
+The New York Hospital|action|Izzy rummages on his bedside table and picks up a t-shirt. He holds it up to his chest so Jerry can read what's written on it. 'World's Greatest DAD!'
+The New York Hospital|IZZY|How 'bout that, huh? The World's Greatest Dad. My son made it for me.
+The New York Hospital|JERRY|(humouring him) That's very nice.
+The New York Hospital|IZZY|The best in the world. (pointing to himself) Which means I'm better than just number one.
+The New York Hospital|JERRY|Well, I don't know how official any of these rankings really are.
+The New York Hospital|action|Behind Jerry, an elderly bald guy leans round the doorframe and raps on the door, attracting Izzy's attention.
+The New York Hospital|IZZY|Hi, son.
+The New York Hospital|JERRY|(surprise) This is your son?
+The New York Hospital|IZZY|I got married in high school.
+The New York Hospital|IZZY|This is Seinfeld's kid.
+The New York Hospital|JERRY|(jocular) You got any kids?
+The New York Hospital|JERRY|(trying to defuse the situation) Look, no-one is lifting anything.
+The New York Hospital|IZZY|(pointing) The television.
+The New York Hospital|JERRY|(under his breath) Oh no.
+The New York Hospital|action|Izzy Jr walks over to the TV, which sits on top of a cabinet.
+The New York Hospital|action|Izzy Jr takes a grip on the TV, but there's another crunching sound as he tries to lift, and an agonised expression comes to his face. Jerry cringes in the background.
+The New York Hospital|IZZY|(urgent) Call an ambulance.
+The New York Hospital|JERRY|(laconic) We're already in a hospital.
+Earl Haffler's Office|action|A suit-wearing Kramer is in the office of Earl Haffler - cigar-smoking, stetson-wearing, Texan businessman.
+Earl Haffler's Office|HAFFLER|Awright, partner. Let's get down to business.
+Earl Haffler's Office|KRAMER|(nervous) Okay, well, uh, I'll uh, I'll get the Cubans.
+Earl Haffler's Office|action|Kramer walks over to the door trying to smile confidently.
+Earl Haffler's Office|KRAMER|They're right out here.
+Earl Haffler's Office|action|Kramer calls a few words of nonsense Spanish out of the door, and the three guys stroll in. They are dressed in Castro-style green fatigues and caps.
+Earl Haffler's Office|KRAMER|Hey, here they are. The Cubans. Real Cubans.
+Earl Haffler's Office|action|Earl Haffler regards the three for a second or two.
+Earl Haffler's Office|HAFFLER|You wouldn't be trying to sell old Earl Haffler Dominicans in a Cuban wrapper now, would you?
+Earl Haffler's Office|KRAMER|(fidgety) Oh, now, come on. Look at these boys. If they were any more Cuban, Castro would've smoked them himself. Huh.
+Earl Haffler's Office|HAFFLER|(confusion) We're talking about people, right?
+Earl Haffler's Office|KRAMER|(puzzled) I think so.
+Earl Haffler's Office|HAFFLER|I thought he quit smoking cigars.
+Earl Haffler's Office|KRAMER|Well, yeah, yeah. But they also rolled for his brother... (thinks for a second) ...Dennis.
+Earl Haffler's Office|HAFFLER|(dubious) Dennis Castro?
+Earl Haffler's Office|KRAMER|Uh, Dwayne.
+Earl Haffler's Office|HAFFLER|Get the hell outta my office.
+Earl Haffler's Office|KRAMER|(shrill) What!?
+Monk's|action|Danielle and George walk over to, and sit in, a booth.
+Monk's|DANIELLE|You know, Neil called me today.
+Monk's|GEORGE|(interested) Really?
+Monk's|DANIELLE|Yeah. He's pretty upset that I broke up with him to go out with you.
+Monk's|GEORGE|(smug) Ah, I guess I showed Neil who's Neil.
+Monk's|DANIELLE|He wants to get together tomorrow night and have coffee.
+Monk's|GEORGE|(little worried) Coffee? (thinks) I can beat that. Move in with me.
+Monk's|DANIELLE|(surprised) What?
+Monk's|GEORGE|(smiles) Beats the hell out of coffee.
+Monk's|action|Danielle smiles at George, still a touch confused.
+Movie Theatre|action|Peterman and Elaine sit in the auditorium. The English Patient is playing and many of the crowd are tearfully dabbing their eyes. Peterman is particularly emotional. Elaine looks completely bored, and is tossing pieces of popcorn up in the air to try and catch them in her mouth.
+Movie Theatre|PETERMAN|(emotional) And I thought I knew what love was.
+Movie Theatre|action|One of Elaine's bits of popcorn misses her mouth and falls behind her seat. Elaine twists round and reaches over to retrieve it, before slumping in her seat wearily.
+Movie Theatre|ELAINE|(indifferent) Yuh.
+Monk's|action|Jerry and George sit in a booth. George looks ragged and is swigging from a bottle of some anti-acid medication.
+Monk's|JERRY|(incredulous) You asked her to move in with you?
+Monk's|GEORGE|I gotta stay one step ahead of Neil.
+Monk's|JERRY|(musing) What if it's Neil Armstrong?
+Monk's|action|George thinks for a moment, his eyes twitching.
+Monk's|GEORGE|(animated) Then I'm going to Mars!
+Monk's|JERRY|What if it's Neil Diamond?
+Monk's|GEORGE|(tormented) Aw, shut up Jerry! Just shut up!
+Monk's|JERRY|Alright, I gotta go back to the hospital.
+Monk's|GEORGE|What, to see the old guy?
+Monk's|JERRY|No, I got into a thing with the son, and now he's laid up too.
+Monk's|GEORGE|How old's the son?
+Monk's|JERRY|I think he's the same age as the father.
+Monk's|GEORGE|What is with this family?
+Monk's|JERRY|I dunno. It's like, if one of 'em dies, the other one wants to bench press the casket.
+Monk's|action|Kramer sidles into the coffee shop. He peers past the register, to where the three guys are sitting in the far corner, talking together. Then he moves over to join Jerry and George.
+Monk's|KRAMER|(quietly) Hey, Jerry.
+Monk's|action|Kramer indicates the three guys with his thumb.
+Monk's|KRAMER|(noise - like shivery) Datiditadit.
+Monk's|JERRY|You're cold?
+Monk's|KRAMER|No. (indicates with his head) (noise again) Ditadidatidat.
+Monk's|JERRY|Something wrong with your chest?
+Monk's|KRAMER|(indicating with his thumb) Dijadidatjd. There.
+Monk's|JERRY|(leaning round Kramer) Where?
+Monk's|KRAMER|(urgent) No, no. Don't look. Don't look.
+Monk's|action|Jerry and George look as if they're infected by Kramer's nervousness, as they try and look surreptitiously at the Dominicans.
+Monk's|KRAMER|Over there. The Dominicans.
+Monk's|JERRY|Aren't they supposed to be rolling cigars?
+Monk's|KRAMER|Well, it didn't quite work out, and now I've got nothing for them to do.
+Monk's|GEORGE|So?
+Monk's|KRAMER|So, I taught 'em all about Cuba, and they really took to it. You know, Marxism, the Worker's Revolution, the clothing.
+Monk's|action|In the corner, one of the Dominicans thumps the table, as if to underscore a point in his argument.
+Monk's|JERRY|Boy, they seem pretty angry about something.
+Monk's|KRAMER|(nervous) Yeah. I'm a little worried. When there's no work, and the people get restless, who do you think they come after? (pointing to himself, shrill) El Presidente!
+Monk's|action|Again, one of the Dominicans thumps the table. Kramer jumps at the sound.
+The New York Hospital|action|Izzy and Izzy Jr are laid up in beds placed side-by-side.
+The New York Hospital|JERRY|I swear to you, I didn't know they TV was bolted to the table.
+The New York Hospital|JERRY|He couldn't handle the weight.
+The New York Hospital|IZZY|(hostile) Oh, so now you think you're better than me?
+The New York Hospital|JERRY|(placatory) Look, let me just state for the record, I think you're both better than me.
+The New York Hospital|IZZY|Okay.
+The New York Hospital|action|An even more elderly guy than Izzy enters the room behind Jerry. He spreads his arms in greeting to the Mandelbaums.
+The New York Hospital|IZZY|My dad.
+The New York Hospital|JERRY|(incredulous) Oh, come on!
+The New York Hospital|JERRY|He was trying to lift the TV.
+The New York Hospital|action|Izzy Sr. strides purposefully toward the TV.
+The New York Hospital|JERRY|(consternation) Oh no. (to the bedridden two) It's go time.
+The New York Hospital|action|Off-screen there is a familiar crunching sound.
+The New York Hospital|action|All three of the Mandelbaums are in a row of beds in the same room.
+The New York Hospital|IZZY|I still thought you could do it.
+The New York Hospital|JERRY|Fellas, fellas, look, I gotta go.
+The New York Hospital|IZZY|Oh yeah, that's right. Go. Put us all in the hospital. And you've ruined our business with all your macho head games.
+The New York Hospital|JERRY|(defensive) I didn't ruin your business.
+The New York Hospital|IZZY|Yes, you did. There's nobody there now at the Magic Pan to roll the crepes. We gotta close it up.
+The New York Hospital|JERRY|(uncertain) Don't you hire people to do that?
+The New York Hospital|IZZY|Each crepe has to be hand-rolled by a Mandelbaum. That's what puts the magic in Magic Pan!
+The New York Hospital|JERRY|(thinking) So, you just need some guys that could roll 'em?
+The New York Hospital|IZZY|Yeah.
+The New York Hospital|JERRY|(having an idea) I think I can help you out. I'll see you later.
+The New York Hospital|action|Jerry turns and starts to leave, but is called back.
+The New York Hospital|action|Jerry walks to the TV and picks it,and the attached cabinet up. HE carries it across the room to the foot of Izzy Sr.'s bed,where he places it.
+The New York Hospital|JERRY|Here.
+The New York Hospital|action|Jerry walks out of the room followed by the angry cries of Izzy.
+The New York Hospital|IZZY|You think you're better than us, don't you?! Huh!?
+Movie Theatre|action|Peterman and Elaine are still in front of The English Patient. Peterman stares, enraptured, at the screen. Elaine is totally frantic with boredom.
+Movie Theatre|PETERMAN|Elaine, I hope you're watching the clothes, because I can't take my eyes off the passion.
+Movie Theatre|ELAINE|(quiet vehemence) Oh. No. I can't do this any more. I can't. It's too long. (to the screen) Quit telling your stupid story, about the stupid desert, and just die already! (louder) Die!!
+Movie Theatre|action|The other movie patrons turn and shush Elaine, who sits back in her seat.
+Movie Theatre|PETERMAN|(surprised) Elaine. You don't like the movie?
+Movie Theatre|ELAINE|(shouts) I hate it!!
+Movie Theatre|CROWD|Shh!
+Movie Theatre|ELAINE|(shouts) Oh, go to hell!!
+Movie Theatre|PETERMAN|(quietly) Well, why didn't you say so in the first place? You're fired.
+Movie Theatre|ELAINE|(grabbing her bag and coat) Great. I'll wait for you outside.
+Movie Theatre|action|Elaine hurriedly gets out of her seat and leaves.
+Magic Pan Restaurant|action|Jerry and Elaine sit in a booth, talking over coffee.
+Magic Pan Restaurant|JERRY|He was gonna fire you?
+Magic Pan Restaurant|ELAINE|The only way I could talk him out of it was that I agreed to go and visit the Tunisian desert.
+Magic Pan Restaurant|JERRY|Tunisia?
+Magic Pan Restaurant|ELAINE|That's where they filmed the movie. It's supposed to inspire me.
+Magic Pan Restaurant|JERRY|Well, that doesn't sound so bad.
+Magic Pan Restaurant|ELAINE|I have to live in a cave.
+Magic Pan Restaurant|JERRY|(sardonic) Oh. (smiles)
+Magic Pan Restaurant|action|Kramer comes over to the booth.
+Magic Pan Restaurant|KRAMER|These Dominicans really know their way round a crepe. Look at that. It's like they're rolling a double corona.
+Magic Pan Restaurant|action|The three Dominican guys are making crepes, and then rolling them around fillings.
+Magic Pan Restaurant|KRAMER|(to one of the guys) Just a cigar made outta bisquik, huh, Guillermo?
+Magic Pan Restaurant|action|The Dominican smiles back.
+Magic Pan Restaurant|action|Over in another part of the restaurant, Danielle sits in a booth with Neil. Neil is clearly bald, but has his back to the camera.
+Magic Pan Restaurant|DANIELLE|I'm very happy with George. I'm sorry Neil, it's over.
+Magic Pan Restaurant|action|Neil's head drops at this news.
+Magic Pan Restaurant|DANIELLE|Come on, let's just eat our crepes.
+Magic Pan Restaurant|action|The Dominicans are handing out plates of rolled crepes to various tables.
+Magic Pan Restaurant|action|At one table a customer prods a rolled crepe with his fork and a jet of scalding hot filling squirts out into his face.
+Magic Pan Restaurant|CUSTOMER|(pained scream) Aaghh!! My face!
+Magic Pan Restaurant|action|At another table, another customer digs his fork in, and is rewarded with a faceful of blistering filling.
+Magic Pan Restaurant|action|Neil sticks his fork into his crepe and recoils as hot liquid jets into his face.
+Magic Pan Restaurant|DANIELLE|(concerned cry) Neil!
+Magic Pan Restaurant|action|The restaurant is in chaos as yells of pain come from all sides. Elaine, Jerry and Kramer look round at the commotion.
+Magic Pan Restaurant|JERRY|Why are the crepes spraying?
+Magic Pan Restaurant|KRAMER|(looks over at the three guys) The Dominicans are rolling them too tight. (regretful) Uhm, well, that's why you gotta get real Cubans.
+Magic Pan Restaurant|action|Another scream rents the air.
+Metropolitan Hospital Center|action|In a hospital room, Neil lies in a bed, his face obscured with bandages and an IV line connected to him. Danielle is there fussing with the remains of a hospital meal on a tray. George enters.
+Metropolitan Hospital Center|GEORGE|Danielle. Where's Neil? (indicating the bed) Is this him?
+Metropolitan Hospital Center|DANIELLE|Yeah, that blueberry crepe burned him pretty badly.
+Metropolitan Hospital Center|action|George picks up a walking stick which was propped against the bed.
+Metropolitan Hospital Center|GEORGE|(to Danielle) Whose cane is this?
+Metropolitan Hospital Center|DANIELLE|It's Neil's.
+Metropolitan Hospital Center|action|Danielle walks away with a water jug from Neil's table. She goes to a sink in the corner as George speaks.
+Metropolitan Hospital Center|GEORGE|(to himself) A cane. I knew it. (to Neil) So, we meet at last. I admire your skills, Mr Peanut.
+Metropolitan Hospital Center|action|Danielle brings back the jug.
+Metropolitan Hospital Center|GEORGE|Well, Danielle, (digs in his pocket) we should get going. I got a key made for you.
+Metropolitan Hospital Center|action|George flourishes a doorkey before Danielle.
+Metropolitan Hospital Center|DANIELLE|George, I can't move in with you.
+Metropolitan Hospital Center|GEORGE|(shocked) What?
+Metropolitan Hospital Center|DANIELLE|I'm sorry, but I'm taking Neil to a clinic in England.
+Metropolitan Hospital Center|GEORGE|(animated) N..no, no. You can't leave me. (frantic) Marry me! I'll burn myself. I'll burn my parents!
+Metropolitan Hospital Center|DANIELLE|Sorry George.
+Metropolitan Hospital Center|action|Danielle takes the jug and leaves the room. Dejectedly, George wanders toward the door. As he moves, Neil whispers to him.
+Metropolitan Hospital Center|NEIL|(beckoning) George.
+Metropolitan Hospital Center|action|George leans over to Neil, so he can hear him speak.
+Metropolitan Hospital Center|NEIL|(quiet triumph) I win.
+Metropolitan Hospital Center|action|George purses his lips and nods ruefully. He stands up and leaves, closing the door behind him. There is a brief pause, then the door opens a few inches and George's hand reaches back inside the room, takes hold of the IV line and tugs it sharply, breaking it free of the IV bag,and drops it. Then the hand is withdrawn and the door closes again.
+Plane|action|Elaine sits in an aisle seat in a 747, reading a Let's Go Tunisia book. She listens as a voice comes over the tannoy.
+Plane|TAN|Ladies and gentlemen. In just one moment, we'll be showing our feature presentation...
+Plane|ELAINE|(dread) No, no, no, no, no.
+Plane|TAN|...the comedy hit, Sack Lunch, starring Dabney Coleman.
+Plane|ELAINE|(cheering up) Ah, right! Aw, this is shaping up.
+Plane|action|Smiling, Elaine puts down her book to watch the movie. Someone from a seat beside her wants to get out.
+Plane|GUY|Excuse me, please.
+Plane|ELAINE|Oh, sure.
+Plane|action|The guy pushes past her. He's holding a rolled-up magazine closely to his body, as if concealing something and, strangely, is wearing a '#1 DAD' t-shirt. There's a little awkwardness as he squeezes by.
+Plane|ELAINE|(uncomfortable) Ooh.
+Plane|action|The guy walks down the aisle and turns to face the passengers. Two other guys in '#1 DAD' t-shirts flank him. They are the three Dominican guys.
+Plane|GUILLERMO|Ladies and gentlemen. Because we have been exploited by your Magic Pan crepe restaurants...
+Plane|action|From inside his magazine, Guillermo produces a revolver. The other two guys also pull out guns, which they point upwards and cock, loudly.
+Plane|GUILLERMO|...we are hijacking this plane to Cuba!
+Plane|action|There is consternation among the passengers, shocked looks, gasps, etc.
+Plane|GUILLERMO|Everyone stay in your seats. And shut that movie off!
+Plane|ELAINE|(annoyed) Aww, nuts!

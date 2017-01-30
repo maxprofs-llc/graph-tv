@@ -1,0 +1,267 @@
+OPENING SCENE|action|GEORGE AND JERRY ARE IN A CAR. GEORGE IS GRABBING JERRY'S ARM
+OPENING SCENE|GEORGE|He's on the lamb(?), he's on the loose!
+OPENING SCENE|JERRY|Would you let go of my arm?! I'm trying to drive, you're getting us both killed!
+OPENING SCENE|GEORGE|What are we supposed to do? What do you do on a situation like this? Should we call a lawyer, should we call the police?
+OPENING SCENE|JERRY|Obviously we're gonna call the police and tell that he's not the guy.
+OPENING SCENE|GEORGE|Hope he's not the guy.
+OPENING SCENE|JERRY|Couldn't be the guy...nah.
+OPENING SCENE|GEORGE|God, I'm starved, I'm weak from hunger.
+OPENING SCENE|JERRY|How can you think of food at the time like this?
+OPENING SCENE|GEORGE|Time like what? I'm hungry. My stomach doesn't know that Kramer's wanted.
+OPENING SCENE|JERRY|I told you to have breakfast, you should've had breakfast!
+OPENING SCENE|GEORGE|I couldn't have breakfast, it was lunchtime! The three hour time difference threw me. I wanted a tuna fish sandwich, they wouldn't serve me tuna fish sandwich, because they were only serving breakfast.
+OPENING SCENE|JERRY|You should've had some eggs.
+OPENING SCENE|GEORGE|For lunch? Who eats eggs for lunch?
+OPENING SCENE|JERRY|Have you ever heard of egg salad?
+OPENING SCENE|GEORGE|Why didn't you say something then?
+OPENING SCENE|JERRY|I've gotta to tell you about existence of egg salad?
+OPENING SCENE|GEORGE|I need food, Jerry. I feel faint, I'm getting light headed.
+OPENING SCENE|JERRY|I've gotta call the police, there's a pay phone over there.
+OPENING SCENE|GEORGE|Pay phone in L.A., look it's a miracle.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|I don't have any change. You've got any change?
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|No, I don't have any change. I never carry change.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Well, we need change and all I have is twenties.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|I have a ten.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|So, break it.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|I hate asking for change. They always make a face. Like I'm asking them to donate a kidney.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|So, buy something.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|What?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|I don't know, some mints or TicTacs.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Breath problem?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|No, I just want some change.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Tell me.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Your breath is fine. It's delightful, it's delicious.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|You know, I haven't eaten anything.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|I just wanna call the police!
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Why don't you just call 911?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|But is this an emergency?
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Of course it is.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|How is this an emergency?
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Your friend is been accused of being a serial killer. I think that qualifies.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|All right, I'll call 911. Think he did it? Could've he done it? Couldn't done it? How could've he done it? Couldn't be? Could it? Hello 911? How are you? I'm sorry it was just a reflex...I know it's an emergency number...it is an emergency...my friend is being accused of being a smog strangler and I know he didn't do it...they're putting me trough to the detective in charge of the investigation...what is my name? Who am I? I'm eh...George Costanza...
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|What's the matter with you? Are you crazy? Why are you using my name?!
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Oh, don't be a baby! What are you scared of?
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|What am I scared of? I'm scared of the same thing that you are, everything! Why don't you just use your own name?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Your name is a good name, Costanza. Sounds like it's stands for something, they'll believe us.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Really?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Sure.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|You think so?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Oh yeah. Yes I have some very important information regarding the smog strangler. (George leans close) would you suck a mint or something. Can I come right now? I suppose, where are you located? Where is that? I don't know where we are. Where are we?
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|I don't know.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|We don't know. He says ask somebody, ask that guy.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Excuse me, where are we?
+BACK TO GEORGE AND JERRY ON THE STREET|MAN|Earth.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Hey, you know I'm on the phone with the police! Some guy just gave me a wise answer. Ask that woman.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Excuse me Ms. which street are we on?
+BACK TO GEORGE AND JERRY ON THE STREET|WOMAN|I don't know.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|You don't know?
+BACK TO GEORGE AND JERRY ON THE STREET|WOMAN|I don't know.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|How come you don't know what street are you on?
+BACK TO GEORGE AND JERRY ON THE STREET|WOMAN|You don't know.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|George, it says it here on the phone. It's 12145 Ventura Boulevard. Aha, ok...do we know where the 101 is? (George shakes his head) No...do we know where 170 is? (George shakes his head) No...do we know where 134 is? (George just looks at Jerry) No. Aha, ok. (Jerry hangs up) He's gonna send a black and white to pick us up.
+BACK TO GEORGE AND JERRY ON THE STREET|action|Police car rolls by the sidewalk and stops. The police listens their conversation.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Black and white?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|A cop car.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Why didn't you just say that?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|I thought it sounded kind of cool.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Oh yeah, real cool. You're a cool guy.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Oh, you are? I guaranty you, Lupe is going to tuck your covers in.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|I'll bet you, how much?
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Her tip.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|You've got a bet.
+BACK TO GEORGE AND JERRY ON THE STREET|JERRY|Ok.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|How much do you tip a chamber maid?
+BACK TO GEORGE AND JERRY ON THE STREET|POLICE|Which one of you is Costanza?
+BACK TO GEORGE AND JERRY ON THE STREET|action|Jerry and George point at each other.
+BACK TO GEORGE AND JERRY ON THE STREET|POLICE|Get in.
+BACK TO GEORGE AND JERRY ON THE STREET|GEORGE|Hi, how are you guys? Listen, does either one of you have like a mint or piece of gum or...
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|GEORGE|Jerry, would you do me a favor, close the window.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|action|JERRY SEARCHES FOR THE HANDLE, BUT CAN'T FIND ONE
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|JERRY|Hey, get out of here...hey officer, he's fooling around back here.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|COP|Cut it up back there.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|GEORGE|He started it.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|JERRY|I did not. You guys gonna go through some red lights?
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|COP|I don't think so.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|JERRY|But you could?
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|COP|Oh yeah, of course we could. We can do anything we want.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|COP|Yeah, we do that all the time. You should see the looks on people's faces.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|GEORGE|You guys ever shot anybody?
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|COPS|No...
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|GEORGE|Hey, can I flip on the siren?
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|JERRY|Why are you bothering them for?
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|GEORGE|I'm just asking, all they have to do is say no.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|COP|Yeah, go ahead.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|action|GEORGE TRIES THE SIREN
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|GEORGE|Wohoo, check it out.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|JERRY|Can I try it?
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|COP|Yeah, go ahead, hurry up.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|action|JERRY TRIES THE SIREN
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|JERRY|Scared the hell out of that guy.
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|GEORGE|You know what I never understood? Why did they change the siren noise? When I was a kid it was always "waaaa, waaaa", you know now it "woo-woo-woo-woo-woo". Why did they do that, did they do some research? Did they find that woo-woo was more effective than waa?
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|JERRY|Yeah, what about those English sirens, you know...eee-aaa-eee-aaa-eee-aaa...
+BACK TO THE POLICE CAR WITH JERRY, GEORGE AND TWO COPS|COP|Hey!
+KRAMER IS COMBING HIS HAIR. TRYING TO GET THE COMB THROUGH.|KRAMER|I'm dizzy.
+BACK TO THE POLICE CAR|JERRY|Nice shotgun.
+BACK TO THE POLICE CAR|COP|Thanks.
+BACK TO THE POLICE CAR|JERRY|Clean as a whistle.
+BACK TO THE POLICE CAR|GEORGE|You could eat of that shotgun.
+BACK TO THE POLICE CAR|JERRY|What is that, a 12 gauge?
+BACK TO THE POLICE CAR|COP|Yeah.
+BACK TO THE POLICE CAR|JERRY|12 gauge. Seems to be the most popular gauge.
+BACK TO THE POLICE CAR|GEORGE|My favorite.
+BACK TO THE POLICE CAR|JERRY|Mine too, love the 12 gauge.
+BACK TO THE POLICE CAR|GEORGE|Makes the 11 gauge look like a cap pistol.
+BACK TO THE POLICE CAR|COP|What do got over there?
+BACK TO THE POLICE CAR|COP|Looks like a possible 5-19.
+BACK TO THE POLICE CAR|JERRY|5-19? What's a 5-19?
+BACK TO THE POLICE CAR|GEORGE|Where?
+BACK TO THE POLICE CAR|COP|Looks like it.
+BACK TO THE POLICE CAR|JERRY|I can't believe this. A 5-19?
+BACK TO THE POLICE CAR|GEORGE|Where, where? I can't see.
+BACK TO THE POLICE CAR|COP|This is car 23, we have a possible 5-19 in progress, over.
+BACK TO THE POLICE CAR|JERRY|Pull over? You can't pull over.
+BACK TO THE POLICE CAR|GEORGE|What are you doing? Where do you think you're going?
+BACK TO THE POLICE CAR|JERRY|Pull over? The lieutenant is waiting to see us.
+BACK TO THE POLICE CAR|GEORGE|Hey hey hey, we're in a rush here.
+BACK TO THE POLICE CAR|JERRY|We have an appointment!
+BACK TO THE POLICE CAR|GEORGE|What are you doing?!
+BACK TO THE POLICE CAR|JERRY|Great.
+BACK TO THE POLICE CAR|action|COPS GO TO ARREST A GUY FOR TRYING TO STEAL A CAR
+BACK TO THE POLICE CAR|GEORGE|There's a bag of Pepperidge Farm cookies up there.
+BACK TO THE POLICE CAR|JERRY|Which flavor?
+BACK TO THE POLICE CAR|GEORGE|Milano.
+BACK TO THE POLICE CAR|JERRY|Cops eating Milanos. What crazy town is this?
+BACK TO THE POLICE CAR|GEORGE|Should I take some?
+BACK TO THE POLICE CAR|JERRY|I think that's a 5-19.
+BACK TO THE POLICE CAR|GEORGE|I'm starving...
+BACK TO THE POLICE CAR|action|GEORGE REACHES FOR THE COOKIES AND THE COPS SLAM A GUY ON THE HOOD AND GEORGE BACKS AWAY
+BACK TO THE POLICE CAR|JERRY|They're busting this guy.
+BACK TO THE POLICE CAR|GEORGE|They're cuffing him.
+BACK TO THE POLICE CAR|JERRY|I can't believe this.
+BACK TO THE POLICE CAR|action|GEORGE GET CLOSER TO JERRY AND THEY THROW THE GUY NEXT TO GEORGE
+BACK TO POLICE CAR|GEORGE|Hi.
+BACK TO POLICE CAR|JERRY|Hi, I'm Jerry.
+BACK TO POLICE CAR|GEORGE|George, how you doing?
+BACK TO POLICE CAR|action|GEORGE OFFERS HIS HAND, BUT THE GUY IS IN CUFFS
+BACK TO POLICE CAR|GUY|What did you do?
+BACK TO POLICE CAR|GEORGE|Nothing.
+BACK TO POLICE CAR|JERRY|Nothing.
+BACK TO POLICE CAR|GUY|Oh yeah right, me neither. Hey I didn't do nothing!
+BACK TO POLICE CAR|COP|Shut up.
+BACK TO POLICE CAR|JERRY|Hot out.
+BACK TO POLICE CAR|GUY|Brutal.
+BACK TO POLICE CAR|GEORGE|What do you tip a chamber maid.
+BACK TO POLICE CAR|GUY|I don't know, five bucks a night.
+BACK TO POLICE CAR|JERRY|No, a dollar, two tops.
+BACK TO POLICE CAR|GUY|Hey, you guys aren't cuffed. What are you, narks?
+BACK TO POLICE CAR|GEORGE|Narks?
+BACK TO POLICE CAR|JERRY|Imagine, us narks?
+BACK TO POLICE CAR|GEORGE|No no no, you know actually we are friends of a serial killer.
+BACK TO POLICE CAR|GUY|Really? Well, that's very nice.
+BACK TO POLICE CAR|GEORGE|Oh, thank you.
+BACK TO POLICE CAR|JERRY|Suspected serial killer, he didn't actually do it.
+BACK TO POLICE CAR|GEORGE|Yeah well, we don't think.
+BACK TO POLICE CAR|JERRY|We're pretty sure.
+BACK TO POLICE CAR|GUY|A dollar a night?
+BACK TO POLICE CAR|JERRY|Yeah, that's a good tip!
+BACK TO POLICE CAR|GUY|That stinks!
+BACK TO POLICE CAR|JERRY|I read it in Ann Landers.
+BACK TO POLICE CAR|GUY|Oh, Ann Landers sucks!
+BACK TO POLICE CAR|COP|That's smog strangler.
+BACK TO POLICE CAR|JERRY|Kramer.
+BACK TO POLICE CAR|action|POLICE CAR COMES TO THE SCENE. JERRY OPENS THE BACK DOOR THROUGH THE WINDOW AND THEY GO AFTER THE COPS
+BACK TO POLICE CAR|JERRY|I wanna see what's happening.
+BACK TO POLICE CAR|GEORGE|I don't know why I'm doing this.
+BACK TO POLICE CAR|KRAMER|Jerry, George!
+BACK TO POLICE CAR|action|THE CAR THIEVE GUY RUNS AWAY FROM THE DOOR THAT JERRY AND GEORGE LEFT OPEN
+KRAMER IS RUSHED THROUGH A GROUP OF PRESS|REPORTERS|Why did you do it? What possessed you?
+KRAMER IS RUSHED THROUGH A GROUP OF PRESS|KRAMER|I don't know...
+COUNTY OF LOS ANGELES CENTRAL JAIL|action|JERRY AND GEORGE ARE VISITING KRAMER
+COUNTY OF LOS ANGELES CENTRAL JAIL|KRAMER|Hey, how are you doing? Jerry! George!
+COUNTY OF LOS ANGELES CENTRAL JAIL|JERRY|We're doing fine. How are you?
+COUNTY OF LOS ANGELES CENTRAL JAIL|KRAMER|What me? Fabulous, just fabulous. I've got a lot of auditions, a lot of call backs and I've got a lot of interest for my movie treatment. I'm in development, I'm in developed vehicles. And there's a lot of energy here, man. You know, the vibe, it's powerful. I'm just swept up at it. Yeah, I'm a player.
+COUNTY OF LOS ANGELES CENTRAL JAIL|GEORGE|A player?
+COUNTY OF LOS ANGELES CENTRAL JAIL|KRAMER|Yeah, a player...
+COUNTY OF LOS ANGELES CENTRAL JAIL|JERRY|Kramer, do you realize what's going on here? Do you know why you're here?
+COUNTY OF LOS ANGELES CENTRAL JAIL|KRAMER|What? What this? I'll be out of here in couple of hours. Hey, guess who I met today? Rick Savage, oh nice kid, really good kid. You know, we're talking about doing a project together.
+COUNTY OF LOS ANGELES CENTRAL JAIL|JERRY|Kramer, you've been arrested as a serial killer!
+COUNTY OF LOS ANGELES CENTRAL JAIL|KRAMER|So? I'm innocent! I mean you guys believe that I'm innocent, don't you? Jerry? George?
+COUNTY OF LOS ANGELES CENTRAL JAIL|JERRY|Well, yeah...sure.
+COUNTY OF LOS ANGELES CENTRAL JAIL|POLICE|Kramer, let's go. The Lieutenant wants to see you.
+COUNTY OF LOS ANGELES CENTRAL JAIL|KRAMER|Ok, yeah. All right look, I'll be out of here by noon. Maybe we'll have lunch together, huh?
+COUNTY OF LOS ANGELES CENTRAL JAIL|action|KRAMER GOES WITH THE POLICE OFFICER, BUT ASKS IF HE COULD SAY JUST ONE MORE THING
+COUNTY OF LOS ANGELES CENTRAL JAIL|KRAMER|Help me!! Help me!
+COUNTY OF LOS ANGELES CENTRAL JAIL|action|OFFICER DRAGS KRAMER AWAY
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|KRAMER|I didn't kill anyone, I swear! I swear to God!
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|KRAMER|You're making a big mistake.
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|KRAMER|What?
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|KRAMER|Wow wow wow wow, you've got the wrong man!! It wasn't me!
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|KRAMER|Ok, can I just talk to somebody? Can I just explain...
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|KRAMER|No...
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|action|KRAMER SOBS
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|action|KRAMER CRIES
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|action|PHONE RINGS
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|OFFICER|Lieutenant, it's for you.
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|action|KRAMER KEEPS CRYING
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|OFFICER|What it is, Lieutenant?
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|OFFICER|What, but Lieutenant?
+KRAMER IS BEEN INTERROGATED BY LT. MARTEL|KRAMER|Hey, how did you know about the guy in the park?
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|action|KRAMER WALKS OUT
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|KRAMER|Hahaa!
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|GEORGE|What?
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|JERRY|What happened?
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|KRAMER|Somebody got killed while they had me in custody.
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|JERRY|Really? Did you hear that? Somebody else was killed!
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|GEORGE|You're kidding? Somebody else got killed?
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|JERRY|While you were in jail. So you're free.
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|KRAMER|Yes, I'm free. (singing) 'cause the murderer struck again!
+JERRY AND GEORGE ARE WAITING OUTSIDE OF THE JAIL|action|THEY ALL DANCE A FEW STEPS AND THEN AS A POLICE GOES BY THEY LEAVE QUIETLY
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|JERRY|So Kramer, what are you going to do?
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|Do? Do? Hey, I'm doing what I do. You know, I've always done what I do. I'm doing what I do, way I've always done and the way I'll always do it.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|GEORGE|Kramer, what the hell are you talking about?
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|What do you want me to say? That the things haven't worked out the way that I planned? That I'm struggling, barely able to keep my head above water? That L.A. is a cold place even in the middle of the summer? That it's a lonely place even when your stuck in traffic at the Hollywood Freeway? That I'm no better than a screenwriter driving a cab, a starlet turning tricks, a producer in a house he can't afford? Is that what you want me to say?
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|GEORGE|I'd like to hear that.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|JERRY|Yeah...
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|Well, I'm not saying that! You know, things are going pretty well for me here. I met a girl...
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|JERRY|Kramer, she was murdered!
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|Yeah, well I wasn't looking for a long term relationship. I was on TV.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|GEORGE|As a suspect in a serial killing.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|Ok, yeah, you guys got to put a negative spin on everything.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|GEORGE|What did they put on this tuna? Tastes like a dill, I think it's a dill.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|JERRY|So you're not gonna come back to New York with us?
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|No no I'm not ready, things are starting to happen.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|GEORGE|Taste this, is this a dill?
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|JERRY|No, it's tarragon. Hey Kramer, I'm sorry about that whole fight we had about you having my apartment keys and everything.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|Ok, it's forgotten.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|GEORGE|Tarragon? Oh, you're crazy.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|JERRY|Well, take it easy.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|Yeah, ok.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|GEORGE|Yeah, take care. Stay in touch.
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|KRAMER|Hey hey, whoa come on give me a hug...
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|JERRY|Oh, no...
+KRAMER, JERRY AND GEORGE AT THE HILLS OF L.A.|GEORGE|No, you're crushing my sandwich.
+JERRY AND GEORGE AT THE HOTEL. GEORGE IS KICKING THE TUCKED COVERS.|JERRY|Yeah, it's so nice when it happens to you.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |GEORGE|Mint?
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|No thanks.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |GEORGE|I've got to tell you, I'm really disappointed in Lupe.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|It's been three days already, forget about Lupe.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |GEORGE|Do you think she gets to take any of those little bars of soap home?
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|No, I don't.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |GEORGE|You would think that at the end of the week when they hand out the checks, throw in a few soaps.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|Yeah, maybe they should throw in a couple of lamps too.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |GEORGE|I'll tell you something, if I'd own a company, my employees would love me. They'd have huge pictures of me up on the walls and in their home, like Lenin.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|How much did you wound up tipping her?
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |GEORGE|Oh my God, I forgot!
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|Well, communism didn't work.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |action|KRAMER WALKS IN
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |KRAMER|Hey!
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |action|KRAMER GOES TO THE FRIDGE
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |KRAMER|Any mustard? This is empty.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|Yeah, there's a new one in there.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |KRAMER|No no, I don't like this one. It's too yellow. Any pickles?
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|Help yourself.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |KRAMER|Yeah, all right.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |GEORGE|Kramer, what are you doing here?
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |KRAMER|Getting something to eat.
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |JERRY|Kramer, here!
+BACK TO JERRY'S APARTMENT. GEORGE AND JERRY ARE WATCHING TV. |action|JERRY THROWS THE APARTMENT KEYS TO KRAMER. KRAMER WALKS OUT AND COMES BACK WITH HIS KEYS. HE THROWS THEM TO THE TABLE KNOCKING JERRY'S SODA.

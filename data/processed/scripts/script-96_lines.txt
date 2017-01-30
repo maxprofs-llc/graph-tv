@@ -1,0 +1,301 @@
+Lois's office|JERRY|Ready to go Lois?
+Lois's office|LOIS|You really like to say my name? Don't you?
+Lois's office|JERRY|Excuse me Lois. Stand back Lois. Jimmy's in trouble Lois.
+Lois's office|LOIS|Oh, Mr. Meyers this is my friend, Jerry.
+Lois's office|DUNCAN|Jerry Seinfeld!
+Lois's office|JERRY|Duncan Meyers!
+Lois's office|LOIS|You two know each other?
+Lois's office|DUNCAN|Yeah! We uh, went to High School together. Didn't we Jerry? Gee I hope you're not leaving now. We still have a lot of work left to do.
+Lois's office|LOIS|Would you be able to come all the way downtown again in rush hour to pick me up?
+Lois's office|JERRY|Well, I'd have to be Superman to do that Lois.
+Elaine's Apartment|ELAINE|No, no This is all wrong. Where's the Chicken Cashew?
+Elaine's Apartment|LEW|You no order Chicken Cashew.
+Elaine's Apartment|ELAINE|I didn't order any of this. I'm not paying for this.
+Elaine's Apartment|LEW|Fine Benes. We are putting you on our list.
+Elaine's Apartment|ELAINE|What list?
+Elaine's Apartment|LEW|The "do not deliver" list.
+Elaine's Apartment|ELAINE|MERRY CHRISTMAS TO YOU! Well, I guess we'll just go out.
+Elaine's Apartment|GEORGE|Yeah. What are you doing with the Daily Worker?
+Elaine's Apartment|ELAINE|Ned must have left it here.
+Elaine's Apartment|GEORGE|Your boyfriend reads the Daily Worker? What is he? A communist?
+Elaine's Apartment|ELAINE|HE reads everything, you know, Ned's very well read.
+Elaine's Apartment|GEORGE|Maybe he's just "very well RED"?
+Elaine's Apartment|ELAINE|Communist? Don't you think he probably would have told me?
+Elaine's Apartment|GEORGE|Well, does he wear bland, drab, olive colored clothing?
+Elaine's Apartment|ELAINE|Yes, . . . yes he does dress a little drab.
+Elaine's Apartment|GEORGE|Huh, he's a communist. . . . Look at this. "Exciting uninhibited woman seeks forward thinking comrade and appearance not important." . . . Appearance Not Important! This is unbelievable. Finally this is an ideology I can embrace.
+Elaine's Apartment|action|Jerry enters
+Elaine's Apartment|JERRY|Hi oh.
+Elaine's Apartment|ELAINE|Where's Lois?
+Elaine's Apartment|JERRY|She couldn't make it.
+Elaine's Apartment|GEORGE|I can't believe you're really going out with a woman named Lois.
+Elaine's Apartment|JERRY|I know, finally. But George, guess who her boss is. Duncan Meyers.
+Elaine's Apartment|GEORGE|Duncan Meyers?
+Elaine's Apartment|ELAINE|Who's he?
+Elaine's Apartment|JERRY|Elaine, only one other person in the world knows what I am about to tell you and that's George. When we were in the ninth grade they had us all line up at one end of the school yard for this big race to see who was going to represent the school in this track meet.
+Elaine's Apartment|ELAINE|Uh uh
+Elaine's Apartment|JERRY|I was the last one on the end. George was next to me. And Mr. Bevilacqua, the gym . . .
+Elaine's Apartment|ELAINE|What's that?
+Elaine's Apartment|JERRY|Mr. Bevilacqua, the gym teacher.
+Elaine's Apartment|ELAINE|Oh, of course.
+Elaine's Apartment|JERRY|He was down at the other end. So he yells out, "Ready, On your mark, Get set, " and I was so keyed up I just took off. By the time he said go I was ten yards ahead of everybody.
+Elaine's Apartment|ELAINE|No.
+Elaine's Apartment|GEORGE|I looked up. I couldn't believe it.
+Elaine's Apartment|JERRY|By the time the race was over I had won. I was shocked nobody had noticed the head start.
+Elaine's Apartment|ELAINE|Really?
+Elaine's Apartment|JERRY|And I had won by so much a myth began to grow about my speed. Only Duncan suspected something was a miss. He's hated me ever since. Now he's back.
+Elaine's Apartment|ELAINE|Well what happened when you raced him again?
+Elaine's Apartment|JERRY|I never did. In four years of high school I would never race anyone again. Not even to the end of the block to catch a bus. And so the legend grew. Everyone wanted me to race. They begged me. The track coach called my parents. Pleading. Telling them it was a sin to waste my god given talent. But I answered him in the same way I answered everyone. I chose not to run.
+Elaine's Apartment|ELAINE|So now Duncan is back?
+Elaine's Apartment|JERRY|He's back. And I knew he would be someday. (drinks) Man that's some tart cider!
+In Jerry's Car - Lois gets in|JERRY|Hi.
+In Jerry's Car - Lois gets in|LOIS|Sorry I missed the Chinese food.
+In Jerry's Car - Lois gets in|JERRY|Oh, so am I . Uh, how's Duncan?
+In Jerry's Car - Lois gets in|LOIS|He's okay.
+In Jerry's Car - Lois gets in|JERRY|He say anything?
+In Jerry's Car - Lois gets in|LOIS|About what?
+In Jerry's Car - Lois gets in|JERRY|Oh, nothing in particular.
+In Jerry's Car - Lois gets in|LOIS|. . . Why did you cheat in that race?
+In Jerry's Car - Lois gets in|JERRY|I did not cheat.
+In Jerry's Car - Lois gets in|LOIS|He said that you got a head start.
+In Jerry's Car - Lois gets in|JERRY|Oh, he's just jealous because he came in second.
+In Jerry's Car - Lois gets in|LOIS|Really?
+In Jerry's Car - Lois gets in|JERRY|Yes
+In Jerry's Car - Lois gets in|LOIS|So you WERE the fastest kid in school.
+In Jerry's Car - Lois gets in|JERRY|Faster than a speeding bullet Lois.
+Elaine's Apartment|ELAINE|So how was work? Another day, another dollar?
+Elaine's Apartment|NED|I guess.
+Elaine's Apartment|ELAINE|Oh well nothing wrong with that. Gotta make those big bucks. . . . money money money money money money money . . . ha ha ha ha ah . . . are you a communist?
+Elaine's Apartment|NED|Yes, as a matter of fact I am.
+Elaine's Apartment|ELAINE|OH, AH! OH! WOW! WHOA! A COMMIE! Wow, gee, man it must be a bummer for you guys what with the fall of the soviet empire and everything .
+Elaine's Apartment|NED|Yeah, well, we still got China, and Cuba,
+Elaine's Apartment|ELAINE|Yeah, but come on . . .
+Elaine's Apartment|NED|I know it's not the same.
+Elaine's Apartment|ELAINE|Well, you had a good run, what was it 75, 80 years? Wreaking havoc, making everybody nervous.
+Elaine's Apartment|NED|Yeah, we had a good run.
+Elaine's Apartment|ELAINE|Well, so enjoy yourself. (clink glasses) ha ha uh ha
+Jerry's apartment|GEORGE|So you lied to her?
+Jerry's apartment|JERRY|I couldn’t tell her the truth. I don't know what's going to happen between us. What if we have a bad breakup. She'll go straight to Duncan. And I want him to go to his grave never being certain I got that
+Jerry's apartment|action|Elaine enters
+Jerry's apartment|ELAINE|Well, I'm dating a communist.
+Jerry's apartment|JERRY|Wow, a communist. That's something.
+Jerry's apartment|ELAINE|Yeah, that's pretty cool isn't it?
+Jerry's apartment|GEORGE|Hey, did I tell you I called one of those girls from the personal ads in The Daily Worker?
+Jerry's apartment|JERRY|The Daily Worker has personal ads?
+Jerry's apartment|GEORGE|And they say appearance is not important.
+Jerry's apartment|JERRY|Yours or hers?
+Jerry's apartment|action|Kramer enters dressed as Santa
+Jerry's apartment|KRAMER|Ho Ho Ho Ho Ho Merry Christmas everyone. Merry Christmas.
+Jerry's apartment|JERRY|Wow, look at you. So you got the job.
+Jerry's apartment|KRAMER|Yeah, you're looking at the new Santa at Coleman's Department store.
+Jerry's apartment|ELAINE|Oh, congratulations
+Jerry's apartment|action|Mickey enters
+Jerry's apartment|MICKEY|Come on get your bead on. We're going to be late.
+Jerry's apartment|KRAMER|On Prancer on Dasher, on Donna.
+Jerry's apartment|MICKEY|Not Donna, it's Donner.
+Jerry's apartment|KRAMER|Donna!
+Jerry's apartment|MICKEY|Yeah, right!. On Prancer, on Dancer, on Donna, on Ethyl, on Harriet.
+Jerry's apartment|JERRY|Hello, Oh hi Lois, you want to get together, what for? I don't know about that, I'll have to think about it. I'll let you know. Okay, bye.
+Jerry's apartment|GEORGE|What's up?
+Jerry's apartment|JERRY|Duncan wants to get together with her and me for lunch tomorrow. He obviously wants me to admit I got a head start. And I don't think she believes me.
+Jerry's apartment|GEORGE|He wants to meet you? I'll tell you what. I'll show up. He doesn't know we're friends. I'll pretend I haven't seen you since High School. I'll back up the story.
+Jerry's apartment|JERRY|That's not bad.
+Jerry's apartment|GEORGE|Not bad? It's gorgeous!
+Coleman's Department Store|KRAMER|Ho ho ho Well come on little Princess, tell Santa what you want. Don't be shy.
+Coleman's Department Store|MOM|She doesn't speak English (with a Swedish accent).
+Coleman's Department Store|KRAMER|Santa speaks the language of all children. A notchie watchie dotchie do.
+Coleman's Department Store|action|Child cries and reaches for her mom
+Coleman's Department Store|KRAMER|A dotchie cotchie dochie,
+Coleman's Department Store|KRAMER|Het, Mickey when do we get a break? My lap is killing me.
+Coleman's Department Store|MICKEY|There is no break.
+Coleman's Department Store|KRAMER|A sweat shop.
+Coleman's Department Store|action|Elaine and commie enter
+Coleman's Department Store|KRAMER|Hey, hey, hey.
+Coleman's Department Store|action|Kid sits on Kramer's lap and they both slide to the floor
+Yankee Stadium|ADA|Natalie on line 2.
+Yankee Stadium|GEORGE|Natalie?
+Yankee Stadium|ADA|From the Daily Worker.
+Yankee Stadium|GEORGE|Thank you.
+Yankee Stadium|action|ADA leaves but listens at the door
+Yankee Stadium|GEORGE|Hello, it's Natalie? Yeah, this is a business office but I'm not a business man per se. I'm here working for the people. Yes, I'm causing dissent. Stirring the pot. Getting people to question the whole rotten system.
+Coleman's Department Store|ILENE|Elaine.
+Coleman's Department Store|ELAINE|Ilene.
+Coleman's Department Store|ILENE|Hi.
+Coleman's Department Store|ELAINE|Hello.
+Coleman's Department Store|ILENE|Doing a little Christmas shopping?
+Coleman's Department Store|ELAINE|Yeah, yeah. Oh, this is Ned. He's a communist.
+Coleman's Department Store|ILENE|Oh, really?
+Coleman's Department Store|ELAINE|Yep . . . a big communist, a big big communist.
+Coleman's Department Store|ILENE|Oh, well, it's awfully nice to see you. See you later.
+Coleman's Department Store|ELAINE|Bye bye
+Coleman's Department Store|ELAINE|Hey, listen while we're here why don't we do a little shirt shopping?
+Coleman's Department Store|NED|Out of the question.
+Coleman's Department Store|ELAINE|Um. Kramer!
+Coleman's Department Store|KRAMER|Hi
+Coleman's Department Store|ELAINE|Hi, oh hi Mickey, this is Ned
+Coleman's Department Store|KRAMER|Oh, hey, hi buddy.
+Coleman's Department Store|ELAINE|You guys stay here, I'll be right back.
+Coleman's Department Store|KRAMER|Eight hours of jingle belling and ho ho hoing. Boy, I am ho'd out.
+Coleman's Department Store|NED|Anyone who works here is a sap.
+Coleman's Department Store|action|Mickey attacks Ned
+Coleman's Department Store|MICKEY|Watch it!
+Coleman's Department Store|KRAMER|Woah, woah, come on.
+Coleman's Department Store|NED|You understand the Santa's at Bloomfields are making double what you are?
+Coleman's Department Store|KRAMER|Double?
+Coleman's Department Store|NED|I bet the beard itches doesn't it?
+Coleman's Department Store|KRAMER|You got that straight.
+Coleman's Department Store|NED|So when you get a rash all over your face in January do you think Coleman's will be there with a medical plan?
+Coleman's Department Store|MICKEY|Look, you take that commie crap out into the street.
+Coleman's Department Store|NED|Kramer, I've got some literature in my car that will change your whole way of thinking.
+Coleman's Department Store|KRAMER|Talk to me baby.
+Coleman's Department Store|MICKEY|Don't listen to him Kramer, you've got a good job here.
+Monks|DUNCAN|But there's no way you could have beaten me by that much. I already beaten you in Junior High School three times.
+Monks|JERRY|I didn't hit puberty til the 9th grade. That's what gave me my speed. Besides, if I got a head start why didn't Mr. Bevilacqua stop the race?
+Monks|action|George enters
+Monks|DUNCAN|That's what I've always wondered about.
+Monks|JERRY|Well, I . . . [sees George]
+Monks|GEORGE|Oh, my God, No, oh my God, . . . Jerry!
+Monks|JERRY|I'm sorry, uh,
+Monks|GEORGE|George, George Costanza!
+Monks|JERRY|Oh, George Costanza , Kennedy High.
+Monks|GEORGE|Yes yes yes This is unbelievable.
+Monks|DUNCAN|Hi, George
+Monks|GEORGE|Oh, wait a minute, wait a minute, don't tell me, don't tell me. It starts with a . . . Duncan Meyers. Oh, wow, this is something. I haven't seen you guys in what, twenty years?
+Monks|JERRY|This is Lois.
+Monks|LOIS|Hello.
+Monks|GEORGE|So what have you been doing with yourself?
+Monks|JERRY|I'm I'm a comedian.
+Monks|GEORGE|Ah ha, well, I really wouldn't know about that. I don't watch much TV. I like to read. So what do you do, a lot of that "did you ever notice?" this kind of stuff.
+Monks|JERRY|Yeah, yeah
+Monks|GEORGE|It strikes me a lot of guys are doing that kind of humor now.
+Monks|JERRY|Yeah, yeah, Well, you really got bald there, didn't you?
+Monks|GEORGE|Yeah, yeah.
+Monks|JERRY|You really used to have a think full head of hair.
+Monks|GEORGE|Yeah, yeah. Well, I guess I started losing it when I was about twenty-eight right around the time I made my first million. You know what they say. The first million is the hardest one.
+Monks|JERRY|yeah, yeah.
+Monks|LOIS|What do you do?
+Monks|GEORGE|I'm an architect.
+Monks|LOIS|Have you designed any buildings in New York?
+Monks|GEORGE|Have you seen the new addition to the Guggenheim?
+Monks|LOIS|You did that?
+Monks|GEORGE|Yep. And it didn't take very long either.
+Monks|JERRY|Well you've really built yourself up into something.
+Monks|GEORGE|Well, well, I had a dream, Jerry.
+Monks|JERRY|Well, one cannot help[ but wonder what brings you into a crummy little coffee shop like this.
+Monks|GEORGE|Well, I like to stay in touch with the people.
+Monks|JERRY|Ah, you know you have a hole in your sneaker there. What is that canvas?
+Monks|GEORGE|You know my driver's waiting, I really should get running. Good to see you guys again.
+Monks|JERRY|George, George, hang on. I haven't seen you in so long.
+Monks|GEORGE|Ha, uh,
+Monks|JERRY|I thought we might reminisce a little more. You know Duncan and I were just taking about the big race.
+Monks|GEORGE|Oh, the big race.
+Monks|JERRY|Yeah.
+Monks|GEORGE|Yes, yes,.
+Monks|LOIS|You were there?
+Monks|GEORGE|Yes, sure, surely was. Yeah, I'll remember that day. Well I'll never forget it because that was the day that I uh, lost my virginity to Miss. Stafford, the uh, voluptuous home room teacher.
+Monks|DUNCAN|Miss Stafford?
+Monks|GEORGE|Yes, yes, you know I was in detention and she came up behind me while I was erasing the blackboard . . .
+Monks|JERRY|George!
+Monks|GEORGE|But I digress. Let me see, now. You were standing at one end of the line and I was right next to you. And I remember we were even for like, the first five yards and then , BOOM,...You were gone.
+Monks|JERRY|Did I get a head start?
+Monks|GEORGE|Head start, oh no absolutely not.
+Monks|JERRY|You satisfied? So you see?
+Monks|DUNCAN|No, I'm still not convinced and I never will be.
+Monks|DUNCAN|That's a good idea.
+Monks|JERRY|No, no, no, another race - out of the question.
+Monks|DUNCAN|I know, you've been saying that for twenty years because you know you can't beat me. You couldn't beat me then and you can't beat me now.
+Monks|LOIS|Race him Jerry. Race him.
+Monks|JERRY|All right! I'll do it. The race is on.
+Jerry's apartment|ELAINE|. . . shut up! (?)
+Jerry's apartment|JERRY|And he's calling all these people from High School to come and watch. I knew this day would come. I can't do it. I can't go through with it. I'm calling it off. I can't let the legend die. It's like a kid finding out there's no Santa Claus
+Street|KRAMER|Each according to his ability, to each according to his needs.
+Street|MICKEY|What does that mean?
+Street|KRAMER|Well, if you've got needs and abilities that's a pretty good combination.
+Street|MICKEY|So what if I want to open up a delicatessen?
+Street|KRAMER|There are no delicatessens under Communism.
+Street|MICKEY|Why not?
+Street|KRAMER|Well, because the meats are divided into a class system. You got Pastrami and Corned Beef in one class and Salami and Bologna in another. That's not right.
+Street|MICKEY|So you can't get Corned Beef?
+Street|KRAMER|Well, you know, if you're in the Politburo, maybe.
+Jerry's Apartment|GEORGE|(on phone) . It's George Costanza. . are there any messages for me? Why does Mr. Steinbrenner want to see me in his office? . . . Communist? I'm not a Communist . . . . All right, all right. All right, I'll be there. - ( hangs up ) My secretary Ada, told Mr Steinbrenner I'm a Communist Now he wants to see me in his office.
+Jerry's Apartment|JERRY|So you'll just explain to him you're not a Communist. You just called the woman for a date.
+Jerry's Apartment|action|Phone rings
+Jerry's Apartment|JERRY|Hello, oh hi Duncan, 4:00 o'clock tomorrow? That is not going to work. . . . Why? I'll tell you why. Because I chose not to run!
+Elaine's Apartment|NED|I'm sorry Elaine. The shirt's too fancy.
+Elaine's Apartment|ELAINE|Just because you're a communist, does that mean you can't wear anything nice? You look like Trotsky. It's gorgeous. Fine, you want to be a Communist, be a Communist. Can't you at least look like a successful Communist?
+Elaine's Apartment|NED|All right, I'll try it on.
+Elaine's Apartment|ELAINE|I'm going to order Chinese Food.
+Elaine's Apartment|NED|You're ordering from Hop Sing's, right?
+Elaine's Apartment|ELAINE|Ugh, does it have to be Hop Sing's. I kind of had a fight with him.
+Elaine's Apartment|NED|Elaine, when my father was black listed he couldn't work for years. He and his friends used to sit at Hop Sing's every day figuring out how to survive.
+Elaine's Apartment|ELAINE|You're father was blacklisted?
+Elaine's Apartment|NED|Yes he was, and you know why? Because he was betrayed by people he trusted. They "named names".
+Elaine's Apartment|ELAINE|Okay, okay. (phones) Um, yeah, hi, I'd like delivery please to 16 West 75th St. apartment 2G.
+Elaine's Apartment|LEW|I know that address. You're Benes, right. You're on our list. No more delivery.
+Elaine's Apartment|ELAINE|No. no, she doesn't live here anymore. This is someone else.
+Elaine's Apartment|LEW|Oh, yeah. What's the name?
+Elaine's Apartment|ELAINE|Why do you need the name? You already have the address.
+Elaine's Apartment|LEW|We need a name. Give us a name.
+Elaine's Apartment|ELAINE|Okay, okay, Ned Isakoff.
+Coleman's Department Store|KID|I want a racing car set.
+Coleman's Department Store|KRAMER|Ho ho ho ho A racing car set! Those are assembled in Tai Wan by kids like you. And these Coleman pigs, they sell it at triple the cost.
+Coleman's Department Store|KID|But I want a racing car set.
+Coleman's Department Store|KRAMER|You see kid, you're being bamboozaled. These capatalist fat cats are inflating the profit margin and reducing your total number of toys.
+Coleman's Department Store|KID|Hey, this guy's a COMMIE!
+Coleman's Department Store|MICKEY|Hey, kid, quiet. Were did a nice little boy like you learn such a bad word like that? Huh?
+Coleman's Department Store|KID|Commie, Commie, Commie . . . (unknown) .
+Coleman's Department Store|MICKEY|Santa is not a Commie. He just forgot how his good friend stuck his neck out for him to get him a good job like this. Didn't he Santa!
+Coleman's Department Store|KRAMER|ho ho ho ho.
+Coleman's Department Store|KID|This guy's a Commie. He's spreading propoganda.
+Coleman's Department Store|MICKEY|I got two kids in college.
+Coleman's Department Store|KRAMER|You can't fire me, I'm Santa Claus.
+Jerry's Car|JERRY|Hi how are you?
+Jerry's Car|LOIS|. . . Fine.
+Jerry's Car|JERRY|What's the matter?
+Jerry's Car|LOIS|I just spoke to Duncan. He said if you don't race, he's going to fire me.
+Jerry's Car|JERRY|What? He can't do that.
+Jerry's Car|LOIS|Yes he can. He controls the means of production. What are you going to do Jerry?
+Jerry's Car|JERRY|Don't worry Lois. I'll think of something.
+Elaine's Apartment|LEW|Ah, I knew it was you! You tried to trick Hop Sing! You are onour list; Elaine Benes! And now you are on our list; Ned Isakoff.
+Elaine's Apartment|NED|You got me blacklisted from Hop Sing's?
+Elaine's Apartment|LEW|She named name!
+Steinbrenner's Office|GEORGE|You, uh, wanted to see me, Mr. Steinbrenner?
+Steinbrenner's Office|STEINBRENNER|Yes George, I did. Come in, come in. George, the wordaround the office is that you're a Communist.
+Steinbrenner's Office|GEORGE|C-Communist? I am a Yankee, sir, first and foremost.
+Steinbrenner's Office|STEINBRENNER|You know George, it struck me today me that a Communistpipeline into the vast reservoir of Cuban baseball talent could be thegreatest thing ever to happen to this organization.
+Steinbrenner's Office|GEORGE|Sir?
+Steinbrenner's Office|STEINBRENNER|You could be invaluable to this franchise. George, there's a southpaw down there nobody's been able to get a look at; something Rodriguez, I don't really know his name. You get yourselfdown to Havana right away.
+Steinbrenner's Office|GEORGE|Yes, sir. Yes sir, do my best.
+Steinbrenner's Office|STEINBRENNER|Good, Merry Christmas George. And bring me back some of those cigars in the cedar boxes, you know the ones with the fancy rings? I love those fancy rings. They kind of distract you while you're smoking. The red and yellow are nice. It looks good against the brown of the cigar. The Maduro, I like the Maduro wrapper. The darker the better, that's what I say. Of course, the Claro's good too. That's more of a pale brown, almost like a milky coffee. (George exits) I find the ring size very confusing. They have it in centimeters which I don't really understand that well...
+On the Street|MICKEY|That was quick! Nice job, Santa!
+On the Street|KRAMER|Yeah,
+On the Street|MICKEY|I knew that Commie stuff was going to get us in trouble.
+On the Street|KRAMER|Yeah, well I didn't realize that was such a sensitive issue.
+On the Street|MICKEY|Communism, You didn't realize Communism was a sensitive issue? What do you think has been going on in the world for the past 60 years? Wake up and smell the coffee.
+On the Street|KRAMER|I guess I screwed up!
+On the Street|MICKEY|You sure did. Big time.
+Street - race begins|ELAINE|How do you feel?
+Street - race begins|JERRY|I need a miracle.
+Street - race begins|DUNCAN|Now you're going to see what kind of liar you're mixed up with.
+Street - race begins|LOIS|If he beats you I want a big raise.
+Street - race begins|DUNCAN|If he beats me, I'll not only give you a raise, I'll send you to Hawaii for two weeks.
+Street - race begins|KRAMER|I parked in front of that restaurant . As soon as this race is over I got to go to the airport.
+Street - race begins|GEORGE|Okay, all right, all right.
+Street - race begins|JERRY|Yes, Mr. Beviacqua
+Street - race begins|action|Kramer enters his car
+Street - race begins|action|Mr. Bevilacqua raises gun
+Street - race begins|action|Kramer's car backfires
+Street - race begins|action|Jerry is off early and wins the race - the crowd goes crazy - 
+Street - race begins|JERRY|Maybe I will , Lois. Maybe I will.
+Street - race begins|action|Jerry winks at camera like in the Superman movie
+Havana|action|George enters Castro's office (like Steinbrenner)
+Havana|GEORGE|You wanted to see me, El Presidente?
+Havana|CASTRO|Si, si. (a Spanish word I can't figure out) Come here. I understand you are very interested in one of our players, eh?
+Havana|GEORGE|Si, si.
+Havana|CASTRO|Ordinarily I would not grant such a request but I've heard you are, uh, how you say, Communista simpatico, eh?
+Havana|GEORGE|Muy sumpatico. Muy muy muy.
+Havana|CASTRO|Well good, then you can have your pick.
+Havana|GEORGE|Oh, oh!
+Havana|CASTRO|They will play for your Yankees.
+Havana|GEORGE|Oh well, gracias El Commandante, gracias. Muy muy.
+Havana|CASTRO|And I would be honored if you would be my guest for dinner tonight at the Presidential palace. There will be girls there and, I hear, some pretty good food. Of course the problem with parties is you invariably have to eat standing up which I don't care for but on the other hand I don't like to balance a plate on my lap either. Once when I was at a party, I put my plate on someone's piano. I assure you, if I had not been a dictator, I would not have been able to get away with that one.

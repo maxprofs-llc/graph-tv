@@ -1,0 +1,343 @@
+Outside Melody Stationeries|action|Susan and George walk into the store and go up the sales clerk.
+Outside Melody Stationeries|SUSAN|Hi.
+Outside Melody Stationeries|CLERK|Hi.. May I help you?
+Outside Melody Stationeries|SUSAN|Yes, we'd like some wedding invitations.
+Outside Melody Stationeries|CLERK|Ohh! Well...Congratulations
+Outside Melody Stationeries|SUSAN|(happily) Thank you.
+Outside Melody Stationeries|GEORGE|(mildly embarrassed) yeah.. Thank you.
+Outside Melody Stationeries|CLERK|When 's the wedding?
+Outside Melody Stationeries|SUSAN|June
+Outside Melody Stationeries|GEORGE|late June.
+Outside Melody Stationeries|CLERK|Oh! Well, we have quite a few to pick from ( turns around and picks up a huge binder) They're arranged in order of price , the most expensive are in the front.
+Outside Melody Stationeries|action|George takes the binder and feigns browsing and flips right to the last page.
+Outside Melody Stationeries|GEORGE|He..hmmm. humm...What about this one.
+Outside Melody Stationeries|CLERK|Hmmm,..to tell you the truth they haven't manufactured that one for a number of years. I might have couple of boxes left in our warehouse in New Jersey. I'd have to check.
+Outside Melody Stationeries|SUSAN|Oh! no. George that's so ugly we don't want that.
+Outside Melody Stationeries|GEORGE|What's the difference you just read it and mail it right back. These we'll do.
+Outside Melody Stationeries|SUSAN|Why don't they make'em anymore?
+Outside Melody Stationeries|CLERK|Well.. For one thing the glue isn't very adhesive. It takes a lot of moisture to make them stick.
+Outside Melody Stationeries|GEORGE|So we pick up some (word missing)
+Outside Melody Stationeries|SUSAN|(disappointed)All right. You see what I do for you.
+Scene cuts to the street as Susan and George are about to get into a cab. Kramer happens to walk by.|GEORGE|Hey! Kramer.
+Scene cuts to the street as Susan and George are about to get into a cab. Kramer happens to walk by.|KRAMER|Hey! George.....Lily..
+Scene cuts to the street as Susan and George are about to get into a cab. Kramer happens to walk by.|SUSAN|No. Susan.
+Scene cuts to the street as Susan and George are about to get into a cab. Kramer happens to walk by.|KRAMER|No. No It's Lily
+Scene cuts to the street as Susan and George are about to get into a cab. Kramer happens to walk by.|SUSAN|I think I know my own name.
+Scene cuts to the street as Susan and George are about to get into a cab. Kramer happens to walk by.|GEORGE|It's Susan
+Scene cuts to the street as Susan and George are about to get into a cab. Kramer happens to walk by.|KRAMER|(lost for words) Well you look like a Lily...
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|It's coming Jerry, it's coming.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|What's coming?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|The Day..
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|Ahhh...The Day..
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|We ordered the wedding invitations today,, Nothing can stop it now. Nothing. It's here! It's happening. Can I do this? I can't do this...Look at me. Look at me I can't do this, I can't do this (manic) Help me Jerry, help me.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|why don't you just break it off with her. tell her it's over
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|I can't
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|Why not?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|All right take it easy, just take it easy.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|What about a letter?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|A letter.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|I...I...write a letter and then I..I go to China. I disappear in a sea of people for like six months, a year you know just while things simmer down. Ehm.. Ehm...Dear Susan. I'm sorry. I made a terrible mistake. I'm really , really sorry.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|That's it?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|What? Too short?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|BOTH|Seems a little short, yeah..
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|You can't go to China What about your job?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|My Job..arghhh
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|So write a letter.. move to another...move to Staten Island., 'lot easier to blend in a sea of people in Staten Island than China believe me.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|Yeah! Yeah!..Staten Island . What about my clothes ,how do I get the rest of the clothes?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|Aagh! You come back for your clothes
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|I'm not going back in there.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|So forget about your clothes.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|Well I'm not starting up a whole new wardrobe now!!!
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|Look, freedom with no clothes is a lot better than no freedom with clothes.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|If she'd just take a plane somewhere.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|And what, hope for a crash?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|It happens.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|You know what the odds are on a crash it's a million to one.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|It's something . It's hope.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|action|Elaine comes through the door
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|ELAINE|Hey!...( sees George) HEY!! Georgie. You know what I just realized; the wedding is like a month away.ha..haa..
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|Euhh...Elaine....
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|ELAINE|What?...Oh! by the way. What am I going to be in the wedding party?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|What do you mean?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|ELAINE|Well Jerry's gonna be the best man and Kramer's gonna be the usher so what am I gonna be?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|I don't know. I don't think you're anything.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|ELAINE|Wel...I have to be something. I 'm a close friend....What about being a bridesmaid.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|Those are Susan's friends.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|ELAINE|Well then...aaahh how about being an usher?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|Well...I'll ask Susan about it later.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|ELAINE|You don't ask.. You tell.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|( to Jerry) What about the letter, should I think about the letter?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|Hey Elaine if a guy wanted to end a relationship with you . What could he do?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|ELAINE|Start smoking.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|Smoking.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|Does she hate cigarettes?
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|Yes, she hates cigarettes.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|JERRY|But you don't smoke.
+Scene cuts to Jerry's apt. George walks in . Jerry is coming out of his bedroom twiddling scissors.|GEORGE|Nooooooo......
+Scene cuts to Jerry and Elaine walking|JERRY|You know, I think I'm getting a little depressed about George's wedding.
+Scene cuts to Jerry and Elaine walking|ELAINE|Really?
+Scene cuts to Jerry and Elaine walking|JERRY|Yeah. Well once he gets married that's it, she'll probably get pregnant, they'll move to Westchester. I'll never see him again.
+Scene cuts to Jerry and Elaine walking|ELAINE|Yeah! You're probably right.
+Scene cuts to Jerry and Elaine walking|JERRY|Then it'll just be me, you and Kramer.
+Scene cuts to Jerry and Elaine walking|ELAINE|No! Not me pal. I can't keep this up much longer. I'm sick of being single. I'm getting out.
+Scene cuts to Jerry and Elaine walking|JERRY|So it's just gonna be me and Kramer.
+Scene cuts to Jerry and Elaine walking|ELAINE|Yep! just you and Kramer.
+Scene cuts to Jerry and Elaine walking|action|Elaine walks away
+Scene cuts to Jerry and Elaine walking|JERRY|See you ... me and Kramer...
+Scene cuts to Jerry and Elaine walking|action|Daydreaming sequence set in Jerry's apt. in a probable future. Kramer pops in. They look a little older.
+Scene cuts to Jerry and Elaine walking|KRAMER|Hey!! Buddy. I thought of a great invention for driving. A periscope in a car, so you can see the traffic.
+Scene cuts to Jerry and Elaine walking|JERRY|(annoyed) How you gonna drive when looking through a periscope? Besides it's not a submarine and there's no room for a periscope in a car.
+Scene cuts to Jerry and Elaine walking|KRAMER|Huh! You make a higher roof.
+Scene cuts to Jerry and Elaine walking|JERRY|They're not making higher roofs.
+Scene cuts to Jerry and Elaine walking|KRAMER|why can't you make a higher roof.
+Scene cuts to Jerry and Elaine walking|JERRY|Because it's a stupid idea. No one's gonna go for it. Don't you understand It's stupid ,stupid...
+Scene cuts to Jerry and Elaine walking|action|As Jerry slowly comes out of his doze he is about to cross the street as a car comes to him at high speed.
+Scene cuts to Jerry and Elaine walking|JERRY|.....Stupid , stupid.
+Scene cuts to Jerry and Elaine walking|JEANNIE|Hey! Hey! Look out. (she pulls him back saving his life.) OK!, Are you okay?
+Scene cuts to Jerry and Elaine walking|JERRY|Yeah!.. Thanks.Oh! my god you saved my life.
+Scene cuts to Jerry and Elaine walking|JEANNIE|Shouldn't there be some kind of reward for that.
+Scene cuts to Jerry and Elaine walking|JERRY|oh! thank you.
+Scene cuts to Jerry and Elaine walking|JEANNIE|You know you should be a lot more careful crossing the street like that, otherwise you could die.. If that bothers you.
+Scene cuts to Jerry and Elaine walking|JERRY|Well I...
+Scene cuts to Jerry and Elaine walking|JEANNIE|You see..(points to his collar) To me this is a waste.
+Scene cuts to Jerry and Elaine walking|JERRY|What?
+Scene cuts to Jerry and Elaine walking|JEANNIE|The shirt you got on under your sweather. It sits for three weeks in your drawer, waiting to come out. and when it finally does . It sticks up only half an inch out of your collar.
+Scene cuts to Jerry and Elaine walking|JERRY|I'm Jerry Seinfeld.
+Scene cuts to Jerry and Elaine walking|JEANNIE|Jeannie Steinman.
+Scene cuts to Jerry and Elaine walking|JERRY|Hey! Same initials . How do you like that?
+Scene cuts to Jerry and Elaine walking|JEANNIE|I like it.
+George and Susan at their apt.|GEORGE|Listen I was talking to Elaine today and she said she'd would really like to be an usher at the wedding
+George and Susan at their apt.|SUSAN|No. Out of the question. I don't want any women ushers at my wedding and while we're on the subject, Kramer is not an usher either.
+George and Susan at their apt.|GEORGE|Why not?
+George and Susan at their apt.|SUSAN|He doesn't even know my name.
+George and Susan at their apt.|GEORGE|That was an honest mistake.
+George and Susan at their apt.|SUSAN|Nah! He's too weird he'd fall or something. He'd ruin the whole ceremony.
+George and Susan at their apt.|action|George takes out a pack of cigarettes and pulls one out.
+George and Susan at their apt.|GEORGE|Yeah! You're right.. You're probably right.
+George and Susan at their apt.|SUSAN|Whadda doing?
+George and Susan at their apt.|GEORGE|(shrugs and lights it up)
+George and Susan at their apt.|SUSAN|Since when do you smoke?
+George and Susan at their apt.|GEORGE|(coughs) I've always smoked.
+George and Susan at their apt.|SUSAN|I've never seen you smoke.
+George and Susan at their apt.|GEORGE|Oh yeeah.. well , Big smoker... I (coughs some more) gave it up for a while but it was too tough. Y' know.....I got no will power.
+George and Susan at their apt.|SUSAN|I don't like this one bit.
+George and Susan at their apt.|GEORGE|Well(coughs) I can't stop now...(coughs) I'm addicted...
+George and Susan at their apt.|SUSAN|Well you are gonna have to quit.
+George and Susan at their apt.|action|George sprints to the bathroom
+George and Susan at their apt.|GEORGE|Oh my god....
+At Monks.|WAITRESS|Menus?
+At Monks.|JERRY|No. I know what I want.
+At Monks.|WAITRESS|The usual?
+At Monks.|JERRY|Yeah.,
+At Monks.|WAITRESS|And for you?
+At Monks.|JEANNIE|I'll have a bowl of Cheerios , not to much milk.
+At Monks.|WAITRESS|Ok Two bowls of Cheerios.
+At Monks.|JEANNIE|You too.?...
+At Monks.|JERRY|Yeah!!!
+At Jerry's. Kramer comes in Jerry is on the couch.|KRAMER|Hey! Did you hear the bank on the corner is offering a 100 dollars if you go in there and they don't greet you with a hello?
+At Jerry's. Kramer comes in Jerry is on the couch.|JERRY|Uh! Really .That's nice.
+At Jerry's. Kramer comes in Jerry is on the couch.|KRAMER|Now what's with you?
+At Jerry's. Kramer comes in Jerry is on the couch.|JERRY|I think I'm in love.
+At Jerry's. Kramer comes in Jerry is on the couch.|KRAMER|Oh. Come on.
+At Jerry's. Kramer comes in Jerry is on the couch.|JERRY|No it's true. This woman saved my life. I was crossing the street .I was almost hit by a car...and then we talked and.......the whole thing just seemed like a dream.
+At Jerry's. Kramer comes in Jerry is on the couch.|KRAMER|If a guy saved your life you'd be in love with him too.
+At Jerry's. Kramer comes in Jerry is on the couch.|JERRY|No, no this woman is different , she's incredible. she's just like me. She talks like me, she acts like me. She even ordered cereal at a restaurant. We even have the same initials. Wait a minute, I just realised what's going on.
+At Jerry's. Kramer comes in Jerry is on the couch.|KRAMER|What?
+At Jerry's. Kramer comes in Jerry is on the couch.|JERRY|Now I know what I've been looking for all these years......myself! (Kramer is speechless) I've been waiting for me to come along and now I 've swept myself off my feet.
+At Jerry's. Kramer comes in Jerry is on the couch.|KRAMER|You stop it man.. you're FREAKING ME OUT!!!
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|KRAMER|Hey!
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|TELLER|Hey!
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|KRAMER|Hey! wait a second. You didn't say hello.
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|TELLER|Yes I did
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|KRAMER|No no you didn't ...Hundred dollars.. I get a hundred dollars.
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|TELLER|No, No I said Hello.
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|KRAMER|No, No You said Hey!
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|TELLER|Well.. Hey! is Hello, same thing.
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|KRAMER|The add said that the bank's gonna pay a hundred dollars if you are not greeted with a hello
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|TELLER|You're taking that much to literally. Now sir , do you have any business to transact.
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|KRAMER|No, I want to speak to the manager.
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|TELLER|Well, He's not here right now.
+At the HOME FEDERAL SAVINGS BANK Kramer walks up to a teller.|KRAMER|Then I'll be back.
+In Jerry's hallway|ELAINE|So I'm not gonna be an usher?
+In Jerry's hallway|GEORGE|No..
+In Jerry's hallway|ELAINE|So I'm nothing. Jerry is best man , Kramer is an usher and I am nothing.
+In Jerry's hallway|GEORGE|Well Kramer's not an usher anymore.
+In Jerry's hallway|KRAMER|What are you talking about?
+In Jerry's hallway|GEORGE|You've been demoted.
+In Jerry's hallway|KRAMER|Why?
+In Jerry's hallway|GEORGE|Because you called her by the wrong name.
+In Jerry's hallway|KRAMER|But she really looks like a Lily
+In Jerry's hallway|ELAINE|Jerry ( as they come into the apt.) Jerry, Susan says I can't be an usher at he wedding.
+In Jerry's hallway|KRAMER|Yeah. me neither.
+In Jerry's hallway|JERRY|(shrugs) Hey George I think I want to bring a date to the wedding
+In Jerry's hallway|GEORGE|Who!!?
+In Jerry's hallway|JERRY|I just met her, she's incredible.
+In Jerry's hallway|ELAINE|Aaawh...This is GREAT!!.....Now I'm gonna be stuck at the singles table with all the losers.
+In Jerry's hallway|JERRY|You can go with Kramer
+In Jerry's hallway|KRAMER|No , no no no no. Weddings are a great place to meet chicks. I have to be unfettered.
+In Jerry's hallway|GEORGE|Do you see what this is turning in to? Do I need this. I have to get out of this thing.
+In Jerry's hallway|ELAINE|Did you try the cigarettes?
+In Jerry's hallway|GEORGE|Yeah.. They made me sick.
+In Jerry's hallway|KRAMER|All right, All right. Lets get down here. You really want to get out of this thing ?
+In Jerry's hallway|GEORGE|Yeah...
+In Jerry's hallway|KRAMER|All right. I got two words for you; Pre-Nup.
+In Jerry's hallway|GEORGE|What does that mean?
+In Jerry's hallway|KRAMER|Ask her to sign a pre-nup.
+In Jerry's hallway|GEORGE|What does that do?
+In Jerry's hallway|KRAMER|Because most women when they're asked to sign a pre-nup are so offended they back out of the marriage.
+In Jerry's hallway|GEORGE|They are?... Elaine?
+In Jerry's hallway|ELAINE|I wouldn't sign one.
+In Jerry's hallway|GEORGE|Pre-nup of course ..Kramer....
+In Jerry's hallway|KRAMER|Get out of here.
+In Jerry's hallway|action|George and Susan at their apt.
+In Jerry's hallway|GEORGE|Hi.
+In Jerry's hallway|SUSAN|Hi. Hey I've been going over the list .What about The Drake? Wanna invite him?
+In Jerry's hallway|GEORGE|Yeah. Got to invite The Drake. Listen hem...there's something that's been on my mind and we haven't really talked about it..I t's kind of important to me.
+In Jerry's hallway|SUSAN|What is it?
+In Jerry's hallway|GEORGE|Well I I ..put a lot of thought into this and I think I would like you to sign a prenuptual agreement.
+In Jerry's hallway|SUSAN|A pre-nup?
+In Jerry's hallway|GEORGE|Yeah.
+In Jerry's hallway|SUSAN|(burst out laughing)
+In Jerry's hallway|GEORGE|What's so funny?
+In Jerry's hallway|SUSAN|Ha.Ha.Ha. ha...You don't have any money. I make more money than you do. ha. ha. ha. Yeah.. give me the papers I'll sign 'em.( she leaves) a pre-nup...
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|JERRY|Excuse me.( gets up and opens the door)
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|KRAMER|Jerry.... hey Jeannie.
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|JEANNIE|Hello.
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|KRAMER|Remember I told you about the bank?
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|JERRY|Yeah.
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|KRAMER|Yeah well I went in there and they said Hey!
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|JERRY|Hey is the same thing as hello. What do you think Jeannie.
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|JEANNIE|Yeah I think it's the same thing.
+Scenes of Jerry and Jeannie enjoying each other in the park , at the grocery store, comparing comic books and making out. Interrupted by Kramer as he slams into Jerry's locked door.|KRAMER|Oh! Big surprise ( he leaves frustrated)
+Scene takes us to George's again. We hear a buzzer.|SUSAN|Oh those are the invitations.
+Scene takes us to George's again. We hear a buzzer.|SUSAN|yeah! Thank you.
+Scene takes us to George's again. We hear a buzzer.|GEORGE|See ya later.
+Scene takes us to George's again. We hear a buzzer.|SUSAN|Urgh.. these are so cheap. (as George leaves) And don't forget tommorrow we're going shopping for some rings, so don't make any plans...and this time we're not skimping.
+To Jerry's again|KRAMER|Hey
+To Jerry's again|JERRY|Hey.
+To Jerry's again|KRAMER|Jeannie left?
+To Jerry's again|JERRY|Yeah , she's coming to see my act tonight.
+To Jerry's again|KRAMER|Oh yeah! Well that's nice. I'm sure that's right up her alley.
+To Jerry's again|JERRY|What's with you?
+To Jerry's again|KRAMER|Nothin'
+To Jerry's again|JERRY|Something on your mind?
+To Jerry's again|KRAMER|No.
+To Jerry's again|JERRY|Looks like there is?
+To Jerry's again|KRAMER|No
+To Jerry's again|JERRY|Come on. Something's on your mind. Out with it.
+To Jerry's again|KRAMER|I don't like her.
+To Jerry's again|JERRY|You don't like her?
+To Jerry's again|KRAMER|That's right I don't like , I never like her from the get-go.
+To Jerry's again|JERRY|What's wrong with her?
+To Jerry's again|KRAMER|Everything she thinks. you think. Everything you think she thinks. No I can't take it. I can't take it Jerry. It's too much. It's too much.
+To Jerry's again|JERRY|Well you can't take her maybe you can't take me either.
+To Jerry's again|KRAMER|So THAT's how it's going to be
+To Jerry's again|JERRY|That's how it's gonna be.
+To Jerry's again|KRAMER|OH! GOD HELP US!!!
+George's Apartment. Susan licking envelopes|SUSAN|Eurk.. Awful
+Back to the Federal Home Savings Bank|MANAGER|May i help you?
+Back to the Federal Home Savings Bank|KRAMER|Yeah. uh..I was in here the other day and I went up to that teller and he didn't say hello.
+Back to the Federal Home Savings Bank|MANAGER|Then you are entitled to a hundred dollars. That's our policy.
+Back to the Federal Home Savings Bank|KRAMER|yeah., but he wouldn't give me the money.
+Back to the Federal Home Savings Bank|MANAGER|Hehummm.. JIM...Can I see you for a second
+Back to the Federal Home Savings Bank|JIM|Uh.. yes can you give me a minute.
+Back to the Federal Home Savings Bank|MANAGER|Yea....hum......He'll be. hum.. right over.(awkward pause)
+Back to the Federal Home Savings Bank|KRAMER|(knocks on desk) Is thi oak?
+Back to the Federal Home Savings Bank|MANAGER|'think it's pine.
+Back to the Federal Home Savings Bank|KRAMER|Pine is good.
+Back to the Federal Home Savings Bank|MANAGER|Yeah. pine's okay.
+Back to the Federal Home Savings Bank|action|Jim the teller walks over
+Back to the Federal Home Savings Bank|JIM|You want to see me
+Back to the Federal Home Savings Bank|MANAGER|Yeah... Hum..Jim , a man here says came in the other day , you didn't say hello?
+Back to the Federal Home Savings Bank|JIM|No, No that's not true, I said Hey! you know like a friendly greeting, Hey!
+Back to the Federal Home Savings Bank|KRAMER|But that's not Hello.
+Back to the Federal Home Savings Bank|MANAGER|That's a tough one.
+Back to the Federal Home Savings Bank|KRAMER|Uhummm...
+Back to the Federal Home Savings Bank|MANAGER|You know what, let me bring some other people in on this...Barbara, Jane, Mike Can I see you please.
+Back to the Federal Home Savings Bank|BARBARA|How you doin'?
+Back to the Federal Home Savings Bank|JANE|What's happening?
+Back to the Federal Home Savings Bank|MIKE|What's up?
+Back to the Federal Home Savings Bank|MANAGER|(to kramer) Can you excuse us for one minute. Just one minute.
+Back to the Federal Home Savings Bank|action|Kramer gets up a little confused and walks away.
+Back to the Federal Home Savings Bank|MANAGER|Thanks. (they huddle)
+Back to the Federal Home Savings Bank|MANAGER|Thanks, thanks everybody. (they leave) Sir, have a seat.
+Back to the Federal Home Savings Bank|MANAGER|Well , we've discussed this, here's the feeling. You got a greeting starts with an H how's twenty bucks sound.
+Back to the Federal Home Savings Bank|KRAMER|I'll take it.
+Back to the Federal Home Savings Bank|MANAGER|awright sir (they shake hands)
+Scene cuts to the Improv as Jerry walks into the club and sees Jeannie sitting at a table|JERRY|Will you marry me?
+We go back to the Improv.|JERRY|I would like to propose a toast....Wait a second.. George! George Costanza come in here.
+We go back to the Improv.|JEANNIE|Georgie boy..
+We go back to the Improv.|JERRY|George, big news; I'm getting married!!
+We go back to the Improv.|GEORGE|Married , What!(astounded)
+We go back to the Improv.|JERRY|September 21st, first day of Autumn. Leaves changing colours.. Beautiful colors.
+We go back to the Improv.|JEANNIE|... all that crap.
+We go back to the Improv.|JERRY|You see , I kept up my end of the pact.
+We go back to the Improv.|GEORGE|Good for you (sympathetic)
+We go back to the Improv.|JERRY|Hey look , Champagne..
+We go back to the Improv.|GEORGE|Hehehe. .(feebly)
+We go back to the Improv.|JERRY|To our future wives....yeah...
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|JERRY|Well it's been quite a night I could sure use a cup of coffee.
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|JEANNIE|Hey! what's the deal with decaf; how do they get the caffeine out of there and then where does it go?
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|JERRY|(weakly) I dunno
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|action|A guy suddenly gets up to leave then falls on the ground.
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|JEANNIE|That's a shame..
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|JERRY|(to waitress) I' ll just have a cup of coffee.
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|JEANNIE|Bowl of Corn flakes.
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|JERRY|More cereal? that's your third bowl today, you had it for breakfast and lunch.
+George returns home only to find..... Scene then cuts to Monks with Jerry and Jeannie arriving.|JEANNIE|Hey! So what's the deal with brunch, I mean that if it's a combination of breakfast and lunch. How comes there's no lupper or no linner.
+Back to Jerry's, Kramer comes in..|KRAMER|Hey!! Frank just called me. Congratulations.
+Back to Jerry's, Kramer comes in..|JERRY|Thanks , thanks
+Back to Jerry's, Kramer comes in..|KRAMER|Look I'm sorry about before....I mean I'm sure I'll learn to like her, Jerry
+Back to Jerry's, Kramer comes in..|JERRY|Yeah , yeah .
+Back to Jerry's, Kramer comes in..|KRAMER|C'mon , c'mon what's the matter?
+Back to Jerry's, Kramer comes in..|JERRY|I think I may have made a big mistake.
+Back to Jerry's, Kramer comes in..|KRAMER|Oh! Come on.
+Back to Jerry's, Kramer comes in..|JERRY|All of a sudden it hit me, I realized what the problem is; I can't be with someone like me.. I hate myself!! If anything I need to get the exact opposite of me....It's too much. It's too Much I can't take it ...I can't take it!!!
+Back to Jerry's, Kramer comes in..|KRAMER|(mocking) Too bad you got engaged.
+Back to Jerry's, Kramer comes in..|JERRY|Yeah! Too bad.
+Back to Jerry's, Kramer comes in..|action|Phone rings, Jerry picks it up.
+Back to Jerry's, Kramer comes in..|JERRY|Hello. Oh! Hi George.......What! ..really! All right I'll call Elaine , we'll meet you down there.
+Back to Jerry's, Kramer comes in..|KRAMER|What happened?
+Back to Jerry's, Kramer comes in..|JERRY|They just took Susan to the Hospital
+At the hospital.|JERRY|So she was just lying there.
+At the hospital.|GEORGE|Tsss...Yeah..
+At the hospital.|ELAINE|I wonder what happened?
+At the hospital.|GEORGE|I don't know....hmmm ha! here's the doctor.
+At the hospital.|DOCTOR|Excuse me , Are you the husband?
+At the hospital.|GEORGE|Well , not yet.. Fiancé.
+At the hospital.|DOCTOR|Well , I'm sorry.....She's gone.
+At the hospital.|GEORGE|.........What's that?...
+At the hospital.|DOCTOR|She expired.
+At the hospital.|GEORGE|...Are you sure?
+At the hospital.|DOCTOR|Yes , of course.
+At the hospital.|GEORGE|So.....She's dead?
+At the hospital.|DOCTOR|Yes
+At the hospital.|GEORGE|...Huh!
+At the hospital.|DOCTOR|Let me ask you ; Had she been exposed to any kind of inexpensive glue?
+At the hospital.|GEORGE|...Why?
+At the hospital.|DOCTOR|We found traces of a certain toxic adhesive commonly found in very low priced envelopes.
+At the hospital.|GEORGE|Well she was sending out our wedding invitations.
+At the hospital.|DOCTOR|That's probably what did it.
+At the hospital.|GEORGE|We were expecting about two hundred people...Well...Thank you , thank you.
+At the hospital.|action|Doctor leaves, George returns to the others
+At the hospital.|GEORGE|She's ahem....gone
+At the hospital.|JERRY|Dead?
+At the hospital.|ELAINE|I'm so sorry George
+At the hospital.|JERRY|Yeah! me too
+At the hospital.|KRAMER|Poor Lily..
+At the hospital.|JERRY|How did it happen?
+At the hospital.|GEORGE|Apparently the glue in the wedding invitations was a....toxic.
+At the hospital.|ALL|Aah!..
+At the hospital.|KRAMER|Well that's weird
+At the hospital.|JERRY|So I guess , you're not getting married?
+At the hospital.|GEORGE|(embarrassed with a touch of unrestrained jubilation) Yes.
+At the hospital.|JERRY|But....
+At the hospital.|GEORGE|Yeah?
+At the hospital.|JERRY|Well , now I'm engaged..
+At the hospital.|GEORGE|Yeah?...
+At the hospital.|JERRY|Well I thought we'd both be getting married.
+At the hospital.|GEORGE|Hey!.. What can I tell ya.
+At the hospital.|ELAINE|All right. (they start to leave except Jerry)
+At the hospital.|GEORGE|well humm.. lets get some coffee.
+At the hospital.|JERRY|WE HAD A PACT!!!
+George at home on the phone|GEORGE|Yes I'd like to speak to Marisa Tomei, please? Marisa, Hi it's George Costanza.. I'm the short, funny, quirky bald man you met a little while ago, heh! yeah I was just calling 'cos I wanted you to know that I'm not engaged anymore......well huh, She died....Toxic glue from the wedding invitations.....well we were expecting about two hundred people. Yeah... Anyway.. hum I got the funeral tomorrow but huh.. my weekend is pretty wide open and I was wondering... (dial tone interrupts George)..... Hello...Hello..

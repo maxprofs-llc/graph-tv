@@ -1,0 +1,299 @@
+Stationery store|STATIONER|May I help you?
+Stationery store|ELAINE|Yeah, uh, I'm looking for a Rollamech 1000 mechanical pencil.
+Stationery store|STATIONER|Oh, I know the Rollamech 1000.
+Stationery store|ELAINE|No, I'm sure you do.
+Stationery store|STATIONER|They're pretty expensive.
+Stationery store|ELAINE|Well, it's for my boss.
+Stationery store|STATIONER|What do you do?
+Stationery store|STATIONER|Well, we don't have any in stock right now but I would be happy to order it for you. Just give me your phone number and when it comes in I'll give you a call. You're name is?
+Stationery store|ELAINE|Elaine.
+Stationery store|STATIONER|Elaine, . . . and your last name?
+Stationery store|ELAINE|It's just Elaine, like Cher. Ha ha ha
+Stationery store|STATIONER|And your number?
+Stationery store|ELAINE|Uh, aw, KL5-239O.
+Stationery store|STATIONER|Okay. Thanks a lot. You'll be hearing from me.
+Stationery store|ELAINE|Okay, (to Jerry)  Move  along. . .
+Stationery store|JERRY|Why did you give him MY number?
+On the street|ELAINE|I think he's got ideas.
+On the street|JERRY|I wonder if any woman ever said that about Einstein?
+On the street|JERRY|Call me when the pencil comes in Okay?
+On the street|action|On the street
+On the street|ELAINE|Just call me when the new pen comes in, okay?
+On the street|JERRY|Why does Mr. Pitt prefer a pencil to a pen anyway? Hey. Look who's here.
+On the street|GEORGE|Hey, hey.
+On the street|ELAINE|Hey hey
+On the street|JULIE|Hi Jerry.
+On the street|JERRY|Hi Julie.
+On the street|GEORGE|Elaine, Julie.
+On the street|ELAINE|Hi.
+On the street|JULIE|Hi.
+On the street|JULIE|Oh, hi.  Elaine's my middle name.
+On the street|ELAINE|Oh, mine's "Ike".
+On the street|GEORGE|Hey, wanna get some lunch?
+On the street|JERRY|Just had a big bowl of Kix.
+On the street|GEORGE|Ah, well, that's very mature. What about you?
+On the street|ELAINE|Ah, no.
+On the street|JULIE|Please come, Elaine.
+On the street|ELAINE|No, no. How about if you bring me back something?
+On the street|GEORGE|Sure, all right, what do you want?
+On the street|ELAINE|Um, hum, I don't know.. . . A big salad?
+On the street|GEORGE|What big salad? I'm going to the coffee shop.
+On the street|ELAINE|They have big salads.
+On the street|GEORGE|I've never seen a big salad.
+On the street|ELAINE|They have a big salad.
+On the street|GEORGE|Is that what I ask for? The BIG salad?
+On the street|ELAINE|It's okay, you don't…
+On the street|GEORGE|No, no, Hey I'll get it. What's in the BIG salad?
+On the street|JERRY|Big lettuce, big carrots, tomatoes like volleyballs.
+On the street|GEORGE|(???), we'll see you in a little while.
+Jerry's|ELAINE|Maybe I should just get married.
+Jerry's|JERRY|Dating is really starting to get embarrassing isn't it?
+Jerry's|ELAINE|I know. You know, whenever I'm on a date I feel people can tell.
+Jerry's|JERRY|People on dates shouldn't even be allowed out in public.
+Jerry's|ELAINE|You can say that again.
+Jerry's|JERRY|It's embarrassing for them. It's painful for us to watch. I'm going out with someone later, I'm not even taking her out of the house.
+Jerry's|ELAINE|Good for you.
+Jerry's|JERRY|I don't need a bunch of people staring at us.
+Jerry's|ELAINE|Right on baby. (???)
+Jerry's|action|noise from hall
+Jerry's|JERRY|What was that?
+Jerry's|action|Kramer enters with his golf clubs
+Jerry's|KRAMER|That Gendason, what a jerk. I'm never playing golf with him again.
+Jerry's|ELAINE|Who Gendason?
+Jerry's|KRAMER|Steve Gendason.
+Jerry's|ELAINE|Why is that name familiar?
+Jerry's|ELAINE|Oh, how did you end up playing golf with him?
+Jerry's|KRAMER|Well, I met him on the course a couple of years ago. Yeah. Played with him a lot. But today was it! We're on the fifteenth hole, ya, he's beating me by a couple of strokes. Then, he's about to hit his second shot, when, he picks up the ball and CLEANS it.
+Jerry's|ELAINE|So what?
+Jerry's|KRAMER|Umph, sorry! But the rules clearly state that you cannot clean the ball unless it's on the green. The rules are very clear about that.
+Jerry's|JERRY|Certainly are.
+Jerry's|KRAMER|Ya, so I penalized him a stroke.
+Jerry's|KRAMER|He LOST IT! We almost came to blows. We were face to face like a manager and an umpire like this . . kara a pukka ba ya ka ba . . .
+Jerry's|JERRY|All right. You're in MY face.
+Jerry's|ELAINE|I still don't see what the big deal is.
+Jerry's|KRAMER|A rule is a rule. And let's face it. Without rules there's chaos.
+Monks|JULIE|I like Anna Quindlen's column and Safire. Don't you like Safire?
+Monks|GEORGE|Oh, Safire. Uh ha
+Monks|JULIE|Although at times can be rather pedantic.
+Monks|GEORGE|He can be pedantic. He can be pedantic.
+Monks|JULIE|And Bob Herbert's great. He's the Daily News.
+Monks|GEORGE|Yes. Yes. You know what's interesting. The quarterback for the Atlanta Falcons is Bobby Hebert. No "r" which I find fascinating. You know it's Herbert h-e-r-b-e-r-t, Hebert h-e-b-e-r-t. "Hebert" it's a fun name to pronounce. Try and say it Hebert. Take a shot. All right. (check arrives) All right. I
+Monks|JULIE|No, no. I'd like to take you out.
+Monks|GEORGE|No, Julie, Julie, don't insult me. You know, what difference does it make who pays for lunch. It's totally meaningless.
+Monks|JULIE|Okay, thanks, George.
+Monks|JULIE|Oh, thank you.
+Jerry's|JERRY|(on phone) Hello. No she's not here. Okay, fine, whatever. I'll tell her. Okay. Goodbye. The stationery store guy called to say he ORDERED your pencil.
+Jerry's|ELAINE|I told ya'. He has ideas.
+Jerry's|JERRY|He doesn't even care if a man answers.
+Jerry's|ELAINE|Or you.
+Jerry's|action|George and Julie enter
+Jerry's|GEORGE|Hey, hey.
+Jerry's|ELAINE|Hey.
+Jerry's|JULIE|Sorry e're late.
+Jerry's|ELAINE|No problem.
+Jerry's|JULIE|Here's your big salad.
+Jerry's|ELAINE|Thank you, Julie.
+Jerry's|JULIE|Oh, you're very welcome. So, I guess I better get going. Gotta meet mother a t the Guggenheim. Sure you don't want to go?
+Jerry's|GEORGE|No, you go Guggenheim. I'm not much of a Guggenheim.
+Jerry's|JULIE|Sure, George.
+Jerry's|GEORGE|Ya, you go.
+Jerry's|JULIE|Okay, I'll see you later. Goodbye.
+Jerry's|JERRY|Bye bye
+Jerry's|action|Julie exits
+Jerry's|GEORGE|Did you see what just happened?
+Jerry's|JERRY|Well, that all depends. . .
+Jerry's|GEORGE|Did you happen to notice that Julie handed the big salad to Elaine?
+Jerry's|JERRY|Yeah, so?
+Jerry's|GEORGE|Well, she didn't BUY the big salad. I bought the big salad.
+Jerry's|JERRY|Is that a fact?
+Jerry's|GEORGE|Yes it is. She just took credit for my salad. That's not right.
+Jerry's|JERRY|No it isn't.
+Jerry's|GEORGE|I mean I'm the one who bought it.
+Jerry's|JERRY|Yes you did.
+Jerry's|GEORGE|You think she should have said something?
+Jerry's|JERRY|She could have.
+Jerry's|GEORGE|Oh, I know.
+Jerry's|JERRY|Imagine, her taking credit for your big salad.
+Jerry's|GEORGE|You know you buy a big salad for somebody it would be nice if they knew it.
+Jerry's|JERRY|Obviously.
+Jerry's|action|Kramer rushes in
+Jerry's|KRAMER|Turn on the TV.
+Jerry's|JERRY|What?
+Jerry's|KRAMER|I'm puttin it on…
+Jerry's|TV|. . . the district attorney's office and the police department have not answered any questions as yet. To repeat in case you're just joining us. Former baseball start Steve Genderson, has been taken to Police headquarters for questioning the murder of Bobby Pinkus the owner of Royal Dry Cleaners at 2759 Amsterdam Avenue. According to Pinkus' wife, Gendeson had been involved in a dispute with the cleaner about a stain on a pair of gray Sans-A-Belt slacks. We also have a report that earlier in the day a groundskeeper at Vancourtland's Golf Course saw an irate Gendeson leaving the clubhouse in a huff. Whether there is a possible connection between the two is something we'll just have to wait.
+Jerry's|KRAMER|Jerry . . .
+Jerry's|JERRY|Well, it has nothing to do with you.
+Jerry's|KRAMER|Yeah, but maybe he was so mad from the penalty stroke that he murdered the dry cleaner.
+Jerry's|JERRY|Well, generally speaking you don't need any extra incentive to murder a dry cleaner. I wouldn't worry about that.
+In a cab|ELAINE|I like Julie. She's very personable.
+In a cab|GEORGE|Yeah, she's very lovely.
+In a cab|ELAINE|That's great George.
+In a cab|GEORGE|So did you enjoy your lunch?
+In a cab|ELAINE|Yeah, A big salad. Very good. Actually it was too big. Ha ha ha Wht?
+In a cab|GEORGE|oh, . . .because she handed you the bag. I could have handed you the bag. She happened to pick it up at the restaurant even though, . . .
+In a cab|ELAINE|Even though what?
+In a cab|GEORGE|. . . naw, it's just you thanked HER, and and oh, . . . what's the difference?
+In a cab|ELAINE|What? What are you trying to say, George?
+In a cab|GEORGE|It's just that I was the one who actually paid for the big salad. She just happened to hand it to you. But it's no big deal.
+In a cab|ELAINE|You want the money for the big salad, George?
+In a cab|GEORGE|No, no,
+In a cab|ELAINE|What is the problem?
+In a cab|GEORGE|There is no problem. . . just a small miscommunication. Whereby you thanked her instead of the person actually responsible for purchasing the big salad.
+Jerry's|JERRY|And Kramer thinks a penalty stroke may have driven him to it.
+Jerry's|MARGARET|Well, they haven't even arrested him yet. Come on, let's go out.
+Jerry's|JERRY|Ah, no , I don't think so.
+Jerry's|MARGARET|Why not?
+Jerry's|JERRY|We don't need a bunch of people staring at us.
+Jerry's|MARGARET|Who is staring?
+Jerry's|JERRY|Oh, they're staring. They know we're on a date. They're making fun. Come on. It's embarrassing.
+Jerry's|action|Phone rings
+Jerry's|JERRY|Hello. No she's not here. Yes I will tell her. No I don't know what time she might be coming back. Look I gotta' go. Goodbye. . . . That, that's a long story.
+Jerry's|action|Newman enters
+Jerry's|JERRY|Hello Newman.
+Jerry's|MARGARET|Hello Jerry, I was wondering if you knew where Kramer was.
+Jerry's|JERRY|No, no I don't. Why?
+Jerry's|MARGARET|You know, Genderson. This is something big.
+Jerry's|JERRY|I suppose.
+Jerry's|MARGARET|What did Kramer say?
+Jerry's|JERRY|I don't know. Nothing.?
+Jerry's|MARGARET|Come on Jerry. You know something TELL ME! TELL ME!, Oh, chocolates . . . Margaret?
+Jerry's|MARGARET|Hello.
+Jerry's|JERRY|You two know each other?
+Jerry's|NEWMAN|You might say that.
+Jerry's|MARGARET|We used to go out.
+Jerry's|NEWMAN|Well, tootle loo. And nice seeing you again Margaret, goodbye Jerry. Have fun. Hehe
+Jerry's|JERRY|. . . YOU went out with . . . Newman?
+Jerry's|MARGARET|Just a few times.
+Jerry's|JERRY|Why?
+Jerry's|MARGARET|I liked him.
+Jerry's|JERRY|You liked, Newman?
+Jerry's|MARGARET|Look I'm a little uncomfortable talking about this okay?
+Jerry's|JERRY|No, I'm sorry. I'm just a little curious. I mean why did you stop seeing him.
+Jerry's|MARGARET|He ended it.
+Jerry's|JERRY|. . . HE ended it?
+Jerry's|MARGARET|YES!! Yes! It was a couple of years ago. Why does it matter?
+Jerry's|JERRY|No, no of course not.
+Jerry's|action|Kramer enters
+Jerry's|KRAMER|Jerry, Jerry they found a tee.
+Jerry's|JERRY|What tee?
+Jerry's|KRAMER|A golf tee. In the dry cleaner.
+Monk's|JERRY|Newman! She went out with Newman!
+Monk's|ELAINE|It must be a mistake.
+Monk's|JERRY|No. It isn't and the most distressing part of it is, not that she went out with him but that HE stopped seeing her. Do you understand? He, Newman; Newman stopped seeing her. Newman never stopped seeing anybody. Newman will see whoever is willing to see him. Not so much why she did see him as disturbing as that is. But why, did HE, Newman, stop seeing her?
+Monk's|ELAINE|Perhaps there's more to him than meets the eye.
+Monk's|JERRY|No, there's less.
+Monk's|ELAINE|It's possible.
+Monk's|JERRY|No it isn't. I've looked into his eyes. He's pure evil.
+Monk's|ELAINE|He's an enigma, a mystery wrapped in a riddle.
+Monk's|JERRY|Yeah, he's a mystery wrapped in a Twinkie.
+Monk's|JERRY|No,, but thank you.
+Monk's|JERRY|Oh, by the way, your stationery store guy called and he's got your pencil.
+Monk's|ELAINE|Ugh! You are kidding me.
+Monk's|JERRY|No, he left the store early, made a special trip to the distributor and got it.
+Monk's|ELAINE|I bought mine yesterday on 14th Street.
+Monk's|JERRY|Well, what did you do that for? You ordered it.
+Monk's|ELAINE|To please Mr. Pitt.
+Monk's|JERRY|Well, you better go down there and tell this guy. He's very excited.
+Monk's|ELAINE|Uh, great!
+Monk's|JERRY|Hi Julie.
+Monk's|JERRY|Hi.
+Monk's|ELAINE|Hi Julie.
+Monk's|JERRY|Hi, how are you, Elaine? I'm meeting George here.
+Monk's|ELAINE|Oh, well then I better get going otherwise George will make me buy him lunch to make up for that big salad he bought me yesterday.
+Monk's|JERRY|How do you know THAT?
+Newman's apartment|action|knock knock
+Newman's apartment|NEWMAN|Who is it.
+Newman's apartment|JERRY|It's Jerry.
+Newman's apartment|NEWMAN|You've come at a bad time now. Could you come back later?
+Newman's apartment|JERRY|Come on Newman. OPEN THE DOOR!
+Newman's apartment|NEWMAN|Hellooo Jerry. What a rare treat. What brings you down to the east wing?
+Newman's apartment|JERRY|Okay, pudgy, lets stop playing games. What happened with margaret?
+Newman's apartment|NEWMAN|There's no need to get excited. Can't we discuss this like gentlemen?
+Newman's apartment|JERRY|No, we can't. My skin is crawling just being inside your little rat's nest. Now, what happened?
+Newman's apartment|NEWMAN|Do you really want to know what happened? I'll tell you what Happened. She wasn't my type.
+Newman's apartment|JERRY|Noit your type?
+Newman's apartment|NEWMAN|Not really.
+Newman's apartment|JERRY|Well, how come?
+Newman's apartment|NEWMAN|Ah, she just didn't do it for me.
+Newman's apartment|JERRY|What, what is wrong with her?
+Newman's apartment|NEWMAN|Well, h ha ha- if you're happy with her, that's all that matters.
+Newman's apartment|JERRY|You don't think she's attractive?
+Newman's apartment|NEWMAN|No. I need a really pretty face. But, Hey, that's me.
+Newman's apartment|JERRY|Okay, Newman, thanks a lot.
+Newman's apartment|NEWMAN|Care for some lemonade?
+Newman's apartment|JERRY|No, thank you.
+Newman's apartment|NEWMAN|Drop bye anytime, jerry. Hah, ha ha
+Jerry's apartment|KRAMER|Listen to this, "If a player cleans his ball during the play of a hole accept on the putting green he shall incur a penalty of one stroke. " That's a rule, Jerry.
+Jerry's apartment|JERRY|But it's just a friendly game. Why do you have to be such a stickler?
+Jerry's apartment|KRAMER|Because that's the way I weas raised. You know when I was growing up I had to be in bed every night by nine o'clock. And if I wasn't, well I don't have to tell you what happened.
+Jerry's apartment|JERRY|What are you so worried about this for?
+Jerry's apartment|KRAMER|You know he talked about Pinkus on the course?
+Jerry's apartment|JERRY|He did?
+Jerry's apartment|KRAMER|Oh yeah, he said he brought a pair of pants into Pinkus' and they came back stained with some kind of dry cleaning fluid. And Pinkus denied responsibility. You see he was very upset with Pinkus.
+Jerry's apartment|JERRY|So it had nothing to do with you.
+Jerry's apartment|KRAMER|Yeah, but maybe I pushed him over the edge.
+Jerry's apartment|JERRY|No, I don't think so.
+Jerry's apartment|KRAMER|Poor Pinkus, poor little Pinkus.
+Jerry's apartment|JERRY|Hey, let me ask you a question. You met margaret. Doo you think Margaret's good looking? Um, she's a natural beauty. Oh, no makeup. I like that.
+Jerry's apartment|JERRY|Yeah, and the curls. You like the curls?
+Jerry's apartment|KRAMER|Oh, I love curls.
+Jerry's apartment|JERRY|Yeah,, me too.
+Jerry's apartment|KRAMER|All right, I'll see you later.
+Jerry's apartment|JERRY|Where you going?
+Jerry's apartment|KRAMER|Genderson's.
+Jerry's apartment|JERRY|You're going to see Genderson?
+Jerry's apartment|KRAMER|It's weighing on my conscience.
+Monk's|GEORGE|You know, I think I could have played with dolls if their were dolls in the house. It seems like fun to me. It doesn't seem like a gender thing. I think I would like to play with dolls. What's so terrible?
+Monk's|JULIE|Ha. So, George, I was talking to Elaine before.
+Monk's|GEORGE|A ha! We're just friends.
+Monk's|JULIE|Yes, well anyway, she said something that was kind of intriguing.
+Monk's|GEORGE|Oh, share.
+Monk's|JULIE|Well, when I came over to the table she mentioned something about how she better hurry up and leave or you'd make her buy lunch to make up for the one you bought yesterday.
+Monk's|GEORGE|Ha, ha ha uh, I'm not following that.
+Monk's|JULIE|Well, my question is, How could Elaine be under the impression that you bought the big salad, when I was the one who handed it to her?
+Monk's|GEORGE|Well, she probably just assumed.
+Monk's|JULIE|Um, did she?
+Monk's|GEORGE|. . .uh, . . . wait a second. Are you suggesting that I went out of my way to tell Elaine that even though you handed her the big salad, that it came from me?
+Monk's|JULIE|That's what I'm suggesting.
+Monk's|GEORGE|. . . WELL IT WAS A BIG SALAD. AND WHAT I WOULD LIKE TO KNOW IS, HOW DOES A PERSON WHO HAS NOTHING TO DO WITH THE BIG SALAD CLAIM RESPONSIBILITY FOR THAT SALAD AND ACCEPT THE THANK YOU UNDER FALSE PRETENSES - AH - AH?
+Monk's|JULIE|George, all I did was hand someone a bag.
+Monk's|action|Julie leaves
+Stationery store|ELAINE|It's just that my boss is very demanding and he needed the pencil right away.
+Stationery store|STATIONER|Well,, why did you tell me to order it if you knew you were going to get one someplace else?
+Stationery store|ELAINE|No, no no I didn't know. I, I'm sorry.
+Stationery store|STATIONER|I went all the way down to the warehouse. It took me three hours. I had a big fight with the foreman.
+Stationery store|ELAINE|Really? A fight with the foreman?
+Stationery store|STATIONER|Yes.
+Stationery store|ELAINE|Well, again, I'm just awfully sorry.
+Stationery store|STATIONER|Yeah? Well, then how about going out with me tonight?
+Stationery store|ELAINE|Okay.
+Stationery store|action|In Margaret's car
+Stationery store|MARGARET|I mean they found a tee and he played golf that day. Nobody walks into a dry cleaner's with a tee. The circumstantial evidence is overwhelming.
+Stationery store|JERRY|You had how many dates with him? Three?
+Stationery store|MARGARET|Around three. I don't know.
+Stationery store|JERRY|And . .
+Stationery store|MARGARET|I told you. He stopped calling me. I moved on. I'm not hung up on him. What are you looking at?
+Stationery store|JERRY|What? I'm not looking. Nothing.
+Stationery store|JERRY|Why are you looking at my face?
+Stationery store|JERRY|Where am I going to look?
+Stationery store|MARGARET|Kiss me.
+Stationery store|JERRY|. . . I can't.
+Stationery store|action|Throws Jerry out onto sidewalk and drives off
+Stationery store|JERRY|Newman!
+Jerry's apartment|JERRY|All I could think of was when I was looking at her face was; Newman found this unacceptable.
+Jerry's apartment|ELAINE|Well, ,I'm going out with the stationery store guy.
+Jerry's apartment|JERRY|You're going out with the stationery store guy?
+Jerry's apartment|ELAINE|I felt so guilty about the pencil I couldn't say no.
+Jerry's apartment|action|George enters, upset
+Jerry's apartment|ELAINE|Well, well, well, I'm not treating you to lunch ANYMORE! You had to tell Julie that I made a special point of telling you that I bought you the big salad. Didn't ya'.
+Jerry's apartment|ELAINE|Uh, uh.
+Jerry's apartment|GEORGE|You know, if it was a regular salad I wouldn't have said anything. But you had to have the BIG SALAD.
+Jerry's apartment|action|phone rings
+Jerry's apartment|JERRY|Hello, what? You're kidding. I'm turning it on. Oh, my god. Get out of here. (hangs up) Hey listen to this. They issued a warrant for Genderson's arrest. He escaped and the police spotted him on the New Jersey Turnpike.
+Jerry's apartment|TV|As you can see white Bronco. The police have cleared the highway traffic in front of him but they are keeping their distance and don't want the situation to escalate. And we have gotten an identification on the driver of the vehicle. His name is; Kramer, one of Genderson's golfing buddies.
+Jerry's apartment|POLICE|9-1-1 What are you reporting
+Jerry's apartment|KRAMER|Yeah, this is Kramer. I got Genderson in the car. He wants to see his fish. I'm taking him to see his fish. So tell the police to back off.
+Jerry's apartment|POLICE|Okay, sir, and what's your name?
+Jerry's apartment|KRAMER|My name is Kramer. You know who I am dammit!
+Jerry's apartment|KRAMER|I thought we would blend in.
+Jerry's apartment|KRAMER|we would have had all that bridge traffic.

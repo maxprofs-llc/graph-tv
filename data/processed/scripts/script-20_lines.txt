@@ -1,0 +1,413 @@
+Setting: Night club|JERRY|I have never seen an old person in a new bathing suit in my life. I don't know where they get their bathing suits, but my father has bathing suits from other centuries. My parents live in Florida, and if you go down there and you forget your bathing suits then they want you to wear one of theirs. You know how that gets? "You need trunks son? I've got trunks for you. You can wear my trunks." Fathers don't wear bathing suits, they wear trunks. It's kind of the same thing a tree would wear if it went swimming. So I get in the water with in thing and it's like floating around me somewhere. Did you ever put on a bathing suit that you don't even know exactly where you are inside the bathing suit? You bump into somebody you know: "No I'm parasailing, I'm waiting for the boat to come back."
+Setting: Florida, evening, condo of Jerry's parents|HELEN|(looking by the window) They were supposed to be here at 7:30. Call the airlines again.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|(searching in a kitchen drawer) What happened to the scotch tape? Who takes the scotch tape? Nobody returns anything around here.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Oh I think that's them!
+Setting: Florida, evening, condo of Jerry's parents|MORTY|You what I'll do next time? I'll hide it so nobody can find it.
+Setting: Florida, evening, condo of Jerry's parents|action|Jerry and Elaine enter
+Setting: Florida, evening, condo of Jerry's parents|ALL|Hi, welcome, greetings, hugs, etc.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Welcome to Florida!
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|Hi Mr. Seinfeld! (hug)
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Hey, there's the old man! (hug)
+Setting: Florida, evening, condo of Jerry's parents|MORTY|So, what took you so long?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Ahh, we waited 35 minutes in the rent-a-car place.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|I don't know why you had to rent a car. We would have picked you up.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|What's the difference?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|You could have used our car.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I don't wanna use your car.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|What's wrong with our car?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Nothing. It's a fine car. What if you wanna use it?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|We don't use it.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|What are you talking? We use it.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|If you were using it, we wouldn't use it.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|So what would you do? You'd hitch?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|How much is a rent-a-car?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I don't know. 25 bucks a day.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|What? You're crazy.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Plus the insurance.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Oh, I didn't get the insurance.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|How could you not get the insurance?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|We'll pay for the car.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|You're not paying for it.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Morty. (asking him to back her. He doesn't)
+Setting: Florida, evening, condo of Jerry's parents|JERRY|God it's so hot in here. Why don't you put on the air conditioning?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|You don't need the air conditioner. So, you have your speech all ready?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|It's not a speech. Do I have to make a speech?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Of course, they're giving a testimonial for your father. You could do your comic routines.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|(ironically) Oh yeah, that will go over real well with that crowd.
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|(looking by the window) Ooh, you have a lake?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|The lake isn't real.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|The lake is real.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Are you kidding? They built the lake.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|But it's real. It's water.
+Setting: Florida, evening, condo of Jerry's parents|action|Jerry and Elaine take their luggages to the guest room
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Where are you going with those?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I'm gonna put Elaine's stuff in here.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Don't sleep in there. You can you use the bedroom.
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|I can't take your bedroom.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|I'm up at 6 o'clock in the morning.
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|I can't kick you out of your bed.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|We don't even sleep.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Ma.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|But this is sofa bed, you'll be uncomfortable.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|(to Morty) What about you?
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Why should I be comfortable?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|(to Helen) What about him?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Don't worry, he's comfortable.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|I'll sleep standing up. I'll be fine.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Will you stop?
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|Yeah, I'll just stay in here. (goes in the guest room)
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Jerry, (asking Jerry to go in the kitchen so Elaine won't hear) Jerry. You don't have to stay on the couch on my account. The two of you could stay in there together.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Na, that's not such a good idea.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Well I tought that...
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Not now. She's right inside.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|(quieter) What happened?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I don't know. We decided we don't really work as a couple.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|What does that mean?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Well...
+Setting: Florida, evening, condo of Jerry's parents|MORTY|(comes to the kitchen and with a loud voice) Why are you whispering?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Shh! Nothing, nothing.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Elaine...
+Setting: Florida, evening, condo of Jerry's parents|MORTY|(still loud) What about her?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|(tries to explain to Morty but Elaine then comes out of the guest room to get more luggage, so he fakes a conversation) ...but you know, look at the sun-dried tomatoes. Where were they five years ago? It just goes to show you. You never know what... huh (waiting for Elaine to go back in the guest room) you know... huh... What could happen to a vegetable. It could just take right off at any time. (Morty finally gets it. So Jerry goes on quieter) We've tried all kind of arrangements, but we can't seem to be friends when we sleep together.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|(Morty goes on louder! Did he ever whisper in any episode? :-) Why do you need more friends? You've got plenty of friends.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|He's an idealist.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|What the hell are you looking for?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I'm looking. That's the point. I like looking.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|He likes looking.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|So look.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|But how long can you look?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I'm going for the record.
+Setting: Florida, evening, condo of Jerry's parents|action|Morty walks away with a face like he disagrees with Jerry
+Setting: Florida, evening, condo of Jerry's parents|HELEN|You know your father wouldn't say so but he's really glad you came.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Oh, come on.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|This is a big thing for him. Outgoing president of the condo association.
+Setting: Florida, evening, condo of Jerry's parents|action|knock on door: this is Jack and Doris, neigboors
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Aha!
+Setting: Florida, evening, condo of Jerry's parents|DORIS|So they arrived safely.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|(to Jerry) You remember Jack and Doris?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Nice to see you. This is Elaine.
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|Hi. Nice to meet you.
+Setting: Florida, evening, condo of Jerry's parents|JACK|So Jerry, you came all the way down here for this?
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|And scuba diving.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Scuba diving? Who's going scuba diving?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|We're going scuba diving. We'll be back in time.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|What do you have to go scuba diving for?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|For fun.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|For fun?
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Jack have some spong cake.
+Setting: Florida, evening, condo of Jerry's parents|JACK|No. thanks, no.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Jack is emceeing tomorrow. He's in charge of the whole thing.
+Setting: Florida, evening, condo of Jerry's parents|JACK|So Jerry, your mother told me you're gonna do one your little comedy skits tomorrow?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I don't think so.
+Setting: Florida, evening, condo of Jerry's parents|JACK|No? Listen Morty you wanna settle up for last night? (Morty nods) All right. I owe you 19.45$ (he gets his checks book and a pen from his pocket).
+Setting: Florida, evening, condo of Jerry's parents|MORTY|What did you have? You had the minute steak?
+Setting: Florida, evening, condo of Jerry's parents|JACK|Yeah.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Did you have a coke or what?
+Setting: Florida, evening, condo of Jerry's parents|JACK|I did NOT have a coke.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Somebody had a coke.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Oh I had a coke.
+Setting: Florida, evening, condo of Jerry's parents|DORIS|And I had the scampi.
+Setting: Florida, evening, condo of Jerry's parents|JACK|So that's 17.10$ and the tax and the tip.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|All right. Make it 20 bucks.
+Setting: Florida, evening, condo of Jerry's parents|JACK|It's: 19.45$, Morty. (he gives him the check)
+Setting: Florida, evening, condo of Jerry's parents|MORTY|19.45$ ?
+Setting: Florida, evening, condo of Jerry's parents|JACK|See? You know your father. He can't get a write to the penny, but that's why he was such a good president.
+Setting: Florida, evening, condo of Jerry's parents|action|Jerry notices Klompus's pen
+Setting: Florida, evening, condo of Jerry's parents|JERRY|What kind of pen is that?
+Setting: Florida, evening, condo of Jerry's parents|JACK|This pen?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Yeah.
+Setting: Florida, evening, condo of Jerry's parents|JACK|This is an astronaut pen. It writes upside down. They use this in space.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Wow! That's the astronaut pen. I heard about that. Where did you get it?
+Setting: Florida, evening, condo of Jerry's parents|JACK|Oh it was a gift.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Cause sometimes I write in bed and I have to turn and lean on my elbow to make the pen work.
+Setting: Florida, evening, condo of Jerry's parents|JACK|Take the pen.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Oh no.
+Setting: Florida, evening, condo of Jerry's parents|JACK|Go ahead.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I couldn't
+Setting: Florida, evening, condo of Jerry's parents|JACK|Come on, take the pen!
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I can't take it.
+Setting: Florida, evening, condo of Jerry's parents|JACK|Do me a personal favor!
+Setting: Florida, evening, condo of Jerry's parents|JERRY|No, I'm not...
+Setting: Florida, evening, condo of Jerry's parents|JACK|Take the pen!
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I cannot take it!
+Setting: Florida, evening, condo of Jerry's parents|JACK|Take the pen!
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Are you sure?
+Setting: Florida, evening, condo of Jerry's parents|JACK|Positive! Take the pen!
+Setting: Florida, evening, condo of Jerry's parents|JERRY|O.K. Thank you very much. Thank you. Gee, boy!
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Jack, what are you doing?
+Setting: Florida, evening, condo of Jerry's parents|JACK|Stop it!
+Setting: Florida, evening, condo of Jerry's parents|DORIS|Jack, we should go. (they go to the door) It was nice meeting you.
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|Mmm, nice to meet you.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Thanks again.
+Setting: Florida, evening, condo of Jerry's parents|JACK|Come on!
+Setting: Florida, evening, condo of Jerry's parents|DORIS|(to Morty) She's adorable. (they leave)
+Setting: Florida, evening, condo of Jerry's parents|HELEN|(as soon as the door's closed) What did you take his pen for?
+Setting: Florida, evening, condo of Jerry's parents|JERRY|What he gave it to me.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|You didn't have to take it.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Oh my God! She's gotta make a big deal out of everything.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|He offered it to me.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Because you made such a big fuss about it.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|I liked it. Should I have said I didn't like it?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|You shouldn't have said anything. What did you expect him to do? (the camera shows Elaine shaking her head at their dispute)
+Setting: Florida, evening, condo of Jerry's parents|JERRY|He could have said: "Thank you, I like it too" and put it back in his pocket.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|He loves that pen.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Oh come on!
+Setting: Florida, evening, condo of Jerry's parents|HELEN|He talks about it all the time. Every time he takes it out he goes on and on about how it writes upside down, how the astronauts use it.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|If he likes it so much, he never should have offered it.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|He didn't think you'd accpet.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Well, he was wrong.
+Setting: Florida, evening, condo of Jerry's parents|HELEN|I know his wife. She has some mouth on her. She'll tell everyone in the condo now that you made him give you the pen. They're talking about it right now. (again we see Elaine smiling at their argument)
+Setting: Florida, evening, condo of Jerry's parents|JERRY|So you want me to return it?
+Setting: Florida, evening, condo of Jerry's parents|HELEN|Yes.
+Setting: Florida, evening, condo of Jerry's parents|MORTY|He's not gonna return the pen. That's ridiculous.
+Setting: Florida, evening, condo of Jerry's parents|JERRY|Hey I don't even want the pen now!
+Setting: Florida, evening, condo of Jerry's parents|MORTY|Jack can afford to give away a pen with all his money. Believe me. He gives me a check for 19.45. He didn't have a Coke. Ho, ho, ho!
+Setting: Florida, evening, condo of Jerry's parents|ELAINE|Here, let me see it. (She takes a pad to try the pen) Hey, it writes upside down.
+Setting: Florida, evening, condo of Jerry's parents|action|scene ends
+setting: condo's guest room|action|Elaine is lying on the sofa bed. It's too hot. She can't fall asleep
+setting: condo's guest room|action|knock on door
+setting: condo's guest room|ELAINE|Come in.
+setting: condo's guest room|JERRY|Are you O.K. in here?
+setting: condo's guest room|ELAINE|Why is it so hot in here? How can they sleep like this?
+setting: condo's guest room|JERRY|It's only for three days. Today's over and we have tommorow. We leave on Sunday. It's one day, really.
+setting: condo's guest room|ELAINE|Oh man. What is with this bar? It's right in my back. It's killing me.
+setting: condo's guest room|JERRY|Oh you wanna switch? I'm sleeping on a love seat. I've got my feet up in the air like I'm in a space capsule.
+setting: condo's guest room|ELAINE|I am never gonna fall asleep.
+setting: condo's guest room|JERRY|Oh, no don't say that. You'll jinx me.
+setting: condo's guest room|ELAINE|How can they not put the air conditioning on?
+setting: condo's guest room|JERRY|They're nuts with temperature.
+setting: condo's guest room|ELAINE|This bar is right in my back! It's making a dent.
+setting: condo's guest room|JERRY|How about that guy writing a check for 19.45?
+setting: condo's guest room|ELAINE|I'm sweating here. I'm in bed, sweating.
+setting: condo's guest room|JERRY|It's one day. Half a day, really. I mean you substract showers and meals, it's like twenty minutes. It will go by like that. (snapping his fingers)
+setting: condo's guest room|action|scene ends
+setting: condo, morning|action|Jerry and Morty are sitting at the table, Helen is at the counter. Elaine's still sleeping? Well, she's still in the guest room.
+setting: condo, morning|MORTY|Stay on 95 South to Biscayne Boulevard. Then you make a left turn. Put you blinker on immediatly, there's an abutment there. Then you're gonna merge over very quickly, but stay on Biscayne. Don't get off Biscayne. You understand me?
+setting: condo, morning|JERRY|Stay on Biscayne.
+setting: condo, morning|HELEN|You're going underwater?
+setting: condo, morning|JERRY|Yes. Generally that's where scuba diving is done.
+setting: condo, morning|HELEN|What do you have to go underwater for? What's down there that's so special?
+setting: condo, morning|JERRY|What's so special up here?
+setting: condo, morning|action|Elaine open the guest room's door and she's in pain
+setting: condo, morning|ELAINE|Oh!
+setting: condo, morning|action|everybody get up and walk to her
+setting: condo, morning|HELEN|What's the matter?
+setting: condo, morning|ELAINE|My back.
+setting: condo, morning|HELEN|What happened?
+setting: condo, morning|ELAINE|That... That bed. The bar was right in my back.
+setting: condo, morning|HELEN|(to Jerry) I told you to let us sleep in there.
+setting: condo, morning|JERRY|Then YOU would be hunched over.
+setting: condo, morning|ELAINE|I don't even know if I can go scuba diving.
+setting: condo, morning|JERRY|You can't go?
+setting: condo, morning|HELEN|So stay home.
+setting: condo, morning|ELAINE|You can go.
+setting: condo, morning|JERRY|Without you? That's the whole reason you came down here.
+setting: condo, morning|HELEN|Don't go.
+setting: condo, morning|JERRY|You sure?
+setting: condo, morning|MORTY|Maybe you should see a doctor.
+setting: condo, morning|JERRY|We'll stay in a hotel tonight.
+setting: condo, morning|ELAINE|(whispering to Jerry) Yes!
+setting: condo, morning|HELEN|No, we'll stay in there.
+setting: condo, morning|JERRY|Why don't you get a new sofa?
+setting: condo, morning|MORTY|Nobody uses it.
+setting: condo, morning|JERRY|I'm buying you a new sofa.
+setting: condo, morning|HELEN|Oh Jerry, don't talk crazy.
+setting: condo, morning|ELAINE|Mrs Seinfeld, please. I am begging you. Put the air conditioner on.
+setting: condo, morning|HELEN|You're hot?
+setting: condo, morning|ELAINE|I've lost 6 pounds.
+setting: condo, morning|HELEN|I don't even know how to work it.
+setting: condo, morning|MORTY|I keep telling her it's like an oven in here.
+setting: condo, morning|action|Evelyn, a neighboor, enters
+setting: condo, morning|EVELYN|Is everybody up?
+setting: condo, morning|JERRY|Hi. How are you?
+setting: condo, morning|EVELYN|Hello Jerry.
+setting: condo, morning|JERRY|Evelyn, this is Elaine.
+setting: condo, morning|ELAINE|(with pain) Hi Evelyn.
+setting: condo, morning|EVELYN|Jerry you got thin.
+setting: condo, morning|JERRY|Too thin?
+setting: condo, morning|HELEN|Oh stop worrying so much about how you look.
+setting: condo, morning|EVELYN|So where's the new pen? (everybody's surprised by this question)
+setting: condo, morning|JERRY|(Jerry scratches his head and acts like he's not sure what she's talking about) What?
+setting: condo, morning|EVELYN|The pen. The one Jack Klompus gave you.
+setting: condo, morning|HELEN|How did you know that?
+setting: condo, morning|EVELYN|Blanche told me.
+setting: condo, morning|HELEN|Blanche?
+setting: condo, morning|EVELYN|That's some good pen. It writes upside down.
+setting: condo, morning|ELAINE|The astronauts use them.
+setting: condo, morning|HELEN|What did Blanche say?
+setting: condo, morning|EVELYN|I don't know. She said Jerry wanted the pen.
+setting: condo, morning|JERRY|I never really wanted the pen.
+setting: condo, morning|MORTY|He gave him the pen.
+setting: condo, morning|HELEN|Morty.
+setting: condo, morning|EVELYN|Why you don't like the pen?
+setting: condo, morning|JERRY|No, no, I...
+setting: condo, morning|EVELYN|Cause if you don't like it, give it back to him.
+setting: condo, morning|HELEN|Is that what she said?
+setting: condo, morning|EVELYN|Who?
+setting: condo, morning|HELEN|Blanche.
+setting: condo, morning|EVELYN|What are you talking about?
+setting: condo, morning|action|The phone rings, Helen answers.
+setting: condo, morning|HELEN|Hello? Oh hello Gussy. What? Jerry wouldn't do that. Jack gave it to him. All he said was he liked it. I mean nobody put a gun to his head. (to Jerry) You're giving him back that pen. (She continues the discussion with Gussy but we don't hear it.)
+setting: condo, morning|ELAINE|Somebody please-- THE AIR CONDITIONER!
+setting: condo, morning|MORTY|(Morty gets up) Oh! I forgot all about it.
+setting: condo, morning|action|the phone conversation is over. Helen looks at Jerry.
+setting: condo, morning|JERRY|All I said was "I like the pen".
+setting: condo, morning|action|Morty looks at the control panel for the air conditioner
+setting: condo, morning|MORTY|How the hell do you work this thing?
+setting: condo, morning|action|scene ends
+setting: still the condo, later|action|Jerry's gone scuba diving. Elaine is lying on the floor with pillows under her legs. Morty and Helen are on the couch, looking at Elaine. Helen is wearing a sweater and she's freezing
+setting: still the condo, later|HELEN|Maybe you shouldn't go tonight.
+setting: still the condo, later|ELAINE|No no, I wanna go.
+setting: still the condo, later|HELEN|But your back hurts.
+setting: still the condo, later|MORTY|Maybe a couple of muscle relaxers would help.
+setting: still the condo, later|ELAINE|Oh, oh, O.K. (Helen holds her sweater tight against herself) You can turn down the air conditioning if you want.
+setting: still the condo, later|HELEN|No. I'm fine.
+setting: still the condo, later|ELAINE|You're not too cold?
+setting: still the condo, later|HELEN|No.
+setting: still the condo, later|action|Jerry enters with a black eye
+setting: still the condo, later|JERRY|Don't be alarmed.
+setting: still the condo, later|MORTY|Oh my God! What the hell happened to you?
+setting: still the condo, later|JERRY|I'm O.K. My capillaries burst.
+setting: still the condo, later|HELEN|Your capillaries? Do you know what you look like?
+setting: still the condo, later|JERRY|(to Elaine on the floor) How are you doing?
+setting: still the condo, later|ELAINE|Having a good time!
+setting: still the condo, later|JERRY|Is it my imagination or is it freezing in here?
+setting: still the condo, later|HELEN|What happened to your eyes?
+setting: still the condo, later|JERRY|Well I started to go under...
+setting: still the condo, later|HELEN|With the instructor?
+setting: still the condo, later|JERRY|Yeah, and I got about ten feet down and I felt this tremendous pressure on my mask. Like my eyeballs were being sucked out of their sockets.
+setting: still the condo, later|HELEN|I told you...
+setting: still the condo, later|action|Jack enters, all dressed-up, smoking a cigar
+setting: still the condo, later|JACK|Excuse me. (to Helen) Doris would like to borrow red your pocketbook to go with her shoes. (to Elaine on the floor) The shoes have to match the pocketbook. (to the others) What's she doing? Yoga?
+setting: still the condo, later|ELAINE|My back hurts.
+setting: still the condo, later|JACK|Morty you gotta hurry up. Get ready.
+setting: still the condo, later|MORTY|We got plenty of time.
+setting: still the condo, later|JACK|(to Jerry) What happened to you?
+setting: still the condo, later|JERRY|I got in a fist fight with one of the ladies at the pool.
+setting: still the condo, later|HELEN|It's from scuba diving.
+setting: still the condo, later|JACK|What's there to see underwater?
+setting: still the condo, later|action|Helen turns to Jerry and makes a face like: give him back the pen
+setting: still the condo, later|JERRY|Listen M. Klompus, it was really a nice gesture of you to give me the pen, but I don't really need it.
+setting: still the condo, later|JACK|You what?
+setting: still the condo, later|JERRY|I mean it's a terrific pen, but I think you should keep it. (he hands the pen to Jack)
+setting: still the condo, later|JACK|Well I mean...
+setting: still the condo, later|JERRY|Take it.
+setting: still the condo, later|JACK|All right! (he smiles and take it)
+setting: still the condo, later|action|Morty gets up and walks right to Jack
+setting: still the condo, later|MORTY|You know Jack, you've got a hell of a nerve taking that kid's pen.
+setting: still the condo, later|JACK|Whose pen?
+setting: still the condo, later|MORTY|His pen.
+setting: still the condo, later|JACK|This happens to be my pen.
+setting: still the condo, later|MORTY|You didn't give it to him.
+setting: still the condo, later|JACK|What are you talking about? He pratically begged me for it.
+setting: still the condo, later|MORTY|Where do you come off with this crap?
+setting: still the condo, later|JACK|Listen, do you think I take everything everybody offers me? You offered me sponge cake yesterday. Did I take it?
+setting: still the condo, later|MORTY|You said you didn't want it!
+setting: still the condo, later|JACK|Of course I wanted it! I love sponge cake!
+setting: still the condo, later|MORTY|Then who the hell said you couldn't have any? I mean what the hell do I care whether you have sponge cake?
+setting: still the condo, later|action|Jerry and Elaine can't beleive what they're hearing
+setting: still the condo, later|JACK|Because I saw the look on your face last week when I took the scotch tape!
+setting: still the condo, later|MORTY|Ahh! Ahh! So YOU got the scotch tape! I've been looking all over for it!
+setting: still the condo, later|JACK|Don't worry about it! I'll give it back!
+setting: still the condo, later|MORTY|I don't want it!
+setting: still the condo, later|JACK|I don't want it!
+setting: still the condo, later|MORTY|You know Jack, do me a favor will you? Take the pen and the scotch tape, and get the hell out of here!
+setting: still the condo, later|JACK|Listen do you think I give a damn?
+setting: still the condo, later|MORTY|Aah! (Jack leaves) The nerve of that guy! Taking back that pen. Well that's it for them.
+setting: still the condo, later|JERRY|What is going on in this community! Are you people aware of what's happening? What is driving you to this behavior? Is it the humudity? Is it the Muzak? Is it the white shoes?
+setting: still the condo, later|HELEN|I have no use for either one of them. I don't even want them there tonight. (she still has the pocketbook in her hands)
+setting: still the condo, later|JERRY|Isn't he supposed to be the emcee?
+setting: still the condo, later|MORTY|yeah, he's supposed to be the emcee.
+setting: still the condo, later|JERRY|Well. This should be a very interesting evening.
+setting: still the condo, later|ELAINE|(still on the floor) Uh... What about those muscle relaxers?
+setting: still the condo, later|action|scene ends
+setting: reception room, evening|action|Morty, Helen, Elaine and Jerry are standing for a photograph in the entrance. Jerry wears sunglasses and Elaine is all drugged-up on muscle relaxers.
+setting: reception room, evening|PHOTOGRAPHER|Say astronaut.
+setting: reception room, evening|action|Elaine is laughing for nothing and she walks right up to the lens of the camera.
+setting: reception room, evening|ELAINE|Say what? (laughing) Say what?
+setting: reception room, evening|JERRY|(Jerry brings her back) You took too many of those pills.
+setting: reception room, evening|MORTY|Astronaut?
+setting: reception room, evening|HELEN|Say it.
+setting: reception room, evening|ELAINE|(still laughing, she says it just as the picture is taking) Astro...naut!
+setting: reception room, evening|action|the image frozes and we see that the picture is awful, with Jerry and his sunglasses, and Elaine laughing who can barely stand.
+setting: reception room, evening|MORTY|Good. O.K. (the photographer walks away) What about last year when I took him to the hospital every day? Did he ever say thank you?
+setting: reception room, evening|JERRY|Oh God. (foreseeing an arm's grabbing as he sees Uncle Leo entering with his wife Stella)
+setting: reception room, evening|JERRY|(to Leo) Uncle Leo.
+setting: reception room, evening|LEO|Hello!
+setting: reception room, evening|STELLA|Morty are you nervous?
+setting: reception room, evening|MORTY|What nervous?
+setting: reception room, evening|LEO|(to Jerry while he's grabbing his arm as usual) What's with the sunglasses? Who are you? Van Johnson?
+setting: reception room, evening|JERRY|I've got a black eye.
+setting: reception room, evening|STELLA|(to Elaine in a childish voice) Hello.
+setting: reception room, evening|JERRY|Oh uh, Elaine, this is my aunt Stella.
+setting: reception room, evening|HELEN|(shouting as she imitates Marlon Brando) STELLA! STELLA!
+setting: reception room, evening|JERRY|(to Stella) Her back hurts.
+setting: reception room, evening|STELLA|Humm... We saw you on "The Tonight Show" last week.
+setting: reception room, evening|LEO|I thought Johnny was very rude to you. He didn't even let you talk.
+setting: reception room, evening|JERRY|No, no.
+setting: reception room, evening|LEO|You need some new material. I've heard you do that dog routine three times already.
+setting: reception room, evening|ELAINE|(still with her imitation, shouting even louder) STELLA! STELLA!
+setting: reception room, evening|LEO|Listen, you should get your cousin Jeffrey to write some material for you.
+setting: reception room, evening|MORTY|What are you talking? Jeffrey works for the parks department!
+setting: reception room, evening|LEO|You should read the letters he's written. He's funnier than the whole bunch of you! (Jack enters with Doris) Oh, here's Jack. We should sit down.
+setting: reception room, evening|action|Jack and Morty exchange a look.
+setting: reception room, evening|STELLA|(to Helen on a sarcastic tone of voice) This better be good. I'm missing "Golden Girls" for this.
+setting: reception room, evening|HELEN|(laughing hypocritically till Stella walks away) I hate her like poison.
+setting: reception room, evening|action|a few minutes later, the ceremony is about to begin. Someone in the crowd yells: "Hey Jack let's get started!" Everyone applause and we see, from left to right, all sitting on the same side of a long table, facing the public: Stella, Leo, Elaine, Jerry, Helen, Morty, Jack at the microphone, Doris, and four other people.
+setting: reception room, evening|JACK|(on the microphone) Ladies and gentlemen, as you know, every year, Phase Two of the Pines of Mark Gables honors the previous year president. And this year we are honoring Morty Seinfeld (the crowd applause and someone yells: Morty!) A man who slept more hours on the job than Ronald Reagan.
+setting: reception room, evening|MORTY|(to Helen) Slept on the job? (she shushed him)
+setting: reception room, evening|JACK|Being president of the condo is not easy. It requires hard work, dedication, and commitment, and unfortunately he possesses none of these qualities. (everyone laugh except Jerry, Helen, and Morty. Even Elaine who's still druggy)
+setting: reception room, evening|HELEN|(Morty complains again to Helen) He's joking.
+setting: reception room, evening|JACK|His administration did excel in one department: the hiring of incompetents.
+setting: reception room, evening|MORTY|(to Jack, loud) That's what you say.
+setting: reception room, evening|JACK|But we do owe him a debt of gratitude because by not fixing the crack in the sidewalk, he put Mrs Ziven out of commission for a few weeks. (Morty is now the only one not laughing)
+setting: reception room, evening|MORTY|(loud) Tell them when you took my son's pen back. Tell them about that! (he gets up)
+setting: reception room, evening|JERRY|Dad!
+setting: reception room, evening|MORTY|(to the crowd) He gave my son a pen, and then he takes it back. Tell them about that!
+setting: reception room, evening|JACK|He gave it to me!
+setting: reception room, evening|MORTY|Come on. That's enough, sit down!
+setting: reception room, evening|JACK|I'm not sitting down!
+setting: reception room, evening|action|they start to fight. Morty tries to get the microphone off Jack' hands. He yells to Jack to give him the pen. Jerry gets up and tries to separate them. We hear a feedback from the microphone and they stop to fight
+setting: reception room, evening|JACK|Ow! You broke my dental plate! (Jack is touching his dental plate while Morty reaches in Jack's pocket to get the pen) Doris! He broke my dental plate. You son-of-a-bitch! I'm gonna sue you. (he leaves the table and Morty follows him and continue arguing with him. Jerry now have the microphone in his hands and the crowd begins to think the ceremony is over.)
+setting: reception room, evening|HELEN|Jerry, do your act.
+setting: reception room, evening|JERRY|(in the microphone, but to Helen) I can't. Nobody's even listening.
+setting: reception room, evening|HELEN|They're all gonna leave.
+setting: reception room, evening|JERRY|(to himself) Oh God! (in the microphone) huh... Hey! How you folks doing tonight? (everybody in the crowd is talking over Jerry)
+setting: reception room, evening|JERRY|(still with his sunglasses) Have you ever noticed how they always give you the peanuts on the planes?
+setting: reception room, evening|action|Elaine is almost asleep at the table
+setting: reception room, evening|JERRY|Who ever thought the first thing somebody wants on a plane is a peanut?
+setting: reception room, evening|HELEN|(to Jerry) Do the dog routine.
+setting: reception room, evening|JERRY|All I said was I liked the pen!
+setting: reception room, evening|ELAINE|(wakes up and yells very loud) STELLA!
+setting: reception room, evening|action|Everybody stops talking and put their hands on their ears
+setting: reception room, evening|action|scene ends
+setting: condo, morning|action|Elaine is sitting on the couch and a chiro is examining her. Jerry's sitting next to her. Helen is standing beside them and Morty is still asleep in the guest room
+setting: condo, morning|CHIROPRACTOR|You could aggravate it. I wouldn't go anywhere for at least five days.
+setting: condo, morning|ELAINE|Five days? You want me to stay here for five more days?
+setting: condo, morning|JERRY|There must be some mistake.
+setting: condo, morning|CHIROPRACTOR|I'm afraid not.
+setting: condo, morning|ELAINE|(discouraged) Five days. Here.
+setting: condo, morning|HELEN|(to Jerry, happily) So we have you for five more days!
+setting: condo, morning|JERRY|(to Elaine) Well there's really no point in me staying. I mean you just gonna be...
+setting: condo, morning|ELAINE|Excuse me?
+setting: condo, morning|JERRY|Nothing.
+setting: condo, morning|action|Evelyn enters
+setting: condo, morning|EVELYN|Good morning.
+setting: condo, morning|JERRY|Hi Evelyn.
+setting: condo, morning|EVELYN|(to Helen) Has Morty decided on a lawyer yet?
+setting: condo, morning|HELEN|I don't think so.
+setting: condo, morning|EVELYN|Because my nephew Larry could do it. He's a brilliant lawyer. He says Jack has no case.
+setting: condo, morning|HELEN|Well I'll ask him when he gets up.
+setting: condo, morning|EVELYN|Oh, and I spoke to Arnold. And he says that according to the bylaws of the condo constitution, they need six votes to throw you out for unruly behavior. Not five. Doctor Chernov is the one you'll have to suck up to.
+setting: condo, morning|action|Morty gets up in a bad shape
+setting: condo, morning|MORTY|Aw! Aw! Oh my back! Oh my back! It's that bar. Who the hell could sleep on that thing?
+setting: condo, morning|HELEN|I was very comfortable.
+setting: condo, morning|EVELYN|Morty, Arnold says they need six votes to throw you out.
+setting: condo, morning|HELEN|It's in the constitution.
+setting: condo, morning|MORTY|(to the chiro) Who are you?
+setting: condo, morning|CHIROPRACTOR|I'm a chiropractor.
+setting: condo, morning|MORTY|What are you kidding me?
+setting: condo, morning|ELAINE|(to Jerry) Five more days?
+setting: condo, morning|JERRY|Well today's almost over. And weekdays always go by fast. Friday we're leaving. It's like two days really. It's like a cup of coffee. It will go by like that. (snapping his fingers)
+setting: condo, morning|action|scene ends
+setting: night club, closing monologue|JERRY|Is Florida not hot and muggy enough for these people? They love heat. I mean if they ever decide to land men on the sun, I think these old retired guys would be the only ones that will be able to handle it. They'll just sit there on the sun, on the redwood benches, washcloth on the head going: "Close the door, you're letting all the heat off the sun. I'm trying to get a sweat going."

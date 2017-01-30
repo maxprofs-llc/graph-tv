@@ -1,0 +1,266 @@
+Nightclub|JERRY|I've never been able to figure out why they make these bizarre toilet seats that they have. You know, like those clear Lucite ones, with all the, the coins in it? It's a lovely tribute to our past president, by the way. It's not bad enough Lincoln got shot in the head, we gotta pull down our pants and sit on him, too. It's just incomprehensible that you would buy a thing like this, you install it on your toilet seat, and this says what about you? "Well, I can't afford to just throw money down the toilet, but look how close I am!"
+Jerry's apartment|JERRY|I cannot believe Lindsay's still seeing you after that "Breakfast at Tiffany's" thing.
+Jerry's apartment|GEORGE|I think she finds my stupidity charming.
+Jerry's apartment|JERRY|As we all do.
+Jerry's apartment|GEORGE|Yeah, anyway, she's uh, having some kind of a family lunch, I'll swing by after.
+Jerry's apartment|JERRY|Oh, so you're gonna meet the mother?
+Jerry's apartment|GEORGE|Yeah, I'll zip in, "How do you do?", zip out. She'll love me.
+Jerry's apartment|JERRY|You're good with the mothers.
+Jerry's apartment|GEORGE|Y'know, I'm better with the mothers than I am with the daughters.
+Jerry's apartment|JERRY|Maybe you should date the mothers.
+Jerry's apartment|GEORGE|Well, if I could talk to the mothers and have sex with the daughters, then I'd really have something goin'.
+Jerry's apartment|JERRY|Oh, you got something goin'.
+Jerry's apartment|GEORGE|Yeah.
+Jerry's apartment|KRAMER|(enters apartment) Hey.
+Jerry's apartment|GEORGE|Hey! (heads toward bathroom)
+Jerry's apartment|KRAMER|Hey, you got a hammer?
+Jerry's apartment|JERRY|What do you need a hammer for?
+Jerry's apartment|KRAMER|Well, I got this new poster. 3-D art? Computers generate 'em.
+Jerry's apartment|JERRY|Oh, yeah! I wanna see that. Bring it over.
+Jerry's apartment|KRAMER|No, no, I don't have it now. I gotta pick it up at Mr. Pitt's. Elaine was framing a bunch of stuff for him, so she did me a favor. What, you wanna take a ride?
+Jerry's apartment|JERRY|Nah, I don't think so.
+Jerry's apartment|KRAMER|(shouting to the bathroom door) George, you wanna go for a ride?
+Jerry's apartment|GEORGE|(inside bathroom) Nah.
+Jerry's apartment|KRAMER|Oh, COME ON!
+Jerry's apartment|JERRY|Hey, could you wait until the man finishes?
+Jerry's apartment|KRAMER|All right, I've had it with you two. (opens apartment door to leave)
+Jerry's apartment|JERRY|Hey, guess what? Remember that woman you saw me with the other day? You know, she used to be an Olympic gymnast?
+Jerry's apartment|KRAMER|A gymnast!
+Jerry's apartment|JERRY|Yeah, she's Romanian, she won a silver at the '84 Olympics.
+Jerry's apartment|KRAMER|A gymnast, Jerry. Think of the flexibility. Mmm, that sex'll melt your face.
+Jerry's apartment|JERRY|Yeah, well, I think I'm bailing.
+Jerry's apartment|KRAMER|(shuts door) "Bailing"?
+Jerry's apartment|JERRY|Yeah, you know, Kramer, there's always a price to pay for just a sexual dalliance.
+Jerry's apartment|KRAMER|Jerry, you should pay that price.
+Jerry's apartment|JERRY|She's Romanian. What am I gonna talk to her about, Ceausescu?
+Jerry's apartment|KRAMER|Ch- oo-... what?
+Jerry's apartment|GEORGE|(emerging from bathroom, buttoning his shirt) A gymnast! I can't believe it, you didn't tell me she was a gymnast.
+Jerry's apartment|JERRY|(watching George buttoning his shirt) What is this?
+Jerry's apartment|GEORGE|What, I'm puttin' my shirt back on.
+Jerry's apartment|JERRY|(stares at George, incredulous) "Back on"? What was it doing off?
+Jerry's apartment|GEORGE|I take it off when I go to the, uh, y'know, to the "office".
+Jerry's apartment|JERRY|(laughing) What for?
+Jerry's apartment|GEORGE|Well, it frees me up. No encumbrances.
+Jerry's apartment|JERRY|Unbuttoned, or all the way off?
+Jerry's apartment|GEORGE|ALL the way, baby!
+Jerry's apartment|JERRY|Of course.
+Jerry's apartment|KRAMER|(convulses in pain) Yeow! Whoa.
+Jerry's apartment|JERRY|What, again? Kramer, if you keep getting these attacks, you should see the doctor and have it checked out.
+Jerry's apartment|KRAMER|(exiting apartment) Yeah, yeah, yeah...
+Jerry's apartment|JERRY|(picks up newspaper, turns to George) You always take the shirt off?
+Jerry's apartment|GEORGE|Always.
+Jerry's apartment|JERRY|Boy, I tell ya', knowing you is like going out in the jungle. I never know what I'm going to find next, and I'm real scared.
+Mr. Pitt's office|ELAINE|What meeting?
+Mr. Pitt's office|ELAINE|Oh! (tries to take paper)
+Mr. Pitt's office|ELAINE|Yes?
+Mr. Pitt's office|ELAINE|All right! I'll use a pencil, Mr. Pitt.
+Mr. Pitt's office|action|knock at door
+Mr. Pitt's office|KRAMER|Elaine?
+Mr. Pitt's office|ELAINE|Come in, come in!
+Mr. Pitt's office|KRAMER|Yeah. (enters, points at package) Yah, huh?
+Mr. Pitt's office|ELAINE|Ah, right there, yeah.
+Mr. Pitt's office|KRAMER|(rips open package) Yeah, that's...
+Mr. Pitt's office|ELAINE|Kramer, it's...
+Mr. Pitt's office|KRAMER|(holds up framed picture): There she blows! (throws paper around)
+Mr. Pitt's office|ELAINE|Kramer, Kramer, can you do this at home? I've got, I've got work to do, okay?
+Mr. Pitt's office|KRAMER|Oh, these are nice corners, huh?
+Mr. Pitt's office|KRAMER|(looking at picture) Yeah, it's 3-D art. Computers generate 'em. BIG computers.
+Mr. Pitt's office|KRAMER|Well, you blur your eyes like you're starin' straight through the picture. And you keep your eyes unfocused. And then... (Kramer and Pitt stare at picture) Oh, oh, oh, YEAH!
+Mr. Pitt's office|KRAMER|Yeah, it's a spaceship, surrounded by planets, asteroids...
+Mr. Pitt's office|ELAINE|Okay, Kramer, that's enough. Mr. Pitt has got work to do.
+Mr. Pitt's office|KRAMER|Ya' ever dream in 3-D? It's like the boogeyman is comin' right at you.
+Mr. Pitt's office|KRAMER|(pointing) Right in here. Just keep your eyes unfocused. (convulses in pain) Waahh! Oh, mama!
+Mr. Pitt's office|ELAINE|Kramer, what's wrong?
+Mr. Pitt's office|KRAMER|Mama!
+Mr. Pitt's office|ELAINE|Kramer, Kramer, are you okay?
+Mr. Pitt's office|KRAMER|I think I gotta go to the doctor! (exits) Oh, mama!
+Lindsay's mother's apartment|action|Lindsay's relatives are laughing, and George has apparently been witty and charming
+Lindsay's mother's apartment|LINDSAY|Mother...
+Lindsay's mother's apartment|GEORGE|Oh, no, no, not at all. No, I have always felt that the most important thing in the world is spending time with family.
+Lindsay's mother's apartment|GEORGE|(hesitates) Very close, yes. Almost painfully close.
+Lindsay's mother's apartment|LINDSAY|Mother, I'm going to walk Nana and Aunt Phyllis to the elevator. George, do you mind waiting just one more minute?
+Lindsay's mother's apartment|GEORGE|Mind? Why would I mind? I would love to wait! (shakes hands with Nana) Nana, nice to see you. Ni-ni-ni-ni-NANA! (embraces another guest, kisses her) Aunt Phyllis, always a pleasure. What a pleasure! Hey, let's do this again real soon. I had fun, huh?
+Lindsay's mother's apartment|GEORGE|Oh, no no no, I'm fine. Let me help you with these dishes, huh?
+Lindsay's mother's apartment|GEORGE|No, I know I don't have to, I want to.
+Lindsay's mother's apartment|GEORGE|I'd argue if I could, Mrs. Enright. (exits) Here we go, all right.
+Kitchen|action|George opens trash bin, sees an éclair at the top with one bite taken out of it. After looking around to make sure no one is watching, he picks up the éclair and takes a bite just as Mrs. Enright enters the kitchen.
+Kitchen|GEORGE|(spits out mouthful of food): Mrs. Enright! Mrs. Enright!
+Mr. Pitt's office|ELAINE|(pointing at 3-D picture) Look, there's a spaceship! That is so cool!
+Mr. Pitt's office|ELAINE|(pointing) Right here.
+Mr. Pitt's office|ELAINE|No, no, unfocus.
+Mr. Pitt's office|action|phone rings
+Mr. Pitt's office|ELAINE|(answering phone) Hello? Oh, yeah, okay fine. Uh, he'll be right down. (to Pitt) Car's here to pick you up and take you to the meeting.
+Mr. Pitt's office|ELAINE|Yeah, the Poland Creek merger?
+Mr. Pitt's office|ELAINE|How can I go?
+Mr. Pitt's office|ELAINE|Mr. Pitt, I do not think that is such a good idea.
+Jerry's car|JERRY|(trying desperately to make conversation) So, Ceausescu. He must've been some dictator.
+Jerry's car|KATYA|Oh yes. He was not shy about dictating.
+Jerry's car|JERRY|He, uh, he must've been dictating first thing in the morning. "I want a cup of coffee and a muffin!"
+Jerry's car|KATYA|And you could not refuse.
+Jerry's car|JERRY|No, you'd have to be crazy.
+Jerry's car|KATYA|He was a very bad dictator.
+Jerry's car|JERRY|Yes. Very bad. Very, very bad.
+Monk's Diner|JERRY|So lemme get this straight: you find yourself in the kitchen. You see an éclair, in the receptacle. And you think to yourself, "What the hell, I'll just eat some trash."
+Monk's Diner|GEORGE|No, no. No, no, no. It was not trash!
+Monk's Diner|JERRY|Was it in the trash?
+Monk's Diner|GEORGE|Yes.
+Monk's Diner|JERRY|Then it was trash.
+Monk's Diner|GEORGE|It wasn't down in, it was sort of on top.
+Monk's Diner|JERRY|But it was in the cylinder!
+Monk's Diner|GEORGE|Above the rim.
+Monk's Diner|JERRY|Adjacent to refuse, is refuse.
+Monk's Diner|GEORGE|It was on a magazine! And it still had the doily on.
+Monk's Diner|JERRY|Was it eaten?
+Monk's Diner|GEORGE|One little bite.
+Monk's Diner|JERRY|Well, that's garbage.
+Monk's Diner|GEORGE|But I know who took the bite. It was her aunt!
+Monk's Diner|JERRY|Well, you, my friend, have crossed the line that divides Man and Bum. You are now a Bum.
+Monk's Diner|action|Kramer enters, walking awkwardly
+Monk's Diner|JERRY|Hey!
+Monk's Diner|KRAMER|Hey.
+Monk's Diner|JERRY|What's with you?
+Monk's Diner|KRAMER|I got a stone.
+Monk's Diner|JERRY|What stone?
+Monk's Diner|KRAMER|A kidney stone.
+Monk's Diner|JERRY|What is that, anyway?
+Monk's Diner|KRAMER|It's a, it's a stony mineral concretion, formed abnormally in the kidney. And this jagged shard of calcium pushes its way through the ureter into the bladder. It's forced out through the urine!
+Monk's Diner|JERRY|Oh, that's gotta hurt.
+Poland Creek office|ARONSON|Our shareholders have given basic approval for the merger, including the stock swap.
+Poland Creek office|ELAINE|Ah. The "stock swap". Let's swap some stock. (giggles)
+Poland Creek office|BECK|And if you'll just give this to Mr. Pitt, and tell him we expect to be in full-scale production by the spring.
+Poland Creek office|ELAINE|All right. (standing up) Hey, you guys--what's the name of the new company gonna be?
+Poland Creek office|BECK|Moland Spring.
+Poland Creek office|ELAINE|(making a face) "Moland"?
+Poland Creek office|ARONSON|Yes, we combined Morgan and Poland.
+Poland Creek office|ELAINE|Yeah, I know, but... "Moland"? I wouldn't drink anything called "Moland".
+Poland Creek office|ARONSON|But it was Mr. Pitt's idea.
+Poland Creek office|ELAINE|Oh! Well, ah, what's in a name? I mean, water's water. Right?
+Poland Creek office|ARONSON|(to Beck) We've got to do something about that name.
+Jerry's apartment|GEORGE|(on phone, as Jerry gestures beside him) No, Lindsay, it was not IN the garbage. It was above the garbage. Hovering. Like an angel. Of course I know your aunt bit it. I kissed her goodbye. Listen, can I tell you something else? In my family, we used to eat out of the garbage all the time. (Jerry makes a face) It was no big thing. That's right. Oh, okay. Buh-bye. (hangs up phone) I'm back in, she gave me a second chance.
+Jerry's apartment|JERRY|Good for you.
+Jerry's apartment|GEORGE|Yes, good for me!
+Jerry's apartment|JERRY|Y'know what you should do now? Get her some flowers, smooth it out.
+Jerry's apartment|GEORGE|Yes, flowers. I will get her flowers, I will go to the florist!
+Jerry's apartment|KRAMER|(enters apartment, holding up videotape) Behold! The Games of the '84 Olympiad! Katya's silver medal performance! (inserts tape into VCR, sets up TV)
+Jerry's apartment|JERRY|Kramer, are you still on this? I've seen gymnasts. I know what they do. It's not going to make any difference.
+Jerry's apartment|KRAMER|Jerry, what is your problem?
+Jerry's apartment|JERRY|Kramer, y'know, guys like you, with no conscience, don't know what it's like for guys like me. I'm in the unfortunate position of having to consider people's feelings.
+Jerry's apartment|KRAMER|All right, Jerry--are you familiar with the Kama Sutra?
+Jerry's apartment|JERRY|No.
+Jerry's apartment|KRAMER|Tantric yoga?
+Jerry's apartment|JERRY|No.
+Jerry's apartment|KRAMER|Jerry, you stand on the threshold to the magical world of sensual delights that most men dare not dream of!
+Jerry's apartment|JERRY|Boy, you can really talk some trash. (to George) I guess that's better than eating it.
+Jerry's apartment|KRAMER|All right, all right, why don't we just watch the tape? (starts playback)
+Jerry's apartment|JERRY|All right.
+Jerry's apartment|GEORGE|Did you pass your stone yet?
+Jerry's apartment|KRAMER|Not yet. But the suspense is killing me.
+Jerry's apartment|JERRY|(pointing at TV) Hey, that's her!
+Jerry's apartment|KRAMER|Oh yeah. Oh yeah, that's her. (feminine grunts and sighs can be heard as they watch the tape) Look at the height, Jerry, the extension! Now watch the tuck. Handstand, half-turn, giant into a straddle, back into another handstand. Nice kip. Reverse hecht. Oh, nice leg extension, good form! Now, here comes the big dismount. Look at the rotation, full in, double back, and she sticks the landing! (gets up to leave as George and Jerry continue to watch, mouths agape) Perhaps you'd like to keep the tape? (silence) Well, I'll take that as a yes.
+Jerry's car, night|JERRY|(smiling and excited) Well, here we are.
+Jerry's car, night|KATYA|Yes. We are here.
+Jerry's car, night|JERRY|How did you stay on that beam like that? (holds up hand) I mean, it's only this wide!
+Jerry's car, night|KATYA|I can balance myself in any position.
+Jerry's car, night|action|Jerry swallows
+Jerry's car, night|KATYA|It is amazing after years of training how one can contort one's body. Of course, it is only useful in gymnastics.
+Jerry's car, night|JERRY|Oh boy...
+Jerry's apartment, morning|JERRY|I couldn't believe it. Uh, I mean I thought I was entering a "magical world" of sensual delights, but it was just so ordinary. I mean, there was nothing gymnastic about it.
+Jerry's apartment, morning|ELAINE|Well, what did you think she was gonna do?
+Jerry's apartment, morning|JERRY|Well, you know. I mean... I dunno.
+Jerry's apartment, morning|ELAINE|No, what?
+Jerry's apartment, morning|JERRY|Well, obviously I prefer not to mention any, you know...
+Jerry's apartment, morning|ELAINE|What did you think, she was going to take some of that chalk and...
+Jerry's apartment, morning|JERRY|You see, now I really don't want to get into this, any kind of specifics...
+Jerry's apartment, morning|ELAINE|Oh, come on. One thing? One thing! What?
+Jerry's apartment, morning|JERRY|Well... Frankly, I thought, you know, I was gonna kinda' be like the apparatus.
+Jerry's apartment, morning|KRAMER|You mean like the uneven parallel bars?
+Jerry's apartment, morning|JERRY|See, again, I really don't feel that...
+Jerry's apartment, morning|ELAINE|The balance beam?
+Jerry's apartment, morning|JERRY|Could we stop?
+Jerry's apartment, morning|ELAINE|(gasps in mock surprise) Not the pommel horse?
+Jerry's apartment, morning|JERRY|All right. Let's just drop it.
+Jerry's apartment, morning|action|Jerry and Elaine move to couch
+Jerry's apartment, morning|JERRY|So lemme ask you this: how long would you say I have to put in now because of, you know, last night.
+Jerry's apartment, morning|ELAINE|I dunno, at least three weeks.
+Jerry's apartment, morning|JERRY|(sarcastic) Oh, great.
+Jerry's apartment, morning|ELAINE|Jerry, that is such small potatoes. I think that I may have single-handedly put the kibosh on the big water merger.
+Jerry's apartment, morning|JERRY|Between Poland and Morgan?
+Jerry's apartment, morning|ELAINE|Yeah. Started a big name controversy.
+Jerry's apartment, morning|action|Kramer shouts from off-screen
+Jerry's apartment, morning|JERRY|Kramer! The stone!
+Jerry's apartment, morning|action|Jerry and Elaine rush to Kramer's apartment, stand in doorway
+Jerry's apartment, morning|JERRY|What happened, did you pass the stone?
+Jerry's apartment, morning|KRAMER|(Off-screen) No, I tried to do a reverse hecht off my couch and I didn't make it.
+City street|GEORGE|(singing as he exits florist with bouquet and a cup of coffee) "...tootsie, good-bye. Too-too, tootsie..." (takes a drink, makes a face, shouts back at shop) You call this coffee? (dumps out coffee behind him, accidentally hitting a parked car's windshield)
+City street|GEORGE|I'm sorry! I'm terribly sorry! I- I-
+City street|GEORGE|Oh, sure. Of course. (looks for place to set down flowers) Um, uh, could you hold these? For just a second, just a second. (grabs newspapers from trash bin, begins wiping windshield) Here you go, now don't worry about a thing. It's gonna be fine. Here we go. Look at this shine.
+City street|GEORGE|Look at this sparkle. (looks up, sees Lindsay's mother) Mrs. Enright! (runs after her) Mrs. Enright! Mrs. Enright!
+Jerry's apartment|GEORGE|(on phone, as Jerry gestures beside him) No, Lindsay, I had accidentally spilled coffee on the gentleman's windshield. Why would I do that? I have a job! Well, did she see a squeegee? Well, you're not going to make a dime without a squeegee. That's right, that's right, just tell your mother it was all a big misunderstanding. You won't regret it. Okay, I'll see you later. Buh-bye. (hangs up)
+Jerry's apartment|JERRY|Strike two!
+Jerry's apartment|GEORGE|You think I'm going down?
+Jerry's apartment|JERRY|You're behind in the count.
+Jerry's apartment|GEORGE|I know.
+Jerry's apartment|KRAMER|(enters apartment, points at Jerry) Hey, what are you doing later?
+Jerry's apartment|JERRY|I'm going out with Katya, thanks to you.
+Jerry's apartment|KRAMER|Well, maybe you should try again. You know what happens the first time: people are a little shy, a little reticent.
+Jerry's apartment|JERRY|If I do it again, that extends my payment book another two weeks.
+Jerry's apartment|KRAMER|All right, where you going?
+Jerry's apartment|JERRY|We're going to the circus. One of her old Olympic teammates is an acrobat. I don't even feel like going out.
+Jerry's apartment|KRAMER|Well, Jerry, it's your obligation. C'mon.
+Jerry's apartment|JERRY|Yeah, well, y'know what? If I gotta go, and spend time with this girl, then you're coming with me, Dr. Cyclops!
+Jerry's apartment|KRAMER|No, no, no, I don't wanna go to the circus, Jerry.
+Jerry's apartment|JERRY|Yeah, well you're going.
+Jerry's apartment|KRAMER|Yeah, but I'm afraid of clowns!
+Mr. Pitt's office|ELAINE|Well, I couldn't help it. "Moland Spring"?
+Mr. Pitt's office|ELAINE|Well, I'm so sorry! I-
+Mr. Pitt's office|ELAINE|Oh, sorry. (picks up phone) Hello?
+Circus, backstage|action|Clowns rush by Jerry and Kramer, Kramer flinches in fear
+Circus, backstage|KATYA|So, Jerry, you're enjoying the circus?
+Circus, backstage|JERRY|"Greatest Show on Earth"!
+Circus, backstage|KATYA|My father used to take me to the circus. When the elephants came by, he would scream curses at them, blaming them for all the ills of society.
+Circus, backstage|JERRY|Well, they certainly take up a lot of space.
+Circus, backstage|action|Katya's friend walks up
+Circus, backstage|KATYA|Ah, Misha!
+Circus, backstage|MISHA|Katya!
+Circus, backstage|KATYA|Misha, this is Jerry.
+Circus, backstage|MISHA|Ah, yes. The "co-me-dian", eh? (speaks in Romanian to Katya)
+Circus, backstage|KATYA|(laughs, replies in Romanian while pointing at Jerry)
+Mr. Pitt's office|ELAINE|(on phone) Oh, yes, yes I'll tell him. Yes, thank you. Um, um hold on. (to Pitt) Mr. Pitt!
+Mr. Pitt's office|ELAINE|Mr. Pitt! The board of directors is on the phone. They've called an emergency meeting. They want you to be there to discuss the merger!
+Mr. Pitt's office|ELAINE|(on phone) Yes, hi. Okay, fine, yeah, hold on just a second. Lemme just... (reaches into purse) Yeah, I've got it... (pulls out both hands completely covered in black ink) Oh! Oh! Yeah, yeah, he'll be there. (drops phone, rushes to Pitt) Mr. Pitt, you have GOT to stop staring at that poster!
+Mr. Pitt's office|ELAINE|(grabs poster, smashes it) No, you don't see it, and you're never going to see it! (grabs Pitt by the lapels, getting ink all over his jacket) Mr. Pitt, you have to meet with the shareholders, you have to leave now. Do you hear me? Do you hear me?!
+Mr. Pitt's office|ELAINE|In about twenty minutes.
+Mr. Pitt's office|ELAINE|Um, no.
+Mr. Pitt's office|ELAINE|Uh, Mr. Pitt...
+Mr. Pitt's office|ELAINE|Um, there's a just... (points at her own upper lip)
+Mr. Pitt's office|ELAINE|No?
+Mr. Pitt's office|action|Pitt exits
+George's car|GEORGE|Well, here we are.
+George's car|LINDSAY|Do you want to come in? My mother's having a little party.
+George's car|GEORGE|Maybe I could just use the bathroom.
+George's car|LINDSAY|Sure.
+Circus, back stage|ANNOUNCER|(voiceover) Ladies and gentlemen, could I direct your attention to the center ring, where the incomparable Misha will balance ten stories above the circus floor on a wire no wider than a human thumb.
+Circus, back stage|MISHA|It is time.
+Circus, back stage|JERRY|Well, break a leg.
+Circus, back stage|action|Misha gives Jerry a dark look
+Circus, back stage|JERRY|Eh, show biz...
+Circus, back stage|ANNOUNCER|Ladies and gentlemen, the incomparable Misha!
+Circus, back stage|action|Misha exits
+Circus, back stage|JERRY|Boy, those capes are really coming back.
+Lindsay's mother's apartment|action|George enters bathroom
+Circus|action|Kramer repeatedly convulses in pain, spilling popcorn and food everywhere, enters Men's room
+Circus|action|Misha walks slowly across tightrope
+Circus|action|Long scream bellows forth from Men's room, causing other occupant to flee and Misha to wobble
+Circus, back stage|JERRY|What is that sound?
+Circus, back stage|KATYA|(covering ears) It is horrible!
+Circus, back stage|action|Shots of various circus performers reacting to the reverberating scream. Misha falls off the tightrope as audience gasps in horror
+Lindsay's mother's apartment|action|George emerges from bathroom, shirtless and rubbing eyes
+Lindsay's mother's apartment|GEORGE|Whew! Anybody see that poster in there? That is weird, wild stuff, huh? Whew!
+Lindsay's mother's apartment|action|George looks around and sees all the party guests staring at him, then realizes he's shirtless. Tries to act casual
+Morgan Springs shareholder meeting|action|Mr. Pitt stands at a podium, and still has the small black "ink moustache". He speaks harshly and with conviction, gesturing emphatically.
+Circus, back stage|KATYA|He'll be all right. I must go and be with Misha now. I don't want you to come with me.
+Circus, back stage|JERRY|Oh, why not?
+Circus, back stage|KATYA|It has been three days since our night together. Misha said that was all the time I needed to put in.
+Circus, back stage|JERRY|Really?
+Circus, back stage|KATYA|In my country, they speak of a man so virile, so potent, that to spend a night with such a man is to enter a world of such sensual delights most women dare not dream of. This man is known as the "Comedian". You may tell jokes, Mr. Jerry Seinfeld, but you are no Comedian. (walks off)
+Circus, Men's room|action|Kramer walks out, jubilant and whistling

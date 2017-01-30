@@ -1,0 +1,301 @@
+Jerry and a woman are eating at a restaurant.|WOMAN|Well I started out working in mortgage bonds, but I just found that so limiting.
+Jerry and a woman are eating at a restaurant.|JERRY|My friend Kramer and I were discussing that same thing the other day. He was with Brant-Leland for a while.
+Jerry and a woman are eating at a restaurant.|WOMAN|Wow. Well then my mentor suggested that I move into equities, best move I ever made.
+Jerry and a woman are eating at a restaurant.|JERRY|Mentor? You mean your boss.
+Jerry and a woman are eating at a restaurant.|WOMAN|Oh, no no no, Cynthia's just a successful businesswoman who's taken me under her wing.
+Jerry and a woman are eating at a restaurant.|JERRY|Hmm. So Cynthia's your mentor.
+Jerry and a woman are eating at a restaurant.|WOMAN|And I'm her protégé. You must have someone like that. You know, who guides you in your career path.
+Jerry and a woman are eating at a restaurant.|JERRY|Well, I like Gabe Kaplan.
+George and Jerry are in Jerry's apartment.|GEORGE|I still don't understand this. Abby has a mentor?
+George and Jerry are in Jerry's apartment.|JERRY|Yes. And the mentor advises the protégé.
+George and Jerry are in Jerry's apartment.|GEORGE|Is there any money involved?
+George and Jerry are in Jerry's apartment.|JERRY|No.
+George and Jerry are in Jerry's apartment.|GEORGE|So what's in it for the mentor?
+George and Jerry are in Jerry's apartment.|JERRY|Respect, admiration, prestige.
+George and Jerry are in Jerry's apartment.|GEORGE|Pssh. Would the protégé pick up stuff for the mentor?
+George and Jerry are in Jerry's apartment.|JERRY|I suppose if it was on the protégé's way to the mentor, they might.
+George and Jerry are in Jerry's apartment.|GEORGE|Laundry? Dry cleaning?
+George and Jerry are in Jerry's apartment.|JERRY|It's not a valet, it's a protégé.
+George and Jerry are in Jerry's apartment.|GEORGE|Alright. Listen, I gotta get some reading done. You mind if I do this here? I can't concentrate in my apartment.
+George and Jerry are in Jerry's apartment.|JERRY|(checking out George's textbook) Risk management?
+George and Jerry are in Jerry's apartment.|GEORGE|Yeah. Steinbrenner wants everyone in the front office to give a lecture in their area of business expertise.
+George and Jerry are in Jerry's apartment.|JERRY|Well what makes them think you're a risk management expert?
+George and Jerry are in Jerry's apartment.|GEORGE|I guess it's on my resume.
+George and Jerry are in Jerry's apartment.|action|The phone rings, Jerry answers.
+George and Jerry are in Jerry's apartment.|JERRY|Hello?
+George and Jerry are in Jerry's apartment.|VOICE|Please hold for Elaine Benes.
+George and Jerry are in Jerry's apartment.|GEORGE|You know what? I can't do this. I can't read books anymore; books on tape have ruined me, Jerry. I need that nice voice. This book has *my* voice. I hate my voice.
+George and Jerry are in Jerry's apartment.|JERRY|So get this book on tape.
+George and Jerry are in Jerry's apartment.|GEORGE|You can't, it's a textbook.
+George and Jerry are in Jerry's apartment.|ELAINE|Hey, Jer. Are you going to this Bob Sacamano party?
+George and Jerry are in Jerry's apartment.|JERRY|Am I going? It was three nights ago.
+George and Jerry are in Jerry's apartment.|ELAINE|What? You're kidding, I just got this invitation today. Oh, I was so excited. It's really a beautiful invitation.
+George and Jerry are in Jerry's apartment.|JERRY|Oh, it was a lovely affair.
+George and Jerry are in Jerry's apartment.|ELAINE|Wait a minute; this postmark is three weeks old. Man, this happens all the time. (Into intercom) Jeanine? Who the hell runs the mailroom?
+George and Jerry are in Jerry's apartment.|JEANINE|Eddie Sherman.
+George and Jerry are in Jerry's apartment.|ELAINE|Alright, send him up here.
+George and Jerry are in Jerry's apartment.|JERRY|You gonna do a little yelling?
+George and Jerry are in Jerry's apartment.|ELAINE|I'm gonna do a little firing.
+George and Jerry are in Jerry's apartment.|JERRY|That is so cool, can you put me on the speaker?
+George and Jerry are in Jerry's apartment.|ELAINE|Oh yeah, sure. (hangs up) Gimme a break.
+George and Jerry are in Jerry's apartment.|action|Jerry gets a dial tone and hangs up; he looks over at George who has nodded off with the book in his lap. Jerry picks up a peanut and tosses it at George, hitting him in the glasses and waking him up.
+George and Jerry are in Jerry's apartment.|JERRY|Hey, Copernicus?
+Elaine's office.|JEANINE|Eddie Sherman is here.
+Elaine's office.|ELAINE|Oh, great. Send him in.
+Elaine's office.|action|Eddie Sherman walks in dressed in full military fatigues. He speaks in a raspy voice.
+Elaine's office.|EDDIE|You wanted to see me?
+Elaine's office.|ELAINE|Eddie. Yes, um, I am so sorry but I'm afraid we're gonna have to... promote you.
+Elaine and Jerry are at the coffee shop.|JERRY|So, what did you say?
+Elaine and Jerry are at the coffee shop.|ELAINE|Well, I called him all the way up to my office, so I had to tell him something important. So I promoted him.
+Elaine and Jerry are at the coffee shop.|JERRY|What? What did you--
+Elaine and Jerry are at the coffee shop.|ELAINE|Copywriter.
+Elaine and Jerry are at the coffee shop.|JERRY|He's writing copy?
+Elaine and Jerry are at the coffee shop.|ELAINE|Well it can't be any worse than the pointless drivel we normally churn out.
+Elaine and Jerry are at the coffee shop.|action|Kramer walks in carrying a stack of flyers, he hands a few to Jerry and Elaine.
+Elaine and Jerry are at the coffee shop.|KRAMER|Yowza yowza. Check it out.
+Elaine and Jerry are at the coffee shop.|JERRY|(reading) Jewish singles night?
+Elaine and Jerry are at the coffee shop.|KRAMER|I expect you both to be there.
+Elaine and Jerry are at the coffee shop.|ELAINE|I'm not Jewish.
+Elaine and Jerry are at the coffee shop.|KRAMER|Well neither am I.
+Elaine and Jerry are at the coffee shop.|JERRY|Well why are you going?
+Elaine and Jerry are at the coffee shop.|KRAMER|I'm not, I'm running it.
+Elaine and Jerry are at the coffee shop.|JERRY|What are you talking about?
+Elaine and Jerry are at the coffee shop.|KRAMER|Well Lomez, he usually runs it but he's in the Everglades.
+Elaine and Jerry are at the coffee shop.|JERRY|Lomez is Jewish?
+Elaine and Jerry are at the coffee shop.|KRAMER|Oh yeah yeah yeah. Orthodox, Jerry. Old school.
+Elaine and Jerry are at the coffee shop.|ELAINE|(reading) At the Knights of Columbus?
+Elaine and Jerry are at the coffee shop.|KRAMER|Yeah, Frank Costanza, he's getting me a room at his lodge. So Jerry, you know I'm really counting on you to come to this.
+Elaine and Jerry are at the coffee shop.|JERRY|Kramer, you know, I--
+Elaine and Jerry are at the coffee shop.|KRAMER|No, Jerry, look I'm cooking all the food myself.
+Elaine and Jerry are at the coffee shop.|ELAINE|(reading) A tempting schmear of authentic Jewish delicacies.
+Elaine and Jerry are at the coffee shop.|KRAMER|Do you like tsimmis?
+Jerry and Abby are being seated in a restaurant.|ABBY|My mentor says the duck is outstanding here.
+Jerry and Abby are being seated in a restaurant.|JERRY|I'm not really a duck fan, the skin seems sort of human.
+Jerry and Abby are being seated in a restaurant.|ABBY|Oh! Look who's here, Cynthia!
+Jerry and Abby are being seated in a restaurant.|CYNTHIA|Hello, Abby.
+Jerry and Abby are being seated in a restaurant.|ABBY|Hello. Jerry, this is Cynthia Pearlman, my mentor.
+Jerry and Abby are being seated in a restaurant.|JERRY|Hello.
+Jerry and Abby are being seated in a restaurant.|CYNTHIA|Hi Jerry, nice to finally meet you.
+Jerry and Abby are being seated in a restaurant.|ABBY|Well come join us, we could pull up a chair.
+Jerry and Abby are being seated in a restaurant.|CYNTHIA|Great, my boyfriend's just parking the car. Actually, Jerry, you
+Jerry and Abby are being seated in a restaurant.|JERRY|No kidding?
+Jerry and Abby are being seated in a restaurant.|CYNTHIA|Kenny Bania.
+Jerry and Abby are being seated in a restaurant.|JERRY|Bania?
+Jerry and Abby are being seated in a restaurant.|action|Bania enters.
+Jerry and Abby are being seated in a restaurant.|BANIA|Hey, Jerry!! How's it going?! You gonna join us for dinner? The duck here's the best. The best, Jerry.
+George is on the subway, seated beside a blind man wearing headphones.|GEORGE|Excuse me, I'm sorry to bother you, I noticed that you have a textbook on tape. May I ask where you got that?
+George is on the subway, seated beside a blind man wearing headphones.|MAN|Reading for the Blind. They can get any book on tape.
+George is on the subway, seated beside a blind man wearing headphones.|GEORGE|I tell ya, I am hooked on these books on tape.
+George is on the subway, seated beside a blind man wearing headphones.|MAN|Oh, tell me about it. These things have ruined me for Braille.
+George and Jerry are at Jerry's apartment.|JERRY|Reading for the Blind?
+George and Jerry are at Jerry's apartment.|GEORGE|I take an eye test; I flunk it, the next thing you know I am swinging to the sweet sounds of risk management.
+George and Jerry are at Jerry's apartment.|JERRY|So, I finally met the mentor.
+George and Jerry are at Jerry's apartment.|GEORGE|What's she like? Impressive?
+George and Jerry are at Jerry's apartment.|JERRY|Oh yeah, she's dating Bania.
+George and Jerry are at Jerry's apartment.|GEORGE|Bania?
+George and Jerry are at Jerry's apartment.|JERRY|Yeah. I had to spend two hours at dinner last night with that specimen.
+George and Jerry are at Jerry's apartment.|GEORGE|What did you have?
+George and Jerry are at Jerry's apartment.|JERRY|Chicken, how could she look up to a person who voluntarily spends time with Bania?
+George and Jerry are at Jerry's apartment.|GEORGE|Marsala?
+George and Jerry are at Jerry's apartment.|JERRY|Piccata, if anything I should be dating a mentor and Bania should be setting pins in a bowling alley.
+George and Jerry are at Jerry's apartment.|JERRY|Hey, good luck with that.
+George and Jerry are at Jerry's apartment.|GEORGE|Thank you.
+George and Jerry are at Jerry's apartment.|action|George opens the door to see Kramer and Frank leaving Kramer's apartment.
+George and Jerry are at Jerry's apartment.|GEORGE|Dad.
+George and Jerry are at Jerry's apartment.|FRANK|What are you wearing, an athletic sweat suit?
+George and Jerry are at Jerry's apartment.|GEORGE|What are you doing here?
+George and Jerry are at Jerry's apartment.|KRAMER|Well, he came by to pick up his check for the banquet hall. You know I got a hundred and eighty-three responses? Oh, it's gonna be a rager.
+George and Jerry are at Jerry's apartment.|JERRY|Kramer, how are you gonna cook Jewish delicacies for a hundred and eighty-three people?
+George and Jerry are at Jerry's apartment.|KRAMER|Yeah, you're right. That's a lot of pupkitz. Hey Frank, you know anybody who can help me cook?
+George and Jerry are at Jerry's apartment.|FRANK|Cook? No, I don't know any cooks. I don't know anything about cooking!
+George and Jerry are at Jerry's apartment.|action|Frank storms out of the apartment.
+George and Jerry are at Jerry's apartment.|KRAMER|What's the matter with him?
+George and Jerry are at Jerry's apartment.|GEORGE|My dad was a cook during the Korean War. Something very bad happened, ever since you can't get him near a kitchen.
+George and Jerry are at Jerry's apartment.|KRAMER|Shell-shocked?
+George and Jerry are at Jerry's apartment.|GEORGE|Oh yeah, but that has nothing to do with it.
+Elaine is wrapping up a meeting at Peterman's.|ELAINE|That's good work, guys. That aught to do it for today.
+Elaine is wrapping up a meeting at Peterman's.|EDDIE|Wait. You didn't ask me about my ideas.
+Elaine is wrapping up a meeting at Peterman's.|ELAINE|Oh, Eddie, well it's your first day.
+Elaine is wrapping up a meeting at Peterman's.|EDDIE|I'm ready.
+Elaine is wrapping up a meeting at Peterman's.|ELAINE|Oh, okay.
+Elaine is wrapping up a meeting at Peterman's.|EDDIT|(reading) It's a hot night. The mind races. You think about your knife; the only friend who hasn't betrayed you, the only friend who won't be dead by sun up. Sleep tight, mates, in your quilted Chambray nightshirts.
+Elaine and Jerry are at the coffee shop.|ELAINE|What am I gonna do? He is a disaster.
+Elaine and Jerry are at the coffee shop.|JERRY|Well, if he's doing that bad, maybe he's in line for another promotion.
+Elaine and Jerry are at the coffee shop.|ELAINE|You know what? You are exactly right. That is what I should do, I should promote him. I'll give him another office on another floor and he can sit there with his nice title and his bayonet and stop freakin' me out.
+George is taking an eye exam.|GEORGE|Nothing at all.
+George is taking an eye exam.|DOCTOR|Well George, your vision is quite impaired. If you'll just sign this insurance form, here's a pen.
+George is taking an eye exam.|action|George reaches for the pen and grabs the Doctor's face.
+George is taking an eye exam.|GEORGE|You're a very handsome man, by the way.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|What the hell is going on here?
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|action|Kramer comes running in holding a scalding pot full of dumplings, he drops the pot into the sink and cools his burnt fingers.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|What are you doing?
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|KRAMER|I got three kitchens going. I got brisket going at Newman's, I got kugel working at Mrs. Zamfino's, this is kreplach. Here, try some of this.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|No, I don't want to.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|KRAMER|Eat, eat! You're skin and bones.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|action|Jerry gabs a fork and tastes a piece.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|KRAMER|Hah?
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|Oh, this is awful.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|KRAMER|Jerry, it's kreplach. It's an acquired taste, yeah.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|action|Kramer bites into one and spits it out.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|Did you follow the recipe?
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|KRAMER|The recipe was for four to six people; I had to multiply for a hundred and eighty-three people. I guess I got confused.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|It tastes like dirt.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|KRAMER|Well I also dropped it on the way over. Look I'm in trouble, I got no skills. I can't peel, I can't chop, I can't grate. I can't mince! I got no sense of flavor, obviously. You know, I gotta talk to Frank.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|Kramer, you can't talk to Frank.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|KRAMER|No I gotta talk to him, I know that he can help me, Jerry.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|action|Abby walks in.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|ABBY|I think there's a dead animal in the elevator.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|KRAMER|My stuffed cabbage!
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|action|Kramer runs out.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|ABBY|So, great dinner last night.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|Yeah, it was alright.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|ABBY|I told Cynthia we'd double with her and Bania Saturday and then catch his act.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|No. No, no way, no Bania.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|ABBY|What?
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|Have you seen his act? He's got a twelve-minute bit about Ovaltine. He's a punk, a patsy, a hack.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|ABBY|Cynthia would not date a hack.
+Jerry walks into his apartment; there are pots and pans bubbling on the stove.|JERRY|Would. Does. Is.
+Elaine is chairing a meeting at Peterman's.|ELAINE|Before we get started, I am happy to tell you that Eddie Sherman is no longer writing for this catalog.
+Elaine is chairing a meeting at Peterman's.|action|There are general remarks of relief from the meeting attendees.
+Elaine is chairing a meeting at Peterman's.|ELAINE|He's upstairs, I made him Director of Corporate Development.
+Elaine is chairing a meeting at Peterman's.|EMPLOYEE|You promoted him?
+Elaine is chairing a meeting at Peterman's.|ELAINE|Well, no, I would hardly--
+Elaine is chairing a meeting at Peterman's.|EMPLOYEE|I bust my hump ever day.
+Elaine is chairing a meeting at Peterman's.|ELAINE|Relax--
+Elaine is chairing a meeting at Peterman's.|EMPLOYEE|As far as I'm concerned, you and your deranged protégé can run the catalog by yourselves! I quit!
+Elaine is chairing a meeting at Peterman's.|action|What follows is a chorus of "me too"s and "I'm with him"s as everybody walks out.
+Elaine is chairing a meeting at Peterman's.|ELAINE|Well, hey? Hey. Hey!!
+George is in his office at Yankee stadium, he pushes 'play' on a cassette recorder. The voice on the tape sounds exactly like George.|VOICE|Chapter one. In order to manage risk we must first understand risk. How do you spot risk? How do you avoid risk and what makes it so risky?
+George is in his office at Yankee stadium, he pushes 'play' on a cassette recorder. The voice on the tape sounds exactly like George.|GEORGE|This guy sounds just like me.
+George is in his office at Yankee stadium, he pushes 'play' on a cassette recorder. The voice on the tape sounds exactly like George.|VOICE|To understand risk, we must first define risk.
+George is in his office at Yankee stadium, he pushes 'play' on a cassette recorder. The voice on the tape sounds exactly like George.|GEORGE|This is horrible.
+George is in his office at Yankee stadium, he pushes 'play' on a cassette recorder. The voice on the tape sounds exactly like George.|VOICE|Risk is defined as--
+George is in his office at Yankee stadium, he pushes 'play' on a cassette recorder. The voice on the tape sounds exactly like George.|GEORGE|(banging the recorder) Stop it! Stop it!
+Kramer is at Frank's.|KRAMER|C'mon Frank, I need you. I mean the war was fifty years ago.
+Kramer is at Frank's.|FRANK|In my mind, there's a war still going on.
+Kramer is at Frank's.|KRAMER|Alright, what happened, Frank? What is it that you can't get over?
+Kramer is at Frank's.|action|Frank pours a shot of whiskey and drinks it.
+Kramer is at Frank's.|FRANK|Inchon, Korea, 1950. I was the best cook Uncle Sam ever saw, slinging hash for the Fighting 103rd. As we marched north, our supply lines were getting thin. One day a couple of GIs found a crate, inside were six hundred pounds of prime Texas steer. At least it once was prime. The Use date was three weeks past, but I was arrogant, I was brash, I thought if I used just the right spices, cooked it long enough...
+Kramer is at Frank's.|KRAMER|What happened?
+Kramer is at Frank's.|FRANK|I went too far. I over seasoned it. Men were keeling over all around me. I can still hear the retching, the screaming. I sent sixteen of my own men to the latrines that night. They were just boys.
+Kramer is at Frank's.|KRAMER|Frank, you were a boy too. And it was war. It was a crazy time for everyone.
+Kramer is at Frank's.|FRANK|Tell that to Bobby Colby. All that kid wanted to do was go home. Well he went home alright, with a crater in his colon the size of a cutlet. Had to sit him on a cork the eighteen-hour flight home!
+Kramer is at Frank's.|KRAMER|Frank, now listen to me. Two hundred Jewish singles need you. This is your chance to make it all right again.
+Kramer is at Frank's.|FRANK|No. No, I'll never cook again! Never! Now get out of my house!! Get out. Go.
+Jerry and Abby are in Jerry's apartment.|JERRY|So you saw Bania's act?
+Jerry and Abby are in Jerry's apartment.|ABBY|He got two minutes into that Ovaltine thing and I just couldn't take it anymore.
+Jerry and Abby are in Jerry's apartment.|JERRY|I told you, it's like getting beaten with a bag of oranges.
+Jerry and Abby are in Jerry's apartment.|ABBY|Why is he so obsessed with Ovaltine?
+Jerry and Abby are in Jerry's apartment.|JERRY|He just thinks that anything that dissolves in milk is funny.
+Jerry and Abby are in Jerry's apartment.|ABBY|Anyway, Cynthia and I got into this big argument afterwards and I think it's over.
+Jerry and Abby are in Jerry's apartment.|JERRY|No more mentor?
+Jerry and Abby are in Jerry's apartment.|ABBY|Looks that way.
+Jerry and Abby are in Jerry's apartment.|JERRY|Well at least you and I are okay again.
+Jerry and Abby are in Jerry's apartment.|ABBY|Actually I was kind of thinking that maybe we shouldn't see each other for a while.
+Jerry and Abby are in Jerry's apartment.|JERRY|Why?
+Jerry and Abby are in Jerry's apartment.|ABBY|Well I'm feeling a little disoriented. It's just weird for me not to have an advisor.
+Jerry and Abby are in Jerry's apartment.|JERRY|I can tell you what to do.
+Jerry and Abby are in Jerry's apartment.|ABBY|No, it's more than that.
+Jerry and Abby are in Jerry's apartment.|JERRY|I can tell you what to think.
+Jerry and Abby are in Jerry's apartment.|ABBY|I need someone I can trust.
+Jerry and Abby are in Jerry's apartment.|JERRY|Oh.
+Jerry and Abby are in Jerry's apartment.|action|George busts in.
+Jerry and Abby are in Jerry's apartment.|GEORGE|I got a big problem here, Jerry. The tapes are worthless.
+Jerry and Abby are in Jerry's apartment.|JERRY|Kind of in the middle of something here, George.
+Jerry and Abby are in Jerry's apartment.|action|George shuts up and relaxes on the couch.
+Jerry and Abby are in Jerry's apartment.|JERRY|George?
+Jerry and Abby are in Jerry's apartment.|ABBY|I gotta run anyway.
+Jerry and Abby are in Jerry's apartment.|JERRY|I can't believe you feel you really need a mentor.
+Jerry and Abby are in Jerry's apartment.|ABBY|I just need someone who can give me some kind of direction. I'll see ya.
+Jerry and Abby are in Jerry's apartment.|JERRY|Yeah, see ya.
+Jerry and Abby are in Jerry's apartment.|action|Abby leaves and George gets up and runs out the door after her.
+Jerry and Abby are in Jerry's apartment.|JERRY|What's your problem.
+Jerry and Abby are in Jerry's apartment.|action|George runs back.
+Jerry and Abby are in Jerry's apartment.|GEORGE|No problem.
+Jerry and Abby are in Jerry's apartment.|action|George runs away again.
+Elaine and Eddie Sherman are alone in the office working on writing copy.|EDDIE|Hey, I think I got something here. The Bengalese Galoshes.
+Elaine and Eddie Sherman are alone in the office working on writing copy.|ELAINE|Oh.
+Elaine and Eddie Sherman are alone in the office working on writing copy.|EDDIE|(reading) It's tough keeping your feet dry when you're kicking in a skull.
+Elaine and Eddie Sherman are alone in the office working on writing copy.|ELAINE|You know, Eddie, that might be just a tad harsh for womenswear.
+Elaine and Eddie Sherman are alone in the office working on writing copy.|EDDIE|Well, I'm not married to it.
+Elaine and Eddie Sherman are alone in the office working on writing copy.|EDDIE|Dewy meadow.
+Frank and Estelle are in their kitchen.|ESTELLE|Here's your omelet.
+Frank and Estelle are in their kitchen.|FRANK|It's dry.
+Frank and Estelle are in their kitchen.|ESTELLE|That's the way I always make it.
+Frank and Estelle are in their kitchen.|FRANK|Well it sucks.
+Frank and Estelle are in their kitchen.|ESTELLE|What did you say?
+Frank and Estelle are in their kitchen.|FRANK|Your meatloaf is mushy, your salmon croquettes are oily and your eggplant parmesan is a disgrace to this house!
+Frank and Estelle are in their kitchen.|ESTELLE|Well that's too bad, because I'm the only one who cooks around here!
+Frank and Estelle are in their kitchen.|FRANK|Not any more! Gimme that spatula! I'm back, baby!
+George and Abby are at George's office.|ABBY|And you're sure with your busy schedule you'd have time to take on a protégé?
+George and Abby are at George's office.|GEORGE|I'll make time, because Abby, I was once like you; wide-eyed, naive, I didn't know the first thing about a subject as fundamental as risk management.
+George and Abby are at George's office.|ABBY|I'm not familiar with that, you'll have to explain it to me.
+George and Abby are at George's office.|GEORGE|I'll tell you what, why don't you read this book and let's just see if you can explain it to me.
+George and Abby are at George's office.|ABBY|Alright.
+George and Abby are at George's office.|GEORGE|Okay.
+Jerry runs into Bania on a street corner.|BANIA|Hey Jerry.
+Jerry runs into Bania on a street corner.|JERRY|Oh, hey Bania.
+Jerry runs into Bania on a street corner.|BANIA|Didja hear what happened? The mentor saw my act. She dumped me.
+Jerry runs into Bania on a street corner.|JERRY|Oh, that's too bad.
+Jerry runs into Bania on a street corner.|BANIA|Maybe she's right. Maybe I am a complete hack. I'm the absolute worst. The worst, Jerry.
+Jerry runs into Bania on a street corner.|JERRY|Well it's just that you got so many things with the milk. You got that Bosco bit then you got your Nestlé's Quik bit, by the time you get to Ovaltine--
+Jerry runs into Bania on a street corner.|BANIA|You think you can give me a hand with my material?
+Frank is knocking on Kramer's door.|KRAMER|Hey.
+Frank is knocking on Kramer's door.|FRANK|You still need a cook?
+Frank is knocking on Kramer's door.|KRAMER|Oh yeah, come on in, Frank.
+Frank is knocking on Kramer's door.|FRANK|Ya got T-Fal?
+Frank is knocking on Kramer's door.|KRAMER|Keflon.
+Frank is knocking on Kramer's door.|FRANK|No! Follow me.
+Jerry is reviewing material with Bania.|BANIA|(reading) Why do they call it Ovaltine? The mug is round. The jar is round. They should call it round tine. That's gold, Jerry! Gold!
+Elaine is reviewing copy with Eddie.|ELAINE|Let's just replace "hail of shrapnel" and "scar tissue" with "string of pearls" and "raspberry scones".
+Jerry and Abby are at Jerry's apartment.|JERRY|George Costanza is your mentor?
+Jerry and Abby are at Jerry's apartment.|ABBY|Yeah, he's great! I am learning so much.
+Jerry and Abby are at Jerry's apartment.|action|Abby places her risk management folder on the table.
+Jerry and Abby are at Jerry's apartment.|JERRY|About what? How to calculate five percent of a restaurant check?
+Jerry and Abby are at Jerry's apartment.|ABBY|You know what your problem is? You just have no respect for the mentor/mentor relationship.
+Jerry and Abby are at Jerry's apartment.|JERRY|As a matter of fact, I happen to have a protégé of my own.
+Jerry and Abby are at Jerry's apartment.|action|Jerry places his Bania folder on the table.
+Jerry and Abby are at Jerry's apartment.|ABBY|Who?
+Jerry and Abby are at Jerry's apartment.|JERRY|A Mister Kenneth Bania.
+Jerry and Abby are at Jerry's apartment.|ABBY|Bania?
+Jerry and Abby are at Jerry's apartment.|JERRY|I'm gonna mentor this kid to the top.
+Jerry and Abby are at Jerry's apartment.|ABBY|Huh, well, I don't think I want to date a mentor whose protégé is a hack.
+Jerry and Abby are at Jerry's apartment.|action|Abby picks up a folder and puts it in her bag.
+Jerry and Abby are at Jerry's apartment.|JERRY|Well, I don't think I want to date a protégé whose mentor is a Costanza.
+Elaine and Eddie are sharing chocolate shakes at the coffee shop.|ELAINE|I don't know how we did it, but there's some kind of chemistry between us, we turned out one hell of a catalog.
+Elaine and Eddie are sharing chocolate shakes at the coffee shop.|EDDIE|Cool.
+Elaine and Eddie are sharing chocolate shakes at the coffee shop.|ELAINE|Hey Ed, let me ask you something. What's with the fatigues and all the psychotic imagery? Huh?
+Elaine and Eddie are sharing chocolate shakes at the coffee shop.|EDDIE|I don't want to talk about it.
+Elaine and Eddie are sharing chocolate shakes at the coffee shop.|ELAINE|Come on, don't be a baby.
+Elaine and Eddie are sharing chocolate shakes at the coffee shop.|EDDIE|I went out on a couple of dates with this woman, I thought she really liked me, and then things kind of cooled off.
+Elaine and Eddie are sharing chocolate shakes at the coffee shop.|ELAINE|That's it?
+Elaine and Eddie are sharing chocolate shakes at the coffee shop.|EDDIE|Well it's tough meeting somebody you like, let alone somebody Jewish.
+"Jewish Singles Night".|ELAINE|Mm. This food is fantastic.
+"Jewish Singles Night".|JERRY|Have you tried the hamentashen?
+"Jewish Singles Night".|ELAINE|I can't get off the kishkas.
+"Jewish Singles Night".|BANIA|Hey Jerry!
+"Jewish Singles Night".|JERRY|Bania?
+"Jewish Singles Night".|BANIA|I just stopped by to thank you. That risk management stuff you wrote for me? It's killer!
+"Jewish Singles Night".|JERRY|Risk management?
+"Jewish Singles Night".|BANIA|Aw, it's gold, Jerry! Gold! I got all these corporate gigs and even Cynthia took me back.
+"Jewish Singles Night".|action|Cut to a woman talking with Eddie Sherman.
+"Jewish Singles Night".|WOMAN|So you went from the mailroom to the director of corporate development in two days?
+"Jewish Singles Night".|EDDIE|That's right.
+"Jewish Singles Night".|WOMAN|How much are they paying you? I'll double it.
+"Jewish Singles Night".|action|Cut to Kramer and Frank behind a table loaded with 'Jewish delicacies'.
+"Jewish Singles Night".|KRAMER|Ya know these latkes are going like hotcakes.
+"Jewish Singles Night".|FRANK|Where's the powdered sugar?
+"Jewish Singles Night".|KRAMER|You know Frank, you could take a break.
+"Jewish Singles Night".|FRANK|No breaks. I fell reborn, I'm like a Phoenix rising from Arizona.
+"Jewish Singles Night".|action|Cut to Eddie breaking the news to Elaine.
+"Jewish Singles Night".|ELAINE|You're quitting?
+"Jewish Singles Night".|EDDIE|I can't churn out that pointless drivel any more.
+"Jewish Singles Night".|ELAINE|Well, you can't quit, you're all I've got. I need you!
+"Jewish Singles Night".|action|Elaine grabs Eddie by the lapels and shakes him, Eddie chokes on a piece of bread. Frank sees this and flashes back to Korea. He runs around the room knocking plates to the floor and when Kramer tries to stop him, he heads to the loaded down table and starts to tip it over. The scene ends in mid-tip.
+George is prepared to give his speech at the Yankees meeting.|VOICE|Our next speaker is George Costanza on the subject of risk management.
+George is prepared to give his speech at the Yankees meeting.|action|George steps up and opens his folder.
+George is prepared to give his speech at the Yankees meeting.|GEORGE|Ovaltine. Have you ever had this stuff? Why is it called Ovaltine?
+George is prepared to give his speech at the Yankees meeting.|action|George flips through a few pages.
+George is prepared to give his speech at the Yankees meeting.|GEORGE|They should call it round tine. You know what I'm talking about.
+George is prepared to give his speech at the Yankees meeting.|WILHELM|(proudly, to the man seated beside him): He's my protégé.
+George is prepared to give his speech at the Yankees meeting.|FRANK|Noooo!!! Don't eat it! No good!"

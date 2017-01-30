@@ -1,0 +1,355 @@
+Jerry and George are at a hot dog vendor's cart.|JERRY| You sure you don't want the tickets?
+Jerry and George are at a hot dog vendor's cart.|GEORGE| No thanks.
+Jerry and George are at a hot dog vendor's cart.|JERRY| I can't believe I'm having trouble getting rid of Super Bowl tickets.
+Jerry and George are at a hot dog vendor's cart.|GEORGE| I'm telling you, skip the Drake's wedding, go to the game.
+Jerry and George are at a hot dog vendor's cart.|JERRY| I can't, the Drake put me in the wedding party.
+Jerry and George are at a hot dog vendor's cart.|GEORGE| Well who schedules his wedding on Super Bowl Sunday?
+Jerry and George are at a hot dog vendor's cart.|JERRY| Maybe he didn't know?
+Jerry and George are at a hot dog vendor's cart.|GEORGE| Lemme see.  I can't believe you got these for free. (Looking at the tickets)  Row F?!
+Jerry and George are at a hot dog vendor's cart.|JERRY| Row F, in front of the Gs, hobnobbing with the Ds and Es.
+Jerry and George are at a hot dog vendor's cart.|GEORGE| Howbout Kramer or Elaine, they don't want them?
+Jerry and George are at a hot dog vendor's cart.|JERRY| I asked.  Elaine laughed at me, Kramer's only interested in Canadian football.
+Jerry and George are at a hot dog vendor's cart.|GEORGE| Wish I could help you.
+Jerry and George are at a hot dog vendor's cart.|JERRY| Come on, take them.  You could take Bonnie.
+Jerry and George are at a hot dog vendor's cart.|GEORGE| You paying my hotel and airfare to Miami?
+Jerry and George are at a hot dog vendor's cart.|JERRY| What do you think?
+Jerry and George are at a hot dog vendor's cart.|GEORGE| So in order to use these, I gotta spend like fifteen-hundred bucks. This is a bill for fifteen-hundred dollars.  Plus, she'd ask about the sleeping arrangements, that whole sleeping arrangement conversation is depressing.
+Jerry and George are at a hot dog vendor's cart.|JERRY| Yeah, sleeping arrangements.  So, you haven't, uh...
+Jerry and George are at a hot dog vendor's cart.|GEORGE|  Oh, no no no, I haven't even seen her apartment yet.  Tomorrow night's the first night.
+Jerry and George are at a hot dog vendor's cart.|JERRY| Aah.
+Jerry and George are at a hot dog vendor's cart.|GEORGE| Hey, is that Tim Whatley?
+Jerry and George are at a hot dog vendor's cart.|JERRY| The Dentist?
+Jerry and George are at a hot dog vendor's cart.|GEORGE| Yeah, is he still mad at you for crashing his Thanksgiving party?
+Jerry and George are at a hot dog vendor's cart.|JERRY| Oh, no.  I explained the whole thing to him, he was fine with it.
+Jerry and George are at a hot dog vendor's cart.|GEORGE| Oh good.
+Jerry and George are at a hot dog vendor's cart.|JERRY| Yeah, I blamed it on you.  Hi Tim.
+Jerry and George are at a hot dog vendor's cart.|TIM| Hey Jerry!  George.  What are you up to?
+Jerry and George are at a hot dog vendor's cart.|JERRY| Ah, just a couple of gals out on the town, shopping and gabbing.
+Jerry and George are at a hot dog vendor's cart.|GEORGE| I'm getting a makeover.
+Jerry and George are at a hot dog vendor's cart.|JERRY| Hey.  How would you like to go to the Super Bowl?
+Jerry and George are at a hot dog vendor's cart.|TIM| What, are you kidding?
+Jerry and George are at a hot dog vendor's cart.|JERRY| Here.  Two tickets.  Have a good time.
+Jerry and George are at a hot dog vendor's cart.|TIM| How can I think you?  I'll tell you what, I'll take you to dinner sometime.  You ever been to Mendys?
+Jerry and George are at a hot dog vendor's cart.|JERRY| No no no.  No dinner.
+Jerry's apartment, Jerry is on the phone.|JERRY| Tim, you didn't have to get me a thank you gift.  I know, it's a label maker.  The Label Baby Junior.  Yeah, I hear they're good.  Well, label me thankful.  Okay, well you enjoy those tickets.  Buh-bye.
+Jerry's apartment, Jerry is on the phone.|action|Jerry hangs up, there's a pounding on the door.
+Jerry's apartment, Jerry is on the phone.|JERRY| Come in.
+Jerry's apartment, Jerry is on the phone.|action|More pounding.  Jerry opens the door and Kramer backs in carrying a board game.
+Jerry's apartment, Jerry is on the phone.|KRAMER| Where can I put this?
+Jerry's apartment, Jerry is on the phone.|JERRY| What is it?
+Jerry's apartment, Jerry is on the phone.|KRAMER| It's Risk, Jerry.  The game of world conquest. (brushing newspapers off the table with his foot and setting the game board down)  Alright, that's perfect.
+Jerry's apartment, Jerry is on the phone.|action|Newman walks in.
+Jerry's apartment, Jerry is on the phone.|JERRY| Kramer, why do you have to (noticing Newman)  Hello, Newman.
+Jerry's apartment, Jerry is on the phone.|NEWMAN| Hello, Jerry.  Will he take it?  I gotta go to work.
+Jerry's apartment, Jerry is on the phone.|JERRY| Take what?
+Jerry's apartment, Jerry is on the phone.|KRAMER| The board, Jerry.  We've been playing at Newman's for six hours but he's gotta go.
+Jerry's apartment, Jerry is on the phone.|JERRY| So why don't you leave it at Newman's?
+Jerry's apartment, Jerry is on the phone.|NEWMAN| I wanted to, he won't let me.
+Jerry's apartment, Jerry is on the phone.|KRAMER| We have to put the board in a neutral place where no one will tamper with it.
+Jerry's apartment, Jerry is on the phone.|JERRY| So that's here?
+Jerry's apartment, Jerry is on the phone.|KRAMER| Yes, yes.  You're like Switzerland.
+Jerry's apartment, Jerry is on the phone.|JERRY| I don't wanna be Switzerland.
+Jerry's apartment, Jerry is on the phone.|KRAMER| Jerry, Newman and I are engaged in a epic struggle for world domination.  It's winner take all.  People cannot be trusted.
+Jerry's apartment, Jerry is on the phone.|NEWMAN| Don't look at me.
+Jerry's apartment, Jerry is on the phone.|KRAMER| Oh, I'm looking right at you, big daddy.
+Jerry's apartment, Jerry is on the phone.|JERRY| Alright, soldier boys, let's fall out.
+Jerry's apartment, Jerry is on the phone.|KRAMER| Alright, so you're gonna look after it?
+Jerry's apartment, Jerry is on the phone.|JERRY| Yeah, yeah.
+Jerry's apartment, Jerry is on the phone.|KRAMER| Stay strong buddy.
+Jerry's apartment, Jerry is on the phone.|JERRY| Yeah.
+Jerry's apartment, Jerry is on the phone.|KRAMER|Watch it good.
+Jerry's apartment, Jerry is on the phone.|JERRY| Ok.
+Jerry's apartment, Jerry is on the phone.|action|Kramer leaves, Elaine enters.
+Jerry's apartment, Jerry is on the phone.|ELAINE| Hey.
+Jerry's apartment, Jerry is on the phone.|JERRY| Hey.
+Jerry's apartment, Jerry is on the phone.|ELAINE| Hey.  Oh, is that a label maker?
+Jerry's apartment, Jerry is on the phone.|JERRY| Yes it is.  I got it as a gift, it's a Label Baby Junior.
+Jerry's apartment, Jerry is on the phone.|ELAINE| Love the Label Baby, baby.  You know those things make great gifts, I just got one of those for Tim Whatley for Christmas.
+Jerry's apartment, Jerry is on the phone.|JERRY| Tim Whatley?
+Jerry's apartment, Jerry is on the phone.|ELAINE| Yeah.  Who sent you that one?
+Jerry's apartment, Jerry is on the phone.|JERRY| One Tim Whatley!
+Jerry's apartment, Jerry is on the phone.|ELAINE| Not, my Tim Whatley?
+Jerry's apartment, Jerry is on the phone.|JERRY| The same, he sent it as a thank you for my Super Bowl tickets.
+Jerry's apartment, Jerry is on the phone.|ELAINE| I think this is the same one I gave him.  He recycled this gift.  He's a regifter!
+Jerry's apartment, Jerry is on the phone.|JERRY| Or maybe he liked your gift so much, he decided to get me the same thing.  Perhaps it's an homage.
+Jerry's apartment, Jerry is on the phone.|ELAINE| Yeah, perhaps.
+Jerry's apartment, Jerry is on the phone.|JERRY| Well how did he react when you gave it to him?
+Jerry's apartment, Jerry is on the phone.|ELAINE| Um, he said, "Oh.  A label maker.  Howbout that?"
+Jerry's apartment, Jerry is on the phone.|JERRY| He repeated the name of the gift?
+Jerry's apartment, Jerry is on the phone.|ELAINE| Yeah, so?
+Jerry's apartment, Jerry is on the phone.|JERRY| Oh, well, if you repeat the name of the gift, you can't possibly like it.
+Jerry's apartment, Jerry is on the phone.|ELAINE| What do you mean?
+Jerry's apartment, Jerry is on the phone.|JERRY| Oh, you know, like when someone opens something up and they go, "Oh. Tube socks."  What are you gonna do about it?
+Jerry's apartment, Jerry is on the phone.|ELAINE| I don't know, I guess I'll just get invited up to his apartment and see if he's got a label maker.
+Jerry's apartment, Jerry is on the phone.|JERRY| Why'd you get him a gift anyway?
+Jerry's apartment, Jerry is on the phone.|ELAINE| Oh, he did some dental work for me and he didn't charge me so I thought I'd get him a Christmas present.
+Jerry's apartment, Jerry is on the phone.|JERRY| Yeah, well, if you're getting him anything for his birthday, I'm alarge.
+George and his girlfriend, Bonnie, are entering her apartment.|BONNIE| Well, here we are.  This is the place.
+George and his girlfriend, Bonnie, are entering her apartment.|GEORGE| Wow.
+George and his girlfriend, Bonnie, are entering her apartment.|BONNIE| Do you like it?
+George and his girlfriend, Bonnie, are entering her apartment.|GEORGE| I love it!  This is fantastic!  Look at this couch, is this velvet?!
+George and his girlfriend, Bonnie, are entering her apartment.|BONNIE| Are you a velvet fan?
+George and his girlfriend, Bonnie, are entering her apartment.|GEORGE| A fan?  I would drape myself in velvet if it were socially acceptable. And look at this, hardwood floors!
+George and his girlfriend, Bonnie, are entering her apartment.|BONNIE| Aren't they great? (sees a man enter from the bedroom)  Oh, Scott, hi. This is George.  George, this is Scott, my roommate.
+George and his girlfriend, Bonnie, are entering her apartment.|action|Scott walks into the kitchen.
+George and his girlfriend, Bonnie, are entering her apartment.|GEORGE|(bewildered)  Heh heh.
+George and his girlfriend, Bonnie, are entering her apartment.|BONNIE| Here, check out this view.  If you lean out this window, you can see the river.
+George and his girlfriend, Bonnie, are entering her apartment.|action|Scott returns from the kitchen eating an apple, and heads back to the bedroom.
+George and his girlfriend, Bonnie, are entering her apartment.|GEORGE| So Scott's your roommate, huh?
+George and his girlfriend, Bonnie, are entering her apartment.|BONNIE| Yes.  Oh, I'm sure I've mentioned him.
+George and his girlfriend, Bonnie, are entering her apartment.|GEORGE| No, you didn't mention it.
+George and his girlfriend, Bonnie, are entering her apartment.|BONNIE| He's a great guy, you'll really like him.
+George and his girlfriend, Bonnie, are entering her apartment.|GEORGE| I'm sure I will.
+George and Jerry are at the coffee shop.|JERRY| Male roommate, huh?
+George and Jerry are at the coffee shop.|GEORGE| Yes.  A male roommate.
+George and Jerry are at the coffee shop.|JERRY| Is this a problem?
+George and Jerry are at the coffee shop.|GEORGE| It's a huge problem, Jerry.  The hardest part about having sex with a woman is getting her to come back to your place!  He's already got that.
+George and Jerry are at the coffee shop.|JERRY| Well, maybe he's --
+George and Jerry are at the coffee shop.|GEORGE| No.  Believe me, he's not.
+George and Jerry are at the coffee shop.|JERRY| So he's an eligible receiver.
+George and Jerry are at the coffee shop.|GEORGE| She's confiding in him about our dates.  You always like the person you talk to about the date more than the date!  It's just a matter of time till they realize, 'Hey, we could have sex.'
+George and Jerry are at the coffee shop.|JERRY| What's stopping them?
+George and Jerry are at the coffee shop.|GEORGE| Exactly!  You know how they get animals to reproduce in captivity? They just put them in the same cage.
+George and Jerry are at the coffee shop.|JERRY| What does he look like?
+George and Jerry are at the coffee shop.|GEORGE| Oh, that's the worst part of it.  He looks just like me.
+George and Jerry are at the coffee shop.|JERRY| He looks like you and he's working from the inside?
+George and Jerry are at the coffee shop.|GEORGE| I look like me and I'm working from the outside.  Who do you think is in the better position?
+George and Jerry are at the coffee shop.|JERRY| Not you.
+George and Jerry are at the coffee shop.|GEORGE| Ho ho.  This bizarre ?harrod? experiment must end!
+George and Jerry are at the coffee shop.|JERRY| We'll take a check please.
+George and Jerry are at the coffee shop.|GEORGE|I gotta find a way to work this out, I love that apartment.  It's so cozy, I'm ensconced in velvet.  You know, if it were socially acceptable--
+George and Jerry are at the coffee shop.|JERRY| I know, you would drape yourself in velvet.
+George and Jerry are at the coffee shop.|GEORGE| I've said that before?
+George and Jerry are at the coffee shop.|JERRY| Many times.  You love velvet, you want to live in velvet, everything with the velvet.
+George and Jerry are at the coffee shop.|KRAMER|(entering)  Hey.
+George and Jerry are at the coffee shop.|GEORGE| Hey.
+George and Jerry are at the coffee shop.|JERRY| Hey.
+George and Jerry are at the coffee shop.|KRAMER| Guess what?  I saw Newman talking to the super.
+George and Jerry are at the coffee shop.|JERRY| So what?
+George and Jerry are at the coffee shop.|KRAMER| The super has keys to your apartment.  Don't you see what's going on? Newman is planning a sneak attack.
+George and Jerry are at the coffee shop.|JERRY| Oh, maybe he's got no hot water.
+George and Jerry are at the coffee shop.|KRAMER| Yeah, alright, fine.  You sit there and you watch while Newman takes over the world.  But he'd be a horrible leader.  And you know who's gonna suffer?  The little people; you and George.
+George and Jerry are at the coffee shop.|JERRY| Are you through?
+George and Jerry are at the coffee shop.|KRAMER| Oh.  I talked to Arthur Jobanian.  Yeah, the Drake's wedding?  That's off.
+George and Jerry are at the coffee shop.|JERRY| The wedding is off?  What happened?
+George and Jerry are at the coffee shop.|KRAMER| The Drake, he found out that the wedding is on the same day as the Super Bowl.  So he wanted to postpone it, they got in a big argument and *phlf* it's over.
+Jerry and George are entering Jerry's apartment|GEORGE| The wedding is off.  Now you can go to the Super Bowl.
+Jerry and George are entering Jerry's apartment|JERRY| I can't call Tim Whatley and ask for the tickets back.
+Jerry and George are entering Jerry's apartment|GEORGE| You just gave them to him two days ago, he's gotta give you a grace period.
+Jerry and George are entering Jerry's apartment|JERRY| Are you even vaguely familiar with the concept of giving?  There's no grace period.
+Jerry and George are entering Jerry's apartment|GEORGE| Well, didn't he regift the label maker?
+Jerry and George are entering Jerry's apartment|JERRY| Possibly.
+Jerry and George are entering Jerry's apartment|GEORGE| Well, if he can regift, why can't you degift?
+Jerry and George are entering Jerry's apartment|JERRY| You may have a point.
+Jerry and George are entering Jerry's apartment|GEORGE| I have a point, I have a point.
+Jerry and George are entering Jerry's apartment|JERRY| Alright, I'll call him.
+Jerry and George are entering Jerry's apartment|GEORGE| Yeah.  What's that?
+Jerry and George are entering Jerry's apartment|JERRY| Oh, it's Risk, it's a game of world domination being played by two guys who can barely run their own lives. (Picks up phone and dials)  Hello Tim? Yeah, hi, it's Jerry Seinfeld, remember those tickets I gave you?  Well it turns out I can use them.  Oh, you do?  I understand.  Okay.  Bye.  He already made plans, he can't change them.
+Jerry and George are entering Jerry's apartment|GEORGE|(eating a pickle)  Well they're his tickets, he can do what he wants with them.
+Jerry and George are entering Jerry's apartment|JERRY| Thanks.
+Jerry and George are entering Jerry's apartment|GEORGE| Alright, I gotta go.  I'm heading over to Bonnie's.
+Jerry and George are entering Jerry's apartment|JERRY| What are you gonna do about the roommate?
+Jerry and George are entering Jerry's apartment|GEORGE| I gotta try and find a way to switch places with him.  It's like a Sigfried and Roy trick.
+Jerry and George are entering Jerry's apartment|JERRY| Well, the pickle breath is a good start.
+Jerry and George are entering Jerry's apartment|action|George leaves, Newman enters, or would except Jerry tries slamming the door on him.
+Jerry and George are entering Jerry's apartment|NEWMAN| Hello Jerry, may I come in?
+Jerry and George are entering Jerry's apartment|JERRY| What do you want?
+Jerry and George are entering Jerry's apartment|NEWMAN|(squeezing himself through the narrow space)  Nothing, just being neighborly.  Do you wanna hang out?  Shoot the breeze?
+Jerry and George are entering Jerry's apartment|JERRY| I'm not letting you cheat, Newman.  You're not getting anywhere near that board.
+Jerry and George are entering Jerry's apartment|NEWMAN| Jerry?  I'm a little insulted.
+Jerry and George are entering Jerry's apartment|JERRY| You're not a little anything, Newman.  So just pack it up and move it out of here.
+Jerry and George are entering Jerry's apartment|NEWMAN|(leaving)  Oh, by the way, what are you doing for the Super Bowl?
+Jerry and George are entering Jerry's apartment|JERRY| I dunno, watch it on TV I guess.  Why?
+Jerry and George are entering Jerry's apartment|NEWMAN| Well if you watch closely enough, you just might see me.  I'll be the one waving to the camera from my seat on the forty yard line.
+Jerry and George are entering Jerry's apartment|JERRY| You're going to the Super Bowl?
+Jerry and George are entering Jerry's apartment|NEWMAN| Yes I am, a guy on my mail route just got a couple of tickets and he offered one to me.
+Jerry and George are entering Jerry's apartment|JERRY| What's his name?
+Jerry and George are entering Jerry's apartment|NEWMAN| Tim Whatley.
+Jerry and George are entering Jerry's apartment|JERRY| That's my ticket!
+Jerry and George are entering Jerry's apartment|NEWMAN| Is it?!  Ohhh, well if only you'd known, you could have saved some time and given it directly to me!  Ha ha ha.
+Jerry and George are entering Jerry's apartment|JERRY|(as Newman leaves)  Newman!
+George and Bonnie are at Bonnie's|GEORGE| What a movie.  Good choice.
+George and Bonnie are at Bonnie's|BONNIE| Thank Scott.  He recommended it.
+George and Bonnie are at Bonnie's|GEORGE| Oh, Scott, Scott.  He's really great, isn't he?
+George and Bonnie are at Bonnie's|BONNIE| Yes he is.
+George and Bonnie are at Bonnie's|GEORGE| Yes he is.  Let me ask you something.  When you come out of the shower and you put your robe on, do you cinch it real tight, are you concerned about that?
+George and Bonnie are at Bonnie's|BONNIE| George?
+George and Bonnie are at Bonnie's|GEORGE| Do you hold the neck together with one hand, or are you just letting it flap in the breeze?
+George and Bonnie are at Bonnie's|BONNIE| George, you're being ridiculous.
+George and Bonnie are at Bonnie's|GEORGE| What's the massage situation?
+George and Bonnie are at Bonnie's|BONNIE| What do you mean?
+George and Bonnie are at Bonnie's|GEORGE| Is there any work being done?  Is there any rubbing, touching, finger manipulation on the other person, and if so, who's making the request?
+George and Bonnie are at Bonnie's|BONNIE| George, would you just stop?
+George and Bonnie are at Bonnie's|GEORGE| Say you go to the bathroom at two o'clock in the morning, what's the outfit?  I mean, you dressing up or is it come as you are?
+George and Bonnie are at Bonnie's|BONNIE| George, what is wrong with you?
+George and Bonnie are at Bonnie's|GEORGE| I'll tell you what's wrong, a grown woman with a male roommate!  It's unnatural, it's an abomination!
+George and Bonnie are at Bonnie's|action|Scott enters.
+George and Bonnie are at Bonnie's|SCOTT| Hey!
+George and Bonnie are at Bonnie's|GEORGE| Hey!
+George and Bonnie are at Bonnie's|SCOTT| How ya going?
+George and Bonnie are at Bonnie's|GEORGE| I'm good.
+George and Bonnie are at Bonnie's|SCOTT|(to Bonnie) Are you gonna need the bathroom?  'Cause I'm gonna jump in the shower.
+George and Bonnie are at Bonnie's|BONNIE| No, just throw my bras out of the way.
+Elaine and Tim Whatley are walking together on the street.|TIM| Well, this is my building.
+Elaine and Tim Whatley are walking together on the street.|ELAINE| Yes it is.
+Elaine and Tim Whatley are walking together on the street.|TIM| This was fun, you know?
+Elaine and Tim Whatley are walking together on the street.|ELAINE| Yeah.
+Elaine and Tim Whatley are walking together on the street.|TIM| So, I'll call.
+Elaine and Tim Whatley are walking together on the street.|ELAINE| Aren't you gonna invite me upstairs?
+Elaine and Tim Whatley are walking together on the street.|TIM| Upstairs?  You wanna go upstairs?
+Elaine and Tim Whatley are walking together on the street.|ELAINE| I would love to go upstairs.
+Elaine and Tim Whatley are walking together on the street.|TIM| Elaine, you are something else.  No one can ever put a label on you, huh?
+Elaine and Tim Whatley are walking together on the street.|ELAINE| We'll see.
+Jerry and George are at their booth in the coffee shop.|JERRY| Newman.  He's going with Newman.
+Jerry and George are at their booth in the coffee shop.|GEORGE| How does Tim Whatley even know Newman?
+Jerry and George are at their booth in the coffee shop.|JERRY| Newman's his mailman.
+Jerry and George are at their booth in the coffee shop.|GEORGE| Who goes to the Super Bowl with their mailman?!
+Jerry and George are at their booth in the coffee shop.|JERRY| Who goes *anywhere* with Newman?!
+Jerry and George are at their booth in the coffee shop.|GEORGE| Well, he's merry.
+Jerry and George are at their booth in the coffee shop.|JERRY| He is merry, I'll give him that.  (notices a cactus on the table) What's this plant for?
+Jerry and George are at their booth in the coffee shop.|GEORGE| I had a little tiff with Bonnie about the roommate.
+Jerry and George are at their booth in the coffee shop.|JERRY| Oh, well the cactus will smooth things over.
+Jerry and George are at their booth in the coffee shop.|action|Elaine enters.
+Jerry and George are at their booth in the coffee shop.|ELAINE| Hey, guess what?  I'm going to the Super Bowl with Tim Whatley.
+Jerry and George are at their booth in the coffee shop.|JERRY| What?
+Jerry and George are at their booth in the coffee shop.|ELAINE| We went out for coffee last night and he offered me a ticket.
+Jerry and George are at their booth in the coffee shop.|JERRY| What about the label maker?
+Jerry and George are at their booth in the coffee shop.|ELAINE| Ah, well.
+Jerry and George are at their booth in the coffee shop.|JERRY| Wait a minute, that's my ticket!  You didn't even want to go.
+Jerry and George are at their booth in the coffee shop.|ELAINE| It was totally out of the blue.  We went upstairs to his apartment, you know, to look for the label maker.
+Jerry and George are at their booth in the coffee shop.|JERRY| So, how did you get up there?  Did you say you had to use the bathroom?
+Jerry and George are at their booth in the coffee shop.|ELAINE| No.
+Jerry and George are at their booth in the coffee shop.|JERRY| Then how'd you get up there?
+Jerry and George are at their booth in the coffee shop.|ELAINE| I said, "Do you wanna go upstairs?"
+Jerry and George are at their booth in the coffee shop.|GEORGE| And there's you ticket.
+Jerry and George are at their booth in the coffee shop.|ELAINE| What?
+Jerry and George are at their booth in the coffee shop.|JERRY| That's why you're going to the Super Bowl.
+Jerry and George are at their booth in the coffee shop.|ELAINE| Why?
+Jerry and George are at their booth in the coffee shop.|JERRY| You go out with a guy one time, you ask him to go upstairs like you're Mae West?  Of course he's gonna try and get you alone for the weekend.
+Jerry and George are at their booth in the coffee shop.|ELAINE| You mean just because I asked him to go upstairs, he thinks he's going downtown?
+Jerry and George are at their booth in the coffee shop.|JERRY| Obviously.
+Jerry and George are at their booth in the coffee shop.|ELAINE| You're crazy.
+Jerry and George are at their booth in the coffee shop.|GEORGE| Well, what happened when you got upstairs?
+Jerry and George are at their booth in the coffee shop.|ELAINE| As soon as we walked in, he got a call from one of his patients with an impacted molar or something so he had to leave.  I didn't even get a chance to look for the label maker.
+Jerry and George are at their booth in the coffee shop.|JERRY| Yeah, well I don't trust this guy.  I think he regifted, he degifted, and now he's using an upstairs invite as a springboard to a Super Bowl sex romp.
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|KRAMER| Hey.
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|JERRY| Hey.  What are you doing?
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|KRAMER| I'm watching your door.
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|JERRY| My door?
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|KRAMER|  Yeah, from my peephole.  Fisheye, sees all.
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|action|Cut to the interior of Jerry's apartment.  Newman sneaks out from the bedroom towards the table where the Risk board is sitting.  He accidentally knocks some CDs off the shelving unit, making a lot of noise.
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|JERRY|(still outside)  What was that?
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|KRAMER| Newman!
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|action|Jerry begins opening the door, Newman does not have enough time to change the board pieces.
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|NEWMAN|(fleeing to the bedroom)  Damn!
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|JERRY|(after entering)  The bedroom!
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|action|Jerry runs to the bedroom, catching a glimpse of Newman climbing out the open window and up the fire escape.  Jerry and Kramer rush to the window.
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|JERRY| I see you, Newman!  I see you!
+Jerry is in the hallway approaching his apartment door.  Kramer walks out of his apartment.|KRAMER| I'm taking the Congo as a penalty!
+Elaine and Tim Whatley are sharing a cab.|ELAINE| I've got a confession to make.
+Elaine and Tim Whatley are sharing a cab.|TIM| Oh?  What's that?
+Elaine and Tim Whatley are sharing a cab.|ELAINE| I've got Super Bowl fever.
+Elaine and Tim Whatley are sharing a cab.|TIM| Oh yeah, me too.
+Elaine and Tim Whatley are sharing a cab.|ELAINE| So where are we staying?
+Elaine and Tim Whatley are sharing a cab.|TIM| Oh, the Ambassador.
+Elaine and Tim Whatley are sharing a cab.|ELAINE| Oh.  Big room?
+Elaine and Tim Whatley are sharing a cab.|TIM| It's a regular room, but it's right downtown.
+Elaine and Tim Whatley are sharing a cab.|ELAINE| Downtown?
+Elaine and Tim Whatley are sharing a cab.|TIM| Right downtown.
+Elaine and Tim Whatley are sharing a cab.|ELAINE| What do they have there, a couple of beds?
+Elaine and Tim Whatley are sharing a cab.|TIM| Why?  You bringing someone else?
+Elaine and Tim Whatley are sharing a cab.|ELAINE| No, but don't you think there should be two beds?  There's two of us.
+Elaine and Tim Whatley are sharing a cab.|action|Tim's grin disappears.
+George enters Bonnie's apartment.|BONNIE| Oh, a cactus.
+George enters Bonnie's apartment.|GEORGE| They don't need any water, so you don't have to keep taking them to the bathroom.
+George enters Bonnie's apartment.|action|They share a laugh.  Scott enters from the back holding a cardboard box.  He places it on a stack of similar boxes.
+George enters Bonnie's apartment.|SCOTT| Well, look who's here.
+George enters Bonnie's apartment.|BONNIE| I asked Scott to move out.
+George enters Bonnie's apartment.|GEORGE| Oh.  Oh!
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| So she kicked him out of the apartment.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|GEORGE| That's right.  It's just me and her.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| Wow, she rearranged her whole life for you.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|GEORGE| I guess she did.  He's gone, now I'm the man.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| That's not a good role for you.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|GEORGE| No, it's not.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| You unwittingly made a major commitment.  That's a lot of pressure.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|GEORGE| Oh my god.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| You wanted to be ensconced in velvet, you're buried.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|GEORGE| I had the perfect situation here, he was shouldering half the load.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| He was shouldering.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|GEORGE|(walking towards the door)  I couldn't leave well enough alone?!
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| Where are you going?
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|GEORGE| I gotta go help her tape up all his boxes and get them ready for shipping.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| Oh, well here.  Take Whatley's label maker, I don't want to see it again.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|GEORGE| Thanks.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|KRAMER|(rolling the dice) Yeah.  I am taking over South America and there ain't nothing you can do about it.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY| So, too bad about that Super Bowl ticket, eh Newman?
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|NEWMAN| Yeah.  I just hope Tim Whatley's electric bills don't suddenly get lost in the mail, or it could be lights out for him.
+George and Jerry are at Jerry's apartment.  Kramer and Newman are seated at the Risk board on the living room table.|JERRY|(walking out)  Thanks for having me over, guys.
+Jerry and George are out on the street, Tim Whatley comes running up.|JERRY| Alright, I'll see you later.
+Jerry and George are out on the street, Tim Whatley comes running up.|TIM| Hey Jerry?
+Jerry and George are out on the street, Tim Whatley comes running up.|JERRY| Ah, Tim Whatley.  Out scalping?
+Jerry and George are out on the street, Tim Whatley comes running up.|TIM| Ah, see, now I've been thinking a lot about what happened and I feel horrible.  Listen, I want to give you a ticket back.
+Jerry and George are out on the street, Tim Whatley comes running up.|JERRY| Are you serious, what about Elaine?
+Jerry and George are out on the street, Tim Whatley comes running up.|TIM|Oh, Elaine.  Yeah, well, things just didn't work out like I thought they would.
+Jerry and George are out on the street, Tim Whatley comes running up.|JERRY| Oh.  (notices a car being jacked up by a tow truck)  Hey, isn't this Kramer's car? (yelling up)  Hey, Cosmo!!  They're towing your car!!
+Jerry and George are out on the street, Tim Whatley comes running up.|KRAMER|(running to the window)  What?!  Not my car!!  Hey!!  They're towing my car!!
+Jerry and George are out on the street, Tim Whatley comes running up.|action|Kramer runs out the door, leaving Newman alone with the Risk board, but only for a moment.  He runs back in and grabs the board.
+Jerry and George are out on the street, Tim Whatley comes running up.|NEWMAN| What are you doing?
+Jerry and George are out on the street, Tim Whatley comes running up.|KRAMER| I'm taking the board with me.
+Jerry and George are out on the street, Tim Whatley comes running up.|action|Kramer runs out carrying the board, Newman follows a moment later.
+Jerry and George are out on the street, Tim Whatley comes running up.|action|Back on the street, Kramer's car is jacked up and the driver is just taking off. Kramer comes running after it, yelling at the driver and balancing the game board with Newman at his heels.
+Jerry and George are out on the street, Tim Whatley comes running up.|TIM| So, I guess I'll see you at the game.
+Jerry and George are out on the street, Tim Whatley comes running up.|JERRY| Yeah, see you there.
+George walks into Bonnie's apartment, *everything* is boxed up and Bonnie is taping up the last of the boxes.  He knocks to get her attention.|BONNIE| Hi, George.
+George walks into Bonnie's apartment, *everything* is boxed up and Bonnie is taping up the last of the boxes.  He knocks to get her attention.|GEORGE| What, what happened?  Where's, where's all the stuff?
+George walks into Bonnie's apartment, *everything* is boxed up and Bonnie is taping up the last of the boxes.  He knocks to get her attention.|BONNIE| It's gone.  It was all his.  Is this a label maker?
+George walks into Bonnie's apartment, *everything* is boxed up and Bonnie is taping up the last of the boxes.  He knocks to get her attention.|GEORGE| The table, the stereo, the VCR, the velvet couch, where's the velvet?
+George walks into Bonnie's apartment, *everything* is boxed up and Bonnie is taping up the last of the boxes.  He knocks to get her attention.|BONNIE| They were his.  Besides, we don't need any of those things.  We have each other.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|NEWMAN| Are you sure you know where the impound yard is?
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|KRAMER| Oh, stop stalling.  Come on.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|NEWMAN| I can't think, there's all this noise.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|KRAMER| Or is it because I've built a stronghold around Greenland?  I've driven you out of Western Europe and I've left you teetering on the brink of complete annihilation.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|NEWMAN| I'm not beaten yet.  I still have armies in the Ukraine.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|action|This comment perks up the ears of what appears to be a Russian immigrant.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|KRAMER| Ha ha, the Ukraine.  Do you know what the Ukraine is?  It's a sitting duck.  A road apple, Newman.  The Ukraine is weak.  It's feeble.  I think it's time to put the hurt on the Ukraine.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|UKRAINIAN| I come from Ukraine.  You not say Ukraine weak.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|KRAMER| Yeah, well we're playing a game here, pal.
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|UKRAINIAN| Ukraine is game to you?!  Howbout I take your little board and smash it!!
+Kramer and Newman are on a subway car, the Risk board sits on their laps.|action|The Ukrainian pounds the game board, destroying it and sending army pieces flying.
+Tim Whatley approaches his building, Elaine is waiting at the door.|ELAINE| Hello, Tim.
+Tim Whatley approaches his building, Elaine is waiting at the door.|TIM|(startled)  Elaine, hi.
+Tim Whatley approaches his building, Elaine is waiting at the door.|ELAINE| Don't worry, Tim.  I didn't come by to yell at you, I didn't come by for that at all.  I just came by to pick up my label maker.  I gave you a label maker and now I would like to have it back.
+Tim Whatley approaches his building, Elaine is waiting at the door.|TIM| But you gave it to me.
+Tim Whatley approaches his building, Elaine is waiting at the door.|ELAINE| But you gave me a ticket to the Super Bowl.  Hand it over, Whatley.
+Tim Whatley approaches his building, Elaine is waiting at the door.|TIM| Uh, ok.
+Tim Whatley approaches his building, Elaine is waiting at the door.|ELAINE| You don't have the label maker, do you?
+Tim Whatley approaches his building, Elaine is waiting at the door.|TIM| Uh, no.
+Tim Whatley approaches his building, Elaine is waiting at the door.|ELAINE| I knew it!  You're a regifter!
+Tim Whatley approaches his building, Elaine is waiting at the door.|TIM| Oh, yeah, some gift.  That thing didn't work at all.
+Tim Whatley approaches his building, Elaine is waiting at the door.|ELAINE| What?
+Tim Whatley approaches his building, Elaine is waiting at the door.|TIM| You put a label on something, then ten minutes later it would peel right off.  It was the worst gift I ever got.
+Tim Whatley approaches his building, Elaine is waiting at the door.|ELAINE|(visibly upset)  Well, I bought it for you because you were so nice to me for not charging me for the dental work.  The way you worked on my filling, you were so, so gentle and so caring and so sensitive.
+Tim Whatley approaches his building, Elaine is waiting at the door.|TIM| Oh, Elaine!
+Tim Whatley approaches his building, Elaine is waiting at the door.|action|They embrace passionately.
+First the exterior, then the interior of a football stadium.  Jerry is walking down the aisle.|JERRY| H... G... F.  Seat four.  One, two, three... f-- Hello Newman.
+First the exterior, then the interior of a football stadium.  Jerry is walking down the aisle.|NEWMAN| Hello, Jerry.  Tim couldn't make it, he's in love.  Isn't that wonderful?
+First the exterior, then the interior of a football stadium.  Jerry is walking down the aisle.|JERRY| Oh, it's enchanting.
+George is bringing a portable TV to Bonnie's so they can watch the game.|BONNIE| Hi.
+George is bringing a portable TV to Bonnie's so they can watch the game.|GEORGE| Here's the TV.  I know you wanted to watch the Super Bowl.  Do you at least have some towels we could sit on?  It's, like, a four hour game.
+George is bringing a portable TV to Bonnie's so they can watch the game.|BONNIE| George, Scott's gonna drop by.  He said he never got his boxes.  I'll get the towels.
+George is bringing a portable TV to Bonnie's so they can watch the game.|GEORGE|(internally)  How am I gonna get out of this?  Think Costanza, think!
+George is bringing a portable TV to Bonnie's so they can watch the game.|BONNIE| Here we are.
+George is bringing a portable TV to Bonnie's so they can watch the game.|GEORGE| Hey, do you know, Bonnie, I just had a pretty wild idea.
+George is bringing a portable TV to Bonnie's so they can watch the game.|BONNIE| What is it?
+George is bringing a portable TV to Bonnie's so they can watch the game.|GEORGE| Well I, uh, I'm not sure how you pronounce it or anything, but I, uh, I believe it's Ménage à Trois?
+George is bringing a portable TV to Bonnie's so they can watch the game.|BONNIE| What?
+George is bringing a portable TV to Bonnie's so they can watch the game.|action|Just then, Scott enters.
+George is bringing a portable TV to Bonnie's so they can watch the game.|SCOTT| Hi.
+George is bringing a portable TV to Bonnie's so they can watch the game.|BONNIE| Scott!  Remember what we talked about the other day?  George is into it.
+George is bringing a portable TV to Bonnie's so they can watch the game.|SCOTT| Oh really?!
+George is bringing a portable TV to Bonnie's so they can watch the game.|action|Scott walks towards George, the camera moves in on a close-up of an increasingly horrified George, and freezes.
+Jerry and Newman are at the Super Bowl|NEWMAN| Great streak of luck I'm having.  First, Kramer almost beat me at Risk but I narrowly escaped, and then Tim Whatley gives me his Super Bowl ticket.
+Jerry and Newman are at the Super Bowl|JERRY| Can you move over at all?!
+Jerry and Newman are at the Super Bowl|NEWMAN| And then, just as I'm about to go, these boxes show up at the post office with no labels.  No labels, Jerry.  You know what that means?  Freebies!! I got this great mini-TV and a VCR, oh it's unbelievable.
+Jerry and Newman are at the Super Bowl|JERRY| An inch!  Can you move over an inch?!?

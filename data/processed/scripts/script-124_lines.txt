@@ -1,0 +1,454 @@
+Jerry's Apartment|action|Jerry enters, carrying a couple of bags and his mail. No sooner has he put his bags down than Kramer enters.
+Jerry's Apartment|KRAMER|Hey! You're back!
+Jerry's Apartment|JERRY|Oh, I'm back, baby.
+Jerry's Apartment|KRAMER|Yeah, how was it?
+Jerry's Apartment|JERRY|Great. One of the best jobs I ever had.
+Jerry's Apartment|KRAMER|Good for you.
+Jerry's Apartment|JERRY|I killed.
+Jerry's Apartment|KRAMER|You killed.
+Jerry's Apartment|JERRY|(taking off his jacket) Slaughtered. Wiped the floor with 'em and (hanging up jacket) not only that, the money was unbelievable.
+Jerry's Apartment|KRAMER|Unbelievable.
+Jerry's Apartment|JERRY|Yeah. Highest paying job I ever had.
+Jerry's Apartment|KRAMER|How much?
+Jerry's Apartment|JERRY|(reluctant) Nah, nah. I'd rather...
+Jerry's Apartment|KRAMER|Aw, c'mon.
+Jerry's Apartment|JERRY|Nah. It's not good for friends to talk about money, it can affect the friendship.
+Jerry's Apartment|KRAMER|I tell you how much I make.
+Jerry's Apartment|JERRY|And I'm always impressed.
+Jerry's Apartment|KRAMER|Just show me the cheque, c'mon.
+Jerry's Apartment|JERRY|Awright, fine. You wanna see it?
+Jerry's Apartment|KRAMER|I wanna see it.
+Jerry's Apartment|JERRY|Okay.
+Jerry's Apartment|action|Jerry gets out his wallet, extracts a cheque from within it and hands it to Kramer.
+Jerry's Apartment|JERRY|Here, check that out.
+Jerry's Apartment|action|Kramer reads the cheque, and a look of astonishment comes to his face.
+Jerry's Apartment|KRAMER|(stunned) Whuf! This is unbelievable.
+Jerry's Apartment|JERRY|I told you.
+Jerry's Apartment|action|Kramer has to sit on the couch, he's so shocked.
+Jerry's Apartment|KRAMER|My god, you're rich.
+Jerry's Apartment|JERRY|(taking back the check) Oh yeah.
+Jerry's Apartment|KRAMER|I didn't know you made that kinda money. (subdued) Jeez.
+Jerry's Apartment|JERRY|What?
+Jerry's Apartment|KRAMER|I don't think I can talk to you any more. I feel inferior.
+Jerry's Apartment|JERRY|I never shoulda told you.
+Jerry's Apartment|KRAMER|You know, Jerry, I think this changes the relationship. I mean, I feel it. Do you feel it?
+Jerry's Apartment|JERRY|No, I can't feel anything.
+Jerry's Apartment|KRAMER|Well, what're you gonna do with all that money?
+Jerry's Apartment|JERRY|Actually, I was thinking of donating a large portion of it to charity.
+Jerry's Apartment|KRAMER|(pleased) Really?
+Jerry's Apartment|JERRY|(deadpan) No.
+Jerry's Apartment|KRAMER|Well, you should, Jerry.
+Jerry's Apartment|JERRY|No, to tell you the truth, I was thinking of buying my father a new car.
+Jerry's Apartment|KRAMER|Now, you see, that's nice.
+Jerry's Apartment|JERRY|Maybe a Cadillac.
+Jerry's Apartment|KRAMER|(smiles) Cadillac. Ooh-la-la.
+Jerry's Apartment|JERRY|Yeah. (thinking) That would really blow his mind. He's always wanted one, his whole life, he's never been able to afford it. (decisive) I'm gonna do it.
+Jerry's Apartment|KRAMER|You're gonna score some big points with the man upstairs on this one.
+Jerry's Apartment|JERRY|Oh, isn't that what it's all about?
+Jerry's Apartment|action|Kramer and Jerry smile in agreement.
+Monk's|action|Elaine sits in a booth, across from her friend Katy.
+Monk's|ELAINE|Who was Pippi Longstocking?
+Monk's|KATY|Pippi Longstocking? (thoughtful) Hmm, I don't don't know.
+Monk's|ELAINE|Did she have anything to do with Hitler?
+Monk's|KATY|Hitler? (thinks) Maybe.
+Monk's|action|George enters and walks over to the booth. He's looking impatient.
+Monk's|GEORGE|Hey.
+Monk's|ELAINE|Hey George.
+Monk's|GEORGE|Have you seen Jerry? (sitting beside Elaine) I told him two o'clock.
+Monk's|action|George twists round, so he can watch the door.
+Monk's|ELAINE|(indicating) You remember Katy?
+Monk's|GEORGE|(distracted) Mm? (acknowledges Katy) Oh, hi. Oh, yeah, yeah, yeah. We met uh, skiing that time. You're uh, married to the eye guy.
+Monk's|KATY|Also ear, nose and throat.
+Monk's|GEORGE|Nose. (chuckles) What's the worst that can happen to a nose? What does it get? Stuffed? (chuckles)
+Monk's|KATY|(amused) He's funny.
+Monk's|ELAINE|Ah, you don't have to tell me.
+Monk's|GEORGE|Ahh, ladies, please, please. (chuckles)
+Monk's|ELAINE|Oh, you know what? He got engaged.
+Monk's|KATY|Oh, you did? (disappointed) Oh.
+Monk's|GEORGE|What? Is that bad?
+Monk's|KATY|I actually would've set you up with a friend of mine.
+Monk's|GEORGE|Oh-ho, yeah?
+Monk's|KATY|You'd be perfect for her. She loves quirky, funny guys.
+Monk's|GEORGE|(curious) Bald? Uh?
+Monk's|KATY|Loves bald.
+Monk's|GEORGE|Loves bald? (laughs) Wow. Who uh, who is she?
+Monk's|KATY|Marisa Tomei.
+Monk's|GEORGE|(taken aback) The actress?
+Monk's|KATY|Yeah.
+Monk's|GEORGE|You're friends with Marisa Tomei?
+Monk's|KATY|That's right.
+Monk's|GEORGE|(getting excited) That's, that's incredible. My Cousin Vinnie, I love her, she was fantastic!
+Monk's|KATY|Yeah, I know.
+Monk's|GEORGE|(more excitement) You were gonna fix me up with her?
+Monk's|KATY|Yeah, she's just been sitting home.
+Monk's|GEORGE|(fever pitch) Marisa Tomei's sitting home, Elaine! Wh..why didn't you tell me that Katy was friends with Marisa Tomei?!
+Monk's|ELAINE|(deadpan) Oh, I don't know what I was thinking.
+Jerry's Apartment|action|Jerry is talking on the phone as George enters and hangs up his coat.
+Jerry's Apartment|JERRY|I want this baby fully loaded. (listens) Well, how soon can you get it there? (listens) Oh, that's terrific. (listens) Okay, thanks, bye.
+Jerry's Apartment|action|Jerry hangs up and turns to George.
+Jerry's Apartment|JERRY|Hey, guess what. I just bought my father a Cadillac
+Jerry's Apartment|GEORGE|Really? Wow, you're quite the good son.
+Jerry's Apartment|JERRY|Yeah, I'm a very good boy. I'm flying down there and surprising him.
+Jerry's Apartment|action|Jerry walks to the kitchen.
+Jerry's Apartment|GEORGE|You gonna sleep on the fold-out?
+Jerry's Apartment|JERRY|(joyless) Yeah, yes.
+Jerry's Apartment|action|Jerry opens the fridge door and gets out a piece of pie on a plate.
+Jerry's Apartment|GEORGE|Uh, let me ask you something. You uh, you ever hear of Marisa Tomei?
+Jerry's Apartment|JERRY|The actress?
+Jerry's Apartment|GEORGE|Yeah. She's uh, she's something, isn't she?
+Jerry's Apartment|JERRY|Oh yeah.
+Jerry's Apartment|GEORGE|Well, you know Katy, Elaine's friend?
+Jerry's Apartment|JERRY|Yeah?
+Jerry's Apartment|GEORGE|She happens to be very good friends with her.
+Jerry's Apartment|JERRY|Marisa Tomei?
+Jerry's Apartment|GEORGE|Uh-hmm.
+Jerry's Apartment|JERRY|How does she know Marisa Tomei?
+Jerry's Apartment|GEORGE|I don't know, I didn't ask.
+Jerry's Apartment|JERRY|You didn't ask how she knows Marisa Tomei?
+Jerry's Apartment|GEORGE|Not the point!
+Jerry's Apartment|JERRY|Alright.
+Jerry's Apartment|GEORGE|Can I finish?
+Jerry's Apartment|JERRY|Go ahead. Seems like a reasonable question, is all I'm saying. I would've asked her.
+Jerry's Apartment|action|Jerry opens the freezer compartment and gets out a tub of ice cream.
+Jerry's Apartment|GEORGE|Alright! So, she said, that she could've fixed me up with her.
+Jerry's Apartment|JERRY|What d'you mean, could've?
+Jerry's Apartment|GEORGE|Well, you know, if I uh, wasn't engaged.
+Jerry's Apartment|JERRY|Ohh!
+Jerry's Apartment|GEORGE|Coulda fixed me up with Marisa Tomei. She said I was just her type!
+Jerry's Apartment|JERRY|Really?
+Jerry's Apartment|action|Jerry puts a scoop of ice cream on the pie.
+Jerry's Apartment|GEORGE|(getting animated) Yeah. Yeah. You know the odds of me being anyone's type?! I have never been anyone's type, but apparently, this Marisa Tomei loves funny, quirky, bald men.
+Jerry's Apartment|JERRY|You know, she won an academy award?
+Jerry's Apartment|GEORGE|(sarcasm) Hu-hu, like I don't know that? (excitement) My Cousin Vinnie, I love that! I, George Costanza, could be on a date with an Oscar winner! An Oscar winner, Jerry! You know what that's like? It's like if fifty years ago, someone fixed me up with Katherine Hepburn? Same thing!
+Jerry's Apartment|JERRY|Now there's a match. You and Katherine Hepburn.
+Jerry's Apartment|GEORGE|I mean, you've seen her, right?
+Jerry's Apartment|JERRY|Katherine Hepburn? Oh yeah.
+Jerry's Apartment|GEORGE|(shout) Marisa Tomei!
+Jerry's Apartment|JERRY|Yeah, yeah, yeah.
+Jerry's Apartment|GEORGE|I mean, she's beautiful, right? She's just my type. The dark hair, the full lips.
+Jerry's Apartment|action|George wanders to the couch, Jerry following with his plate of pie and ice cream.
+Jerry's Apartment|JERRY|You like full lips.
+Jerry's Apartment|GEORGE|Oh, I love full lips. Something you can really put the lipstick on.
+Jerry's Apartment|action|The two sit on the couch.
+Jerry's Apartment|JERRY|Mmm-mmm. Too bad you're engaged.
+Jerry's Apartment|action|Jerry takes a mouthful of pie.
+Jerry's Apartment|GEORGE|(downcast) Yeah, too bad. Too bad.
+Jerry's Apartment|action|There is a knock at the door.
+Jerry's Apartment|JERRY|(about the pie) This is no good.
+Jerry's Apartment|action|Jerry puts down the plate, gets up and opens the door, to reveal a guy in a Plaza Cable cap.
+Jerry's Apartment|JERRY|Hi.
+Jerry's Apartment|NICK|Hi, uh, excuse me. I'm uh, I'm with Plaza Cable. I'm sorry to bother you. I...I'm looking for the guy who lives over here. Been waiting about uh, heh, two hours. You uh, happen to know where he is?
+Jerry's Apartment|JERRY|No.
+Jerry's Apartment|NICK|If you see him, Could you just tell him the cable company was here?
+Jerry's Apartment|JERRY|Sure.
+Jerry's Apartment|NICK|Thanks.
+Jerry's Apartment|action|The guy leaves. Jerry closes the door and returns to the couch.
+Jerry's Apartment|JERRY|(about the cable guy) Nice people.
+Jerry's Apartment|action|Jerry sits beside George again.
+Jerry's Apartment|GEORGE|Listen, lemme ask you a question. What if I got a cup of coffee with her?
+Jerry's Apartment|JERRY|Well, what about Susan?
+Jerry's Apartment|GEORGE|(worked up) I can't have a cup of coffee with a person?! I'm not allowed to have coffee?!
+Jerry's Apartment|JERRY|Would you tell Susan about it?
+Jerry's Apartment|GEORGE|(frustrated) Not necessarily.
+Jerry's Apartment|JERRY|Well, if you can't tell Susan about it, then there's something wrong.
+Jerry's Apartment|GEORGE|(shouts) Of course there's something wrong! (points at Jerry) We had a pact!
+Jerry's Apartment|action|Jerry heads for the fridge, just as Kramer enters.
+Jerry's Apartment|JERRY|Hey, cable guy's looking for you.
+Jerry's Apartment|KRAMER|Oh, yeah?
+Jerry's Apartment|JERRY|Yeah.
+Jerry's Apartment|KRAMER|Oh. Yeah, I been getting HBO and Showtime for free. See, they just found out about it, so now they wanna come and take it out.
+Jerry's Apartment|JERRY|Well, said he was waiting about two hours. Seemed a little put out.
+Jerry's Apartment|KRAMER|Oh, was he? Was he? I guess the cable man doesn't like to be kept waiting.
+Jerry's Apartment|JERRY|You don't seem too bothered by it.
+Jerry's Apartment|KRAMER|You remember what they did to me ten years ago? "Oh, we'll be there in the morning between nine and one", or "We'll be there between two and six"! (quiet anger) And I sat there, hour after hour, without so much as a phone call. Finally, they show up, no apology, tracking mud all over my nice clean floors. (malice) Now, they want me to accommodate them. Well, looks like the shoe's on the other foot, doesn't it?
+Jerry's Apartment|JERRY|Boy, I've never seen you like this.
+Jerry's Apartment|KRAMER|Oh, you don't wanna get on my bad side.
+George's Apartment|action|George sits on his couch, watching My Cousin Vinnie on video. Onscreen, Marisa Tomei, is in court, explaining transmission systems.
+George's Apartment|MARISA|...positrack, which was not available on the sixty-four Buick Skylark.
+George's Apartment|action|Susan enters
+George's Apartment|SUSAN|Hey. (glances at TV) Hey what're you watching? What is that? My Cousin Vinnie?
+George's Apartment|GEORGE|Yeah.
+George's Apartment|action|Susan stands behind George as she speaks.
+George's Apartment|SUSAN|I thought you saw that before. How come you're watching that again?
+George's Apartment|GEORGE|I..I..I dunno.
+George's Apartment|SUSAN|Did you know Marisa Tomei won an Oscar for that? Boy, she's beautiful, don't you think? I wish I looked like that.
+George's Apartment|action|George daren't say anything, but from his expression it's clear he wishes Susan looked like that.
+George's Apartment|SUSAN|Turn it off. You're making me jealous. I'm gonna think you like her more than you like me.
+George's Apartment|action|Susan leaves to the bedroom.
+George's Apartment|GEORGE|(forcing a laugh) Hu, ha.
+George's Apartment|action|When Susan has gone, George picks up the phone and dials, keeping an eye open in case Susan returns.
+George's Apartment/Elaine's Apartment|GEORGE|(whispering) Elaine, it's me, George.
+George's Apartment/Elaine's Apartment|action|Elaine is sitting up in bed, reading a newspaper as she speaks to George.
+George's Apartment/Elaine's Apartment|ELAINE|George. How come you're whispering?
+George's Apartment/Elaine's Apartment|GEORGE|(still quiet) Never mind, never mind. I need you to do me a favour. Uhm, remember what we were talking about at the coffee shop earlier?
+George's Apartment/Elaine's Apartment|ELAINE|No.
+George's Apartment/Elaine's Apartment|GEORGE|(still quiet) Think, a second. You know, your friend was talking about me and, you know...
+George's Apartment/Elaine's Apartment|ELAINE|Ech, George, I have no idea what you're talking about.
+George's Apartment/Elaine's Apartment|GEORGE|(still quiet) The actress.
+George's Apartment/Elaine's Apartment|ELAINE|What?
+George's Apartment/Elaine's Apartment|GEORGE|(shouts) Marisa Tomei!
+George's Apartment/Elaine's Apartment|action|Susan hears from the bedroom.
+George's Apartment/Elaine's Apartment|GEORGE|(calling to Susan) Uh, ah, nothing. Nothing.
+George's Apartment/Elaine's Apartment|ELAINE|Oh, yeah. Yeah, what about her?
+George's Apartment/Elaine's Apartment|GEORGE|Well, uhm, I think I'd like to do it.
+George's Apartment/Elaine's Apartment|ELAINE|What? (shocked) What?! George, no way. You're engaged!
+George's Apartment/Elaine's Apartment|GEORGE|A cup of coffee. That, that doesn't mean anything.
+George's Apartment/Elaine's Apartment|ELAINE|Uhh. No George!
+George's Apartment/Elaine's Apartment|GEORGE|Elaine.
+George's Apartment/Elaine's Apartment|ELAINE|Forget it!
+George's Apartment/Elaine's Apartment|action|Elaine hangs up her phone in disgust.
+George's Apartment/Elaine's Apartment|GEORGE|Elaine! (shouts) ELAINE!!
+George's Apartment/Elaine's Apartment|action|Susan walks back in on George at this point. George quickly slips the phone under a cushion to conceal it, and goes back to watching My Cousin Vinnie, to provide an excuse for his raised voice.
+George's Apartment/Elaine's Apartment|GEORGE|D'oh...Oh, oh, the judge! I hate this guy!
+George's Apartment/Elaine's Apartment|action|Susan looks at him oddly.
+Jerry's Apartment|action|Jerry is packing some gear into a bag, while Elaine watches and Kramer peers out into the hall through Jerry's peephole.
+Jerry's Apartment|ELAINE|I can't believe you're buying your father a car.
+Jerry's Apartment|JERRY|And, best of all, it's a Cadillac.
+Jerry's Apartment|ELAINE|(sharp intake of breath) Hoh. A Cadillac! (impressed) Wow.
+Jerry's Apartment|action|Elaine seems to become a lot more interested in Jerry. She moves over to the table where Jerry's packing, and turns the 'flirt' knob to the 'on' position.
+Jerry's Apartment|ELAINE|I had no idea you had this kind of money.
+Jerry's Apartment|JERRY|Ahh, I uh, I don't like to talk about it.
+Jerry's Apartment|ELAINE|Yeah, I thought you were doing okay. I just didn't think you were in this kind of, you know, uh... position.
+Jerry's Apartment|JERRY|Ah, it's just money.
+Jerry's Apartment|ELAINE|(smiling) So, when're you getting back from Florida?
+Jerry's Apartment|JERRY|Oh, I don't know, play it by ear. Why?
+Jerry's Apartment|ELAINE|I don't know. (big smile) Just, things seem a little more exciting when you're around. That's all.
+Jerry's Apartment|JERRY|Are you okay?
+Jerry's Apartment|ELAINE|(squeaky) Sure, sure.
+Jerry's Apartment|JERRY|What was that?
+Jerry's Apartment|action|Kramer sees something through the peephole. He motions Jerry and Elaine to quieten down.
+Jerry's Apartment|KRAMER|Quiet, quiet.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Nick, the cable guy is standing by Kramer's door. George wanders up to Jerry's door and, as he gets there, is addressed.
+Jerry's Apartment/Hall Outside Jerry's Apartment|NICK|Hey, uh, you know the guy who lives here?
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|Yeah.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|George moves to open Jerry's door, but the cable guy is still talking.
+Jerry's Apartment/Hall Outside Jerry's Apartment|NICK|(quietly angry) All morning I been waiting here. All morning.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Peering through the peephole, Kramer makes a noise of excited satisfaction.
+Jerry's Apartment/Hall Outside Jerry's Apartment|NICK|(still angry) The guy says he's gonna be home. I show up and all I do is wait. I'm getting pretty sick and tired of it. I'm not gonna put up with it much longer.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|The cable guy stalks away. Inside Jerry's, Kramer turns to speak to Jerry and Elaine.
+Jerry's Apartment/Hall Outside Jerry's Apartment|KRAMER|I'm loving this.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Kramer lowers his eye to the peephole again, just as George opens the door. The door cracks Kramer on the forehead with a thump. George enters. Kramer peers round George to check the cable guy's gone.
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|Kramer, there's a guy out here that...
+Jerry's Apartment/Hall Outside Jerry's Apartment|KRAMER|Yeah, yeah. I know, I know.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Kramer exits and crosses the hall to his apartment. George closes the door behind himself, and takes off his coat. He notices Elaine.
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(pointedly to Elaine) Oh. Thanks very much for yesterday, by the way.
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|Jerry, he want me to fix him up with Marisa Tomei. I am not gonna be a part of this!
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(animated) Fixed up? A cup of coffee! A cup of coffee is not a fix up!
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|You wanna meet her. You wanna see if she likes you?
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(defensive) So what? So what if I do?
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|(shrill) You're engaged!
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(worked up) I'm aware! I'm aware!! But this is Marisa Tomei, Elaine. An Oscar winner! How can I live the rest of my life, knowing I coulda been with Marisa Tomei? She said I was just her type! She loves short, stocky, balding funny men!
+Jerry's Apartment/Hall Outside Jerry's Apartment|JERRY|I notice you threw 'stocky' in there.
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|Yeah, what the hell?!
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|George! It's cheating.
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(adamant) It's not cheating if there's no sex!
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|Yes it is!
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(frustrated) Ahh!
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|(looking for support) Jerry!
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Jerry is standing by the kitchen counter. He has a stack of bank notes and is counting them. Elaine is mesmerised by the sight of all that currency. She stands by the counter, her eyes locked onto the money.
+Jerry's Apartment/Hall Outside Jerry's Apartment|JERRY|Uhm, hold, hold on a second. (pauses counting) I'm, I'm sorry, I didn't hear what you said.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Elaine looks almost dizzy at the prospect of all that cash.
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(pleading) Elaine, c'mon. Would you just make the call? (indicates the phone) Please, make the call.
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|(distractedly) Yeah, yeah, fine, I'll make...
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Elaine picks up the phone and dials a number.
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(triumph) Alright.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Jerry resumes his counting, but has lost track of where he was up to. He stands, holding one bill, trying to recall. Elaine has obviously been paying more attention, even as she dialled the phone.
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|Eight-fifty.
+Jerry's Apartment/Hall Outside Jerry's Apartment|JERRY|Oh, right.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Elaine waits for the phone to be picked up.
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|So uh, how are you getting to the airport? D'you need a ride, or...
+Jerry's Apartment/Hall Outside Jerry's Apartment|JERRY|No, don't be silly, I've arranged a car.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|As Jerry goes to leave the kitchen, Elaine is sure to keep in his path, smiling flirtatiously.
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|You sure? You sure? 'Cos, you know...
+Jerry's Apartment/Hall Outside Jerry's Apartment|JERRY|Maybe I'll let you pick me up.
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|(big smile) Okay.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Jerry is finally allowed out of the kitchen by Elaine, and heads for the bedroom. The phone is picked up at the other end of Elaine's line. As Elaine speaks, George stands beside her, doing a little selection of dances.
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|Oh, hi. Uhm, is Katy there? (listens) Wh...? Uhm, what? (listens) Oh, really?
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|Well, could you tell her Elaine called? Yeah, thanks.
+Jerry's Apartment/Hall Outside Jerry's Apartment|action|Elaine turns to an expectant George.
+Jerry's Apartment/Hall Outside Jerry's Apartment|ELAINE|Huh, she's in the hospital. (concerned) She has an arrhythmia.
+Jerry's Apartment/Hall Outside Jerry's Apartment|GEORGE|(impatient) What about Marisa Tomei?!
+Morty and Helen's, Florida|action|Morty is eating a cookie at the kitchen table. Helen comes over and grabs the box he's eating from.
+Morty and Helen's, Florida|HELEN|Morty, what d'you have to open this box for? (waving at another box) There's already a box of cookies open.
+Morty and Helen's, Florida|MORTY|I wanted a Chip Ahoy.
+Morty and Helen's, Florida|HELEN|I don't like all these open boxes.
+Morty and Helen's, Florida|action|Helen puts both boxes of cookies away in a cupboard.
+Morty and Helen's, Florida|MORTY|Look, I got a few good years left. If I want a Chip Ahoy, I'm having it.
+Morty and Helen's, Florida|action|The door opens and Jerry enters, carrying his bags.
+Morty and Helen's, Florida|JERRY|Surprise!
+Morty and Helen's, Florida|MORTY|(shout) Jerry!
+Morty and Helen's, Florida|HELEN|(shock) Oh, my god!
+Morty and Helen's, Florida|MORTY|What the hell are you doing here?
+Morty and Helen's, Florida|JERRY|I'm a good son.
+Morty and Helen's, Florida|HELEN|Just like that? No calls?
+Morty and Helen's, Florida|JERRY|Just like that.
+Morty and Helen's, Florida|MORTY|Boy, you are really something.
+Morty and Helen's, Florida|HELEN|To what do we owe this great honour?
+Morty and Helen's, Florida|JERRY|You wanna know? Come on outside.
+Morty and Helen's, Florida|MORTY|Outside? What's going on?
+Morty and Helen's, Florida|HELEN|Whenever Jerry comes, something exciting happens.
+Morty and Helen's, Florida|action|Helen darts out of the door eagerly.
+Morty and Helen's, Florida|MORTY|(laughs) Heh hah!
+Morty and Helen's, Florida|JERRY|C'mon, c'mon.
+Morty and Helen's, Florida|action|Morty follows Helen outside.
+Outside Morty and Helen's, Florida|action|Standing at the kerb is a brand new, silver, Cadillac, gleaming in the Floridian sunshine. Jerry leads Morty and Helen over to it.
+Outside Morty and Helen's, Florida|JERRY|Well, what d'you think?
+Outside Morty and Helen's, Florida|MORTY|Look at this! Look at this! (excited) You bought a Cadillac?!
+Outside Morty and Helen's, Florida|JERRY|I bought it for you. It's yours.
+Outside Morty and Helen's, Florida|action|Morty and Helen both look astonished.
+Outside Morty and Helen's, Florida|MORTY|You what? You bought me a Cadillac?
+Outside Morty and Helen's, Florida|JERRY|I bought you a Cadillac. (hands over the keys) Here you go.
+Outside Morty and Helen's, Florida|HELEN|(sharply, to Jerry) Are you out of your mind?
+Outside Morty and Helen's, Florida|JERRY|What?
+Outside Morty and Helen's, Florida|MORTY|(to Helen) You don't want it? Are you kidding?
+Outside Morty and Helen's, Florida|HELEN|He's not buying us a Cadillac.
+Outside Morty and Helen's, Florida|MORTY|What are you, nuts?
+Outside Morty and Helen's, Florida|HELEN|It's a very nice gesture Jerry, but take it back.
+Outside Morty and Helen's, Florida|action|Helen wrests the keys from Morty's grasp and hands them back to Jerry.
+Outside Morty and Helen's, Florida|MORTY|(to Jerry) Can you believe this?!
+Outside Morty and Helen's, Florida|HELEN|I'm not letting him buy us a Cadillac. He hasn't got that kind of money.
+Outside Morty and Helen's, Florida|JERRY|How d'you know?
+Outside Morty and Helen's, Florida|HELEN|Oh, get out of here Mister Big Shot.
+Outside Morty and Helen's, Florida|JERRY|Why can't I buy my father a car?
+Outside Morty and Helen's, Florida|HELEN|Your father doesn't need a car.
+Outside Morty and Helen's, Florida|MORTY|Yes, I do!
+Outside Morty and Helen's, Florida|action|Morty grabs the keys back from Jerry.
+Outside Morty and Helen's, Florida|HELEN|Oh, Morty.
+Outside Morty and Helen's, Florida|MORTY|We're keeping it.
+Outside Morty and Helen's, Florida|HELEN|Over my dead body.
+Outside Morty and Helen's, Florida|action|Helen makes another grab for the keys, and she and Morty struggle for possession, watched by Jerry.
+Outside Morty and Helen's, Florida|JERRY|(under his breath) Well, this worked out just as I had hoped.
+Kramer's Apartment|action|Kramer sits on his couch reading a newspaper. Beside him, on a table, are his phone and an answering machine. The phone rings, but Kramer doesn't answer, instead allowing the machine to pick up.
+Kramer's Apartment|action|Kramer smiles on hearing the voice.
+Kramer's Apartment|action|Kramer puts down his paper and stretches out on the couch to listen.
+Kramer's Apartment|action|Kramer waves his fist, mocking the cable guy's anger. He laughs to himself.
+Outside Morty and Helen's, Florida|action|Morty is sitting in the Cadillac, with Jerry leaning on the door. They're going through the features of the car.
+Outside Morty and Helen's, Florida|MORTY|Hey Jerry, look at this. My seat's got a memory, in case somebody moves it. I could be in prison for five years. I come out, my seat goes right back to where I like it.
+Outside Morty and Helen's, Florida|JERRY|That's what I was thinking.
+Outside Morty and Helen's, Florida|action|Jack Klompus approaches the car.
+Outside Morty and Helen's, Florida|JACK|(pointing) Hello, Jerry.
+Outside Morty and Helen's, Florida|JERRY|Hiya, Jack.
+Outside Morty and Helen's, Florida|action|Morty gets out of the car, shuts the door and leans against it.
+Outside Morty and Helen's, Florida|MORTY|(indicating) So, how d'you like this?
+Outside Morty and Helen's, Florida|JACK|Who's car?
+Outside Morty and Helen's, Florida|MORTY|It's mine.
+Outside Morty and Helen's, Florida|JACK|Yours?
+Outside Morty and Helen's, Florida|MORTY|That's right. My son bought it for me.
+Outside Morty and Helen's, Florida|JACK|He what?
+Outside Morty and Helen's, Florida|MORTY|My son bought me the car. It's a present.
+Outside Morty and Helen's, Florida|JACK|(disbelief) You bought it?
+Outside Morty and Helen's, Florida|JERRY|That's right. I bought it.
+Outside Morty and Helen's, Florida|MORTY|You ever see one so nice?
+Outside Morty and Helen's, Florida|JACK|Some car.
+Outside Morty and Helen's, Florida|MORTY|You wanna take a ride?
+Outside Morty and Helen's, Florida|JACK|No, thank you.
+Outside Morty and Helen's, Florida|MORTY|C'mon, take a ride.
+Outside Morty and Helen's, Florida|JACK|I don't wanna take a ride.
+Outside Morty and Helen's, Florida|MORTY|Why not?
+Outside Morty and Helen's, Florida|JACK|I don't feel like taking a ride. Do I have to take a ride?!
+Outside Morty and Helen's, Florida|JERRY|He doesn't wanna take a ride.
+Outside Morty and Helen's, Florida|MORTY|Uh huh.
+Outside Morty and Helen's, Florida|JACK|(worked up) What d'you think? I've never ridden in a Cadillac before? Believe me, I've ridden in a Cadillac hundreds of times. Thousands.
+Outside Morty and Helen's, Florida|MORTY|(skeptical) Thousands?!
+Outside Morty and Helen's, Florida|JACK|What? D'you think you're such a big shot now, because you got a Cadillac?
+Outside Morty and Helen's, Florida|MORTY|(dismissive) Ahh!
+Outside Morty and Helen's, Florida|JACK|(dismissive) Yaah!
+Outside Morty and Helen's, Florida|action|Jack angrily stalks away.
+Outside Morty and Helen's, Florida|MORTY|Could you believe that guy?
+Outside Morty and Helen's, Florida|JERRY|Aahh!
+Hospital Room|action|George sits, talking enthusiastically to someone.
+Hospital Room|GEORGE|Anyway, I was thinking about what you said. About uh, me and Marisa.
+Hospital Room|action|The person he's talking to is Katy, who's unconscious, wearing an oxygen mask and has an intravenous drip in her.
+Hospital Room|GEORGE|You know, about the uh, two of us getting together. And I know that I said I was engaged, but (laughs) uh, you know, it's really just something you say. It's like, going steady. You know uh, going steady, engaged, it's, it's all just stuff you say. (chuckles) Anyway, I was watching uh, My Cousin Vinnie, on the uh, on the tape the other day, and I was thinking that uh, you know, the two of us might take a meeting, as they say. (chuckles) So, what d'you, what d'you think?
+Hospital Room|action|Katy is still unconscious.
+Hospital Room|GEORGE|(urgent) Move a pinkie, if it's yes. Can you move a pinkie?
+Kramer's Apartment|action|Kramer is reading a magazine on the couch. The phone rings and he answers it.
+Kramer's Apartment|KRAMER|Y'hello.
+Kramer's Apartment|action|Kramer smiles, as he recognises the voice.
+Kramer's Apartment|KRAMER|Hmm. Well, I haven't had any trouble.
+Kramer's Apartment|action|Kramer walks over to his window, and uses his fingers to open a couple of blades on his blinds. Peering through, he can see a public phone box across the street. Parked beside the box is a truck emblazoned with the Plaza Cable insignia, and in the box is the familiar figure of Nick, the cable guy.
+Kramer's Apartment|KRAMER|(playing along) Ohh, is that right? Well, I have been having a little trouble with my call-waiting.
+Kramer's Apartment|NICK|We can fix that. We can fix that.
+Kramer's Apartment|KRAMER|(sitting back on the couch) Oh, can you? That's funny, because, as it happens, I don't have call-waiting. Seems to me that the phone company would know that.
+Kramer's Apartment|NICK|Oh, right. (laughing it off) I'm sorry, I was looking at the wrong work order.
+Kramer's Apartment|KRAMER|Yeah. Could you hold on for a second? I've got something on the stove.
+Kramer's Apartment|action|Kramer puts the phone down beside a radio and switches it on. It plays cheesy music into the phone. Kramer gets up and heads out the door.
+Street|action|Nick, the cable guy, stands in the phone box. He's listening to the cheesy music on the phone, and getting impatient. He glances at his watch. Suddenly, a car horn blares and a shout is heard.
+Street|KRAMER|Hey, McNab!
+Street|action|The cable guy turns, to see Kramer leaning out of the window of a cab as it passes.
+Street|KRAMER|Chunnel's on HBO tonight. Why don't you stop by?
+Street|action|Kramer waves and smiles happily at the dumbstruck cable guy, as the cab accelerates away.
+Tenant's Committee, Florida|action|Around a table sit a number of residents, including an unhappy looking Jack Klompus. Morty is standing behind a lectern addressing the gathering. He bangs a gavel to get their attention.
+Tenant's Committee, Florida|MORTY|Alright. Next thing on the agenda, the restoration of the fence at the Briarwood gate. At the present time, we are still accepting bids.
+Tenant's Committee, Florida|HERB|C'mon Morty, it's been broken for six months already. What the hell are you doing?
+Tenant's Committee, Florida|MORTY|Well, I, as your president, have to find the best price, and right now, I for one, do not think it's cost-feasible.
+Tenant's Committee, Florida|JACK|(half to himself) I'll bet you don't.
+Tenant's Committee, Florida|MORTY|What was that?
+Tenant's Committee, Florida|JACK|C'mon Morty, the jig is up!
+Tenant's Committee, Florida|MORTY|What're you talking about?
+Tenant's Committee, Florida|JACK|I'm sorry. I'm sitting here, the whole meeting, holding my tongue. I've known you a long time, Morty, but I cannot hold it in any longer.
+Tenant's Committee, Florida|HERB|What's going on, Jack?
+Tenant's Committee, Florida|JACK|I'll tell you what's going on. Morty Seinfeld has been stealing funds from the treasury.
+Tenant's Committee, Florida|MORTY|Stealing?!
+Tenant's Committee, Florida|RALPH|What proof do you have?
+Tenant's Committee, Florida|JACK|Proof? You want proof? He's driving around in a brand new Cadillac. Now what more proof do you want?
+Tenant's Committee, Florida|MORTY|My son bought me that car!
+Tenant's Committee, Florida|JACK|Your son?
+Tenant's Committee, Florida|MORTY|Yeah.
+Tenant's Committee, Florida|JACK|Your son could never afford that car. We all saw his act, last year, at the playhouse. He's lucky he can pay his rent!
+Tenant's Committee, Florida|HERB|Jack's right! He stinks!
+Tenant's Committee, Florida|RALPH|It's his material.
+Tenant's Committee, Florida|MORTY|I tell you, he bought it for me!
+Tenant's Committee, Florida|HERB|(bangs table with his fist) I move for a full investigation!
+Tenant's Committee, Florida|RALPH|I second.
+Tenant's Committee, Florida|action|Morty looks dumbstruck.
+George's Apartment|action|George sits on the couch, watching Only You on the video. Onscreen, the ever-lovely Marisa is delivering her lines.
+George's Apartment|MARISA|...go introduce myself.
+George's Apartment|action|Susan enters, with a bag of groceries.
+George's Apartment|SUSAN|Hey! What're you watching? (looks at TV) Only You? That's another Marisa Tomei movie, and you've seen that one too. (jokingly) What, d'you have a thing for her?
+George's Apartment|GEORGE|(laughing it off and trying too hard) Yeah, yeah. I have a thing for Marisa Tomei. Like she would ever go out with a short, stocky, bald man. (forced laughter) Hu hu, ha ha. Like that's her type. Huh. She's an Oscar winner. (nervous laughter) He heh. Besides, I don't even know her. It's not like anyone's trying to fix us up. Who, who would try and fix me up with Marisa Tomei?
+George's Apartment|SUSAN|What are you talking about?
+George's Apartment|action|Susan wanders away into the kitchen with the groceries, looking bemused by George. George watches her go, staring at the kitchen door as he slips off into a daydream.
+George Dream Sequence|action|George stares at the kitchen door, which glows with golden light. Then Marisa Tomei slinks out of the kitchen in a long black dress, and her hair up. She comes and sits beside George on the couch, looking at him lovingly.
+George Dream Sequence|MARISA|Have I told you how much I love you today?
+George Dream Sequence|GEORGE|Not in the last fifteen minutes.
+George Dream Sequence|MARISA|Well, I do love you very much.
+George Dream Sequence|GEORGE|And I love you, Marisa.
+George Dream Sequence|MARISA|Well then, c'mon, get dressed. We're going to be late for the premiere.
+George Dream Sequence|action|George leans across and takes Marisa in his arms. They kiss and slowly recline onto the couch.
+George's Apartment|action|Susan returns from the kitchen, to find George kissing, and slowly reclining onto the couch with, a cushion. George runs a hand across his head, in the fashion of a loving Marisa's caress. Then he raises his head from the cushion to see Susan observing him. She turns and goes back into the kitchen, wordlessly. George puts the cushion on the arm of the couch and lies down.
+Morty and Helen's, Florida|action|Jerry sits on the couch and Helen is in the kitchen, as an anxious Morty delivers his news.
+Morty and Helen's, Florida|HELEN|Impeachment?
+Morty and Helen's, Florida|MORTY|That's right. Have you ever heard of anything like that?
+Morty and Helen's, Florida|HELEN|Can they do that?
+Morty and Helen's, Florida|MORTY|If they get the votes.
+Morty and Helen's, Florida|HELEN|I told you we shouldn't have let him give us the car.
+Morty and Helen's, Florida|JERRY|Didn't you tell 'em I got the bill of sale? That proves I paid for it.
+Morty and Helen's, Florida|MORTY|It doesn't make a difference. They think we're in cahoots.
+Morty and Helen's, Florida|JERRY|You know, you could put a fence around these condos, and call it an insane asylum. Nobody would know the difference!
+Morty and Helen's, Florida|MORTY|No-one's ever been impeached before. I couldn't live here. We'd have to move to Boca.
+Morty and Helen's, Florida|action|There's a knock at the door, and then it is opened and Evelyn walks in.
+Morty and Helen's, Florida|EVELYN|Hello?
+Morty and Helen's, Florida|JERRY|Oh, hi Evelyn.
+Morty and Helen's, Florida|action|Morty sits by the table.
+Morty and Helen's, Florida|EVELYN|Hello, Jerry. (to the senior Seinfelds) I just got off the phone with Saul Brandus.
+Morty and Helen's, Florida|HELEN|What'd he say?
+Morty and Helen's, Florida|EVELYN|He's voting to impeach.
+Morty and Helen's, Florida|action|Morty thumps the table with his fist.
+Morty and Helen's, Florida|EVELYN|Not because he think you stole the money, but mainly because you never thanked him for giving you his aisle seat at Freddy Roman's show.
+Morty and Helen's, Florida|MORTY|I did so thank him!
+Morty and Helen's, Florida|HELEN|(admonishing) No, he never heard you. (prods Morty's back) I told you he didn't hear you.
+Morty and Helen's, Florida|MORTY|Ah, he's deaf anyway.
+Morty and Helen's, Florida|EVELYN|Now, my sources tell me, there's three votes for impeachment, three votes against impeachment, and one undecided.
+Morty and Helen's, Florida|MORTY|Who's that?
+Morty and Helen's, Florida|EVELYN|Mrs Choate.
+Morty and Helen's, Florida|JERRY|Who's she?
+Morty and Helen's, Florida|MORTY|Oh, that one. She's been a member of the board longer than anybody. She's very tough to deal with.
+Morty and Helen's, Florida|HELEN|Maybe we should have her over for coffee, and explain our side of it?
+Morty and Helen's, Florida|MORTY|That's a good idea.
+Morty and Helen's, Florida|EVELYN|Okay. I'll see you at the Lichtenberg's, tonight.
+Morty and Helen's, Florida|HELEN|(surprise) The Lichtenberg's?
+Morty and Helen's, Florida|EVELYN|Yes, they're having a party.
+Morty and Helen's, Florida|HELEN|We weren't invited.
+Morty and Helen's, Florida|EVELYN|Oh. Probably they think you're too good for them. You know, because of the car.
+Morty and Helen's, Florida|action|Jerry puts his face in his hands.

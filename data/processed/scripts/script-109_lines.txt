@@ -1,0 +1,298 @@
+George and his date are talking in his car.|GEORGE|Take toilet paper for example. Do you realize that toilet paper has not changed in my lifetime? It's just paper on a cardboard roll, that's it. And in ten thousand years, it will still be exactly the same because really, what else can they do?
+George and his date are talking in his car.|SIENA|That's true. There really has been no development in toilet paper.
+George and his date are talking in his car.|GEORGE|And everything else has changed. But toilet paper is exactly the same, and will be so until we're dead.
+George and his date are talking in his car.|SIENA|Yeah, you're right George. What else can they do?
+George and his date are talking in his car.|GEORGE|It's just paper on a roll, that's it. And that's all it will ever be.
+George and his date are talking in his car.|SIENA|Wow.
+George and his date are talking in his car.|GEORGE|You find this interesting, don't you?
+George and his date are talking in his car.|SIENA|Yes. yes, I do.
+George and his date are talking in his car.|action|They stare at each other for a moment, then embrace.
+Jerry and Elaine are at the coffee shop.|ELAINE|(to the busboy) Oh, thanks very much, the soup was really good.
+Jerry and Elaine are at the coffee shop.|JERRY|What are you telling him for?
+Jerry and Elaine are at the coffee shop.|ELAINE|What?
+Jerry and Elaine are at the coffee shop.|JERRY|He's the busboy, you think he cares about the soup?
+Jerry and Elaine are at the coffee shop.|ELAINE|Yeah, why? Wouldn't he want the soup to be good?
+Jerry and Elaine are at the coffee shop.|JERRY|Elaine, it's all this guy can do to keep from killing himself. You think he's back there, talking to the chef, going, "Hey, they like the soup! Keep it up!"?
+Jerry and Elaine are at the coffee shop.|ELAINE|Hey, isn't that Alec Berg?
+Jerry and Elaine are at the coffee shop.|JERRY|Yep, Alec Berg. He's got a good 'John Houseman' name. Alec Beeerg. Mr. Beeerg.
+Jerry and Elaine are at the coffee shop.|ELAINE|I can't stand him, he is so pretentious.
+Jerry and Elaine are at the coffee shop.|JERRY|John Houseman?
+Jerry and Elaine are at the coffee shop.|ELAINE|No, Alec Berg.
+Jerry and Elaine are at the coffee shop.|ALEC|(approaching) Elaine!
+Jerry and Elaine are at the coffee shop.|ELAINE|Hi!
+Jerry and Elaine are at the coffee shop.|ALEC|Hi, how are you? Jerry.
+Jerry and Elaine are at the coffee shop.|JERRY|Hi, Alec.
+Jerry and Elaine are at the coffee shop.|ALEC|Did you hear about Gary Fogel?
+Jerry and Elaine are at the coffee shop.|JERRY|Yeah.
+Jerry and Elaine are at the coffee shop.|ALEC|You gonna go to the funeral on Friday?
+Jerry and Elaine are at the coffee shop.|JERRY|Yeah, hey did I see you on TV at the Ranger game? Were those your seats right behind the glass?
+Jerry and Elaine are at the coffee shop.|ALEC|Those are them, yeah. Season tickets. Uh, you know, unfortunately I can't go tonight, so they're available if you'd like to use them.
+Jerry and Elaine are at the coffee shop.|JERRY|Oh, I'd love to, are you sure?
+Jerry and Elaine are at the coffee shop.|ALEC|Absolutely, you just call my secretary, she'll arrange everything.
+Jerry and Elaine are at the coffee shop.|JERRY|Gee thanks! Thanks a lot!
+Jerry and Elaine are at the coffee shop.|ALEC|It's my pleasure. Be good. (Walking away, he stops abruptly) You know, I actually might not use them on Friday either so I'll let you know.
+Jerry and Elaine are at the coffee shop.|JERRY|Alright, thanks again.
+Jerry and Elaine are at the coffee shop.|ELAINE|Thank you very much.
+Jerry and Elaine are at the coffee shop.|JERRY|Really, thank you.
+Jerry and Elaine are back at his apartment.|JERRY|Well what about these nitwits that get on a plane with nothing to read? You know who these people are?
+Jerry and Elaine are back at his apartment.|ELAINE|Who?
+Jerry and Elaine are back at his apartment.|JERRY|These are the people that want to talk to you. They got nothing else to do, why not disturb you?
+Jerry and Elaine are back at his apartment.|ELAINE|I will never understand people.
+Jerry and Elaine are back at his apartment.|JERRY|They're the worst.
+Jerry and Elaine are back at his apartment.|action|George enters, carrying a bouquet of flowers and singing.
+Jerry and Elaine are back at his apartment.|GEORGE|Something's up, there's something in the air.
+Jerry and Elaine are back at his apartment.|JERRY|Well, what is with you?
+Jerry and Elaine are back at his apartment.|GEORGE|Well, I think this is it.
+Jerry and Elaine are back at his apartment.|ELAINE|What's it?
+Jerry and Elaine are back at his apartment.|GEORGE|I saw Siena again.
+Jerry and Elaine are back at his apartment.|ELAINE|Siena?
+Jerry and Elaine are back at his apartment.|JERRY|Yeah, he's dating a crayon.
+Jerry and Elaine are back at his apartment.|GEORGE|We discussed toilet paper.
+Jerry and Elaine are back at his apartment.|JERRY|Toilet paper?
+Jerry and Elaine are back at his apartment.|GEORGE|Yeah, I told her how toilet paper hasn't changed in my lifetime, and probably wouldn't change in the next fifty thousand years and she was fascinated, fascinated!
+Jerry and Elaine are back at his apartment.|JERRY|What are you talking about?
+Jerry and Elaine are back at his apartment.|ELAINE|Yeah.
+Jerry and Elaine are back at his apartment.|JERRY|Toilet paper's changed.
+Jerry and Elaine are back at his apartment.|ELAINE|Yeah.
+Jerry and Elaine are back at his apartment.|JERRY|It's softer.
+Jerry and Elaine are back at his apartment.|ELAINE|Softer.
+Jerry and Elaine are back at his apartment.|JERRY|More sheets per roll
+Jerry and Elaine are back at his apartment.|ELAINE|Sheets.
+Jerry and Elaine are back at his apartment.|JERRY|Comes in a wide variety of colors.
+Jerry and Elaine are back at his apartment.|ELAINE|Colors.
+Jerry and Elaine are back at his apartment.|GEORGE|Ok, ok, fine! It's changed, it's not really the point. Anyway, I'm thinking of making a big move.
+Jerry and Elaine are back at his apartment.|JERRY|What?
+Jerry and Elaine are back at his apartment.|GEORGE|I might tell her that I love her. I came this close last night, then I just chickened out.
+Jerry and Elaine are back at his apartment.|JERRY|Well, that's a big move, Georgie boy. Are you confident in the 'I love you' return?
+Jerry and Elaine are back at his apartment.|GEORGE|Fifty-fifty.
+Jerry and Elaine are back at his apartment.|JERRY|Cause if you don't get that return, that's a pretty big matzoh ball hanging out there.
+Jerry and Elaine are back at his apartment.|GEORGE|Aw, I've just got to say it once, everybody else gets to say it, why can't I say it?
+Jerry and Elaine are back at his apartment.|ELAINE|What, you never said it?
+Jerry and Elaine are back at his apartment.|GEORGE|Once, to a dog. He licked himself and left the room.
+Jerry and Elaine are back at his apartment.|JERRY|Well, so it wasn't a total loss.
+Jerry and Elaine are back at his apartment.|action|Kramer enters.
+Jerry and Elaine are back at his apartment.|KRAMER|Hey.
+Jerry and Elaine are back at his apartment.|JERRY|Hey, I forgot to tell you! I got tickets to the Rangers-Devils playoff game tonight!
+Jerry and Elaine are back at his apartment.|KRAMER|Oh, I'm there, Monongahela!
+Jerry and Elaine are back at his apartment.|JERRY|What about you, George?
+Jerry and Elaine are back at his apartment.|GEORGE|Eh eh eh, can't do it, can't do it, sorry, I got a date.
+Jerry and Elaine are back at his apartment.|KRAMER|So, so.
+Jerry and Elaine are back at his apartment.|GEORGE|Oh no no no, if you must know, I would rather be with her than go to the game.
+Jerry and Elaine are back at his apartment.|KRAMER|She must be a very special lady, huh George, yeah.
+Jerry and Elaine are back at his apartment.|JERRY|Well, what do I do with the extra ticket?
+Jerry and Elaine are back at his apartment.|ELAINE|Oh hey, can I bring David Puddy? He's a big Devils' fan.
+Jerry and Elaine are back at his apartment.|JERRY|Sure, fine with me.
+Jerry and Elaine are back at his apartment.|GEORGE|Hey, by the way, if anybody wants an inside tour of the zoo, Siena works there as a trainer.
+Jerry and Elaine are back at his apartment.|KRAMER|So she works at the zoo?
+Jerry and Elaine are back at his apartment.|GEORGE|Yeah, yeah.
+Jerry and Elaine are back at his apartment.|KRAMER|Yeah, like Diane Fosse. You know she's the only person that's ever been accepted into gorilla society. And you know, once those gorillas accept you, you got it made in the shade.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|So how long have you been a Devils' fan?
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|(off camera) Since I was a kid, I'm from Jersey.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|Yeah? Well, we're gonna kick your butts tonight.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|Hey, no way, man.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|Yes.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|We're primed.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|Alright, you almost ready? Cause Jerry and Kramer are gonna be here any second.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|action|Puddy enters wearing a Devils' jersey and red and green paint all over his face.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|What the--
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|So what do you think?
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|What is that?
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|I painted my face.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|(still in disbelief) You painted your face?
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|Yeah.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|Why?
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|You know, support the team.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|Well, you can't walk around like that.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|Why not?
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|Because it's insane?
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|Hey, you gotta let them know you're out there, this is the playoffs.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|action|There's a knock at the door, Puddy answers it. It's Jerry and Kramer. Kramer enters first and does a typical 'Kramer take' when he sees Puddy's painted face. He recovers quickly.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|KRAMER|Hey.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|Hey.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|ELAINE|Dave, um, painted his face.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|KRAMER|Yeah, that's cool. Well, you gotta support your team.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|Ok, ready to go?
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|KRAMER|Yeah.
+Elaine is at Puddy's apartment, waiting in the living room while he gets ready.|PUDDY|(startlingly loud) LET'S GET IT ON!!! Alright!! Go Devils!! Go Devils!! Let's go Devils!!
+Madison Square Garden, the four of them are at the game. Three are seated, Puddy has his face pressed against the glass as there's action in his corner.|PUDDY|You're dead, Messier! We're gonna get you, Messier!
+Madison Square Garden, the four of them are at the game. Three are seated, Puddy has his face pressed against the glass as there's action in his corner.|PUDDY|Hey man, I'm just trying to support the team.
+Madison Square Garden, the four of them are at the game. Three are seated, Puddy has his face pressed against the glass as there's action in his corner.|ELAINE|Will you sit down? You're disturbing everybody. Sit down!
+Madison Square Garden, the four of them are at the game. Three are seated, Puddy has his face pressed against the glass as there's action in his corner.|PUDDY|Oh yeah, because you're a Ranger fan and you know I'm messing with their heads.
+Madison Square Garden, the four of them are at the game. Three are seated, Puddy has his face pressed against the glass as there's action in his corner.|action|Just then the Devils score a goal and Puddy is back up, banging the glass.
+Madison Square Garden, the four of them are at the game. Three are seated, Puddy has his face pressed against the glass as there's action in his corner.|PUDDY|Go Devils!!
+George and Siena are sitting in the car again. They're listening to the hockey game on the radio.|GEORGE|You know, I could have actually gone to that.
+George and Siena are sitting in the car again. They're listening to the hockey game on the radio.|SIENA|So why didn't you?
+George and Siena are sitting in the car again. They're listening to the hockey game on the radio.|GEORGE|Well, I didn't want to break our date.
+George and Siena are sitting in the car again. They're listening to the hockey game on the radio.|SIENA|Oh, well.
+George and Siena are sitting in the car again. They're listening to the hockey game on the radio.|GEORGE|Because I... I love you.
+George and Siena are sitting in the car again. They're listening to the hockey game on the radio.|SIENA|You know, I'm hungry. Let's get something to eat.
+Jerry, Elaine, Kramer and Puddy are walking on the street after the game. The Devils must have won because Puddy is gloating.|PUDDY|Ha ha! We took it to you! You couldn't get it out of your zone all night. We were aggressive, we didn't let you penetrate!
+Jerry, Elaine, Kramer and Puddy are walking on the street after the game. The Devils must have won because Puddy is gloating.|KRAMER|Alright, that's enough out of you, there's still three more games left in this series, my friend, and it's far from being over. Very far from being over. (Notices a car coming right towards Puddy, who's crossing the street) Watch out!
+Jerry, Elaine, Kramer and Puddy are walking on the street after the game. The Devils must have won because Puddy is gloating.|action|The car stops just short of hitting Puddy. There's an old priest in the passenger seat.
+Jerry, Elaine, Kramer and Puddy are walking on the street after the game. The Devils must have won because Puddy is gloating.|PUDDY|(pounding the hood) Hey, what are you doing?! Watch where you're driving, man! (He approaches the passenger side window) Don't mess with the Devils, buddy. We're number one, we beat anybody! We're the Devils! The Devils!! Haaaa!!!
+Jerry, Elaine, Kramer and Puddy are walking on the street after the game. The Devils must have won because Puddy is gloating.|action|Puddy runs away, leaving the old priest shaken.
+Jerry and George are at the coffee shop.|JERRY|"I'm hungry. Let's get something to eat."
+Jerry and George are at the coffee shop.|GEORGE|Yup.
+Jerry and George are at the coffee shop.|JERRY|Big matzoh ball.
+Jerry and George are at the coffee shop.|GEORGE|Huge matzoh ball.
+Jerry and George are at the coffee shop.|JERRY|Those damn 'I love you' returns.
+Jerry and George are at the coffee shop.|GEORGE|Well, it's all over. I slipped up.
+Jerry and George are at the coffee shop.|JERRY|Oh, you don't know.
+Jerry and George are at the coffee shop.|GEORGE|You have any idea how fast these things deteriorate when there's an 'I love you' out of the bag? You can't have a relationship where one person says, "I love you", and the other says, "I'm hungry. Let's get something to eat.".
+Jerry and George are at the coffee shop.|JERRY|Unless you're married.
+Jerry and George are at the coffee shop.|GEORGE|I mean, now she thinks that I'm one of these guys that love her. Nobody wants to be with somebody that loves them.
+Jerry and George are at the coffee shop.|JERRY|No, people hate that.
+Jerry and George are at the coffee shop.|GEORGE|You want to be with somebody that doesn't like you.
+Jerry and George are at the coffee shop.|JERRY|Ideally.
+Jerry and George are at the coffee shop.|GEORGE|I am never saying 'I love you' again unless they say it first.
+Jerry and George are at the coffee shop.|WAITRESS|Matzoh ball soup?
+Jerry and George are at the coffee shop.|GEORGE|That'd be me.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Hey, Jerry? You're a smart guy, right?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|No question about it.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Alright, you know I'm supposed to go on this special tour today with George's girlfriend.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|At the zoo?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Yeah, but before I met up with her, I stopped to look at the monkeys, when all of a sudden I am hit in the face with a banana peel. I turn and look and there is this monkey really laughing it up. Then someone tells me that he did it. Well, I pick up the banana peel and I wait for that monkey to turn around. And then I *whap* let him have it.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|Kramer, you threw a banana peel at a monkey?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Well, he started it!
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|It's a monkey, Kramer!
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Well, he pushed my buttons, I couldn't help it, Jerry.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|Well, I still think it's wrong.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Alright, alright, fine. You take the monkey's side, alright, go ahead.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|I'm not taking anyone's side.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|(walking out) Cause I know what happened, Jerry. (remembering something and walking back in) Did you call Alec Berg and thank him for the hockey tickets?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|No.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Oh, Jerry, what are you waiting for?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|What do I gotta call him for? I thanked him five times when he gave them to me, how many time I gotta thank him?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Oh, no no no, you gotta call him the next day, it's common courtesy.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|No, I don't believe in it. I'm taking a stand against all this over thanking.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Jerry, good manners are the glue of society.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|Hey, if I knew I had to give him eight million 'thank you's, I wouldn't have taken the tickets in the first place.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Alright, you know what this is gonna do? He's gonna be upset because you didn't call him and we're not gonna get those tickets for Friday night.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|Ah, you're out of your mind.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Alright, where you going?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|I gotta get a suit cleaned, I have a funeral on Friday.
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|Who died?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|Remember the guy who pretended he had cancer so O would buy him the toupee?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|KRAMER|So he actually had it?
+Jerry enters his apartment carrying a bag of groceries. As soon as Jerry closes the door, we hear Kramer's door open and close. That moment, Kramer walks in.|JERRY|No, car accident. He was trying to adjust his toupee while he was driving and he lost control of the car.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|ELAINE|That poor priest. He was just visiting from El Salvador. Now he's gone completely loco.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|JERRY|The one Puddy screamed at in the car?
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|ELAINE|Yeah. He thinks he saw the devil. He won't leave his room in the church basement.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|JERRY|Well, that's what you get for getting mixed up with a face painter.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|ELAINE|I mean, what compels a seemingly normal human being to do something like that?
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|JERRY|Gotta support the team.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|action|Several women weep off camera. Elaine inspects her outfit.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|ELAINE|You know I really hate my clothes.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|JERRY|Hm.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|ELAINE|I open up my closet, there's just nothing.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|JERRY|Hm.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|ELAINE|Nothing. I hate everything I have, I really hate it. (The weeping increases in volume and intensity) I mean, at this point, it's like I can wear something three or four times and that's it.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|JERRY|Hm.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|ELAINE|It's getting to be a terrible problem for me.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|JERRY|(noticing Alec Berg walk in, whispers) Hey, Alec!
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|action|Alec barely acknowledges the greeting and takes a seat.
+Riverside Gramercy Chapel. Jerry and Elaine are at Gary Fogel's funeral.|JERRY|Did you see that? What kind of a 'hello' was that?
+Kramer is in the office at the zoo.|KRAMER|Yes.
+Kramer is in the office at the zoo.|KRAMER|So, uh, what did you want to see me about?
+Kramer is in the office at the zoo.|KRAMER|Barry?
+Kramer is in the office at the zoo.|KRAMER|Oh. Well, uh, what's the problem?
+Kramer is in the office at the zoo.|KRAMER|So, so what do you want me to do?
+Kramer is in the office at the zoo.|KRAMER|Yeah, well he started it.
+Kramer is in the office at the zoo.|KRAMER|So am I. What about my feelings? Don't my feelings count for anything? Oh, only the poor monkey's important. Everything has to be done for the monkey! Look, I'm sorry. I--
+Kramer is in the office at the zoo.|SIENA|Hey, that's ok. Well, I've gotta go feed the marmosets.
+Kramer is in the office at the zoo.|KRAMER|(to Siena as she's walking out, but she appears to ignore) You know George really likes you.
+Kramer is in the office at the zoo.|KRAMER|Oh.
+Jerry and George are at Jerry's apartment.|JERRY|I mean, do you think it's possible that he's mad at me because he didn't get the day-after 'thank you'?
+Jerry and George are at Jerry's apartment.|GEORGE|Wait a minute, you were at a funeral, right?
+Jerry and George are at Jerry's apartment.|JERRY|Yeah.
+Jerry and George are at Jerry's apartment.|GEORGE|Well, people never give a good 'hello' at a funeral. I mean, they go like this (George gives an extremely understated nod) That's the biggest.
+Jerry and George are at Jerry's apartment.|JERRY|Yeah, yeah, that's kinda what he gave me.
+Jerry and George are at Jerry's apartment.|GEORGE|Hey, they can't go, "Hey! You look fabulous!"
+Jerry and George are at Jerry's apartment.|action|Kramer enters.
+Jerry and George are at Jerry's apartment.|JERRY|Hey.
+Jerry and George are at Jerry's apartment.|KRAMER|Hey. Well, I just spoke to your girlfriend.
+Jerry and George are at Jerry's apartment.|GEORGE|Girlfriend, yeah, right.
+Jerry and George are at Jerry's apartment.|KRAMER|Anyway, she asked me to apologize to Barry.
+Jerry and George are at Jerry's apartment.|GEORGE|Barry?
+Jerry and George are at Jerry's apartment.|KRAMER|The monkey.
+Jerry and George are at Jerry's apartment.|JERRY|Well?
+Jerry and George are at Jerry's apartment.|KRAMER|Nothing doing. Jerry, I didn't do anything. It's the monkey that should be apologizing to me.
+Jerry and George are at Jerry's apartment.|JERRY|Well, I don't think that's gonna happen.
+Jerry and George are at Jerry's apartment.|KRAMER|Well, I'm sorry. Well, George, I tried to put the good word in for you with Siena, but I don't think she heard me. You know, left ear?
+Jerry and George are at Jerry's apartment.|GEORGE|What?
+Jerry and George are at Jerry's apartment.|KRAMER|Yeah, her boss told me that she can't hear very well out of her left ear. What, you didn't know that?
+Jerry and George are at Jerry's apartment.|GEORGE|Oh my god.
+Jerry and George are at Jerry's apartment.|JERRY|What?
+Jerry and George are at Jerry's apartment.|GEORGE|She probably never heard it. Don't you see what this means? It's like the whole thing never happened. It's like when Superman reversed the rotation of the earth to save Lois Lane!
+Jerry and George are at Jerry's apartment.|JERRY|Are you gonna say it again?
+Jerry and George are at Jerry's apartment.|GEORGE|That's the question, Jimmy.
+Jerry and George are still at Jerry's apartment, some time has passed.|GEORGE|I'm gonna do it.
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|What? After what you just went through, I thought you said you'd never say it again.
+Jerry and George are still at Jerry's apartment, some time has passed.|GEORGE|I'd like to say it once to someone that can actually hear it!
+Jerry and George are still at Jerry's apartment, some time has passed.|action|George storms out of the apartment as Kramer enters.
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|What's going on?
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|He's gonna talk into her other ear.
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|Oh. Well listen, I almost forgot to ask you. What happened at the funeral? Now, did you talk to Alec berg?
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|Yeah, I saw him.
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|Alright, so he's gonna give you the hockey tickets, huh?
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|Well, not exactly.
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|He's mad, isn't he? See, I knew it.
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|I don't know if he's mad.
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|Alright, so what happened when you saw him?
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|Well, I didn't really get a good 'hello', but see, I was at a funeral.
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|Uh huh.
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|See, so I don't know if I got a funeral 'hello' or he was mad because he didn't get his day-after 'thank you'.
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|See, I told you, Jerry, I told you!
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|Look, what do you want me to do?
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|I want you to get on this phone and give him his 'thank you'!
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|No. No, I can't!
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|Jerry, this is the way society functions. Aren't you a part of society? Because if you don't want to be a part of society, Jerry, why don't you just get in your car and move to the East Side!
+Jerry and George are still at Jerry's apartment, some time has passed.|JERRY|Look, we got five hours before the game. I am betting it was a funeral 'hello'. He knows we're here, he knows the number, he knows we want to go. There's plenty of time for him to call and give us the tickets.
+Jerry and George are still at Jerry's apartment, some time has passed.|KRAMER|You stubborn, stupid, silly man!
+Elaine and Puddy are at Elaine's apartment.|PUDDY|Hey, great dip. You made this?
+Elaine and Puddy are at Elaine's apartment.|ELAINE|No, it's from the store.
+Elaine and Puddy are at Elaine's apartment.|PUDDY|Oh. Hey, how come people don't have dip for dinner? Why is it only a snack, why can't it be a meal, you know? I don't understand stuff like that.
+Elaine and Puddy are at Elaine's apartment.|ELAINE|David? David, I think we aught to talk.
+Elaine and Puddy are at Elaine's apartment.|PUDDY|Alright, that's cool.
+Elaine and Puddy are at Elaine's apartment.|ELAINE|David, I don't think we should see each other anymore.
+Elaine and Puddy are at Elaine's apartment.|PUDDY|You gotta be kidding, how come?
+Elaine and Puddy are at Elaine's apartment.|ELAINE|Well, you see, David, you're a face painter.
+Elaine and Puddy are at Elaine's apartment.|PUDDY|Yeah, that's right.
+Elaine and Puddy are at Elaine's apartment.|ELAINE|Well, it's not that I don't like you, but, well to be perfectly honest, I'm just having some trouble getting past the face painting.
+Elaine and Puddy are at Elaine's apartment.|PUDDY|Well, alright, so you don't like the face painting, I just won't paint it anymore.
+Elaine and Puddy are at Elaine's apartment.|ELAINE|Yeah, but you like the face painting.
+Elaine and Puddy are at Elaine's apartment.|PUDDY|Well, I don't need to do it. It's not like a habit or anything.
+Elaine and Puddy are at Elaine's apartment.|ELAINE|Oh. You mean you'd stop it for me?
+Elaine and Puddy are at Elaine's apartment.|PUDDY|Yeah, that's right.
+Elaine and Puddy are at Elaine's apartment.|ELAINE|That's so, that's so sweet.
+Elaine and Puddy are at Elaine's apartment.|PUDDY|Ah, c'mere. (They kiss) Alright, I gotta go home and get changed before the game. I'll be back, we'll make out.
+George and Siena are making out in his car.|GEORGE|Siena, I love you.
+George and Siena are making out in his car.|SIENA|Yeah, I know. I heard you the first time.
+George and Siena are making out in his car.|GEORGE|Yeah. Just confirming.
+Jerry is sitting alone in his apartment waiting for Alec to call. The phone rings, Jerry answers.|JERRY|Hello? Oh, hi mom. No, listen, I was expecting somebody else. I'm sorry, I can't talk now, I gotta keep the line clear, I'll call you later. Yes, I know I have call waiting but I don't trust it in an emergency. Good bye.
+Kramer is at the zoo, talking with Barry, the monkey.|KRAMER|Anyway, I um, I just want to say that I'm sorry. I lost my temper and I probably shouldn't have. I took it out on you and, look, if I've caused you any problems as a result of my behavior, well then, I'm sorry. I apologize. Even though, Barry, between me and you, we both know that you started it. I mean, who's kidding who? But they tell me that you're very upset, and god forbid I should disturb the very important monkey, I'm just hoping we can put this behind us, let's just move on with our lives, ok? So no hard feelings?
+Elaine's apartment, Elaine and Puddy are making out. She unbuttons his shirt and notices something peculiar.|ELAINE|What is that?
+Elaine's apartment, Elaine and Puddy are making out. She unbuttons his shirt and notices something peculiar.|PUDDY|That's the letter 'D'.
+Elaine's apartment, Elaine and Puddy are making out. She unbuttons his shirt and notices something peculiar.|ELAINE|Why is the letter 'D' painted on your chest?
+Elaine's apartment, Elaine and Puddy are making out. She unbuttons his shirt and notices something peculiar.|PUDDY|Well, I'm going to the game tonight, and me and these five other guys are gonna take our shirts off and spell out 'Devils'.
+Elaine's apartment, Elaine and Puddy are making out. She unbuttons his shirt and notices something peculiar.|ELAINE|But you said no more painting.
+Elaine's apartment, Elaine and Puddy are making out. She unbuttons his shirt and notices something peculiar.|PUDDY|No, I said no more face painting, and as you can see this is not my face.
+Elaine's apartment, Elaine and Puddy are making out. She unbuttons his shirt and notices something peculiar.|ELAINE|Yeah, that's right.
+Jerry is still waiting for the phone call. Kramer enters.|KRAMER|Well? Did he call?
+Jerry is still waiting for the phone call. Kramer enters.|JERRY|No.
+Jerry is still waiting for the phone call. Kramer enters.|KRAMER|Oh, come on, Jerry! Come on, this is stupid! It's six o'clock! It's all over, just pick up the phone and thank him!
+Jerry is still waiting for the phone call. Kramer enters.|JERRY|Alright! (picks up the phone and dials) Hello, Alec? Hi, it's Jerry Seinfeld. You know, you got a great 'John Houseman' name. Alec Berg. Did you hand in your assignment, Mr. Berg?
+Jerry is still waiting for the phone call. Kramer enters.|ALEC|What can I do for you, Jerry?
+Jerry is still waiting for the phone call. Kramer enters.|JERRY|Well, Alec, the reason I called is I just wanted to thank you for the tickets from the other night.
+Jerry is still waiting for the phone call. Kramer enters.|ALEC|I wish you'd called me earlier, I could have given you my tickets for tonight.
+Jerry is still waiting for the phone call. Kramer enters.|JERRY|Oh, you already gave them away?
+Jerry is still waiting for the phone call. Kramer enters.|ALEC|Yeah, but you know what? I have a friend, he's got a couple of seats. If you don't mind the nose bleed section, they're yours.
+Jerry is still waiting for the phone call. Kramer enters.|JERRY|No, we don't care, we just want to go.
+Jerry is still waiting for the phone call. Kramer enters.|ALEC|There is one little catch, though.
+Exterior shot of MSG marquee announcing the Rangers vs Devils playoff game tonight. Cut to some on-ice action, then to the cheap seats where Puddy, Jerry and Kramer are seated, shirtless.|PUDDY|Hey, great game, huh?
+Exterior shot of MSG marquee announcing the Rangers vs Devils playoff game tonight. Cut to some on-ice action, then to the cheap seats where Puddy, Jerry and Kramer are seated, shirtless.|action|The Devils score a goal, Puddy stands up screaming and drags Jerry and Kramer to their feet. Alongside Puddy's 'D', Jerry sports an 'E' on his chest, Kramer has a 'V' on his, and three more shirtless guys bearing 'I',' L' and 'S' rise alongside them. All are cheering wildly, except for Jerry and Kramer who stand silent.
+The El Salvadoran priest is in his bedroom, another priest is at his bedside.|PRIEST|Father Hernandez?
+The El Salvadoran priest is in his bedroom, another priest is at his bedside.|PRIEST|Una senora que te vino a ver. Ella dice que tiene informacion muy importante, y que te puede ayudar. (Subtitled: "A woman here to see you, she has important information that could be helpful to you.")
+The El Salvadoran priest is in his bedroom, another priest is at his bedside.|PRIEST|Al fini finalmente paró el llover. (Subtitled: "Finally it stopped raining.")
+The El Salvadoran priest is in his bedroom, another priest is at his bedside.|action|The priest shows Elaine into the room, she's wearing a white raincoat with a hood. As she approaches the bed, she's backlit by the sunlight coming through the window.
+The El Salvadoran priest is in his bedroom, another priest is at his bedside.|ELAINE|Hello father.

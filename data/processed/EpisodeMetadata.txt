@@ -1,0 +1,181 @@
+overall_no|season_no|episode_no|title|directors|writers|air_date|production_code|us_viewers
+1|1|1|"Good News, Bad News"|Art Wolff|Larry David, Jerry Seinfeld|1989-07-05|101|15.4
+2|1|2|"The Stake Out"|Tom Cherones|Larry David, Jerry Seinfeld|1990-05-31|103|22.5
+3|1|3|"The Robbery"|Tom Cherones|Matt Goldman|1990-06-07|104|19.7
+4|1|4|"Male Unbonding"|Tom Cherones|Larry David, Jerry Seinfeld|1990-06-14|102|19.1
+5|1|5|"The Stock Tip"|Tom Cherones|Larry David, Jerry Seinfeld|1990-06-21|105|19.4
+6|2|1|"The Ex-Girlfriend"|Tom Cherones|Larry David, Jerry Seinfeld|1991-01-23|201|15.6
+7|2|2|"The Pony Remark"|Tom Cherones|Larry David, Jerry Seinfeld|1991-01-30|202|15.2
+8|2|3|"The Jacket"|Tom Cherones|Larry David, Jerry Seinfeld|1991-02-06|205|14.8
+9|2|4|"The Phone Message"|Tom Cherones|Larry David, Jerry Seinfeld|1991-02-13|207|13.6
+10|2|5|"The Apartment"|Tom Cherones|Peter Mehlman|1991-04-04|208|24.7
+11|2|6|"The Statue"|Tom Cherones|Larry Charles|1991-04-11|210|23.3
+12|2|7|"The Revenge"|Tom Cherones|Larry David|1991-04-18|212|19.6
+13|2|8|"The Heart Attack"|Tom Cherones|Larry Charles|1991-04-25|211|20.6
+14|2|9|"The Deal"|Tom Cherones|Larry David|1991-05-02|213|22.9
+15|2|10|"The Baby Shower"|Tom Cherones|Larry Charles|1991-05-16|204|17.2
+16|2|11|"The Chinese Restaurant"|Tom Cherones|Larry David, Jerry Seinfeld|1991-05-23|206|16.8
+17|2|12|"The Busboy"|Tom Cherones|Larry David, Jerry Seinfeld|1991-06-26|203|12.5
+18|3|1|"The Note"|Tom Cherones|Larry David|1991-09-18|301|21.7
+19|3|2|"The Truth"|David Steinberg|Elaine Pope|1991-09-25|302|16.7
+20|3|3|"The Pen"|Tom Cherones|Larry David|1991-10-02|305|15.1
+21|3|4|"The Dog"|Tom Cherones|Larry David|1991-10-09|303|17.2
+22|3|5|"The Library"|Joshua White|Larry Charles|1991-10-16|304|16.4
+23|3|6|"The Parking Garage"|Tom Cherones|Larry David|1991-10-30|306|17.0
+24|3|7|"The Café"|Tom Cherones|Tom Leopold|1991-11-06|307|16.4
+25|3|8|"The Tape"|David Steinberg|Larry David, Bob Shaw, Don McEnery|1991-11-13|308|15.8
+26|3|9|"The Nose Job"|Tom Cherones|Peter Mehlman|1991-11-20|309|16.3
+27|3|10|"The Stranded"|Tom Cherones|Larry David, Jerry Seinfeld, Matt Goldman|1991-11-27|209|18.6
+28|3|11|"The Alternate Side"|Tom Cherones|Larry David, Bill Masters|1991-12-04|310|18.0
+29|3|12|"The Red Dot"|Tom Cherones|Larry David|1991-12-11|311|17.9
+30|3|13|"The Subway"|Tom Cherones|Larry Charles|1992-01-08|313|18.7
+31|3|14|"The Pez Dispenser"|Tom Cherones|Larry David|1992-01-15|314|19.2
+32|3|15|"The Suicide"|Tom Cherones|Tom Leopold|1992-01-29|312|16.9
+33|3|16|"The Fix-Up"|Tom Cherones|Elaine Pope, Larry Charles|1992-02-05|317|18.5
+34|3|17|"The Boyfriend"|Tom Cherones|Larry David, Larry Levin|1992-02-12|315|17.0
+35|3|18|"The New Friend"|Tom Cherones|Larry David, Larry Levin|1992-02-12|316|17.0
+36|3|19|"The Limo"|Tom Cherones|Marc Jaffe, Larry Charles|1992-02-26|318|19.5
+37|3|20|"The Good Samaritan"|Jason Alexander|Peter Mehlman|1992-03-04|319|16.1
+38|3|21|"The Letter"|Tom Cherones|Larry David|1992-03-25|320|22.3
+39|3|22|"The Parking Space"|Tom Cherones|Larry David, Greg Daniels|1992-04-22|322|17.8
+40|3|23|"The Keys"|Tom Cherones|Larry Charles|1992-05-06|321|16.4
+41|4|1|"The Trip (Part 1)"|Tom Cherones|Larry Charles|1992-08-12|401|16.3
+42|4|2|"The Trip (Part 2)"|Tom Cherones|Larry Charles|1992-08-19|402|15.1
+43|4|3|"The Pitch"|Tom Cherones|Larry David|1992-09-16|403|17.6
+44|4|4|"The Ticket"|Tom Cherones|Larry David|1992-09-16|404|17.6
+45|4|5|"The Wallet"|Tom Cherones|Larry David|1992-09-23|405|17.6
+46|4|6|"The Watch"|Tom Cherones|Larry David|1992-09-30|406|15.2
+47|4|7|"The Bubble Boy"|Tom Cherones|Larry David, Larry Charles|1992-10-07|407|17.1
+48|4|8|"The Cheever Letters"|Tom Cherones|Larry David, Elaine Pope, Tom Leopold, Larry David|1992-10-28|408|15.1
+49|4|9|"The Opera"|Tom Cherones|Larry Charles|1992-11-04|409|16.7
+50|4|10|"The Virgin"|Tom Cherones|Peter Mehlman, Peter Farrelly, Bob Farrelly, Peter Mehlman|1992-11-11|410|16.2
+51|4|11|"The Contest"|Tom Cherones|Larry David|1992-11-18|411|18.5
+52|4|12|"The Airport"|Tom Cherones|Larry Charles|1992-11-25|412|14.5
+53|4|13|"The Pick"|Tom Cherones|Larry David, Marc Jaffe, Larry David|1992-12-16|413|16.2
+54|4|14|"The Movie"|Tom Cherones|Steve Skrovan, Bill Masters, Jon Hayman|1993-01-06|415|17.6
+55|4|15|"The Visa"|Tom Cherones|Peter Mehlman|1993-01-27|414|0.0
+56|4|16|"The Shoes"|Tom Cherones|Larry David, Jerry Seinfeld|1993-02-04|417|26.9
+57|4|17|"The Outing"|Tom Cherones|Larry Charles|1993-02-11|416|28.0
+58|4|18|"The Old Man"|Tom Cherones|Bruce Kirschbaum, Larry Charles|1993-02-18|418|22.7
+59|4|19|"The Implant"|Tom Cherones|Peter Mehlman|1993-02-25|419|27.4
+60|4|20|"The Junior Mint"|Tom Cherones|Andy Robin|1993-03-18|421|26.4
+61|4|21|"The Smelly Car"|Tom Cherones|Larry David, Peter Mehlman|1993-04-15|422|25.0
+62|4|22|"The Handicap Spot"|Tom Cherones|Larry David|1993-05-13|420|27.6
+63|4|23|"The Pilot"|Tom Cherones|Larry David|1993-05-20|423|32.8
+64|4|24|"The Pilot"|Tom Cherones|Larry David|1993-05-20|424|32.8
+65|5|1|"The Mango"|Tom Cherones|Lawrence H. Levy, Lawrence H. Levy, Larry David|1993-09-16|501|28.2
+66|5|2|"The Puffy Shirt"|Tom Cherones|Larry David|1993-09-23|503|29.5
+67|5|3|"The Glasses"|Tom Cherones|Tom Gammill, Max Pross|1993-09-30|502|28.7
+68|5|4|"The Sniffing Accountant"|Tom Cherones|Larry David, Jerry Seinfeld|1993-10-07|504|28.4
+69|5|5|"The Bris"|Tom Cherones|Larry Charles|1993-10-14|505|28.7
+70|5|6|"The Lip Reader"|Tom Cherones|Carol Leifer|1993-10-28|506|31.0
+71|5|7|"The Non-Fat Yogurt"|Tom Cherones|Larry David|1993-11-04|508|31.1
+72|5|8|"The Barber"|Tom Cherones|Andy Robin|1993-11-11|507|29.7
+73|5|9|"The Masseuse"|Tom Cherones|Peter Mehlman|1993-11-18|509|27.7
+74|5|10|"The Cigar Store Indian"|Tom Cherones|Tom Gammill, Max Pross|1993-12-09|510|29.6
+75|5|11|"The Conversion"|Tom Cherones|Bruce Kirschbaum|1993-12-16|511|28.3
+76|5|12|"The Stall"|Tom Cherones|Larry Charles|1994-01-06|512|35.0
+77|5|13|"The Dinner Party"|Tom Cherones|Larry David|1994-02-03|514|33.0
+78|5|14|"The Marine Biologist"|Tom Cherones|Ron Hauge, Charlie Rubin|1994-02-10|513|35.0
+79|5|15|"The Pie"|Tom Cherones|Tom Gammill, Max Pross|1994-02-17|515|N/A
+80|5|16|"The Stand-In"|Tom Cherones|Larry David|1994-02-24|516|25.4
+81|5|17|"The Wife"|Tom Cherones|Peter Mehlman|1994-03-17|517|30.7
+82|5|18|"The Raincoats"|Tom Cherones|Tom Gammill, Max Pross, Larry David, Jerry Seinfeld|1994-04-28|519|29.6
+83|5|19|"The Raincoats"|Tom Cherones|Tom Gammill, Max Pross, Larry David, Jerry Seinfeld|1994-04-28|520|29.6
+84|5|20|"The Fire"|Tom Cherones|Larry Charles|1994-05-05|518|27.6
+85|5|21|"The Hamptons"|Tom Cherones|Peter Mehlman, Carol Leifer|1994-05-12|522|24.5
+86|5|22|"The Opposite"|Tom Cherones|Andy Cowan, Larry David, Jerry Seinfeld|1994-05-19|521|30.1
+87|6|1|"The Chaperone"|Andy Ackerman|Larry David, Bill Masters, Bob Shaw|1994-09-22|601|32.8
+88|6|2|"The Big Salad"|Andy Ackerman|Larry David|1994-09-29|602|32.4
+89|6|3|"The Pledge Drive"|Andy Ackerman|Tom Gammill, Max Pross|1994-10-06|603|29.8
+90|6|4|"The Chinese Woman"|Andy Ackerman|Peter Mehlman|1994-10-13|604|29.2
+91|6|5|"The Couch"|Andy Ackerman|Larry David|1994-10-27|605|28.0
+92|6|6|"The Gymnast"|Andy Ackerman|Alec Berg, Jeff Schaffer|1994-11-03|606|30.6
+93|6|7|"The Soup"|Andy Ackerman|Fred Stoller|1994-11-10|608|29.6
+94|6|8|"The Mom, Pop Store"|Andy Ackerman|Tom Gammill, Max Pross|1994-11-17|607|32.4
+95|6|9|"The Secretary"|David Owen Trainor|Carol Leifer, Marjorie Gross|1994-12-08|609|29.7
+96|6|10|"The Race"|Andy Ackerman|Tom Gammill, Max Pross, Larry David, Sam Kass, Tom Gammill, Max Pross, Larry David|1994-12-15|612|26.8
+97|6|11|"The Switch"|Andy Ackerman|Bruce Kirschbaum, Sam Kass|1995-01-05|610|36.6
+98|6|12|"The Label Maker"|Andy Ackerman|Alec Berg, Jeff Schaffer|1995-01-19|611|36.2
+99|6|13|"The Scofflaw"|Andy Ackerman|Peter Mehlman|1995-01-26|613|33.4
+100|6|14|"The Highlights of 100"|Andy Ackerman|Peter Mehlman|1995-02-02|623|34.0
+101|6|15|"The Highlights of 100"|Andy Ackerman|Peter Mehlman|1995-02-02|624|34.0
+102|6|16|"The Beard"|Andy Ackerman|Carol Leifer|1995-02-09|615|32.9
+103|6|17|"The Kiss Hello"|Andy Ackerman|Larry David, Jerry Seinfeld|1995-02-16|614|33.4
+104|6|18|"The Doorman"|Andy Ackerman|Tom Gammill, Max Pross|1995-02-23|616|33.4
+105|6|19|"The Jimmy"|Andy Ackerman|Gregg Kavet, Andy Robin|1995-03-16|617|31.1
+106|6|20|"The Doodle"|Andy Ackerman|Alec Berg, Jeff Schaffer|1995-04-06|618|30.7
+107|6|21|"The Fusilli Jerry"|Andy Ackerman|Marjorie Gross, Jonathan Gross, Ron Hauge, Charlie Rubin, Marjorie Gross|1995-04-27|619|28.2
+108|6|22|"The Diplomat's Club"|Andy Ackerman|Tom Gammill, Max Pross|1995-05-04|620|28.9
+109|6|23|"The Face Painter"|Andy Ackerman|Larry David, Fred Stoller, Larry David|1995-05-11|622|26.5
+110|6|24|"The Understudy"|Andy Ackerman|Marjorie Gross, Carol Leifer|1995-05-18|621|29.8
+111|7|1|"The Engagement"|Andy Ackerman|Larry David|1995-09-21|701|37.6
+112|7|2|"The Postponement"|Andy Ackerman|Larry David|1995-09-28|702|34.5
+113|7|3|"The Maestro"|Andy Ackerman|Larry David|1995-10-05|703|34.6
+114|7|4|"The Wink"|Andy Ackerman|Tom Gammill, Max Pross|1995-10-12|704|32.3
+115|7|5|"The Hot Tub"|Andy Ackerman|Gregg Kavet, Andy Robin|1995-10-19|705|32.6
+116|7|6|"The Soup Nazi"|Andy Ackerman|Spike Feresten|1995-11-02|706|33.1
+117|7|7|"The Secret Code"|Andy Ackerman|Alec Berg, Jeff Schaffer|1995-11-09|707|33.9
+118|7|8|"The Pool Guy"|Andy Ackerman|David Mandel|1995-11-16|708|33.4
+119|7|9|"The Sponge"|Andy Ackerman|Peter Mehlman|1995-12-07|709|32.3
+120|7|10|"The Gum"|Andy Ackerman|Tom Gammill, Max Pross|1995-12-14|710|31.4
+121|7|11|"The Rye"|Andy Ackerman|Carol Leifer|1996-01-04|711|35.1
+122|7|12|"The Caddy"|Andy Ackerman|Gregg Kavet, Andy Robin|1996-01-25|712|32.0
+123|7|13|"The Seven"|Andy Ackerman|Alec Berg, Jeff Schaffer|1996-02-01|713|37.1
+124|7|15|"The Cadillac"|Andy Ackerman|Larry David, Jerry Seinfeld|1996-02-08|714|35.9
+125|7|14|"The Cadillac"|Andy Ackerman|Larry David, Jerry Seinfeld|1996-02-08|717|35.9
+126|7|16|"The Shower Head"|Andy Ackerman|Peter Mehlman, Marjorie Gross|1996-02-15|715|32.3
+127|7|17|"The Doll"|Andy Ackerman|Tom Gammill, Max Pross|1996-02-22|716|32.9
+128|7|18|"The Friars Club"|Andy Ackerman|David Mandel|1996-03-07|718|32.7
+129|7|19|"The Wig Master"|Andy Ackerman|Spike Feresten|1996-04-04|719|30.5
+130|7|20|"The Calzone"|Andy Ackerman|Alec Berg, Jeff Schaffer|1996-04-25|720|28.5
+131|7|21|"The Bottle Deposit"|Andy Ackerman|Gregg Kavet, Andy Robin|1996-05-02|721|32.4
+132|7|22|"The Bottle Deposit"|Andy Ackerman|Gregg Kavet, Andy Robin|1996-05-02|722|32.4
+133|7|23|"The Wait Out"|Andy Ackerman|Peter Mehlman, Matt Selman, Peter Mehlman|1996-05-09|723|29.9
+134|7|24|"The Invitations"|Andy Ackerman|Larry David|1996-05-16|724|33.2
+135|8|1|"The Foundation"|Andy Ackerman|Alec Berg, Jeff Schaffer|1996-09-19|801|33.7
+136|8|2|"The Soul Mate"|Andy Ackerman|Peter Mehlman|1996-09-26|802|33.2
+137|8|3|"The Bizarro Jerry"|Andy Ackerman|David Mandel|1996-10-03|803|31.6
+138|8|4|"The Little Kicks"|Andy Ackerman|Spike Feresten|1996-10-10|804|32.2
+139|8|5|"The Package"|Andy Ackerman|Jennifer Crittenden|1996-10-17|805|30.1
+140|8|6|"The Fatigues"|Andy Ackerman|Gregg Kavet, Andy Robin|1996-10-31|806|30.3
+141|8|7|"The Checks"|Andy Ackerman|Steve O'Donnell, Tom Gammill, Max Pross|1996-11-07|807|32.0
+142|8|8|"The Chicken Roaster"|Andy Ackerman|Alec Berg, Jeff Schaffer|1996-11-14|808|34.1
+143|8|9|"The Abstinence"|Andy Ackerman|Steve Koren|1996-11-21|809|34.4
+144|8|10|"The Andrea Doria"|Andy Ackerman|Spike Feresten|1996-12-19|810|29.7
+145|8|11|"The Little Jerry"|Andy Ackerman|Jennifer Crittenden|1997-01-09|811|34.5
+146|8|12|"The Money"|Andy Ackerman|Peter Mehlman|1997-01-16|813|37.3
+147|8|13|"The Comeback"|David Owen Trainor|Gregg Kavet, Andy Robin|1997-01-30|812|33.5
+148|8|14|"The Van Buren Boys"|Andy Ackerman|Darin Henry|1997-02-06|814|33.8
+149|8|15|"The Susie"|Andy Ackerman|David Mandel|1997-02-13|815|32.0
+150|8|16|"The Pothole"|Andy Ackerman|Steve O'Donnell, Dan O'Keefe|1997-02-20|816|33.8
+151|8|17|"The English Patient"|Andy Ackerman|Steve Koren|1997-03-13|817|31.3
+152|8|18|"The Nap"|Andy Ackerman|Gregg Kavet, Andy Robin|1997-04-10|818|32.2
+153|8|19|"The Yada Yada"|Andy Ackerman|Peter Mehlman, Jill Franklyn|1997-04-24|819|31.6
+154|8|20|"The Millennium"|Andy Ackerman|Jennifer Crittenden|1997-05-01|820|29.3
+155|8|21|"The Muffin Tops"|Andy Ackerman|Spike Feresten|1997-05-08|821|31.1
+156|8|22|"The Summer of George"|Andy Ackerman|Alec Berg, Jeff Schaffer|1997-05-15|822|29.8
+157|9|1|"The Butter Shave"|Andy Ackerman|Alec Berg, Jeff Schaffer, David Mandel|1997-09-25|901|37.8
+158|9|2|"The Voice"|Andy Ackerman|Alec Berg, Jeff Schaffer, David Mandel|1997-10-02|902|30.9
+159|9|3|"The Serenity Now"|Andy Ackerman|Steve Koren|1997-10-09|903|30.2
+160|9|4|"The Blood"|Andy Ackerman|Dan O'Keefe|1997-10-16|904|31.5
+161|9|5|"The Junk Mail"|Andy Ackerman|Spike Feresten|1997-10-30|905|30.2
+162|9|6|"The Merv Griffin Show"|Andy Ackerman|Bruce Eric Kaplan|1997-11-06|906|31.6
+163|9|7|"The Slicer"|Andy Ackerman|Gregg Kavet, Andy Robin, Darin Henry, Gregg Kavet, Andy Robin|1997-11-13|907|32.8
+164|9|8|"The Betrayal"|Andy Ackerman|David Mandel, Peter Mehlman|1997-11-20|908|34.0
+165|9|9|"The Apology"|Andy Ackerman|Jennifer Crittenden|1997-12-11|909|30.5
+166|9|10|"The Strike"|Andy Ackerman|Dan O'Keefe, Alec Berg, Jeff Schaffer|1997-12-18|910|30.8
+167|9|11|"The Dealership"|Andy Ackerman|Steve Koren|1998-01-08|911|32.9
+168|9|12|"The Reverse Peephole"|Andy Ackerman|Spike Feresten|1998-01-15|912|33.5
+169|9|13|"The Cartoon"|Andy Ackerman|Bruce Eric Kaplan|1998-01-29|913|33.2
+170|9|14|"The Strong Box"|Andy Ackerman|Dan O'Keefe, Billy Kimball, Dan O'Keefe|1998-02-05|914|31.6
+171|9|15|"The Wizard"|Andy Ackerman|Steve Lookner|1998-02-26|915|30.5
+172|9|16|"The Burning"|Andy Ackerman|Jennifer Crittenden|1998-03-19|916|30.9
+173|9|17|"The Bookstore"|Andy Ackerman|Spike Feresten, Darin Henry, Marc Jaffe, Spike Feresten|1998-04-09|917|29.6
+174|9|18|"The Frogger"|Andy Ackerman|Gregg Kavet, Andy Robin, Steve Koren, Dan O'Keefe, Gregg Kavet, Andy Robin|1998-04-23|918|30.7
+175|9|19|"The Maid"|Andy Ackerman|Alec Berg, David Mandel, Jeff Schaffer, Kit Boss, Peter Mehlman, Alec Berg, David Mandel, Jeff Schaffer|1998-04-30|919|33.3
+176|9|20|"The Puerto Rican Day"|Andy Ackerman|Alec Berg, Jennifer Crittenden, Spike Feresten, Bruce Eric Kaplan, Gregg Kavet, Steve Koren, David Mandel, Dan O'Keefe, Andy Robin, Jeff Schaffer|1998-05-07|920|38.8
+177|9|21|"The Chronicle (Part 1)"|Andy Ackerman|Darin Henry|1998-05-14|921|58.5
+178|9|22|"The Chronicle (Part 2)"|Andy Ackerman|Darin Henry|1998-05-14|922|58.5
+179|9|23|"The Finale"|Andy Ackerman|Larry David|1998-05-14|923|76.3
+180|9|24|"The Finale"|Andy Ackerman|Larry David|1998-05-14|924|76.3

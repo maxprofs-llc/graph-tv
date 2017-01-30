@@ -1,0 +1,279 @@
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|PUDDY|Alright, be careful with the car, babe.
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|ELAINE|Yeah, yeah.
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|PUDDY|And don't move the seat, I got it right where I like it.
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|ELAINE|Goodbye?
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|PUDDY|Two and ten, babe.
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|ELAINE|Okay.
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|PUDDY|Don't peel out.
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|ELAINE|I won't.
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|action|Elaine peels out and turns on the car stereo. She hears: "Jesus is one, Jesus is all, Jesus picks me up when I fall..." Elaine changes the stations but all of the presets are set to religious radio stations; "And he said unto Abraham...", "Amen! Amen!", "So we pray...", "Saved!", "Jey-sus!" She turns off the radio.
+Elaine is getting ready to drive Puddy's car, he's giving her last minute instructions.|ELAINE|Jesus?
+Meeting at George's office. His Boss, Mr. Kruger, is speaking.|KRUGER|According to our latest quarterly thing,Kruger Industrial Smoothing is heading into the red. Or the black, or whatever the bad one is. Any thoughts?
+Meeting at George's office. His Boss, Mr. Kruger, is speaking.|GEORGE|Well, I know when I'm a little strapped, I sometimes drop off my rent check having forgotten to sign it. That could buy us some time.
+Meeting at George's office. His Boss, Mr. Kruger, is speaking.|KRUGER|Works for me. Good thinking, George.
+Meeting at George's office. His Boss, Mr. Kruger, is speaking.|GEORGE|Or we don't even send the check and then when they call, we pretend we're the cleaning service. Heh heh. "Hello? I sorry, no here Kruger."
+Meeting at George's office. His Boss, Mr. Kruger, is speaking.|KRUGER|Are you done? Silly voices, c'mon people, let's get real.
+George and Jerry are at the coffee shop.|GEORGE|I had 'em, Jerry. They loved me.
+George and Jerry are at the coffee shop.|JERRY|And then?
+George and Jerry are at the coffee shop.|GEORGE|I lost them. I can usually come up with one good comment during a meeting but by the end it's buried under a pile of gaffs and bad puns.
+George and Jerry are at the coffee shop.|JERRY|Showmanship, George. When you hit that high note, you say goodnight and walk off.
+George and Jerry are at the coffee shop.|GEORGE|I can't just leave.
+George and Jerry are at the coffee shop.|JERRY|That's the way they do it in Vegas.
+George and Jerry are at the coffee shop.|GEORGE|You never played Vegas.
+George and Jerry are at the coffee shop.|JERRY|I hear things.
+George and Jerry are at the coffee shop.|action|Elaine enters and has a seat.
+George and Jerry are at the coffee shop.|ELAINE|Here's one. I borrowed Puddy's car and all the presets on his radio were Christian rock stations.
+George and Jerry are at the coffee shop.|GEORGE|I like Christian rock. It's very positive. It's not like those real musicians who think they're so cool and hip.
+George and Jerry are at the coffee shop.|ELAINE|So, you think that Puddy actually believes in something?
+George and Jerry are at the coffee shop.|JERRY|It's a used car, he probably never changed the presets.
+George and Jerry are at the coffee shop.|ELAINE|Yes, he is lazy.
+George and Jerry are at the coffee shop.|JERRY|Plus he probably doesn't even know how to program the buttons.
+George and Jerry are at the coffee shop.|ELAINE|Yes, he is dumb.
+George and Jerry are at the coffee shop.|JERRY|So you prefer dumb and lazy to religious?
+George and Jerry are at the coffee shop.|ELAINE|Dumb and lazy, I understand.
+George and Jerry are at the coffee shop.|GEORGE|Tell you how you could check.
+George and Jerry are at the coffee shop.|ELAINE|How?
+George and Jerry are at the coffee shop.|GEORGE|Reprogram all the buttons, see if he changes them back. You know? The old switcheroo.
+George and Jerry are at the coffee shop.|JERRY|No, no, the old switcheroo is you poison your drink then you switch it with the other person's.
+George and Jerry are at the coffee shop.|GEORGE|No, it's doing the same thing to someone that they did to you.
+George and Jerry are at the coffee shop.|JERRY|Yeah, Elaine's gonna do the same thing to Puddy's radio that the radio did to her.
+George and Jerry are at the coffee shop.|GEORGE|Well that's the gist of it!
+George and Jerry are at the coffee shop.|ELAINE|Quiet! So where is this Sophie?
+George and Jerry are at the coffee shop.|JERRY|Oh, she's picking me up in a few minutes.
+George and Jerry are at the coffee shop.|ELAINE|How long have you two been together?
+George and Jerry are at the coffee shop.|JERRY|I dunno. Since the last one. Oh, here she is. You wanna meet her?
+George and Jerry are at the coffee shop.|action|Jerry leaves to go meet Sophie by the register.
+George and Jerry are at the coffee shop.|GEORGE|By the way, how did Puddy get back in the picture?
+George and Jerry are at the coffee shop.|ELAINE|I needed to move a bureau.
+Kramer and Mickey enter Jerry's apartment.|KRAMER|Hey Jerry, you got any pepper?
+Kramer and Mickey enter Jerry's apartment.|MICKEY|Hey Jerry.
+Kramer and Mickey enter Jerry's apartment.|JERRY|Hey Mickey. Check the pepper shaker.
+Kramer and Mickey enter Jerry's apartment.|KRAMER|Yeah. (inhales some pepper then sneezes violently) See? It should sound like that, something like that.
+Kramer and Mickey enter Jerry's apartment.|MICKEY|Aah-choo.
+Kramer and Mickey enter Jerry's apartment.|KRAMER|A little wetter. See, I didn't believe it.
+Kramer and Mickey enter Jerry's apartment.|JERRY|What's with the fake sneezing?
+Kramer and Mickey enter Jerry's apartment.|KRAMER|Yeah, we're going down to Mt. Sinai Hospital, See they hire actors to help the students practice diagnosing.
+Kramer and Mickey enter Jerry's apartment.|MICKEY|They assign you a specific disease and you act out the symptoms. It's an easy gig.
+Kramer and Mickey enter Jerry's apartment.|JERRY|Do medical schools actually do this?
+Kramer and Mickey enter Jerry's apartment.|KRAMER|Well the better ones. Alright, let's practice retching.
+Kramer and Mickey enter Jerry's apartment.|JERRY|I think the phone is ringing.
+Kramer and Mickey enter Jerry's apartment.|JERRY|Would you hold it a second?! Thank you, will you get out of here with that stuff?
+Kramer and Mickey enter Jerry's apartment.|KRAMER|Mickey, DTs.
+Kramer and Mickey enter Jerry's apartment.|action|Kramer and Mickey exit, shaking, while Jerry answers the phone.
+Kramer and Mickey enter Jerry's apartment.|JERRY|Hello?
+Kramer and Mickey enter Jerry's apartment.|SOPHIE|Hey. It's me.
+Kramer and Mickey enter Jerry's apartment.|JERRY|Elaine?
+Kramer and Mickey enter Jerry's apartment.|SOPHIE|No, it's me.
+Kramer and Mickey enter Jerry's apartment.|JERRY|George??
+Kramer and Mickey enter Jerry's apartment.|SOPHIE|Jerry, it's Sophie. I can't believe you don't recognize my voice.
+Kramer and Mickey enter Jerry's apartment.|JERRY|Oh, I knew it was you, I was joking. I'm a comedian.
+Kramer and Mickey enter Jerry's apartment.|action|Kramer enters.
+Kramer and Mickey enter Jerry's apartment.|KRAMER|You got any Ipecac?
+Kramer and Mickey enter Jerry's apartment.|JERRY|Ipecac? Kramer, I really think you guys are going too far with this.
+Kramer and Mickey enter Jerry's apartment.|KRAMER|No, Mickey, he swallowed twelve aspirin.
+Kramer and Mickey enter Jerry's apartment.|JERRY|Did he overdose?
+Kramer and Mickey enter Jerry's apartment.|KRAMER|No, it's just too much.
+Office meeting at Kruger Industrial Smoothing.|KRUGER|...And it gets worse. The team working on the statue in Lafayette Square kind of over-smoothed it. They ground the head down to about the size of a softball, and that spells trouble.
+Office meeting at Kruger Industrial Smoothing.|GEORGE|Alright, well why don't we smooth the head down to nothing, stick a pumpkin under its arm and change the nameplate to Ichabod Crane?
+Office meeting at Kruger Industrial Smoothing.|action|Everyone at the meeting breaks out in laughter.
+Office meeting at Kruger Industrial Smoothing.|GEORGE|(getting up and leaving) Alright! That's it for me. Goodnight everybody.
+Mt. Sanai Hospital, a woman in a lab coat is handing out envelopes to a group of people, Mickey and Kramer included.|MICKEY|Bacterial Meningitis. Jackpot!
+Mt. Sanai Hospital, a woman in a lab coat is handing out envelopes to a group of people, Mickey and Kramer included.|KRAMER|Gonorrhea? You wanna trade?
+Mt. Sanai Hospital, a woman in a lab coat is handing out envelopes to a group of people, Mickey and Kramer included.|MICKEY|Sorry buddy, this is the "Hamlet" of diseases. Severe pain, nausea, delusions, it's got everything.
+Mt. Sanai Hospital, a woman in a lab coat is handing out envelopes to a group of people, Mickey and Kramer included.|MAN|Sure.
+Mt. Sanai Hospital, a woman in a lab coat is handing out envelopes to a group of people, Mickey and Kramer included.|KRAMER|Okay, what do you got?
+Mt. Sanai Hospital, a woman in a lab coat is handing out envelopes to a group of people, Mickey and Kramer included.|MAN|The surgeon left a sponge inside me.
+Mt. Sanai Hospital, a woman in a lab coat is handing out envelopes to a group of people, Mickey and Kramer included.|KRAMER|Good luck with that.
+George and Jerry are at Jerry's apartment.|GEORGE|I knew I had hit my high note so I thanked the crowd and I was gone.
+George and Jerry are at Jerry's apartment.|JERRY|What did you do the rest of the day?
+George and Jerry are at Jerry's apartment.|GEORGE|I saw "Titanic". So that old woman, she's just a liar, right?
+George and Jerry are at Jerry's apartment.|JERRY|And a bit of a tramp if you ask me.
+George and Jerry are at Jerry's apartment.|action|Elaine enters.
+George and Jerry are at Jerry's apartment.|ELAINE|Hello boys.
+George and Jerry are at Jerry's apartment.|GEORGE|Hey, so, did you give that radio the old switcheroo?
+George and Jerry are at Jerry's apartment.|ELAINE|I did.
+George and Jerry are at Jerry's apartment.|GEORGE|And the Christian rock?
+George and Jerry are at Jerry's apartment.|ELAINE|Ressurected! And look what I pried off of his bumper, a Jesus fish!
+George and Jerry are at Jerry's apartment.|GEORGE|Jerry, do you have any fishsticks?
+George and Jerry are at Jerry's apartment.|JERRY|No. So you're disappointed he's a spiritual person?
+George and Jerry are at Jerry's apartment.|ELAINE|Well yeah, I got him because he seemed so one-dimensional, I feel misled.
+George and Jerry are at Jerry's apartment.|GEORGE|I think it's neat. You don't hear that much about god anymore.
+George and Jerry are at Jerry's apartment.|JERRY|I hear things. Hey, so Sophie gave me the "It's me" on the phone today.
+George and Jerry are at Jerry's apartment.|ELAINE|"It's me?" Isn't it a little premature?
+George and Jerry are at Jerry's apartment.|JERRY|I thought so.
+George and Jerry are at Jerry's apartment.|ELAINE|Hah. She's not a "me". I'm a "me".
+George and Jerry are at Jerry's apartment.|GEORGE|I'm against all "it's me"s. So self-absorbed and egotistical, it's like those hip musicians with their complicated shoes!
+George and Jerry are at Jerry's apartment.|action|Kramer enters.
+George and Jerry are at Jerry's apartment.|KRAMER|Well, I got gonorrhea.
+George and Jerry are at Jerry's apartment.|ELAINE|That seems about right.
+George and Jerry are at Jerry's apartment.|KRAMER|That's what they gave me.
+George and Jerry are at Jerry's apartment.|GEORGE|They? The Government?
+George and Jerry are at Jerry's apartment.|JERRY|No, no. He's pretending he's got gonorrhea so med students can diagnose it.
+George and Jerry are at Jerry's apartment.|KRAMER|And it's a waste of my talent. It's just a little burning. Mickey, he got bacterial meningitis.
+George and Jerry are at Jerry's apartment.|GEORGE|I guess there are no small diseases, only small actors.
+George and Jerry are at Jerry's apartment.|action|The other three start laughing.
+George and Jerry are at Jerry's apartment.|GEORGE|(leaving) Alright that's it for me. Good night everybody.
+George and Jerry are at Jerry's apartment.|ELAINE|What was that?
+George and Jerry are at Jerry's apartment.|JERRY|Showmanship, George is trying to get out on a high note.
+George and Jerry are at Jerry's apartment.|KRAMER|See, showmanship. Maybe that's what my gonorrhea is missing.
+George and Jerry are at Jerry's apartment.|JERRY|Yes! Step into that spotlight and belt that gonorrhea out to the back row.
+George and Jerry are at Jerry's apartment.|KRAMER|Yes, yes I will! I'm gonna make people feel my gonorrhea, and feel the gonorrhea themselves.
+Mt. Sanai Hospital. Kramer is on the table surrounded by med students.|KRAMER|Just a little burning during urination.
+Mt. Sanai Hospital. Kramer is on the table surrounded by med students.|KRAMER|The haunting memories of lost love. May I? (signals to Mickey) Lights? (Mickey turns down the lights and Kramer lights a cigar) Our eyes met across the crowded hat store. I, a customer, and she a coquettish haberdasher. Oh, I pursued and she withdrew, then she pursued and I withdrew, and so we danced. I burned for her, much like the burning during urination that I would experience soon afterwards.
+Mt. Sanai Hospital. Kramer is on the table surrounded by med students.|KRAMER|Gonorrhea!
+Mt. Sanai Hospital. Kramer is on the table surrounded by med students.|action|The lab breaks out in spontaneous applause as Mickey turns up the lights and Kramer takes a bow.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|One message. Hope it's not from you.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|Sophie.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|GEORGE|She's still doing that?
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|Yep.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|GEORGE|Alright, I'll tell you what you do. You call her back and give her the "it's me", heh? Pull the old switcheroo.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|I think that's a "what's good for the goose is good for the gander".
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|GEORGE|What the hell is a gander, anyway?
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|(picking up the phone and dialing) It's a goose that's had the old switcheroo pulled on it. Hi Sophie, it's me.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|SOPHIE|Hey Raef.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|(to George) She thinks it's someone named Raef.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|GEORGE|Good, let her think it.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|(into the phone, with a disguised voice) So, what's going on?
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|SOPHIE|Not a lot.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|GEORGE|Ask about you, ask about you.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|So, uh, how are things with Jerry?
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|SOPHIE|Oh, I really like him but, well, I still haven't told him the tractor story.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|Right, right, the tractor story.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|SOPHIE|Are you sick, Raef? You sound kinda funny.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|I sound funny?
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|GEORGE|Abort! Abort!
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|Yeah I better get to a doctor, bye. (Hangs up) That was close! What drives me to take chances like that?
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|GEORGE|That was very real.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|She said there's some tractor story that she hasn't told me about.
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|GEORGE|Woah, back it up, back it up. Beep, beep, beep. Tractor story?
+Jerry and George are back at Jerry's apartment. Jerry is checking his phone messages.|JERRY|Beep, beep, beep? What are you doing?
+Elaine and Puddy are at Puddy's apartment.|ELAINE|So where do you wanna eat?
+Elaine and Puddy are at Puddy's apartment.|PUDDY|Feels like an Arby's night.
+Elaine and Puddy are at Puddy's apartment.|ELAINE|Arby's. Beef and cheese and do you believe in god?
+Elaine and Puddy are at Puddy's apartment.|PUDDY|Yes.
+Elaine and Puddy are at Puddy's apartment.|ELAINE|Oh. So, you're pretty religious?
+Elaine and Puddy are at Puddy's apartment.|PUDDY|That's right.
+Elaine and Puddy are at Puddy's apartment.|ELAINE|So is it a problem that I'm not really religious?
+Elaine and Puddy are at Puddy's apartment.|PUDDY|Not for me.
+Elaine and Puddy are at Puddy's apartment.|ELAINE|Why not?
+Elaine and Puddy are at Puddy's apartment.|PUDDY|I'm not the one going to hell.
+Jerry and George are at the coffee shop.|GEORGE|You know what I think? I bet she stole a tractor.
+Jerry and George are at the coffee shop.|JERRY|No one's stealing a tractor, it's a five-mile-an-hour getaway. We're dancing around the obvious, it's gotta be disfigurement.
+Jerry and George are at the coffee shop.|GEORGE|Does she walk around holding a pen she never seems to need?
+Jerry and George are at the coffee shop.|JERRY|No, she looks completely normal.
+Jerry and George are at the coffee shop.|GEORGE|Oh. Okay, here it is, I got it. She lost her thumbs in a tractor accident and they grafted her big toes on. They do it every day.
+Jerry and George are at the coffee shop.|JERRY|You think she's got toes for thumbs?
+Jerry and George are at the coffee shop.|GEORGE|How's her handshake? A little firm, isn't it? Maybe a little too firm?
+Jerry and George are at the coffee shop.|JERRY|I don't know.
+Jerry and George are at the coffee shop.|GEORGE|Hands a little smelly?
+Jerry and George are at the coffee shop.|JERRY|Why do I seek your counsel?
+Jerry and George are at the coffee shop.|action|Elaine walks in.
+Jerry and George are at the coffee shop.|ELAINE|Well I'm going to hell.
+Jerry and George are at the coffee shop.|JERRY|That seems about right.
+Jerry and George are at the coffee shop.|ELAINE|According to Puddy.
+Jerry and George are at the coffee shop.|JERRY|Hey, have you heard the one about the guy in hell with the coffee and the doughtnuts and--
+Jerry and George are at the coffee shop.|ELAINE|I'm not in the mood.
+Jerry and George are at the coffee shop.|GEORGE|(To a passing waitress) I'll have some coffee and a doughnut.
+Jerry and George are at the coffee shop.|JERRY|What do you care? You don't believe in hell.
+Jerry and George are at the coffee shop.|ELAINE|I know, but he does.
+Jerry and George are at the coffee shop.|JERRY|So it's more of a relationship problem than the final destination of your soul.
+Jerry and George are at the coffee shop.|ELAINE|Well, relationships are very important to me.
+Jerry and George are at the coffee shop.|JERRY|Maybe you can strike one up with the prince of darkness as you burn for all eternity.
+Jerry and George are at the coffee shop.|GEORGE|(to the waitress bringing his doughnut) And a slice of devil's food cake.
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|GEORGE|Hey. Where is everyone?
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|KRUGER|They're all off the project. They were boring. George, you are my main man.
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|GEORGE|I am?
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|KRUGER|I don't know what it is, I can't put my finger on it, but lately you have just seemed 'on'. And you always leave me wanting more.
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|GEORGE|This is a huge project involving lots of numbers and papers and folders.
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|KRUGER|Ah, I'm not too worried about it. Let's get started.
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|GEORGE|Okay.
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|KRUGER|George? Check it out. (He begins to spin around in his chair) Three times around, no feet.
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|GEORGE|And?
+Kruger's office. George enters, seeing nobody but Mr. Kruger.|KRUGER|All me.
+Kramer and Mickey are back at Mt. Sinai.|KRAMER|Oh, thank you.
+Kramer and Mickey are back at Mt. Sinai.|MICKEY|Cirrhosis of the liver with jaundice! Alright I get to wear make-up! What did you get?
+Kramer and Mickey are back at Mt. Sinai.|KRAMER|Gonorrhea? Excuse me, I think there's been a mistake, see, I had gonorrhea last week.
+Kramer and Mickey are back at Mt. Sinai.|KRAMER|I don't believe this, I'm being typecast.
+Jerry and Sophie are at Jerry's playing chess.|SOPHIE|I move my knight... here. Check.
+Jerry and Sophie are at Jerry's playing chess.|JERRY|They should update these pieces, nobody rides horses anymore. Maybe they should change it to a tractor.
+Jerry and Sophie are at Jerry's playing chess.|SOPHIE|Jerry, are you embarrassed that you're losing?
+Jerry and Sophie are at Jerry's playing chess.|JERRY|Losing? You know, yesterday I lost control of my car, almost bought the farm.
+Jerry and Sophie are at Jerry's playing chess.|SOPHIE|Bought the farm?
+Jerry and Sophie are at Jerry's playing chess.|JERRY|Tractor!
+Jerry and Sophie are at Jerry's playing chess.|SOPHIE|This is an odd side of you, Jerry. I feel uncomfortable.
+Jerry and Sophie are at Jerry's playing chess.|JERRY|Wait, don't go. Let's thumb wrestle.
+Jerry and Sophie are at Jerry's playing chess.|action|Sophie drops her purse and when she bends down to pick it up, Jerry nods knowingly.
+Jerry and George are at the coffee shop.|GEORGE|A scar?
+Jerry and George are at the coffee shop.|JERRY|A big long scar where her leg would dangle when she's riding a...?
+Jerry and George are at the coffee shop.|GEORGE|A tractor.
+Jerry and George are at the coffee shop.|JERRY|I'm sure she's a little self-conscious and doesn't like to talk about it.
+Jerry and George are at the coffee shop.|GEORGE|I don't see why's she more self-conscious about that than her toe thumbs.
+Jerry and George are at the coffee shop.|JERRY|She doesn't have toe thumbs.
+Jerry and George are at the coffee shop.|GEORGE|Well, if she keeps horsing around with that tractor--
+Jerry and George are at the coffee shop.|JERRY|Alright. So how's the two-man operation at Kruger?
+Jerry and George are at the coffee shop.|GEORGE|Two-man? It's all me. Kruger doesn't do anything; Disappears for hours at a time, gives me fake excuses. This afternoon I found him with sleep creases on his face. The only reason I got out to get a bite today was that he finally promised to buckle down and do some actual work. (turning around, George sees Mr. Kruger at a booth eating a piece of cake) Oh, I don't believe this. This is what I have to put up with, Jerry. (He walks over) Mr. Kruger? Who said he was going to do some actual work today? Who?
+Jerry and George are at the coffee shop.|KRUGER|I'm not too worried about it.
+Jerry and George are at the coffee shop.|GEORGE|Well I am. Couldn't you try to go through some of that stuff I put in your shoebox?
+Jerry and George are at the coffee shop.|KRUGER|Alright, alright I'm going.
+Jerry and George are at the coffee shop.|GEORGE|(to Jerry) Huh-ho! Have you ever seen anything like this?
+Jerry and George are at the coffee shop.|JERRY|Never.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|Elaine, they forgot to deliver your paper today. Why don't you just grab that one.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|'Cause that belongs to Mr. Potato Guy, that's his.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|C'mon, get it.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|Well if you want it, you get it.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|Sorry, thou shalt not steal.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|Oh, but it's ok for me?
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|What do you care, you know where you're going.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|Alright, that is it! I can't live like this.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|Nah.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|C'mon.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|Alright, what did I do?
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|David, I'm going to hell! The worst place in the world! With devils and those caves and the ragged clothing! And the heat! My god, the heat! I mean, what do you think about all that?
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|Gonna be rough.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|Uh, you should be trying to save me!
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|Don't boss me! This is why you're going to hell.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|I am not going to hell and if you think I'm going to hell, you should care that I'm going to hell even though I am not.
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|PUDDY|You stole my Jesus fish, didn't you?
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|ELAINE|Yeah, that's right!
+Elaine's hallway. The door opens, Puddy steps out in his bathrobe. There's a newspaper in front of the door across from Elaine's.|action|Elaine places her hands beside her head, index fingers raised as 'horns' and she emits a gutteral growling sound.
+Mt Sanai Hospital. The actors are gathered. Mickey is practicing his part.|MICKEY|Oh, my liver! Why did I drink all those years? Why did I look for love in a bottle?
+Mt Sanai Hospital. The actors are gathered. Mickey is practicing his part.|action|Kramer walks in, his face is noticably yellow.
+Mt Sanai Hospital. The actors are gathered. Mickey is practicing his part.|MICKEY|Wait a minute. You are doing gonorrhea, aren't you?
+Mt Sanai Hospital. The actors are gathered. Mickey is practicing his part.|KRAMER|Well, we'll see.
+Mt Sanai Hospital. The actors are gathered. Mickey is practicing his part.|KRAMER|(pulling a liquor bottle from his jacket pocket) Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left.
+Mt Sanai Hospital. The actors are gathered. Mickey is practicing his part.|MICKEY|Hey! That's my cirrhosis! He's stealing my cirrhosis! (he jumps Kramer) You wanna be sick? I'll make you sick.
+Mt Sanai Hospital. The actors are gathered. Mickey is practicing his part.|action|They fall to the floor, wrestling.
+Elaine and Puddy have gone to see a priest, Father Curtis.|PUDDY|No.
+Elaine and Puddy have gone to see a priest, Father Curtis.|ELAINE|We're just, you know, having a good time.
+Elaine and Puddy have gone to see a priest, Father Curtis.|PUDDY|No way, this is bogus, man!
+Elaine and Puddy have gone to see a priest, Father Curtis.|ELAINE|Well, thank you father.
+Elaine and Puddy have gone to see a priest, Father Curtis.|PUDDY|I'm really not in the mood, I'm going to hell.
+Elaine and Puddy have gone to see a priest, Father Curtis.|ELAINE|Oh, lighten up. It'll only feel like an eternity.
+Elaine and Puddy have gone to see a priest, Father Curtis.|action|Elaine makes the same 'fingers up' devil gesture as she did in her apartment and Father Curtis joins in.
+Jerry and Sophie ar at Jerry's apartment.|SOPHIE|You know, Jerry, there's this thing that I haven't told you about. See, there was this tractor and, oh boy, this is really difficult.
+Jerry and Sophie ar at Jerry's apartment.|JERRY|Sophie, it's me. I know about the tractor story and I'm fine with it.
+Jerry and Sophie ar at Jerry's apartment.|SOPHIE|How could you know?
+Jerry and Sophie ar at Jerry's apartment.|JERRY|(putting his finger to Sophie's lips, then to his own, then back to Sopie's) Shh. Shh. Shh. It's not important. What's important is I'm not gonna let a little thing like that ruin what could be a very long-term and meaningful relationship.
+Jerry and Sophie ar at Jerry's apartment.|action|Kramer and Mickey barge in, they're in the middle of an argument.
+Jerry and Sophie ar at Jerry's apartment.|KRAMER|...I didn't say that, no.
+Jerry and Sophie ar at Jerry's apartment.|MICKEY|You gave me gonorrhea, you didn't even tell me!
+Jerry and Sophie ar at Jerry's apartment.|KRAMER|Well, I'm sorry. I gave you gonorrhea because I thought you'd have fun with it.
+Jerry and Sophie ar at Jerry's apartment.|JERRY|Hey, hey! I'm with someone.
+Jerry and Sophie ar at Jerry's apartment.|KRAMER|Oh. Hello.
+Jerry and Sophie ar at Jerry's apartment.|SOPHIE|No, I understand. This could be a tough thing to deal with. The important thing is that you have a partner who's supportive.
+Jerry and Sophie ar at Jerry's apartment.|KRAMER|(to Mickey) You know? She's right.
+Jerry and Sophie ar at Jerry's apartment.|SOPHIE|Unfortunately, I didn't have a partner. I got gonorrhea from a tractor.
+Jerry and Sophie ar at Jerry's apartment.|JERRY|You got gonorrhea from a tractor?? And you call *that* your tractor story??
+Jerry and Sophie ar at Jerry's apartment.|KRAMER|You can't get it from that.
+Jerry and Sophie ar at Jerry's apartment.|SOPHIE|But I did. My boyfriend said I got gonorrhea from riding the tractor in my bathing suit.
+Jerry and Sophie ar at Jerry's apartment.|JERRY|(walking out) Alright, that's it for me. You've been great. Goodnight everybody.
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|GEORGE|Would you mind helping me out with some of this stuff?!?
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|KRUGER|You seem like you've got a pretty good handle on it.
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|GEORGE|No! I don't! Don't you even care? This is your company! It's your name on the outside of the building! Speaking of which, the 'R' fell off and all it says now is K-uger!
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|KRUGER|K-uger, that sounds like one of those old-time car horns, huh? K-uger! K-uger!
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|GEORGE|Huh-ho! Oh! You are too much, Mr. Kruger! Too much!
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|KRUGER|(getting up to leave) Thank you George, you've been great. That's it for me.
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|GEORGE|Oh no, you're not going out on a high note with me Mr. Kruger!
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|KRUGER|It's K-uger!
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|GEORGE|No! No!
+Mr. Kruger and George are burning the midnight oil. George is working, Mr. Kruger is bouncing a ball against the wall and catching it. George is percolating.|KRUGER|Goodnight everybody!

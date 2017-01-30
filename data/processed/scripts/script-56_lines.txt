@@ -1,0 +1,262 @@
+Jerry's Apartment|action|Jerry and George, working on the script for the "Jerry" pilot episode.
+Jerry's Apartment|JERRY|Yeah, it's funny!
+Jerry's Apartment|GEORGE|I mean, how funny is this?
+Jerry's Apartment|GEORGE|I mean, we're not stupid, right? We know when something's funny!
+Jerry's Apartment|JERRY|It cannot not be funny! Now come on, let's stay with it, we gotta finish this today.
+Jerry's Apartment|GEORGE|Okay. Hey, you know what, maybe I should give it to my therapist to read. She's smart, I trust her.
+Jerry's Apartment|JERRY|Yeah, maybe I'll give it to Elaine.
+Jerry's Apartment|GEORGE|Hey, you know, we haven't brought the Elaine character into the show yet. Umm, We should try and get her into this scene.
+Jerry's Apartment|JERRY|Right, right. Okay. (Writing) Elaine enters.
+Jerry's Apartment|GEORGE|Right
+Jerry's Apartment|JERRY|(Thinks) What does she say...?
+Jerry's Apartment|JERRY|I don't know.
+Jerry's Apartment|GEORGE|I don't even know what they think. That's why I'm in therapy.
+Jerry's Apartment|JERRY|You know, if we bring Elaine in, it's going to be so many people to keep track of. It's gonna be too hard, I'll forget where everybody's standing, you, me, Kramer, the butler, it's too much.
+Jerry's Apartment|GEORGE|Alright, forget Elaine.
+Jerry's Apartment|JERRY|Alright. (They tear the pages out of their notepads. Kramer enters.)
+Jerry's Apartment|KRAMER|Hey.
+Jerry's Apartment|GEORGE|Hey.
+Jerry's Apartment|JERRY|Hey.
+Jerry's Apartment|JERRY|Who?
+Jerry's Apartment|KRAMER|Your old flame. Gail Cunningham.
+Jerry's Apartment|JERRY|Did you talk to her?
+Jerry's Apartment|KRAMER|Well, I was on my way to the Y, and I saw her coming towards me? I didn't know what to do! Because I remembered you had three dates with her and she wouldn't kiss you goodnight. So now I'm thinking you know, what is my duty to my friend? Do I acknowledge her? Do I you know ignore her? I mean, what is my responsibility here?
+Jerry's Apartment|JERRY|So what happened?
+Jerry's Apartment|KRAMER|Yeah, yeah, so she sees me and she goes, (imitates Gail) "Oh, hi! Kramer!" You know? Like nothing happened! Like she never you know went three dates with you and refused to kiss you goodnight.
+Jerry's Apartment|JERRY|Yeah, I know about the three dates.
+Jerry's Apartment|KRAMER|You know what I did? I snubbed her.
+Jerry's Apartment|JERRY|What do you mean, you snubbed her?
+Jerry's Apartment|KRAMER|I walked right by her - bffffft - never said a word.
+Jerry's Apartment|KRAMER|Right by her!
+Jerry's Apartment|KRAMER|Yeah. Well, you know, she was lucky I was in a good mood - coulda been a lot worse.
+Monk's|action|Jerry and Elaine. Jerry is showing her the script.
+Monk's|JERRY|Yeah, I know.
+Monk's|ELAINE|Well, I thought there was going to be a character named Elaine Benes.
+Monk's|JERRY|Well, there were too many people in the room, we couldn't keep track of everybody. George, and the butler, and...
+Monk's|ELAINE|You couldn't "keep track" of everybody?
+Monk's|JERRY|Well, we tried. We couldn't. We didn't know how to, uh...(confessing) ...we couldn't write for a woman. We didn't know what you would say. Even right now, I'm sitting here, I know you're going to say something, I have no idea what it is.
+Monk's|ELAINE|You have no idea?
+Monk's|JERRY|Something derogatory? (Gail enters the coffee shop and walks over to the booth.)
+Monk's|JERRY|Well, Gail Cunningham.
+Monk's|ELAINE|Hi, Gail.
+Monk's|GAIL|Hi, Elaine. (To Jerry) Hey, what is with your friend Kramer?
+Monk's|JERRY|Why?
+Monk's|GAIL|He snubbed me.
+Monk's|JERRY|Are you sure?
+Monk's|GAIL|Yeah, I'm sure. What did you tell him?
+Monk's|JERRY|Nothing. (Elaine grabs Jerry's sandwich and is about to take a bite.) Hey, where you goin' with that? Gimme that. (Takes back the sandwich.)
+Monk's|ELAINE|I thought you were finished.
+Monk's|JERRY|I took two bites, how am I finished? (Elaine coughs.) Plus you're coming down with something? You want me to get sick? (Offers Gail the sandwich) Bite?
+Monk's|GAIL|So, how come? Why did Kramer do that?
+Monk's|JERRY|I don't know. Once he leaves the building, he's out of my jurisdiction.
+Monk's|GAIL|Well, tell him that I am mad at him.
+Monk's|JERRY|Alright. So, where ya cookin' now?
+Monk's|GAIL|Pfeiffer's.
+Monk's|JERRY|Ah, the power lunch crowd.
+Monk's|ELAINE|Oh. Thank you.
+Monk's|GAIL|Where'd you get 'em?
+Monk's|ELAINE|Really.
+Monk's|JERRY|Would you care to join us?
+Monk's|GAIL|No, no, I gotta get to the restaurant. (Looks at her watch.) Oh! See ya. (Exits.)
+Monk's|JERRY|See ya.
+Monk's|JERRY|That bothered you?
+Monk's|ELAINE|Yes, it bothered me. So I bought a pair of shoes at Botticelli's, I'm not allowed to shop there? That really embarrassed me.
+Monk's|JERRY|It did?
+Monk's|ELAINE|Yes! Couldn't you see that?
+George in a session with Dana, his therapist.|DANA|Well, George, I think you're beginning to get some perspective on things. I think we're making progress.
+George in a session with Dana, his therapist.|GEORGE|Yeah, I feel like I've grown.
+George in a session with Dana, his therapist.|DANA|Good. So, let's pick up on this next week.
+George in a session with Dana, his therapist.|GEORGE|Great. (They both stand.) Oh, by the way, did you get a chance to read the script?
+George in a session with Dana, his therapist.|DANA|Yes, yes I did.
+George in a session with Dana, his therapist.|GEORGE|You didn't like it?
+George in a session with Dana, his therapist.|DANA|Well, no, I -
+George in a session with Dana, his therapist.|GEORGE|I can't believe this! What was wrong with it? What didn't you like about it?
+George in a session with Dana, his therapist.|DANA|It wasn't funny.
+George in a session with Dana, his therapist.|GEORGE|It wasn't funny? What, are you kidding?
+George in a session with Dana, his therapist.|DANA|No, I didn't find it funny.
+George in a session with Dana, his therapist.|GEORGE|You didn't find it funny?! This is what I'm paying for?
+George in a session with Dana, his therapist.|DANA|Well, that whole storyline about a guy who gets into a car accident, doesn't have any insurance, so the judge sentences him to be a butler? I didn't really buy that.
+George in a session with Dana, his therapist.|GEORGE|Let me tell you who did, uh, buy it...um we pitched this story to Russell Dalrymple, the president of NBC, and he ate it up with a spoon.
+George in a session with Dana, his therapist.|DANA|George, if you're going to be in a creative field, you're going to have to learn how to deal with criticism.
+George in a session with Dana, his therapist.|GEORGE|How's this for criticism? Um...you stink. How do like that criticism? You know what's funny to me? That diploma up on the wall. That is my idea of "com-med-dee"! You sitting here, telling people what to do.
+George in a session with Dana, his therapist.|DANA|I think you'd better go.
+George in a session with Dana, his therapist.|GEORGE|Oh, I'm goin' baby. I'm goin.' (Heads for the door, then stops.) It's Jerry's fault. He took out all my good lines. He's such a control freak!
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|ELAINE|I guess she didn't think it was funny.
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|GEORGE|Oh, she didn't think it was funny. What is she, Rowan & Martin? We're supposed to meet with NBC tomorrow! She completely shattered my confidence. And I'm paying for this, she's my employee!
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|JERRY|I thought your mother's paying for it.
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|GEORGE|And she slaves to earn every penny. So that someday, I might be able to walk up to a woman and say, "Yes, I'm bald, but I'm still a good person."
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|ELAINE|What did I think of it? (Manufactures a cough instead of answering. Kramer enters.)
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|ELAINE|Well, you know, I...
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|KRAMER|I just kissed Gail Cunningham. (Jerry turns and looks at Kramer, shocked. Elaine grins and heads to the bathroom.)
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|JERRY|You what?
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|KRAMER|Yeah, I kissed her.
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|JERRY|You kissed her?
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|KRAMER|Right on the mouth.
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|JERRY|What kinda great friend are you? How do you go from snubbing to kissing?
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|KRAMER|Well, I saw her outside the Y, you know, she came up to me, she started yelling because I snubbed her, and then we started talking a little bit, and I walked her to her building. And just before I left, I put my arm around her waist, I pulled her to me, and I - mmm - I planted one! (Laughs.)
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|JERRY|And what did she do?
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|KRAMER|She kissed me back.
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|JERRY|I don't get this. I go out with this girl three times, she doesn't want to shake my hand - why's she kissing you?
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|GEORGE|No they don't. I tried that once. I snubbed for a year. Nothing. Every woman I saw, I snubbed. You never saw people so pleased. (Elaine returns from the bathroom.)
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|ELAINE|What? Who told you that?
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|KRAMER|Gail Cunningham.
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|ELAINE|I don't understand, why is this woman talking about my shoes? Why are my shoes a topic of conversation?
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|KRAMER|Well, you know, we were just talking, and uh she mentioned how you're buying your shoes now at Botticelli's.
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|JERRY|So what?
+Jerry and George in Jerry's apartment. They're both standing by the door. Elaine enters.|ELAINE|So what?! She is talking about my shoes! She is discussing my shoes! It is nobody's business where I buy my shoes! (Storms over to the couch and angrily sits down. Jerry, Kramer and George look at Elaine from the kitchen, comically puzzled by her outburst...)
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|ELAINE|Hey! Gail!
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|GAIL|Ya. (noticing it's Elaine) Elaine...!
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|ELAINE|Why are you talking about my shoes?
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|GAIL|What?
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|ELAINE|My Botticelli shoes. You've been talking about my Botticelli shoes.
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|GAIL|What are you talking about?
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|ELAINE|Did you or did you not tell Kramer that I got my shoes at Botticelli's? (A waiter comes over and puts a plate of food on Gail's cutting board.)
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|WAITER|Too spicy. He wants another one. You got that pasta primavera?
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|GAIL|Look Elaine, I am very busy here.
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|ELAINE|Who else have you mentioned my shoes to, huh? I wanna know why my footwear is your conversation!
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|GAIL|I am not discussing this. This is insane.
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|WAITER|You got that pasta primavera? Let's go!
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|GAIL|Ya ya ya, here.
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|action|Gail passes the plate to the waiter in front of Elaine. Elaine sneezes on it. The waiter brings the pasta to the dining room and serves it to Russell Dalrymple, the president of NBC.
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|WAITER|Here you are, Mr. Dalrymple.
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|RUSSELL|Thank you.
+Gail cooking in the kitchen at Pfeiffer's Restaurant. Elaine marches in.|WAITER|Sorry for the delay. Enjoy your lunch.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Awfully sorry to make you come up here, but I really wasn't feeling well enough to go back to the office, and well, it's the only chance I have to meet with you this week.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Are you alright?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Well, it's my stomach. I think there must have been something in the pasta primavera I had for lunch.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Oh, Where did you eat?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Pfeiffer's.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Ah. I know the chef there.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Yeah. The food's usually terrific.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|My cousin worked for Bouchard's. They used to use the bouilla-base for a toilet. (Jerry and Russell are shocked.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|What are you saying?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|Well, you didn't hear it from me, but needless to say, if you go in there - stick with the consumee.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Well, we'd better get started, my daughter's going to be here soon.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Oh, you have a daughter?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Yeah, she just turned fifteen last week.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|Aw, that's a fun age. (Jerry looks at George distastefully.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Alright. The script. Now, I've read this thing three times...and everytime I read it...(looks nauseous, struggles not to vomit.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|What?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Excuse me for a second. (Gets up and runs to the bathroom.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|What?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|Would you like a Pepto-Bismol? I keep them in my wallet...! (Russell goes into the bathroom and shuts the door.) (To Jerry) Do you think he liked it? (From the bathroom, we hear Russell violently heaving his guts.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|I'm not sure. (The sounds of Russell vomiting emanate from the bathroom. Jerry and George sit there uncomfortably.) What was that dish he said he had...?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|Pasta primavera.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Ah. You know, 'primavera' is Italian for 'spring.'
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|No!
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Yeah.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|So, you were saying how, um...about the script...
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|Right. The script. Your script needs some...it needs, um...(looks nauseous again. Gets up and runs to the bathroom a second time.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|More jokes?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Another ending?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|A different name for the butler? (Russell throws up again.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Maybe we should go.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|We haven't heard his notes yet, we don't know how he feels about our work. (Russell throws up yet again.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|I can't listen to anymore of this, the guy's losing a lung in there. (Russell's daughter Molly enters.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|MOLLY|Hello.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Hi.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|Hi.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|MOLLY|I'm Molly.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Oh, I'm Jerry.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|George.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|We're here discussing our script with your father.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|He just read it. (Russell vomits again. Jerry and George look ashamed.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|MOLLY|Daddy? Are you okay?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|So, you live with your mother, huh?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|MOLLY|Uh, yeah.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|JERRY|Uh huh.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|Of course, I'm the result of my parents having stayed together, so you never know. (Russell comes out of the bathroom.)
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|MOLLY|Daddy, are you alright? What's the matter?
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|RUSSELL|It's just a stomach thing.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|MOLLY|Yuck.
+Jerry and George arrive at Dalrymple's apartment to discuss the script.|GEORGE|You know, suddenly I'm in the mood for pasta primavera myself. (Jerry nudges George to sneak a peek at Molly's cleavage as she bends over and looks in her backpack. Jerry has a quick look, but George stares, hypnotized. Russell comes up behind George.)
+Jerry and George in Jerry's apartment.|JERRY|What were you doing?
+Jerry and George in Jerry's apartment.|GEORGE|Well, it's not my fault. You poked me!
+Jerry and George in Jerry's apartment.|JERRY|You're supposed to just take a peek after a poke. You were like you just put a quarter into one of those big metal things on top of the Empire State Building.
+Jerry and George in Jerry's apartment.|GEORGE|It's cleavage. I couldn't look away. What am I, waiting to win an Oscar here? This is all I have in my life.
+Jerry and George in Jerry's apartment.|JERRY|Looking at cleavage is like looking at the sun, you don't stare at it. It's too risky. You get a sense of it and then you look away.
+Jerry and George in Jerry's apartment.|GEORGE|All right. So, he caught me in a cleavage peek, so big deal. Who wouldn't look at his daughter's cleavage? She's got nice cleavage.
+Jerry and George in Jerry's apartment.|JERRY|That's why I poked.
+Jerry and George in Jerry's apartment.|GEORGE|That's why I peeked. (Jerry opens the door to take some trash out, and meets Kramer and Gail in the hallway.)
+Jerry and George in Jerry's apartment.|GAIL|Hey! What is with your friend Elaine?
+Jerry and George in Jerry's apartment.|JERRY|What?
+Jerry and George in Jerry's apartment.|GAIL|She comes to my restaurant, comes right in my kitchen, and starts complaining that I'm talking about her shoes.
+Jerry and George in Jerry's apartment.|JERRY|She did?
+Jerry and George in Jerry's apartment.|KRAMER|Right in the kitchen. Disgraceful.
+Jerry and George in Jerry's apartment.|GAIL|So, I don't want people coming into my kitchen. I think she might have sneezed all over someone's pasta primavera. Someone might have gotten sick because of her. (Kramer and Gail exit.)
+Jerry and George in Jerry's apartment.|GEORGE|Pasta primavera?
+Jerry and George in Jerry's apartment.|JERRY|Is that what she said? (Kramer pokes his head back in the door.)
+Jerry and George in Jerry's apartment.|JERRY|She is?
+Jerry and George in Jerry's apartment.|KRAMER|She's sensual. You know, with the...cooking and all. (Kramer grins happily at Jerry and leaves. The phone rings. Jerry tosses the trashbag to George.)
+Jerry and George in Jerry's apartment.|JERRY|Hello? Oh, hi Stu.
+Jerry and George in Jerry's apartment.|JERRY|(to George) Yeah. (oh the phone) What's goin' on? What? Really? Oh my god....did he give you a reason?...Oh boy. Okay. Alright. Thanks. (hangs up.) Dalrymple just cancelled the pilot. (George drops the bag, shocked.)
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|Look, I don't like people talking about my shoes behind my back, okay? My shoes are my business. The two of you shouldn't have been looking at some fifteen year-old's cleavage anyway!
+Jerry, George and Elaine in Jerry's apartment.|GEORGE|He poked me!
+Jerry, George and Elaine in Jerry's apartment.|JERRY|There was cleavage in the area. That's a reflex - (mimics nudging someone with an elbow) - cleavage-poke, cleavage-poke...
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|But she was fifteen.
+Jerry, George and Elaine in Jerry's apartment.|JERRY|You don't consider age in the face of cleavage. This occurs on a molecular level, you can't control it! We're like some kind of weird fish where the eyes operate independently of the head.
+Jerry, George and Elaine in Jerry's apartment.|GEORGE|Alright, what's the difference. What are we gonna do now? He won't take our calls, we can't get into his office...
+Jerry, George and Elaine in Jerry's apartment.|JERRY|You know what we could do? He eats at that restaurant, Pfeiffer's? We could have Gail call us, tell us the next time he's there, go there and talk to him.
+Jerry, George and Elaine in Jerry's apartment.|GEORGE|Hey, now you're onto something.
+Jerry, George and Elaine in Jerry's apartment.|JERRY|The whole thing is so stupid. Like he wouldn't do the same thing if Elaine walked by in a low-cut dress.
+Jerry, George and Elaine in Jerry's apartment.|GEORGE|Yeah. Well, maybe not Elaine.
+Jerry, George and Elaine in Jerry's apartment.|JERRY|No.
+Jerry, George and Elaine in Jerry's apartment.|GEORGE|But...somebody like Gail, though.
+Jerry, George and Elaine in Jerry's apartment.|JERRY|Ya.
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|What? What do you mean, Gail? (Kramer enters.)
+Jerry, George and Elaine in Jerry's apartment.|KRAMER|Yah-hey.
+Jerry, George and Elaine in Jerry's apartment.|JERRY|Kramer, listen, I want you to ask Gail to do me a favor. The next time Russell Dalrymple comes in the restaurant, ask her if she would call me.
+Jerry, George and Elaine in Jerry's apartment.|KRAMER|Alright, I'll call her right now.
+Jerry, George and Elaine in Jerry's apartment.|JERRY|Ok. (Kramer goes back to his apartment.)
+Jerry, George and Elaine in Jerry's apartment.|JERRY|Look, sweetheart, you know you've got it all. But let's face it... (Kramer comes back.)
+Jerry, George and Elaine in Jerry's apartment.|KRAMER|She said she'll do it.
+Jerry, George and Elaine in Jerry's apartment.|GEORGE|Beautiful.
+Jerry, George and Elaine in Jerry's apartment.|JERRY|Beautiful.
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|What?
+Jerry, George and Elaine in Jerry's apartment.|KRAMER|She says she wants those shoes.
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|She wants my shoes? What kind of person is this? Alright! She is not getting 'em!
+Jerry, George and Elaine in Jerry's apartment.|JERRY|No, come on! I'll buy you another pair!
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|No, these were the last pair of these that they had!
+Jerry, George and Elaine in Jerry's apartment.|JERRY|I'll get you another one just like it!
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|No, but these were the only really cool ones like this! Don't you see how everybody likes 'em and how everybody talks about 'em? (Jerry, realizing Elaine's motivation, sits at the counter unbelievingly.)
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|Oh yeah, because she caught you jer -
+Jerry, George and Elaine in Jerry's apartment.|GEORGE|Never mind!
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|Oh, come on, wait a second, this whole thing is ridiculous. How do I even know she wears the same size?
+Jerry, George and Elaine in Jerry's apartment.|KRAMER|Alright, what size are you?
+Jerry, George and Elaine in Jerry's apartment.|ELAINE|Seven-and-a-half.
+Jerry, George and Elaine in Jerry's apartment.|KRAMER|Eh! Bingo.
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|action|Russell eating at the restaurant. Jerry and George arrive. Jerry hands the shoes to Gail, and they walk over to Russell's table.
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|JERRY|Hey! Whattaya know!
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|GEORGE|Look who's here!
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|JERRY|Fancy meeting you here!
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|RUSSELL|Oh. Hello.
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|JERRY|You know, it's a funny thing, because after the pilot got cancelled, we hadn't heard from you.
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|GEORGE|Didn't hear anything...
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|JERRY|Didn't know...we were wondering...what happened.
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|RUSSELL|Well, it just didn't seem to be the right project for us right now. (Elaine walks by in a low-cut dress. Jerry and George look at her as she moves to the table opposite Russell.) So, what were you saying?
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|GEORGE|Oh...uh, because if it had anything at all to do with what you perceived as me leering at your daughter, I really have to take issue with that. I did not leer. (To Jerry) Did I leer?
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|JERRY|No leer. (Elaine comes over to Russell's table.)
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|GEORGE|Because, if I'm looking straight ahead, and something enters my field of vision, that's merely a happenstance. (Elaine loudly snaps and unfolds her napkin at the next table to get Russell's attention.)
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|RUSSELL|Under the circumstances, I don't really feel that we should be in business together. (Elaine comes back over.)
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|ELAINE|Here's your ketchup back. You know, I had the hardest time trying to get some out. I mean, I just kept pounding and pounding on the bottom of it. Do you have any trouble?
+Gail in the kitchen at Pfeiffer's. She notices Dalrymple being shown to his table.|RUSSELL|No, I... (finally notices Elaine)...don't have a ketchup secret. (Smiles.)
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|GAIL|How's everything?
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|ELAINE|Mmmm.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|JERRY|Really good.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|GEORGE|This pasta primavera is fabulous.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|JERRY|Very tasty.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|GAIL|How'd everything go with that NBC guy?
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|GEORGE|Great.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|JERRY|The pilot's back on. In fact, Elaine's going out with him tomorrow night. (Gail nods and walks away.) Listen, Elaine, you know if Russell mentions anything about the pilot, you'll of course tell him how much you liked it...?
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|ELAINE|You know, I happen to have the script right here with me and, uh...on page 3, for example, suppose the Elaine character comes in wearing a...a low-cut dress. And the butler is very distracted, and can't work.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|JERRY|Uh...that kind of comedy, that's a little broad for us.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|ELAINE|Well, I'm sure it's right up Russell's alley.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|GEORGE|Well, it's a funny idea.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|JERRY|It's funny!
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|GEORGE|C'mon, funny is funny.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|JERRY|Funny is funny, we're here to entertain, right?
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|ELAINE|Alright, well, maybe I'll mention it to Russell tomorrow night.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|JERRY|If you can.
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|GEORGE|Yeah. Where's he taking you, by the way?
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|ELAINE|Bouchard's, on 53rd. (George starts choking on his wine, and attempts to tell Elaine something.)
+Jerry, George and Elaine having dinner at Pfeiffer's. Gail comes over to the table.|JERRY|I think what he's trying to say is, "get the bouilla-base." (George nods 'yes' and continues to choke.)

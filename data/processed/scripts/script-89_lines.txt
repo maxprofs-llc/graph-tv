@@ -1,0 +1,293 @@
+Elaine and Jerry and in Jerry's apartment.|ELAINE|She was hitting on you? My friend Noreen?
+Elaine and Jerry and in Jerry's apartment.|JERRY|Your friend, Noreen.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Are you sure you're not just flattering yourself?
+Elaine and Jerry and in Jerry's apartment.|JERRY|If I was flattering myself, I think I'd come up with someone a little less annoying than Noreen.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|I cannot believe that she was hitting on you.
+Elaine and Jerry and in Jerry's apartment.|JERRY|If you don't believe me, ask her.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|I will. Besides, she's got a boyfriend, Jerry, you know him. Dan. Remember, we went to that party at his house?
+Elaine and Jerry and in Jerry's apartment.|JERRY|Oh, right. The guy who talks with a really high voice.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Yeah.
+Elaine and Jerry and in Jerry's apartment.|action|Kramer enters.
+Elaine and Jerry and in Jerry's apartment.|KRAMER|Jerry, did you get my Fortune magazine in your mail?
+Elaine and Jerry and in Jerry's apartment.|JERRY|Check the pile.
+Elaine and Jerry and in Jerry's apartment.|KRAMER|(leafing through Jerry's mail) Oh, who sent you a card?
+Elaine and Jerry and in Jerry's apartment.|JERRY|I don't know.
+Elaine and Jerry and in Jerry's apartment.|KRAMER|Open it, it's from Hallmark.
+Elaine and Jerry and in Jerry's apartment.|JERRY|Oh.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Hello, darling.
+Elaine and Jerry and in Jerry's apartment.|JERRY|Isn't that cute, a 'thank you' card from Kristin.
+Elaine and Jerry and in Jerry's apartment.|KRAMER|Let me see.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Who's Kristin?
+Elaine and Jerry and in Jerry's apartment.|JERRY|She works for PBS, I met her when I agreed to do that pledge drive.
+Elaine and Jerry and in Jerry's apartment.|KRAMER|Did you ask her about me?
+Elaine and Jerry and in Jerry's apartment.|JERRY|Yeah, in fact she said that you could be one of those people that sits in the back and answers the phone.
+Elaine and Jerry and in Jerry's apartment.|KRAMER|Giddy-up! Alright! So now, how does that work? Now, what, I get a percentage of every pledge I bring in, right?
+Elaine and Jerry and in Jerry's apartment.|JERRY|No, it's not aluminum siding, it's volunteer work. All the money goes to the station.
+Elaine and Jerry and in Jerry's apartment.|KRAMER|Okay, yeah, alright, that sounds good, but I still get a tote bag though, right?
+Elaine and Jerry and in Jerry's apartment.|JERRY|Yeah, and one of those foam beer can holders.
+Elaine and Jerry and in Jerry's apartment.|action|Kramer leaves, satisfied.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|(dialing the phone) You know what I'm doing? I'm calling Noreen.
+Elaine and Jerry and in Jerry's apartment.|JERRY|Oh, go ahead.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|You sure you don't mind?
+Elaine and Jerry and in Jerry's apartment.|JERRY|Like she's really going to admit she was flirting with me.
+Elaine and Jerry and in Jerry's apartment.|action|Elaine finishes dialing, the phone rings and a high pitched voice answers.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Hi, it's Elaine. Listen, I was just talking to Jerry.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Jerry Seinfeld.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|You mean like like?
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Noreen, were you hitting on him?
+Elaine and Jerry and in Jerry's apartment.|action|Cut to the other end of the conversation, there's a bald man on the telephone.
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Ooh.
+Elaine and Jerry and in Jerry's apartment.|DAN|You say that Noreen was hitting on Jerry Seinfeld?
+Elaine and Jerry and in Jerry's apartment.|ELAINE|Uh oh.
+Elaine and Jerry and in Jerry's apartment.|JERRY|So was I right? She likes me, right?
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|ELAINE|Oh, I'm sorry Mr. Pitt. Hello?
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|ELAINE|Is this Noreen?
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|ELAINE|Well, listen, Jerry mentioned it, and, I don't know--
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|ELAINE|Noreen, are you crying?
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|DAN|No, this is Dan!
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|ELAINE|Oh, hi Dan.
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|ELAINE|Tell Noreen I'll just call her back later.
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|ELAINE|No one. I'm sorry Mr. Pitt, that won't happen again.
+Elaine is sharpening pencils for Mr. Pitt. The phone is ringing.|ELAINE|Well, it's a long story, okay? But my stupid friend Jerry told my other friend Noreen that she was-- (noticing Mr. Pitt eating the candy bar with knife and fork and becoming distracted) You know, hitting on him and so I called her to see what was, uh, going on and I accidentally got her boyfriend, who is this, you know--
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis at PBS. Show us you care. Call in your pledge now.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|Jerry, I am so grateful that you're doing this.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|Oh, I know you are.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|You got the card I sent?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|I did.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|So where is it?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|What?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|The card. Is this it in the trash?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|No?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|This is my card, you threw it away.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|Well--
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|I put a lot of thought into this card.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|You signed your name and you addressed the envelope, it's not like you painted the picture and wrote the poem.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|Fine. I gotta get back to the office.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|Why, because I threw the card out? How long was I supposed to save it?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|You have no sentimentality.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|I have sentimentality, really, I'm sentimental. Here, look. Here's some cards I've saved, these are birthday cards from my grandmother, see, I'm not a bad guy.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRISTIN|Oh, so you save her cards but not mine! Oh great!
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|(as Kristin is storming out) Well, but, you see, I saved something! See? I can save. I'll see you at the pledge drive, ok?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|action|Kramer enters as Kristin leaves.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRAMER|New cards, huh?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|No, they're old cards from my grandmother.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRAMER|Oh. Well, I'll tell you, a nice greeting card can really lift a person's spirits.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|Yeah.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRAMER|(opening a card) Oh, a check.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|Yeah, she puts ten dollars in every card for my birthday, that's why I save them.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRAMER|There's a check in all these? Why don't you cash them?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|I don't know, it's ten dollars.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRAMER|But you got a whole pile here. 1987?
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|Oh so what.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRAMER|Jerry, your grandmother gave you this gift. She wants you to spend the money, to have the fun that she can't have. Oh, this is tantamount to a slap in the face.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|Oh, get out of here.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRAMER|Jerry, a gift not enjoyed is like a flower that doesn't blossom.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|JERRY|Alright, alright, I'll cash the checks.
+Jerry and Kristin, the PBS rep, are in Jerry's apartment. Jerry is reading from a sheet of paper.|KRAMER|Yeah.
+Jerry and George are at the coffee shop.|JERRY|It was a 'thank you' card from Kristin because I'm doing the PBS drive. I mean, how long am I supposed to keep it?
+Jerry and George are at the coffee shop.|GEORGE|The rule is a minimum of two days.
+Jerry and George are at the coffee shop.|JERRY|You making that up or do you know what you're talking about?
+Jerry and George are at the coffee shop.|GEORGE|I'm making it up.
+Jerry and George are at the coffee shop.|JERRY|I mean really, what's the point of saving it? I could see if I had a mantel.
+Jerry and George are at the coffee shop.|GEORGE|Oh, well, a mantel's a whole different story.
+Jerry and George are at the coffee shop.|JERRY|Absolutely.
+Jerry and George are at the coffee shop.|GEORGE|If my parents had a mantel, I might be a completely different person.
+Jerry and George are at the coffee shop.|JERRY|So anyway, she's kind of upset about it so I need you to do me a favor.
+Jerry and George are at the coffee shop.|GEORGE|Let's have it.
+Jerry and George are at the coffee shop.|JERRY|Well, I'm doing the PBS show, so during the show they're gonna be running the Ken Burns baseball thing. So I thought if I could get a baseball player to come on the show with me...
+Jerry and George are at the coffee shop.|GEORGE|You want me to ask one of the Yankees.
+Jerry and George are at the coffee shop.|JERRY|Could you?
+Jerry and George are at the coffee shop.|GEORGE|Alright. I'll run it by a few people.
+Jerry and George are at the coffee shop.|JERRY|Alright, Do your thing, where you lie to everyone.
+Jerry and George are at the coffee shop.|ELAINE|(entering and sitting down) I should never have made that phone call.
+Jerry and George are at the coffee shop.|JERRY|Hey, did you ever get to talk to Noreen?
+Jerry and George are at the coffee shop.|ELAINE|Yes, she's very upset.
+Jerry and George are at the coffee shop.|JERRY|So was I right about the flirting? Was it true?
+Jerry and George are at the coffee shop.|ELAINE|I don't know, I never asked. She was yelling--
+Jerry and George are at the coffee shop.|GEORGE|Who was flirting with you?
+Jerry and George are at the coffee shop.|JERRY|Remember when we were in the bookstore, that woman came up to us?
+Jerry and George are at the coffee shop.|GEORGE|She wasn't flirting with you.
+Jerry and George are at the coffee shop.|JERRY|Oh, sure she was; Asked me where the 'humor' section was? Humor? Come on.
+Jerry and George are at the coffee shop.|ELAINE|Jerry, her brother just had a book of political cartoons published.
+Jerry and George are at the coffee shop.|action|Elaine and George laugh derisively.
+Jerry and George are at the coffee shop.|JERRY|Alright, so maybe she wasn't flirting with me. So what?
+Jerry and George are at the coffee shop.|ELAINE|So, yeah, that's funny. Hey, you wanna hear something weird? Mr. Pitt eats his Snickers bars with a knife and fork.
+Jerry and George are at the coffee shop.|GEORGE|Really?
+Jerry and George are at the coffee shop.|ELAINE|Yeah.
+Jerry and George are at the coffee shop.|JERRY|Why does he do that?
+Jerry and George are at the coffee shop.|GEORGE|He probably doesn't want to get chocolate on his fingers. That's the way these society types eat their candy bars.
+Jerry and George are at the coffee shop.|JERRY|Oh, you know.
+Jerry and George are at the coffee shop.|GEORGE|What, you think I eat all my meals with you? (To waitress) Excuse me, sweetheart? I think you may have overcharged us. What is this?
+Jerry and George are at the coffee shop.|WAITRESS|That's the extra toast. Get it?
+Jerry and George are at the coffee shop.|GEORGE|Got it. (the waitress walks away) Did you just see what happened here?
+Jerry and George are at the coffee shop.|ELAINE|What?
+Jerry and George are at the coffee shop.|GEORGE|Did you see the way she pointed at the check? She gave me the finger.
+Jerry and George are at the coffee shop.|JERRY|That's how waitress types express derision. They don't want to get their mouths dirty.
+George is in a meeting at work.|GEORGE|So, what do you think?
+George is in a meeting at work.|GEORGE|Channel eleven? Forgive me for trying to class up this place, for trying to have the Yankees reach another strata of society that might not watch channel eleven.
+George is in a meeting at work.|action|George begins eating a candy bar with knife and fork.
+George is in a meeting at work.|GEORGE|I am eating my dessert. How do you eat it, with your hands?
+Jerry and Kramer are at an ATM.|JERRY|Okay, sixty bucks from Nana.
+Jerry and Kramer are at an ATM.|KRAMER|Huh? Yeah.
+Nana is home knitting, the phone rings.|NANA|Hello?
+Nana is home knitting, the phone rings.|VOICE|Hello, this is Chemical Bank. Just wanted you to know that your checking account is overdrawn.
+Nana is home knitting, the phone rings.|NANA|Chemical Bank? I haven't used that account in months.
+Nana is home knitting, the phone rings.|VOICE|Well, someone's been cashing the checks and you're overdrawn.
+Nana is home knitting, the phone rings.|NANA|Oh dear. I'll be down there first thing in the morning.
+Nana is home knitting, the phone rings.|VOICE|(unheard by Nana as she hangs up the phone) Wait, we can do this over the phone.
+Nana is home knitting, the phone rings.|action|Fade to the next morning, the alarm clock goes off, it's 5:30, Nana turns off the alarm, fully dressed, gathers her coat and purse, sighs, and heads for the door.
+George, Jerry and Kramer are at the coffee shop.|JERRY|You got Danny Tartabull?!
+George, Jerry and Kramer are at the coffee shop.|GEORGE|You wanted a Yankee, I got you a Yankee.
+George, Jerry and Kramer are at the coffee shop.|JERRY|Boy, you really came through. Kristin's gonna be thrilled.
+George, Jerry and Kramer are at the coffee shop.|GEORGE|Hey, the Bull owes me one, I helped him with his swing.
+George, Jerry and Kramer are at the coffee shop.|KRAMER|So you're bringing Danny Tartabull to the fundraiser tonight.
+George, Jerry and Kramer are at the coffee shop.|GEORGE|Absolutely. Pending approval of the script.
+George, Jerry and Kramer are at the coffee shop.|JERRY|Excuse me?
+George, Jerry and Kramer are at the coffee shop.|GEORGE|Jerry, I'm Yankee management.
+George, Jerry and Kramer are at the coffee shop.|KRAMER|Yeah, I'd like to see the script too.
+George, Jerry and Kramer are at the coffee shop.|JERRY|You're just answering phones!
+George, Jerry and Kramer are at the coffee shop.|KRAMER|It would put me at ease.
+George, Jerry and Kramer are at the coffee shop.|GEORGE|Hey, when you order from the waitress, get her to point to the menu. I want to see what finger she uses.
+George, Jerry and Kramer are at the coffee shop.|JERRY|Uh, say, I wanted a side order of fruit but I didn't see it on the men
+George, Jerry and Kramer are at the coffee shop.|WAITRESS|Oh, you're getting it (pointing to menu with index finger), it comes with your breakfast special.
+George, Jerry and Kramer are at the coffee shop.|JERRY|Right you are.
+George, Jerry and Kramer are at the coffee shop.|GEORGE|I didn't get the special, but I'd also like the fresh fruit too.
+George, Jerry and Kramer are at the coffee shop.|WAITRESS|(scratching cheek with middle finger) I'll check.
+George, Jerry and Kramer are at the coffee shop.|GEORGE|(after waitress walks away) I don't believe it, she did it again!
+George, Jerry and Kramer are at the coffee shop.|JERRY|Oh, she had an itch.
+George, Jerry and Kramer are at the coffee shop.|GEORGE|She had an itch. She could have used any one of those fingers. That finger was meant for me.
+George, Jerry and Kramer are at the coffee shop.|JERRY|By the way, lunch is on me. I just cashed my Nana's birthday checks.
+Nana is standing on a deserted street in front of an abandoned building, checking for an address. A street tough approaches from behind.|NANA|Isn't the Chemical Bank on this block?
+Nana is standing on a deserted street in front of an abandoned building, checking for an address. A street tough approaches from behind.|NANA|Oh dear.
+Jerry is in his apartment, the phone rings.|JERRY|(answering) Hello?
+Jerry is in his apartment, the phone rings.|JERRY|Uncle Leo!
+Jerry is in his apartment, the phone rings.|action|Kramer enters.
+Jerry is in his apartment, the phone rings.|JERRY|Nana's missing?
+Jerry is in his apartment, the phone rings.|JERRY|I've been thinking about her, I just cashed some of her checks.
+Jerry is in his apartment, the phone rings.|KRAMER|Yeah, that's right. You did.
+Jerry is in his apartment, the phone rings.|JERRY|I think Chemical Bank.
+Jerry is in his apartment, the phone rings.|KRAMER|Oh, they were Chemical.
+Jerry is in his apartment, the phone rings.|JERRY|Well, Kramer thought it would make her happy. (To Kramer) I never should have cashed those checks!
+Jerry is in his apartment, the phone rings.|KRAMER|Hey, I didn't twist your arm.
+Jerry is in his apartment, the phone rings.|JERRY|Just call me if you hear anything. (hangs up and faces Kramer) Well? I cashed the checks, the checks bounced and now my Nana's missing!
+Jerry is in his apartment, the phone rings.|KRAMER|Well, don't look at me.
+Jerry is in his apartment, the phone rings.|JERRY|It's your fault!
+Jerry is in his apartment, the phone rings.|KRAMER|My fault? Your Nana is missing because she's been passing those bum checks all over town and she finally pissed off the wrong people.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|So anyway, it's caused a lot of problems. Dan thinks I'm interested in Jerry, he won't let up.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|I'm really sorry, but you can see why I'd make a mistake like that.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|No, why?
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|Well, you know, because he's a high talker.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|He does raise his voice occasionally, but that's normal.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|No. No, no, no, not a loud talker, a high talker.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|Really?
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|You don't think his voice sounds a lot like yours?
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|I never noticed that.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|Well, it's no big deal, you know, it's just that he can sound like a woman, you know?
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|Great. I'm going out with a man who sounds like a woman.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|Well, he looks like a man.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|Yeah.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|He's bald. I know that's a guy thing.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|I guess.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|I know he belches a lot.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|Well, that's something. So, Jerry thought I was flirting with him.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|Yeah.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|(cutting into a cookie with a knife and fork) Hm. He's kind of a baritone, isn't he?
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|What are you doing?
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|I'm eating this cookie.
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|ELAINE|No, no, no, but why are you using a knife and a fork? Did you just
+Mr. Morgan is sitting at an outdoor cafe, eating a candy bar with a knife and fork. Noreen walks by and takes notice. Cut to Noreen and Elaine seated at the counter at Monk's.|NOREEN|No, I've seen people do it. I like it.
+George is driving Danny Tartabull to the pledge drive.|GEORGE|Oh no, in and out, I made sure of that. And you'll be happy to know I perused the script and it's met with my approval.
+George is driving Danny Tartabull to the pledge drive.|GEORGE|(swerving) Hey! Watch it! Did you see that guy? He just gave me the finger!
+George is driving Danny Tartabull to the pledge drive.|GEORGE|Oh yeah! Middle finger, straight up, at me! At us!
+George is driving Danny Tartabull to the pledge drive.|GEORGE|I'm following him.
+George is driving Danny Tartabull to the pledge drive.|ELAINE|And now I think she might really be interested in you. And Dan is
+George is driving Danny Tartabull to the pledge drive.|JERRY|Would you?
+George is driving Danny Tartabull to the pledge drive.|KRAMER|Any word from Nana?
+George is driving Danny Tartabull to the pledge drive.|JERRY|No.
+George is driving Danny Tartabull to the pledge drive.|ELAINE|Nana?
+George is driving Danny Tartabull to the pledge drive.|JERRY|Yeah, my grandma's missing.
+George is driving Danny Tartabull to the pledge drive.|ELAINE|Missing?
+George is driving Danny Tartabull to the pledge drive.|JERRY|Yeah. I think it might have something to do with those checks.
+George is driving Danny Tartabull to the pledge drive.|ELAINE|Um, what does Nana sound like?
+George is driving Danny Tartabull to the pledge drive.|JERRY|Like a grandmother, why?
+George is driving Danny Tartabull to the pledge drive.|ELAINE|Well...
+George is driving Danny Tartabull to the pledge drive.|JERRY|Oh, you hung up on my Nana?!
+George is driving Danny Tartabull to the pledge drive.|ELAINE|I don't know, maybe.
+George is driving Danny Tartabull to the pledge drive.|JERRY|You told Nana to drop dead?!
+George is driving Danny Tartabull to the pledge drive.|ELAINE|It's possible.
+George is driving Danny Tartabull to the pledge drive.|JERRY|Yes, it is!
+George is driving Danny Tartabull to the pledge drive.|KRAMER|Alright, alright. Look, Jerry, we gotta get down to PBS, PDQ.
+George is driving Danny Tartabull to the pledge drive.|JERRY|Alright.
+George is driving Danny Tartabull to the pledge drive.|GEORGE|No one gives us the finger! We're Yankees!
+George is driving Danny Tartabull to the pledge drive.|GEORGE|No, you can have it.
+George is driving Danny Tartabull to the pledge drive.|action|Danny Tartabull begins eating the donut with a knife and fork. George takes notice.
+Jerry and Kramer are at PBS.|KRAMER|Jerry, where are all the tote bags?
+Jerry and Kramer are at PBS.|JERRY|I don't know.
+Jerry and Kramer are at PBS.|KRAMER|Well, I'm not leaving the premises without tote bags. I was promised tote bags and tote bags I shall have.
+Jerry and Kramer are at PBS.|KRISTIN|Jerry, this man wants to see you.
+Jerry and Kramer are at PBS.|JERRY|Leo?
+Jerry and Kramer are at PBS.|JERRY|Uncle Leo! What are you doing here?
+Jerry and Kramer are at PBS.|JERRY|Oh.
+Jerry and Kramer are at PBS.|KRISTIN|Jerry, I'm dying to meet Danny Tartabull. Where is he?
+Jerry and Kramer are at PBS.|JERRY|He'll be here any second.
+Jerry and Kramer are at PBS.|KRISTIN|You know you guys are both on in five minutes.
+Jerry and Kramer are at PBS.|JERRY|Yeah, yeah.
+Jerry and Kramer are at PBS.|KRISTIN|(leaving) Okay.
+Jerry and Kramer are at PBS.|JERRY|No, that's ok, I really don't need any money.
+Jerry and Kramer are at PBS.|JERRY|Please-
+Jerry and Kramer are at PBS.|JERRY|It's not necessary.
+Jerry and Kramer are at PBS.|JERRY|I can't, I can't take it.
+Jerry and Kramer are at PBS.|JERRY|Uncle Leo, I don't want to have it!
+Jerry and Kramer are at PBS.|JERRY|I don't want it!!
+Jerry and Kramer are at PBS.|action|There's a knock at the door.
+Jerry and Kramer are at PBS.|KRAMER|Who's that?
+Jerry and Kramer are at PBS.|JERRY|You know what? It sounds like the friend of Elaine's that was hitting on me in the book store.
+Jerry and Kramer are at PBS.|KRAMER|Jerry, I'll take care of it.
+Jerry and Kramer are at PBS.|action|Kramer walks out and sees Dan.
+Jerry and Kramer are at PBS.|DAN|Is Jerry in there?
+Jerry and Kramer are at PBS.|KRAMER|Well, he can't be disturbed now.
+Jerry and Kramer are at PBS.|DAN|Well this situation is driving me crazy. He's all I think about. I can't get him out of my mind.
+Jerry and Kramer are at PBS.|KRAMER|I'm sorry. I mean, I know what it's like to be in love. Ties you up in knots. And Jerry is a very sexy man.
+Jerry and Kramer are at PBS.|DAN|What?
+Jerry and Kramer are at PBS.|KRAMER|Look, I'm not judging you. In fact, we here at PBS, we have many programs celebrating your lifestyle. Armistead Maupin's Tales of the City, Gender Bending and Swinging in San Francisco. Before Stonewall about those dark ages when you couldn't come out of the closet, lest you be persecuted because of your, you know.
+Jerry and Kramer are at PBS.|DAN|No, I don't.
+Jerry and Kramer are at PBS.|KRISTIN|(running up) Are you Danny Tartabull?
+Jerry and Kramer are at PBS.|DAN|No, I'm not.
+George is parked at a gas station, he steps out of the car and slams the door.|GEORGE|I'll take care of this, Danny.
+George is parked at a gas station, he steps out of the car and slams the door.|action|George approaches the man he's been following, who's now pumping gas.
+George is parked at a gas station, he steps out of the car and slams the door.|GEORGE|Excuse me.
+George is parked at a gas station, he steps out of the car and slams the door.|MAN|What's the problem?
+George is parked at a gas station, he steps out of the car and slams the door.|GEORGE|I believe you cut me off, and then made an obscene gesture.
+George is parked at a gas station, he steps out of the car and slams the door.|MAN|I did? Where?
+George is parked at a gas station, he steps out of the car and slams the door.|GEORGE|Outside of Manhattan, about an hour ago.
+George is parked at a gas station, he steps out of the car and slams the door.|MAN|Wow! Is that Danny Tartabull?
+George is parked at a gas station, he steps out of the car and slams the door.|GEORGE|That's right, of the New York Yankees.
+George is parked at a gas station, he steps out of the car and slams the door.|MAN|I'd like to shake his hand but I can't.
+George is parked at a gas station, he steps out of the car and slams the door.|action|The man holds up his arm, it's in a cast with his middle finger sticking straight up.
+Jerry is doing his bit for PBS.|JERRY|I'm Jerry Seinfeld, I tell jokes for a living, but there's no joking about the financial crisis here at PBS. Our lines are open, so please call the number you see on your screen.
+Cut back to Jerry,|JERRY|This is the only time this year we'll be asking for donations. You've been enjoying Ken Burns' Baseball-
+Cut to Kramer sitting at the phone bank, his phone rings.|KRAMER|(answering) PBS pledge drive.
+Cut to Kramer sitting at the phone bank, his phone rings.|NANA|Hello, I'd like to speak with Jerry.
+Cut to Kramer sitting at the phone bank, his phone rings.|KRAMER|Oh, you again. Buddy, look, forget about Jerry. It's not gonna happen.
+Cut to Kramer sitting at the phone bank, his phone rings.|NANA|This is his grandmother.
+Cut to Kramer sitting at the phone bank, his phone rings.|KRAMER|Oh, uh, Nana. Hello.
+Cut to Kramer sitting at the phone bank, his phone rings.|NANA|Tell Jerry I'm sorry, I'm going to have to write him some new checks.
+Cut to Kramer sitting at the phone bank, his phone rings.|KRAMER|As long as you've got your checkbook out, how about forking a little over to PBS? You watch the station, don't you? You don't want to be a freeloader.
+Cut back to Jerry.|JERRY|-programs like Ken Burns' Baseball. And if Danny Tartabull were here, I'm sure he'd say, 'That's correct, Jerry.'
+Cut back to Jerry.|action|Kramer rises in the background.
+Cut back to Jerry.|KRAMER|Jerry? I have an announcement. Your grandmother is on the line.
+Cut back to Jerry.|JERRY|My Nana?
+Cut back to Jerry.|KRAMER|And as we speak, she's generously writing PBS a check for fifteen hundred dollars!
+Cut back to Jerry.|action|Everybody applauds as Uncle Leo comes out from sidestage.
+Jerry and Elaine are at the coffee shop.|JERRY|I got another card from Kristin. Not quite as chipper as the first one.
+Jerry and Elaine are at the coffee shop.|ELAINE|Wow. Isn't this little bunny giving you the-
+Jerry and Elaine are at the coffee shop.|JERRY|Yes, he is.
+Jerry and Elaine are at the coffee shop.|ELAINE|You should show this to Georgie.
+Jerry and Elaine are at the coffee shop.|JERRY|Yeah.
+Jerry and Elaine are at the coffee shop.|WAITRESS|(at the next table) Here's your knife and fork.
+Jerry and Elaine are at the coffee shop.|JERRY|Look, she's cutting up an Almond Joy.
+Jerry and Elaine are at the coffee shop.|ELAINE|I just don't get it.
+Jerry and Elaine are at the coffee shop.|JERRY|You know, I saw someone on the street eating M&Ms; with a spoon.
+Jerry and Elaine are at the coffee shop.|ELAINE|What is wrong with everybody?
+Jerry and Elaine are at the coffee shop.|JERRY|(surveying the restaurant) Look, they're doing it. They're all doing it!
+Jerry and Elaine are at the coffee shop.|ELAINE|(standing up) What is wrong with all you people?! Have you all gone mad?!!

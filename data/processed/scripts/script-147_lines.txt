@@ -1,0 +1,393 @@
+Yankee Stadium, Conference Room|action|A group of staff, including George, are gathered round the table. There's a bunch of food on the table. Most people have a small plate with a few salad leaves on it in front of them. George is picking shrimp off a platter, dipping them in some sort of sauce, and stuffing his face with them, about as fast as he can manage.
+Yankee Stadium, Conference Room|BILL|Well, if the big man wants a new scoreboard, I don't wanna be the one to tell him no.
+Yankee Stadium, Conference Room|REILLY|No-one in the park is gonna be able to see it from there.
+Yankee Stadium, Conference Room|GEORGE|(through a mouthful of shrimp) Well, why don't we just put a monitor in his skybox?
+Yankee Stadium, Conference Room|REILLY|Hey George, the ocean called. They're running outta shrimp.
+Yankee Stadium, Conference Room|action|Everyone at the table starts laughing uproariously at Reilly's joke. George looks upset, and barely forces half a sick smile past his mouthful of seafood.
+George's Car|action|George drives along. He's fuming at Reilly's dig.
+George's Car|GEORGE|(angry, to himself) The ocean called. Running outta shrimp. Outta shrimp! (a thought occurs) Oh! Yes! That's what I shoulda said! (frustrated shout) Dammit!
+New York Health & Racquet Club|action|George and Jerry come along a corridor. They're carrying bags and paraphernalia indicating they've been playing tennis.
+New York Health & Racquet Club|JERRY|'The ocean called, They're running outta shrimp'?
+New York Health & Racquet Club|GEORGE|Yeah, yeah, yeah. But then, I said to him, 'Oh yeah? Well, the jerk store called, and they're running outta you.'
+New York Health & Racquet Club|action|Jerry and George halt at a bench by the entrance to the pro shop. Jerry rummages in his bag, producing an old-fashioned wooden framed tennis racquet.
+New York Health & Racquet Club|JERRY|(smiling) Really? That's great. You said that to him?
+New York Health & Racquet Club|GEORGE|(confessing) Well, actually, I thought it up on the way over here.
+New York Health & Racquet Club|JERRY|Oh. That's not quite the same.
+New York Health & Racquet Club|GEORGE|No. No it's not. You don't know this guy. It woulda been so sweet.
+New York Health & Racquet Club|JERRY|I'm gonna grab a can of balls.
+New York Health & Racquet Club|GEORGE|Right.
+New York Health & Racquet Club|action|George heads on down the corridor. Jerry walks into the pro shop, carrying his gear. There are a few customers browsing. Milos (East European, tracksuit wearing, slicked back hair with pony tail) comes over to Jerry.
+New York Health & Racquet Club|MILOS|Hello. My name is Milos. How can I help you.
+New York Health & Racquet Club|JERRY|I need a can of balls.
+New York Health & Racquet Club|action|Jerry stands before the counter, holding the old-fashioned racquet. Milos reaches under the counter and pulls out a can of tennis balls.
+New York Health & Racquet Club|MILOS|Can of balls for the nice guy, alri...
+New York Health & Racquet Club|action|Milos stops and stares disapprovingly at Jerry's racquet.
+New York Health & Racquet Club|MILOS|...Ahh. You don't plan to hit these balls with that racquet, do you?
+New York Health & Racquet Club|action|Jerry looks surprised.
+Champagne Video|action|Inside a typical small video rental store, Elaine stands before a rack marked 'Staff Picks'. Individual shelves are labelled 'Elizabeth', 'Gene', and 'Vincent', amongst others. Elaine is reading the back of a video box, when Kramer comes up behind her.
+Champagne Video|KRAMER|Checking out the staff picks, Miss Benes?
+Champagne Video|ELAINE|Oh. (laughs) Ha-ha. Hey. Yeah, yeah. (indicating shelf) This Vincent guy, he is the best. He and I have the exact same taste in movies.
+Champagne Video|KRAMER|Oh, Vincent is an art-house goon. I stick to the Gene rack.
+Champagne Video|ELAINE|Gene? Oh, it's so stupid and mainstream.
+Champagne Video|KRAMER|(indicates 'Gene' shelf) I've seen all these, so I went with a Kramer pick.
+Champagne Video|action|Kramer holds up a video for Elaine's inspection.
+Champagne Video|ELAINE|(reading) 'The Other Side Of Darkness'. Huh, I never heard of that one.
+Champagne Video|KRAMER|Yeah, went straight to video.
+Champagne Video|action|Elaine looks upon this as a negative.
+Champagne Video|KRAMER|(positive) That makes me the premiere.
+Champagne Video|action|Kramer takes his cassette toward the counter.
+Champagne Video|ELAINE|(gets Kramer's point) Hah.
+Jerry's Apartment|action|Kramer is talking seriously to Jerry, whilst holding a piece of paper.
+Jerry's Apartment|KRAMER|Jerry, have you ever seen the movie The Other Side Of Darkness?
+Jerry's Apartment|JERRY|No.
+Jerry's Apartment|KRAMER|It's about this woman, in a coma. Well, I couldn't finish watching it, so I want you to read this.
+Jerry's Apartment|action|Kramer hands the piece of paper to Jerry.
+Jerry's Apartment|JERRY|(reading) 'I, Cosmo Kramer, having just seen the movie The Other Side Of Darkness, and not wanting to be in a coma like that lady in the movie, hereby want Jerry Seinfeld to remove my life support, feeding machine, lung-blower, etcetera, etcetera, etcetera.'
+Jerry's Apartment|KRAMER|Can you do that for me, buddy?
+Jerry's Apartment|JERRY|Well, I don't if what you have here constitutes a legally binding document.
+Jerry's Apartment|KRAMER|Well, I'm gonna type it up.
+Jerry's Apartment|JERRY|Yes, well, of course, but, even so, you may wanna talk to a lawyer.
+Jerry's Apartment|KRAMER|Yeah, but, Jackie Chiles, he put a restraining order on me. (frustrated) I'm not allowed within two hundred feet of his office. I couldn't even give him his Christmas present.
+Jerry's Apartment|action|Jerry nods sympathetically. Kramer spots something on the table.
+Jerry's Apartment|KRAMER|Oh, hey, new racquet, huh?
+Jerry's Apartment|JERRY|Yeah. (hands racquet to Kramer) I wasn't gonna get it, but this guy Milos, who runs the pro shop, he really recommended it.
+Jerry's Apartment|action|Kramer takes a few practice strokes with the racquet.
+Jerry's Apartment|JERRY|In fact, it's the only racquet he plays with.
+Jerry's Apartment|KRAMER|(picking up Jerry's old racquet) Well, you're not gonna need this any more.
+Jerry's Apartment|action|Kramer deposits the old wooden racquet in Jerry's trash. Jerry notices something about the piece of paper Kramer gave him.
+Jerry's Apartment|JERRY|(accusingly) Hey, this is the zee page of my address book.
+Jerry's Apartment|KRAMER|(explaining) Oh yeah, I put all your zees on the weights and measures page.
+Jerry's Apartment|action|Kramer swings the new racquet again, making ball-smashing sound effects.
+Elaine's Apartment|action|Elaine sits up in bed, watching her video rental. She dabs a tear from her eye, and sniffs.
+Elaine's Apartment|ELAINE|(emotional) Oh. Oh, bravo, Vincent. Bravo. (sniffs)
+Elaine's Apartment|action|The phone rings. Elaine reaches over and picks up, not happy at being interrupted.
+Elaine's Apartment|ELAINE|What?
+Elaine's Apartment|ELAINE|Who is it?
+Elaine's Apartment|ELAINE|Of Vincent's picks?
+Elaine's Apartment|action|Elaine smiles excitedly.
+Tennis Club|action|Elaine and Jerry have been playing tennis at a different club from the one we saw earlier. They're packing away their stuff. At another court, behind them, a guy in baseball cap and dark glasses is playing truly awful tennis. He's missing the ball, falling over, flailing wildly with his racquet.
+Tennis Club|JERRY|He called you?
+Tennis Club|ELAINE|He musta got my number off the computer. We ended up talking for, like, two hours.
+Tennis Club|JERRY|To a guy you've never met? (mild sarcasm) Your screening process is getting ever more rigorous.
+Tennis Club|action|Elaine sticks out her tongue at Jerry.
+Tennis Club|ELAINE|Trying to meet him. He's never at the video store. They said he sets his own hours.
+Tennis Club|action|A tennis ball bounces by Elaine, and she grabs it. The terrible player from the other court shouts over.
+Tennis Club|ELAINE|(tossing the ball back) Yeah.
+Tennis Club|PLAYER|Thank you.
+Tennis Club|action|The ball Elaine tossed back eludes the player's grasp, misses his racquet and bounces away past him.
+Tennis Club|ELAINE|(laughing to Jerry) Oh god, that guy's terrible.
+Tennis Club|JERRY|(pulling on a jacket) Mmm-hmm.
+Tennis Club|action|The terrible player continues to swing ineffectually at easy balls in the background.
+Tennis Club|ELAINE|Hey, how come we played at this crummy place instead of your club?
+Tennis Club|JERRY|George used up all my guest passes already.
+Tennis Club|ELAINE|Ah.
+Tennis Club|PLAYER|Ahh.
+Tennis Club|action|A ball bounces past Elaine, and Jerry grabs it.
+Tennis Club|JERRY|Come on.
+Tennis Club|PLAYER|Thank you.
+Tennis Club|action|The awful player comes over to get the ball back. As he approaches, he removes his sunglasses and wipes his brow with his forearm.
+Tennis Club|JERRY|(tossing the ball) Here you go.
+Tennis Club|action|The player catches the ball and raises his head, so we can see his face. It's Milos, the guy who sold Jerry his new racquet.
+Tennis Club|JERRY|(disbelief) Milos?
+Tennis Club|MILOS|(shock) Oh, hey. (puts sunglasses back on) How you doing?
+Tennis Club|MILOS|Okay, we should uh, wrap it up here.
+Tennis Club|action|Milos bounces the ball on the court and tries to hit it over the net. He fails, despite being no more than four feet from the net. Jerry looks down at his new racquet, thoughtfully.
+Jerry's Apartment|action|Elaine and Jerry have just arrived from the tennis club, and are putting their stuff on the table. Elaine is removing her coat.
+Jerry's Apartment|ELAINE|So he was bad. What d'you care?
+Jerry's Apartment|JERRY|Elaine, I paid two hundred dollars for this racquet, because he said it's the only one he plays with. He could've played just as well with a log.
+Jerry's Apartment|action|The door opens and Kramer enters, smartly dressed, with a suit and tie.
+Jerry's Apartment|KRAMER|Hey. Right, I talked to this lawyer guy, Shellbach. Now, he's gonna set me up, but you gotta come with me and be the executor.
+Jerry's Apartment|ELAINE|The executor? Of what?
+Jerry's Apartment|JERRY|Kramer wants to die with dignity.
+Jerry's Apartment|ELAINE|There's a feather in your cap.
+Jerry's Apartment|KRAMER|I don't wanna be a vegetable, Elaine. I just want out. (snaps fingers)
+Jerry's Apartment|action|The door opens and George wanders in, looking pleased with himself.
+Jerry's Apartment|GEORGE|Sometimes in life, the gods smile upon you, my friends.
+Jerry's Apartment|JERRY|D'you get someone to take that Canadian quarter?
+Jerry's Apartment|GEORGE|I got another meeting with Reilly. A whole new audience, and I bet I can get him to try that line again.
+Jerry's Apartment|ELAINE|Who's Reilly?
+Jerry's Apartment|JERRY|George was scarfing shrimp at this meeting, and this guy says 'Hey, George, the ocean called. They're running outta shrimp.'
+Jerry's Apartment|action|Elaine laughs, loud and long, causing Jerry and Kramer to smile and laugh.
+Jerry's Apartment|GEORGE|Listen to the comeback. (pleased) 'Oh yeah? Well the jerk store called. They're running outta you.'
+Jerry's Apartment|action|George smiles and looks expectant. The other three just stare at him, with varying levels of confusion in their expressions.
+Jerry's Apartment|GEORGE|(worked up) Wha...You gotta be kidding me?!
+Jerry's Apartment|ELAINE|How 'bout this one? How 'bout, 'Your cranium called. It's got some space to rent.'?
+Jerry's Apartment|action|Elaine laughs, and Jerry smiles.
+Jerry's Apartment|GEORGE|(confused) What does that mean?
+Jerry's Apartment|JERRY|(taps George's chest) Hey, here you go. 'Hey, Reilly. The zoo called. You're due back by six.'
+Jerry's Apartment|GEORGE|(frustrated) No. No, no, no. You're not helping me.
+Jerry's Apartment|KRAMER|Look, just tell him you had sex with his wife. That'll kill him.
+Jerry's Apartment|GEORGE|(shouting) I'm not looking for another line. I got the line.
+Jerry's Apartment|KRAMER|Look, George, just think about it. You know, you're married, how would you feel if somebody says to you that they just had se...
+Jerry's Apartment|GEORGE|(really animated) Alright, alright. You see? This is why I hate writing with a large group. Everybody has their own little opinions, and it all gets homogenised, and you lose the whole edge of it. I'm going with jerk store! Jerk store is the line! Jerk store! Yess!
+Jerry's Apartment|action|George walks out the door. The other three watch him go. Kramer walks over and looks out the door after George, then returns and spots Jerry's old racquet on a stool.
+Jerry's Apartment|KRAMER|(picking the racquet up) Did you take this out of the garbage?
+Jerry's Apartment|JERRY|Yeah, it's still got some spring in the strings.
+Jerry's Apartment|KRAMER|Oh, Jerry, this is a piece of junk. (drops racquet in the trash) How are you gonna be the executor of my living will?
+Jerry's Apartment|action|Jerry retrieves the racquet from the trash.
+Jerry's Apartment|KRAMER|(indicating) You see? You can't let go.
+Jerry's Apartment|JERRY|Trust me, Kramer. Given the legal opportunity, I will kill you.
+Jerry's Apartment|KRAMER|I wish I could believe you. Hey, Elaine, do you have some free time tomorrow afternoon?
+Jerry's Apartment|ELAINE|Me?
+Jerry's Apartment|KRAMER|Yeah, because you're perfect. You're a calculating, cold-hearted businesswoman. And when there's dirty work to be done, you don't mind stomping on a few throats.
+Jerry's Apartment|ELAINE|(smiling, flattered) Oh, ho, c'mon.
+Lawyer's Office|action|Kramer and Elaine sit before a desk, behind which sits Shellbach the lawyer, who has a large list in front of him, from which he's reading. Kramer looks nervous, while Elaine is tapping at a soda can, looking bored.
+Lawyer's Office|SHELLBACH|Situation number four. You're breathing on your own, you're conscious, but with no muscular function.
+Lawyer's Office|KRAMER|Well, would I be able to communicate?
+Lawyer's Office|SHELLBACH|I don't see how.
+Lawyer's Office|ELAINE|Ach, I don't like the sound of this one.
+Lawyer's Office|KRAMER|Huhh, yeah, let's pull the cord.
+Lawyer's Office|ELAINE|Yank it like (pops open soda can) you're starting a mower.
+Lawyer's Office|SHELLBACH|Moving on. You have liver, kidneys and gall bladder, but no central nervous system.
+Lawyer's Office|action|Kramer looks at Elaine, who gives a double thumbs-down.
+Lawyer's Office|KRAMER|Well, I gotta have a central nervous system.
+Lawyer's Office|SHELLBACH|Okay. One lung, blind and you're eating through a tube.
+Lawyer's Office|KRAMER|Naw, that's not my style.
+Lawyer's Office|ELAINE|Bore-ing.
+Lawyer's Office|SHELLBACH|Alright, you can eat. But machines do everything else.
+Lawyer's Office|KRAMER|(hesitant) Uhm...
+Lawyer's Office|action|Kramer looks to Elaine, who nods.
+Lawyer's Office|ELAINE|I'd stick.
+Lawyer's Office|KRAMER|Yeah, yeah. Stick. (to Elaine) 'Cos I could still go to the coffee shop.
+Lawyer's Office|ELAINE|(points to Kramer and smiles in agreement) That's right.
+New York Health & Racquet Club|action|A grim-looking Jerry stalks into the pro shop and over to the counter to be met by a nervous and apologetic Milos.
+New York Health & Racquet Club|JERRY|Hello Milos.
+New York Health & Racquet Club|MILOS|Jerry, thank god you got my message. Thank you so much for coming down here. Uhm, listen...
+New York Health & Racquet Club|JERRY|(animated) You know, I spent two hundred dollars on a racquet because I thought you knew what you were talking about.
+New York Health & Racquet Club|MILOS|I..I...
+New York Health & Racquet Club|JERRY|You can't even play.
+New York Health & Racquet Club|MILOS|Believe me, it is Milos great shame. But Jerry, I could lose my business if anybody find out. How would you like extra year membership of the club? Free. No charge.
+New York Health & Racquet Club|JERRY|You could do that?
+New York Health & Racquet Club|MILOS|Jerry, for you, anything.
+New York Health & Racquet Club|action|Jerry looks happier. Milos walks away behind the scenes somewhere. Jerry looks round the store and exchanges smiles with a beautiful woman who's trying on a visor. After a few moments, Milos returns, looking rueful.
+New York Health & Racquet Club|JERRY|(indicating the woman) Game, set and match, huh Milos?
+New York Health & Racquet Club|MILOS|(apologetic) Hah, Jerry, I am so sorry. they tell me there is no way they can do it. (meek) Is there anything else I can do for you? Anything at all. I refund your money.
+New York Health & Racquet Club|JERRY|(animated) You know what Milos, I don't even care about the money. I just feel like I was taken by the worst tennis player I...
+New York Health & Racquet Club|MILOS|Shhh-shhh. (whispers) I make it up to you.
+New York Health & Racquet Club|JERRY|(doubtful) Yeah, you'll make it up to me.
+New York Health & Racquet Club|action|Jerry turns away and walks toward the door. As he passes the beautiful woman, he speaks.
+New York Health & Racquet Club|JERRY|Tennis, anyone?
+New York Health & Racquet Club|action|The woman smiles at Jerry's flirtation. Jerry leaves, and Milos looks after him, worried.
+Champagne Video|action|Kramer and Elaine stand before the 'Staff Picks' rack again. Elaine picks a video off the 'Vincent' rack.
+Champagne Video|ELAINE|Oh, this is the one Vincent told me about. The Pain And The Yearning. (reads from the box) 'An old woman experiences pain and yearning.' A hundred and ninety-two minutes?
+Champagne Video|KRAMER|That's a lotta yearning, huh?
+Champagne Video|ELAINE|You know, these movies are great, but they're just so emotionally exhausting.
+Champagne Video|KRAMER|Yeah, well, what you need is some summertime adolescent high jinx.
+Champagne Video|ELAINE|Really?
+Champagne Video|KRAMER|(looking at 'Gene' rack) See what doctor Gene prescribes, huh? (pulls down a cassette) Oh, here, look at that. Weekend At Bernies Two. Now, that's an hilarious premise.
+Champagne Video|ELAINE|(laughs) Huh. (looks from tape to tape) Well...
+Champagne Video|KRAMER|Yeah. (taps the Weekend At Bernie's II box)
+Champagne Video|ELAINE|Yeah, I could use a chuckle.
+Champagne Video|action|Elaine returns the 'Vincent' pick to the shelf and walks toward the counter with the Bernie's tape.
+Champagne Video|KRAMER|(approving) Yeah.
+Champagne Video|ELAINE|What're you getting?
+Champagne Video|KRAMER|Nothing, I'm gonna finish watching The Other Side Of Darkness.
+Champagne Video|ELAINE|Oh. How much you got left?
+Champagne Video|KRAMER|Yeah, about two hours.
+Champagne Video|action|Elaine does a double-take at this.
+Champagne Video|KRAMER|Yeah, she shot in that coma pretty quick.
+Elaine's Apartment|action|Elaine sits up in bed, watching her video. She's not enjoying it.
+Elaine's Apartment|ELAINE|(at TV screen) Bernie is dead, you moron! (frustration) Just because he's wearing sunglasses he looks alive?! (picks up video box) Ugh, how long is this weekend, anyway? (reads from label) Ugh!
+Elaine's Apartment|action|The phone rings, and Elaine picks up, glad of the interruption.
+Elaine's Apartment|ELAINE|Hello.
+Elaine's Apartment|ELAINE|Vincent?
+Elaine's Apartment|ELAINE|(defensive) No, it doesn't mean anything. I'm not even gonna rewind it.
+Elaine's Apartment|action|There is a click as Vincent hangs up.
+Elaine's Apartment|ELAINE|Vincent?
+Yankee Stadium, Conference Room|action|The table is ringed with employees again, and there is more food. George is stuffing his face with shrimp, just as before. There are a couple of empty seats. One more guy (Fred) enters, and moves to sit at the table.
+Yankee Stadium, Conference Room|FRED|Alright, let's get to it.
+Yankee Stadium, Conference Room|GEORGE|Wha..wait a minute, wha..what about Reilly?
+Yankee Stadium, Conference Room|FRED|Reilly doesn't work here any more.
+Yankee Stadium, Conference Room|GEORGE|(surprise) What? I..I didn't hear about that.
+Yankee Stadium, Conference Room|FRED|Oh, we only wake you up for the important meetings.
+Yankee Stadium, Conference Room|action|Everyone at the table collapses into laughter at George's expense. Again, George do nothing but look upset at the turn of events.
+Street|action|Jerry is walking along the street, when he encounters the beautiful woman from the pro shop, who appears to have been waiting from him.
+Street|PATTY|Hello.
+Street|JERRY|Hello. Didn't I see you at the pro shop yesterday?
+Street|PATTY|I think so. I'm Patty. Milos gave me your address. I hope you don't mind me waiting for you here.
+Street|JERRY|(to himself) Hoh, that Milos. (to Patty) Well uh, what shall we do, uhm, care for a cup of coffee?
+Street|PATTY|Why don't we just go up to your apartment?
+Street|JERRY|(surprised) Alright.
+Street|action|Patty strolls past Jerry, and indicates he should follow.
+Street|JERRY|(to himself) Gotta be an easier way.
+Street|action|Jerry turns to follow Patty.
+Kramer's Apartment|action|Kramer is playing the rest of The Other Side Of Darkness. The soundtrack can be heard from the TV.
+Kramer's Apartment|action|Kramer enters the room, with a bowl of spaghetti. He sits on the couch to watch the movie, and lifts a big forkful into his mouth.
+Kramer's Apartment|action|Kramer stops chewing and stares wide-eyed at the TV screen.
+Kramer's Apartment|action|Kramer continues to stare at the screen, stunned by the outcome of the movie.
+Jerry's Apartment|action|Jerry hands a drink to Patty as she stands by the kitchen counter.
+Jerry's Apartment|JERRY|So, you play tennis?
+Jerry's Apartment|PATTY|(putting the glass down on the counter) Enough talk, Jerry.
+Jerry's Apartment|action|Patty advances on Jerry, sexily. Jerry looks somewhat surprised.
+Jerry's Apartment|JERRY|Not for me, I love chatting.
+Jerry's Apartment|PATTY|(putting her hand to Jerry's face) Shh.
+Jerry's Apartment|action|Patty leans toward Jerry, as though to kiss him. Just as she's about to kiss, she breaks away.
+Jerry's Apartment|PATTY|(anguished) No! No, I can't do this. (moving away) I can't go through with it. (sitting on the couch) Not even for him!
+Jerry's Apartment|JERRY|Who?
+Jerry's Apartment|PATTY|(cries) Milos. My husband!
+Jerry's Apartment|JERRY|(shocked) Your husband?!
+Jerry's Apartment|action|Patty puts her face down on the couch, weeping. Jerry, puts his hands up in the air, in a gesture of total disbelief.
+Jerry's Apartment|action|George sits on the couch, just making sure he's got Jerry's story straight. Jerry listens.
+Jerry's Apartment|GEORGE|So concerned was he, that word of his poor tennis skills might leak out, he chose to offer you his wife as some sort of mediaeval sexual payola?
+Jerry's Apartment|JERRY|(explanation) He's new around here.
+Jerry's Apartment|GEORGE|(hopeful) So, details?
+Jerry's Apartment|JERRY|(walking away) Well, I didn't sleep with her.
+Jerry's Apartment|GEORGE|Because of society, right?
+Jerry's Apartment|JERRY|(weary) Yes, George, because of society. So how did the big meeting turn out?
+Jerry's Apartment|action|Jerry is getting some sort of candy bar out of a packet on the counter.
+Jerry's Apartment|GEORGE|Reilly is no longer with the club. (getting up) You believe that?
+Jerry's Apartment|action|George wanders over into the kitchen.
+Jerry's Apartment|JERRY|Ah, you're better off. Now you can just let it go.
+Jerry's Apartment|action|George looks in the fridge.
+Jerry's Apartment|GEORGE|Yeah, I'm gonna let it go.
+Jerry's Apartment|JERRY|You never really had the right comeback, anyway.
+Jerry's Apartment|action|George jerks out of the fridge, slamming the door.
+Jerry's Apartment|GEORGE|(animated) Are you insane? Jerk store, woulda smoked that guy! Smoked him, I say.
+Jerry's Apartment|action|George walks back into the living room and picks up a newspaper. The door opens and Kramer enters.
+Jerry's Apartment|KRAMER|Hey. Oh, Jerry, listen uh, you know, I saw the rest of that movie, The Other Side Of Darkness? The coma lady wakes up at the end.
+Jerry's Apartment|GEORGE|(frustrated) Ohh, I wanted to see that. (waves his arms in frustration) Thanks. Thanks a lot.
+Jerry's Apartment|action|George stalks away into the bathroom, and slams the door behind him.
+Jerry's Apartment|KRAMER|I didn't know it was possible to come out of a coma.
+Jerry's Apartment|JERRY|I didn't know it was possible not to know that.
+Jerry's Apartment|KRAMER|(shouting back) Oh, unforgettable.
+Jerry's Apartment|KRAMER|(nervous) I gotta find Elaine. Y'know, she's gonna pull my plug.
+Jerry's Apartment|action|Kramer opens the door and exits hurriedly.
+Champagne Video|action|Elaine walks over the 'Vincent' rack, where she finds nothing but copies of a video called Betrayed.
+Champagne Video|ELAINE|What? Betrayed? Oh, Vincent, I'm so sorry. I...
+Champagne Video|action|Kramer enters the store and hurries over to Elaine.
+Champagne Video|KRAMER|Yeah, listen, uh, Elaine, I've changed my mind about the whole coma thing. (positive) Yeah, I decided I'm up for it.
+Champagne Video|ELAINE|Kramer, do you have any idea what you've done?
+Champagne Video|action|The store manager comes over and squeezes past Elaine.
+Champagne Video|MANAGER|Excuse me.
+Champagne Video|action|The manager removes the 'Vincent' label from the shelf and replaces it with another name.
+Champagne Video|ELAINE|What're you doing?
+Champagne Video|action|The manager walks back to behind the counter.
+Champagne Video|ELAINE|Wha..wha...?
+Champagne Video|MANAGER|Vincent stopped making picks.
+Champagne Video|ELAINE|(upset) Well, how am I gonna know what movies to see?
+Champagne Video|MANAGER|We have a wide variety of Gene picks.
+Champagne Video|ELAINE|(dismissive) Gene's trash.
+Champagne Video|MANAGER|I'm Gene.
+Champagne Video|action|Elaine looks sick at her error. Kramer smiles and raises his eyebrows.
+Champagne Video|ELAINE|(forcing a smile) Hi.
+New York Health & Racquet Club|action|A subdued Milos is behind the counter, before which stands Jerry.
+New York Health & Racquet Club|JERRY|Milos, I can assure you, I had no intention of telling anyone about your unbelievably bad tennis playing.
+New York Health & Racquet Club|MILOS|(not cheered) Thank you, but, unfortunately, I have much larger problems to fry. My wife, she has no respect for Milos anymore.
+New York Health & Racquet Club|JERRY|I guess that's a risk you run when you dabble in the flesh trade.
+New York Health & Racquet Club|MILOS|Patty, she, she loves tennis, as much like I do. (hopeful) Wou..would you, wi..will you let me beat you in tennis? That is the only way I can show her I am still a man.
+New York Health & Racquet Club|JERRY|(reluctant) Well, I'll do it as long as there's no other girls around. I mean, I wanna be a man too.
+Monk's|action|Jerry and Elaine sit in a booth.
+Monk's|JERRY|So you hurt Vincent's feelings?
+Monk's|ELAINE|(handing Jerry an envelope) Look what came in the mail today.
+Monk's|JERRY|(taking the envelope) Wh..What's this?
+Monk's|action|Jerry opens the envelope and shakes a small object out onto his palm.
+Monk's|ELAINE|It's the play button, off his VCR.
+Monk's|JERRY|(examining the button) Boy, look how far back it goes. It's like a tooth.
+Monk's|action|George enters and strolls over to the booth.
+Monk's|GEORGE|(sitting) So, guess where Mr 'Ocean phoned' turned up? He's working for Firestone, in Akron, Ohio.
+Monk's|ELAINE|Ohio?
+Monk's|GEORGE|Yep. I'm leaving first thing tomorrow morning.
+Monk's|JERRY|(nonplused) You're flying to Akron, just to zing a guy?
+Monk's|GEORGE|Don't you understand? It's not about him. To have a line as perfect as 'jerk store' and to never use it. I, I couldn't live with myself.
+Monk's|ELAINE|See, there are no jerk stores. It..it's just a little confusing, is all.
+Monk's|GEORGE|(adamant) It's smart. It's a smart line, and a smart crowd will appreciate it. (shouting) And, I'm not gonna dumb it down for some bonehead mass audience!
+Monk's|action|George realises that everyone in the coffee shop is staring over at him, and has heard his shouts.
+Monk's|GEORGE|(waving apologetically) Not you.
+Elaine's Apartment|action|Elaine is again sitting up in bed, watching a video. (My guess is it's The Pain And The Yearning.) The soundtrack can be heard.
+Elaine's Apartment|action|The phone rings and Elaine picks up.
+Elaine's Apartment|ELAINE|Hello.
+Elaine's Apartment|ELAINE|(surprised) Vincent. (pleading) Where are you? I have to meet you.
+Elaine's Apartment|ELAINE|Vincent, listen, I won't judge you the way everyone else does. You're, you're strange and beautiful, and sensitive. (blunter) Now, let's have a look at you.
+Kramer's Car|action|Kramer drives along the street, very slowly. He's got traffic stacked up behind him and horns blare as cars manoeuvre around him. Kramer is hunched over the steering wheel, looking nervous.
+Kramer's Car|KRAMER|(indicating that cars should pass him) Well, go around, you bunch of crazies. You maniacs are gonna get us all killed.
+Lawyer's Office|action|Kramer stands expectantly in the office. A secretary enters.
+Lawyer's Office|SECRETARY|Hi, can I help you?
+Lawyer's Office|KRAMER|Oh, yeah, yeah. I'm Cosmo Kramer. Yeah, I had an appointment to annul my living will.
+Lawyer's Office|SECRETARY|Oh. (looks at her watch) Mr Kramer, you had a ten-thirty appointment. It's two o'clock. Mr Shellbach had a tennis lesson. He's gone for the day.
+Lawyer's Office|action|Kramer looks anxious again.
+Tennis Club|action|Jerry and Milos are playing at the other tennis club. They are watched by a small number of people, including Patty. Milos delivers a weak underarm serve, and Jerry makes no effort to return it, merely wafting his racquet vaguely in the direction of the ball.
+Tennis Club|JERRY|Too good.
+Tennis Club|MILOS|(triumphant shout) Another game for Milos!! Hahaha!
+Tennis Club|action|Milos walks to the net to meet Jerry.
+Tennis Club|JERRY|You're on fire today.
+Tennis Club|MILOS|(shouting over) Hey Patty. look at this guy. He's awful!
+Tennis Club|action|Patty blows Milos a kiss.
+Tennis Club|MILOS|(milking it) He's not a man, this Jerry. He's not even married like I am. (laughs) Huhuhuhu.
+Tennis Club|JERRY|(quietly) Hey, uh, Milos, I don't mind rolling over here, but could you lighten up on the 'not a man' stuff?
+Tennis Club|MILOS|(shouting) Hey everybody, look! The little chicken girl wants me to ease up. He can't handle this, so he cries like a woman! (laughs evilly) Hahaha!
+Tennis Club|action|Milos strides away to continue the game, leaving Jerry looking rueful.
+Outside Vincent's Apartment|action|Elaine walks down a hallway, carrying a large grocery bag. She reads numbers off doors until she spots the one she wants. She gives a smile, flicks her hair a little, and knocks at the door.
+Outside Vincent's Apartment|ELAINE|Hello? Vincent?
+Outside Vincent's Apartment|action|The door cracks open a few inches, but it's completely dark inside, so the occupant can't be seen.
+Outside Vincent's Apartment|VINCENT|Elaine?
+Outside Vincent's Apartment|ELAINE|I got what you asked.
+Outside Vincent's Apartment|VINCENT|Just, leave it and go.
+Outside Vincent's Apartment|ELAINE|W..well, can't I come in?
+Outside Vincent's Apartment|VINCENT|No. Go away. Now.
+Outside Vincent's Apartment|action|Elaine leans forward so her face is right into the open door.
+Outside Vincent's Apartment|ELAINE|(pleading) No, no. Vincent, I... Don't shut me out. (beseeching) I just, I know you feel what I feel.
+Outside Vincent's Apartment|action|A woman comes up behind Elaine.
+Outside Vincent's Apartment|WOMAN|Excuse me. Can I help you?
+Outside Vincent's Apartment|VINCENT|Aw, dammit!
+Outside Vincent's Apartment|ELAINE|(confused) Uh, uhm, I'm, I'm here to see Vincent.
+Outside Vincent's Apartment|WOMAN|Well, I'm his mother. (stern) Vincent, what's going on here?
+Outside Vincent's Apartment|action|The woman pushes the door wide open, revealing Vincent standing there. Vincent is a bespectacled, geeky, teen in a plaid shirt. He throws his hands up to cover his face.
+Outside Vincent's Apartment|VINCENT|(shrieks) No, my acne!
+Outside Vincent's Apartment|action|Vincent darts away from the door into the apartment. Elaine is open-mouthed in surprise.
+Outside Vincent's Apartment|ELAINE|Ahh-cnee.
+Outside Vincent's Apartment|WOMAN|(regarding the grocery bag) What d'you have here?
+Outside Vincent's Apartment|action|Vincent's mother grabs the top of the bag and begins to rummage through the contents.
+Outside Vincent's Apartment|WOMAN|(disapproving) Vodka, cigarettes, fireworks. (accusing) What kind of a sick woman brings this to a fifteen year old?
+Outside Vincent's Apartment|ELAINE|(sick smile) We have the same taste in movies.
+Outside Vincent's Apartment|WOMAN|Did he send you part of our VCR?
+Outside Vincent's Apartment|action|Elaine smiles and nods, and pulls at a chain she has round her neck. Threaded onto the chain is the VCR button Vincent sent her.
+Outside Vincent's Apartment|ELAINE|Yeah.
+Outside Vincent's Apartment|action|Vincent's mother holds out her hand, and Elaine pulls the chain over her head and hands it over.
+Outside Vincent's Apartment|WOMAN|(entering the apartment) Vincent!
+Outside Vincent's Apartment|action|Elaine reaches into the grocery bag and extracts the bottle of vodka. She drops the rest of the bag on the floor, and strolls away, swinging the bottle like a club.
+Tennis Club|action|Jerry and Milos are still playing. Jerry is still throwing the game, and Milos is still milking it. Jerry puts an easy return straight into the court in front of himself.
+Tennis Club|MILOS|(pointing and shouting) Look at the big baby! (laughter) Hehaha. (to Jerry) Hey, big baby, are you wetting yourself? Maybe it is time for you to be changed. (laughter) Hahah.
+Tennis Club|action|Patty laughs too, with the few other spectators. Jerry looks angry at this constant derision.
+Tennis Club|JERRY|(quietly) I told you to cut it out.
+Tennis Club|action|Jerry delivers a fierce serve which beats Milos, and almost hits him in the face.
+Tennis Club|MILOS|(quietly, to Jerry) Hey, c'mon, what're you doing? (to his audience)
+Tennis Club|action|Jerry walks back to deliver another serve. Kramer enters and looks around for someone. On another court, Shellbach is facing an automatic serving machine.
+Tennis Club|KRAMER|(waving) Shellbach.
+Tennis Club|action|Meanwhile, Jerry returns a shot to Milos, with some venom. Milos stretches desperately to try and reach it, but loses his grip on his racquet. The racquet arcs across the hall, watched by Patty, and then spotted by Kramer.
+Tennis Club|KRAMER|Racquet.
+Tennis Club|action|The racquet plummets from the air and strikes the guy who is operating the automatic serving machine for Shellbach. The guy is knocked unconscious and, as he falls, he pushes against the machine, turning it to point at Kramer. Kramer stands transfixed, as it continues to launch balls at him. Several balls in rapid succession strike him in the head, until he slumps, unconscious, to the floor.
+Insert|action|Aeroplane landing, with a caption 'AKRON, OHIO'.
+Firestone Boardroom, Akron|action|A boardroom very much like that of the Yankees, but with a Firestone sign on the wall. Several people sit around the table, including Reilly, and George, who is filling his face from a large dish of shrimp.
+Firestone Boardroom, Akron|REILLY|So, George. You're proposing a snow tyre day at Yankee Stadium?
+Firestone Boardroom, Akron|GEORGE|(through a mouthful) Long as they don't throw 'em on the field. (laughs) Huhu. (indicating dish) Help yourself to some shrimp, I brought enough for everybody.
+Firestone Boardroom, Akron|MCADAM|(doubtful) I have to say this, this proposal doesn't make a whole lot of sense.
+Firestone Boardroom, Akron|GEORGE|Well, you never know. (picks up more shrimp) Let's see how many I can fit in my mouth.
+Firestone Boardroom, Akron|action|George begins picking up shrimp one by one and stuffing them into his mouth.
+Firestone Boardroom, Akron|REILLY|(leaning forward) You know, George...
+Firestone Boardroom, Akron|action|George looks up, expectantly.
+Firestone Boardroom, Akron|REILLY|The ocean called. They're running outta shrimp.
+Firestone Boardroom, Akron|action|Everyone around the table laughs. Except for George, who looks triumphant. He swallows, and uses a napkin to clean his fingers.
+Firestone Boardroom, Akron|GEORGE|(standing) Oh yeah, Reilly? (smugly) Well, the jerk store called. They're running outta you
+Firestone Boardroom, Akron|REILLY|(unperturbed) What's the difference? You're their all-time best seller!
+Firestone Boardroom, Akron|action|Reilly and everyone else laughs even more than they did before. George looks angry and frustrated, even on the verge of tears for a second, then something occurs to him.
+Firestone Boardroom, Akron|GEORGE|Yeah? Well, I had sex with your wife.
+Firestone Boardroom, Akron|action|George looks round, smiling arrogantly, expecting laughter. But there is a deep, uncomfortable, silence. Reilly, looks stony-faced. McAdam stands and leans over to speak in George's ear.
+Firestone Boardroom, Akron|MCADAM|His wife is in a coma.
+Firestone Boardroom, Akron|action|George looks sick.
+Hospital Room|action|Kramer lies in bed, asleep. Jerry sits in a chair, reading a newspaper. There's a knock at the door and Elaine enters, carrying a VCR.
+Hospital Room|ELAINE|(to Jerry) Hi. (indicating Kramer) How's he doing?
+Hospital Room|JERRY|He's been sleeping a lot. He's still groggy.
+Hospital Room|ELAINE|Oh. (puts the VCR down) I thought a movie might cheer him up. I got him a Gene pick.
+Hospital Room|JERRY|What happened to Vincent?
+Hospital Room|ELAINE|(evasive) I'm kinda off of him. (looking around) Uh, outlet?
+Hospital Room|action|Jerry points to the wall beside Kramer's bed.
+Hospital Room|ELAINE|Ah.
+Hospital Room|action|Elaine walks over and sees both sockets are full. She takes hold of one of the plugs and yanks it out of the socket with a grunt. The grunt wakes Kramer, who looks groggily around and sees Elaine standing holding the plug, as if she's just unplugged his life support. He stares, bug-eyed and shrieks in terror.
+Hospital Room|KRAMER|(screaming) Waahhh!!!
+Insert|action|A plane landing, with the caption 'NEW YORK, NEW YORK'.
+George's Car|action|Once again, George drives along, frustrated and angry.
+George's Car|GEORGE|'My wife's in a coma.' Yeah? Well, the life support machine called and...
+George's Car|action|He tails off, as he can't think of anywhere to go. Then a look of enlightenment comes to George's face, as he thinks of something.
+George's Car|GEORGE|(shouts) Wait! Yes! That's what I should've said! (frustration) D'ohh!
+George's Car|action|George looks gutted for a second, then a determined expression comes to his face. He swings the car round with a squeal of tires, and heads back towards the airport.
+George's Car|GEORGE|(cocky laughter) Huh haha! (shouts) You're meat, Reilly! You just screwed yourself! (laughter) Ha ha!

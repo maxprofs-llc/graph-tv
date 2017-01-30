@@ -1,0 +1,522 @@
+Street, New York|action|An elated George leaps around the corner, kicking a cab's door closed and clapping his hands together.
+Street, New York|GEORGE|(joyful) June. It's June.
+Street, New York|action|George begins trotting down the street. He acknowledges a passerby and high-fives him.
+Street, New York|GEORGE|(high-fiving) Hey!
+Street, New York|action|George continues his joyful path along the sidewalk, with his hands raised above his head in celebration.
+Street, New York|GEORGE|It's June. Mark's Michelle is a dog.
+Street, New York|action|George takes the hand of a female passerby and dances a few steps with her, twirling her round.
+Street, New York|GEORGE|June, June, June.
+Street, New York|action|Releasing the woman, George euphorically prances along, laughing and smiling.
+Street, New York|GEORGE|(to passerby) Hey, he-hah. It's June, June.
+Street, New York|action|George leaps onto the footing of a streetlight and spins on it, in time-honoured musical fashion.
+Street, New York|GEORGE|It's Juu-uu-une! Hey hay. Yes.
+Street, New York|action|George leaps from the streetlight onto the road, where he spreads his arms and spins.
+Street, New York|GEORGE|I love Juu-uuu-uu-uune!
+Jerry's Apartment|action|George pushes open the door and enters, still ebullient. He punches the air as he looks to Jerry.
+Jerry's Apartment|GEORGE|June. Juune, baby!
+Jerry's Apartment|JERRY|What?
+Jerry's Apartment|GEORGE|The catering hall screwed up. The wedding is delayed until June. It's like a stay of execution.
+Jerry's Apartment|JERRY|Dead man walking.
+Jerry's Apartment|GEORGE|(pointing to Jerry in joyous agreement) Ha-ha-hah. This is my lucky day.
+Jerry's Apartment|JERRY|Well, one outta twenty thousand. That's not bad.
+Jerry's Apartment|GEORGE|Yeah. Hey, wait a second, you know, good news for you too. Susan's best friend, Hallie? Broke up with her boyfriend.
+Jerry's Apartment|JERRY|She did?
+Jerry's Apartment|GEORGE|Yeah.
+Jerry's Apartment|JERRY|So? Wheels?
+Jerry's Apartment|GEORGE|In motion. The wheels are in motion.
+Jerry's Apartment|JERRY|Beautiful.
+Jerry's Apartment|GEORGE|Aah, hey. (enthusiastic) If this works out, forget about it. Vacations together, movies together, dinner together. It..it's almost as good as if I didn't get married.
+Jerry's Apartment|JERRY|So, set it up. You know what, we could have dinner at the Friars Club.
+Jerry's Apartment|GEORGE|The Friars Club?
+Jerry's Apartment|JERRY|Yeah, I'm thinking of joining. Pat Cooper said he would put me up for membership.
+Jerry's Apartment|action|Kramer opens the door and leans in.
+Jerry's Apartment|KRAMER|Hey everybody. (to Jerry) Listen, uh, do me a favour, will you? I got a hot date tonight with Connie. Knock on my door, wake me up in twenty minutes, alright?
+Jerry's Apartment|JERRY|Catnap?
+Jerry's Apartment|KRAMER|No, no, no, no. (comes in) This is evolutionary. I been reading this book, on Leonardo de Vinci. See, that means 'from Vinci', d'you know that?
+Jerry's Apartment|JERRY|(deadpan) That must be some book.
+Jerry's Apartment|KRAMER|Yeah, well, turns out that the master slept only twenty minutes every three hours. Now, that works out to two and a half extra days, that I'm awake per week, every week. Which means, if I live to be eighty, I will have lived the equivalent of a hundred and five years.
+Jerry's Apartment|JERRY|Just imagine how much more you'll accomplish.
+Jerry's Apartment|KRAMER|Oh, I got a lot of things in the hopper, buddy.
+Jerry's Apartment|action|Kramer heads for the door.
+Jerry's Apartment|JERRY|I didn't know you had a hopper.
+Jerry's Apartment|KRAMER|(smiling) Oh, I got a hopper. A big hopper.
+Jerry's Apartment|action|Kramer exits, closing the door behind him.
+Conference Room, J. Peterman|action|A number of executives are seated round a table, with J Peterman at the head of the table.
+Conference Room, J. Peterman|PETERMAN|Alright, people, I'd like to begin with a hearty hail and well-met good fellow, to Bob Grossberg, who's joining us from Business Affairs.
+Conference Room, J. Peterman|action|Peterman indicates a guy sitting next to Elaine. The other executives give Bob some quiet applause, which he acknowledges with a slight wave.
+Conference Room, J. Peterman|BOB|Thanks. Hi everybody.
+Conference Room, J. Peterman|PETERMAN|Bob, we have a little baptism by fire for you, so to speak.
+Conference Room, J. Peterman|action|Elaine leans over to the guy sitting on the other side of her from Bob.
+Conference Room, J. Peterman|ELAINE|(whispers) Poor bastard.
+Conference Room, J. Peterman|PETERMAN|(to Bob) I want you to handle all the fact-checking and the copy-editing for the new catalogue.
+Conference Room, J. Peterman|action|Bob looks blank and fiddles with something behind his ear.
+Conference Room, J. Peterman|BOB|Ah, could you repeat that?
+Conference Room, J. Peterman|PETERMAN|(slower and louder) Why don't you handle all the copy-editing?
+Conference Room, J. Peterman|action|Bob pulls a face and points to indicate all is not well with his hearing.
+Conference Room, J. Peterman|BOB|(apologetic) I..I'm sorry. What?
+Conference Room, J. Peterman|PETERMAN|(louder still) Copy-editing!
+Conference Room, J. Peterman|action|Peterman sees he's not getting through to Bob, and gives up.
+Conference Room, J. Peterman|PETERMAN|Eh, never mind. (turns to Elaine) Elaine, you do it.
+Conference Room, J. Peterman|action|Elaine does a double-take at hearing this, looking dismayed. Bob has a hearing aid out of his ear and manipulates it before slipping it back in.
+Friars Club Lobby|action|Jerry, George, Susan, and Hallie stand before the maitre d' of the rather fancy Friars Club. Jerry has no jacket
+Friars Club Lobby|JERRY|Hi, I'm Jerry Seinfeld. Pat Cooper made a reservation for me.
+Friars Club Lobby|JERRY|(downcast) Oh, I'm sorry.
+Friars Club Lobby|HALLIE|(smiling) How embarrassing this must be for you.
+Friars Club Lobby|JERRY|(jocular) You just bought your own dinner.
+Friars Club Lobby|action|George, Susan and Hallie laugh at his little joke.
+Friars Club Lobby|action|The maitre d' strides away, Jerry follows.
+Friars Club Lobby|JERRY|(passing Hallie) 'Scuse me.
+Friars Club Lobby|GEORGE|(smiling) Ho ho. Funny. Isn't he funny? Funny guy. Ha ha ha.
+Friars Club Lobby|action|A couple of people walk by, George raises a hand in greeting.
+Friars Club Lobby|GEORGE|Friars.
+Friars Club Lobby|action|Jerry returns, wearing a blazer, with a crest on the breast pocket.
+Friars Club Lobby|JERRY|Hey, not bad. (pointing to crest) I kinda like this little thing here.
+Friars Club Lobby|action|George, Susan and Hallie, all make positive noises and comments. The maitre d' comes up behind Jerry and motions them to enter.
+Friars Club Lobby|GEORGE|Hup, here we go. Here we go.
+Friars Club Lobby|action|The four of them walk on into the restaurant, with George bringing up the rear.
+Friars Club Restaurant|action|Jerry, George, Susan and Hallie, sit round a table, eating. They're engage in at least two separate conversations - Jerry with George and Susan with Hallie.
+Friars Club Restaurant|GEORGE|(adamant) Ah, c'mon! I'm telling you, I can coach for the NFL. It's not that hard
+Friars Club Restaurant|action|Jerry looks scornfully at George.
+Friars Club Restaurant|SUSAN|(to Hallie) Mmm, mm, mm. Hallie (points to her plate) taste this fish. It's really delicious.
+Friars Club Restaurant|action|Hallie spears a morsel from Susan's plate and eats it.
+Friars Club Restaurant|JERRY|(to George) That might be the stupidest thing you've ever said.
+Friars Club Restaurant|GEORGE|(to Jerry) Oh, get outta here.
+Friars Club Restaurant|JERRY|(to George) I mean, come on. (a thought occurs) No, the stupidest thing you ever said was when you said Steve Kroft from Sixty Minutes is the same guy from *Seals and Croft*.
+Friars Club Restaurant|HALLIE|(to Susan) Mmm, it is good.
+Friars Club Restaurant|SUSAN|(to Hallie) What do you think about having fish for the wedding?
+Friars Club Restaurant|GEORGE|(to Jerry) You watch the old videos. (insistent) I'm telling you, look at him.
+Friars Club Restaurant|HALLIE|(to Susan) Oh. Remember (indistinct) wedding?
+Friars Club Restaurant|JERRY|Oh, come on.
+Friars Club Restaurant|GEORGE|Look...
+Friars Club Restaurant|JERRY|Alright.
+Friars Club Restaurant|action|The four continue chatting happily.
+Jerry's Apartment|action|Kramer is asleep on Jerry's couch. Jerry enters, wearing a long coat.
+Jerry's Apartment|JERRY|(looking at Kramer) This is nice.
+Jerry's Apartment|action|Jerry slams the door and Kramer jerks awake.
+Jerry's Apartment|KRAMER|Yeah, morning.
+Jerry's Apartment|JERRY|Morning?
+Jerry's Apartment|action|Jerry removes his coat, to reveal he's wearing the crested jacket from the Friars Club.
+Jerry's Apartment|KRAMER|Yeah, what time is it?
+Jerry's Apartment|JERRY|(looks at watch) Ten-thirty.
+Jerry's Apartment|KRAMER|(pleased) Ah, see. (rubs his hands together) I got the whole night ahead of me. (looks at Jerry) Boy, that's a nice jacket, huh?
+Jerry's Apartment|action|Kramer passes Jerry on his way to the kitchen. Jerry looks downwards at his attire.
+Jerry's Apartment|JERRY|(realising) Ohh, I don't believe this. I forgot to give it back. It belongs to the Friars Club.
+Jerry's Apartment|action|Kramer has a bowl on the counter and fetches a box of cereal. 
+Jerry's Apartment|KRAMER|Yeah, I like that crest. (he shakes cereal into the bowl) Alright, here we go.
+Jerry's Apartment|JERRY|Breakfast?
+Jerry's Apartment|KRAMER|(pouring cereal) Oh yeah. Most important meal of the day.
+Jerry's Apartment|JERRY|So this Da Vinci sleep is working out?
+Jerry's Apartment|KRAMER|(enthusiastic) Oh, I'm percolating, Jerry. I'm telling you, I have never felt so fertile. I'm mossy, Jerry. My brain is mossy. Listen to this idea. (fetches a spoon from the drawer) A restaurant that serves only peanut butter and jelly. (clicks tongue)
+Jerry's Apartment|JERRY|What d'you call it?
+Jerry's Apartment|KRAMER|P B and J's. What d'you think?
+Jerry's Apartment|JERRY|(deadpan) I think you need more sleep.
+Jerry's Apartment|KRAMER|(dismissive) Ahh.
+Jerry's Apartment|action|Kramer picks up his bowl of cereal and heads for the door. 
+Jerry's Apartment|JERRY|So, how'd your date work out with the mysterious Connie?
+Jerry's Apartment|action|Kramer stops, with the door open, and turns back to Jerry. 
+Jerry's Apartment|KRAMER|I am telling you, this woman is strange. She never wants to leave the apartment. It's almost like she doesn't wanna be seen with me.
+Jerry's Apartment|JERRY|Oh, now you're being ridiculous.
+Jerry's Apartment|KRAMER|(laughing) He he, yeah.
+Jerry's Apartment|action|Kramer begins to exit. 
+Jerry's Apartment|JERRY|(indicates the bowl of cereal) No milk?
+Jerry's Apartment|KRAMER|Oh, I'll be back.
+Jerry's Apartment|action|Kramer leaves and closes the door behind him.
+Elaine's Office, J. Peterman|action|It's late at night, and her's is the only light on in the building. Elaine sits at a computer, typing away at the keyboard. She's surrounded by piles of paperwork, which she rummages through. She sighs, frustrated at being saddled with all this work. 
+Jerry's Apartment|action|It's night, and Jerry lies in bed asleep. Kramer enters the room quietly and sits on the edge of Jerry's bed. 
+Jerry's Apartment|KRAMER|(quietly) Jerry.
+Jerry's Apartment|action|Jerry stirs slightly, but doesn't wake up. 
+Jerry's Apartment|KRAMER|(quietly) Hey Jerry.
+Jerry's Apartment|action|Jerry still doesn't wake. 
+Jerry's Apartment|KRAMER|(prodding Jerry) C'mon buddy.
+Jerry's Apartment|action|Jerry snaps awake, sitting up and recoiling from the figure on his bed. 
+Jerry's Apartment|JERRY|(startled) Kramer!
+Jerry's Apartment|KRAMER|You awake?
+Jerry's Apartment|JERRY|(confused) Wha..? What time is it?
+Jerry's Apartment|KRAMER|W...It's four.
+Jerry's Apartment|JERRY|(aghast) Four in the morning?!
+Jerry's Apartment|KRAMER|Yeah.
+Jerry's Apartment|JERRY|Well, what's wrong with you?
+Jerry's Apartment|KRAMER|I'm bored. I got all this free time on my hands, I dunno what to do. You wanna do something?
+Jerry's Apartment|JERRY|No. Would you just get out?
+Jerry's Apartment|KRAMER|You wanna rent a movie?
+Jerry's Apartment|JERRY|No!
+Jerry's Apartment|KRAMER|Well, what am I gonna do?
+Elaine's Office, J. Peterman|action|Jerry walks over to Elaine, who is working at her computer. She has a sandwich and a diet soda on her desk.
+Elaine's Office, J. Peterman|JERRY|Ready for lunch?
+Elaine's Office, J. Peterman|ELAINE|(irked) I'm stuck here, editing the stupid catalogue, because of stupid Bob Grossberg.
+Elaine's Office, J. Peterman|action|Jerry pulls a face, helps himself to a sandwich and sits down, as Elaine turns to him.
+Elaine's Office, J. Peterman|ELAINE|Listen, there is something really suspicious about this guy. Every time Mr Peterman tries to assign him any work, he says he can't hear, and it all gets dumped on me.
+Elaine's Office, J. Peterman|JERRY|You think he's faking?
+Elaine's Office, J. Peterman|ELAINE|I don't know. But I'd like to try that earpiece on, see if it's real.
+Elaine's Office, J. Peterman|action|Bob leans around the open door to speak.
+Elaine's Office, J. Peterman|BOB|Hey Elaine. (he spots Jerry) Oh, you have a friend.
+Elaine's Office, J. Peterman|action|Jerry waves a finger in greeting.
+Elaine's Office, J. Peterman|BOB|(to Elaine) Just wanted to say hi.
+Elaine's Office, J. Peterman|action|Bob makes to depart, but stops as Elaine speaks.
+Elaine's Office, J. Peterman|ELAINE|Bob, you know what? I'm kinda swamped here. You think you could give me a hand with some of the catalogue?
+Elaine's Office, J. Peterman|BOB|(cupping his hand behind his ear) I..I'm sorry. What?
+Elaine's Office, J. Peterman|action|Elaine leans toward Bob.
+Elaine's Office, J. Peterman|ELAINE|(slower and louder) I'm kind of swamped.
+Elaine's Office, J. Peterman|action|Bob smiles, and holds his tie, as if he's been complimented on it.
+Elaine's Office, J. Peterman|BOB|Thank you. I'm having lunch with Mr P. I better get going.
+Elaine's Office, J. Peterman|action|Bob smiles, gives Elaine a wink and leaves.
+Elaine's Office, J. Peterman|ELAINE|Did you see that? Did you see that, Jerry?
+Elaine's Office, J. Peterman|JERRY|That was him?
+Elaine's Office, J. Peterman|ELAINE|Yes.
+Elaine's Office, J. Peterman|JERRY|Somehow I thought he'd be taller.
+Elaine's Office, J. Peterman|ELAINE|Alright, listen, we'll have to do this again some other time, okay? I got a lotta work to do.
+Elaine's Office, J. Peterman|JERRY|(standing) Alright, I'll see you later.
+Elaine's Office, J. Peterman|action|Elaine turns back to her computer. Jerry heads out the door.
+Elaine's Office, J. Peterman|ELAINE|Alright.
+Peterman Bathroom|action|Bob stands at the urinal. Jerry opens the door and enters the room. He sees Bob, and wonders about something. Jerry slowly crosses the room until he's standing about three feet behind Bob.
+Peterman Bathroom|JERRY|Hey, Bob.
+Peterman Bathroom|action|Bob continues to use the urinal, without reaction.
+Peterman Bathroom|JERRY|Bob.
+Peterman Bathroom|action|Still no reaction.
+Peterman Bathroom|JERRY|Hey, Bobby, over here.
+Peterman Bathroom|action|Bob continues his necessary business.
+Peterman Bathroom|JERRY|Bob. Oh, Bob.
+Peterman Bathroom|action|Still nothing.
+Peterman Bathroom|JERRY|(louder) Bob!
+Peterman Bathroom|BOB|Hi.
+Peterman Bathroom|action|Jerry and Bob give embarrassed acknowledgement smiles.
+Elaine's Office, J. Peterman|action|Elaine types away at her computer. Jerry enters.
+Elaine's Office, J. Peterman|JERRY|(urgent whisper) Elaine.
+Elaine's Office, J. Peterman|action|Jerry closes the door behind him.
+Elaine's Office, J. Peterman|ELAINE|(makes an irked noise)
+Elaine's Office, J. Peterman|JERRY|I was just in the bathroom.
+Elaine's Office, J. Peterman|ELAINE|(really doesn't want to know) Okay, Jerry, please, please. I'm really busy here.
+Elaine's Office, J. Peterman|JERRY|No, no, no. I was just in the bathroom with that Bob guy.
+Elaine's Office, J. Peterman|ELAINE|So what?
+Elaine's Office, J. Peterman|JERRY|No, I kinda tried to test his hearing.
+Elaine's Office, J. Peterman|action|Elaine stands and slaps Jerry on the chest with a bundle of papers.
+Elaine's Office, J. Peterman|ELAINE|Get out! What'd you do?
+Elaine's Office, J. Peterman|JERRY|Well, I kinda snuck up behind him at the urinal and tried to see if he could hear me.
+Elaine's Office, J. Peterman|ELAINE|(hopeful) And?
+Elaine's Office, J. Peterman|JERRY|Well, he flinched, sort of.
+Elaine's Office, J. Peterman|ELAINE|What d'you mean, sort of? What'd he do?
+Elaine's Office, J. Peterman|JERRY|Well, he kinda moved his head, you know. It mighta been on the zip up, I dunno.
+Elaine's Office, J. Peterman|ELAINE|So you don't know anything?
+Elaine's Office, J. Peterman|JERRY|Actually, no.
+Elaine's Office, J. Peterman|ELAINE|(sarcasm) Alright, good job.
+Elaine's Office, J. Peterman|JERRY|Right.
+Elaine's Office, J. Peterman|action|Elaine goes back to work. Jerry leaves.
+Jerry's Apartment|action|Jerry sits, reading a paper, at the table. There is a knock at the door.
+Jerry's Apartment|JERRY|Come in.
+Jerry's Apartment|action|The door slowly opens wide enough for George to lean into the room. He's smiling, looks at Jerry and raises his eyebrows quizzically. Jerry smiles back.
+Jerry's Apartment|GEORGE|(entering) Last night, huh? Was that something, or was that something?
+Jerry's Apartment|JERRY|That was something.
+Jerry's Apartment|GEORGE|Ah. She's great, isn't she?
+Jerry's Apartment|JERRY|(positive) Fantastic. Fantastic woman.
+Jerry's Apartment|GEORGE|I told you.
+Jerry's Apartment|JERRY|I'm nuts about her.
+Jerry's Apartment|GEORGE|You think she could be an 'it'? Could she be an 'it'?
+Jerry's Apartment|JERRY|She could be an 'it'.
+Jerry's Apartment|GEORGE|(claps hands triumphantly) We might have an 'it'!
+Jerry's Apartment|JERRY|She's got 'it' written all over her.
+Jerry's Apartment|GEORGE|She's got everything, right? (counts on his fingers) She's intelligent, she's smart, she's got a great sense of humour.
+Jerry's Apartment|JERRY|Well, I dunno. I didn't really talk to her.
+Jerry's Apartment|GEORGE|Well, she's smart. You take my word for it.
+Jerry's Apartment|JERRY|Whatever.
+Jerry's Apartment|GEORGE|(gleeful) Hehee. W..we could be like the Gatsbys. Didn't they always like, you know, a bunch of people around, and they were all best friends?
+Jerry's Apartment|JERRY|That doesn't sound right.
+Jerry's Apartment|GEORGE|No. So, tonight she's got tickets for that show she's been working on. The Flying Sandos Brother.
+Jerry's Apartment|JERRY|Flying Sandos. Beautiful.
+Jerry's Apartment|GEORGE|Great. Seven-thirty, alright?
+Jerry's Apartment|JERRY|Walk me down to the Friars.
+Jerry's Apartment|action|Jerry goes into the bedroom.
+Jerry's Apartment|GEORGE|Sure. So, uh, Jerry, there's an empty apartment in my building. If you and Hallie want, we could try and hold it, may...
+Jerry's Apartment|action|Jerry reenters looking confused.
+Jerry's Apartment|JERRY|It's not here.
+Jerry's Apartment|GEORGE|What?
+Jerry's Apartment|JERRY|Th..the jacket, it's not here. It's gotta be here somewhere.
+Jerry's Apartment|action|Kramer enters, rubbing his eyes.
+Jerry's Apartment|KRAMER|Oh, boy.
+Jerry's Apartment|action|Jerry is looking around for the jacket, lifting cushions, etc.
+Jerry's Apartment|JERRY|(to Kramer) Thanks for that four a.m. wakeup call last night. (frustrated) Where the hell is that jacket?
+Jerry's Apartment|KRAMER|Oh, the one with the crest.
+Jerry's Apartment|JERRY|Yeah.
+Jerry's Apartment|JERRY|Oh, well, that's at the cleaners.
+Jerry's Apartment|JERRY|The cleaners? How did it get there?
+Jerry's Apartment|KRAMER|Well, I, uh, I borrowed it last night and it got a little dirty.
+Jerry's Apartment|JERRY|(irritated) Great.
+Jerry's Apartment|KRAMER|(laughing to himself) Somehow I dozed off and woke up in a pile of garbage.
+Jerry's Apartment|JERRY|Somehow? You've had an hour and twenty minutes sleep in three days!
+Jerry's Apartment|KRAMER|Well, so, look, the cleaner said you could pick it up tonight at six.
+Jerry's Apartment|JERRY|Alright. I just hope I can get it to the Friars Club before the show.
+Jerry's Apartment|GEORGE|Won't be a problem...(mumbles)
+Jerry's Apartment|action|Kramer has closed his eyes and fallen asleep while leaning on the counter in Jerry's kitchen.
+Jerry's Apartment|JERRY|(to Kramer) Hey.
+Jerry's Apartment|action|Kramer does not respond.
+Jerry's Apartment|JERRY|(louder) Hey!!
+Jerry's Apartment|action|Kramer snaps awake with a jerk.
+Jerry's Apartment|KRAMER|Watch out, boy.
+Bob's Office, J. Peterman|action|Bob is working at his desk, with his back to the door. Elaine arrives and stands in the doorway.
+Bob's Office, J. Peterman|ELAINE|Can you give us a hand with some of these boxes, Bob?
+Bob's Office, J. Peterman|action|Bob continues to muse over some of the work in front of him, giving no sign of knowing Elaine is there.
+Bob's Office, J. Peterman|ELAINE|Bob!
+Bob's Office, J. Peterman|action|Bob still doesn't react to Elaine. Elaine takes a couple of steps into Bob's office, and decides to try a different tactic.
+Bob's Office, J. Peterman|ELAINE|(sexily) I want you so bad, Bob. You turn me on...
+Bob's Office, J. Peterman|action|As Elaine speaks, Peterman walks past the open door. Hearing Elaine's voice, his attention is caught. He stops to listen.
+Bob's Office, J. Peterman|ELAINE|...so much. You're so damn...sexy.
+Bob's Office, J. Peterman|action|Peterman watches and listens, surprised.
+Bob's Office, J. Peterman|ELAINE|(sexy) Ohh. I'm starting to unbutton.
+Bob's Office, J. Peterman|action|Peterman decides he should withdraw, and he leaves.
+Bob's Office, J. Peterman|ELAINE|(dropping the sexy voice) Anything getting through? Bob?
+Bob's Office, J. Peterman|action|Bob continues to be oblivious to Elaine. Elaine pulls a pensive face and leaves.
+Theatre|action|George, Susan and Hallie sit in a box overlooking the stage (just like the two guys in the Muppets). There's an empty seat beside Hallie. George is making small talk.
+Theatre|HALLIE|Well, they perform all over. Europe mostly.
+Theatre|GEORGE|A-ha, huh. (mumbles) tours.
+Theatre|HALLIE|Yeah.
+Theatre|action|Jerry arrives, wearing the crested jacket.
+Theatre|JERRY|Sorry, sorry I'm late.
+Theatre|SUSAN|Jerry.
+Theatre|GEORGE|Isn't that the uh, Friars Club jacket?
+Theatre|action|Jerry takes the vacant seat.
+Theatre|JERRY|Yeah, it wasn't ready on time. I have to return it after the show.
+Theatre|GEORGE|Sure, sure, sure, sure. (patting Jerry on the shoulders) How about these seats? Are these fantastic, huh? Huh? I feel like Lincoln.
+Theatre|JERRY|Yeah. Well, let's hope this evening turns out a little better.
+Theatre|action|Lively music begins and the Flying Sandos Brothers bound onto the stage to applause from the auditorium. Jerry and his friends all join in.
+Kramer's Apartment|action|Kramer sits on his couch with Connie, who is playfully toying with the collar on his shirt.
+Kramer's Apartment|KRAMER|So, uhm, are you sure you don't wanna go to the movies?
+Kramer's Apartment|CONNIE|Mmm, no, Cosmo. I like just being here with you.
+Kramer's Apartment|KRAMER|Oh, it's uh, it's a bold adventure.
+Kramer's Apartment|action|Connie leans in and begins to kiss Kramer's neck.
+Kramer's Apartment|KRAMER|Ooh. Well, this is uh, risky business, huh? I'm all a-twitter.
+Theatre|action|The Sandos Brothers are on stage performing a juggling act with glasses, trays and bottle. It ends with them pouring drinks and toasting the audience. The audience applaud appreciatively.
+Theatre|action|The Sandos Brothers launch into the next part of their act. One brother climbs onto the shoulders of another and is carried to the edge of the stage, where he climbs from the shoulders into the box containing Jerry, George, Susan and Hallie. The audience applaud.
+Theatre|JERRY|(smiling) I don't think so.
+Theatre|JERRY|My jacket?
+Theatre|action|The rest of the audience cheer and clap.
+Theatre|HALLIE|C'mon.
+Theatre|SUSAN|Do it. Come on, Jerry.
+Theatre|GEORGE|Give him the jacket.
+Theatre|JERRY|(giving in) Alright.
+Theatre|action|Jerry shrugs out of the jacket, to the applause of friends and audience. He hands it to the Sandos Brother.
+Theatre|action|As he finishes his speech, he tosses the jacket out of the box and into the audience. The audience clap, as do George, Susan and Hallie. Jerry peers over the edge of the box, after the jacket.
+Kramer's Apartment|action|Connie lies on the couch, underneath Kramer. She strokes the side of his head with her fingers.
+Kramer's Apartment|CONNIE|(passionate) Oh Cosmo. Mm-mmm, Cosmo. Oh Cosmo.
+Kramer's Apartment|action|Kramer is oddly unresponsive.
+Kramer's Apartment|CONNIE|(uncomfortable) Uh, honey, can you move a little, this hurts.
+Kramer's Apartment|action|Kramer makes no reply.
+Kramer's Apartment|CONNIE|(worried) Cosmo?
+Kramer's Apartment|action|Connie pushes at Kramer to try and move him.
+Kramer's Apartment|CONNIE|(panicky) Oh my god. Cosmo, wake up!
+Kramer's Apartment|action|Connie heaves harder at Kramer, but he's still not moving or replying.
+Kramer's Apartment|CONNIE|Cosmo?
+Kramer's Apartment|action|Connie lifts Kramer's head and looks at his face, which is completely slack and expressionless.
+Kramer's Apartment|CONNIE|(horrified) Oh my god! He's dead! He's dead.
+Kramer's Apartment|action|Panicky, Connie tries again to lift Kramer enough to get out, but is unable to move his inert bulk. She reaches across to the table and grabs the handset of the phone. Quickly, she dials a number and puts the phone to her ear.
+Kramer's Apartment|CONNIE|(into phone) Yeah, Tommy, this is Connie. You gotta help me. Some guy dropped dead on top of me. (listens) I can't call the cops, 'cos Joey might find out. (listens) I can't. I'm stuck. You gotta help me.
+Theatre, Backstage|action|Jerry leads George and the girls up to a door marked 'Dressing Room 3'.
+Theatre, Backstage|GEORGE|This is very exciting. The inner sanctum.
+Theatre, Backstage|action|Jerry knocks on the door. It's opened after a second, by one of the Sandos Brothers who looks at Jerry, questioningly.
+Theatre, Backstage|JERRY|Hi. I..I was in the audience earlier. You threw my jacket down. I just wanted to pick it up.
+Theatre, Backstage|JERRY|(explaining) I had a jacket with a crest on it. You came into the audience, you threw it away. Agrabah.
+Theatre, Backstage|JERRY|Well, it was either you or one of your brothers.
+Theatre, Backstage|action|Jerry looks past to where another couple of Sandos Brother are still changing.
+Theatre, Backstage|action|The Sandos Brother at the door turns to the other two an rattles off a question in some foreign language. The other two speak to each other and reply to the question, also in a foreign tongue, but clearly they don't know anything.
+Theatre, Backstage|JERRY|It doesn't even belong to me. It belongs to the Friars Club.
+Theatre, Backstage|action|The Sandos Brother closes the door, smiling.
+Theatre, Backstage|HALLIE|Jerry, I'm sure it'll turn up.
+Theatre, Backstage|JERRY|(cynical) I'm sure it won't.
+Theatre, Backstage|HALLIE|Don't worry. I'll get the jacket back.
+Theatre, Backstage|GEORGE|(cheerful) Alright, there you go. She's gonna get the jacket back. (claps hands) So, let's go get some coffee, huh?
+Theatre, Backstage|JERRY|(downcast) No, I'm a little tired. I think I'll go home.
+Theatre, Backstage|SUSAN|Aww, that's too bad.
+Theatre, Backstage|GEORGE|Really?
+Theatre, Backstage|JERRY|Yeah, we'll do it another time.
+Theatre, Backstage|SUSAN|(bright) George, we'll go.
+Theatre, Backstage|action|George doesn't look like the prospect of coffee alone with Susan is something he relishes.
+Monk's|action|George and Susan sit either side of a table, with coffee. There's a definite lack of sparkling conversation. George forces a smile at Susan. There's a long pause, broken only by Susan sighing. George finally thinks of something to say.
+Monk's|GEORGE|I, uh, oh, broke a shoelace today.
+Monk's|SUSAN|Oh, I can get you shoelaces tomorrow.
+Monk's|GEORGE|Okay.
+Monk's|SUSAN|So, what colour?
+Monk's|GEORGE|Brown.
+Monk's|action|Susan nods her comprehension, as George muses for a moment.
+Monk's|GEORGE|Maybe a black.
+Monk's|SUSAN|Mmm.
+Monk's|action|The waitress walks by the table with the coffee pot.
+Monk's|WAITRESS|More coffee?
+Monk's|GEORGE|(urgent) No! Check! (quieter) Please.
+Monk's|action|The waitress pulls the check from her pocket and puts it on the table for George.
+Hallway Outside Jerry's Apartment|action|As Jerry walks up to his door, Kramer's door opens and two guys emerge carrying a large body-shaped object wrapped in fabric. They carry it away down the hall.
+Hallway Outside Jerry's Apartment|JERRY|(looking after the guys) That nut is always up to something.
+Hallway Outside Jerry's Apartment|action|Jerry shakes his head at Kramer's antics as he enters his apartment.
+A Lonely Stretch Of Road On The Banks Of The Hudson|action|It is night. A large black car squeals to a stop beside the river. The two guys we just saw leave Kramer's apartment climb out of the car. They open the trunk and haul out the wrapped object they were carrying. They lug it to the rail at the edge of the road, and heave it over the edge. It splashes into the river and begins to sink. The two guys quickly close the trunk of the car and climb back in.
+Beneath The Hudson River|action|The object sinks down into the water. Suddenly, the contents begin to squirm and jump. The outline of a human body can be seen within the fabric. The top of the wrappings opens and Kramer emerges. He looks around, wide-eyed, and would scream with shock, were he not underwater. He kicks his legs and swims toward the surface.
+The Hudson River|action|Kramer breaks the surface with a splutter. He looks round, panicky and confused.
+The Hudson River|KRAMER|HEY!! Sh..! Shii! MAMA!!
+The Hudson River|action|Kramer looks to one side, where he sees a large ferry bearing down on him. He turns and begins swimming away from the vessel.
+The Hudson River|KRAMER|AAH! AAGH!
+Elaine's Office, J. Peterman|action|Elaine is working away, when Peterman enters behind her. He's carrying a couple of bits of card.
+Elaine's Office, J. Peterman|PETERMAN|Elaine. I think I've been working you a little too hard, lately.
+Elaine's Office, J. Peterman|action|Peterman sits on the edge of Elaine's desk.
+Elaine's Office, J. Peterman|ELAINE|(shrugging it off) Oh.
+Elaine's Office, J. Peterman|PETERMAN|So, I have two tickets for you (holds up the bits of card) to the Flying Sandos Brothers magic show.
+Elaine's Office, J. Peterman|ELAINE|(pleased) Ah.
+Elaine's Office, J. Peterman|PETERMAN|It is a real hoot.
+Elaine's Office, J. Peterman|ELAINE|(delighted) Well, thank you Mr Peterman.
+Elaine's Office, J. Peterman|PETERMAN|Ah, the tickets are for tonight. So you and Bob can knock off a little early, so you both can get ready.
+Elaine's Office, J. Peterman|action|Elaine looks confused. Peterman begins to leave.
+Elaine's Office, J. Peterman|ELAINE|Mr Peterman, you...
+Elaine's Office, J. Peterman|PETERMAN|(interrupting) There's no need to deny it, Elaine. I heard every word you said.
+Elaine's Office, J. Peterman|action|Elaine realises what Peterman overheard.
+Elaine's Office, J. Peterman|PETERMAN|And I know you wouldn't be just having fun with his handicap. (staring away) That kind of cruelty would be grounds for dismissal.
+Elaine's Office, J. Peterman|ELAINE|(resigned) Of course, Mr Peterman.
+Jerry's Apartment|action|Jerry is on the phone, as George enters.
+Jerry's Apartment|JERRY|(into phone) Tell 'em I'll come down and talk to 'em. Okay, bye. (to George) Well, that was the Friars Club. D'you think they're gonna let a jacket-stealer join? I don't think so! They're gonna charge me eight hundred dollars for the jacket, and I gotta deal with Pat Cooper!
+Jerry's Apartment|action|Jerry stalks about as George sits on the couch.
+Jerry's Apartment|JERRY|(worked up) Wh..what kinda show is that Sandos Brothers? They take your jacket, then they just throw it? I never heard of that!
+Jerry's Apartment|GEORGE|It's a little unusual. So, uh, Susan and I were thinking, uh, dinner at our house Saturday night. Just the four of us.
+Jerry's Apartment|JERRY|(unenthusiastic) Uhh, I don't think so.
+Jerry's Apartment|GEORGE|(worried) Why not?
+Jerry's Apartment|JERRY|(impassive) Ah, I'm a little turned off.
+Jerry's Apartment|GEORGE|(standing) C'mon, what're you talking about?
+Jerry's Apartment|JERRY|Ahh, I'm, I'm kinda soured.
+Jerry's Apartment|GEORGE|You're soured?
+Jerry's Apartment|JERRY|Yeah, I'm soured.
+Jerry's Apartment|GEORGE|Don't be soured.
+Jerry's Apartment|JERRY|I'm sorry. I'm soured.
+Jerry's Apartment|GEORGE|(animated) What're you kidding me? We were all getting along so well. Where is all this coming from?
+Jerry's Apartment|JERRY|Well, you know, frankly, I don't think she was too concerned about my jacket.
+Jerry's Apartment|GEORGE|(animated) What're you talking about?! She's very concerned! She said she was gonna get it back.
+Jerry's Apartment|JERRY|(indifferent) Yeah, we'll see.
+Jerry's Apartment|GEORGE|(worked up) Because if she gets it back, then you'll have no reason to be sour. You'll de-sour, right?
+Jerry's Apartment|JERRY|I'll try and de-sour.
+Jerry's Apartment|GEORGE|(aggravated) Oh, that's not good enough! You don't try and de-sour. You have to sweeten too!
+Jerry's Apartment|JERRY|(sharp) I'll try! I'll try and de-sour and sweeten.
+Jerry's Apartment|GEORGE|I wanna get it back when we were the Gatsbys.
+Jerry's Apartment|JERRY|I still don't know what that means.
+Jerry's Apartment|GEORGE|(neither does he) Yeah, well.
+Jerry's Apartment|action|The door opens and Kramer enters, fully dressed but soaked to the skin.
+Jerry's Apartment|KRAMER|God.
+Jerry's Apartment|JERRY|(astonished) Oh god! What happened to you?!
+Jerry's Apartment|KRAMER|(animated) She tried to kill me Jerry!
+Jerry's Apartment|JERRY|Who?
+Jerry's Apartment|KRAMER|(shouts) Connie!
+Jerry's Apartment|JERRY|What'd she do?
+Jerry's Apartment|KRAMER|I don't know! (building to a shout) But I woke up in the Hudson river in a SACK!! I think she drugged me, but she's a murderer and I'm calling the cops.
+Jerry's Apartment|JERRY|(bewildered) Why would she try and kill you?
+Jerry's Apartment|KRAMER|(animated) Well, isn't it obvious? She doesn't want anybody else to have me!
+Jerry's Apartment|action|Kramer moves to leave, but walks into the door with a loud thud.
+Jerry's Apartment|KRAMER|(to door) Gah!
+Jerry's Apartment|action|Kramer stomps away to his own apartment.
+Friars Club Lobby|action|Jerry and George stand where they dealt with the maitre d' on their previous visit. As they wait, they're people-watching.
+Friars Club Lobby|JERRY|Hey, there's uncle Milty.
+Friars Club Lobby|GEORGE|(pleased) Yeah, it is.
+Friars Club Lobby|JERRY|(pointing) And there's David Steinberg.
+Friars Club Lobby|GEORGE|The comedian, or the manager?
+Friars Club Lobby|JERRY|The manager.
+Friars Club Lobby|action|George looks unimpressed. Pat Cooper comes walking toward Jerry and George.
+Friars Club Lobby|JERRY|(to George) Hey, there's Pat. (calls) Hey, Pat.
+Friars Club Lobby|PAT|Hey, Jerry. What the hell went wrong? What's the matter with you? Are you a kleptomaniac, or what?
+Friars Club Lobby|JERRY|I forgot to take it off.
+Friars Club Lobby|PAT|(dubious) You forgot to take it off? Oh, you go into a department store, you put a suit on, and you walk right out. What are you some sort of an idiot?
+Friars Club Lobby|JERRY|I'm sorry.
+Friars Club Lobby|PAT|Where's the jacket?
+Friars Club Lobby|JERRY|Well, one of the gypsies took it.
+Friars Club Lobby|PAT|(skeptical) Aww, the gypsies took it! Of course, New York has a lot of gypsies! Oh, on every block there's a gypsy!
+Friars Club Lobby|GEORGE|(meekly) Well, it's true. I saw it.
+Friars Club Lobby|PAT|(probing) Excuse me, are you an entertainer? Are you in showbusiness?
+Friars Club Lobby|GEORGE|No, I uh...
+Friars Club Lobby|PAT|(interrupting) Then what am I talking to you for? (to Jerry) Jerry, bring the jacket back tomorrow.
+Friars Club Lobby|JERRY|Alright.
+Friars Club Lobby|action|Pat Cooper walks away from the guys. Jerry motions for George to leave with him. George looks round and sees something.
+Friars Club Lobby|GEORGE|Wait a minute, wait a minute.
+Friars Club Lobby|action|Over at one of the tables, the Sandos Brother who took Jerry's jacket is entertaining some other guests. He's wearing a familiar crested jacket.
+Friars Club Lobby|GEORGE|Look at that guy. Right there. Isn't that the guy from the show? He's..he's wearing the jacket.
+Friars Club Lobby|JERRY|God, you're right.
+Friars Club Lobby|GEORGE|(motioning Jerry to follow) C'mon.
+Friars Club Lobby|action|Jerry and George walk into the Friars Club, but within a couple of strides they are faced with the maitre d'.
+Friars Club Lobby|JERRY|Well, I'm a prospective member.
+Friars Club Lobby|JERRY|But that guy has my jacket.
+Friars Club Lobby|action|The maitre d' shepherds Jerry and George out of the door, despite their continuing protests.
+Friars Club Lobby|GEORGE|Excuse me, the guy is wearing a jacket that my friend is...
+Friars Club Lobby|JERRY|Come on.
+Friars Club Lobby|GEORGE|If I could talk to the guy for just a sec...
+Friars Club Lobby|action|Jerry and George are ejected from the Friars Club.
+Theatre|action|Elaine and Bob sit in the same box used by Jerry, George, Susan and Hallie. Elaine looks distinctly unenthused at the prospect of spending the evening with Bob. Bob looks delighted to be ensconced with Elaine.
+Theatre|BOB|These seats are fantastic. It was really nice of Mr Peterman to give us these tickets.
+Theatre|ELAINE|(flat) Yeah, yeah. Was nice.
+Theatre|action|Bob slips one hand round the back of Elaine's seat and leans slightly toward her.
+Theatre|BOB|(smiling) Yeah. Got our own little private box here, don't we?
+Theatre|action|Elaine looks at Bob, wondering what he's talking about. Bob dives across at Elaine, putting his arms round her and his face on her chest.
+Theatre|ELAINE|(pushing Bob away) Get offa me! Stop it. Stop it.
+Theatre|action|Elaine succeeds in heaving Bob away from her. She looks at him, angrily.
+Theatre|ELAINE|Get offa me!
+Theatre|action|Bob stands for a few seconds, with Elaine glaring at him. Then he dives in for another go. Elaine struggles with him again.
+Theatre|ELAINE|Get a hold of yourself, Bob! (throwing Bob back between the seats) Get a hold of yourself!
+Theatre|action|Bob slowly gets to his feet. Elaine glares at him, and Bob shamefacedly shuffles away out of the box.
+Theatre, Backstage|action|Jerry and George come round a corner in a dingy corridor at the theatre.
+Theatre, Backstage|JERRY|I dunno how that guy gave us the slip at the Friars Club.
+Theatre, Backstage|GEORGE|I told you, he probably went out the back.
+Theatre, Backstage|action|Along the corridor comes the Sandos Brother who took Jerry's jacket. He has a jacket slung over one shoulder. Jerry and George collide with him.
+Theatre, Backstage|JERRY|Ouf.
+Theatre, Backstage|action|Jerry recognises the guy.
+Theatre, Backstage|JERRY|Hey. It's you! (pointing) Th..that's my Friars Club jacket!
+Theatre, Backstage|action|The Sandos Brother backs away from the advancing Jerry and George.
+Theatre, Backstage|JERRY|(adamant) No, no, no. That's my jacket, give it back.
+Theatre, Backstage|JERRY|C'mon I need it.
+Theatre, Backstage|action|Jerry grabs hold of the jacket and begins a tug-of-war with it. George joins in, trying to release the grip of the Sandos Brother. The door to 'Dressing Room 3' opens and Hallie emerges and watches the struggle.
+Theatre, Backstage|JERRY|(determined) I wanna join. I need it to become a member.
+Theatre, Backstage|GEORGE|Give 'im the jacket already!
+Theatre, Backstage|action|Jerry and George succeed in taking the jacket. The Sandos Brother runs away down the corridor, shouting.
+Theatre, Backstage|GEORGE|What's he yelling about? They're stealing jackets here!
+Theatre, Backstage|JERRY|Can you believe it?!
+Theatre, Backstage|action|Jerry looks at the jacket they took, and notices something.
+Theatre, Backstage|JERRY|(examining) Hey George, you know what? I think this crest is different. It's got a moose on it.
+Theatre, Backstage|GEORGE|Moose?
+Theatre, Backstage|JERRY|Yeah. (subdued) I don't think this is the jacket.
+Theatre, Backstage|HALLIE|No, it's not.
+Theatre, Backstage|action|Hallie reaches inside the door of Dressing Room 3 and pulls out a jacket on a hanger.
+Theatre, Backstage|HALLIE|This is the jacket.
+Theatre, Backstage|action|Jerry and George look mortified. Hallie brings the jacket over to Jerry.
+Theatre, Backstage|JERRY|Ohh, you got the jacket back.
+Theatre, Backstage|GEORGE|Ohh, yeahh.
+Theatre, Backstage|JERRY|(taking the jacket) Thank you.
+Theatre, Backstage|HALLIE|It got a little dirty, so they wanted to clean it before they gave it back to you.
+Theatre, Backstage|JERRY|Oh. (smiling) Oh, that's nice of 'em.
+Theatre, Backstage|GEORGE|(smiling) That is really nice.
+Theatre, Backstage|HALLIE|Yeah.
+Theatre, Backstage|JERRY|Yeah.
+Theatre, Backstage|HALLIE|Yeah.
+Theatre, Backstage|JERRY|Yeah.
+Theatre, Backstage|GEORGE|This is nice.
+Theatre, Backstage|JERRY|Yeahh.
+Theatre, Backstage|HALLIE|Yeah.
+Theatre, Backstage|GEORGE|(forced buoyancy) Hey, you know, let's call Susan, we'll go have coffee.
+Theatre, Backstage|HALLIE|(flat) I'll see you at the wedding.
+Theatre, Backstage|action|Hallie walks away, leaving George's Gatsby ambitions in tatters.
+Theatre|action|Elaine sits alone in the box. Something on the floor catches her eye. It's Bob's hearing-aid earpiece. Elaine picks it up, and it occurs to her that she has the opportunity she wanted. She wipes the earpiece on the lapel of her jacket and carefully slips it over her ear. Elaine cocks her head on one side, listening to see if it makes a difference.
+Theatre, Backstage|action|Jerry and George walk along backstage. Jerry has his jacket, and George is carrying the Sandos Brother's jacket, looking sullen.
+Theatre, Backstage|GEORGE|(moody) Great! Now she's sour!
+Theatre, Backstage|JERRY|Maybe she'll sweeten.
+Theatre, Backstage|GEORGE|(angry) She won't sweeten, and I'm bitter!
+Theatre, Backstage|action|Behind Jerry and George, the Flying Sandos Brothers appear. They look over toward Jerry and George.
+Theatre, Backstage|action|The Sandos Brothers set off running after Jerry and George. George hurriedly puts the jacket down on a table, as he and Jerry begin to hasten.
+Theatre, Backstage|GEORGE|Here. (panicky) We'll leave it here for you!
+Theatre, Backstage|action|Jerry and George run away, as the Sandos Brothers advance.
+Theatre, Backstage|action|George is on the lead as he and Jerry reach a door marked 'Emergency Exit. Alarm will sound'. George pushes the door open and he and Jerry dart through. As they do, a loud alarm bell begins to ring.
+Theatre|action|Elaine is sitting wearing the earpiece when the alarm sounds. Obviously, the earpiece works, as Elaine spasms in pain at the ringing. She clutches her hands to her ears and jerks off her seat, falling out of sight onto the floor of the box.
+Hallway, Apartment Building|action|Kramer stands outside the door to an apartment, flanked by two other guys. One of the guys knocks at the door. After a few seconds, it is opened by Connie.
+Hallway, Apartment Building|KRAMER|(pointing) That's her, officer.
+Hallway, Apartment Building|CONNIE|(shocked) Kramer! Oh my god, I thought you were...
+Hallway, Apartment Building|KRAMER|(animated) What? Sleeping with the fishes? I guess I woke up!
+Hallway, Apartment Building|action|The detective shows his shield to Connie.
+Hallway, Apartment Building|DETECTIVE|You're under arrest for the attempted murder of Cosmo Kramer.
+Hallway, Apartment Building|CONNIE|(defensive) I didn't do anything.
+Hallway, Apartment Building|KRAMER|(sarcastic) Oh, yeah! Yeah!
+Hallway, Apartment Building|DETECTIVE|Get your coat, we gotta take you in.
+Hallway, Apartment Building|CONNIE|Can I call my lawyer?
+Hallway, Apartment Building|DETECTIVE|Okay, go ahead.
+Hallway, Apartment Building|action|Connie goes back into her apartment.
+Connie's Apartment/Lawyer's Office|CONNIE|(on phone) You gotta meet me at the police station. They're arresting me for attempted murder.
+Connie's Apartment/Lawyer's Office|action|On the phone in his office is Jackie Chiles.
+Connie's Apartment/Lawyer's Office|JACKIE|Attempted murder? Of whom?
+Connie's Apartment/Lawyer's Office|CONNIE|This guy, Kramer.
+Connie's Apartment/Lawyer's Office|JACKIE|Oh. (hesitantly) Cosmo Kramer?
+Connie's Apartment/Lawyer's Office|CONNIE|(surprised) Yeah, that's right.
+Connie's Apartment/Lawyer's Office|JACKIE|(adamant) I don't want nothing to do with it.
+Connie's Apartment/Lawyer's Office|action|Jackie puts down his phone and looks glad to have escaped.

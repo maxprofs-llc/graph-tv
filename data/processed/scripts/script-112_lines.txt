@@ -1,0 +1,315 @@
+JERRY and ELAINE are walking down the street and Kramer is parking his car|ELAINE|Hey, good news. My dog problem has been solved.
+JERRY and ELAINE are walking down the street and Kramer is parking his car|JERRY|Really? What happened?
+JERRY and ELAINE are walking down the street and Kramer is parking his car|ELAINE|Well, there's this rabbi in my building. You've met him. Very nice man.
+JERRY and ELAINE are walking down the street and Kramer is parking his car|JERRY|Isn't he the one with the show on cable?
+JERRY and ELAINE are walking down the street and Kramer is parking his car|ELAINE|Yea, yeah, yeah,. So I spoke to him about the dog. He went down. Talked to the owner. She agr4eed to keep the dog inside from now on.
+JERRY and ELAINE are walking down the street and Kramer is parking his car|JERRY|That's great.
+JERRY and ELAINE are walking down the street and Kramer is parking his car|ELAINE|I know.
+JERRY and ELAINE are walking down the street and Kramer is parking his car|action|Kramer crashing into parking spot
+JERRY and ELAINE are walking down the street and Kramer is parking his car|JERRY|That looks pretty good.
+JERRY and ELAINE are walking down the street and Kramer is parking his car|ELAINE|He's in.
+JERRY and ELAINE are walking down the street and Kramer is parking his car|JERRY|Hey, say, you know, we haven't even discussed George's engagement yet.
+JERRY and ELAINE are walking down the street and Kramer is parking his car|ELAINE|What's to discuss?
+JERRY and ELAINE are walking down the street and Kramer is parking his car|JERRY|Come on! GEORGE: is getting married!
+JERRY and ELAINE are walking down the street and Kramer is parking his car|ELAINE|Is he happy?
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|GEORGE|I will never understand the bathrooms in this country. Why is it that the doors on the stalls do not come all the way down to the floor?
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|SUSAN|Well, maybe it's so you can see if there's someone in there.
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|GEORGE|Isn't that why we have locks on the doors?
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|SUSAN|Well, as a backup system, in case the lock is broken, you can see if it's taken.
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|GEORGE|A backup system? We're designing bathroom doors with our legs exposed in anticipation of the locks not working? That's not a system. That's a complete breakdown of the system.
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|SUSAN|Can we change the subject, please?
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|GEORGE|Why? What's wrong with the subject? This is a bad subject?
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|SUSAN|No, fine. If you wanna keep talking about it, we'll talk about it.
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|GEORGE|It's not that I want to keep talking about it? just think that the subject should resolve itself based on its own momentum.
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|SUSAN|Well, I didn't think that it had any momentum.
+At the restaurant! GEORGE: is coming from the bathroom to sit with his bride-to-be.|GEORGE|(To himself) How am I gonna do this? I'm engaged to this woman? She doesn't even like me. Change the subject? Toilets were the subject. We don't even share the same interests.
+Jerry's|JERRY|Yeah, he seems pretty happy.
+Jerry's|ELAINE|Well, that's all that counts, I guess.
+Jerry's|JERRY|What's the matter?
+Jerry's|ELAINE|Oh, nothin'.
+Jerry's|JERRY|Well, you don't seem too enthused about the whole thing.
+Jerry's|ELAINE|Well, what do you want me to do?
+Jerry's|JERRY|Well, at least have some reaction to it.
+Jerry's|ELAINE|…Well, I don't.
+Jerry's|JERRY|Maybe you're a little jealous.
+Jerry's|ELAINE|Oh, what? You think I wanna marry George?
+Jerry's|JERRY|No! But maybe you wish it was you who was getting married, not him.
+Jerry's|ELAINE|Oh, please! That is the last thing that I want.
+Jerry's|JERRY|Oh, yeah. Right.
+Jerry's|ELAINE|Yeah, right.
+Jerry's|JERRY|Lainy!
+Jerry's|ELAINE|Jerry!
+Jerry's|JERRY|You don't wanna get married?
+Jerry's|ELAINE|Yeah, that's right. I don't wanna get married.
+Jerry's|JERRY|Oh, come on!
+Jerry's|ELAINE|Oh, you come on.
+Jerry's|JERRY|You're such...
+Jerry's|action|Kramer enters
+Jerry's|KRAMER|Oh, hey!
+Jerry's|JERRY|Hey.
+Jerry's|KRAMER|Elaine, listen, I was talking to a friend about this dog business. Do you realize this is gonna be on our permanent records? Are you aware of this?
+Jerry's|ELAINE|Oh, dear.
+Jerry's|KRAMER|It can never be erased. It'll follow us wherever we go for the rest of our lives. I'll never be able to get a job. I mean, doesn't that concern you? Everything I've worked for...down the drain because of one stupid mistake. I mean, aren't we entitled to make one mistake in our lives, Jerry?
+Jerry's|JERRY|We're gonna change the system.
+Jerry's|KRAMER|Yes!
+Jerry's|ELAINE|Well, I could care less. I hope it is on our record. I'm just sorry they didn't lock me up.
+Outside Elaine's place|ELAINE|Oh, hello, Rabbi Krischma.
+Outside Elaine's place|RABBI|ELAINE:! Always a pleasure to see you.
+Outside Elaine's place|ELAINE|Thanks again for taking care of that dog for us.
+Outside Elaine's place|RABBI|Elaine, often times in life there are problems, and just as often there are solutions.
+Outside Elaine's place|ELAINE|Yeah, I suppose.
+Outside Elaine's place|RABBI|Elaine, you don't seem yourself today. You seem, if I may say, troubled.
+Outside Elaine's place|ELAINE|No, Rabbi, I'm not myself.
+Outside Elaine's place|RABBI|Come upstairs. We'll have a talk.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Hey!
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|I want your honest opinion about something.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Have I ever been less than forthright?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|No, you haven't. Well, maybe you have. What do I know.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Yeah, I probably have. Yeah, of course I have. What am I talking about?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|All right. Okay, tell me what you think about this idea: Extend the doors on the toilet stalls at Yankee Stadium all the way to the floor.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Extend the doors on the toilet stalls at Yankee Stadium to the floor ...door comes down. Hides your feet. Yes. I like it. I like it a lot.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|It's good, right?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|I think it's fantastic. I think it's a fantastic idea.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|You do?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Yes, I do.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|Well, I told it to Susan before, and she didn't like it.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Hmm.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|Yeah. Not only that, this is what she said to me, "Can we change the subject?"
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|See, now that I don't care for.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|Right. I mean, we're on a subject. Why does it have to be changed?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|It should resolve of its own volition.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|That's exactly what I said, except I used the word "momentum".
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Momentum - same thing.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|Same thing. My god, I'm getting married in December, do you know that?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Yeah, I know.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|Well, I don't see how I'm gonna make December. I mean, I need a little more time. I mean, look at me I'm a nervous wreck. My stomach aches. My neck is killing me. I can't turn. Look. Look.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|You're turning.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|Nah, it's not a good turn. December. December. Don't you think we should have a little more time just to get to know each other a little.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|If you need more time, you should have more time.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|What, you think I could postpone it?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Sure you can. Why not?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|That's allowed? You're allowed to postpone it?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|I don't see why not.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|So, I could do that?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Sure, go ahead.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|All right! All right. I'll tell you what. How about this? Got the date; March 21st, the first day of spring.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Spring. Of course.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|Huh? You know? Spring. Rejuvenation. Rebirth. Everything's blooming. All that crap.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Beautiful.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|She's not gonna like it.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|No, she's not.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|You know, I think I'm a little bit scared of her. She's five-three, like a hundred pounds. I'm frightened to death of her.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Well, she's a woman. They don't like to be disappointed.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|Especially her. She does not like disappointment. Well, I have to do it. I can't make December. There's no way I can make December. Right? I mean, you can see that, right? I mean, look at me. Look. Look. Can I make December? I can't make December. Right? Look. Look.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Yeah, you'd better shoot for March.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|action|Kramer enters
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|KRAMER|Hey, hey.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|March 21st. Hey! So, you're gonna back me on this, right?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Oh, all the way.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|GEORGE|You are a good friend. You know what? Even if you killed somebody I wouldn't turn you in.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Is that so?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Hey, Kramer if I killed somebody would you turn me in?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|KRAMER|Definitely.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|You're kidding?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|KRAMER|No, no, I would turn you in.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|You would turn me in?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|KRAMER|Phwap, I wouldn't even think about it.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|I can't believe your a friend of mine.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|KRAMER|What kind of person are you going around killing people?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|Well, I am sure I had a good reason.
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|KRAMER|Well,, if you'll kill this person, who's to say I wouldn't be next?
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|JERRY|But you know me!
+At Jerry's apartment. George trots in after his lunch with Kiki and Big Jer is kicking back with a paper.|KRAMER|I thought I DID!
+Rabbi's apartment|ELAINE|I'm not a very religious person but I do feel as if I'm in need of some guidance here.
+Rabbi's apartment|RABBI|Would you care for a snack of some kind? I have the Snackwells which are very popular but I think that sometimes with the so called fat free cookies people may overindulge forgetting they may be high in calories
+Rabbi's apartment|ELAINE|Thank you I am not very hungry. Anyway, um, this friend of mine, George, got engaged .
+Rabbi's apartment|RABBI|How wonderful.
+Rabbi's apartment|ELAINE|Yeah, yeah, well, for some reason, um, I just find myself just overcome with feelings of jealousy and resentment.
+Rabbi's apartment|RABBI|Doesn't it give you any joy to see your friend enter into this holiest of unions?
+Rabbi's apartment|ELAINE|No, no, no it doesn't. No joy no joy whatsoever. Just the whole think makes me . . sick.
+Rabbi's apartment|RABBI|You know, Elaine, very often we cannot see the forest for the trees.
+Rabbi's apartment|ELAINE|Yeah, I don't know what that means.
+Rabbi's apartment|RABBI|Well, for example, say there's a forest, . . .
+Rabbi's apartment|ELAINE|You see the thing is we It should have been me. You know, I'm smart. I'm attractive.
+Rabbi's apartment|RABBI|You know my temple has many single functions.
+Rabbi's apartment|ELAINE|No, no, it's okay.
+Rabbi's apartment|RABBI|My nephew Alex is someone who is also looking perhaps …
+Rabbi's apartment|ELAINE|I don't think so.
+Rabbi's apartment|RABBI|He owns a flower store. Very successful.
+Outside Coffee shop|JERRY|So you're nothing but a stoolie. Admit it.
+Outside Coffee shop|KRAMER|Hey, don't do the crime if you can't do the time.
+Outside Coffee shop|JERRY|Another Café Latte?
+Outside Coffee shop|KRAMER|You better believe it.
+Outside Coffee shop|KRAMER|Since when are you so trendy?
+Outside Coffee shop|JERRY|Hey, baby. I set the trends. Who do you think started this whole Café Latte?
+Outside Coffee shop|JERRY|I don't recall you drinking Café Latte.
+Outside Coffee shop|KRAMER|I've been drinking Café Latte since the fifth grade and I haven't looked back.
+Outside Coffee shop|JERRY|Hey, Planet 9 From Outer Space is playing tomorrow night. One show only.
+Outside Coffee shop|KRAMER|I've always wanted to see this.
+Outside Coffee shop|JERRY|You know I was supposed to see this five years ago. I was in a Chinese restaurant with George and Elaine and got all screwed up trying to get a table and I missed it.
+Outside Coffee shop|KRAMER|Well, yeah, lets do it uh?
+Outside Coffee shop|JERRY|Look at this Jerry, dropping paper on the ground. That's littering.
+Outside Coffee shop|JERRY|Maybe you better call the cops and turn me in.
+Outside Coffee shop|KRAMER|Maybe I will.
+George's|GEORGE|Hi,
+George's|SUSAN|How was your day?
+George's|GEORGE|Good, good day. How was your day?
+George's|SUSAN|Mine was okay. So what's goin' on?
+George's|GEORGE|Oh, nothin' much. I went over to jerry's, uh, talked to Jerry.
+George's|SUSAN|Oh, the Lowers want to get together with us on Friday night.
+George's|GEORGE|The Lowers, really?
+George's|SUSAN|You don't want to go?
+George's|GEORGE|No, I want to go.
+George's|SUSAN|So what did Jerry have to say?
+George's|GEORGE|Oh, nothin' much, . . . talkin'. . . . Oh, oh, oh, did I have an unbelievable idea today!
+George's|SUSAN|Oh, yeah, the toilets. You told me.
+George's|GEORGE|Yeah, ha ha, It's not the toilets, it's not the toilets. It's something else. Are you ready for this?
+George's|SUSAN|Yeah.
+George's|GEORGE|Okay, how about this? All right, we get married March 21st, the first day of Spring.
+George's|SUSAN|What do you mean? You want to postpone the wedding?
+George's|GEORGE|No, no no it's not about postponing. I just think the first day of Spring is the perfect day to get married. You know, Spring! Rejuvenation! Rebirth! Everything is blooming all the …
+George's|SUSAN|If you don't want to marry me, George, just say so. (crying) Say so.
+George's|GEORGE|Still marry , still marry.
+George's|SUSAN|You don't love me.
+George's|GEORGE|Sstill love. Still love.
+George's|SUSAN|My parents told me you were too neurotic and that I was making a mistake.
+George's|GEORGE|No no no, no mistake, no mistake. No, no , listen, we're going to get married over Christmas, I …It doesn't make any difference to me. It's fine. Really.
+George's|SUSAN|Are you sure?
+George's|GEORGE|Yeah, yeah, sure, Christmas. Snow. Santa. All that stuff.
+Monk's|JERRY|Let me take a guess. She cried and you caved.
+Monk's|GEORGE|How did you know that?
+Monk's|JERRY|I live and breath my friend. . . . I live and breath.
+Monk's|GEORGE|I got to tell you I felt terrible. I really thought she was going to collapse and kill herself.
+Monk's|JERRY|tes, it's very difficult. Few men have the constitution for it. That's why breakups take two or three tries. You gotta build up your immunity.
+Monk's|GEORGE|You see those tears streaming down you don't know what to do. It was like she was on fire and I was trying to put her out.
+Monk's|JERRY|Well, at least you probably had some, uh, pretty good make-up sex after.
+Monk's|GEORGE|I didn't have any sex.
+Monk's|JERRY|You didn't have make-up sex? How could you not have make-up sex? I mean that's the best feature of the heavy relationship.
+Monk's|GEORGE|I didn't have make-up sex.
+Monk's|JERRY|In your situation the only sex you're going to have better than make-up sex is if you're dent to prison and you have a conjugal visit.
+Monk's|GEORGE|Yeah, conjugal visit sex. That is happening!
+Monk's|WOMAN|(crying)
+Monk's|MAN|I can tell you're very upset but I'm sorry I'm not goin'
+Monk's|GEORGE|Did you here that? I can't believe this he's eating his sandwich.
+Monk's|MAN|Are you going to eat thoise fries?
+Monk's|GEORGE|This is amazing. (George gets up to leave and shake's man's hand) Thank you. Thank you very much. . . . I'm going back in! . . . You'll feel better (to woman)
+Monk's|JERRY|. . . Poor bastard.
+Outside Elaine's|JERRY|Good evening, Rabbi.
+Outside Elaine's|RABBI|Good evening. And how does this evening find you?
+Outside Elaine's|JERRY|Well, Rabbi, well.
+Outside Elaine's|RABBI|I trust you are here to see your friend, Elaine.
+Outside Elaine's|JERRY|Yeah, that's right.
+Outside Elaine's|RABBI|I hope she's feeling better.
+Outside Elaine's|JERRY|What do you mean?
+Outside Elaine's|RABBI|She didn't tell you?
+Outside Elaine's|JERRY|No.
+Outside Elaine's|RABBI|Well it seems the engagement of her ffriend George has left her feeling bitter and hostile.
+Outside Elaine's|JERRY|is that so?
+Outside Elaine's|RABBI|Yes, in fact she told me that she wishes she was the one getting married.
+Outside Elaine's|JERRY|Really?
+Outside Elaine's|RABBI|She came off as pretty desperate.
+Outside Elaine's|JERRY|I didn't know any of this.
+Outside Elaine's|RABBI|Apparently she doesn't think much of this George fellow either. I recall the word loser peppered throughout her conversation.
+Outside Elaine's|JERRY|Hum, well it all comes as news to me.
+George's apartment|GEORGE|(enters) Hi.
+George's apartment|SUSAN|Hi, how was your day?
+George's apartment|GEORGE|Good, good day. How was your day?
+George's apartment|SUSAN|Ah, it was okay. What's going on?
+George's apartment|GEORGE|Oh, nothing much. You know, I went over to Jerry's. Talked to Jerry. Um, could I talk to you for a minute?
+George's apartment|SUSAN|Yeah, sure.
+George's apartment|GEORGE|You see this is the thing. . . . (crying) I just feel . . . mumble, cry, mumble, . . . I'm scared. You and I together, (cry)
+George's apartment|SUSAN|George, of course, of course it can wait until march if that is what you want.
+George's apartment|GEORGE|Yeah?
+George's apartment|SUSAN|Oh, don't worry your head. Of course.
+George's apartment|GEORGE|All right. (smiles behind her back)
+Elaine's|ELAINE|I've got that magazine article for you.
+Elaine's|JERRY|You iknow I talked to the rabbi outside.
+Elaine's|ELAINE|Are you
+Elaine's|JERRY|Understand you had a little talk with him too.
+Elaine's|ELAINE|Yeah, talked earlier.
+Elaine's|JERRY|Yes I know, I know.
+Elaine's|JERRY|Nothing, nothing.
+Elaine's|ELAINE|He didn't mention . . .
+Elaine's|JERRY|Yes he did.
+Elaine's|ELAINE|He told you about our conversation?
+Elaine's|JERRY|We had quite a little chat.
+Elaine's|ELAINE|He told you about . . .
+Elaine's|JERRY|Yes, about how you're very jealous of George. How you wished it was you who were getting married instead of him.
+Elaine's|ELAINE|He told you all that? How could he?
+Elaine's|JERRY|It didn't take much prodding either, I must say.
+Elaine's|ELAINE|Can he do that?
+Elaine's|JERRY|He did it.
+Elaine's|ELAINE|But he's a Rabbi! How can a Rabbi have such a big mouth?
+Elaine's|JERRY|That's what's so fascinating.
+Elaine's|action|Movie line
+Elaine's|JERRY|You better finish your little café latte there. They won't let you in with it.
+Elaine's|KRAMER|Why not?
+Elaine's|JERRY|Because they don't allow outside drinks into the movie.
+Elaine's|KRAMER|Well that's stupid
+Elaine's|JERRY|That's the rule.
+Elaine's|KRAMER|Well, we'll just see if we can't get around that.
+Elaine's|action|Kramer puts coffee cup into his pants
+Rabbi's apartment|RABBI|Oh, Elaine. Come in. Come in. So nice to see you again.
+Rabbi's apartment|ELAINE|Yeah…
+Rabbi's apartment|RABBI|Can I offere you some Kasha Varnishkas?
+Rabbi's apartment|ELAINE|No, no. Listen, Rabbi, I'd like to ask you a question. Why, why did you tell my friend Jerry what I talked to you about?
+Rabbi's apartment|RABBI|Was that a problem for you?
+Rabbi's apartment|ELAINE|Of course it was a problem for me. . . . You didn't, you didn't tell anyone else about this, did you?
+Rabbi's apartment|RABBI|Well, let's see? I seem to recall a conversation with Mrs. Winston in 1F.
+Rabbi's apartment|ELAINE|Mrs. Winston?
+Rabbi's apartment|RABBI|Yes, we were waiting for our mail to arrive and I happened to mention to her how you felt that it was never going "to happen" for you.
+Rabbi's apartment|ELAINE|What about Don Ramsey? You didn't mention anything to him did you?
+Rabbi's apartment|RABBI|Don Ramsey?
+Rabbi's apartment|ELAINE|You know that tall really good looking guy, he lives on the fifth floor.
+Rabbi's apartment|RABBI|Oh him! Well this morning I found myself in the elevator with him…
+Rabbi's apartment|ELAINE|my god, you didn't.
+Rabbi's apartment|action|Movie theatre
+Rabbi's apartment|JERRY|Excuse me, pardon me, excuse me
+Rabbi's apartment|KRAMER|Oh, yow, oow Ah!
+Rabbi's apartment|USHER|Hey, hey, what's going on? What just happened here?
+Rabbi's apartment|KRAMER|Nothing Nothing.
+Rabbi's apartment|USHER|Whatya got? One of those Café Latte's in your shirt?
+Rabbi's apartment|KRAMER|I don't have anything. Ask him.
+Rabbi's apartment|action|Jerry makes a silent drink gesture
+Rabbi's apartment|USHER|All right, come on Coffee Boy, bring it out.
+Rabbi's apartment|KRAMER|What?!
+Rabbi's apartment|USHER|Here you go.
+Rabbi's apartment|KRAMER|Ow
+Rabbi's apartment|action|Kramer leaves
+Jerry's apartment|ELAINE|But the whole thing is a mess. He told everyone in the building. I met that cute guy on the fifth floor. I mean he could barely bring himself to nod.
+Jerry's apartment|JERRY|Elaine, if I could say a word here about Jewish people. That man in no way represents our ability to take in a nice piece of juicy gossip and keep it to ourselves.
+Jerry's apartment|ELAINE|You didn't say this to George, did you?
+Jerry's apartment|JERRY|No, . . . about how you wish it was YOU who was getting married instead of him? Feelings of resentment, hostility?
+Jerry's apartment|ELAINE|Yeah that! So, . . .
+Jerry's apartment|action|George enters
+Jerry's apartment|GEORGE|Hey oh.
+Jerry's apartment|ELAINE|GEORGIE! CONGRATULATIONS! Oh, my god. I haven't seen you since it happened. I'm so happy for you.
+Jerry's apartment|GEORGE|Alright, thanks a lot.
+Jerry's apartment|ELAINE|Oh, come on. You really, really deserve it.
+Jerry's apartment|action|Gives George a kiss
+Jerry's apartment|GEORGE|Oh, deserve! I don't know if I deserve...I mean...
+Jerry's apartment|ELAINE|Are you kidding? I have seen the changes in you the past couple of years. Man, you have grown. You've matured.
+Jerry's apartment|GEORGE|Well, I guess I'm getting older.
+Jerry's apartment|ELAINE|Oh! Well, I just think it's wonderful. Honestly! I've gotta run, but um, please, please give my best to Susan.
+Jerry's apartment|GEORGE|Yeah.
+Jerry's apartment|ELAINE|My most, just heartfelt congratulations.
+Jerry's apartment|GEORGE|Yeah. Thanks. Hey, listen, if you ever get a date, maybe the four of us could go out together sometime.
+Jerry's apartment|ELAINE|Yes! Yes, yes. Sure.
+Jerry's apartment|GEORGE|Wait, as a matter of fact, wasn't there some guy in your building that you said you liked? He lived up on the fifth floor or something.
+Jerry's apartment|ELAINE|Yes. Yes, yes. Yes.
+Jerry's apartment|GEORGE|Yeah! Boy, she is something, isn't she?
+Jerry's apartment|JERRY|Yeah, she's something else. Hey, so what happened? Did you hold your ground or...uh…
+Jerry's apartment|GEORGE|Nope. I wept like a baby.
+Jerry's apartment|JERRY|What?
+Jerry's apartment|GEORGE|Well, I started to tell her and then all of the sudden, for some reason, I just burst into tears.
+Jerry's apartment|JERRY|You cried?
+Jerry's apartment|GEORGE|I bawled uncontrollably. I just poured my guts out. And I'll tell you, Jerry, it was incredible. I never realized how powerful these tears are. I could have postponed it another five years if I wanted to.
+Jerry's apartment|JERRY|Sorry about that movie-thing. I was joking around.
+Jerry's apartment|KRAMER|Sorry? Are you kidding? You did me the biggest favor of my life. I spoke to a lawyer, we're suing for millions.
+Jerry's apartment|JERRY|Suing? What for?
+Jerry's apartment|KRAMER|The coffee was too hot.
+Jerry's apartment|JERRY|It's supposed to be hot.
+Jerry's apartment|KRAMER|Not THAT hot.
+At George's home. He and Susan are in bed watching TV|RABBI|(On TV) The prophet Isaah tells us without friends our lives are empty and meaningless.
+At George's home. He and Susan are in bed watching TV|GEORGE|Wait. Whoa! That's the Rabbi from Elaine's building. I just met this guy the other day.
+At George's home. He and Susan are in bed watching TV|RABBI|A young lady I know, let's call her Elaine, happened to find herself overwhelmed with feelings of resentment and hostility for her friend, let's call him George. She felt that George was somewhat of a loser and that she was the one who deserved to be married first. She also happened to mention to me that her friend had wondered if going to a prostitute while you're engaged is considered cheating. His feeling was they're never going to see each other again so what's the difference. But that is a subject for another sermon. Now, I'd like to close with a psalm.

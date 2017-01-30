@@ -1,0 +1,376 @@
+Monk's|action|Jerry, George and Elaine at he booth behind the cash register
+Monk's|JERRY|So, does he like you?
+Monk's|ELAINE|What do you think?
+Monk's|JERRY|You like him?
+Monk's|ELAINE|Yeah, yeah like him, definitely like him. I like him a lot.
+Monk's|GEORGE|So, what's wrong with him?
+Monk's|ELAINE|Nothing, and I've looked.
+Monk's|GEORGE|Well, I'm sure you'll find something.
+Monk's|JERRY|So, how did you meet him?
+Monk's|ELAINE|In the office.
+Monk's|JERRY|So, he's a writer.
+Monk's|ELAINE|Yeah.
+Monk's|JERRY|Yeah, big surprise.
+Monk's|ELAINE|So, I was sitting at the reception desk, I was looking pretty hot. I was wearing my sling back pumps.
+Monk's|GEORGE|What are those?
+Monk's|ELAINE|Ask your mother, (making fun of George's living situation) you live with her now, don't you? Anyway, so then this guy comes up to me and starts feeling my jacket through his thumb and his forefinger like this.
+Monk's|action|Elaine feels George's material
+Monk's|JERRY|So, what did you do?
+Monk's|ELAINE|I said: "So, what do you think?". And he said, "Gabardine?". And I said, "Yeah." That was it.
+Monk's|GEORGE|Wow, just felt your material?
+Monk's|ELAINE|Yeah...Jake Jarmel.
+Monk's|GEORGE|Sounds like a cool guy.
+Monk's|JERRY|Sounds like a jerk. Felt your material, come on.
+Monk's|GEORGE|Jerry, where did you get that sweater?
+Monk's|JERRY|Oh, what do you think? I found it at the back of my closet.
+Monk's|GEORGE|I think that's what the back of closets are for.
+Monk's|action|Elaine looks out the window
+Monk's|ELAINE|Hey, that's Barry. Look it's Barry. (taps on the window)
+Monk's|JERRY|(taps on the window) Hey...
+Monk's|ELAINE|Hi.
+Monk's|GEORGE|Who's that?
+Monk's|JERRY|That's Barry Prophet, he's our accountant.
+Monk's|GEORGE|I don't know how you can let this guy handle all your money.
+Monk's|ELAINE|Oh, he doesn't handle my money, he handles Jerry's money. He just does my taxes.
+Monk's|action|Barry comes in
+Monk's|JERRY|Hey Barry, how you doing?
+Monk's|BARRY|Hey, how are you?
+Monk's|action|Jerry and Barry shake hands
+Monk's|JERRY|This is my friend George.
+Monk's|BARRY|Hi George. (shakes George's hand)
+Monk's|ELAINE|Hi, what are you doing on this neighborhood?
+Monk's|BARRY|Nothing really. (sniffs; looks around) You, eh, you eat here?
+Monk's|JERRY|Yeah, so how's my money?
+Monk's|BARRY|Well it's still green. (sniffs twice)
+Monk's|JERRY|What, you got a cold?
+Monk's|BARRY|No, no.
+Monk's|ELAINE|Wow, look at that ring.
+Monk's|BARRY|(showing off the ring to Elaine) Oh, uh you like that? (Elaine not amused gives Barry a polite laugh; Barry sniffs) Say uh, where's the bathroom?
+Monk's|JERRY|Bathroom uh, bathroom's uh right over there.
+Monk's|BARRY|(turns looking in the direction Jerry mentioned) Oh, great.
+Monk's|action|Barry goes to bathroom
+Monk's|JERRY|Did you see that?
+Monk's|ELAINE|See what?
+Monk's|GEORGE|Yes, I saw that.
+Monk's|ELAINE|What?
+Monk's|JERRY|What was all that sniffing?
+Monk's|ELAINE|I don't know.
+Monk's|JERRY|You don't think...?
+Monk's|ELAINE|Oh, no! Come on Jerry.
+Monk's|GEORGE|He was definitely sniffing.
+Monk's|JERRY|I mean what if, what if, this this guy has got all my money. Plus he has got some Kramer's money with him. This guy could write checks to himself right out of my account.
+Monk's|ELAINE|No, I have known this guy since college. He doesn't do drugs.
+Monk's|JERRY|Then, what was all that sniffing?
+Monk's|ELAINE|Maybe it's the cold weather.
+Monk's|JERRY|Today's not cold.
+Monk's|GEORGE|All right, I gotta get going. My parents are expecting me.
+Monk's|ELAINE|(making fun of George as he leaves) Don't forget to wash your hands before supper.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Why do you need all that ketchup for?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|This is my ketchup. I bought this ketchup just so I could have as much as I want.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|So I, I talked to Phil Casacof today.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|Phil Casacof?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Yeah, you know my friend, the bra salesman. He says they are looking maybe to put somebody on so I got you an interview next Friday with his boss.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|Next Friday, what time?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|2 o'clock.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|That's my whole afternoon! I was going to look for sneakers.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|You can look for sneakers the next day!
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|He doesn't know anything about bras.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|I know a little. Besides, what do you have to know?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Well, it wouldn't hurt to go in the and be able to discuss it intelligently. Maybe you should take a look at a few bras? (to Estelle) Where is you bra? Give him a bra to look.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|I am not giving him a bra.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Why not?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|Because I don't need him looking at my bra.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Why, so he'll go to the interview and he wouldn't know what he's talking about!?!
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|Do we have to...?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|You don't even know what they're made from.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|They are made from lycra-spandex.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Get out of here! Lycra-spandex?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|I think they are made from lycra-spandex.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Wanna bet? How much you wanna bet?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|I'm not betting!
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Take a look.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|All right, I'll get a bra.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|action|Estelle leaves
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|(Yelling to Estelle as she leaves)I don't know what the big problem is getting a bra?!
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|She doesn't want to get a bra.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|I'm not saying go to the library and read the whole history, but it wouldn't kill you to know a little bit about it.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|All right, it wouldn't kill me.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|How long it takes to find a bra? What's going on in there? You ask me to get a pair of underwear, I'm back in two seconds...you know about the uh cup sizes and all? They have different cups.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|Yea I-I know about the cups.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|You got the A, the B, the C and the D. That's the biggest.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|I know the D is the biggest. I've based my whole life on knowing that the D is the biggest.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|Here, here's the bra.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Let me see it.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|(reading the bra) 100% lycra-spandex.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Let me see it.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|I told you. Here, think you know everything?
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|FRANK|Hmm, that's surprising. All right, what else? You got the cups in the front, two loops in the back. All right, a guess that's about it.
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|GEORGE|I got it. Cups in the front, loops in the back. (puts the bra on the table)
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|ESTELLE|You got ketchup on it!
+Costanza's. George, Estelle and Frank are eating dinner. George is pounding a ketchup bottle.|action|George takes his plate and the ketchup and leaves.
+5A. Jerry and Kramer.|KRAMER|Sniffing, what do you mean sniffing?
+5A. Jerry and Kramer.|JERRY|Sniffing, with his nose.
+5A. Jerry and Kramer.|KRAMER|Jerry, he probably had a cold.
+5A. Jerry and Kramer.|JERRY|No, I asked him.
+5A. Jerry and Kramer.|KRAMER|So, what are you saying?
+5A. Jerry and Kramer.|JERRY|I don't know, you know, what if...?
+5A. Jerry and Kramer.|KRAMER|Drugs? You think he's on drugs?
+5A. Jerry and Kramer.|JERRY|I don't know.
+5A. Jerry and Kramer.|KRAMER|Jerry
+5A. Jerry and Kramer.|JERRY|All I know he was sniffing.
+5A. Jerry and Kramer.|KRAMER|Listen, we went in on a CD together.
+5A. Jerry and Kramer.|JERRY|I know.
+5A. Jerry and Kramer.|KRAMER|And Newman gave you money too. So, I didn't even meet this guy. You know, we trusted you.
+5A. Jerry and Kramer.|JERRY|Look, it doesn't necessarily mean anything yet, it just means he was sniffing.
+5A. Jerry and Kramer.|KRAMER|Well, what else? Was he nervous? Did he use a lot of slang? Did he use the word 'man'?
+5A. Jerry and Kramer.|JERRY|No, he didn't use 'man'.
+5A. Jerry and Kramer.|KRAMER|I mean when he was leaving did he say "I'm splittin'"?
+5A. Jerry and Kramer.|JERRY|No, but in one point he did use the bathroom.
+5A. Jerry and Kramer.|KRAMER|Whoh!
+5A. Jerry and Kramer.|JERRY|Do you think that's a bad sign?
+5A. Jerry and Kramer.|KRAMER|Yes!! Yes, that's what they do! They live in the bathroom! All right, what are we going to do? We are going to get our money back, right?
+5A. Jerry and Kramer.|JERRY|I don't know. (takes off his sweater) This sweater really itches me. You want it?
+5A. Jerry and Kramer.|KRAMER|(grabbing the sweater) Yeah.
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|Hello.... hello, oh...
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Well, you notice anything?
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|You have cleaned out the whole apartment and you're making dinner. You're perfect, you're a perfect man.
+Elaine's apartment. Jake is there and Elaine comes in.|action|Jake feels Elaine's coat material.
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Ooh...
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|Did anyone call?
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|You got a few messages, I wrote them down.
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|Where are they?
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Lets see, they are (looking for the paper; finds it; hands it to Elaine) here they are.
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|Thank you. (looking at the messages) Oh ya, heh, I'll call you back. Ooh, Myra had the baby! Oh, my God that's wonderful! Who called?
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|She did.
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|She did? Oh, that's so great!
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Where do you keep the corkscrew?
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|In the drawer on the right. Hmm...
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|What?
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|Nah it's nothing.
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|What is it?
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|It's nothing.
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Tell me.
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|Well, I was just curious why you didn't use an exclamation point?
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|What are you talking about?
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|See, right here you wrote "Myra had the baby", but you didn't use an exclamation point.
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|So?
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|So, it's ya nothing. Forget it, forget it, I just find it curious.
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|What's so curious about it?
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|Well, I mean if one of your close friends had a baby and I left you a message about it, I would use an exclamation point.
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Well, maybe I don't use my exclamation points as haphazardly as you do.
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|You don't think that someone having a baby warrants an exclamation point.
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Hey look, I just chalked down the message. I didn't know I was required to capture the mood of each caller.
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|I just thought you would be a little more excited about a friend of mine having a baby.
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Ok, I'm excited. I just don't happen to like exclamation points.
+Elaine's apartment. Jake is there and Elaine comes in.|ELAINE|Well, you know Jake, you should learn to use them. Like the way I'm talking right now, I would put an exclamation points at the end of all these sentences! On this one! And on that one!
+Elaine's apartment. Jake is there and Elaine comes in.|JAKE|Well, you can put one on this one: I'm leaving!
+Elaine's apartment. Jake is there and Elaine comes in.|action|Elaine laughs as Jake leaves
+5A. Jerry and Elaine|JERRY|You're out of your mind you know that.
+5A. Jerry and Elaine|ELAINE|Why?
+5A. Jerry and Elaine|JERRY|It's an exclamation point! It's a line with a dot under it.
+5A. Jerry and Elaine|ELAINE|Well, I felt a call for one.
+5A. Jerry and Elaine|JERRY|A call for one, you know I thought I've heard everything. I've never heard a relationship being affected by a punctuation.
+5A. Jerry and Elaine|ELAINE|I found it very troubling that he didn't use one.
+5A. Jerry and Elaine|JERRY|George was right. Didn't take you long.
+5A. Jerry and Elaine|action|Kramer enters
+5A. Jerry and Elaine|KRAMER|Anything new with that guy on drugs?
+5A. Jerry and Elaine|ELAINE|Oh, he's not on drugs.
+5A. Jerry and Elaine|KRAMER|Then why the sniffing? Who walks around (sniff, sniff) sniffing?
+5A. Jerry and Elaine|ELAINE|All right, here, you call him right now. See if he's sniffing right now.
+5A. Jerry and Elaine|JERRY|Good idea. (Jerry calls Barry's office)
+5A. Jerry and Elaine|JERRY|Yes, I'd like to speak to Barry Prophet, please.
+5A. Jerry and Elaine|VOICE|I'm sorry he's out of town this week.
+5A. Jerry and Elaine|JERRY|Out of town?
+5A. Jerry and Elaine|VOICE|Yes, he went to South America.
+5A. Jerry and Elaine|JERRY|South America?
+5A. Jerry and Elaine|KRAMER|South America?
+5A. Jerry and Elaine|JERRY|I'll call back, thank you. (hangs up the phone) He went to South America!
+5A. Jerry and Elaine|KRAMER|Yyyeeaaah!!
+5A. Jerry and Elaine|ELAINE|So what?
+5A. Jerry and Elaine|JERRY|Who goes to South America?
+5A. Jerry and Elaine|ELAINE|People go to South America.
+5A. Jerry and Elaine|JERRY|Yeah, and they come back with things taped to they're large intestine.
+5A. Jerry and Elaine|ELAINE|So, because of a few bad apples you're gonna impugn an entire continent?
+5A. Jerry and Elaine|JERRY|Yes, I'm impugning a continent.
+5A. Jerry and Elaine|KRAMER|Well, I say we're going to take our money right now!
+5A. Jerry and Elaine|action|Newman enters
+5A. Jerry and Elaine|NEWMAN|Hey, hey...
+5A. Jerry and Elaine|JERRY|Hello Newman.
+5A. Jerry and Elaine|NEWMAN|Hello Jerry. (to Kramer) So, any news?
+5A. Jerry and Elaine|KRAMER|Yeah, he skipped out and *ptruut* went to South America!
+5A. Jerry and Elaine|NEWMAN|South America?! (to Jerry) What kind of snow blower you get us mixed up with?
+5A. Jerry and Elaine|ELAINE|Look it, gentlemen. The fact remains you still have no proof. This is all speculation and hearsay.
+5A. Jerry and Elaine|KRAMER|Wait, there is one way to find out. We set up a sting. You know like Abscam. Like Abscam Jerry.
+5A. Jerry and Elaine|ELAINE|Ohh, what are you gonna do? You gonna put on phony beards and dress-up like Arab sheiks and sit around in some hotel room. I mean come on...
+5A. Jerry and Elaine|JERRY|Wait a second. Maybe there is someway we can tempt him and find out...
+5A. Jerry and Elaine|NEWMAN|If we put our three heads together we should come up with something.
+5A. Jerry and Elaine|action|Jerry, Kramer and Newman begin thinking
+Jerry's Car|action|Jerry, Kramer and Newman
+Jerry's Car|KRAMER|What's today?
+Jerry's Car|NEWMAN|It's Thursday.
+Jerry's Car|KRAMER|Really? Feels like Tuesday.
+Jerry's Car|NEWMAN|Tuesday has no feel. Monday has a feel, Friday has a feel, Sunday has a feel....
+Jerry's Car|KRAMER|I feel Tuesday and Wednesday...
+Jerry's Car|JERRY|All right, shut up the both of you! You're making me nervous. Where is he already? He should've been out of work by now.
+Jerry's Car|NEWMAN|Hey, you know this is kind of fun.
+Jerry's Car|KRAMER|Yeah, maybe we oughta become private detectives...
+Jerry's Car|JERRY|Yeah maybe you should.
+Jerry's Car|KRAMER|Maybe I will.
+Jerry's Car|NEWMAN|Yeah, me too.
+Jerry's Car|JERRY|All right, what are you gonna say to him?
+Jerry's Car|KRAMER|Just gonna find out if he's interested.
+Jerry's Car|NEWMAN|Hey, hey maybe I should go with him?
+Jerry's Car|JERRY|No, you stay here in the car.
+Jerry's Car|NEWMAN|Who made you the leader?
+Jerry's Car|JERRY|All right Newman, one more peep outta you, you're out of the whole operation!
+Jerry's Car|NEWMAN|Alright.
+Jerry's Car|JERRY|There he is. He's going into that bar.
+Jerry's Car|KRAMER|All right, I'm going in.
+Jerry's Car|JERRY|Be careful Kramer.
+Jerry's Car|action|Kramer leaves
+Jerry's Car|NEWMAN|I shoulda gone in with him.
+Jerry's Car|JERRY|No, you stay here in the car. I may need you.
+Jerry's Car|NEWMAN|What you need me in the car for?
+Jerry's Car|JERRY|I might need you to get me a soda.
+Bar|action|Barry is drinking by the counter. Kramer enters
+Bar|KRAMER|I'll have a brewsky, Charlie.
+Bar|BARTENDER|The name's Mitch.
+Bar|KRAMER|Oh, there's nothing like a cold one after a long day, eh?
+Bar|BARRY|Yeah.
+Bar|KRAMER|Oh yeah, I've been known to drink a beer or two. But then again, I've been known to do a lot of things. (Waiter opens the counter which hits Kramer on the head) Cigarette?
+Bar|BARRY|(sniffs) No, I never touch them.
+Bar|KRAMER|I suck'em down like Coca-Cola. Well here's to feeling good all the time. (Kramer drinks the beer and smokes the cigarette at the same time. Barry sniffs) Looks like you've got yourself a little cold there, eh fella?
+Bar|BARRY|I don't think so.
+Bar|KRAMER|Me neither.
+Bar|action|Kramer puts the cigarette back in his mouth the wrong way
+Jerry's Car|action|Newman is now in the passenger seat
+Jerry's Car|JERRY|You should try this new dental floss Glide, it's fantastic.
+Jerry's Car|NEWMAN|I use dental tape.
+Jerry's Car|JERRY|You should try this.
+Jerry's Car|NEWMAN|I don't wanna.
+Jerry's Car|JERRY|Not even once?
+Jerry's Car|NEWMAN|No.
+Jerry's Car|JERRY|You're an idiot.
+Jerry's Car|NEWMAN|Why, because I use dental tape?
+Jerry's Car|JERRY|Right, anyone who uses dental tape is an idiot.
+Bar|KRAMER|South America?
+Bar|BARRY|Yeah, yeah.
+Bar|KRAMER|Well that's a burgeoning continent.
+Bar|BARRY|Well, they are expanding their economic base.
+Bar|KRAMER|Tell me about it.
+Bar|BARRY|(sniffs) Excuse me, I gotta goto the bathroom.
+Bar|KRAMER|I'm hip.
+Bar|BARRY|Hip to the what?
+Bar|KRAMER|To the whole scene. (sniff)
+Bar|BARRY|What scene?
+Bar|KRAMER|The bathroom scene. (moves his knows as you would if you sniffed)
+Bar|BARRY|Listen, don't take this personally, but when I'm coming back I'm sitting over there.
+Bar|KRAMER|What ever turns you on.
+Jerry's Car|action|Newman takes a dental floss out of his mouth.
+Jerry's Car|NEWMAN|No, no I don't like it.
+Jerry's Car|JERRY|What do you mean you don't like it? How could you not like it?
+Jerry's Car|NEWMAN|I like the thick tape.
+Jerry's Car|action|Newman puts dental floss on the dashboard. Jerry looks disgusted.
+Bar|action|Kramer enters the bathroom, kicks the door open and takes a photograph
+Bar|BARRY|Heeyy!! What kind of a nut are you?
+George's job interview.|FARKUS|So, basically George the job here is quite simple. Selling bras.
+George's job interview.|GEORGE|Well, that interests me very much Mr. Farkus.Very much indeed, sir.
+George's job interview.|FARKUS|Have you ever sold a woman's line before?
+George's job interview.|GEORGE|No, but um I have very good report with women, very good, comfortable. And from the first time I laid eyes on a brassieres, I was enthralled.
+George's job interview.|FARKUS|Hum. tell me about it.
+George's job interview.|GEORGE|Well, I was 14 years old. I was in my friends bathroom. His mother's brassieres were hanging on the shower rod and I picked it up, studied it. I thought, I like this. I didn't know what way or what level, but I knew: I wanted to be around brassieres.
+George's job interview.|FARKUS|That's an incredible story. You have a remarkable passion for brassieres.
+George's job interview.|GEORGE|Well, they're more than an underwear to me Mr. Farkus. Two cups in the front, two loops in the back. How do they do it?
+George's job interview.|FARKUS|Well, I think I can say, barring some unforeseen incident, that you will have a very bright future here at E.D. Granmont.
+George's job interview.|GEORGE|Thank you Mr.Farkus, thank you very much indeed sir.
+George's job interview.|FARKUS|See you monday 9 o'clock.
+George's job interview.|GEORGE|If you don't mind, sir. I'll be here at 8.
+George's job interview.|FARKUS|Excellent.
+George's job interview.|GEORGE|So long, Mr. Farkus.
+George's job interview.|action|George leaves the office and goes to the elevator. A women there is waiting for the elevator. George feels her blouse material.
+George's job interview.|GEORGE|Oh, nothing...
+George's job interview.|FARKUS|Yes, Ms. De Granmont?
+George's job interview.|FARKUS|Uh, this is Costanza, he's our new bra salesman. (George's offers his hand to shake) He's supposed to start on monday.
+George's job interview.|FARKUS|(to George): Get out! (to Ms. De Granmont) I'm terribly sorry Ms. De Granmont...
+Pendant publishing. Elaine is at Lippman's office.|ELAINE|You wanted to see me, Mr. Lippman?
+Pendant publishing. Elaine is at Lippman's office.|LIPPMAN|I was just uh going over the Jake Jarmel book and I understand you worked with him very closely on this.
+Pendant publishing. Elaine is at Lippman's office.|ELAINE|Yes (clears her throat) yes I did.
+Pendant publishing. Elaine is at Lippman's office.|LIPPMAN|And uh, anyway I was just reading your final edit and um, there seems to be an inordinate number of exclamation points.
+Pendant publishing. Elaine is at Lippman's office.|ELAINE|Uh well um, I felt that the writing lacked certain emotion and intensity.
+Pendant publishing. Elaine is at Lippman's office.|LIPPMAN|Ah, (reads an excerpt) "It was damp and chilly afternoon, so I decided to put on my sweatshirt!"
+Pendant publishing. Elaine is at Lippman's office.|ELAINE|Right, well...
+Pendant publishing. Elaine is at Lippman's office.|LIPPMAN|You put exclamation point after sweatshirt?
+Pendant publishing. Elaine is at Lippman's office.|ELAINE|That's that's correct, I-I felt that the character doesn't like to be ch-ch-chilly...
+Pendant publishing. Elaine is at Lippman's office.|LIPPMAN|I see, (reads another excerpt) "I pulled the lever on the machine, but the Clark bar didn't come out!" Exclamation point?
+Pendant publishing. Elaine is at Lippman's office.|ELAINE|Well, yeah, you know how frustrating that can be when you keep putting quarters and quarters in to machine and then (prrt) nothing comes out...
+Pendant publishing. Elaine is at Lippman's office.|LIPPMAN|Get rid of the exclamation points...
+Pendant publishing. Elaine is at Lippman's office.|ELAINE|Ok, ok ok ...
+Pendant publishing. Elaine is at Lippman's office.|LIPPMAN|I hate exclamation points...
+Pendant publishing. Elaine is at Lippman's office.|ELAINE|...ok I'll just....
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|'Dear Barry. Consider this letter to be official termination of our relationship effective immediately.'
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|Exclamation point.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|ELAINE|You still have no proof.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|Elaine, he was sniffing like crazy around me.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|'I will expect all funds in form of cashier checks no later than the 18th'.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|Double exclamation point!
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|NEWMAN|Will that take care of ours too?
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|Yeah, I'll give you yours as soon as I get my money back.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|NEWMAN|Hey, you want me to mail it? I'm on my way out anyway.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|Yeah, thanks.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|NEWMAN|It'll be my pleasure.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|action|Kramer puts the photograph in the envelope. Newman and Kramer laughs and Newman leaves.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|NEWMAN|See'ya later.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|You know this...
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|action|Knock on the door. It's pizzaguy
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|Hey, Ralph.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|Hi Ralph.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|RALPH|What's up fellas? That'll be 14.30.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|All right.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|Mushrooms, you got mushrooms Jerry?
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|Yeah.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|action|Ralph sniffs and rubs his eyes.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|What's the matter? You've got a cold?
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|RALPH|No man (sniffs again) Kramer, what is this?
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|It's a sweater.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|RALPH|What is it made out of?
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|I don't know, Jerry gave it to me.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|Mohair, I think.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|RALPH|Mohair, that figures, I'm allergic to mohair.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|You mean you just started sniffing?
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|RALPH|Yeah, mohair does it to me every time.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|action|Ralph leaves
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|I was wearing that sweater in the coffee shop when Barry came in.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|Jerry, I was wearing it in the bar.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|ELAINE|The sweater! The sweater made him sniff! See, I told you he wasn't a drug addict.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|Oh no! The letter, Newman, it's got exclamation points all over it!
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|KRAMER|Not to mention the picture of him on the toilet.
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|action|Jerry leaves the door and comes back second later
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|JERRY|The what??
+5A. Jerry, Kramer, Newman writing a letter. Elaine reads on the couch.|action|Kramer looks very confused, and smiles at Jerry
+Newman is taking the letter to the mailbox. There's a woman at same time at the letterbox.|NEWMAN|After you.
+Newman is taking the letter to the mailbox. There's a woman at same time at the letterbox.|WOMAN|Thank you.
+Newman is taking the letter to the mailbox. There's a woman at same time at the letterbox.|action|Newman feels the woman's coat material.
+Newman is taking the letter to the mailbox. There's a woman at same time at the letterbox.|WOMAN|Get your hands off of me! Johnny!!! Johnny!
+Newman is taking the letter to the mailbox. There's a woman at same time at the letterbox.|action|Newman rushes away dropping the letter on the ground. Johnny chases after him
+Costanza's|FRANK|What do you mean you felt the material? What, with your fingers like this?
+Costanza's|GEORGE|So what, what is so bad about that?
+Costanza's|ESTELLE|Who goes around feeling people's material? What can be gained by feeling a person's material? It's insanity!
+Costanza's|FRANK|What ever happened to "Why, that's a lovely dress you have on. May I have this dance?"!!
+Monk's|action|Kramer and Elaine at the booth behind the cash register
+Monk's|ELAINE|You are really lucky Newman never mailed that letter.
+Monk's|action|Jerry enters and tosses a letter on the table
+Monk's|JERRY|Sorry I'm late, I just came from a meeting with my lawyer.
+Monk's|ELAINE|What is this?
+Monk's|JERRY|It's a letter from your friend Barry Prophet's lawyer.
+Monk's|ELAINE|He is filing a chapter eleven. Why, what's going on, why is he filing a chapter eleven?
+Monk's|JERRY|Bankruptcy, bankruptcy...as in I've taken your money and spent it on drugs!
+Monk's|ELAINE|What do you mean, I thought it was the sweater.
+Monk's|KRAMER|All right, What about the money?
+Monk's|JERRY|What about the money? Apparently if I had dissolved my relationship with him prior to his filing chapter eleven, I've could've got the money back. Which I would've done, if a certain imbecile had been able to get to a mailbox and mail a letter!!
+Monk's|action|Newman enters and goes to the counter.
+Monk's|NEWMAN|Pair of bear claws, please.
+Monk's|action|Jerry approaches Newman, but some women comes between and feels Jerry's shirt.
+Monk's|WOMAN|Nice.
+Monk's|JERRY|Think so?
+Monk's|WOMAN|Yeah, what is it?
+Monk's|JERRY|Half silk, half cotton, half linen. How can you go wrong?

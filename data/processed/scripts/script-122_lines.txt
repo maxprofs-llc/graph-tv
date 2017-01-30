@@ -1,0 +1,333 @@
+Jerry's Apartment|JERRY|How did you lock your keys in the car?
+Jerry's Apartment|GEORGE|How? Cause I’m an Idiot.
+Jerry's Apartment|JERRY|So why don't you get a locksmith?
+Jerry's Apartment|GEORGE|I was going to, but then I found out that the auto club has this free locksmith service, so I signed up.  Just waiting for the membership to kick in.
+Jerry's Apartment|JERRY|How long has your car been sitting in the Yankee parking lot?
+Jerry's Apartment|GEORGE|I don't know, about three days.
+Jerry's Apartment|action|Kramer enters with golf clubs
+Jerry's Apartment|KRAMER|Hello boys.
+Jerry's Apartment|JERRY|Y- you're not playin' golf?
+Jerry's Apartment|KRAMER|Yes, indeed.  The calendar says winter, but he gods of spring are out.
+Jerry's Apartment|GEORGE|Are the courses open?
+Jerry's Apartment|KRAMER|No, no........I'm sneaking in with Stan the Caddy, we've been going through the caddies entrance.
+Jerry's Apartment|GEORGE|Huh, No kidding?
+Jerry's Apartment|KRAMER|Yeah, and I'll tell ya something else. Stan's advice has transformed my game. He's never wrong. Oh, he thinks eventually I'll have a shot at making it big on the senior tour. (sucks in air through tight lips) Oh, that's my dream, Jerry.
+Jerry's Apartment|JERRY|Really, you're getting that good?
+Jerry's Apartment|KRAMER|Oh, I'm the real deal.
+Jerry's Apartment|action|Knocking is heard from outside in the hallway
+Jerry's Apartment|KRAMER|Yeah, here, Stan, in here!
+Jerry's Apartment|action|Stan enters
+Jerry's Apartment|KRAMER|There he is, yeah - Jerry, George, *this* is Stan the Caddy.
+Jerry's Apartment|GEORGE|How ya doin'?
+Jerry's Apartment|JERRY|Hi.
+Jerry's Apartment|STAN|Nice to meet you.  Ready to hit the links, Kramer?
+Jerry's Apartment|KRAMER|Oh yeah, you betcha.
+Jerry's Apartment|STAN|What are those, ah, cotton pants?
+Jerry's Apartment|KRAMER|Yeah, Yeah...Why, is it too cold out?
+Jerry's Apartment|STAN|Here's what you do: you bring a lightweight jacket, that way the sun comes out, you play the jacket off the sweater.
+Jerry's Apartment|KRAMER|Ah, that makes sense, that's a good call, Stan.  Alright, we'll see you guys later, huh?
+Jerry's Apartment|GEORGE|Yeah.
+Jerry's Apartment|JERRY|Yeah, we'll see ya.
+Jerry's Apartment|action|Kramer and Stan leave
+On the street|action|Elaine turns to see Sue Ellen waving her hand
+On the street|ELAINE|Yeah, ha ha ha.  What have you been up to?
+On the street|ELAINE|Oh Tomorrow...?
+On the street|ELAINE|I don't know if I can.
+On the street|ELAINE|Yeah, I'm just really, really busy.
+On the street|ELAINE|Yeah, yeah.
+On the street|ELAINE|Ah Ha ha ha ha ha ha ha ha ha.
+Yankee Stadium|WILHELM|George!?
+Yankee Stadium|GEORGE|(he drops a paper airplane he was holding) Mr. Wilhelm!
+Yankee Stadium|WILHELM|I'm sorry to interrupt you, but Mr. Steinbrenner and I really want you to know we appreciate all the hours you've been putting in… Oh, and, ah, confidentially, Sozonkel, our Assistant to the General Manger, hasn't really been working out. And the boss thinks you're the man for the job!  So, keep it under your hat!
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|Assistant to the General Manager!!  Do you know what means?!?  He'd could be askin' my advice on trades!  Trades, Jerry, I'm a heartbeat away!
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|That's a hell of an organization they're running up there.  I can't understand why they haven't won a pennant in 15 years.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|And, it is all because of that car…
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|action|shot of Steinbrenner’s car pulling into his parking space and getting out of the car, with the Costanza sign in the background 
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|…See, Steinbrenner is like the first guy in, at the crack of dawn.  He sees my car, he figures I'm the first guy in…
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|action|night shot of Wilhelm walking out to the parking lot, he sees George’s car and nods approvingly
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|…Then, the last person to leave is Wilhelm.  He sees my car, he figures I'm burning the midnight oil.  Between the two of them, they think I'm working an 18 hour day! (he stands there with his hands on his hips, a wide grin - laughing.)
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|Locking your keys in your car is the best career move you ever made.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|action|Elaine enters
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|Hey.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|Hey.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|Hey, how ya doing?!?
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|Better, now.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|Yeah, what happened?
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|You know Sue Ellen Mishke?
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|Sue Ellen Mishke?
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|Yeah, the woman I grew up with in Maryland, she moved here last year...
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|Sounds familiar.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|The heiress to the O'Henry candy bar fortune--
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|Oh, yeah, you mentioned her.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|Yes. Yes  I ran into her today.  This woman has never, not once, ever, as long as I have known her, worn a bra.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|Ah, that is disgusting--
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|That is just shameless, I don't know, There's no--
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|She’s a pig. The woman's a pig, what wrong with her--
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|It's wrong, it's rude, and it's incorrect.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|It's disgusting--
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|Come on! Come-on.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|We're only kidding!
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|You don't understand.  See, she hasn't changed at all.  She stole my boyfriend when I was in high school. (flashback sequence) I was at this party, and I was dating this *really* cute guy, his name was Tom Cosley, by the way, and she goes walking by, in this little floozy outfit, and he follows her, right out the door!
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|Her birthday's comin' up, see, so I decided to get her a little present.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|What are you going to get her?
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|ELAINE|A very traditional, a very supportive, brazier.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|There's nothing subtle about that.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|GEORGE|No, no, she might just think it’s a gift.
+Exterior at dusk of Jerry's Apartment, then inside Jerry’s apartment|JERRY|Have I ever bought you a jock strap as a gift?
+Monk's|GEORGE|Ahh, Hey-Ho. ahhhhh (exhales)
+Monk's|JERRY|What the hell are you doing here, aren't you supposed to be at work?!?
+Monk's|GEORGE|Yeah, well I'm thinking about getting out of town with Susan for a few days....Her parents rebuilt the cabin!
+Monk's|JERRY|So, you're just taking off from work?
+Monk's|GEORGE|Yeah well, they won't know.  I got the car there.
+Monk's|JERRY|Do you think this is such a good idea, with you being on the verge of this big promotion?
+Monk's|GEORGE|My presence, in that office, can only hurt my chances.
+Elaine's office at J Peterman|RECEPTIONIST|(on Intercom)  Sue Ellen Mishke to see you.
+Elaine's office at J Peterman|ELAINE| Sue Ellen Mishke?  Ah, alright, send her in.
+Elaine's office at J Peterman|action|Sue Ellen enters, wearing the brazier as a top, with a black blazer
+Elaine's office at J Peterman|ELAINE|Hellllloo.
+Elaine's office at J Peterman|ELAINE|Ohhhhh. You're....welcome.
+Elaine's office at J Peterman|ELAINE|Well, Sue Ellen, it's a, it's not a top, it's a bra.
+The Rosses cabin|GEORGE|This is the life! Isn't it, huh, kid?
+The Rosses cabin|SUSAN|Wanna check out a swap meet?
+The Rosses cabin|GEORGE|Yeah, maybe. (snifs) Where'd you get that?
+The Rosses cabin|SUSAN|Oh, it was on the windshield of the car when we came out of that rest stop.
+The Rosses cabin|action|George sits up suddenly; realizing something
+Jerry's apartment, phone ringing|action|Jerry hits part of the phone receiver with his right hand to make the phone receiver pop up into the air -- he grabs it in his left and answers
+Jerry's apartment, phone ringing|GEORGE|(on a pay phone) Hey, hey, it's George, I need ya to do me a favor.
+Jerry's apartment, phone ringing|JERRY|What's goin' on?
+Jerry's apartment, phone ringing|GEORGE|I just remembered, th-th-there's this Chinese restaurant out near Yankee Stadium, that puts flyers on all the cars.
+Jerry's apartment, phone ringing|JERRY|Yeah, so?
+Jerry's apartment, phone ringing|GEORGE|Alright, this is what ya gotta do: I need ya to go out to the parking lot at Yankee Stadium, take the flyers off my car.
+Jerry's apartment, phone ringing|JERRY|You know last time you had me throwin' a rye bread up three floors to you, now you want me to go up to the Bronx, take flyers off your car, where does it end?!?
+Jerry's apartment, phone ringing|GEORGE|Alright, fine. I'll drive the 3 hours each way, 6 hours all together, and take 'em off myself!!
+Jerry's apartment, phone ringing|JERRY|Alright, alright, I'll do it!!
+Jerry's apartment, phone ringing|action|Jerry hangs up, Kramer enters Jerry's apartment
+Jerry's apartment, phone ringing|KRAMER|Oowe (Kramer noise -- he’s eating something)
+Jerry's apartment, phone ringing|JERRY|Hey, what are ya up to?
+Jerry's apartment, phone ringing|KRAMER|Nothin'.
+Jerry's apartment, phone ringing|JERRY|You wanna go with me up to (clap) the Bronx and see if there's any flyers on George's car.
+Jerry's apartment, phone ringing|JERRY|I guess I coulda said just about anything there, couldn't I? (throws coat over his right shoulder)
+Jerry's apartment, phone ringing|KRAMER|yep.
+Jerry's apartment, phone ringing|action|As they turn to go out the door, Kramer walks into the wall where the intercom is -- Jerry is pulling the door shut and Kramer avoids touching any part of the door, he turns quick as it shuts.
+Exterior of Yankee Stadium then to the parking lot.|action|George's windshield is has a lot of flyers on it and the car is covered with bird droppings -- a bunch of pigeons are on the roof
+Exterior of Yankee Stadium then to the parking lot.|JERRY|Oh, man, look at this mess!  You know what's gonna happen if they see this?
+Exterior of Yankee Stadium then to the parking lot.|KRAMER|Wheehh
+Exterior of Yankee Stadium then to the parking lot.|JERRY|What are we gonna do?
+Exterior of Yankee Stadium then to the parking lot.|KRAMER|I don't know.
+Exterior of Yankee Stadium then to the parking lot.|JERRY|Well, we gotta get it washed (pulls off a few flyers)....Ah, the keys are locked inside!
+Exterior of Yankee Stadium then to the parking lot.|KRAMER|Wait a second....
+Exterior of Yankee Stadium then to the parking lot.|JERRY|What are ya gonna do?
+Exterior of Yankee Stadium then to the parking lot.|KRAMER|I'll just snag the lock with this. auhh…  Here we go...
+Exterior of Yankee Stadium then to the parking lot.|JERRY|Yeah, this quite a life I lead here, huh?
+Leaving the Gentle Touch Car Wash: Jerry and Kramer driving George's car. Kramer is behind the wheel.|KRAMER|Well, George has gotta be happy about this.
+Leaving the Gentle Touch Car Wash: Jerry and Kramer driving George's car. Kramer is behind the wheel.|JERRY|Oh my God, Kramer, is that woman just wearing a bra?
+Leaving the Gentle Touch Car Wash: Jerry and Kramer driving George's car. Kramer is behind the wheel.|action|Sue Ellen is seen walking down the street
+Leaving the Gentle Touch Car Wash: Jerry and Kramer driving George's car. Kramer is behind the wheel.|KRAMER| Oh, mama.
+Leaving the Gentle Touch Car Wash: Jerry and Kramer driving George's car. Kramer is behind the wheel.|JERRY|Kramer!!! (Jerry points to the lamp post they are about to crash into)
+Leaving the Gentle Touch Car Wash: Jerry and Kramer driving George's car. Kramer is behind the wheel.|action|Car crash sound
+Jerry's Apartment|ELAINE|My God, are you okay?
+Jerry's Apartment|KRAMER|Well I got a cut on my head and I banged my shoulder. (He has a large Band-aid on his forehead)
+Jerry's Apartment|JERRY|I guess I have to bring his car back up to the stadium, if it can make it.
+Jerry's Apartment|ELAINE|So how did this happen?
+Jerry's Apartment|JERRY|He was starin' at some woman!
+Jerry's Apartment|KRAMER|Well I couldn't help it, you saw what she was wearing.
+Jerry's Apartment|ELAINE|What woman?
+Jerry's Apartment|JERRY|There was this beautiful woman walking down the street wearing *just* a bra.  I can't get that image out of my mind.
+Jerry's Apartment|ELAINE| Oh...my God.
+Jerry's Apartment|JERRY|What?
+Jerry's Apartment|ELAINE|Was it a tall woman, in a black blazer?
+Jerry's Apartment|JERRY|Yeah!
+Jerry's Apartment|ELAINE|Ohhh!  That's Sue Ellen Mishke!
+Jerry's Apartment|JERRY|Sue Ellen Mishke?
+Jerry's Apartment|ELAINE|That's the bra I gave here, she's wearing it as a top!  The woman is walking around in broad daylight with nothing but a bra on, she's a menace to society.
+Jerry's Apartment|KRAMER|Hey you know, my arm really hurts.  I wonder if its gonna affect my golf swing.
+Jerry's Apartment|action|Kramer makes a horrible golf swing motion and collapses in pain over the back of the couch.
+Jerry's Apartment|KRAMER|Oohh.
+Jerry's Apartment|action|Stan the caddy enters
+Jerry's Apartment|KRAMER|Yeah, it's my left arm, I can't swing it!
+Jerry's Apartment|STAN|Oh, no. Not the left arm!
+Jerry's Apartment|KRAMER|Well what happens if I can't play like I was? What about the tour, and all my dreams?
+Jerry's Apartment|ELAINE|Oh! I got it! Let's sue her!
+Jerry's Apartment|KRAMER|Sue her?
+Jerry's Apartment|ELAINE|Yeah, she's loaded.  She's the heiress to the O'Henry candy bar fortune.
+Jerry's Apartment|KRAMER|Ah, No, no, no, I can't. I learned my lesson from that coffee company.
+Jerry's Apartment|ELAINE|Kramer, listen to me. Listen! This is a once in a lifetime opportunity.  Your dreams have been shattered, somebody's got to be held accountable. Come on, we'll take for every penny she's got!
+Jerry's Apartment|KRAMER|What do you think, Stan?
+Jerry's Apartment|STAN|Let's go for the green! You know a good lawyer?
+Jerry's Apartment|action|Kramer smiles
+Jackie Chiles' office|JACKIE|So you're driving in the car, you're with your friend, minding your own business?
+Jackie Chiles' office|KRAMER|Yeah.
+Jackie Chiles' office|JACKIE|Then what happened?
+Jackie Chiles' office|KRAMER|Well then we saw this woman, and she was wearing a bra with no top.
+Jackie Chiles' office|JACKIE|No top?  She didn't have a top on?
+Jackie Chiles' office|KRAMER|Yeah. So I got distracted and I crashed the car.
+Jackie Chiles' office|JACKIE|Well how would you describe this woman?  Would you say she was an attractive woman?
+Jackie Chiles' office|KRAMER|Oh, yeah.
+Jackie Chiles' office|JACKIE|So we got an attractive woman, wearing a bra, no top, walkin' around in broad daylight.  She's flouting society's conventions!
+Jackie Chiles' office|KRAMER|She was flouting.
+Jackie Chiles' office|JACKIE|That's totally inappropriate. It's lewd, lascivious, salacious, outrageous!
+Jackie Chiles' office|KRAMER|It was outrageous. And she's the heir to the O'Henry candy bar fortune.
+Jackie Chiles' office|JACKIE|Could you repeat that?
+Jackie Chiles' office|KRAMER|I said she's the heir to the O'Henry candy bar fortune.
+Jackie Chiles' office|JACKIE|O'Henry?  That's one of our top-selling candy bars.  It's got chocolate, peanuts, nougat, it's delicious, scrumptious, outstanding!  Have you been to a doctor?
+Jackie Chiles' office|KRAMER|No.
+Jackie Chiles' office|KRAMER|So whadda ya think, Jackie? I mean we got a case?
+Jackie Chiles' office|JACKIE|Like taking candy from a baby.
+Jackie Chiles' office|action|Kramer mouths “Oh Yea” then motions his hand in a circle and clicks
+The cabin|GEORGE|I think I got it.  How 'bout this? How 'bout this? We trade Jim Leyritz and Bernie Williams, for Barry Bonds, huh?  Whadda ya think? That way I have Griffey and Bonds, in the same outfield! Now you got a team! Ha ha ha.
+The cabin|SUSAN|I don't know, George. I'm still worried about this car thing.
+The cabin|GEORGE|Oh, would ya stop worrying?
+The cabin|SUSAN|Well, what about the flyers?
+The cabin|GEORGE|Jerry took the flyers off the car, I got the whole thing covered.
+Yankee Stadium parking lot|action|Jerry having difficulty parking the car. Lots of smoke is coming from the vehicle. After getting the car in the space and hitting the Costanza parking sign, Jerry leans against the door, trying to close it.  Finally he gives up and leaves, kicking a piece of the car under it as he goes
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Come in!
+Yankee Stadium, Steinbrenner's office, someone is knocking|action|Wilhelm enters
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Ah, Wilhelm.
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Mr. Steinbrenner, I am very concerned about George Costanza.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|How 'bout a 'good morning'?
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Oh yes sir, good morning, good morning, sir.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Good morning to you, Wilhelm.
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Uh-a Anyway, his car's in the parking lot, the front end is bashed in, and there's blood in the car, and we can't find him anywhere. Obviously he was in some sort of a terrible car accident, and trooper that he is, he tried to make it into work, sir.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Alright, Wilhelm, listen to me. I want the stadium scoured. He could be bleeding to death in the bullpen.
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Yes sir. (he starts backing up to the door.)
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Put everyone on alert, check all the area hospitals, clinics, shelters, we've gotta find that kid.
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Yes sir, yes sir. (Opening the door)
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|We must find George.
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Yes sir.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Find him, Wilhelm!
+Yankee Stadium, Steinbrenner's office, someone is knocking|action|Wilhelm closes the door
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|(from behind the closed door in the hallway)Yes sir.
+The hallway in Jerry's building|action|As Jerry walks down the hall to his apartment, he finds Sue Ellen knocks 14 times on Kramer's door
+The hallway in Jerry's building|JERRY|No, I don't.
+The hallway in Jerry's building|JERRY|Is there, something I can help you with?
+The hallway in Jerry's building|JERRY|Well, you can wait for him in here if you like.
+The hallway in Jerry's building|action|Jerry quickly unlocks his door, before she can change her mind
+The hallway in Jerry's building|JERRY|No, no, not at all.
+The hallway in Jerry's building|JERRY|I'm Jerry Seinfeld.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|What is with these people, all day long. Come in, come in.
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Ah, Mr. Steinbrenner, you know, w-we've searched everywhere, th-there's no sign of him. n-n-Not even anyone who remotely fits his description, sir.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Oh my God. Do you know what this means, Wilhelm?
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|What, sir?
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|He's dead! ca-Costanza's dead!
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|No no no sir. Well, you see, I don't think--
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Oh, as quickly as he came here, he's gone. The poor little guy! Easy.  Easy, big Stein, get it together.  Ok, Wilhelm.
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Yessir?
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Find out where his parents live.
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Parents.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|I'm gonna personally notify them. ...and, ah, line up some candidates to fill that assistant to the General Manager position…
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Yessir. (he starts backing up to the door.)
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|we can't grieve forever!
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Right. Yessir.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|We gotta get back to business!
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|Yes Sir! (closes the door)
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Back to Business Wilhelm!
+Yankee Stadium, Steinbrenner's office, someone is knocking|WILHELM|(from behind the closed door in the hallway) Yes Sir!
+Jerry's Apartment|action|Kramer enters, he still has the Band-aid on his forehead
+Jerry's Apartment|KRAMER|Well, buddy, (claps) he's taking the case!  Jackie Chiles is right on it!  Right on it, he's all over it!
+Jerry's Apartment|KRAMER|Why, wh-wh-what's wrong, come on?
+Jerry's Apartment|JERRY|I don't know…
+Jerry's Apartment|KRAMER|uuh-
+Jerry's Apartment|JERRY|…so the woman was walking around in a bra…
+Jerry's Apartment|KRAMER|Yeah-
+Jerry's Apartment|JERRY|… I mean it's no big deal. You're still drivin'. You should have been watching the road.
+Jerry's Apartment|KRAMER|Well, your attitude has certainly changed.
+Jerry's Apartment|JERRY|I don't think my attitude has changed.
+Jerry's Apartment|KRAMER|Now listen, Jerry, I'm gonna need you to testify.
+Jerry's Apartment|JERRY|(quietly, yet in a high and whiney tone) Well, I don't know if I....
+Jerry's Apartment|KRAMER|Jerry, Jerry, you gotta testify!
+Jerry's Apartment|JERRY|Kramer I don't think I can--
+Jerry's Apartment|KRAMER|Listen, this is a million dollars we're talkin' about, Jerry, now this is the big league, the big time, now I need you on my team, Jerry!
+Jerry's Apartment|JERRY|Well, I'm just not sure how I feel about it, Kramer.
+Jerry's Apartment|KRAMER|Alright what's gotten into you, what's happened?!?
+Jerry's Apartment|JERRY|Nothing's happened.
+Jerry's Apartment|action|As Kramer begins to leave, he notices an O'Henry wrapper in the garbage can
+Jerry's Apartment|JERRY|Oh, no, no, no, wait a second, wait a second… th-th-that--
+Jerry's Apartment|KRAMER|Oh I see....Yessss. Little Miss Candy Bar paid a visit, didn't she?
+Jerry's Apartment|JERRY|Kramer, it is not what you think.
+Jerry's Apartment|KRAMER|Ah, Ah, Ahhhhh!  I know what I think.  I think you're gaga over this dame. She's twisted you around her little finger, and now, you're willing to sell me, and Elaine, and whoever else you have to, right down the river.
+Jerry's Apartment|JERRY|And what about yooou?!?  Tryin' to bilk an innocent bystander out of a family fortune, built on sweat and toil, manufacturing quality O'Henry candy bars, for honest, hard-working Americans!
+Jerry's Apartment|KRAMER|You're just out for sex!!
+Jerry's Apartment|JERRY|You're just out for money!!
+The Costanza house, Queens|action|Steinbrenner is knocking, Estelle opens the door
+The Costanza house, Queens|STEINBRENNER|Mrs. Costanza?
+The Costanza house, Queens|STEINBRENNER|My name is George Steinbrenner, I'm afraid I have some very sad new about your son.
+The Costanza house, Queens|ESTELLE|(gasps)
+The Costanza house, Queens|action|Costanza living room
+The Costanza house, Queens|STEINBRENNER|Well, he'd been logging some pretty heavy hours, first one in in the morning, last one to leave at night.  That kid was a human dynamo.
+The Costanza house, Queens|ESTELLE|Are you sure you're talking about George?
+The Costanza house, Queens|STEINBRENNER|You are Mr. and Mrs. Costanza?
+The Costanza house, Queens|STEINBRENNER|Well, Buhner was a good prospect, no question about it. But my baseball people love Ken Phelps' bat.  They kept saying 'Ken Phelps, Ken Phelps'.
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|action|The phone rings again, Jerry takes off his coat and throws his keys on the table.
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|JERRY|Where have you been?!?
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|GEORGE|What?
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|JERRY|I just got the most bizarre message from you father, Steinbrenner is at you house, they think you're dead!
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|GEORGE|Dead?
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|JERRY|Yeah, and we had an accident with your car, it's a, it’s a little crumpled.
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|GEORGE|My car’s a little crumpled?!?
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|JERRY|Yeah, yeah, I didn't know what to do so I put it back at the stadium.  Oh, wait a second, wait a second, they saw the car, they saw the blood, they couldn't find ya, that's why Steinbrenner thinks you're dead!
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|GEORGE|Allright, I gotta head back right away, I'll-I’ll -- I gotta figure something out here.
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|JERRY|Well you gotta call your parents.
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|GEORGE|I can't, Steinbrenner might still be there!
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|JERRY|Aren't you gonna tell your parents you're still alive?
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|GEORGE|OOuuoo!  They could use the break!
+Jerry entering his apartment, as Frank is leaving a message on his answering machine|action|George hangs up the phone. Jerry holds the cordless phone way and makes a facial expression like “well that’s true.”
+Elaine's office at J Peterman. She is at her desk, Peterman enters|ELAINE|Yeah, it's a bra.
+Elaine's office at J Peterman. She is at her desk, Peterman enters|PETERMAN|I saw a woman in our hallway wearing one of these as a top. (sits on the corner of the desk) What exquisite beauty, I ran down the hallway to talk to her, but the elevator door closed. It was not to be. Perhaps our paths will cross again some day.
+Elaine's office at J Peterman. She is at her desk, Peterman enters|ELAINE|w-What is this all about?
+Elaine's office at J Peterman. She is at her desk, Peterman enters|PETERMAN|I wanna market this item as a new direction in women's fashion.
+Elaine's office at J Peterman. She is at her desk, Peterman enters|ELAINE|Oh-oh, but-
+Elaine's office at J Peterman. She is at her desk, Peterman enters|PETERMAN|We're gonna sell this as a top. Here's the angle: Zelda Fitzgerald, aaaand, somebody in the 20s, wearing this at wild parties, driving all the men crazy (tosses the bra on Elaine’s desk)… Have it on my desk by the end of the week.
+Elaine's office at J Peterman. She is at her desk, Peterman enters|action|Peterman leaves as Elaine looks up in disbelief.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Come in, come in.
+Yankee Stadium, Steinbrenner's office, someone is knocking|action|George enters, with a bandage on his head, walking with crutches
+Yankee Stadium, Steinbrenner's office, someone is knocking|GEORGE|Mr. Steinbrenner--
+Yankee Stadium, Steinbrenner's office, someone is knocking|GEORGE|Yeah, it's me sir.  It's been a harrowing few days. uuh, After the car accident, I-I crawled into a ditch, and managed to survive on, grubs and puddle water, until a kindly old gentleman picked me up.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Grubs, huh? Gotta admit, I never tasted one of those.
+Yankee Stadium, Steinbrenner's office, someone is knocking|GEORGE|Anyway, as I was lying in the puddle, I-I think I may have found a way for us to get Bonds and Griffey, and we wouldn't have to give up that much.
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Well, don't tell it to me George, tell it to the new Assistant to the General Manager.
+Yankee Stadium, Steinbrenner's office, someone is knocking|GEORGE|I didn't get the job?
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|Well, once you were dead, we couldn't just sit on our hands.  We had to make a move...
+Yankee Stadium, Steinbrenner's office, someone is knocking|action|Dejected, George turns to leave, no longer walking with he crutches, and takes the bandage off his head
+Yankee Stadium, Steinbrenner's office, someone is knocking|STEINBRENNER|But, you still have your old job.  Of course, we'll have to dock you for the time you missed.  We're running a ball club here.  If I give special treatment to you, everyone will want it. Next thing you know its chaos!  And I can tell you this, (George closes the door) chaos does not work for the New York Yankees!  Not as long as I'm running the show!
+Courtroom|JACKIE|So it was the meeting on the street that prompted you to buy the bra for Miss Mishke, would you say that was correct?
+Courtroom|action|Sue Ellen leans back and smiles at Jerry, Kramer wearing his arm in a sling notices and seems worried
+Courtroom|JACKIE|And you have also brought with you, another bra, (goes over to the table and pulls a bra out of a bag) exactly like, the one that she so flagrantly exhibited herself in!
+Courtroom|ELAINE|Yes, that's correct.
+Courtroom|action|Kramer is now on the witness stand
+Courtroom|JACKIE|Uh, what was you golf score, the last round you played… uh, before you shoulder was injured?
+Courtroom|KRAMER|Three under par.
+Courtroom|action|Stan nods proudly
+Courtroom|KRAMER|Well if they're lucky.
+Courtroom|action|Stan laughs, Elaine and Jerry are also amused. Kramer smiles and nods.
+Courtroom|action|Jerry is now on the witness stand
+Courtroom|JACKIE|Well would you tell this jury exactly what you saw at the corner of 83rd Street and Columbus?
+Courtroom|JACKIE|Well, did you, or did you not, see the defendant, wearing the bra?
+Courtroom|JERRY|I don't know.  Maybe.
+Courtroom|JACKIE|Mr. Seinfeld, I might remind you that you are under oath.  Now I ask you again, did you or did you not, see this woman wearing a bra?!?
+Courtroom|action|shots of Sue Ellen, Kramer, Elaine and Stan waiting for Jerry’s response.
+Courtroom|JERRY|....Alright, alright, I saw her!…
+Courtroom|action|Sue Ellen rolls her head around in disbelief
+Courtroom|JERRY|And she was beautiful in that bra!  I'm crazy about her!  I love her whole free swinging, free wheeling attitude!
+Courtroom|JACKIE|No further questions, your honor.
+Courtroom|JUDGE|You may step down.
+Courtroom|JACKIE|Well Kramer, I think we got this wrapped up.
+Courtroom|KRAMER|Yeah, yeah...What's your read, Stan?
+Courtroom|STAN|You're close, you're on the green. You just have to go for the cup.
+Courtroom|KRAMER|What do you mean?
+Courtroom|STAN|Have her try on the bra, see if it fits.
+Courtroom|JACKIE|No, no, no, no!
+Courtroom|KRAMER|Do it, Jackie. Stan's the man.
+Courtroom|JACKIE|Stan? Who the hell is Stan?
+Courtroom|KRAMER|He's my caddy.
+Courtroom|JACKIE|You're caddy?!?  This is a big mistake!
+Courtroom|KRAMER|Gu-gu- cada-
+Courtroom|JACKIE|Your honor, we request at this time, that Miss Mishke...try on the bra.
+Courtroom|JUDGE|(bangs the gavel twice) This court will come to order!  Go ahead Miss Mishke, try it on.
+Courtroom|action|Sue Ellen proceeds to try on the bra, over her top, but it seems too small. She cannot get the clasps to meet in the front.
+Courtroom|KRAMER|OK, OK-
+Courtroom|action|Jackie raises his hand up -- the back of his hand to Kramer
+Elaine's office|action|Two women enter wearing bras as tops
+Elaine's office|ELAINE|Oh, no, I-I don't think so.
+Elaine's office|ELAINE|Yeah, yeah, thanks.
+Elaine's office|ELAINE|Oh, I don't think you'll have any trouble gettin' a table.
+Elaine's office|action|Elaine makes a gun with her fingers and points it to her head

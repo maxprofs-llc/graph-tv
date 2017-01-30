@@ -1,0 +1,376 @@
+Yogurt Shop|action|Elaine, George, and Jerry are sitting at a table eating Yogurt out of a cup
+Yogurt Shop|ELAINE|Hmm!
+Yogurt Shop|GEORGE|Fantastic!
+Yogurt Shop|JERRY|I told ya. How good is this?
+Yogurt Shop|GEORGE|Good.
+Yogurt Shop|JERRY|How good?
+Yogurt Shop|GEORGE|Very good.
+Yogurt Shop|JERRY|I know it.
+Yogurt Shop|ELAINE|They put real blue berries in this. And there's real blue berries. What kind did you get?
+Yogurt Shop|JERRY|Coffee. And they grind up the coffee beans, and put it in.
+Yogurt Shop|ELAINE|Let me test-taste that. (tastes Jerry's yogurt)
+Yogurt Shop|JERRY|Huh? Huh?
+Yogurt Shop|ELAINE|Hmm! Rico!
+Yogurt Shop|JERRY|Suave! And it's non-fat!
+Yogurt Shop|GEORGE|Ya-see, how could this not have any fat? It's too good.
+Yogurt Shop|ELAINE|(offering her yogurt to George) You want to taste mine?
+Yogurt Shop|GEORGE|(offers his) Oh, you want to taste mine.
+Yogurt Shop|ELAINE|No, I don't.
+Yogurt Shop|GEORGE|Lo..k, if you want to taste mine, you don't have to offer me some of yours.
+Yogurt Shop|ELAINE|All right, let's just forget it.
+Yogurt Shop|JERRY|You know, Kramer's gonna clean up on this place.
+Yogurt Shop|GEORGE|What do you mean?
+Yogurt Shop|JERRY|He invested in it.
+Yogurt Shop|GEORGE|No kidding?
+Yogurt Shop|JERRY|Yeah. We've been coming here everyday. This is so fuck(bleeped)ing good.
+Yogurt Shop|action|Maryedith and Matthew walk by
+Yogurt Shop|MARYEDITH|Jerry!
+Yogurt Shop|JERRY|Oh, I'm sorry.
+Yogurt Shop|ELAINE|All right, we should get going. But, I'm going to get a little bit more, okay?
+Yogurt Shop|GEORGE|Oh, god. Look who's here.
+Yogurt Shop|JERRY|Who is it?
+Yogurt Shop|GEORGE|This guy from my old neighborhood. Lloyd Braun. He's a big advisor to Mayor Dinkins. He thinks he's so cool.
+Yogurt Shop|JERRY|Oh, oh.?
+Yogurt Shop|LLOYD|Hey, George!
+Yogurt Shop|GEORGE|Hey-hay! Lloyd! Hey! My friend Jerry eh.
+Yogurt Shop|LLOYD|Hi.
+Yogurt Shop|JERRY|Hi.
+Yogurt Shop|LLOYD|So, I hear you're living back home now, is it?
+Yogurt Shop|GEORGE|Yeah, there was a fire in my apartment.
+Yogurt Shop|LLOYD|Fire! Whoa! There's a lot of major chicks in this place, huh? (George nudges Jerry with his right arm) Something wrong with your arm?
+Yogurt Shop|GEORGE|Uh, uh, yeah. Actually, the, uh, I-I bumped my elbow on a desk and uh injured something an.. now it sort of moves involuntarily.
+Yogurt Shop|LLOYD|Wow, that's a bitch, huh? So, how are your parents doing?
+Yogurt Shop|GEORGE|Oh, pretty good.
+Yogurt Shop|LLOYD|This place does some business, huh?
+Yogurt Shop|GEORGE|Yeah, this is my first time here. (nudges Jerry again)
+Yogurt Shop|LLOYD|Hey, she's a doll. (looking at Elaine)
+Yogurt Shop|ELAINE|Hi!
+Yogurt Shop|GEORGE|Uh, Elaine, this is, uh, Lloyd.
+Yogurt Shop|ELAINE|Hi!
+Yogurt Shop|LLOYD|Oh, hi! Very nice to meet you.
+Yogurt Shop|action|Elaine and Lloyd shack hands
+Yogurt Shop|ELAINE|Nice to meet you, too!
+Yogurt Shop|LLOYD|Well, I'm really sorry I gotta run now. (sets down his cup of yogurt and makes his way out) Well, take it easy, huh, George?
+Yogurt Shop|GEORGE|Yeah! Yeah.
+Yogurt Shop|action|Jerry, George and Elaine head toward the door to leave
+Yogurt Shop|ELAINE|(excited about Lloyd) Aaah. Boy, he is really cute!
+Yogurt Shop|GEORGE|He's a jerk. (nudges to his right but no one is there)
+Yogurt Shop|JERRY|He's gone, George.
+Yogurt Shop|GEORGE|All right. All right.
+Jerry's Apartment|KRAMER|So, there were a lot of people there, huh?
+Jerry's Apartment|JERRY|Oh, man, that yogurt place - you're going to make a fortune.
+Jerry's Apartment|KRAMER|Yeah.
+Jerry's Apartment|JERRY|They're doing an incredible business.
+Jerry's Apartment|KRAMER|Yeah, well, I told you to go in on it.
+Jerry's Apartment|JERRY|How did you know?
+Jerry's Apartment|KRAMER|Well, I tasted it at the one downtown. It's got a remarkable texture. You'd never know it was non-fat.
+Jerry's Apartment|action|Buzzer
+Jerry's Apartment|JERRY|(answering the buzzer) Yeah?
+Jerry's Apartment|ELAINE|(on the buzzer) Buzz me.
+Jerry's Apartment|JERRY|Hey, I had the show of my life last night. I ad-libbed like ten new minutes.
+Jerry's Apartment|KRAMER|Yeah, but did you tape it?
+Jerry's Apartment|JERRY|(pulling out a tape from his pocket) Vvvvup. Right there. I got it. I did this thing on the Ottoman Empire. Like, what was this? A whole empire based on putting your feet up?
+Jerry's Apartment|KRAMER|Yes!
+Jerry's Apartment|JERRY|I'm telling you, I got like a whole new Tonight Show here.
+Jerry's Apartment|action|Elaine enters
+Jerry's Apartment|ELAINE|Hey!
+Jerry's Apartment|KRAMER|Hey!
+Jerry's Apartment|action|Elaine has her thumb in her mouth pushing her teeth
+Jerry's Apartment|JERRY|What's the matter?
+Jerry's Apartment|ELAINE|Oh, I was having lunch, and I bit down on the fork.
+Jerry's Apartment|JERRY|Boy, it's hard to believe - with all that biting experience - a person could still make a mistake like that.
+Jerry's Apartment|action|Kramer looks at Elaine
+Jerry's Apartment|KRAMER|(sort of falling backwords) Yowm!
+Jerry's Apartment|ELAINE|What?
+Jerry's Apartment|KRAMER|Well, you're getting heavy.
+Jerry's Apartment|ELAINE|(quietly) What?
+Jerry's Apartment|KRAMER|Yeah, you look like you put on (holds his hands out) five, (holds his hands wider) ten pounds.
+Jerry's Apartment|JERRY|Kramer!
+Jerry's Apartment|KRAMER|I'll tell you something else, you're looking a little chunky yourself, buddy.
+Jerry's Apartment|JERRY|Me?
+Jerry's Apartment|KRAMER|Yeah.
+Jerry's Apartment|JERRY|No.
+Jerry's Apartment|ELAINE|Where's your bathroom scale? (Jerry looks at her like 'where do you think?' Elaine and Jerry both go into the bathroom) Oh my god, I've gained seven pounds.
+Jerry's Apartment|JERRY|I've gained eight.
+Jerry's Apartment|KRAMER|I told ya.
+Jerry's Apartment|ELAINE|Oh, my god! A couple, but 7 pounds. How did I gain 7 pounds?
+Jerry's Apartment|JERRY|How did I gain eight?
+Jerry's Apartment|ELAINE|I don't get it. I, I've been doing the same exercises. I haven't been eating anything different.
+Jerry's Apartment|JERRY|Me, either. Wait a second. Wait a second. Maybe it's that yogurt.
+Jerry's Apartment|KRAMER|No, no, no. That's hundred percent non-fat.
+Jerry's Apartment|JERRY|Well, how else could this have happened?
+Jerry's Apartment|KRAMER|Well, maybe it's the Oreos.
+Jerry's Apartment|ELAINE|I don't eat Oreos.
+Jerry's Apartment|KRAMER|You don't eat Oreos? (acts out eating Oreos) The way you break them open? You're (does a bunch of licking motions) ~ practically having sex with them.
+Jerry's Apartment|JERRY|What about me?
+Jerry's Apartment|KRAMER|You? You're getting old.
+Jerry's Apartment|JERRY|Maybe your yogurt isn't so non-fat.
+Jerry's Apartment|KRAMER|Oh, guess again, Tubby!
+Jerry's Apartment|ELAINE|Jerry, there's got to be a way to find that out.
+Jerry's Apartment|JERRY|There must be some kind of lab that would do that kind of thing.
+Jerry's Apartment|ELAINE|AH! I've got it.
+Jerry's Apartment|KRAMER|What?
+Jerry's Apartment|ELAINE|I'll call the Food and Drug Administration.
+Jerry's Apartment|action|Grabs Jerry, feels him noticing the eight pounds
+Jerry's Apartment|KRAMER|Hey, I'll tell you what, Chubs, if that yogurt has fat in it, I will put myself on an all-yogurt diet for a week.
+Jerry's Apartment|JERRY|Well, let's start the insanity.
+Jerry's Apartment|KRAMER|NNNN-Giddy-up!
+Costanza House|action|Frank is in his chair, George is laying on the couch, Estelle is cleaning some items
+Costanza House|FRANK|Tommy Tune is a very good dancer. (hits George on the head with what seems to be the tvguide) You ever see Tommy Tune dance?
+Costanza House|GEORGE|No.
+Costanza House|ESTELLE|I like tap dancing.
+Costanza House|FRANK|Tap dancing. Anyone can tap dance. It's all in those shoes.
+Costanza House|ESTELLE|Are you kidding? They practice for years, those people.
+Costanza House|GEORGE|What's for supper?
+Costanza House|action|door bell
+Costanza House|ESTELLE|Somebody's at the door.
+Costanza House|action|Estelle walks over to answer the door
+Costanza House|FRANK|Tommy Tune is very tall. That helps. It makes him lankier.
+Costanza House|ESTELLE|(answers the door) Lloyd?
+Costanza House|LLOYD|Hello, Mrs. Costanza.
+Costanza House|ESTELLE|Georgie, Lloyd Braun is here.
+Costanza House|action|George slouches down on the couch in hopes to hide himself
+Costanza House|FRANK|Hey! Lloyd!
+Costanza House|ESTELLE|What are you doing here?
+Costanza House|action|Frank and Lloyd shake
+Costanza House|LLOYD|Well, I was just in the neighborhood visiting my mother so I thought I'd drop by and say, "Hello".
+Costanza House|ESTELLE|Georgie. Come here and say hello.
+Costanza House|FRANK|How are you doing, Lloyd? I hear you're a big advisor for Dinkins now.
+Costanza House|LLOYD|That's right. Hey, George.
+Costanza House|GEORGE|Hey, Lloyd. (Shakes hands with Lloyd) How's it going? (chuckles)
+Costanza House|LLOYD|I uh ran into George yesterday in the city.
+Costanza House|action|George nudges Estelle
+Costanza House|ESTELLE|Ow! (hits George on the forehead) What's the matter with you?
+Costanza House|LLOYD|So, uh, how's the arm, huh?
+Costanza House|GEORGE|Oh, it's good.
+Costanza House|ESTELLE|What's the matter with your arm?
+Costanza House|GEORGE|Nothing.
+Costanza House|LLOYD|Oh, his arm moves like this. (does the nudging motion)
+Costanza House|FRANK|Your arm moves like this? (does the nudging motion)
+Costanza House|GEORGE|Yeah.
+Costanza House|FRANK|(continues to move his arm) I never seen your arm move like this.
+Costanza House|ESTELLE|Me, either.
+Costanza House|GEORGE|Well, it comes and goes.
+Costanza House|FRANK|It's like some kind of aaaaa (snapping his fingers) spasm.
+Costanza House|LLOYD|Ooh! I asked Mr. Dinkins if he knew any good orthopedists, and he said he had the best. (hands George the Doctor's card) So, I made an appointment for you. Dr. Dekter.
+Costanza House|ESTELLE|Mayor Dinkins got an appointment for him?
+Costanza House|FRANK|You mentioned George's name to Mayor Dinkins? You discussed George with the mayor of New York?
+Costanza House|ESTELLE|Dinkins was talking about you. He was discussing you.
+Costanza House|action|George with his hands on his face acting like he is soo excited the Mayor was discussing him
+Costanza House|GEORGE|You know, Lloyd, I-I've been to the doctor (hands George the card) there's really nothing they can do.
+Costanza House|FRANK|(grabbing the card) Hey, Mayor Dinkins set this up for you. You know what kind of a doctor this must be if Dinkins knows him?
+Costanza House|GEORGE|All right. All right! I'll go.
+Costanza House|LLOYD|Well, that's great. (grabs the card back from Frank and hands it to George again) And, uh, I'll be very interested to hear the diagnosis.
+Jerry's Apartment|action|Elaine is on the phone
+Jerry's Apartment|ELAINE|Uh-huh. Okay, well, we're coming down. All right. (hangs up the phone) Okay. I got a place that can analyze it. It's in Brooklyn. We have to drive there.
+Jerry's Apartment|JERRY|And they said they can do it?
+Jerry's Apartment|ELAINE|Yeah, it's forty-five bucks.
+Jerry's Apartment|JERRY|All right. Let's go down to the yogurt store, and we'll get a specimen.
+Jerry's Apartment|ELAINE|Hm-hmm.
+Jerry's Apartment|action|knock on the door; Jerry answers
+Jerry's Apartment|MARYEDITH|Well, I hope you're satisfied.
+Jerry's Apartment|JERRY|What?
+Jerry's Apartment|MARYEDITH|Every word out of my son's mouth now is *beep*(fuck), *beep*(fuck), *beep*(fuck). (Jerry half turns and puts his head done for a second) You know what he said to me five minutes ago? Where's my *beep*(fuck)ing cupcake?
+Jerry's Apartment|JERRY|Gee, I'm really sorry.
+Jerry's Apartment|MARYEDITH|He wants to be like you because you're a comedian. Maybe you could talk to him?
+Jerry's Apartment|JERRY|I'd be happy to.
+Jerry's Apartment|MARYEDITH|Thank you.
+Jerry's Apartment|JERRY|Ah, Mary, we've been eating a lot of your husband's uh yogurt at the yogurt place - does that have any fat in it?
+Jerry's Apartment|MARYEDITH|No *beep*(fuck)ing way!
+Jerry's Apartment|action|Jerry and Elaine look at each other
+Back to the Costanza House|LLOYD|Well, it was very nice seeing you again.
+Back to the Costanza House|ESTELLE|Oh, it was good seeing you.
+Back to the Costanza House|LLOYD|Oh, um, by the way, who was that gorgeous woman I saw you with the other day?
+Back to the Costanza House|GEORGE|Oh, uh, just a friend of mine.
+Back to the Costanza House|ESTELLE|You must mean Elaine. Isn't she adorable?
+Back to the Costanza House|LLOYD|She is. She is. How about giving me her number?
+Back to the Costanza House|GEORGE|Oh, you know, Lloyd, I really don't have it.
+Back to the Costanza House|ESTELLE|She works at Pendant Publishing. Elaine Benes.
+Back to the Costanza House|LLOYD|Oh, great. (nudges George on the chin) Thanks a lot!
+Back to the Costanza House|GEORGE|Yeah!
+Back to the Costanza House|LLOYD|Buh bye.
+Back to the Costanza House|ESTELLE|Bye! (Lloyd leaves) Oh, that Lloyd Braun. He is something, isn't he?
+Yogurt Shop|action|Newman is seen sitting with a bunch of his coworkers
+Yogurt Shop|NEWMAN|Well, I wouldn't hear of it. I said, "Nice try, granny!" And I sent her to the back of the line!
+Yogurt Shop|action|Newman laughing with a bunch of postal employees; Jerry and Elaine walk by him
+Yogurt Shop|JERRY|Hello, Newman.
+Yogurt Shop|NEWMAN|Hello, Jerry. Say, this yogurt is really something, huh? And it's non-fat! I've been waiting for something like this my whole life! And it's finally here!
+Yogurt Shop|OWNER|Hey, Seinfeld. I'd appreciate it if you'd stop using obscenities around my son, huh?
+Yogurt Shop|JERRY|It was an accident. I'm going to talk to him.
+Yogurt Shop|ELAINE|I want a small, plain vanilla in a cup to go. That's non-fat, right?
+Yogurt Shop|OWNER|That's right.
+Yogurt Shop|ELAINE|'Cause I'm on a special diet, and the doctor said I can't have any fat.
+Yogurt Shop|OWNER|Yeah, well, there is no fat.
+Yogurt Shop|NEWMAN|Hey, another round of strawberry for me and my friends.
+Jerry's Car|ELAINE|Hurry, Jerry! Hurry!
+Jerry's Car|JERRY|How's it doing?
+Jerry's Car|ELAINE|Not so good.
+Jerry's Car|KRAMER|Well, you can't have this tested now. It's melting.
+Jerry's Car|JERRY|So what.
+Jerry's Car|KRAMER|It changes the molecules.
+Jerry's Car|JERRY|Oh, you don't know what you're talking about.
+Jerry's Car|KRAMER|Hey, fatso! I got a 90 in biology.
+Jerry's Car|JERRY|You call me fatso one more time; you're going to be walking back.
+The Lab|ELAINE|Um, hi! Hi. I called earlier about getting the yogurt tested.
+The Lab|ELAINE|Uh, does it matter if it's melted?
+The Lab|action|Kramer notices a female lab tech and goes over to her
+The Lab|ELAINE|That's okay.
+The Lab|KRAMER|Hello, there.
+The Lab|CHERYL|Hello!
+The Lab|KRAMER|Ooh! Test tubes. Cool!
+The Lab|JERRY|What do you got there?
+The Lab|JERRY|Oh.
+The Lab|ELAINE|Okay, I'm done.
+The Lab|CHERYL|It was really nice meeting you.
+The Lab|KRAMER|Well, the pleasure's all mine.
+Jerry's Car|JERRY|You can't take that chemist out.
+Jerry's Car|KRAMER|Why not?
+Jerry's Car|JERRY|Because she's like the jury. She's going to be sequestered.
+Jerry's Car|KRAMER|I'm not taking her out just to influence the results.
+Jerry's Car|JERRY|Well, I think the whole thing stinks.
+Jerry's Car|ELAINE|It smells. Smells bad. Smells really bad.
+Jerry's Car|JERRY|That's enough.
+Jerry's Car|ELAINE|What?
+Jerry's Car|JERRY|With the smelling.
+Jerry's Apartment|GEORGE|So, he made an appointment for me to see Dinkins' doctor. He's just trying to humiliate me.
+Jerry's Apartment|JERRY|Uh-huh.
+Jerry's Apartment|GEORGE|And I have to go. If I don't go, he'll know I'm lying.
+Jerry's Apartment|JERRY|Well, so, what are you going to do? Sit in the doctor's office doing this? (moves his arm) He's gonna think you're a mental patient.
+Jerry's Apartment|GEORGE|I don't care. Look, Lloyd doesn't know what he's up against. This is nothing to me. (moving his arm) My whole life is a lie.
+Jerry's Apartment|action|Elaine enters
+Jerry's Apartment|ELAINE|Hey!
+Jerry's Apartment|GEORGE|Hey
+Jerry's Apartment|JERRY|Hey.
+Jerry's Apartment|ELAINE|So, guess who called me.
+Jerry's Apartment|GEORGE|Oh, don't tell me. Lloyd?
+Jerry's Apartment|ELAINE|We're going out tomorrow night.
+Jerry's Apartment|GEORGE|Oh, look, he's going to ask you about my arm. So, just tell him I banged it against a desk. And it's been moving involuntarily ever since.
+Jerry's Apartment|ELAINE|I can't say that.
+Jerry's Apartment|GEORGE|Why not?
+Jerry's Apartment|ELAINE|What if I like him? I'm going to start out lying to this guy?
+Jerry's Apartment|GEORGE|So, you're taking his side?
+Jerry's Apartment|ELAINE|No. But what if we get married or something? We'll always have that between us.
+Jerry's Apartment|GEORGE|Already you're marrying this guy?
+Jerry's Apartment|ELAINE|You never know.
+Jerry's Apartment|GEORGE|All right, believe me, you're not going to marry him.
+Jerry's Apartment|ELAINE|All right, well, then what if we become a couple, George? Every time we see you you're going to be walking around going like this? (moving her arm) Even you can't keep that up.
+Jerry's Apartment|JERRY|No, I believe he can.
+Jerry's Apartment|action|knock at the door; Jerry answers it
+Jerry's Apartment|MARYEDITH|Hi!
+Jerry's Apartment|JERRY|Hi!
+Jerry's Apartment|MARYEDITH|You know Jerry.
+Jerry's Apartment|MATTHEW|Of course, he's the funny *beep*(fuck).
+Jerry's Apartment|MARYEDITH|See!
+Jerry's Apartment|JERRY|Listen, Matthew, I-I want to explain something to you. Now, cursing is not something that most comedians do.
+Jerry's Apartment|action|Elaine and George turn and look at Jerry from behind the counter
+Jerry's Apartment|MATTHEW|You did it.
+Jerry's Apartment|JERRY|That's true. But it was an accident. And I haven't done it since. And I would never do it again. And if you continue cursing, you'll never become a comedian like me when you grow up. (phone rings) Excuse me one second.
+Jerry's Apartment|action|Jerry looks toward Elaine and George who give him the 'Yea sure" look
+Jerry's Apartment|ELAINE|You know, Lloyd advises Dinkins on everything he does.
+Jerry's Apartment|GEORGE|Yeah, yeah. Big advisor.
+Jerry's Apartment|ELAINE|He tells him which soap to use.
+Jerry's Apartment|action|Matthew is seen pulling the tape out of Jerry's recording of his new material mentioned earlier in the show; Jerry sitting by the window on the phone sees this
+Jerry's Apartment|JERRY|(quickly moves over toward Matthew) What the *beep*(fuck) are you doing? You little piece of *beep*(shit)!
+Jerry's Apartment|action|Elaine and George are shocked; George throws stuff into the air and Elaine pulls a large amount of paper towels off a roll
+Jerry's Apartment|action|The Lab
+Jerry's Apartment|CHERYL|Shh! We don't want to disturb the security guard.
+Jerry's Apartment|KRAMER|Where's the lights. Whoa!
+Jerry's Apartment|CHERYL|How about this?
+Jerry's Apartment|action|Cheryl lights a bunsen burner
+Jerry's Apartment|KRAMER|Yeah! Bunsen burner. (runs his fingers through the flame) oo ya ya.
+Jerry's Apartment|CHERYL|Oo.
+Jerry's Apartment|KRAMER|Yaow.
+Jerry's Apartment|CHERYL|Ha hea.
+Jerry's Apartment|KRAMER|You want a taste? It's Cappuccino.
+Jerry's Apartment|CHERYL|It's delicious.
+Jerry's Apartment|KRAMER|I hear you.
+Jerry's Apartment|CHERYL|Non-fat?
+Jerry's Apartment|KRAMER|Well, you tell me. Is the verdict in yet?
+Jerry's Apartment|CHERYL|No.
+Jerry's Apartment|KRAMER|Well, this is in case there's a tie!
+Yogurt Shop|ELAINE|Well, as far as I know, he bumped his arm into a door and it's kind of got this in(pauses)voluntarily movement. Some sort of a (clears her throat) spasm. So, anyway, you're a..you're a big advisor to Dinkins, huh?
+Yogurt Shop|LLOYD|Yeah, yeah. It's coming right down to the wire.
+Yogurt Shop|ELAINE|Wow! You know what I would do if I was running for mayor. One of my campaign themes would be that everybody should wear name tags all the time to make the city friendlier.
+Yogurt Shop|LLOYD|Name tags, hmm?
+Yogurt Shop|ELAINE|Well, everybody would know everybody. It would be like a small town.
+Yogurt Shop|LLOYD|Maybe I'll mention that to him.
+Yogurt Shop|ELAINE|Really? Wow.
+Yogurt Shop|LLOYD|You sure you don't want any yogurt?
+Yogurt Shop|ELAINE|No, I'm watching my weight.
+Yogurt Shop|LLOYD|Well, it's non-fat.
+Yogurt Shop|ELAINE|Yeah, so they say.
+Yogurt Shop|LLOYD|Well I'm done, should we go?
+Yogurt Shop|ELAINE|Yeah. Okay.
+Yogurt Shop|action|They walk out and when Lloyd grabs Elaine he notices she is a little bit pudgy
+Jerry's Apartment|action|Elaine has her head down on the counter, Jerry is measuring some more food
+Jerry's Apartment|ELAINE|Three days and he hasn't called me, and you know why? Because he thinks I'm too fat.
+Jerry's Apartment|JERRY|(surprised) He said that?
+Jerry's Apartment|ELAINE|(stands up straight) No, but I saw the look on his face when he put his arm around me. And then we went to his apartment, and I sat on one of his chairs and it broke. And he says, "Boy, you're a lot of woman!"
+Jerry's Apartment|action|Kramer enters whistling
+Jerry's Apartment|KRAMER|Hey! So, hear anything on the yogurt?
+Jerry's Apartment|JERRY|No, but I expect to hear anytime.
+Jerry's Apartment|KRAMER|Well, I wouldn't get your hopes up.
+Jerry's Apartment|JERRY|Why do you say that?
+Jerry's Apartment|KRAMER|No reason. Oh, did you hear about that Dinkins?
+Jerry's Apartment|ELAINE|No. What about him?
+Jerry's Apartment|KRAMER|You didn't hear?
+Jerry's Apartment|ELAINE|Un-huh.
+Jerry's Apartment|KRAMER|He's proposing a plan where everyone in the city should wear name tags.
+Jerry's Apartment|action|Elaine is silently full of joy
+Jerry's Apartment|JERRY|Name tags?
+Jerry's Apartment|KRAMER|Yeah! So people can go around saying "hello" to one another.
+Jerry's Apartment|JERRY|Oh, I see. So you can go, "Hey, you know who I saw wilding today? Herb!"
+Jerry's Apartment|KRAMER|He's become the laughing stock! You know The Times has already stated it could cost him the election. (laughing) Name tags!
+Jerry's Apartment|action|Phone rings
+Jerry's Apartment|JERRY|(on the phone) Hello? Yes. Uh-huh. Ya. Oh, really? Okay, thank you very much. Bye-bye. (hangs up the phone) Well, the yogurt verdict is in. (Kramer looks at Jerry with his arms out) Fat!
+Jerry's Apartment|KRAMER|Yeow!
+Doctor's Office|action|George is in the office with the doctor
+Doctor's Office|GEORGE|The next morning, I woke up, and it was going like this. (moves his arm slowly) I can control it if I really concentrate. But otherwise, (arm moves) oh.
+Doctor's Office|DOCTOR|Uh huh. Yes, well, I'm going to have to be perfectly honest with you.
+Doctor's Office|GEORGE|Please, doctor.
+Doctor's Office|DOCTOR|I've examined you.
+Doctor's Office|GEORGE|Yes.
+Doctor's Office|DOCTOR|I've looked at your X-rays.
+Doctor's Office|GEORGE|Uh-huh.
+Doctor's Office|DOCTOR|And I find that there's absolutely nothing wrong with you.
+Doctor's Office|GEORGE|Hmm. Really? Nothing?
+Doctor's Office|DOCTOR|Nothing, that would indicate involuntary spasms.
+Doctor's Office|GEORGE|Well, it's kind of a mystery, isn't it?
+Doctor's Office|DOCTOR|No, not really.
+Doctor's Office|GEORGE|How so?
+Doctor's Office|DOCTOR|May I suggest the possibility that you're faking?
+Doctor's Office|GEORGE|Faking? What makes you think that I have time to see doctors, take X-rays, make appointments, when there's absolutely nothing wrong with me? What kind of a person would do a thing like that?
+Doctor's Office|DOCTOR|I don't know what kind of a person would do something like that. Obviously a very sick person. A very immature person. A person who has no regard for wasting other people's valuable time. Good-bye.
+Doctor's Office|GEORGE|Now, see here, doctor.
+Doctor's Office|DOCTOR|I said, good-bye.
+Doctor's Office|GEORGE|Fine. (hits his arm on the desk) Ow!
+Jerry's Apartment|ELAINE|Jerry, come on, look. Let's go over to that yogurt store.
+Jerry's Apartment|JERRY|Look, Elaine, I've been thinking about this. This has got to be a massive conspiracy. Who knows how deep it goes. Hey, look, wait a second, (looking at the TV) Kramer, turn that up.
+Jerry's Apartment|KRAMER|Huh, Okay.
+Jerry's Apartment|NEWS|Rudy Giuliani, who underwent a physical last week, received some startling news today, when his cholesterol count turned out to be a whopping 375. What effect this will have on the minds of the voters remains to be seen. In another development, Mayor Dinkins has fired his top advisor, Lloyd Braun, who is believed to be responsible for the name tag fiasco. We now take you to Giuliani headquarters where Rudy Giuliani is about to make a statement.
+Jerry's Apartment|GIULIANI|It's hard to understand. Because I've been doing everything I normally do. I've been watching my diet very carefully. I exercise regularly. My only indulgence, I guess, would be that I eat a lot of frozen yogurt. But it's non-fat.
+Jerry's Apartment|JERRY|Non-fat yogurt? Oh, my god. They got Giuliani and he doesn't even know it.
+Jerry's Apartment|ELAINE|(pointing to Kramer) Now look what you've done.
+Jerry's Apartment|JERRY|Well, we've got to do something. (grabs his phone) I'm calling Giuliani's headquarters.
+Costanza House|action|Frank is sitting on his chair; Estelle is on the couch; George is standing in between them
+Costanza House|GEORGE|Name tags! Name tags! What kind of an idiot thinks anybody would be interested in an idea like that.
+Costanza House|FRANK|I don't think it's so bad. People should wear name tags. Everyone would be a lot friendlier. "Hello, Sam." "How are you doing, Joe?" (George's arm moves and hits the lamp) Hey, your arm. It moved again. I thought you said it went away.
+Costanza House|GEORGE|I banged it on the desk in the doctor's office. An (worriedly rubbing his arm) aaaa . . .
+Costanza House|ESTELLE|Be quiet. They're starting the press conference.
+Costanza House|GIULIANI|My campaign staff has received some very disturbing information regarding the fat content in yogurt that's being sold throughout the city. I pledge to you now, that if I'm elected mayor, as my first order of business I'll appoint a special task force to investigate this matter. I promise you, my fellow New Yorkers, that Mayor Giuliani will do everything possible to cleanse this city of this falsified non-fat yogurt.
+Yogurt Shop|action|Jerry, George, Elaine and Kramer sitting at a table in the Yogurt Shop
+Yogurt Shop|JERRY|The old yogurt was so much better. Oh, this is terrible.
+Yogurt Shop|GEORGE|Phew!
+Yogurt Shop|ELAINE|Oh, it stinks.
+Yogurt Shop|KRAMER|Mine, too. I got one more day.
+Yogurt Shop|JERRY|I can't eat this.
+Yogurt Shop|NEWMAN|(from the corner of the Yogurt shop) Hey, Jerry. Thanks a lot. I hope you're happy.
+Yogurt Shop|JERRY|It had fat in it, it's not good for you.
+Yogurt Shop|NEWMAN|I don't care. It was good. I was enjoying it. Had to interfere. Couldn't leave well enough alone. Well, I will get even with you for this. You can count on it.
+Yogurt Shop|ELAINE|Hey, you guys, listen to this. Listen to this. (reading from the newspaper) Apparently some blood spilled into Mr. Giuliani's test tube causing his cholesterol count to be 150 points higher than was initially reported. Ironically, the mishap by bringing the non-fat yogurt scandal to the attention of the public, probably clinched the election for the Republican. It was the one issue which seemed to electrify the voters and swept Giuliani into office.
+Yogurt Shop|JERRY|So, in effect, the yogurt won him the election.
+Yogurt Shop|ELAINE|I wonder what actually happened in that lab.
+Yogurt Shop|KRAMER|Yeah, me, too.
+Yogurt Shop|NEWMAN|I can't eat this.
+Yogurt Shop|action|Newman exits in disgust along with another customer; Matthew and his mom come over
+Yogurt Shop|MATTHEW|(hits Jerry to get his attention) Thanks for ruining my daddy's business, you fat *beep*(fuck).

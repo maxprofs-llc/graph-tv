@@ -1,0 +1,369 @@
+The Improv Bar|GEORGE|What did they do for toilet paper in the civil war?
+The Improv Bar|JERRY|What?
+The Improv Bar|GEORGE|I wonder what toilet paper was loike in the 1860's. Did they carry it in rolls in their duffle bags?
+The Improv Bar|JERRY|Everything with you comes down to toilet paper.
+The Improv Bar|GEORGE|What?
+The Improv Bar|JERRY|That's always the first question with you. Why is that always your focus?
+The Improv Bar|GEORGE|All right, so what did they do?
+The Improv Bar|JERRY|I don't know. Maybe they gave out fig leaf clumps to all the soldiers.
+The Improv Bar|GEORGE|Well I think it would be nice if there was some kind of historical record of it.
+The Improv Bar|JERRY|Maybe they should have a toilet paper museum. Would you like that? So we could see all the toilet paper advancements down through the ages. Toilet paper of the Crusades, the development of the perforation, the first six-pack . . .
+The Improv Bar|STU|Excuse me, Jerry? I'm Stu Chermak. I'm with NBC.
+The Improv Bar|JERRY|Hi.
+The Improv Bar|STU|Could we speak for a few moments?
+The Improv Bar|JERRY|Sure.
+The Improv Bar|JAY|Hi, Jay Crespi.
+The Improv Bar|JERRY|Hello.
+The Improv Bar|GEORGE|Uh, C-R-E-S-P-I?
+The Improv Bar|JAY|That's right.
+The Improv Bar|GEORGE|I'm unbelievable at spelling last names. Give me a last name.
+The Improv Bar|JAY|Mm, I'm not-
+The Improv Bar|JERRY|George-
+The Improv Bar|GEORGE|(backing off) Huh? All right, fine.
+The Improv Bar|STU|First of all, that was a terrific show.
+The Improv Bar|JERRY|Oh thank you very much.
+The Improv Bar|STU|And basically, I just wanted to let you know that we've been discussing you at some of our meetings and we'd be very interested in doing something.
+The Improv Bar|JERRY|Really? Wow.
+The Improv Bar|STU|So, if you have any idea for like a TV show for yourself, well, we'd just love to talk about it.
+The Improv Bar|JERRY|I'd be very interested in something like that.
+The Improv Bar|STU|Well, here, uh, why don't you give us a call and maybe we can develop a series.
+The Improv Bar|action|They start to exit.
+The Improv Bar|JERRY|Okay. Great. Thanks.
+The Improv Bar|STU|It was very nice meeting you.
+The Improv Bar|JERRY|Thank you.
+The Improv Bar|JAY|Nice meeting you.
+The Improv Bar|JERRY|Nice meeting you.
+The Improv Bar|action|George returns
+The Improv Bar|GEORGE|What was that all about?
+The Improv Bar|JERRY|They said they were interested in me.
+The Improv Bar|GEORGE|For what?
+The Improv Bar|JERRY|You know, a TV show.
+The Improv Bar|GEORGE|Your own show?
+The Improv Bar|JERRY|Yeah, I guess so.
+The Improv Bar|GEORGE|They want you to do a TV show?
+The Improv Bar|JERRY|Well, they want me to come up with an idea. I mean, I don't have any ideas.
+The Improv Bar|GEORGE|Come on, how hard is that? Look at all the junk that's on TV. You want an idea? Here's an idea. You coach gymnastics team in high school. And you're married. And your son's not interested in gymnastics and you're pushing him into gymnastics.
+The Improv Bar|JERRY|Why should I care if my son's into gymnastics?
+The Improv Bar|GEORGE|Because you're a gymnastics teacher. It's only natural.
+The Improv Bar|JERRY|But gymnastics is not for everybody.
+The Improv Bar|GEORGE|I know, but he's your son.
+The Improv Bar|JERRY|So what?
+The Improv Bar|GEORGE|All right, forget that idea, it's not for you....Okay, okay, I got it. You run an antique store.
+The Improv Bar|JERRY|Yeah and...?
+The Improv Bar|GEORGE|And people come in the store and you get involved in their lives.
+The Improv Bar|JERRY|What person who runs an antique store gets involved in people's lives?
+The Improv Bar|GEORGE|Why not?
+The Improv Bar|JERRY|So someone comes in to buy an old lamp and all of a sudden I'm getting them out of a jam? I could see if I was a pharmacist because a pharmacist knows what's wrong with everybody that comes in.
+The Improv Bar|GEORGE|I know, but antiques are very popular right now.
+The Improv Bar|JERRY|No they're not, they used to be.
+The Improv Bar|GEORGE|Oh yeah, like you know.
+The Improv Bar|JERRY|Oh like you do.
+Jerry's Apartment|KRAMER|...And you're the manager of the circus.
+Jerry's Apartment|JERRY|A circus?
+Jerry's Apartment|KRAMER|Come on, this is a great idea. Look at the characters. You've got all these freaks on the show. A woman with a moustache? I mean, who wouldn't tune in to see a women with a moustache? You've for the tallest man in the world; a guy who's just a head.
+Jerry's Apartment|JERRY|I don't think so.
+Jerry's Apartment|KRAMER|Look Jerry, the show isn't about the circus, it's about watching freaks.
+Jerry's Apartment|JERRY|I don't think the network will go for it.
+Jerry's Apartment|KRAMER|Why not?
+Jerry's Apartment|JERRY|Look, I'm not pitching a show about freaks.
+Jerry's Apartment|KRAMER|Oh come on Jerry, you're wrong. People they want to watch freaks. This is a "can't miss."
+Jerry's Apartment|JERRY|Hello Newman.
+Jerry's Apartment|NEWMAN|Come on lets go. I got the helmet. Lets get the radar detector.
+Jerry's Apartment|KRAMER|All right I'll be back in a second. You guys coming to my party? (exits)
+Jerry's Apartment|JERRY|What's this all about?
+Jerry's Apartment|NEWMAN|We're making a trade. I'm giving him my motorcycle helmet - he's giving me his radar detector.
+Jerry's Apartment|JERRY|I didn't know you had a motorctcle.
+Jerry's Apartment|NEWMAN|Well my girlfriend had one.
+Jerry's Apartment|JERRY|You have a girlfriend?
+Jerry's Apartment|NEWMAN|I HAD a girlfriend and she was pretty wild.
+Jerry's Apartment|JERRY|I never remember you with a girl.
+Jerry's Apartment|NEWMAN|Nevertheless, ...
+Jerry's Apartment|JERRY|This is a pretty bad deal for Kramer. You know a radar detector is worth much more than that helmet. I think you're cheating him.
+Jerry's Apartment|NEWMAN|Don't say anything.
+Jerry's Apartment|JERRY|All right.
+Jerry's Apartment|action|Kramer enters
+Jerry's Apartment|JERRY|You know you're getting gypped over here.
+Jerry's Apartment|KRAMER|Really, Ah,
+Jerry's Apartment|NEWMAN|We had a deal. Are you reneging out of the deal? Are you reneging? That's a renege.
+Jerry's Apartment|KRAMER|Oh, stop saying 'reneging".
+Jerry's Apartment|NEWMAN|Well you're reneging.
+Jerry's Apartment|KRAMER|I, Okay, okay. I'm not reneging.
+Jerry's Apartment|action|they try to exchange items but won't let go
+Jerry's Apartment|NEWMAN|All right give it to me. let go ...
+Jerry's Apartment|KRAMER|You let go - come on ...(they fight over the items)
+Jerry's Apartment|JERRY|Gimme that - just gimme that. Here. Idiots!
+Jerry's Apartment|NEWMAN|Thanks buddy. So long he he ...(exits)
+Jerry's Apartment|JERRY|Does that thing work?
+Jerry's Apartment|KRAMER|Nah.
+At Monks|action|Jerry and George enter.
+At Monks|JERRY|... I just got a postcard from Elaine?
+At Monks|GEORGE|Really?
+At Monks|JERRY|Yeah, they're in London now. They'll be back in a few weeks.
+At Monks|GEORGE|I can't believe she got involved with a shrink.
+At Monks|GEORGE|So, what's happening with the TV show? You come up with anything?
+At Monks|JERRY|No, nothing.
+At Monks|GEORGE|Why don't they have salsa on the table?
+At Monks|JERRY|What do you need salsa for?
+At Monks|GEORGE|Salsa is now the number one condiment in America.
+At Monks|JERRY|You know why? Because people like to say "salsa." "Excuse me, do you have salsa?" "We need more salsa." "Where is the salsa? No salsa?"
+At Monks|GEORGE|You know it must be impossible for a Spanish person to order seltzer and not get salsa. (Angry) "I wanted seltzer, not salsa."
+At Monks|JERRY|"Don't you know the difference between seltzer and salsa?? You have the seltezer after the salsa!"
+At Monks|GEORGE|See, this should be a show. This is the show.
+At Monks|JERRY|What?
+At Monks|GEORGE|This. Just talking.
+At Monks|JERRY|(dismissing) Yeah, right.
+At Monks|GEORGE|I'm really serious. I think that's a good idea.
+At Monks|JERRY|Just talking? Well what's the show about?
+At Monks|GEORGE|It's about nothing.
+At Monks|JERRY|No story?
+At Monks|GEORGE|No forget the story.
+At Monks|JERRY|You've got to have a story.
+At Monks|GEORGE|Who says you gotta have a story? Remember when we were waiting for, for that table in that Chinese restaurant that time? That could be a TV show.
+At Monks|JERRY|And who is on the show? Who are the characters?
+At Monks|GEORGE|I could be a character.
+At Monks|JERRY|You?
+At Monks|GEORGE|Yeah. You could base a character on me.
+At Monks|JERRY|So, on the show, there's a character named George Costanza?
+At Monks|GEORGE|Yeah. There's something wrong with that? I'm a character. People are always saying to me, "You know you're a quite a character."
+At Monks|JERRY|And who else is on the show?
+At Monks|GEORGE|Elaine could be a character. Kramer..
+At Monks|JERRY|Now he's a character. (Pause) So everybody I know is a character on the show.
+At Monks|GEORGE|Right.
+At Monks|JERRY|And it's about nothing?
+At Monks|GEORGE|Absolutely nothing.
+At Monks|JERRY|So you're saying, I go in to NBC, and tell them I got this idea for a show about nothing.
+At Monks|GEORGE|We go into NBC.
+At Monks|JERRY|"We"? Since when are you a writer?
+At Monks|GEORGE|(Scoffs) Writer. We're talking about a sit-com.
+At Monks|JERRY|You want to go with me to NBC?
+At Monks|GEORGE|Yeah. I think we really go something here.
+At Monks|JERRY|What do we got?
+At Monks|GEORGE|An idea.
+At Monks|JERRY|What idea?
+At Monks|GEORGE|An idea for the show.
+At Monks|JERRY|I still don't know what the idea is.
+At Monks|GEORGE|It's about nothing.
+At Monks|JERRY|Right.
+At Monks|GEORGE|Everybody's doing something, we'll do nothing.
+At Monks|JERRY|So, we go into NBC, we tell them we've got an idea for a show about nothing.
+At Monks|GEORGE|Exactly.
+At Monks|JERRY|They say, "What's your show about?" I say, "Nothing."
+At Monks|GEORGE|There you go.
+At Monks|action|A moment passes
+At Monks|JERRY|(Nodding) I think you may have something there.
+Jerry's apartment|action|Jerry's explaining George's idea to Kramer
+Jerry's apartment|JERRY|So, the show would be about my real life. And one of the characters would be based on you.
+Jerry's apartment|KRAMER|(Thinks) No, I don't think so.
+Jerry's apartment|JERRY|What do you mean you don't think so?
+Jerry's apartment|KRAMER|I don't like it.
+Jerry's apartment|JERRY|I don't understand. What don't you like about it?
+Jerry's apartment|KRAMER|I don't like the idea of a character based on me.
+Jerry's apartment|JERRY|Why not?
+Jerry's apartment|KRAMER|well it just doesn't sit well.
+Jerry's apartment|JERRY|You're my neighbor. There's got to be a character based on you.
+Jerry's apartment|KRAMER|That's your problem, buddy.
+Jerry's apartment|JERRY|I don't understand what the big deal is.
+Jerry's apartment|KRAMER|Hey, I'll tell you what - you can do it on one condition.
+Jerry's apartment|JERRY|Whatever you want.
+Jerry's apartment|KRAMER|I get to play Kramer.
+Jerry's apartment|JERRY|You can't play Kramer.
+Jerry's apartment|KRAMER|I am Kramer.
+Jerry's apartment|JERRY|But you can't act.
+Jerry's apartment|KRAMER|Phew!
+Jerry's apartment|action|Newman enters
+Jerry's apartment|JERRY|Okay, fine. We'll use Newman.
+Jerry's apartment|KRAMER|Newman?
+Jerry's apartment|JERRY|Nothin' What do you want?
+Jerry's apartment|KRAMER|Yeah. That's strange.
+Jerry's apartment|KRAMER|That's queer uh?
+Jerry's apartment|NEWMAN|I WANT MY HELMET BACK! GIVE ME BACK MY HELMET AND YOU'RE GOING TO PAY FOR THAT TICKET.
+Jerry's apartment|KRAMER|Yeah, you better think again Mojumbo.
+Jerry's apartment|JERRY|Buyer beware.
+Jerry's apartment|KRAMER|No. We had a deal. There are no guarantees in life.
+Jerry's apartment|JERRY|Karma Kramer?
+NBC reception area|action|Jerry and George are waiting
+NBC reception area|JERRY|(To himself) Salsa, seltzer. Hey, excuse me, you got any salsa? No, not selzer, salsa. (George doesn't react) What's the matter?
+NBC reception area|GEORGE|(Nervous) Nothing.
+NBC reception area|JERRY|You sure? You look a little pale.
+NBC reception area|GEORGE|No, I'm fine. I'm good. I'm very good.
+NBC reception area|JERRY|What, are you nervous?
+NBC reception area|GEORGE|No, not nervous. I'm good, very good. (A beat, then he snaps) I can't do this! Can't do this!
+NBC reception area|JERRY|What?
+NBC reception area|GEORGE|I can't do this! I can't do it. I have tried. I'm here. It's impossible.
+NBC reception area|JERRY|This was your idea!
+NBC reception area|GEORGE|What idea? I just said something. I didn't know you were going to listen to me.
+NBC reception area|JERRY|Dont' worry about it. They're just TV executives.
+NBC reception area|GEORGE|They're men with jobs, Jerry! They wear suits and ties. They're married, they have secretaries.
+NBC reception area|JERRY|I told you not to come.
+NBC reception area|GEORGE|I need some water. I gotta get some water.
+NBC reception area|JERRY|They'll give us water in there.
+NBC reception area|GEORGE|Really? That's pretty good.
+NBC reception area|action|Jerry looks into hallway
+NBC reception area|JERRY|Oh God, it's Joe Devola.
+NBC reception area|GEORGE|Who?
+NBC reception area|JERRY|This guy's a writer, he's a total nut. I think he goes to the same shrink as Elaine.
+NBC reception area|JERRY|Oh God he saw me.
+NBC reception area|DEVOLA|Hello Jerry.
+NBC reception area|JERRY|Hey Joe! HOW YOU DOING?
+NBC reception area|DEVOLA|You're under no obligation to shake my hand.
+NBC reception area|JERRY|Oh, no, Just a custom. Uh, THAT'S MY FRIEND GEORGE. YOU LOOK GOOD.
+NBC reception area|DEVOLA|Why shouldn't I look good?
+NBC reception area|JERRY|Oh, no reason. You're into karate right?
+NBC reception area|DEVOLA|You want to hit me?
+NBC reception area|JERRY|What are you doing here?
+NBC reception area|DEVOLA|I dreopped a script off.
+NBC reception area|JERRY|AH, GOOD FOR YOU.
+NBC reception area|action|they stare at each other
+NBC reception area|JERRY|Well, ...
+NBC reception area|DEVOLA|You don't have to say anything.
+NBC reception area|JERRY|No, Uh, hey I guess I'll see you Sunday night.
+NBC reception area|DEVOLA|Why?
+NBC reception area|JERRY|Kramer's party.
+NBC reception area|DEVOLA|Kramer's ... having ... a ... party?
+NBC reception area|JERRY|No, no, he's not having a party. He's doing something. I don't know what it is. It's nothing. He's not doing anything.
+NBC reception area|DEVOLA|Gee, I thought Kramer and I were very close friends.
+NBC reception area|JERRY|No, I'm sure you are. I'm sure you are very close friends. Very close.
+NBC reception area|action|Crazy Joe leaves
+NBC reception area|JERRY|Give my best to Hinckley.
+NBC reception area|GEORGE|What was that?
+NBC reception area|JERRY|I can't believe what I just did. I didn't know kramer didn't invite him. I better call Kramer, ...
+NBC reception area|action|before he can dial
+NBC reception area|RECEPTIONIST|They're ready for you.
+NBC reception area|GEORGE|Okay, okay. Look, you do all the talking, okay?
+NBC reception area|JERRY|Relax. Who are they?
+NBC reception area|GEORGE|Yeah, they're not better than me.
+NBC reception area|JERRY|Course not.
+NBC reception area|GEORGE|Who are they?
+NBC reception area|JERRY|They're nobody.
+NBC reception area|GEORGE|What about me?
+NBC reception area|JERRY|What about you?
+NBC reception area|GEORGE|Why them? Why not me?
+NBC reception area|JERRY|Why not you?
+NBC reception area|GEORGE|I'm as good as them.
+NBC reception area|JERRY|Better.
+NBC reception area|GEORGE|You really think so?
+NBC reception area|JERRY|No.
+NBC reception area|action|The door opens, and, from Jerry and George's point of view, four executives stand up
+NBC president's office|action|Stu Chermak, Susan Ross, Jay Crespi, and Russell Dalrymple, the head of the network, are all talking with Jerry and George
+NBC president's office|STU|(To Jerry, laughing about one of his bits) The bit, the bit I really liked what were the parakeet flew into the mirror. Now that's funny.
+NBC president's office|GEORGE|The parakeet in the mirror. That's a good one, Stu.
+NBC president's office|JERRY|Yeah, it's one of my favorites.
+NBC president's office|RUSSELL|What about you, George? Have you written anything we might know?
+NBC president's office|GEORGE|(Quickly making it up) Well, possibly. I wrote an off-Broadway show, "La Cocina." ..Actually, it was off-off-Broadway. It was a comedy about a Mexican chef.
+NBC president's office|JERRY|Oh, it was very funny. There was one great scene with the chef - what was his name?
+NBC president's office|GEORGE|Pepe.
+NBC president's office|JERRY|Oh, Pepe. Yeah, Pepe. And, uh, he was making tamales.
+NBC president's office|SUSAN|Oh, he actually cooked on the stage?
+NBC president's office|GEORGE|No, no, he mimed it. That's what was so funny about it.
+NBC president's office|RUSSELL|So, what have you two come up with?
+NBC president's office|JERRY|Well, we've thought about this in a variety of ways. But the basic idea is I will play myself-
+NBC president's office|GEORGE|(Interrupting) May I?
+NBC president's office|JERRY|Go ahead.
+NBC president's office|GEORGE|I think I can sum up the show for you with one word: NOTHING.
+NBC president's office|RUSSELL|Nothing?
+NBC president's office|GEORGE|(Smiling) Nothing.
+NBC president's office|RUSSELL|(Unimpressed) What does that mean?
+NBC president's office|GEORGE|The show is about nothing.
+NBC president's office|JERRY|(To George) Well, it's not about nothing.
+NBC president's office|GEORGE|(To Jerry) No, it's about nothing.
+NBC president's office|JERRY|Well, maybe in philosophy. But, even nothing is something.
+NBC president's office|action|Jerry and George glare at each other. The receptionist enters
+NBC president's office|RECEPTIONIST|Mr. Dalrymple, your niece is on the phone.
+NBC president's office|RUSSELL|I'll call back.
+NBC president's office|action|Receptionist leaves
+NBC president's office|RUSSELL|(Obviously dislikes George) Not even close.
+NBC president's office|GEORGE|Is it with a "y"?
+NBC president's office|RUSSELL|No.
+NBC president's office|SUSAN|What's the premise?
+NBC president's office|JERRY|..Well, as I was saying, I would play myself, and, as a comedian, living in New York, I have a friend, a neighbor, and an ex-girlfriend, which is all true.
+NBC president's office|GEORGE|Yeah, but nothing happens on the show. You see, it's just like life. You know, you eat, you go shopping, you read.. You eat, you read, You go shopping.
+NBC president's office|RUSSELL|You read? You read on the show?
+NBC president's office|JERRY|Well, I don't know about the reading.. We didn't discuss the reading.
+NBC president's office|RUSSELL|All right, tell me, tell me about the stories. What kind of stories?
+NBC president's office|GEORGE|Oh, no. No stories.
+NBC president's office|RUSSELL|No stories? So, what is it?
+NBC president's office|GEORGE|(Showing an example) What'd you do today?
+NBC president's office|RUSSELL|I got up and came to work.
+NBC president's office|GEORGE|There's a show. That's a show.
+NBC president's office|RUSSELL|(Confused) How is that a show?
+NBC president's office|JERRY|Well, uh, maybe something happens on the way to work.
+NBC president's office|GEORGE|No, no, no. Nothing happens.
+NBC president's office|JERRY|Well, something happens.
+NBC president's office|RUSSELL|Well, why am I watching it?
+NBC president's office|GEORGE|Because it's on TV.
+NBC president's office|RUSSELL|(Threatening) Not yet.
+NBC president's office|GEORGE|Okay, uh, look, if you want to just keep on doing the same old thing, then maybe this idea is not for you. I, for one, am not going to compromise my artistic integrity. And I'll tell you something else, this is the show and we're not going to change it. (To Jerry) Right?
+NBC president's office|action|A moment passes
+NBC president's office|JERRY|(To Russell) How about this: I manage a circus..
+Monks|JERRY|I don't even want to talk about it anymore. What were you thinking? What was going on in your mind? Artistic integrity? Where, where did you come up with that? You're not artistic and you have no integrity. You know you really need some help. A regular psychiatrist couldn't even help you. You need to go to like Vienna or something. You know what I mean? You need to get involved at the University level. Like where Freud studied and have all those people looking at you and checking up on you. That's the kind of help you need. Not the once a week for eighty bucks. No. You need a team. A team of psychiatrists working round the clock thinking about you, having conferences, observing you, like the way they did with the Elephant Man. That's what I'm talking about because that's the only way you're going to get better.
+Monks|GEORGE|. . . I thought the woman was kind of cute.
+Monks|JERRY|Hold it. I really want to be clear about this. Are you talking about the woman in the meeting? Is that the woman you're talking about?
+Monks|GEORGE|Yeah, I thought I might give her a call. I, I don't meet that many women. I meet like three women a year. I mean, we've been introduced. She knows my name.
+Monks|JERRY|IT'S COMPLETELY INAPPROPRIATE!
+Monks|GEORGE|Why? Maybe she liked me. I, I mean she was looking right at me. You know, I think she was impressed. You know, we had good eye contact the whole meeting.
+Monks|JERRY|Oh, I forgot to call Kramer.
+Monks|GEORGE|Wait a minute let me call Susan.
+Monks|JERRY|No, no this is more important.
+Monks|GEORGE|She might be leaving to work any minute.
+Monks|JERRY|No, I got to warn him that I told Joe Devola about his party.
+Monks|GEORGE|No.
+Monks|action|they race to the pay phone
+Paris hotel room - Dr. Reston and Elaine are kissing|ELAINE|What is it?
+Paris hotel room - Dr. Reston and Elaine are kissing|ELAINE|What?
+Paris hotel room - Dr. Reston and Elaine are kissing|ELAINE|Well, come on we're on vacation.
+Jerry's apartment|JERRY|Well we were standing uh, inn the waiting area there, and you know how Devola is. He's all, ... (buzzer)
+Jerry's apartment|KRAMER|Yeah (to buzzer)
+Jerry's apartment|GEORGE|(OC) It's George.
+Jerry's apartment|JERRY|And so, uh I felt very uncomfortable with him and you know I just blurted out something about your party.
+Jerry's apartment|KRAMER|Whoa, back up a second.
+Jerry's apartment|JERRY|Well, I didn't know that you didn't invite him.
+Jerry's apartment|KRAMER|Why would you think I would invite him?
+Jerry's apartment|JERRY|I just a ssumed, ...
+Jerry's apartment|KRAMER|Assumed? Never assume anything. I don't want that nut in my house. You know he's on medication.
+Jerry's apartment|action|George and Susan enter
+Jerry's apartment|GEORGE|Hello, oh, hello. You remember, ... Susan, from N B C.
+Jerry's apartment|JERRY|Of course. How are you?
+Jerry's apartment|SUSAN|Fine, it's good to see you.
+Jerry's apartment|GEORGE|And this is Kramer.
+Jerry's apartment|SUSAN|Hello.
+Jerry's apartment|GEORGE|All right go ahead Susan, tell him.
+Jerry's apartment|JERRY|Tell me what?
+Jerry's apartment|SUSAN|Well, I, (phone rings)
+Jerry's apartment|JERRY|Uh, sorry, Excuse me one second. Hello.
+Jerry's apartment|TEL|Hi, would you be interested in switching over to TMI long distance service.
+Jerry's apartment|JERRY|Oh, gee, I can't talk right now. Why don't you give me your home number and I'll call you later.
+Jerry's apartment|TEL|Uh, I'm sorry we're not allowed to do that.
+Jerry's apartment|JERRY|Oh, I guess you don't want people calling you at home.
+Jerry's apartment|TEL|No.
+Jerry's apartment|JERRY|Well now you know how I feel. (Hangs up)
+Jerry's apartment|GEORGE|Well, go ahead, tell him.
+Jerry's apartment|JERRY|Kramer, are you drinking that milk?
+Jerry's apartment|KRAMER|Yeah.
+Jerry's apartment|JERRY|What's the expiration date on that?
+Jerry's apartment|KRAMER|September third.
+Jerry's apartment|JERRY|The third?
+Jerry's apartment|GEORGE|and SUSAN: The third?
+Jerry's apartment|KRAMER|Um, Uh, ugh, ...
+Jerry's apartment|SUSAN|Noooo... (Kramer throws up on Susan)
+Monk's|GEORGE|I never should have brought her up there. Should have known better. Should have seen it coming. I didn't see it coming.
+Monk's|JERRY|I think SHE saw it coming.
+Monk's|GEORGE|You know she was behind the idea. She was going to champion the show. That's what I was bring her up there to tell you. And she liked me.
+Monk's|JERRY|Look just because Kramer vomited on her doesn't mean the deal is dead.
+Monk's|GEORGE|What, are you crazy? It's a traumatic thing to be thrown up on.
+Monk's|JERRY|Vommiting is not a deal breaker. If Hitler had vommited on Chamberlin, Chamberlind still would have given him Chekoslovakia.
+Monk's|GEORGE|Chamberlind, you could hold his head in nthe toilet, he'd still give you half of Europe.
+Monk's|action|Kramer enters with helmet
+Monk's|JERRY|What happened to you?
+Monk's|KRAMER|Devola came after me.
+Monk's|JERRY|What? Devola? See I told you this guy is crazy. I can't believe this. What happened?
+Monk's|KRAMER|Can I have a coffee. ... What, you know I was walking home and I had to pick up my helmet from the shop, you know. I gota new strap. And I had it on you know, and I was checking the strap out to make sure it fit. Then suddenly I feel this kick hit me on the side of the head. It knocks me down, I look up and it's Crazy Joe Devola. And he say's, "That's what I thin k of your party."
+Monk's|JERRY|Boy, that is some kick.
+Monk's|KRAMER|Well, yeah, Newman's helmet, it saved my life. Look at that.
+Monk's|JERRY|Wow, Newman's helmet.
+Monk's|GEORGE|Holly.
+Monk's|KRAMER|I got bad news for you buddy. Devola says you're next.
+Monk's|JERRY|Me, why?
+Monk's|KRAMER|He doesn't like you.
+Monk's|JERRY|What does he want from me? I didn't do anything. See this is all Elaine's fault. She took off to Europe with his psychiatrist. He probably can't get his medication. Now I got some nut after me.
+Monk's|KRAMER|Pass the cream.
+Monk's|GEORGE|Wait a second. (smells it). all right.

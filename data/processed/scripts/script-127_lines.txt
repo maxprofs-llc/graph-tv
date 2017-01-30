@@ -1,0 +1,361 @@
+Setting: Night club|action|Jerry is just now getting done with his act
+Setting: Night club|JERRY|Thank you! Goodnight! (Walks off stage, sighing deeply. Instantly, a red-headed woman runs up and hugs him - taking Jerry by surprise)
+Setting: Night club|SALLY|Jerry!
+Setting: Night club|JERRY|(Trying to ward her off) Hey. Hey!
+Setting: Night club|SALLY|(Reminding him who she is) Sally Weaver! (Sees Jerry's expression - he still has no clue who she is) Susan Ross' roommate from college.. hello! (Laughs slightly)
+Setting: Night club|JERRY|Right.. Oh, I'm sorry. Uh, oh, so you saw the show?
+Setting: Night club|SALLY|Saw it? I loved it! And thank you for the free tickets. You are so funny.
+Setting: Night club|JERRY|(Modest) Oh, thanks.
+Setting: Night club|SALLY|(Serious) No, no, I mean it. You're very funny.
+Setting: Night club|JERRY|(Blunt) I believe you.
+Setting: Night club|SALLY|Oh, anyway, let me show you Memphis. I am taking you (Points to him) out to dinner.
+Setting: Night club|JERRY|(Grabbing his coat) Oh, I'm sorry, I can't - I'm going straight to the airport.
+Setting: Night club|SALLY|Ohh.. that's too bad.. Susan thought we'd really get along - I guess because we're both wacko! (Jerry laughs) You know what, um.. (Turns around, picking up a large gift from a table) You have to give this to them for me. Okay? Here. (Hands the box to Jerry, he struggles under the size of it) It's a wedding present.
+Setting: Night club|JERRY|Oh?
+Setting: Night club|SALLY|And Jerry? Be careful with it, okay? Be very careful.
+Setting: Night club|JERRY|Uh-huh.
+Setting: Night club|action|Scene ends
+Setting: The Coffee shop|action|George and his father, Frank, are sitting at a booth
+Setting: The Coffee shop|FRANK|George, as you may be aware, your mother and I are not moving to Del Boca Vista, Florida.
+Setting: The Coffee shop|GEORGE|(Resenting the fact. Nodding) I am aware.
+Setting: The Coffee shop|FRANK|So, I was wondering, would it be okay if I turned your room into a billiard parlor?
+Setting: The Coffee shop|GEORGE|A billiard parlor?
+Setting: The Coffee shop|FRANK|Regulation table, the hi-fi, maybe even a bar.. Give it real authenticity..
+Setting: The Coffee shop|action|Elaine enters. George spots her in mid-sentence
+Setting: The Coffee shop|GEORGE|Well, that's.. Elaine!
+Setting: The Coffee shop|ELAINE|Oh, hi, Frank.
+Setting: The Coffee shop|GEORGE|(Sliding over to make room for her) Sit down. Join us, please.
+Setting: The Coffee shop|ELAINE|(Trying to come up with an excuse not to sit with them) Actually, I gotta get to the.. uh.. thing.
+Setting: The Coffee shop|GEORGE|(Somewhat stern) Oh, the thing's cancelled. Sit down.
+Setting: The Coffee shop|ELAINE|(Giving up) Okay.. (Sits, George laughs) So.. (Trying to think up something to talk about) Frank, did George ever show you that photo?
+Setting: The Coffee shop|GEORGE|(Confused) What photo?
+Setting: The Coffee shop|ELAINE|You know, the photo I took in Tuscany of the little man in front of the sign that said "Costanza"?
+Setting: The Coffee shop|FRANK|(Interested) There's a Costanza in Tuscany? (Elaine nods) Did he look like me? Did you talk to him?
+Setting: The Coffee shop|ELAINE|I didn't talk to anyone - I was just walking by, and I saw the sign, and I thought George might get a kick out of it.
+Setting: The Coffee shop|FRANK|I gotta get that picture - it could be my cousin, Carlo.
+Setting: The Coffee shop|ELAINE|Who is that?
+Setting: The Coffee shop|GEORGE|(Muttering out, not really wanting to talk about his family) When the Costanzas came here, one brother stayed behind.
+Setting: The Coffee shop|FRANK|I played with him every day until the age of four - and then we separated.
+Setting: The Coffee shop|ELAINE|So, you weren't born here?
+Setting: The Coffee shop|FRANK|No. That's why I can never be president.. It always irked me. That's why, even at an early age, I had no interest in politics. I refuse to vote. (Yelling out) They don't want me, I don't want them!
+Setting: The Coffee shop|GEORGE|I don't know what you're getting all riled up about. There are probably a million Costanzas-
+Setting: The Coffee shop|FRANK|(Cutting him off) Don't bring me down. (To Elaine) Do you have another copy of that photo?
+Setting: The Coffee shop|ELAINE|No, I, I don't. But.. Well, the Maestro might.
+Setting: The Coffee shop|FRANK|The Maestro? What Maestro?
+Setting: The Coffee shop|ELAINE|He's this guy that I went to Tuscany with. He's a great guy, but I just wouldn't feel comfortable calling him.
+Setting: The Coffee shop|GEORGE|Really? Why?
+Setting: The Coffee shop|ELAINE|(Explaining) Because he hasn't called me since we got back.. I spilled wine on his 8 by 10 photo of one of his favorite Italian opera stars.
+Setting: The Coffee shop|GEORGE|Who?
+Setting: The Coffee shop|ELAINE|You know the Three Tenors?
+Setting: The Coffee shop|GEORGE|Yeah.. (Trying to remember) Poverotti.. Domingo.. and.. uh.. the other guy.
+Setting: The Coffee shop|ELAINE|(Nodding) The other guy.
+Setting: The Coffee shop|action|Scene ends
+Setting: Airplane|action|Jerry's flying to NY. On his lap is Sally's present and his personal bag. He's trying to read a magazine while a stewardess approaches him
+Setting: Airplane|STEWARDESS|(Overly nice) Could I take that box for you?
+Setting: Airplane|JERRY|Uh.. well, you better not. I'm supposed to be careful with it.
+Setting: Airplane|STEWARDESS|Oh, then, I'll have to put your bag in the over-head.
+Setting: Airplane|JERRY|Oh, okay..
+Setting: Airplane|action|The stewardess takes the bag, and crams it into the over-head compartment. The sound of glass breaking can be heard
+Setting: Airplane|STEWARDESS|There we go.
+Setting: Airplane|action|Jerry gives a face of pure dissatisfaction
+Setting: Airplane|action|Scene ends
+Setting: Jerry's apartment|action|Kramer enters while Jerry's unpacking. The clothes in his suitcase are covered in bar-b-que sauce
+Setting: Jerry's apartment|JERRY|Ohh.. look at this..
+Setting: Jerry's apartment|KRAMER|What?
+Setting: Jerry's apartment|JERRY|I bought a bottle of BBQ sauce in Memphis. I think the stewardess broke it when she tried to jam it into the overhead compartment because of this
+Setting: Jerry's apartment|KRAMER|Well, don't press the panic button. I'm sure that we can still salvage some sauce..
+Setting: Jerry's apartment|JERRY|I don't care about the sauce. It came in this funny little bottle, and there was a guy on the label that looked exactly like Charles Grodin.
+Setting: Jerry's apartment|KRAMER|(Taking some of Jerry's clothing over to the kitchen) I see..
+Setting: Jerry's apartment|JERRY|No, you don't see - because I'm going on the show this week, and this was going to be my bit on the show.
+Setting: Jerry's apartment|KRAMER|Well, why don't you do your material?
+Setting: Jerry's apartment|JERRY|I'm out.
+Setting: Jerry's apartment|KRAMER|(Looking up, sighs) Well, you better get to work.
+Setting: Jerry's apartment|JERRY|(Sarcastic) Thanks for the tip.
+Setting: Jerry's apartment|action|George enters
+Setting: Jerry's apartment|GEORGE|Hey, buddies.
+Setting: Jerry's apartment|JERRY|Hey. Hey, this is for you. (Taps the gift) It's from.. uh, Susan's roommate, Sally.
+Setting: Jerry's apartment|GEORGE|Oh yeah.. (Starts to open it) Sally called Susan - said you guys really hit it off.
+Setting: Jerry's apartment|JERRY|(Annoyed at the thought) Nobody hit anything off. She just gave me the box. (Looks over at Kramer. He is scraping the BBQ sauce off Jerry's clothes with a knife, then dipping some bread into it) What the hell are you doing?
+Setting: Jerry's apartment|KRAMER|(Looks up) I'm salvaging the sauce. What's the matter with you? (Eats the bread)
+Setting: Jerry's apartment|action|George is still opening the gift - flinging Styrofoam peanuts all over the table
+Setting: Jerry's apartment|JERRY|(Pleading) Hey, hey, hey. Come on, come on.
+Setting: Jerry's apartment|KRAMER|(Moving out into the living room) Jerry, why don't you do a bit on Styrofoam?
+Setting: Jerry's apartment|JERRY|Like what?
+Setting: Jerry's apartment|KRAMER|Well, uh.. (Starts to impersonate Jerry's act) "What is this stuff? Why do we need this stuff?.. And why do they make it so small..?"
+Setting: Jerry's apartment|JERRY|(Confused) Where's the punchline?
+Setting: Jerry's apartment|KRAMER|It's all attitude.. (Makes a humorous face - mocking Jerry's)
+Setting: Jerry's apartment|GOERGE|(Taking out a mat from the huge box) Well, this is certainly a crappy gift..
+Setting: Jerry's apartment|JERRY|A door mat? That's what she had me lug up from Memphis?!
+Setting: Jerry's apartment|GEORGE|Pretty chintzy, huh? Considering the money she makes.. She's a big executive for Federal Express.
+Setting: Jerry's apartment|JERRY|Federal Express?! Is she out of her mind? Why didn't she just ship it?!
+Setting: Jerry's apartment|KRAMER|Look, it's personalized. (Holds it up, reading) "The Costanzas"
+Setting: Jerry's apartment|GEORGE|No, no. Forget it. I don't want it. Let's just get rid of it.
+Setting: Jerry's apartment|KRAMER|Well, maybe your father would be interested in that.
+Setting: Jerry's apartment|GEORGE|I doubt it. You know what he's doing now? He's putting a pool table in my old bedroom.
+Setting: Jerry's apartment|KRAMER|(Interested) Oh yeah? Well, maybe I'll go out there and knock a few balls around with him. You know, show him a thing or two..
+Setting: Jerry's apartment|action|Scene ends
+Setting: George's old bedroom|action|The room is remodeled into a billiard room. The pool table is obviously way too big for the room. Frank and Kramer are chalking up their sticks
+Setting: George's old bedroom|KRAMER|So, what's your game? What do you like to play?
+Setting: George's old bedroom|FRANK|Eight ball.
+Setting: George's old bedroom|KRAMER|No, nothing doing. Let's, you and me, play a game of straight pool.. hmm?
+Setting: George's old bedroom|FRANK|You like to gamble, Cosmo?
+Setting: George's old bedroom|KRAMER|Yeah, now and then - you know how it is..
+Setting: George's old bedroom|FRANK|Five dollars a game, huh?
+Setting: George's old bedroom|KRAMER|I'll break.
+Setting: George's old bedroom|FRANK|Okay.
+Setting: George's old bedroom|action|Kramer goes to pull back his pool stick, but it is stopped short by the wall. Scene cuts to a montage with multiple scenes involving humorous accounts of their trying to play in such a tiny room
+Setting: George's old bedroom|action|Scene ends
+Setting: George and Susan's apartment|action|Susan has boxes in the living room, and is setting up some of her items around the apartment
+Setting: George and Susan's apartment|GEORGE|What's all this?
+Setting: George and Susan's apartment|SUSAN|Oh, I'm just moving in some more of my stuff.
+Setting: George and Susan's apartment|GEORGE|(Muttering to himself as he walks to the bedroom) More stuff..
+Setting: George and Susan's apartment|SUSAN|(Calling out) Oh, I put up my doll collection..
+Setting: George and Susan's apartment|action|George walks into his room, and stops in his tracks. Up on the shelves, is a doll that looks exactly like George's mother
+Setting: George and Susan's apartment|GEORGE|Oh my God! What is that?!
+Setting: George and Susan's apartment|SUSAN|(Rushing in) What? What is it?
+Setting: George and Susan's apartment|GEORGE|(Staring at the doll) This doll (Pointing) looks like my mother.
+Setting: George and Susan's apartment|SUSAN|George, it's a doll.
+Setting: George and Susan's apartment|GEORGE|I know it's a doll, but it looks like my mother!
+Setting: George and Susan's apartment|SUSAN|(Going back to the living room) Oh, get outta here..
+Setting: George and Susan's apartment|action|Scene ends
+Setting: George's old bedroom|action|Kramer, holding the pool stick at an awkward angle, is about to hit the ball when Estelle enters
+Setting: George's old bedroom|ESTELLE|What's going on in here? (Kramer hits the cue ball, it jumps up from the table and flies off screen) Are you two still playing?! You've been up here three hours!
+Setting: George's old bedroom|FRANK|We still haven't finished the first game.
+Setting: George's old bedroom|ESTELLE|The first game?!
+Setting: George's old bedroom|KRAMER|(Explaining why they are doing so bad) Well, we're still, uh, learning the subtleties of the table.
+Setting: George's old bedroom|FRANK|(To Estelle) he knows the Maestro. He could have the picture..
+Setting: George's old bedroom|ESTELLE|Oh, forget about it. It's not your cousin.
+Setting: George's old bedroom|FRANK|(Yelling out) You don't know that! (Estelle leaves, slamming the door) We're gonna go see him, huh?
+Setting: George's old bedroom|KRAMER|(Judging up his next move) As soon as the game is over..
+Setting: George's old bedroom|FRANK|(Sensing the game is going to last a long time) Oh boy.
+Setting: George's old bedroom|KRAMER|Eleven, corner pocket. (Pulls back on his stick, accidentally crashing it into the window)
+Setting: George's old bedroom|action|Scene ends
+Setting: George and Susan's bedroom|action|George and Susan are in bed. They go to kiss, but George stops when he sees the doll laying right next to Susan
+Setting: George and Susan's bedroom|GEORGE|What is this thing doing here?
+Setting: George and Susan's bedroom|SUSAN|Oh, I used to love to sleep with my dolls when I was a little girl..
+Setting: George and Susan's bedroom|action|Susan leans in to kiss, but George stops her again
+Setting: George and Susan's bedroom|GEORGE|Uh, I'm sorry, I can't do this..
+Setting: George and Susan's bedroom|SUSAN|Why?
+Setting: George and Susan's bedroom|GEORGE|I feel like I'm in bed with my mother.
+Setting: George and Susan's bedroom|SUSAN|Oh, stop it.
+Setting: George and Susan's bedroom|action|They kiss. While kissing, George tightly stuffs the doll under Susan's pillow -- out of sight
+Setting: George and Susan's bedroom|action|Scene ends
+Setting: Jerry's apartment|action|Jerry enters the living room from his bathroom with his toothbrush. Elaine is reading the paper at his table
+Setting: Jerry's apartment|JERRY|Hey, Elaine, you have got to buy this new electric toothbrush I just got - the Ori-dent.
+Setting: Jerry's apartment|ELAINE|(Just making conversation) Oh yeah?
+Setting: Jerry's apartment|JERRY|Oh, it's unbelievable. Every time you use it you feel like you just came from the dentist!
+Setting: Jerry's apartment|ELAINE|(Mock enthusiasm) Oh, that's dynamite.
+Setting: Jerry's apartment|JERRY|Hey, what are you doing tomorrow? You want to come see me on the Charles Grodin show?
+Setting: Jerry's apartment|ELAINE|Who else is on the show?
+Setting: Jerry's apartment|JERRY|Uh.. one of the three tenors.
+Setting: Jerry's apartment|ELAINE|(Interested) The Three Tenors? (Stands up) Which one?!
+Setting: Jerry's apartment|JERRY|Uh.. It's not Poverotti.. It's not Domingo..
+Setting: Jerry's apartment|ELAINE|(Extremely excited) The other guy?!
+Setting: Jerry's apartment|JERRY|(Nodding) Yeah, the other guy.
+Setting: Jerry's apartment|ELAINE|(Screams out in joy) My God! I can't believe the other guy's going to be on the show!
+Setting: Jerry's apartment|JERRY|Why?
+Setting: Jerry's apartment|ELAINE|Because I ruined this autographed picture of him that belonged to the Maestro. You think I can go and get his autograph?
+Setting: Jerry's apartment|JERRY|Why not?
+Setting: Jerry's apartment|ELAINE|(Extremely giddy) Wow! The other guy!
+Setting: Jerry's apartment|action|George enters. He's in a disheveled state
+Setting: Jerry's apartment|JERRY|Hey, you look awful.
+Setting: Jerry's apartment|GEORGE|(Sitting on the sofa) I'm on no sleep, bro.
+Setting: Jerry's apartment|JERRY|Problem in the bedroom?
+Setting: Jerry's apartment|GEORGE|(Muttering) Susan has the doll collection.. one of the dolls looks exactly like my mother.. she likes to sleep with it.
+Setting: Jerry's apartment|action|Elaine makes a face
+Setting: Jerry's apartment|JERRY|Wow. You were in bed with your mother last night?
+Setting: Jerry's apartment|GEORGE|(Long pause) ..Felt like it. I tell you, this doll is pretty spooky. (Takes off his glasses, rubbing his eye) It's freakin' me out man. And now I got to go back out there and pick up this doormat.
+Setting: Jerry's apartment|JERRY|I thought you didn't want the doormat.
+Setting: Jerry's apartment|GEORGE|I don't. Susan wants to have it out when Sally comes tomorrow.
+Setting: Jerry's apartment|JERRY|Sally? (Getting upset) Wait, wait a minute - She's coming to New York?
+Setting: Jerry's apartment|GEORGE|Yeah, (Smiling) Susan said you'd be excited.
+Setting: Jerry's apartment|JERRY|Excited? I'm gonna kill her! She knew she was coming here and she made me carry that box?!
+Setting: Jerry's apartment|ELAINE|Who's Sally?
+Setting: Jerry's apartment|GEORGE|Susan's college roommate.
+Setting: Jerry's apartment|JERRY|It's because of her that bottle got broke that I was going to give to Charles Grodin on his show.
+Setting: Jerry's apartment|GEORGE|So call her up and tell her to bring you another one. She'll be delighted to talk to you.
+Setting: Jerry's apartment|JERRY|(While opening a cereal box) I will - don't worry. (Plotting revenge) In fact, I'll have her bring up a whole case of the stuff. It'll be really heavy. Let's see if she likes sitting on a plane with a big box on her lap!
+Setting: Jerry's apartment|ELAINE|That's sounds pretty juvenile.
+Setting: Jerry's apartment|JERRY|(Pulling out the toy from the cereal box - he displays even more immaturity by holding it up, smiling) Hey! A dinosaur!
+Setting: Jerry's apartment|action|Scene ends
+Setting: The Maestro's Office|action|Kramer and Frank are in a meeting with the Maestro
+Setting: The Maestro's Office|FRANK|His name was Carlo Costanza. We played together everyday until I was four. If I could just look through your photographs, maybe I could recognize him.
+Setting: The Maestro's Office|MAESTRO|Unfortunately those photographs are at home.
+Setting: The Maestro's Office|KRAMER|Well, listen, if you bring 'em by, maybe we could interest you in a game of pool.. Yeah, Frank here - he's got his own billiard room.
+Setting: The Maestro's Office|FRANK|(Trying to concentrate) Yes, It's, uh, it's.. uh, uh.. What do you call it, Kramer?
+Setting: The Maestro's Office|KRAMER|A billiard room.
+Setting: The Maestro's Office|FRANK|No, not billiard.. (Scolding) Not billiards.. it was.. Come on, already. Come on..
+Setting: The Maestro's Office|KRAMER|(Confused) What?
+Setting: The Maestro's Office|FRANK|We call it.. the, uh..
+Setting: The Maestro's Office|KRAMER|(Snaps) The Place To Be!
+Setting: The Maestro's Office|FRANK|The place to be! Yes! It's the place to be.
+Setting: The Maestro's Office|MAESTRO|(Agreeing to a game) Ah, then I shall be there. And now, Gentlemen, (Making dramatic actions) if you will excuse me - I must prepare for the symphony.
+Setting: The Maestro's Office|KRAMER|Oh, yeah?
+Setting: The Maestro's Office|action|The Maestro gets up. Realizing that he isn't wearing pants, Kramer and Frank stare in bewilderment
+Setting: The Maestro's Office|MAESTRO|(Noticing the expressions) Ohh, my pants. (Begins putting on a near-by pair of pants) It's an old conductor's trick I learned from Leonard Bernstein.
+Setting: The Maestro's Office|KRAMER|Really?
+Setting: The Maestro's Office|MAESTRO|You keep a perfect crease by not sitting in them before the performance.
+Setting: The Maestro's Office|action|Kramer and Frank are obviously impressed
+Setting: The Maestro's Office|KRAMER|That's good thinking.
+Setting: The Maestro's Office|action|Scene ends
+Setting: Jerry's apartment|action|George, presenting the doll to Jerry, has his arms out in a 'tada' gesture. Jerry has on a disgusted face
+Setting: Jerry's apartment|GEORGE|You see?.. You see?!
+Setting: Jerry's apartment|JERRY|Well, it doesn't look exactly like her.
+Setting: Jerry's apartment|GEORGE|Jerry, come on. If my mother keeps shrinking, this is exactly what she's gonna look like in ten years!
+Setting: Jerry's apartment|JERRY|Why don't you just get rid of it?
+Setting: Jerry's apartment|GEORGE|I tried! I almost threw it down the incinerator, but I couldn't do it. The guilt was too overwhelming. (Grabs the doll, opening the door to leave) Susan's so attached to this thing.
+Setting: Jerry's apartment|JERRY|Wait, where are you going? Don't take your dolly and go home.
+Setting: Jerry's apartment|action|George shoots him a look, then leaves. He is audible as he meets up with Elaine in the hallway
+Setting: Jerry's apartment|GEORGE|Hi, Elaine.
+Setting: Jerry's apartment|action|Elaine shrieks out in fright, then enters Jerry's doorway - breathless
+Setting: Jerry's apartment|ELAINE|Did you see that?!
+Setting: Jerry's apartment|JERRY|I'm just glad it's outta here. (Elaine exhales deeply - getting over the scare of the doll. She moves into the apartment) What's that? (Pointing to a rolled up poster Elaine is carrying)
+Setting: Jerry's apartment|ELAINE|Oh, it's a poster of the three tenors.
+Setting: Jerry's apartment|JERRY|Oh. (Intercom buzzes, Jerry answers it) Yeah?
+Setting: Jerry's apartment|SALLY|(Through the intercom) It's Sally.
+Setting: Jerry's apartment|JERRY|Oh, did you bring the bar-b-que sauce?
+Setting: Jerry's apartment|SALLY|A whole case.
+Setting: Jerry's apartment|JERRY|(Letting her up) Excellent. (To Elaine) So, did you buy that electric toothbrush I was telling you about?
+Setting: Jerry's apartment|ELAINE|(Blunt, to the point) No.
+Setting: Jerry's apartment|JERRY|How come? I told you - It's fantastic.
+Setting: Jerry's apartment|ELAINE|Eh, I like mine.
+Setting: Jerry's apartment|JERRY|I've had yours, I'm telling you - this one is ten times better. Don't you believe me?
+Setting: Jerry's apartment|ELAINE|I don't want it.
+Setting: Jerry's apartment|JERRY|(Slightly confused by her behavior) I don't understand this. Why wouldn't you want to get something that's better if I'm telling you it's better? And it's not a little better - it's much better.
+Setting: Jerry's apartment|ELAINE|(Not committing to the conversation) It doesn't matter to me.
+Setting: Jerry's apartment|action|A knock on the door
+Setting: Jerry's apartment|JERRY|Come in.
+Setting: Jerry's apartment|action|Sally enters with a medium-sized box
+Setting: Jerry's apartment|SALLY|(Peppy) Well, here I am!
+Setting: Jerry's apartment|JERRY|Oh, hi. Elaine, this is Sally.
+Setting: Jerry's apartment|ELAINE|Hi.
+Setting: Jerry's apartment|JERRY|How was your flight? (Wishful thinking) Pretty uncomfortable?
+Setting: Jerry's apartment|SALLY|(Setting the box down on his table) Actually, the seat next to me was empty, so, there was no problem at all.
+Setting: Jerry's apartment|JERRY|(Let down) Oh.. (Starts to open the box) Oh, wait.. (Holding up one of the BBQ jars) This isn't the sauce that I asked for!
+Setting: Jerry's apartment|SALLY|That's right. It's a special gourmet sauce. "The Pride of Memphis!"
+Setting: Jerry's apartment|JERRY|(Complaining) No, no. I wanted the one in the little bottle with that guy on it that looks like Charles Grodin!
+Setting: Jerry's apartment|SALLY|This is much better. And frankly, in Memphis, we think that other sauce as (Whispering) kind of a joke.
+Setting: Jerry's apartment|JERRY|I know it's a joke. It's supposed to be a joke! Now I'm going on the Charles Grodin Show with nothing. (Sets the jar down angrily) Nothing!
+Setting: Jerry's apartment|SALLY|You could just do your material.
+Setting: Jerry's apartment|JERRY|(Peeved) I don't have any material!
+Setting: Jerry's apartment|ELAINE|(Yelling out) He's got nothin'!
+Setting: Jerry's apartment|action|Scene ends
+Setting: The Coffee Shop|action|George is sitting at the table - opposite the doll. While he eats his meal, he can hear his mother yelling at him via the doll
+Setting: The Coffee Shop|DOLL|Georgie! Don't eat with your hands! (George starts eating faster) Why do you eat so fast?! You can't even taste it!
+Setting: The Coffee Shop|GEORGE|(Losing it) Don't tell me how to eat!
+Setting: The Coffee Shop|action|People from near-by tables turn and look at him
+Setting: The Coffee Shop|DOLL|You're wearing that shirt? You've had it for five years already! Why don't you get a new shirt?!
+Setting: The Coffee Shop|GEORGE|(Trying to keep it down) Because I like this one! (Notices people staring at him, he quickly gets up, collecting the his coat and the tiny replica) C'mon, let's go. Let's go! (On his way out, he stops in front of a woman blocking his path) Oh, hi.. (Embarrassed about the doll, he sheepishly walks out)
+Setting: The Coffee Shop|WOMAN|(To Ruthie, the cashier) That man should really be in a sanitarium. (Ruthie nods, agreeing)
+Setting: The Coffee Shop|action|Scene ends
+Setting: George's old bedroom|action|The Maestro, Kramer, and Frank are all pant-less and playing pool while listening to classical music. Frank is looking at the Maestro's pictures with a magnifying glass
+Setting: George's old bedroom|KRAMER|Now this is remarkable. I'm lounging, and yet, my pants remain perfectly creased.
+Setting: George's old bedroom|FRANK|It's him! (Standing up) It's Carlo Costanza!
+Setting: George's old bedroom|KRAMER|Come on. Are you sure?
+Setting: George's old bedroom|action|They all crowd around the picture
+Setting: George's old bedroom|FRANK|I'd know him anywhere.
+Setting: George's old bedroom|MAESTRO|I've seen that man in Tuscany. Eccentric fellow. Reputation of being kind of a village idiot.
+Setting: George's old bedroom|FRANK|I still say we're related.
+Setting: George's old bedroom|MAESTRO|(Recognizing the currently playing song) Ohh, I love this piece. (Turns it up, then pantomimes that he is conducting the instruments)
+Setting: George's old bedroom|KRAMER|Alright, come on Frank. It's your shot.
+Setting: George's old bedroom|FRANK|(Complaining) I can't make anything..
+Setting: George's old bedroom|KRAMER|(Like a professional) Well, that's because you don't know how to follow through correctly.
+Setting: George's old bedroom|FRANK|Follow through? What do you mean?
+Setting: George's old bedroom|KRAMER|Right here, come on, I'll show you.. (Gets behind Frank, holding the pool stick with him) Take hold of your stick.. alright, bring it back slowly..
+Setting: George's old bedroom|action|Estelle walks in with a tray of beverages and popcorn. Kramer and Frank continue the lesson in their underwear as she stares in disbelief
+Setting: George's old bedroom|FRANK|It's a little unnatural, but I think I'm getting the hang of it.
+Setting: George's old bedroom|ESTELLE|Oh, my God!
+Setting: George's old bedroom|action|Scene ends
+Setting: Jerry's apartment|JERRY|(Still ticked off) That woman is such an idiot! I was gonna do this whole bit on that bottle - and now I got nothing to talk about.
+Setting: Jerry's apartment|ELAINE|Well, have you ever considered writing new material?
+Setting: Jerry's apartment|JERRY|Well, maybe if I didn't have so many people in my apartment all the time I'd be able to get some work done.
+Setting: Jerry's apartment|ELAINE|(Getting the hint) Me? Are you talking about me?
+Setting: Jerry's apartment|JERRY|(Deeply sarcastic) No. You're never here.
+Setting: Jerry's apartment|ELAINE|(Reflecting) Boy, that doll was really freaky, wasn't it?
+Setting: Jerry's apartment|JERRY|Yeah. Really. (Forming and idea) Hey, you know what? Maybe I could talk about that on the show.
+Setting: Jerry's apartment|ELAINE|What?
+Setting: Jerry's apartment|JERRY|Show the doll - show the picture of George's mother.. it's pretty funny. (Moving toward the phone) I'm gonna call them.
+Setting: Jerry's apartment|action|Scene cuts to George's apartment. Sally answers the ringing phone
+Setting: Jerry's apartment|SALLY|Hello?
+Setting: Jerry's apartment|JERRY|Hello, Susan? It's Jerry.
+Setting: Jerry's apartment|SALLY|Hi Jerry, it's Sally!
+Setting: Jerry's apartment|JERRY|(Disappointed) Oh. Is George there?
+Setting: Jerry's apartment|SALLY|No, but he should be home soon.
+Setting: Jerry's apartment|JERRY|Uh, listen, this is important. Tell him to meet me at the TV studio with a picture of his mother and that doll that looks like her.
+Setting: Jerry's apartment|SALLY|Is this for your comedy routine?
+Setting: Jerry's apartment|JERRY|(Obviously resents talking to her) Yes.
+Setting: Jerry's apartment|SALLY|(Gasps) Don't worry. (Like a detective) I'm on the case.
+Setting: Jerry's apartment|action|Jerry makes a face of doubt as he hangs up
+Setting: Jerry's apartment|action|Scene ends
+Setting: George's old bedroom|action|The same pool game is going on. The Maestro is putting his pants on
+Setting: George's old bedroom|MAESTRO|(Sighs slightly) I, uh, think I'll get some air. (Slowly leaves)
+Setting: George's old bedroom|KRAMER|Yeah.. (Sizes up his next shot. His stick jams into the window as he draws back) See? This is no good.. (Looks around the room. His sights fall on the Maestro's baton) Hey, the baton. (Chalks it up) I got a hunch, fat man, I can't miss. (Measures up his shot) 13 in the side pocket. (Does just that) Giddy-up. (Moves around to the other side of the board, judging his next move) Six in the corner. (Hits it in) This table's mine. (A series of Kramer's plays are displayed, and, on the last ball of the game..) You know where it's going..
+Setting: George's old bedroom|action|Scene ends
+Setting: The Charles Grodin Show dressing room|action|Elaine enters
+Setting: The Charles Grodin Show dressing room|ELAINE|Is George here?
+Setting: The Charles Grodin Show dressing room|JERRY|Not yet. (Points over to a man sitting in one of the room's chairs. Whispers) The other guy.
+Setting: The Charles Grodin Show dressing room|action|Elaine gasps. Smiling, she walks over to him
+Setting: The Charles Grodin Show dressing room|ELAINE|It's.. .. you! It's really you! Oh, I'm such a huge fan of yours. Would you mind signing this poster for me?
+Setting: The Charles Grodin Show dressing room|CARRERAS|My pleasure. (Reaches for a pen as Elaine unravels her poster)
+Setting: The Charles Grodin Show dressing room|ELAINE|(As he is signing) Oh, thank you so much. (He finishes. Elaine gives out a happy gasp) Thank you so much, Mr.. (Tries to read his signature) Camaro. (Carreras gives her a look as he is getting up) Mr. Casea? (He walks off as Elaine rolls the picture back up. Jerry gives his "That's a shame" face) Well, whatever. (To Jerry) I'm gonna take this to the Maestro. He's, he's playing at the Queens Convalescent Center.
+Setting: The Charles Grodin Show dressing room|JERRY|(Joking around) Well, that's one hell of a gig. (Turning around, he picks up a box labeled "Ori-dent") Hey, look, I got something for you. The Ori-dent!
+Setting: The Charles Grodin Show dressing room|ELAINE|(Mock joy) Ohh.. thank you. (Accepts the gift) Huh.. (Struggles under the size) Wha-- why does a toothbrush come in such a big box?
+Setting: The Charles Grodin Show dressing room|JERRY|Well, it's a delicate mechanism - It, you know, needs lots of packaging.
+Setting: The Charles Grodin Show dressing room|ELAINE|(Still trying to get a grasp on the package) How am I supposed to carry this thing? (She looks up to see Jerry taking his pants off) What are you doing?
+Setting: The Charles Grodin Show dressing room|JERRY|Well, I want to sit down.
+Setting: The Charles Grodin Show dressing room|ELAINE|So?
+Setting: The Charles Grodin Show dressing room|JERRY|It's a trick I just learned from Kramer. It keeps a crease in the pants. (Folds his pants over the head of a chair, then sits down in another. When he sees Elaine's staring at him, he makes a "Tada!" gesture with his hands. Elaine holds her hand up - as if to say "I'll see ya.", and while she's slowly walking out Jerry gives her a salute)
+Setting: The Charles Grodin Show dressing room|action|Scene ends
+Setting: George's old bedroom|action|The game is over
+Setting: George's old bedroom|MAESTRO|(Making his exit, he lays the charm on Mrs. Costanza) Madame, you have been an extremely gracious hostess. (Kisses her hand)
+Setting: George's old bedroom|ESTELLE|(Coy) Ohh.. thank you, Maestro. (Giggles to herself as the Maestro leaves)
+Setting: George's old bedroom|FRANK|(Holding up a picture) Here, take a look at this.
+Setting: George's old bedroom|ESTELLE|(Looking at it) Yeah, what is it?
+Setting: George's old bedroom|FRANK|It's Carlo. I found him!
+Setting: George's old bedroom|ESTELLE|(Handing the picture back) You've been cooped up in this room too long.
+Setting: George's old bedroom|FRANK|(Yelling out) You never support me! Let's see what George says about this.. Where're my pants? (Takes his pair off a rack and leaves)
+Setting: George's old bedroom|KRAMER|(Taking his pair off, he inspects them) Aw, beautiful!
+Setting: George's old bedroom|action|Scene ends
+Setting: The Charles Grodin Show dressing room|action|Sally walks in with a bag. Jerry's sitting without any pants on
+Setting: The Charles Grodin Show dressing room|SALLY|Hey there, Mr. Hairy legs!
+Setting: The Charles Grodin Show dressing room|JERRY|(Surprised to see her, he gets up) Where's George?
+Setting: The Charles Grodin Show dressing room|SALLY|Don't worry, I brought your doll.. (Pulls out an extremely different doll - this one resembles a baker) Tada!
+Setting: The Charles Grodin Show dressing room|JERRY|(Complaining) No! That's the wrong doll!
+Setting: The Charles Grodin Show dressing room|SALLY|Jerry, I saw the doll you were talking about - not funny! This doll's much funnier. Look, it has a little bowtie, and a cute little hat.. I think it's a riot!
+Setting: The Charles Grodin Show dressing room|JERRY|(Slow whispering) This is a nightmare.
+Setting: The Charles Grodin Show dressing room|SALLY|Oh well, I'll be watching. (Sets the doll down, then crosses her fingers) Don't screw up. (Leaves)
+Setting: The Charles Grodin Show dressing room|action|View shifts over to Carreras. While eating some BBQ food he reaches back for a towel to wipe his face. He happens upon Jerry's pants) Too much sauce.. (Wipes his mouth
+Setting: The Charles Grodin Show dressing room|JERRY|My pants!
+Setting: The Charles Grodin Show dressing room|action|A stagehand enters
+Setting: The Charles Grodin Show dressing room|STAGEHAND|Mr. Seinfeld, you're on.
+Setting: The Charles Grodin Show dressing room|action|Scene ends
+Setting: NYC street|action|Elaine's walking down with the poster and the box. A man exiting an ice cream parlor almost runs into her. Scene cuts to her on the subway. The man standing next to her is bumped, and his beverage spills all over Elaine. Luckily, she held the poster up before it could be damaged. Scene cuts to the Maestro's office
+Setting: NYC street|MAESTRO|Elaine? What a surprise.
+Setting: NYC street|ELAINE|I know you're very busy, but I just wanted to come by and give you this.
+Setting: NYC street|MAESTRO|Ohh.. (Looking at the box) Ori-dent - that electric toothbrush I've heard so much about..
+Setting: NYC street|ELAINE|No, no, no. Not the toothbrush.. (Holds out the poster) this.
+Setting: NYC street|action|The Maestro takes the poster, dramatically rolling the rubber band off. He unravels the poster on his desk
+Setting: NYC street|MAESTRO|Ohh, what a sweet gesture. And autographed poster of my favorite tenor, with.. those two other guys. Oh, Elaine, this is magnifico!
+Setting: NYC street|ELAINE|Oh, well, I just felt so bad about what happened in Tuscany..
+Setting: NYC street|STAGEHAND|(Yelling from off-camera) Maestro, you're on!
+Setting: NYC street|MAESTRO|Oh, Elaine.. wait for me after the concert? We'll celebrate.
+Setting: NYC street|ELAINE|Oh, ok! (Picking up the Ori-dent box, she knocks over a bottle of wine. It spills all over the poster)
+Setting: NYC street|action|Scene cuts to the Maestro's concert. Various players are practicing as he walks out. A round of applause sounds as the Maestro bows. Picking up his bent baton, he addresses the orchestra. As he starts to instruct the band, he stops when he finds out his baton is bent out of shape. He turns and looks at the audience apologetically as the music fades to a stop
+Setting: NYC street|action|Scene ends
+Setting: George and Susan's apartment|action|Susan's holding her doll defensively
+Setting: George and Susan's apartment|SUSAN|I want to know why you took my doll out of the house.
+Setting: George and Susan's apartment|GEORGE|I just wanted a second opinion.
+Setting: George and Susan's apartment|action|There's a knock at the door. George sighs, then answers it - it's Frank
+Setting: George and Susan's apartment|FRANK|(Holding up the picture) Take a look at this. Doesn't that look like my flesh and blood? Of course, your mother- (His attention is drawn over to Susan's doll. Like George did earlier, he starts to imagine that the doll is scolding him as his wife would)
+Setting: George and Susan's apartment|DOLL|Oh, stop bothering everybody with that picture. It's ridiculous!
+Setting: George and Susan's apartment|FRANK|(Walking toward the doll) Ridiculous?! I'll show you ridiculous! (Struggles with Susan for possession of the doll) Come here!
+Setting: George and Susan's apartment|SUSAN|(Pleading) No, Mr. Costanza! No, no!
+Setting: George and Susan's apartment|action|Frank manages to get the doll from Susan. He twists the head clean off the body
+Setting: George and Susan's apartment|FRANK|(Holding out the head in his hand, he addresses it) There! Now what have you got to say for yourself?!
+Setting: George and Susan's apartment|GEORGE|(To Susan) I told you it looked like her..
+Setting: George and Susan's apartment|action|Scene ends
+Setting: A street in Tuscany|action|Frank meets up with a man sweeping the sidewalk - the man he believes to be his cousin
+Setting: A street in Tuscany|FRANK|(Sets a gift he's brought down) Carlo! It's me, Frank! (Attempts to hug the guy, but he resists - pushing Frank away. He scolds Frank in another language) I'm your cousin, Frank! Aren't you Carlo?
+Setting: A street in Tuscany|MAN|Carlo? No. Mi nome e Giuseppe.
+Setting: A street in Tuscany|FRANK|(Realizing) What do you know.. Alright. (Picking up his present) I guess I was wrong. (Walks off)
+Setting: A street in Tuscany|action|Scene ends

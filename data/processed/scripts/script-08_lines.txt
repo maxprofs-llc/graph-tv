@@ -1,0 +1,315 @@
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|I hate clothes, okay? I hate buying them. I hate picking them out of my closet. I can’t stand every day trying to come up with little outfits for myself. I think eventually fashion won’t even exist. It won’t. I think eventually we’ll all be wearing the same thing. ‘Cause anytime I see a movie or a TV show where there’s people from the future or another planet, they’re all wearing the same thing. Somehow they decided, “This is going to be our outfit. One-piece silver jumpsuit, V-stripe, and boots. That’s it.” We should come up for an outfit for Earth. An Earth outfit. We should vote on it. Candidates propose different outfits. No speeches. They walk out, twirl, walk off. We just sit in the audience and go, “That was nice. I could wear that.”
+CLOTHING STORE|action|Jerry is talking to a SALESMAN. Elaine is also there, holding a book.
+CLOTHING STORE|SALESMAN|Well, I might have something in the back.
+CLOTHING STORE|action|Salesman exits.
+CLOTHING STORE|ELAINE|The back? They never find anything in the back. If they had anything good in the back, they’d put it out in the front.
+CLOTHING STORE|JERRY|Why don’t they open up an entire store for the back? Call it, “Just Back.” All back; No front. You walk in the front, you’re immediately in the back. (Jerry picks up a tie display, and shakes it rhythmically from left to right.) Look, Elaine, tie carwash.
+CLOTHING STORE|action|Elaine laughs. A CUSTOMER approaches, and notices the book Elaine is holding.
+CLOTHING STORE|CUSTOMER|Oh, I just read that. That’s terrific.
+CLOTHING STORE|JERRY|(pointing to Elaine) Her father wrote that.
+CLOTHING STORE|CUSTOMER|Alton Benes is your father?
+CLOTHING STORE|ELAINE|Yeah.
+CLOTHING STORE|CUSTOMER|I always felt he deserved a wider audience.
+CLOTHING STORE|ELAINE|I’m not so sure he wants one.
+CLOTHING STORE|action|Customer exits.
+CLOTHING STORE|ELAINE|Hey, don’t forget Sunday, okay? You and George are coming, right? Hotel Westbury, eight o’clock.
+CLOTHING STORE|JERRY|I guess I’m coming. I mean...
+CLOTHING STORE|ELAINE|What? What, you don’t want to go now?
+CLOTHING STORE|JERRY|No, I’ll go. I’m going.
+CLOTHING STORE|ELAINE|No, Jerry, you have to. I need a buffer. You know, I haven’t seen my father in a while and... you know...
+CLOTHING STORE|JERRY|I’m worried I won’t be able to talk to him. He’s such a great writer. Frankly, I prefer the company of nitwits.
+CLOTHING STORE|ELAINE|So, that’s why we’re not together anymore.
+CLOTHING STORE|action|Jerry pulls the invisible dagger Elaine just stabbed him with, out of his back. A jacket on a rack catches his eye.
+CLOTHING STORE|JERRY|What is this?
+CLOTHING STORE|action|He takes the jacket off the rack.
+CLOTHING STORE|JERRY|This is beautiful. These jackets never fit me right.
+CLOTHING STORE|ELAINE|Try it on.
+CLOTHING STORE|action|Jerry puts on the jacket. Elaine feels the material.
+CLOTHING STORE|ELAINE|Wow, this is soft suede.
+CLOTHING STORE|JERRY|This may be the most perfect jacket I have ever put on.
+CLOTHING STORE|action|Elaine grabs the tag.
+CLOTHING STORE|JERRY|How much is it?
+CLOTHING STORE|ELAINE|(shocked) Oh my God.
+CLOTHING STORE|JERRY|Bad? (Elaine nods.) Very bad?
+CLOTHING STORE|ELAINE|You have no idea.
+CLOTHING STORE|JERRY|I have some idea.
+CLOTHING STORE|ELAINE|No idea.
+CLOTHING STORE|JERRY|I’ve got a ballpark.
+CLOTHING STORE|ELAINE|There is no park and the team has relocated.
+CLOTHING STORE|JERRY|Let me see that. (Jerry looks at the tag.) That is high.
+CLOTHING STORE|ELAINE|Oh man, that is a beautiful jacket, though.
+CLOTHING STORE|action|Jerry opens up the jacket and looks at the lining.
+CLOTHING STORE|JERRY|What’s with the pink lining and the candy stripes?
+CLOTHING STORE|ELAINE|Well, it’s just a lining. You can always have it changed.
+CLOTHING STORE|JERRY|Should I get it? I hate these moments. I’m hearing the dual voices now, you know, “What about the money?” “What’s money?”
+CLOTHING STORE|action|The salesman returns from the back.
+CLOTHING STORE|SALESMAN|It looks wonderful on you.
+JERRY’S APARTMENT – MORNING|action|Jerry is sitting on his couch wearing his new jacket over his pyjamas. He gets up to look at his jacket in the mirror. Kramer enters.
+JERRY’S APARTMENT – MORNING|JERRY|Hey.
+JERRY’S APARTMENT – MORNING|KRAMER|Hey. New jacket?
+JERRY’S APARTMENT – MORNING|JERRY|What do you think?
+JERRY’S APARTMENT – MORNING|KRAMER|It’s beautiful.
+JERRY’S APARTMENT – MORNING|JERRY|Is it me?
+JERRY’S APARTMENT – MORNING|KRAMER|That’s definitely you.
+JERRY’S APARTMENT – MORNING|JERRY|Really?
+JERRY’S APARTMENT – MORNING|KRAMER|That’s more you than you’ve ever been. Hey, what is with the pink lining?
+JERRY’S APARTMENT – MORNING|JERRY|I don’t know. It’s got a pink lining.
+JERRY’S APARTMENT – MORNING|KRAMER|Oh... So, what did you pay for this?
+JERRY’S APARTMENT – MORNING|KRAMER|How much?
+JERRY’S APARTMENT – MORNING|JERRY|What’s the difference?
+JERRY’S APARTMENT – MORNING|KRAMER|What, you’re not gonna tell me?
+JERRY’S APARTMENT – MORNING|JERRY|I’d rather not say it out loud. It’s embarrassing.
+JERRY’S APARTMENT – MORNING|KRAMER|Over three hundred?
+JERRY’S APARTMENT – MORNING|JERRY|Yes, but let’s just stop it right there.
+JERRY’S APARTMENT – MORNING|KRAMER|It’s over four hundred?
+JERRY’S APARTMENT – MORNING|KRAMER|Is it over four hundred?
+JERRY’S APARTMENT – MORNING|JERRY|Would you?
+JERRY’S APARTMENT – MORNING|action|Kramer finds the tag hanging off the mirror.
+JERRY’S APARTMENT – MORNING|KRAMER|Woah, Nelson!
+JERRY’S APARTMENT – MORNING|JERRY|I know, I know.
+JERRY’S APARTMENT – MORNING|action|Kramer walks over to Jerry’s old jacket, hanging by the door.
+JERRY’S APARTMENT – MORNING|KRAMER|What are you gonna do with the leather one?
+JERRY’S APARTMENT – MORNING|JERRY|I don’t know.
+JERRY’S APARTMENT – MORNING|KRAMER|Well, are you gonna wear it?
+JERRY’S APARTMENT – MORNING|JERRY|Maybe.
+JERRY’S APARTMENT – MORNING|KRAMER|You’re not going to wear this.
+JERRY’S APARTMENT – MORNING|JERRY|Do you want it?
+JERRY’S APARTMENT – MORNING|KRAMER|Well, yeah. Okay. I’ll take it. I like the jacket.
+JERRY’S APARTMENT – MORNING|action|Jerry considers giving up the leather jacket.
+JERRY’S APARTMENT – MORNING|JERRY|Okay, take it.
+JERRY’S APARTMENT – MORNING|KRAMER|Heey, good karma for you. (Kramer puts on Jerry’s old jacket and stands next to Jerry, looking in the mirror.) Oh baby.
+JERRY’S APARTMENT|action|Jerry is sitting on the couch. George enters.
+JERRY’S APARTMENT|GEORGE|(singing) “Master of the house/Doling out the charm/Ready with a handshake and an open palm/Tells a saucy talk/Loves to make a stir/Everyone appreciates a...”
+JERRY’S APARTMENT|JERRY|What is that song?
+JERRY’S APARTMENT|GEORGE|Oh, it’s from Les Miserables. I went to see it last week. I can’t get it out of my head. I just keep singing it over and over. It just comes out. I have no control over it. I’m singin’ it on elevators, buses. I’m singin’ it in front of clients. It’s taken over my life.
+JERRY’S APARTMENT|JERRY|You know, Schumann went mad from that.
+JERRY’S APARTMENT|GEORGE|Artie Schuman? From Camp Hatchapee?
+JERRY’S APARTMENT|JERRY|No, you idiot.
+JERRY’S APARTMENT|GEORGE|What are you, Bud Abbott? What are you callin’ me an idiot?
+JERRY’S APARTMENT|JERRY|You don’t know Robert Schumann? The composer?
+JERRY’S APARTMENT|GEORGE|Oh, Schumann. Of course.
+JERRY’S APARTMENT|JERRY|He went crazy from one note. He couldn’t get it out of his head. I think it was an A. He kept repeating it over and over again. He had to be institutionalized.
+JERRY’S APARTMENT|GEORGE|Really? (Jerry nods his head) Well, what if it doesn’t stop? Oh, that I really needed to hear. That helps a lot! All right, just say something. Just start talking. Change the subject. Let’s just go, All right? I can’t believe we’re having dinner with Alton Benes.
+JERRY’S APARTMENT|JERRY|I know exactly what’s gonna happen tonight. I’m gonna try and act like I’m not impressed, he’s gonna see right through it.
+JERRY’S APARTMENT|GEORGE|Yeah, he’ll be looking at us like he’s backstage at a puppet show.
+JERRY’S APARTMENT|JERRY|Let me just get my jacket.
+JERRY’S APARTMENT|action|Jerry enters the bedroom.
+JERRY’S APARTMENT|GEORGE|(singing) : “Master of the house/Keeper of the inn...” (Jerry re-enters the living room and modestly models his new jacket for George. George is impressed.) This is huge! When did this happen?
+JERRY’S APARTMENT|JERRY|Wednesday. This jacket has completely changed my life. When I leave the house in this, it’s with a whole different confidence. Like tonight, I might’ve been a little nervous. But, inside this jacket, I am composed, grounded, secure that I can meet any social challenge.
+JERRY’S APARTMENT|GEORGE|Can I say one thing to you? And I say this with an unblemished record of staunch heterosexuality.
+JERRY’S APARTMENT|JERRY|Absolutely.
+JERRY’S APARTMENT|GEORGE|It’s fabulous.
+JERRY’S APARTMENT|JERRY|I know.
+JERRY’S APARTMENT|GEORGE|And I’ll tell you something else, I’m not even going to ask you. I want to know. But I’m not gonna ask. You’ll tell me when you feel comfortable. So what was it? Four hundred? Five hundred? Did you pay five hundred for this? (Jerry coyly ignores George’s questions, while George grows increasingly serious.) Over six? Can’t be seven. Don’t tell me you paid seven hundred dollars for this jacket! Did you pay seven hundred dollars for this jacket? Is that what you’re saying to me? You are sick! Is that what you paid for this jacket? Over seven hundred? What did you pay for this jacket?! I won’t say anything. I wanna know what you paid for this jacket! Oh my God! A thousand dollars?! You paid a thousand dollars for this jacket?! All right, fine. (George heads for the door.) I’m walking outta here right now thinking you paid a thousand dollars for this jacket, unless you tell me different. (Jerry remains silent.) Oh, ho! All right! I’ll tell you what, if you don’t say anything in the next five seconds, I’ll know it was over a thousand.
+JERRY’S APARTMENT|action|George gets ready with his watch. Enter Kramer.
+JERRY’S APARTMENT|KRAMER|(to Jerry) Hey. Hey, would you do me a solid?
+JERRY’S APARTMENT|JERRY|Well, what kind of solid?
+JERRY’S APARTMENT|KRAMER|I need you to sit in the car for two minutes while it’s double-parked. I gotta pick up some birds.
+JERRY’S APARTMENT|JERRY|Birds?
+JERRY’S APARTMENT|KRAMER|Yeah. A friend of mine, he’s a magician. He’s going away on vacation. He asked me to take care of his doves.
+JERRY’S APARTMENT|JERRY|So take a cab.
+JERRY’S APARTMENT|KRAMER|They won’t take a cage full of birds.
+JERRY’S APARTMENT|JERRY|I can’t. I’m on my way out. There’s no way I can do it.
+JERRY’S APARTMENT|KRAMER|George, do me a solid? Two minutes.
+JERRY’S APARTMENT|GEORGE|Well, I’m going with him. I’d like to... I’ve never done a ‘solid’ before.
+JERRY’S APARTMENT|KRAMER|All right... Yeah. All right, have a good one.
+JERRY’S APARTMENT|action|Kramer leaves.
+JERRY’S APARTMENT|JERRY|(scoffs) Two minutes. Believe me, I know his two minutes. By his conception of time, his life will last over two thousand years.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Jerry and George enter.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|(singing) “Master of the House/Quick to catch your eye/Never wants a passerby to pass him by...”
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Jerry points to his head with a “crazy” gesture.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|Schumann. (George stops himself, frightened. Jerry looks around the lobby.) Where are they?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|Maybe he didn’t show up.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|George starts to leave the hotel.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|What, you don’t want to do this?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|I don’t think there’s ever been an appointment in my life where I wanted the other guy to show up. (George notices an elderly man in a leather chair.) Wait a second, is that him?
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|Yeah, I think it is. (They walk toward the man. Jerry hesitates.) Where’s Elaine?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|I’m nervous.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|(to the man) Excuse me. Mister Benes?
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Yeah?
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|I’m Jerry, Elaine’s friend, and this is George.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|George offers his hand to Alton.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|It’s a great thrill to meet you, Sir.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Alton starts hacking. George withdraws his hand. Alton gestures to a couch beside the leather chair.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Sit down. Want a drink?
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Jerry and George sit.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|Sure.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Alton summons the waiter, who approaches.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|What’ll you have?
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|(to waiter) I’ll have a cranberry juice with two limes.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|And, I’ll have a club soda with no ice.
+HOTEL WESTBURY’S LOBBY – NIGHT|BENES|I’ll have another Scotch with plenty of ice.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|The waiter exits.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|You like ice?
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Huh?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|I said, do you like ice?
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Like it?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|Don’t you think you get more without it?
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Where’s Elaine?
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|Well, we thought she was meeting you earlier. She’s usually pretty punctual. Don’t you find that, George?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|Yeah, yeah. She’s punctual... and uh she’s been late, sometimes.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|Yeah, yeah. Sometimes she’s on time, and... sometimes she’s late.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|I guess... (chuckles) today she’s late.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|It appears that way.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|Yup.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|Yup.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Jerry and George look at the door, anticipating Elaine’s arrival.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Looks like rain.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|I know, I know, that’s what they said.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Who said?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|The weather guy, Dr. Waldo.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|I don’t need anybody to tell me it’s gonna rain.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|No, of course not. I didn’t-
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|All I have to do is stick my head out the window. (The waiter returns with the drinks, and distributes them to the men.) Which one’s suppose to be the funny guy?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|(pointing at Jerry) Oh, he’s the comedian.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|I’m just a regular person.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|No, no. He’s just being modest.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|We had a funny guy with us in Korea. Tailgunner. They blew his brains out all over the Pacific. There’s nothing funny about that.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Jerry and George turn to the door again. Pause. Jerry gets up.
+HOTEL WESTBURY’S LOBBY – NIGHT|JERRY|Would you excuse me a minute? I’m gonna go to the bathroom. I’ll be right back.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|George holds on to Jerry’s jacket, but he pulls away and exits. George is alone with Alton.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|I just wanted to tell you that I really enjoyed Fair Game. I thought it was just brilliant.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Drivel.
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|Yea, well, maybe some parts.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|(defensive) What parts?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|The... drivel... parts. Oh my gosh, I just realized – I have to make a phone call. I-I can’t believe- Would you-
+HOTEL WESTBURY’S LOBBY – NIGHT|action|George leaves.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|action|Jerry is washing his face. George enters.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|GEORGE|Thank you for leaving me alone with him!
+HOTEL WESTBURY’S BATHROOM – CONTINUING|JERRY|That was brutal. I can’t go back out there.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|GEORGE|Well, let’s just leave.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|JERRY|Elaine’ll kill me.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|GEORGE|Where is she?
+HOTEL WESTBURY’S BATHROOM – CONTINUING|JERRY|She’s gotta be here soon.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|GEORGE|How could she leave us alone with this lunatic? Ten more minutes, and that’s it! I’m leaving. I have to tell you, this guy scares me.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|JERRY|The waiter was trembling!
+HOTEL WESTBURY’S BATHROOM – CONTINUING|GEORGE|If she doesn’t show up, we can’t possibly have dinner with him alone.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|JERRY|How are we gonna get out of it?
+HOTEL WESTBURY’S BATHROOM – CONTINUING|GEORGE|We’ll say we’re frightened and we have to go home.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|JERRY|Yeah, that’s good. He’d clunk our heads together like Moe.
+HOTEL WESTBURY’S BATHROOM – CONTINUING|GEORGE|I don’t know. Just start scratching. Tell him you have the crabs. He was in the military. He’ll understand that.
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|All fathers are intimidating. They’re intimidating because they are fathers. Once a man has children, for the rest of his life, his attitude is, “To hell with the world, I can make my own people. I’ll eat whatever I want, I’ll wear whatever I want, and I’ll create whoever I want.”
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Jerry and George return from the bathroom.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|(to George) Who’d you call?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|(improvising) My uh uncle is having an operation. I just wanted to see how he was.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|What kind of operation?
+HOTEL WESTBURY’S LOBBY – NIGHT|GEORGE|Bone marrow.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|The hotel’s MANAGER approaches.
+HOTEL WESTBURY’S LOBBY – NIGHT|MANAGER|Mister Benes?
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|Yes?
+HOTEL WESTBURY’S LOBBY – NIGHT|MANAGER|A message for you.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|The manager hands him a message written on a piece of paper. Alton reads it to himself.
+HOTEL WESTBURY’S LOBBY – NIGHT|ALTON|From Elaine. She got tied up. She’ll be here in thirty minutes.
+HOTEL WESTBURY’S LOBBY – NIGHT|action|Jerry and George freeze.
+HOTEL LOBBY – LATER|action|Alton is in the middle of a rant.
+HOTEL LOBBY – LATER|ALTON|Yeah, they should’ve taken care of Castro when they had the chance. Like we did in Guatamala in ‘fifty-three.
+HOTEL LOBBY – LATER|JERRY|Well, Guatamala...
+HOTEL LOBBY – LATER|GEORGE|Sure, Guatamala...
+HOTEL LOBBY – LATER|action|Alton gets up.
+HOTEL LOBBY – LATER|ALTON|All right, you boys get yourselves together. We’ll head up to the restaurant. I’ll leave a note for Elaine. I’m going to the bathroom.
+HOTEL LOBBY – LATER|action|Alton exits.
+HOTEL LOBBY – LATER|GEORGE|Come on, let’s go!
+HOTEL LOBBY – LATER|JERRY|What about Elaine?
+HOTEL LOBBY – LATER|GEORGE|To hell with Elaine!
+HOTEL LOBBY – LATER|JERRY|She’ll be furious.
+HOTEL LOBBY – LATER|GEORGE|We’re dying here!
+HOTEL LOBBY – LATER|action|Elaine enters.
+HOTEL LOBBY – LATER|JERRY|That’s her! She’s here!
+HOTEL LOBBY – LATER|ELAINE|I’m sorry. I’m so sorry. Where is Dad?
+HOTEL LOBBY – LATER|GEORGE|(contemptuously, imitating Alton’s voice) He’s in the bathroom.
+HOTEL LOBBY – LATER|JERRY|(to Elaine) Where have you been?!
+HOTEL LOBBY – LATER|ELAINE|Kramer! That... Kramer! I’m just about to leave, he calls me up. He begs me to sit in his car for two minutes, so he can pick up these birds...
+HOTEL LOBBY – LATER|JERRY|Oh, you didn’t...
+HOTEL LOBBY – LATER|ELAINE|Well, he said he’d drive me here right after. So, I am sitting in his car twenty minutes! He doesn’t come down. I am freezing. Then a cop comes by, tells me to get out of the car. He’s a city marshal. He’s towing the car away. Kramer owes thousands of dollars in back tickets. He was going to tow it with me in the car! So, they tow the car. Now, I am standing outside, and I am freezing, but I cannot leave because I have to tell him what happened to the car. So, finally, he finally comes down with his giant cage filled with doves. He said he was getting special instructions, that each dove has a different diet... So, we’re wandering around trying to get a cab, when two of these doves fly out! Now we’re running down the street after these doves; I almost got hit by a bus! (Elaine sits in Alton’s chair and takes a deep breath.) So how’s everything going over here?
+HOTEL LOBBY – LATER|JERRY|Great.
+HOTEL LOBBY – LATER|GEORGE|Couldn’t be better.
+HOTEL LOBBY – LATER|ELAINE|Good. ‘Cause Dad can make some people a little uncomfortable.
+HOTEL LOBBY – LATER|JERRY|Oh, no, no.
+HOTEL LOBBY – LATER|GEORGE|Get outta here..
+HOTEL LOBBY – LATER|ELAINE|Man, Kramer! I could kill him!
+HOTEL LOBBY – LATER|JERRY|I can’t believe it. You know better than to get involved with Kramer.
+HOTEL LOBBY – LATER|JERRY|Ah, the lift. Like the lure of the siren’s song. Never what it seems to be, yet who among us can resist?
+HOTEL LOBBY – LATER|GEORGE|Where do you come up with this stuff?
+HOTEL LOBBY – LATER|action|Alton returns.
+HOTEL LOBBY – LATER|ALTON|Well, look who’s here.
+HOTEL LOBBY – LATER|ELAINE|Oh, hi, Dad.
+HOTEL LOBBY – LATER|ALTON|Hello, dear.
+HOTEL LOBBY – LATER|action|Alton kisses Elaine.
+HOTEL LOBBY – LATER|ALTON|Who’s the lipstick for?
+HOTEL LOBBY – LATER|ELAINE|No one.
+HOTEL LOBBY – LATER|ALTON|How’s your mother?
+HOTEL LOBBY – LATER|ELAINE|Fine.
+HOTEL LOBBY – LATER|ALTON|How about you? Are you working?
+HOTEL LOBBY – LATER|ELAINE|Yeah, I’m reading manuscripts for Pendant Publishing. I told you ten times.
+HOTEL LOBBY – LATER|ALTON|Pendant! Those bastards. Well all right, boys. We’ll go to that Pakistani restaurant on 46th Street. You’re not afraid of a little spice, are you?
+HOTEL LOBBY – LATER|action|They all head for the door. Jerry and George trail behind a little.
+HOTEL LOBBY – LATER|GEORGE|(singing) “Master of the house/Doling out the charm/Ready with a handshake and an open...”
+HOTEL LOBBY – LATER|ALTON|Pipe down, chorus boy.
+HOTEL LOBBY – LATER|action|Alton glares; George gets embarrassed. Elaine looks out the window.
+HOTEL LOBBY – LATER|ELAINE|Ohh... it’s snowing. It’s beautiful.
+HOTEL LOBBY – LATER|JERRY|(to George) Snow. Snow, that can’t be good for suede, can it?
+HOTEL LOBBY – LATER|GEORGE|I wouldn’t think so.
+HOTEL LOBBY – LATER|JERRY|What should I do? (to Alton) Uh, we’re taking a cab, aren’t we?
+HOTEL LOBBY – LATER|ALTON|Cab? It’s only five blocks.
+HOTEL LOBBY – LATER|GEORGE|(to Jerry) Why don’t you just turn it inside out?
+HOTEL LOBBY – LATER|JERRY|Inside out! Great.
+HOTEL LOBBY – LATER|action|Jerry turns his jacket inside out, exposing the pink stripes. Alton stops him before Jerry can leave the hotel.
+HOTEL LOBBY – LATER|ALTON|Wait a minute. What the hell do you call this?
+HOTEL LOBBY – LATER|JERRY|Oh, I turned my jacket inside out.
+HOTEL LOBBY – LATER|ALTON|Well, you look like a damn fool!
+HOTEL LOBBY – LATER|JERRY|Well, it’s a new suede jacket. It might get ruined.
+HOTEL LOBBY – LATER|ALTON|Well, you’re not going to walk down the street with me and my daughter dressed like that. That’s for damn sure.
+HOTEL LOBBY – LATER|action|Jerry looks to George.
+HOTEL LOBBY – LATER|GEORGE|It’s uh, it's only a few blocks.
+JERRY’S APARTMENT – NIGHT|action|Jerry is heading out. The intercom buzzes. Jerry presses the first button.
+JERRY’S APARTMENT – NIGHT|JERRY|(to the intercom) Elaine?
+JERRY’S APARTMENT – NIGHT|ELAINE|Yeah.
+JERRY’S APARTMENT – NIGHT|JERRY|Come on up.
+JERRY’S APARTMENT – NIGHT|action|Kramer enters.
+JERRY’S APARTMENT – NIGHT|KRAMER|Hey.
+JERRY’S APARTMENT – NIGHT|JERRY|Hey.
+JERRY’S APARTMENT – NIGHT|KRAMER|I’ve gotta feed the birds.
+JERRY’S APARTMENT – NIGHT|JERRY|So?
+JERRY’S APARTMENT – NIGHT|KRAMER|You got any of those mini Ritzes?
+JERRY’S APARTMENT – NIGHT|action|Jerry reaches up, and pulls some mini Ritzes from atop his refrigerator. He examines the box.
+JERRY’S APARTMENT – NIGHT|JERRY|I can’t believe I do.
+JERRY’S APARTMENT – NIGHT|KRAMER|Yeah! Well, are you going out?
+JERRY’S APARTMENT – NIGHT|JERRY|Yeah.
+JERRY’S APARTMENT – NIGHT|KRAMER|Hey, where’s your new jacket? (Jerry points to the jacket hanging in the bathroom. It’s ruined.) What? (Kramer enters the bathroom, and sees the garment.) Ohhh. What did you do to it?
+JERRY’S APARTMENT – NIGHT|JERRY|I was out in the snow last night.
+JERRY’S APARTMENT – NIGHT|KRAMER|Don’t you know what that does to suede?
+JERRY’S APARTMENT – NIGHT|JERRY|I have an idea. (Elaine enters; to Elaine) We can make the nine-thirty at Cinema Three.
+JERRY’S APARTMENT – NIGHT|ELAINE|Okay. (to Kramer) Hello. (to Jerry) Listen, thanks again for coming last night. Dad said he had a great time.
+JERRY’S APARTMENT – NIGHT|JERRY|Is he still in town?
+JERRY’S APARTMENT – NIGHT|ELAINE|No, he’s driving back to Maryland tonight.
+JERRY’S APARTMENT – NIGHT|action|Kramer is holding a sleeve of the suede jacket.
+JERRY’S APARTMENT – NIGHT|KRAMER|So, uh... what are you gonna do with that one now?
+JERRY’S APARTMENT – NIGHT|JERRY|I don’t know.
+JERRY’S APARTMENT – NIGHT|KRAMER|(smiling) Well...
+JERRY’S APARTMENT – NIGHT|ELAINE|(to Jerry) I didn’t want to tell you this, but usually he hates everyone.
+JERRY’S APARTMENT – NIGHT|JERRY|Really?
+JERRY’S APARTMENT – NIGHT|KRAMER|You gonna throw this out?
+JERRY’S APARTMENT – NIGHT|JERRY|Well, I can’t wear it.
+JERRY’S APARTMENT – NIGHT|ELAINE|Yeah, he like you though. Said you reminded him of somebody he knew in Korea.
+JERRY’S APARTMENT – NIGHT|KRAMER|(to Jerry) Well, if you’re just gonna throw it out, you know, I could take it.
+JERRY’S APARTMENT – NIGHT|JERRY|Yeah, go ahead, take it.
+JERRY’S APARTMENT – NIGHT|ELAINE|Dad thinks George is gay.
+JERRY’S APARTMENT – NIGHT|JERRY|Oh, because of all the singing?
+JERRY’S APARTMENT – NIGHT|ELAINE|No, he pretty much thinks everyone is gay.
+JERRY’S APARTMENT – NIGHT|action|Kramer returns from the bathroom, wearing the ruined suede jacket.
+JERRY’S APARTMENT – NIGHT|KRAMER|Hey, see, I like it like this.
+JERRY’S APARTMENT – NIGHT|action|Elaine points at the jacket Kramer is wearing.
+JERRY’S APARTMENT – NIGHT|ELAINE|Isn’t that...? (Jerry nods.) Oh, is this from the snow last night? (Jerry nods.) Ugh... you know what you should’ve done? You should’ve turned it inside out.
+JERRY’S APARTMENT – NIGHT|JERRY|I’ll try and remember that.
+JERRY’S APARTMENT – NIGHT|action|Kramer is holding Jerry’s old leather jacket.
+JERRY’S APARTMENT – NIGHT|KRAMER|Boy, it’s too bad you gave me this one too.
+JERRY’S APARTMENT – NIGHT|JERRY|Yeah, too bad.
+JERRY’S APARTMENT – NIGHT|action|Kramer opens up the suede jacket.
+JERRY’S APARTMENT – NIGHT|KRAMER|I’m gonna have to do something about this lining.
+JERRY’S APARTMENT – NIGHT|action|Kramer exits.
+ALTON’S CAR – NIGHT|action|Alton is driving home.
+ALTON’S CAR – NIGHT|ALTON|(singing) “Master of the house/Doling out the charm/Ready with a handshake and an open palm...”
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|I had a leather jacket that got ruined. Now, why does moisture ruin leather? I don’t get this. Aren’t cows outside most of the time? I don’t understand it. When it’s raining do cows go up to the farmhouse, “Let us in, we’re all wearin’ leather. Open the door! We’re gonna ruin the whole outfit here!” “Is it suede?” “I am suede, the whole thing is suede, I can’t have this cleaned. It’s all I got!”

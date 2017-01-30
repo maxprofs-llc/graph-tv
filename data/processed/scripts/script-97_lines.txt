@@ -1,0 +1,342 @@
+Pro shop at Manhattan Plaza Racquet Club|JERRY|Come on. Lets go
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|No wait, I gotta go in here and pick up Mr. Pitt's tennis recquet.
+Pro shop at Manhattan Plaza Racquet Club|JERRY|What's it doin here?
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|He wanted to have it restrung. (to clerk) Here I need to pick that up
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|Hello
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Oh, Hi.
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|Jocylin Landis from Doubleday. I interviewed you for a position a couple of months ago.
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Yes, yes, the one I didn't get. (they giggle)
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|I was watching you play
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Oh, I'm not very good.
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|No. You exhibited a lot of grace out there.
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Really? Grace?
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|Yes. So have you found anything yet?
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Uh, no. Not really.
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|You know you should keep in touch. Something may be opening up in a few weeks. Is that a Bruline?
+Pro shop at Manhattan Plaza Racquet Club|JERRY|Oh, Bruline. Newman's got the same one.
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Newman plays tennis?
+Pro shop at Manhattan Plaza Racquet Club|JERRY|He's fantastic.
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|Would you mind if I tried this out?
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Uh, no ... take it.
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|How will you get it back?
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Um, I could come by your office and pick it up tomorrow.
+Pro shop at Manhattan Plaza Racquet Club|LANDIS|That's so generous of you.
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Thanks
+Pro shop at Manhattan Plaza Racquet Club|JERRY|You loaned her Pitt's racquet?
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|What could I do? She said there might be something for me at Doubleday. Oh wouldn't that be great I wouldn't have to work for Mr. Pitt anymore.
+Pro shop at Manhattan Plaza Racquet Club|SANDY|I gotta get going.
+Pro shop at Manhattan Plaza Racquet Club|JERRY|Oh, OK. Next time lets play ping pong. It's easier to jump over the net.
+Pro shop at Manhattan Plaza Racquet Club|SANDY|(nods silently)
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Bye
+Pro shop at Manhattan Plaza Racquet Club|JERRY|Bye bye
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Have you noticed she never laughs
+Pro shop at Manhattan Plaza Racquet Club|JERRY|Hm, really?
+Pro shop at Manhattan Plaza Racquet Club|ELAINE|Yeah
+Kramer and George on street|GEORGE|Check that out (showing newspaper)
+Kramer and George on street|KRAMER|Whoa, you're dating this woman?
+Kramer and George on street|GEORGE|That's right.
+Kramer and George on street|KRAMER|George, you're becoming one of the gliterratti
+Kramer and George on street|GEORGE|What's that.
+Kramer and George on street|KRAMER|Ya' know, people who glitter. She's a slim gal.
+Kramer and George on street|GEORGE|And the amazing thing is she eats like there's no tomorra'. I mean I've never seen an appetite like this. Desserts. Everything. I don't know how she does it.
+Kramer and George on street|KRAMER|Maybe she's bulimic
+Kramer and George on street|GEORGE|Wa?
+Kramer and George on street|KRAMER|Bulimic,
+Kramer and George on street|GEORGE|Kramer, she's a model.
+Kramer and George on street|KRAMER|Exactly
+Kramer and George on street|GEORGE|I have noticed she does tend to go to the bathroom right after we finish eating.
+Kramer and George on street|KRAMER|There you go monkey boy.
+Pepperdella's Restaurant|NINA|Mmm, Mmmm oh, so good, mmm, mmm. Aren't you hungry?
+Pepperdella's Restaurant|GEORGE|Just enjoying watching you.
+Other restaurant|SANDY|So did you like the movie?
+Other restaurant|JERRY|Yeah, it was OK. Frankenstein didn't seem quite right to me. I missed the sport jacket.
+Other restaurant|SANDY|(nods silently)
+Other restaurant|JERRY|Not that it was that nice of a jacket. I mean it didn't fit him that well. To me there's just something about a monster in a blazer. It shows at least he's making an effort.
+Other restaurant|SANDY|(nods silently) That's funny.
+Other restaurant|JERRY|I'm glad you enjoyed it.
+Pepperdella's Restaurant|NINA|Oh, I'm so full.
+Pepperdella's Restaurant|GEORGE|Yes, full. I love to be full ... love to sit back, loosen the old belt and digest away for hours. Let those enzymes do their work.
+Pepperdella's Restaurant|NINA|Will you excuse me.
+Pepperdella's Restaurant|GEORGE|Where you going?
+Pepperdella's Restaurant|NINA|I just need to freshen up.
+Pepperdella's Restaurant|GEORGE|You're fresh (grabs her arm) You're very fresh. You seem very fresh to me. You're very vital. I couldn't take you any fresher.
+Pepperdella's Restaurant|NINA|George I need to freshen., George, George, George ...
+Jerry's Apartment|JERRY|It was unbelievable. You're right the jokes kept bouncing off her like superman.
+Jerry's Apartment|ELAINE|See, what did I tell ya?
+Jerry's Apartment|JERRY|And even when she did like something, she doesn't laugh. She says, "That's funny." ... That's funny!
+Jerry's Apartment|ELAINE|Oo, I better call that woman at Doubleday and see when I can pick up Mr. Pitt's racquet.
+Jerry's Apartment|JERRY|I mean how can I be with someone that doesn't laugh. It's like ... well it's like something!
+Jerry's Apartment|ELAINE|(on phone)Hello, yeah, hi. Uh, is Miss. Landis there please. Wa? Oh, Gosh, ah ok, she'll be in later? OK, thank you. Uh. (to Jerry) This guy said she hurt her arm playing tennis. ... Pretty bad.
+Jerry's Apartment|action|George enters
+Jerry's Apartment|GEORGE|Well, I heard a noise.
+Jerry's Apartment|JERRY|What noise?
+Jerry's Apartment|GEORGE|You know, .. blah ...
+Jerry's Apartment|JERRY|What blah?
+Jerry's Apartment|GEORGE|From the bathroom.
+Jerry's Apartment|JERRY|Oh, you think she was refunding?
+Jerry's Apartment|GEORGE|Every time we go out to eat the minute we we're done eating she's runnin to the bathroom.
+Jerry's Apartment|ELAINE|So you're concerned.
+Jerry's Apartment|GEORGE|Elaine, of course I'm concerned. I'm payin' for those meals. It's like throwing money down the toilet.
+Jerry's Apartment|JERRY|In a manner of speaking.
+Jerry's Apartment|GEORGE|Let me digest it. Let me get my money's worth. Y'know what would be good is if there was someone else in the bathroom that could tell me.
+Jerry's Apartment|action|Kramer enters.
+Jerry's Apartment|KRAMER|Here's your scrubber back.
+Jerry's Apartment|JERRY|Thanks.
+Jerry's Apartment|GEORGE|Hey, maybe I could bribe one of those women that hand out the towels in the powder room.
+Jerry's Apartment|JERRY|A matron?
+Jerry's Apartment|GEORGE|Yeah
+Jerry's Apartment|action|Kramer nervously waves at to stop Jerry talking
+Jerry's Apartment|JERRY|uh, well I can't help you there (weakly).
+Jerry's Apartment|GEORGE|Wha?
+Jerry's Apartment|KRAMER|Nothin'
+Jerry's Apartment|GEORGE|You know a matron?
+Jerry's Apartment|KRAMER|Me?
+Jerry's Apartment|GEORGE|You
+Jerry's Apartment|KRAMER|No.
+Jerry's Apartment|GEORGE|Kramer,
+Jerry's Apartment|KRAMER|Well, now look, just leave me alone.
+Jerry's Apartment|GEORGE|Well, what is it?
+Jerry's Apartment|KRAMER|No, don't, don't make me
+Jerry's Apartment|GEORGE|Wha?
+Jerry's Apartment|KRAMER|No, I can't, all right I can't ...
+Jerry's Apartment|GEORGE|Who?
+Jerry's Apartment|KRAMER|... My mother's a matron!
+Jerry's Apartment|ELAINE|Babs?
+Jerry's Apartment|KRAMER|Yeah, there, all right I said it there.. Ya' satisfied? Anything else you want to know?
+Jerry's Apartment|GEORGE|Kramer, Kramer, I need to know if Nina is refunding.
+Jerry's Apartment|KRAMER|Look, George, I can't help ya, all right.
+Jerry's Apartment|GEORGE|Why not? Why not?
+Jerry's Apartment|KRAMER|let me go. let me go. Because I haven't talked to my mother in five years. We just don't see eye to eye. I don't even want to get into my childhood. I'm still carrying a lot of pain. A LOT of pain.
+Jerry's Apartment|GEORGE|Come on, Kramer.
+Jerry's Apartment|KRAMER|I can't I can't
+Jerry's Apartment|JERRY|Kramer you're going to have to face her some time
+Jerry's Apartment|KRAMER|(mumbles) b'd b'd
+Doubleday offices|ELAINE|Hello (sees Landis) Oh, my goodness. What happened?
+Doubleday offices|LANDIS|I tore my umeral epicondilitist
+Doubleday offices|ELAINE|Oh
+Doubleday offices|LANDIS|My doctor said it might never fully heal. I may never play again.
+Doubleday offices|ELAINE|Oh, you'll be playing ...
+Doubleday offices|LANDIS|If I can't play tennis I don't know what I'll do.
+Doubleday offices|ELAINE|There are plenty of things you can do, there's chess and uh uh mah jong,
+Doubleday offices|LANDIS|You don't know how lucky you are to be healthy ...
+Doubleday offices|ELAINE|... and biking and ..
+Doubleday offices|LANDIS|What am I going to do?
+Doubleday offices|ELAINE|... hiking ...
+Doubleday offices|LANDIS|(wimpers)
+Doubleday offices|ELAINE|(sees racquet) Could I ...
+Doubleday offices|LANDIS|If I can't play tennis I have no reason to live .. (cries)
+Doubleday offices|ELAINE|(sees racquet), You know it's not important I'm gonna, ok, well, you know. Take care of that condolitis
+Restaurant Woman's Powder Room|action|Kramer and George enter
+Restaurant Woman's Powder Room|KRAMER|Ma?
+Restaurant Woman's Powder Room|BABS|Cosmo!
+Restaurant Woman's Powder Room|GEORGE|Cosmo?
+Jerry's apartment|JERRY|Why didn't you just ask her for it?
+Jerry's apartment|ELAINE|I told you I couldn't. The woman was crying about how she might never play tennis again
+Jerry's apartment|action|Buzzer
+Jerry's apartment|JERRY|Yeah
+Jerry's apartment|GEORGE|Hey di ho
+Jerry's apartment|JERRY|C'mon up.
+Jerry's apartment|JERRY|So when do you have to get the racquet back to Mr. Pitt?
+Jerry's apartment|ELAINE|augh, he's got a big match tomorrow with Ethyl Kennedy
+Jerry's apartment|JERRY|He needs a three hundred-dollar Bruline to beat Ethyl Kennedy?
+Jerry's apartment|ELAINE|He'll only play with his racquet
+Jerry's apartment|JERRY|Well, why don't you wait 'til she's not there on her lunch hour and just take it?
+Jerry's apartment|ELAINE|That's stealing?
+Jerry's apartment|JERRY|Stealing? You loaned her the racquet!
+Jerry's apartment|ELAINE|I know.
+Jerry's apartment|action|George enters
+Jerry's apartment|GEORGE|Hey oh.
+Jerry's apartment|ELAINE|JERRY: Hey
+Jerry's apartment|JERRY|So what happened with Kramer's mother?
+Jerry's apartment|GEORGE|It's all worked out. Nina and I will have dinner Thursday at the restaurant where Babs works.
+Jerry's apartment|JERRY|What's she like?
+Jerry's apartment|GEORGE|Oh, she's a Kramer. And uh, while I was there I uh happened to pick up another juicy little nugget about our friend.
+Jerry's apartment|ELAINE|Ah, I'm ready what?
+Jerry's apartment|JERRY|What is it?
+Jerry's apartment|GEORGE|I uh got the first name.
+Jerry's apartment|ELAINE|You found out Kramer's first name?
+Jerry's apartment|GEORGE|That's right. You ready?
+Jerry's apartment|JERRY|We've been trying to get it out of him for ten years. What is it?
+Jerry's apartment|GEORGE|Cosmo
+Jerry's apartment|ELAINE|JERRY: Cosmo?
+Jerry's apartment|GEORGE|Cosmo
+Jerry's apartment|ELAINE|JERRY: Cosmo
+Jerry's apartment|action|- all laugh - 
+Jerry's apartment|ELAINE|Cosmo, Cosmo?
+Jerry's apartment|action|Kramer enters
+Jerry's apartment|KRAMER|What's so funny? ... wha?
+Jerry's apartment|ELAINE|COSMO?
+Jerry's apartment|KRAMER|All right, OK So you the name now. The cat is .a a a .. out of the bag.
+Jerry's apartment|ELAINE|It's not such a bad name.
+Jerry's apartment|KRAMER|Well you know all my life I've been running away from that name. That's why I wouldn't tell anybody. But I've been thinking about it. All this time I'm trying not to be me. I'm afraid to face who I was. But I'm Cosmo Jerry. I'm Cosmo Kramer. And that's who I'm going to be. From now on that's who I'm going to be. I'm Cosmo!
+Sandy's apartment|LAURA|Yes?
+Sandy's apartment|JERRY|Hi, is Sandy here?
+Sandy's apartment|LAURA|Hi, you must be Jerry. Sandy's in the shower. Do you want to come in?
+Sandy's apartment|JERRY|I would except I forgot to bring a towel.
+Sandy's apartment|LAURA|(laughs nicely)
+Monks|action|Jerry starts.
+Monks|JERRY|So the roommate laughed at everything I said.
+Monks|GEORGE|Wow.
+Monks|JERRY|It was a great sounding laugh too, kind of lilting and feminine--none of those big coarse "ha's." You know those?
+Monks|GEORGE|Oh yeah: HA-A-A, HA-A-A.
+Monks|JERRY|Yeah.
+Monks|GEORGE|Hate the big coarse "ha." Hate those.
+Monks|JERRY|And the worst part of course is that she also possessed many of the other qualities prized by the Superficial Man.
+Monks|GEORGE|I see.
+Monks|JERRY|So as you can see, I've got a bit of a problem here.
+Monks|GEORGE|Well, if I hear you correctly--and I think that I do--my advice to you is to finish your meal, pay your check, leave here, and never mention this to anyone again.
+Monks|JERRY|Can't be done, huh?
+Monks|GEORGE|The Switch?
+Monks|JERRY|"The Switch."
+Monks|GEORGE|Can't be done.
+Monks|JERRY|I wonder.
+Monks|GEORGE|Do you realize in the entire history of western civilization no one has successfully accomplished the Roommate Switch? In the Middle Ages you could get locked up for even suggesting it!
+Monks|JERRY|They didn't have roommates in the Middle Ages.
+Monks|GEORGE|Well, I'm sure at some point between the years 800 and 1200--somewhere--there were two women living together.
+Monks|JERRY|The point is I intend to undertake this. And I'll do it with or without you. So if you're scared, if you haven't got the stomach for this, let's get it out right now! And I'll go on my own. If not, you can get on board and we can get to work! Now what's it going to be?
+Monks|GEORGE|All right, dammit, I'm in.
+Monks|JERRY|I couldn't do it without you.
+Monks|GEORGE|All right. Let's get to work.
+Monks|action|Now here's the boys' second conversation on the subject, after we've seen them struggling with the issue over coffee, wandering the sidewalks of NYC-- all to 40's-style movie music--before continuing their discussion in Jerry's apartment. George begins this time.
+Monks|GEORGE|All right. That's enough for today. You're tired. Get some sleep. I'll see you first thing in the morning.
+Monks|JERRY|Aw, we can't do it, who are we kidding? It's impossible! It's true! You can't do the Switch! Nobody can do the Switch! It was a stupid idea to begin with! Let's face it. I'm stuck with the non-laugher and that's that!
+Monks|GEORGE|We'll come up with something.
+Monks|JERRY|Yeah, sure we will.
+Monks|GEORGE|All right. See you tomorrow. (George sighs, exits.)
+Monks|action|Pregnant pause, then George bursts back in.
+Monks|GEORGE|I-I-I-I-I got it!!!!!
+Monks|action|"third scene,"The boys are finishing pizza and beer. George begins here, slowly, carefully, to make sure Jerry's got it. (Be sure to keep in mind the descriptions' hilarious visual enactments.)
+Monks|GEORGE|All right. Let's go over it again, one more time.
+Monks|JERRY|All right. So I tell Sandy that I want to have a ménage à trois with her and her roommate.
+Monks|GEORGE|That's right.
+Monks|JERRY|And you believe this course of action will have a two-pronged effect. Firstly, the very mention of the idea will cause Sandy to recoil in disgust, whereupon she will insist that I remove myself from the premises.
+Monks|GEORGE|Keep going.
+Monks|JERRY|At this point, it is inevitable that she will seek out the roommate to apprise her of this abhorrent turn of events.
+Monks|GEORGE|Continue.
+Monks|JERRY|The roommate will then offer her friend the requisite sympathy even as part of her cannot help but feel somewhat flattered by her inclusion in the unusual request.
+Monks|action|George takes over.
+Monks|GEORGE|A few days go by and a call is placed at a time when Sandy is known to be busy at work. Once the initial awkwardness is relieved with a little playful humor, which she [Laura] of course cannot resist, an invitation to a friendly dinner is proffered.
+Monks|JERRY|Huh. Well, it all sounds pretty good. There's only one flaw in it: They're roommates. She'd have to go out with me behind Sandy's back. She's not gonna do that.
+Monks|action|Another pregnant pause. George?
+Monks|GEORGE|You disappoint me, my friend. Sandy wants nothing to do with you. She tells Laura, "If you want to waste your time with that pervert, that's your problem."
+Monks|action|Final pause. Jerry?
+Monks|JERRY|It's a perfect plan. So inspired. So devious. Yet so simple.
+Monks|GEORGE|(George, finger in the peanut butter jar): This is what I do.
+Doubleday|action|Elaine surreptitiously enters office and takes racquet.
+Doubleday|KEITH|Can I help you?
+Doubleday|ELAINE|Uh, no, I'm OK.
+Doubleday|KEITH|Well then what are you doing with that racquet?
+Doubleday|ELAINE|Um, it's mine. Miss. Landis borrowed it.
+Doubleday|KEITH|Well, I'm sorry you can't take that, no no no..
+Doubleday|ELAINE|No no no, I can. I can. It's mine. It's my racquet.
+Doubleday|KEITH|Look sweetheart I don't know who you are. I don't know what you're doing here. But...
+Doubleday|ELAINE|All right. I'm going I'm going
+Doubleday|KEITH|Not with ...
+Doubleday|ELAINE|Give it give it ..
+Doubleday|KEITH|Leave ...
+Doubleday|ELAINE|All right all right forget it. You don't have to mention any of this to Miss. Landis do you?
+Doubleday|KEITH|I don't have to but I will.
+Street|action|Babs and Kramer
+Street|CLOTWORTHY|Morning Cosmo
+Street|KRAMER|Hi Mr. Clotworthy
+Street|CLOTWORTHY|How are you today?
+Street|KRAMER|Ah couldn't be better. Hi Lorraine.
+Street|LANDIS|Hi Cosmo
+Street|KRAMER|My mom Babs.
+Street|LANDIS|Hi Mrs. Kramer
+Street|BABS|Lorraine
+Street|KRAMER|Yes, It's a fine day
+Street|VOICE|(Larry David's voice) What do you say Cosmo?
+Street|KRAMER|Hey, everything my man.
+Sandy's apartment|SANDY|What:
+Sandy's apartment|JERRY|You know, I don't know the exact pronunciation but I believe its Manage A Trois.
+Sandy's apartment|SANDY|Oooo, that is a wild idea
+Sandy's apartment|JERRY|Uh?
+Monks|action|Kramer and Babs
+Monks|KRAMER|You ma, know I've been thinking. I want you to quit that matron job.
+Monks|BABS|Yes, well isn't that just easy for you to say. What the hell do you think I'm going to do with myself?
+Monks|KRAMER|Well maybe we could go into business together. If you're clean?
+Monks|BABS|I've been clean for two years. Anyway what would we do together?
+Monks|KRAMER|I've got plenty of ideas.
+Monks|BABS|I've always believed in you Cosmo. You know that. So I want you to call that place today and tell then tha you're through.
+Monks|BABS|All right. I'll do it.
+Restaurant|action|George and Nina
+Restaurant|NINA|Mmmm mm so good.
+Restaurant|GEORGE|... so glad.
+Restaurant|NINA|Will you excuse me I've got to freshen up.
+Restaurant|GEORGE|And why shouldn't you? Be fresh Stay fresh
+Restaurant|WOMAN|I'll be back. I'm not feeling very well.
+Restaurant|WAITRESS|Care to see our dessert menu?
+Restaurant|GEORGE|Uh, yeah. Do you know Babs?
+Restaurant|WAITRESS|Oh, yeah I was sorry to hear she left.
+Restaurant|GEORGE|Babs left?
+Restaurant|WAITRESS|She quit today.
+Restaurant|action|George runs to bathroom and hears retching sounds. George enters woman's bathroom
+Restaurant|GEORGE|Ah Ha.
+Restaurant|NINA|What are you doing here George?
+Restaurant|GEORGE|I was just wondering what it was you wanted for dessert.
+Restaurant|action|Nina leaves - woman exits stall
+Restaurant|GEORGE|How 'ya feelin'?
+Street|action|Newman and Bab
+Street|BABS|Hi Newman
+Street|NEWMAN|Hi Babs
+Street|BABS|What are you doin'
+Street|NEWMAN|Minding my own business.
+Street|BABS|You'll never get into trouble that way.
+Street|NEWMAN|What makes you think I'm lookin' for trouble?
+Street|BABS|From what I hear you postmen don't have to look too far.
+Street|NEWMAN|ha ha ha Well you know sometimes it just has a way of finding you. Cigarette?
+Street|BABS|Don't mind if I do.
+Jerry's Apartment|action|George knocking on Kramer's door yelling Kramer... Jerry opens his door.
+Jerry's Apartment|JERRY|Hey
+Jerry's Apartment|action|George enters
+Jerry's Apartment|GEORGE|What happened to Babs. She never showed up last night. The whole thing blew up in my face.
+Jerry's Apartment|JERRY|Ah, that's a shame.
+Jerry's Apartment|GEORGE|Hey, what happened with Sandy. I forgot all about it. Did you call her?
+Jerry's Apartment|JERRY|Yeah, I did. In fact I went over there.
+Jerry's Apartment|GEORGE|So what happened? She throw you out? Eh?
+Jerry's Apartment|JERRY|No actually, she took it pretty well.
+Jerry's Apartment|GEORGE|So what happened?
+Jerry's Apartment|JERRY|She's into it.
+Jerry's Apartment|GEORGE|Into what?
+Jerry's Apartment|JERRY|The manage. And not only that. She just called me and said she talked to the roommate and the roomate's into the manage too.
+Jerry's Apartment|GEORGE|That's unbelievable.
+Jerry's Apartment|JERRY|Oh, it's a scene man.
+Jerry's Apartment|GEORGE|Do you ever just get down on your knees and thank god that you know me and have access to my dementia?
+Jerry's Apartment|JERRY|What are you talking about? I'm not goin' to do it.
+Jerry's Apartment|GEORGE|You're not goin to do it? What do you mean, You're not goin to do it?
+Jerry's Apartment|JERRY|I can't. I'm not an orgy guy.
+Jerry's Apartment|GEORGE|Are you crazy? This is like discovering Plutonium ... by accident.
+Jerry's Apartment|JERRY|Don't you know what it means to become an orgy guy? It changes everything. I'd have to dress different. I'd have to act different. I'd have to grow a mustache and get all kinds of robes and lotions and I'd need a new bedspread and new curtains I'd have to get thick carpeting and weirso lighting. I'd have to get new friends. I'd have to get orgy friends. ... Naw, I'm not ready for it.
+Jerry's Apartment|GEORGE|If only something like that could happen to me.
+Jerry's Apartment|JERRY|Oh, shut up you couldn't do it either.
+Jerry's Apartment|GEORGE|I know.
+Jerry's Apartment|action|Elaine enters
+Jerry's Apartment|JERRY|Hey, what happened? Did you get your racquet?
+Jerry's Apartment|ELAINE|No, I got caught.
+Jerry's Apartment|JERRY|What do you mean you got caught?
+Jerry's Apartment|ELAINE|Her assistant caught me. And now I'm probably not going to get a job. He's going to tell Landis that I was sneakin around her office.
+Jerry's Apartment|JERRY|I still don't understand how you can get in trouble for taking your own racquet.
+Jerry's Apartment|ELAINE|Meanwhile Mr. Pitt's got this match with Ethyl Kennedy this afternoon.
+Jerry's Apartment|action|Kramer enters
+Jerry's Apartment|KRAMER|Hey.
+Jerry's Apartment|JERRY|Hi Cosmo.
+Jerry's Apartment|ELAINE|Hi Cosmo
+Jerry's Apartment|KRAMER|Thanks man.
+Jerry's Apartment|JERRY|Hey, doesn't Newman have a Bruline racquet?
+Jerry's Apartment|KRAMER|Uh, Yeah, yeah, but he's on vacation. Went to Baltimore.
+Jerry's Apartment|JERRY|Hum, but you've got the key to his place right?
+Jerry's Apartment|KRAMER|Yeah
+Jerry's Apartment|JERRY|Well Elaine needs to borrow his racquet. Just for today.
+Jerry's Apartment|KRAMER|All right all right. Come on I'll take you over to Newman's
+Jerry's Apartment|GEORGE|Hey, Cosmo what happened to your mother last night. She hung me out to dry.
+Jerry's Apartment|KRAMER|She quit.
+Jerry's Apartment|GEORGE|It would have been nice if someone told me about it. I just think you could have said something. That's all.
+Jerry's Apartment|action|Trying to enter Newman's apartment
+Jerry's Apartment|KRAMER|Don't talk to me George, talk to her.
+Jerry's Apartment|GEORGE|Well where is she?
+Jerry's Apartment|KRAMER|I don't know.
+Jerry's Apartment|action|They enter Newman's apartment - Babs and Newman on the couch.
+Jerry's Apartment|KRAMER|Ma!
+Jerry's Apartment|BABS|Cosmo!
+Jerry's Apartment|NEWMAN|We din, we didn't ... ... Cosmo?

@@ -1,0 +1,296 @@
+George's Apartment|GEORGE|Well, you got no place to go. I'll tell you what your problem is: You brought your queen out too fast. What do you think? She's one of these feminists looking to get out of the house? No, the queen is old fashioned. . Likes to stay home. Cook. Take care of her man. Make sure he feels good.
+George's Apartment|LIZ|Checkmate.
+George's Apartment|GEORGE|I don't think we should see each other any more.
+At Elaine's. She's trying to get some rest.|action|dogs barking
+At Elaine's. She's trying to get some rest.|ELAINE|Shut up! Shut up! You stupid mutt.
+Monk's|JERRY|And you broke up with her 'cuz she beat you at chess? That's pretty sick.
+Monk's|GEORGE|I don't see how I could perform sexually in a situation after something like that. I was completely emasculated. Anyway, it's not the only reason.
+Monk's|JERRY|Yeah, what else?
+Monk's|GEORGE|All right. You wanna know what one of her favorite expressions is? Happy, Pappy?
+Monk's|JERRY|Happy, Pappy? What does that mean?
+Monk's|GEORGE|Like if she wants to know if I'm pleased with something, she'll say, "Happy, Pappy?"
+Monk's|JERRY|Oh, you're "Pappy".
+Monk's|GEORGE|I'm "Pappy".
+Monk's|JERRY|Oh, I get it. Why don't you just say it?
+Monk's|GEORGE|Oh, come on. What, are you kidding? GEORGE: I'm much more comfortable criticizing people behind there backs. Anyway, look who's talking. You just broke up with with Melanie last week because she "shuushed you" while you were watching TV.
+Monk's|JERRY|Hey, I got a real thing about "shushing"!
+Monk's|GEORGE|What is this? Did you ever get the feeling like you've had a haircut but you didn't have one? I'm all itchy back here.
+Monk's|JERRY|Ahh.
+Monk's|GEORGE|What?
+Monk's|JERRY|What is this? What are we doing? What in god's name are we doing?
+Monk's|GEORGE|What?
+Monk's|JERRY|OUR LIVES!! . What kind of lives are these? We're like children. We're not men.
+Monk's|GEORGE|No, we're not. We're not men.
+Monk's|JERRY|We come up with all these stupid reasons to break up with these women.
+Monk's|GEORGE|I know. I know. That's what I do. That's what I do.
+Monk's|JERRY|Are we going to be sitting here when we're sixty like two idiots?
+Monk's|GEORGE|. We should be having dinner with our sons when we're sixty.
+Monk's|JERRY|We're pathetic… you know that?
+Monk's|GEORGE|Yeah, Like I don't know that I'm pathetic.
+Monk's|JERRY|Why can't I be normal?
+Monk's|GEORGE|Yes. Me, too. I wanna be normal. Normal.
+Monk's|JERRY|It would be nice to care about someone.
+Monk's|GEORGE|Yes. Yes. Care. You know who I think about a lot? Remember SUSAN: ? The one that used to work for NBC?
+Monk's|JERRY|Hmm. I thought she became a lesbian.
+Monk's|GEORGE|No. It didn't take.
+Monk's|JERRY|Oh.
+Monk's|GEORGE|Did I tell you I ran into her last week? Ho-ho, she looked great.
+Monk's|JERRY|Hmm.
+Monk's|GEORGE|You thought she was good looking, right?
+Monk's|JERRY|See, there you go again. What is the difference what I think?
+Monk's|GEORGE|I was just curious.
+Monk's|JERRY|Well, this is it. I'm really gonna do something about my life, you know? You know, I think I'm gonna call Melanie again. So what if she shushed me. GEORGE:, I am really gonna make some changes.
+Monk's|GEORGE|Yes. Changes.
+Monk's|JERRY|I'm serious about it.
+Monk's|GEORGE|Think I'M not?
+Monk's|JERRY|I'm not kidding.
+Monk's|GEORGE|Me, too.
+At JERRY:'s. He's on the phone|JERRY|Melanie, you can shush me at every opportunity. 5? 3? Oh, it was just an expression. All right, well, that's very sweet of you. Okay, I'll call you later. All right, bye. Hey!
+At JERRY:'s. He's on the phone|KRAMER|What?
+At JERRY:'s. He's on the phone|JERRY|I had a very interesting lunch with GEORGE: Costanza today.
+At JERRY:'s. He's on the phone|KRAMER|Really?
+At JERRY:'s. He's on the phone|JERRY|We were talking about our lives and we both kind of realized we're kids. We're not men.
+At JERRY:'s. He's on the phone|KRAMER|So, then you asked yourselves, "Isn't there something more to life?"
+At JERRY:'s. He's on the phone|JERRY|Yes. We did.
+At JERRY:'s. He's on the phone|KRAMER|Yeah, well, let me clue you in on something. There isn't.
+At JERRY:'s. He's on the phone|JERRY|There isn't?
+At JERRY:'s. He's on the phone|KRAMER|Absolutely not. I mean, what are you thinking about, JERRY:? Marriage? Family?
+At JERRY:'s. He's on the phone|JERRY|Well...
+At JERRY:'s. He's on the phone|KRAMER|They're prisons. Man made prisons. You're doing time. You get up in the morning. She's there. You go to sleep at night. She's there. It's like you gotta ask permission to use the bathroom. Is it all right if I use the bathroom now?
+At JERRY:'s. He's on the phone|JERRY|Really?
+At JERRY:'s. He's on the phone|KRAMER|Yeah, and you can forget about watching TV while you're eating.
+At JERRY:'s. He's on the phone|JERRY|I can?
+At JERRY:'s. He's on the phone|KRAMER|Oh, yeah. You know why? Because it's dinner time. And you know what you do at dinner?
+At JERRY:'s. He's on the phone|JERRY|What?
+At JERRY:'s. He's on the phone|KRAMER|You talk about your day. How was your day today? Did you have a good day today or a bad day today? Well, what kind of day was it? Well, I don't know. How about you? How was your day?
+At JERRY:'s. He's on the phone|JERRY|Boy.
+At JERRY:'s. He's on the phone|KRAMER|It's sad , Jerry. It's a sad state of affairs..
+At JERRY:'s. He's on the phone|JERRY|I'm glad we had this talk.
+At JERRY:'s. He's on the phone|KRAMER|Oh, you have no idea.
+Apiphany scene - on the pier|GEORGE|La-la-la...
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|KRAMER|Hey.
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|JERRY|Hey.
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|ELAINE|Three hours of sleep again last night.. Three hours of sleep because of that dog.
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|KRAMER|What dog?
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|KRAMER|Yeah. What dog?
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|ELAINE|This dog in the courtyard across from my bedroom window that never never stops barking..
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|KRAMER|Don't...
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|ELAINE|I lost my voice screaming at this thing. I can't sleep. I can't work. I mean, I just moved. I can't move again. What am I gonna do? What? What am I gonna do?
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|KRAMER|Well, there is something you can do.
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|ELAINE|What? KRAMER:, I'll do anything.
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|KRAMER|Well, what if there should be an unfortunate accident?
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|JERRY|You're going to rub out the dog?
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|KRAMER|No, no. Not me. I just happen to know someone who specializes in exactely these kinds of sticky situations.
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|ELAINE|Uh-huh.
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|JERRY|What, you're considering this?
+Jerry's. Elaine pops in, she looks like something the cat just dragged in|KRAMER|Look, just meet with him. ?????.
+Newman's - dark and dangerous|ELAINE|I don't really know why I'm here. Kramer talked me into coming up here. But, obviously, I could never really do anything.
+Newman's - dark and dangerous|NEWMAN|Of course. Obviously.
+Newman's - dark and dangerous|ELAINE|Uh, so, anyway, I'm sorry for wasting your time.
+Newman's - dark and dangerous|NEWMAN|What kind of dog did you say it was?
+Newman's - dark and dangerous|ELAINE|Um, I don't know. I've never really seen it.
+Newman's - dark and dangerous|NEWMAN|I see many dogs on my mail route. I'll bet there's not one type of mutt or mongrel I haven't run across.
+Newman's - dark and dangerous|NEWMAN|If you ask me, they have no business living amongst us. Vile, USELESS BEASTS . . .
+Newman's - dark and dangerous|KRAMER|NEWMAN: ! Stop it!!
+Newman's - dark and dangerous|NEWMAN|Anyway.
+Newman's - dark and dangerous|ELAINE|Yeah. Well um, I was just curious if I were interested in availing myself of your services, um, what exactly would you do?
+Newman's - dark and dangerous|NEWMAN|Well, ELAINE:, There's any number of things I could do. But, I can promise you this, though, this vicious beast will never bother you again. So, what's it going to be?
+Newman's - dark and dangerous|ELAINE|No, I'm sorry. I can't hurt a dog. I can't hurt a dog. I can't.
+Newman's - dark and dangerous|KRAMER|I got it. We'll kidnap him . and we'll drop him off Upstate and this way he won't bother you anymore and he won't get hurt.
+Newman's - dark and dangerous|NEWMAN|Yeah, I suppose.
+Newman's - dark and dangerous|KRAMER|Huh?
+Newman's - dark and dangerous|ELAINE|I'd have to think about it. I doubt it, though. I doubt it. I'll let you know.
+Newman's - dark and dangerous|NEWMAN|Of course. Take your time. I be here.
+GEORGE: is still at the pier. His thoughts shift somewhat.|GEORGE|La-la-la-la-la-la-la! [flashbacks to Susan]
+Elaine's .- makes phone call|ELAINE|All right. Let's do it.
+Elaine's .- makes phone call|NEWMAN|Excellent. Excellent.
+Restaurant|JERRY|How come you're eating your peas one at a time?
+Restaurant|MELANIE|I'm sorry.
+Susan's|SUSAN|Who is it?
+Susan's|GEORGE|It's GEORGE:.
+Susan's|SUSAN|GEORGE:? GEORGE:, what is it?
+Susan's|GEORGE|Will you marry me?
+George is on the phone.|GEORGE|Ma, guess what!
+George is on the phone.|GEORGE|No, it's nothing bad. I'm getting married.
+George is on the phone.|GEORGE|I'm getting married?
+George is on the phone.|GEORGE|Yes!
+George is on the phone.|FRANK|You come here.
+George is on the phone.|FRANK|What?
+George is on the phone.|FRANK|Get the hell out of here. He's getting married?
+George is on the phone.|FRANK|To a woman?
+George is on the phone.|FRANK|I'm sure she's pretty gorgeous.
+George is on the phone.|GEORGE|What difference does it make what she looks like?
+George is on the phone.|GEORGE|Yes, she's pretty. What difference does it make?
+George is on the phone.|FRANK|She's not pretty?
+George is on the phone.|GEORGE|She wants to talk to you.
+George is on the phone.|SUSAN|Uh, hello?
+George is on the phone.|SUSAN|I just want you to know that I love your son very much.
+George is on the phone.|SUSAN|Yes.
+George is on the phone.|SUSAN|Yes.
+George is on the phone.|FRANK|Okay...
+George is on the phone.|FRANK|Can I talk to her, please?
+Outside Jer's and Cosmo's apt.|JERRY|Hey!
+Outside Jer's and Cosmo's apt.|KRAMER|Hey!
+Outside Jer's and Cosmo's apt.|JERRY|What are you up to?
+Outside Jer's and Cosmo's apt.|KRAMER|Nothing.
+Outside Jer's and Cosmo's apt.|JERRY|What's the rope for?
+Outside Jer's and Cosmo's apt.|KRAMER|Oh! Well, How do you like that. I got rope. Um, I gotta go.
+Outside Jer's and Cosmo's apt.|JERRY|The dog. You're getting the dog.
+Outside Jer's and Cosmo's apt.|GEORGE|Hey, Kramer, where are you going?
+Outside Jer's and Cosmo's apt.|KRAMER|Out.
+Outside Jer's and Cosmo's apt.|GEORGE|Don't go. Kramer! Come back. I got great news. Well, I did it.
+Outside Jer's and Cosmo's apt.|JERRY|Did what?
+Outside Jer's and Cosmo's apt.|GEORGE|I got engaged. I'm getting married. I asked Susan to marry me. We're getting married this Christmas.
+Outside Jer's and Cosmo's apt.|JERRY|You're getting married?
+Outside Jer's and Cosmo's apt.|GEORGE|Yes!
+Outside Jer's and Cosmo's apt.|JERRY|Oh, my god!
+Outside Jer's and Cosmo's apt.|GEORGE|I'm a man. Jerry, I'm a man. And do you know why? It's because of that talk we had. You were my inspiration. Do you believe it? You. That lunch was the defining moment of my life.
+Outside Jer's and Cosmo's apt.|JERRY|I'm blown away.
+Outside Jer's and Cosmo's apt.|GEORGE|You're blown?
+Outside Jer's and Cosmo's apt.|JERRY|Wow!
+Outside Jer's and Cosmo's apt.|GEORGE|You like that?
+Outside Jer's and Cosmo's apt.|JERRY|And she said "Yes"?
+Outside Jer's and Cosmo's apt.|GEORGE|It took a couple of hours of convincing. I was persistent. I was just like those guys in the movies. And it worked! She said "Yes"! I can't believe my luck that she was still available . A beautiful woman like that. You think she's good looking, right?
+Outside Jer's and Cosmo's apt.|JERRY|You're gonna have gorgeous kids.
+Outside Jer's and Cosmo's apt.|GEORGE|Yes. She's got great skin - a rosy glow..
+Outside Jer's and Cosmo's apt.|JERRY|Pinkish hue?
+Outside Jer's and Cosmo's apt.|GEORGE|Oh, she's got the hue. So, what's going on with you and Melanie? I mean, I know you're not getting married, but uh, things are happening?
+Outside Jer's and Cosmo's apt.|JERRY|Well...actually, we kind of broke up.
+Outside Jer's and Cosmo's apt.|GEORGE|You what?
+Outside Jer's and Cosmo's apt.|JERRY|Well, you know, we were having dinner the other night, and she's got this strangest habit. She eats her peas one at a time. You've never seen anything like it. It takes her an hour to finish them. I mean, we've had dinner other times. I've seen her eat Corn Niblets. But she scooped them.
+Outside Jer's and Cosmo's apt.|GEORGE|. . . she scooped her niblets?
+Outside Jer's and Cosmo's apt.|JERRY|Yes. That's what was so vexing.
+Outside Jer's and Cosmo's apt.|GEORGE|Uh-huh. Uh-huh. What about the pact?
+Outside Jer's and Cosmo's apt.|JERRY|What?
+Outside Jer's and Cosmo's apt.|GEORGE|What happened to the pact? We were both gonna change. We shook hands on a pact. Did you not shake my hand on it uh?
+Outside Jer's and Cosmo's apt.|JERRY|You stuck your hand out, so I shook it. I don't know about a pact. Anyway, you should be happy you're engaged. You're getting married.
+Outside Jer's and Cosmo's apt.|GEORGE|Well, it's not that. I just, you know, I thought that we were both uh...
+Outside Jer's and Cosmo's apt.|JERRY|You thought I was gonna get married?
+Outside Jer's and Cosmo's apt.|GEORGE|Well, maybe not married, but...
+Outside Jer's and Cosmo's apt.|JERRY|I mean, you love Susan, right?
+Outside Jer's and Cosmo's apt.|GEORGE|Yeah.
+Outside Jer's and Cosmo's apt.|JERRY|You want to spend the rest of your life with her
+Outside Jer's and Cosmo's apt.|GEORGE|. . . . . . Yeah.
+Outside Jer's and Cosmo's apt.|JERRY|So?
+Outside Jer's and Cosmo's apt.|GEORGE|Yeah. It doesn't make any difference.
+Outside Jer's and Cosmo's apt.|JERRY|No. So, we're still on to see uh, Firestorm tonight?
+Outside Jer's and Cosmo's apt.|GEORGE|Yeah.
+Outside Jer's and Cosmo's apt.|JERRY|I'll pick you up at your apartment. We'll go to the Eight.
+Outside Jer's and Cosmo's apt.|GEORGE|Yeah.
+Outside Jer's and Cosmo's apt.|JERRY|Hey, wait a second. Wait a second. ! Celebrate! How about some champagne?
+Outside Jer's and Cosmo's apt.|GEORGE|Champagne?
+Outside Jer's and Cosmo's apt.|JERRY|Yes, come on! How often do you get engaged? Come on!
+Outside Jer's and Cosmo's apt.|GEORGE|Okay! Alright!
+Outside Jer's and Cosmo's apt.|JERRY|You know what? No champagne. Anyway. . . I'll see you later.
+Outside Jer's and Cosmo's apt.|GEORGE|Yeah.
+Night outside|ELAINE|That's it. That's it. Stop right here.
+Night outside|NEWMAN|All right, give me the rope.
+Night outside|ELAINE|What? What do you need a rope for?
+Night outside|NEWMAN|Look, I don't have time to explain every little thing to you.
+Night outside|ELAINE|I don't know. Now, I'm thinking maybe we shouldn't do this.
+Night outside|NEWMAN|I knew you'd back out.
+Night outside|ELAINE|KRAMER:, are we doing a bad thing?
+Night outside|KRAMER|Well, Look at it this way. We drop the dog off in front of somebody's house in the country. They find it and adopt it. Now the dog is prancing in the fields. Dancing and prancing. Fresh air. . Dandelions. We're doing this dog a huge favor.
+Night outside|ELAINE|Yeah. That's him.
+Night outside|NEWMAN|All right. I'm going in. Keep the motor running.
+George's.|JERRY|Ready?
+George's.|GEORGE|Um, I don't uh, really think I can go.
+George's.|JERRY|Oh, how come?
+George's.|GEORGE|Well, I didn't really tell Susan about it, and she doesn't really have anything else to do.
+George's.|JERRY|Well, she could come.
+George's.|GEORGE|Well, she doesn't really want to see Firestorm.
+George's.|JERRY|Oh.
+George's.|GEORGE|She um, she wants to see The Muted Heart.
+George's.|JERRY|Oh, The Muted Heart. Glen Close. Sally Field. Well, that should be good.
+George's.|GEORGE|Yeah. see you later.
+George's.|JERRY|Hey, wait a second. You know, we could share a cab. They're playing at the same Cineplex.
+George's.|SUSAN|George, better get ready.
+George's.|GEORGE|I am ready.
+George's.|SUSAN|You wearing that shirt?.
+George's.|GEORGE|Okay, I guess I'll see you down there.
+George's.|JERRY|Yeah.
+George's.|GEORGE|Okay.
+In the van.|ELAINE|What time you got?
+In the van.|KRAMER|Oh, no. I don't wear a watch.
+In the van.|ELAINE|What do you do?
+In the van.|KRAMER|Well, I tell time by the sun.
+In the van.|ELAINE|How close do you get?
+In the van.|KRAMER|Well, I can guess within an hour.
+In the van.|ELAINE|Tsk. Well, I can guess within the hour, and I don't even have to look at the sun.
+In the van.|KRAMER|Yeah.
+In the van.|ELAINE|Well, what about at night? What do you do then?
+In the van.|KRAMER|Well, night's tougher but it's only a couple of hours.
+In the van.|NEWMAN|Let's go. Let's go. Move!
+In the van.|KRAMER|You got it?
+In the van.|NEWMAN|What do you think? Drive. Drive.
+In the van.|ELAINE|Where is it? Where is it? This? This is the dog?
+In the van.|NEWMAN|Yep.
+In the van.|ELAINE|But he's so small.
+In the van.|NEWMAN|Yeah, but he's a fighter.
+In the van.|ELAINE|That can't be the dog. Are you sure you got the right one?
+In the van.|NEWMAN|Look, you said the one in the second courtyard. He was in the second courtyard.
+In the van.|ELAINE|How could that be the dog?
+In the van.|KRAMER|Well, get him to bark.
+In the van.|ELAINE|Yeah. Yeah. I'll know if he barks.
+In the van.|NEWMAN|All right. Bark.
+In the van.|ELAINE|Bark.
+In the van.|NEWMAN|Bark.
+At the theater|SUSAN|Did you like it?
+At the theater|GEORGE|Yes, it was very, very good.
+At the theater|SUSAN|Oh, do you think he'll ever find her again?
+At the theater|GEORGE|Oh, I sure hope so.
+At the theater|JERRY|How about when Harrison Ford jumped out of that plane, and he was shooting back at them as he was falling?
+At the theater|FRIEND|What about that underwater escape?
+At the theater|JERRY|Oh, man!
+In the van|KRAMER|Let's turn the radio on. Maybe there's a news report about it.
+In the van|NEWMAN|???????
+In the van|ELAINE|You think we're far enough.
+In the van|NEWMAN|We're practically to Monticello.
+In the van|KRAMER|Yeah. This looks right. All right. Give me the dog. Okay, boy. This is it. This is your new home. Let go of my shirt. Come on. Let go of my shirt. This shirt is from Rudy's.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|GEORGE|Hello?
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|JERRY|Hey, ??? is rerunning the Yankee game. You watching this?
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|GEORGE|They are?
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|SUSAN|GEORGE:, you coming to bed? I'm taping Mad About You.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|GEORGE|Uh, yeah, I'll be there in a minute.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|JERRY|What was that?
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|GEORGE|Uh, nothing. I got to go.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|JERRY|Oh, Mattingly just singled .
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|GEORGE|You know, it was really wrong of you to back out on that deal.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|JERRY|I didn't make a deal. I just shook your hand.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|GEORGE|Yeah, Well that's a deal where I come from.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|JERRY|We come from the same place.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|SUSAN|GEORGE:, I'm starting it.
+Jerry's on the phone with his newly imprisoned buddy, Georgie.|GEORGE|I got to go.
+At the pooch's pad. |LADY|Roxy! Where have you been? We've been worried sick about you. What's this? Hmm. Rudy's.
+Elaine's bedroom - dog barking|ELAINE|No! No! It's impossible. It's impossible.
+At Jerry's. |ELAINE|I don't know. I don't know how it happened. We were practically in Monticello. I mean, how could that thing have found its way back? There's no way.
+At Jerry's. |JERRY|Very strange.
+At Jerry's. |ELAINE|I know.
+At Jerry's. |JERRY|So, tell me anyway. Who was the BIG mastermind?
+At Jerry's. |ELAINE|Oh, I can't Jerry. 4I'm sworn to secrecy.
+At Jerry's. |JERRY|All right. But then I can't tell you the BIG news.
+At Jerry's. |ELAINE|News? What news?
+At Jerry's. |JERRY|Sorry!
+At Jerry's. |ELAINE|What? What?
+At Jerry's. |JERRY|All right, Elaine but this is beyond news. This is like Pearl Harbor. Or the Kennedy assassination. It's like not even news. It's total shock.
+At Jerry's. |ELAINE|Oh, come on, Jerry. Please, please, please, please, please!
+At Jerry's. |JERRY|George Costanza...
+At Jerry's. |ELAINE|Yeah?
+At Jerry's. |JERRY|Is getting married!
+At Jerry's. |ELAINE|Get out!
+Outside Kramer's apartment|KRAMER|Hi.
+Outside Kramer's apartment|COP|You Cosmo Kramer?
+Outside Kramer's apartment|KRAMER|Uh, yes. Yeah.
+Outside Kramer's apartment|COP|You recognize this piece of fabric?
+Outside Kramer's apartment|KRAMER|Oh, yeah, that's...
+Outside Kramer's apartment|COP|What?
+Outside Kramer's apartment|KRAMER|What?
+Outside Kramer's apartment|COP|You're under arrest.
+Outside Kramer's apartment|KRAMER|Arrest?
+Outside Kramer's apartment|COP|I have a receipt for a rental car with your signature. Including a report with some damage to the rear seat. It seems the spring was so compressed it completely collapsed the right side..
+Outside Kramer's apartment|JERRY|Newman.
+Cop at Newman's door|NEWMAN|What took you so long?
+back of a Cop car|KRAMER|Hey, what do you think they'll do to us?
+back of a Cop car|NEWMAN|Ah, don't worry about a thing. In twenty minutes that place'll be swarming with mailmen. We'll be back on the street by lunch.
+back of a Cop car|ELAINE|I gotta make some changes. I'm not a woman. I'm a child. What kind of life is this?
+back of a Cop car|action|George and Susan in bed - MAY music

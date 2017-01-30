@@ -1,0 +1,252 @@
+Jerry and George walking down the street.|JERRY|Hang on just let me pick up a paper.
+Jerry and George walking down the street.|MAN|Excuse me. Would you mind watching my bag for a minute?
+Jerry and George walking down the street.|GEORGE|Yeah. No problem.
+Jerry and George walking down the street.|JERRY|Let's go.
+Jerry and George walking down the street.|GEORGE|Woah, I gotta watch this guy's bag.
+Jerry and George walking down the street.|JERRY|For how long?
+Jerry and George walking down the street.|GEORGE|I'm sure he'll be back in a second.
+Jerry and George walking down the street.|JERRY|Come on.
+Jerry and George walking down the street.|GEORGE|Excuse me sir. Would you mind watching my bag for a minute?
+Jerry and George walking down the street.|action|Jerry starts to leave.
+Jerry and George walking down the street.|GEORGE|Where are you going?
+Jerry and George walking down the street.|JERRY|I'm going to be this guy's friend.
+Jerry and George at Monk's|JERRY|New clothes?
+Jerry and George at Monk's|GEORGE|Yeah. I did some shopping. Some new clothes shopping. (turns to a man) Can I borrow your menu?
+Jerry and George at Monk's|JERRY|Strange. For new pants, there's noticable wear on the buttocks of those chinos. Wait those are the clothes from the bag!
+Jerry and George at Monk's|GEORGE|The guy never came back.
+Jerry and George at Monk's|JERRY|He asked you to watch them not wear them.
+Jerry and George at Monk's|GEORGE|I'm still watching them.
+Jerry and George at Monk's|JERRY|You look like a tourist.
+Jerry and George at Monk's|GEORGE|All right, let me ask you something: When do you start to worry about ear hair?
+Jerry and George at Monk's|JERRY|When you hear like a soft russeling.
+Jerry and George at Monk's|GEORGE|It's like puberty that never stops. Ear puberty, nose puberty, knuckle puberty, you gotta be vigilent. Let me ask you this: Do you know where Walker Street is downtown? I've got a league meeting there.
+Jerry and George at Monk's|JERRY|Oh right, the new job, how is it?
+Jerry and George at Monk's|GEORGE|I love it. New office, new salary. I'm the new Wilhelm.
+Jerry and George at Monk's|JERRY|So who's the new you?
+Jerry and George at Monk's|GEORGE|They got a new intern from Francis Louis High. His name is Keith. He comes in Mondays after school.
+Jerry and George at Monk's|JERRY|Oh hi Alex.
+Jerry and George at Monk's|ALEX|I'm sorry I'm late. Have you ordered yet?
+Jerry and George at Monk's|JERRY|No.
+Jerry and George at Monk's|ALEX|I'll be right back.
+Jerry and George at Monk's|GEORGE|Where are you meeting these women? When they get off the bus at the port authority?
+Jerry and George at Monk's|JERRY|Right here, George. In here. (pointing to his chest) Try opening this up. You'll find the biggest dating scene in the world.
+Jerry and George at Monk's|GEORGE|Thanks. Thanks a lot.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|Hey.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|ELAINE|Hey.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|Hi.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|ELAINE|Where's Jerry?
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|Well he's in the shower. You want me to get him?
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|ELAINE|No. No no. Actually I kind of need to speak to you.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|Well let's sit down.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|ELAINE|Kramer, ahem, remember that whole deal with you selling Peterman your stories for his book and then he gave them back to you?
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|Vaguely.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|ELAINE|Well I was kind of, hehehe, short on material and I, um, I put them in the book anyway.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|You put my life's stories in his autobiography?
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|ELAINE|Kramer listen, it is such a stupid book. It doesn't matter.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|Oh no. Sure. It matters. Wow. I've broken through, huh. I'm part of popular culture now. Listen I've got to thank Mr. Peterman.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|ELAINE|He's doing a book signing at Waldenbooks this afternoon.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|Waldenbooks? That's a major chain huh.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|action|Kramer enters the bathroom.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|He Jerry, I'm going to waldenbooks.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|JERRY|(yelling) Get out! Get out! I don't want to live like this.
+Kramer in Jerry's apartment. Kramer searches in Jerry's couch for something and picks it up. Elaine enters. Kramer hurriedly puts the cushions back on the couch.|KRAMER|All right, let's go.
+At Waldenbooks.|ELAINE|Mr. Lippman, how are you?
+At Waldenbooks.|ELAINE|What are you doing here?
+At Waldenbooks.|ELAINE|Oh.
+At Waldenbooks.|KRAMER|Hey buddy. Remember me?
+At Waldenbooks.|KRAMER|Yeah, I'm just here to do my part. What's your name darling?
+At Waldenbooks.|KRAMER|I'm the real Peterman.
+At Waldenbooks.|KRAMER|Relax man. There's enough juice here to keep us all fat and giggley.
+At Waldenbooks.|WOMAN|I can't believe somebody pulled the top off of this muffin.
+At Waldenbooks.|ELAINE|That was me. I'm sorry. I don't like the stumps.
+At Waldenbooks.|ELAINE|Oh yeah. It's the best part. It's crunchy, it's explosive, it's where the muffin breaks free of the pan and sort of (makes hand motions) does it's own thing. I'll tell you. That's a million dollor idea right there. Just sell the tops.
+At Waldenbooks.|action|Two men forcefully pick Kramer up and push him out of the store.
+At Waldenbooks.|KRAMER|I have a right to be here. These are my fans. Hey you're hurting my elbow.
+At Waldenbooks.|action|George is walking down the street looking down at his map. He is bumping into people.
+At Waldenbooks.|GEORGE|Well actually I'm...
+At Waldenbooks.|GEORGE|Little Rock, Arkensas.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|Hmm. That looks new.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|action|He thinks some more. He picks up his razor.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|So get this. Peterman has his henchmen forcefully eject me from the book signing like I'm some kind of a maniac.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|(uncomfortably) Yeah that's too bad.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|What's the matter with you?
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|(uncomfortably) Nothing.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|No, no, no. Don't give me that. I know you. Something's wrong. What is it.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|I did something stupid.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|What did you do?
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|Well I was shaving. And I noticed an asymmetry in my chest hair and I was trying to even it out. Next thing I knew, (high pitched voice) Gone.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|Don't you know you're not supposed to poke around down there.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|Well women do it.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|(high pitched voice) "Well women do it." I'll tell you what. I'll pick you up a sundress and a parasol and you can just (high pitched voice) sashey your pretty little self around the town square.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|Well what am I going to tell Alex?
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|Listen to me. You don't tell anybody about this. No one. You hear me?
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|Um hum.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|action|George enters
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|Hey, Jerry shaved his chest.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|Hey!
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|KRAMER|I forgot. Wait. Never mind.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|action|Jerry and Alex walking.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|ALEX|How about the beach this weekend?
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|You couldn't pay me enough to go to the beach on a weekend. I mean it's hard enough...
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|ALEX|All right. All right. Wow is that a Mexican Hairless? Oh, I love those. Ooh, Hairless. This is where it's at. It's so much smoother and cleaner.
+Jerry is in his bathroom shaving. He thinks. He tilts the mirror down.|JERRY|Really?
+Elaine walks into a muffin shop|ELAINE|"Top of the Muffin to you!"?
+Elaine walks into a muffin shop|ELAINE|Mr Lippman?
+George and Jerry at Jerry's apartment.|JERRY|So you're pretending to be a tourist?
+George and Jerry at Jerry's apartment.|GEORGE|It's beautiful. She makes all the plans. I'm not from around here so it's okay if I'm stupid, and she knows I'm only in town visiting so there's no messy breakup
+George and Jerry at Jerry's apartment.|JERRY|How do you explain your apartment?
+George and Jerry at Jerry's apartment.|GEORGE|I got a hotel room.
+George and Jerry at Jerry's apartment.|JERRY|you moved into a hotel?
+George and Jerry at Jerry's apartment.|GEORGE|Well I don't know anyone here Jerry. Where else am I going to stay?
+George and Jerry at Jerry's apartment.|JERRY|So get this: we're in the park today Alex goes wild for this hairless dog.
+George and Jerry at Jerry's apartment.|GEORGE|So?
+George and Jerry at Jerry's apartment.|JERRY|So. I figure since she likes one hairless animal why not another.
+George and Jerry at Jerry's apartment.|GEORGE|Oh really. You tell her you shaved it?
+George and Jerry at Jerry's apartment.|JERRY|Are you nuts? I don't want her to think I'm one of those low-rise briefs guys who shaves his chest.
+George and Jerry at Jerry's apartment.|action|Kramer is in a school bus. He honks his horn. Camera shot down on the bus.
+George and Jerry at Jerry's apartment.|KRAMER|(yelling up at Jerry) Hey Jerry.
+George and Jerry at Jerry's apartment.|action|Jerry pulls up the blinds on his upstairs window and looks down.
+George and Jerry at Jerry's apartment.|KRAMER|(yelling) I'm starting a Peterman Reality Bus Tour. Check it out. Hahaha.
+George and Jerry at Jerry's apartment.|GEORGE|Reality tour?
+George and Jerry at Jerry's apartment.|JERRY|The last thing this guy's qualified to give a tour of is reality.
+Elaine at the muffin shop|ELAINE|This was my idea you stole my idea.
+Elaine at the muffin shop|ELAINE|Well if that air is comming out of this face then it is my air and my idea.
+Elaine at the muffin shop|ELAINE|Peach.
+Gerge and Mary Anne at Monks|GEORGE|Yeah my parents have it. Sometimes it skips a generation.
+Gerge and Mary Anne at Monks|GEORGE|Willie. Yeah.
+Gerge and Mary Anne at Monks|GEORGE|Well what if I told you I'm thinking of moving here?
+Gerge and Mary Anne at Monks|JERRY|You're moving to New York? That's fantastic. I can see you all the time now.
+Gerge and Mary Anne at Monks|GEORGE|Eat me alive, huh? We'll see who can make it in *this* town.
+Gerge and Mary Anne at Monks|JERRY|What is it she think you can't do?
+Gerge and Mary Anne at Monks|GEORGE|Find a job. Get an apartment.
+Gerge and Mary Anne at Monks|JERRY|How did you do those things?
+Gerge and Mary Anne at Monks|GEORGE|Never mind. The're done. All I have to do now is redo them. You know if you take everything I've ever done in my entire life and condense it down into one day, it looks decent.
+Gerge and Mary Anne at Monks|JERRY|Hey, what were you doing with that bus yesterday?
+Gerge and Mary Anne at Monks|KRAMER|Here you go, here you go, check it out.
+Gerge and Mary Anne at Monks|JERRY|"The Real Peterman Reality Bus Tour". I'm confused.
+Gerge and Mary Anne at Monks|KRAMER|Peterman's book is big business. People want to know the stories behind the stories.
+Gerge and Mary Anne at Monks|JERRY|Nobody wants to go on a three hour bus tour of a totally unknown person's life.
+Gerge and Mary Anne at Monks|KRAMER|I'm only charging $37.50, plus you get a pizza bagel and desert.
+Gerge and Mary Anne at Monks|GEORGE|What's desert?
+Gerge and Mary Anne at Monks|KRAMER|Bite-size Three Musketeers. Just like the real Peterman eats.
+Gerge and Mary Anne at Monks|GEORGE|He eats those?
+Gerge and Mary Anne at Monks|KRAMER|No. I eat those. I'm the real Peterman.
+Gerge and Mary Anne at Monks|GEORGE|I think I understand this. Jay Peterman is real. His biography is not. Now, you Kramer are real.
+Gerge and Mary Anne at Monks|KRAMER|Talk to me.
+Gerge and Mary Anne at Monks|GEORGE|But your life is Peterman's. Now the bus tour, which is real, takes to places that, while they are real, they are not real in sense that they did not *really* happen to the *real* Peterman which is you.
+Gerge and Mary Anne at Monks|KRAMER|Understand?
+Gerge and Mary Anne at Monks|JERRY|Yeah. $37.50 for a Three Musketeers.
+Elaine and Mr. Lippman at Monk's|ELAINE|So? What do you want me to do about it?
+Elaine and Mr. Lippman at Monk's|ELAINE|Mr. Lippman, when I worked for you at Pendent Publishing, I believed in you, you know as a man of integrity. But, I saw you in that paper hat and that aprin...
+Elaine and Mr. Lippman at Monk's|ELAINE|Deal. Here's your problem. You're making just the muffin tops. You've gotta make the *whole* muffin. Then you... Pop the top, toss the stump. Taste.
+Elaine and Mr. Lippman at Monk's|ELAINE|Yeah.
+Elaine and Mr. Lippman at Monk's|ELAINE|I don't know, give em to a soup kitchen.
+Elaine and Mr. Lippman at Monk's|ELAINE|And one more thing, you really think we need the exclamation point? Because, it's not "Top of the Muffin *TO YOU!!!*"
+At Jerry's apartment|KRAMER|Hey Jerry. What is this? Lady Gillette? What's going on?
+At Jerry's apartment|JERRY|What? Can't I get a moment's peace?
+At Jerry's apartment|KRAMER|What are you doing to yourself?
+At Jerry's apartment|action|Jerry walks into camera view with his chest covered with shaving cream.
+At Jerry's apartment|JERRY|I can't stop. Alex thinks I'm naturally hairless.
+At Jerry's apartment|KRAMER|You can't keep this up. Don't you know what's going to happen? Everytime you shave it, it's going to come in thicker and fuller and darker.
+At Jerry's apartment|JERRY|Oh that's an old wives tale.
+At Jerry's apartment|KRAMER|Is it? Look at this.
+At Jerry's apartment|action|Kramer walks off-screen and opens his shirt. On-screen, Jerry reels from the sight.
+At Jerry's apartment|KRAMER|(high pitched voice) Look at it! Look at it! And it's all me. I shaved there when I was a lifeguard.
+At Jerry's apartment|JERRY|Oh come on. That's genetics. That's not going to happen to me.
+At Jerry's apartment|KRAMER|Won't it? Or is it already starting to happen?
+Elaine at the muffin shop|ELAINE|Wow. Look at this. We're cleaning up.
+Elaine at the muffin shop|LIPPMAN|Oh, Rubin, get me another tray of lowfat cranberry.
+Elaine at the muffin shop|REBECCA|Excuse me, I'm Rebecca Demore from the homeless shelter.
+Elaine at the muffin shop|ELAINE|Oh, hi.
+Elaine at the muffin shop|REBECCA|Are you the ones leaveing the muffing pieces behind our shelter?
+Elaine at the muffin shop|ELAINE|You been enjoying them?
+Elaine at the muffin shop|REBECCA|They're just stumps.
+Elaine at the muffin shop|ELAINE|Well they're perfectly edible.
+Elaine at the muffin shop|REBECCA|Oh, so you just assume that the homeless will eat them, they'll eat anything?
+Elaine at the muffin shop|REBECCA|I know what you thought. They don't have homes, they don't have jobs, what do they need the top of a muffin for? They're lucky to get the stumps.
+Elaine at the muffin shop|ELAINE|If the homeless don't like them the homeless don't have to eat them.
+Elaine at the muffin shop|REBECCA|The homeless don't like them.
+Elaine at the muffin shop|ELAINE|Fine.
+Elaine at the muffin shop|REBECCA|We've never gotten so many complaints. Every two minutes, "Where is the top of this muffin? Who ate the rest of this?"
+Elaine at the muffin shop|ELAINE|We were just trying to help.
+Elaine at the muffin shop|REBECCA|Why don't you just drop off some chicken skins and lobster shells.
+Elaine at the muffin shop|ELAINE|I think I might.
+Mary Anne and George at George's "new" apartment.|GEORGE|$2300.
+Mary Anne and George at George's "new" apartment.|GEORGE|Yeah.
+Mary Anne and George at George's "new" apartment.|GEORGE|Yeah, well I uh got lots of other stuff to show you too. Wait till you see the plum job that I landed.
+Mary Anne and George at George's "new" apartment.|action|Mary Anne exits. George sniffs his armpit.
+On Kramer's bus.|KRAMER|Comming up on the right, if you glance up you can just make out my bedroom window. It's the one that's covered in chicken wire.
+On Kramer's bus.|WOMAN|Hey if you're the real Peterman, who come you're wearing those ratty clothes? The're not very romantic.
+On Kramer's bus.|KRAMER|(over the speaker) Well that's your opinion.
+On Kramer's bus.|KRAMER|Forget it. Okay Newman's postal route is around here somewhere.
+On Kramer's bus.|KRAMER|Ahh. Everyone just settle down. We have three hours left on this thing, and I can't drive and argue with you rubes all at the same time. Okay. Lomez's place of worship is right on the right here.
+At Jerry's apartment.|JERRY|Why do I have to go on the tour?
+At Jerry's apartment.|KRAMER|Jerry you're a minor celebrity. If you go on this thing, it could create a minor stir. Bring that girlfriend of your and I'll only charge to 60 bucks.
+At Jerry's apartment.|action|Elaine enters
+At Jerry's apartment.|JERRY|Hey, how's business?
+At Jerry's apartment.|ELAINE|Ooh, I've got stump troubles. The Sanitation Department won't get rid of them all, I can't get a truck to haul this stuff until next week. Meanwhile, I'm sitting on a mountain of stumps.
+At Jerry's apartment.|KRAMER|All right, I've got to hose the puke off the floor of the bus.
+At Jerry's apartment.|ELAINE|Bus? Wait a minute, wait a minute, bus? You've got a bus?
+At Jerry's apartment.|KRAMER|Yeah.
+At Jerry's apartment.|ELAINE|You got any room on that thing?
+At Jerry's apartment.|KRAMER|Yeah there are a few seats still available.
+At Jerry's apartment.|ELAINE|Do you think you could transport some stumps for me? I'll make it worth your while.
+At Jerry's apartment.|KRAMER|Well, if they don't mind sitting in the back.
+At Jerry's apartment.|ELAINE|No they don't.
+At Jerry's apartment.|KRAMER|Are they war veterans?
+At Jerry's apartment.|action|Elaine looks at him confused.
+In George's office.|GEORGE|Yes. Very nice to have had her to mention... (starting to leave)
+In George's office.|GEORGE|Be right with you. Look Mr. Steinbrenner.
+On Kramer's bus.|ALEX|You know when you make a pizza bagel, you really shouldn't use cinnimon rasin.
+On Kramer's bus.|JERRY|You also shouldn't use a donut.
+On Kramer's bus.|action|Kramer gets on the bus. He starts the tape player playing banjo music.
+On Kramer's bus.|KRAMER|All right ladies and gentlemen. Welcome to the Peterman Reality Tour...
+On Kramer's bus.|JERRY|Can we just go?
+On Kramer's bus.|KRAMER|And go we will.
+On Kramer's bus.|MAN|What is this? A piece of pound cake?
+On Kramer's bus.|KRAMER|We have a bonus reality stop today. We will be hauling muffin stumps to the local repository.
+On Kramer's bus.|KRAMER|And we're off.
+On Kramer's bus.|JERRY|You know I never though he would be able to recreate the experience of actually knowing him, but this is pretty close.
+Kramer at a garbage dump carrying a garbage bag.|MAN|Hey hey hey hey hey. Where do you think you're going?
+Kramer at a garbage dump carrying a garbage bag.|KRAMER|I was going to dump this.
+Kramer at a garbage dump carrying a garbage bag.|MAN|It doesn't look like garbage.
+Kramer at a garbage dump carrying a garbage bag.|KRAMER|Well it's muffin stumps
+Kramer at a garbage dump carrying a garbage bag.|MAN|Where are the muffin tops?
+Kramer at a garbage dump carrying a garbage bag.|KRAMER|This is a garbage dump. Just let me dump it.
+Kramer at a garbage dump carrying a garbage bag.|MAN|Can't do it.
+Kramer at a garbage dump carrying a garbage bag.|KRAMER|Is this a joke?
+Kramer at a garbage dump carrying a garbage bag.|MAN|That's what I'd like to know about it.
+Kramer at a garbage dump carrying a garbage bag.|ALEX|You have a pretty heavy beard, don't you?
+Kramer at a garbage dump carrying a garbage bag.|JERRY|What's that?
+Kramer at a garbage dump carrying a garbage bag.|ALEX|Well look it's almost time for you to shave again.
+Kramer at a garbage dump carrying a garbage bag.|JERRY|Oh. Yeah.
+Kramer at a garbage dump carrying a garbage bag.|KRAMER|(gets back on the bus, yelling) Well maybe I will take it up with Consumer Affairs. Ladies and Gentlemen you're in for an additional treat. We're going to extend the tour at no extra charge.
+Kramer at a garbage dump carrying a garbage bag.|MAN|Where are we going?
+Kramer at a garbage dump carrying a garbage bag.|KRAMER|(looking at a map) I don't know. (over the speaker) Uh, no more questions.
+Kramer at a garbage dump carrying a garbage bag.|action|Banjo music plays as they look for garbage dumps.
+Next scene. Kramer is driving. He is sleepy. His head nods down onto the horn. The horn blows. Startled, Kramer sits back up. Banjo music finishes.|WAITRESS|So, the New York Yankees traded you for a bunch of Tyler chicken.
+Next scene. Kramer is driving. He is sleepy. His head nods down onto the horn. The horn blows. Startled, Kramer sits back up. Banjo music finishes.|GEORGE|Dogs, twists, a kind of fermented chicken drink.
+Next scene. Kramer is driving. He is sleepy. His head nods down onto the horn. The horn blows. Startled, Kramer sits back up. Banjo music finishes.|MAN|Hey, aren't you the guy I asked to watch my clothes?
+Next scene. Kramer is driving. He is sleepy. His head nods down onto the horn. The horn blows. Startled, Kramer sits back up. Banjo music finishes.|GEORGE|What clothes?
+Next scene. Kramer is driving. He is sleepy. His head nods down onto the horn. The horn blows. Startled, Kramer sits back up. Banjo music finishes.|MAN|These clothes. The ones you're wearing.
+On Kramer's bus|JERRY|(in low voice to next to Kramer) Kramer how much longer? My chest hair is comming back and it's itching me like crazy. I can't let her see me scratch it.
+On Kramer's bus|KRAMER|Don't worry. I've got a good feeling about this dump.
+On Kramer's bus|JERRY|I'm telling you man, I'm losing it.
+On Kramer's bus|action|Kramer gets off the bus, carrying a garbage bag.
+On Kramer's bus|action|Eerie music is playing. Jerry looks out the bus window at a full moon. A dog starts barking.
+On Kramer's bus|JERRY|I can't sit on this bus anymore. I think I'll go play with that dog.
+On Kramer's bus|KRAMER|I don't know where the tops are.
+On Kramer's bus|action|Jerry runs past Kramer and another person. Eerie music still playing.
+On Kramer's bus|KRAMER|Jerry what's the matter?
+On Kramer's bus|action|In slow motion Jerry runs into the woods. At normal speed he runs behind a tree. Camera shot down on him as he starts scratching his chest.
+On Kramer's bus|JERRY|(for the first half of the howl, a dog howls along with him.) Awoooooo-oooooooo, that feels good.
+On Kramer's bus|BARTENDER|Hey, you looking for George?
+On Kramer's bus|BARTENDER|He's been in the bathroom awhile. You might want to check on him.
+On Kramer's bus|GEORGE|(talking on the phone) Jerry you gotta bring me some clothes down here. I lost my job with the Yankees. I'm standing in the men's room on 43rd street in my underpants.
+At the muffin shop.|ELAINE|They call him a Cleaner. He makes problems go away.
+At the muffin shop.|action|Newman enters. 
+At the muffin shop.|NEWMAN|Hello Elaine. Where are they?
+At the muffin shop.|ELAINE|In the back.
+At the muffin shop.|NEWMAN|All right, I'm going to need a clean 8 ounce glass.
+At the muffin shop.|NEWMAN|If I'm curt, then I appologize. But as I understand it, we have a situation here and time is of the essence.
+At the muffin shop.|action|Newman goes to the back room with the muffin stumps and sets down a cooler and an empty glass. From the cooler he takes out 4 bottles of milk and sets them down. He bites into a stump, then takes a drink of milk from the glass. (continuity error: he never actually poured the glass of milk.) He swishes the muffin and the milk together and swollows. He takes another stump.

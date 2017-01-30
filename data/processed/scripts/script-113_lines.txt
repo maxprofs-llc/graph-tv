@@ -1,0 +1,414 @@
+Setting: Booth at Monk's Cafe|GEORGE|And then I hear this rabbi on television, I mean imagine.
+Setting: Booth at Monk's Cafe|ELAINE|I'm really sorry George, I, I, I wasn't jealous of you. It was just the whole marriage thing.
+Setting: Booth at Monk's Cafe|GEORGE|Ya know, I was just a little surprised.
+Setting: Booth at Monk's Cafe|JERRY|Why would anyone eat canned fruit? I mean can anybody answer that?
+Setting: Booth at Monk's Cafe|GEORGE|What about all the loser stuff?
+Setting: Booth at Monk's Cafe|ELAINE|I don't know where the rabbi got that. Ya know I never said that. I said "I've never seen you looser".
+Setting: Booth at Monk's Cafe|JERRY|I can see the can if you're in the army, but fresh fruit it's available, it's there, it's 2 aisles over.
+Setting: Booth at Monk's Cafe|GEORGE|(Gets up to leave) Well, scintillating as always.
+Setting: Booth at Monk's Cafe|JERRY|Where you going?
+Setting: Booth at Monk's Cafe|GEORGE|I'm going shopping with Susan.
+Setting: Booth at Monk's Cafe|ELAINE|What kind of shopping?
+Setting: Booth at Monk's Cafe|GEORGE|Clothes shopping.
+Setting: Booth at Monk's Cafe|ELAINE|Where are you going?
+Setting: Booth at Monk's Cafe|GEORGE|Ross'.
+Setting: Booth at Monk's Cafe|ELAINE|Oh that's a nice store.
+Setting: Booth at Monk's Cafe|GEORGE|Yeah, it's her uncle's.
+Setting: Booth at Monk's Cafe|JERRY|Discount?
+Setting: Booth at Monk's Cafe|GEORGE|(As he leaves) One would hope.
+Setting: Booth at Monk's Cafe|action|Scene ends
+Setting: Jackie Child's Office|action|Kramer is sitting across from Jackie
+Setting: Jackie Child's Office|KRAMER|So ya know, my friend and I we were going to the movies and we stopped off and bought this cafe latte.
+Setting: Jackie Child's Office|JACKIE|(Agreeing) Hm Hm. Oh what is that like Italian coffee?
+Setting: Jackie Child's Office|KRAMER|Yeah that's right.
+Setting: Jackie Child's Office|JACKIE|Half milk, half coffee?
+Setting: Jackie Child's Office|KRAMER|Yeah.
+Setting: Jackie Child's Office|JACKIE|Hm Hm. You take a sip?
+Setting: Jackie Child's Office|KRAMER|Yes I did.
+Setting: Jackie Child's Office|JACKIE|Now when you took a sip, did you notice it was hot? Were you able to sip it in your normal fashion?
+Setting: Jackie Child's Office|KRAMER|No I wasn't able to sip it in my normal fashion.
+Setting: Jackie Child's Office|JACKIE|Hm Hm. All right, all right. You take big sips?
+Setting: Jackie Child's Office|KRAMER|Well I think I take a normal sip.
+Setting: Jackie Child's Office|JACKIE|O.K. You take normal sips. Nothing wrong with that. Then what happened?
+Setting: Jackie Child's Office|KRAMER|Well you know ahh, they don't allow outside drinks in the movie theater. So I had to put it in my shirt and sneak it in.
+Setting: Jackie Child's Office|JACKIE|Yeah, see they like to sell their own coffee.
+Setting: Jackie Child's Office|KRAMER|Yeah, now is that going to be a problem?
+Setting: Jackie Child's Office|JACKIE|Yeah that's going to be a problem. It's gonna be a problem for them. This a clear violation of your rights as a consumer. It's an infringement on your constitutional rights. It's outrageous, egregious, preposterous.
+Setting: Jackie Child's Office|KRAMER|It's definitely preposterous.
+Setting: Jackie Child's Office|JACKIE|So. Then what happened?
+Setting: Jackie Child's Office|KRAMER|Well ahh. I was trying to get to my seat and I had to step over someone and I kind of got pushed and it spilled on me.
+Setting: Jackie Child's Office|JACKIE|Was there a top on it?
+Setting: Jackie Child's Office|KRAMER|Yeah.
+Setting: Jackie Child's Office|JACKIE|Now did you put the top on or did they put the top on for you?
+Setting: Jackie Child's Office|KRAMER|No. They put the top on.
+Setting: Jackie Child's Office|JACKIE|And they made the top. You didn't make the top did you?
+Setting: Jackie Child's Office|action|Kramer motions that he did not make the top
+Setting: Jackie Child's Office|JACKIE|(To secretary over intercom) Suzie. I want you to go down to Java World. Get me a cafe latte with a top. (To Kramer) We're gonna run some test on that top. Have you been to the doctor?
+Setting: Jackie Child's Office|KRAMER|Ah No no, I haven't.
+Setting: Jackie Child's Office|JACKIE|(To secretary over intercom) Suzie. Call Dr. Bison. Set up an appointment for Mr. Kramer here. Tell him it's from me.
+Setting: Jackie Child's Office|KRAMER|So ah, what do you think Mr. Chiles.
+Setting: Jackie Child's Office|JACKIE|Jackie.
+Setting: Jackie Child's Office|KRAMER|Jackie. I mean, we have a chance?
+Setting: Jackie Child's Office|JACKIE|Do we have a chance? You get me one coffee drinker on that jury, you gonna walk outta there a rich man.
+Setting: Jackie Child's Office|action|Scene ends
+Setting: Ross' clothing store|action|Susan is holding a bright red shirt up to George
+Setting: Ross' clothing store|GEORGE|I don't like it, it's red. It it's too flashy.
+Setting: Ross' clothing store|SUSAN|Well you could use a little flash.
+Setting: Ross' clothing store|GEORGE|All right. Don't change me. Susan. Don't change me. Ya know there are a lot of woman that would love to be in your position right now.
+Setting: Ross' clothing store|SUSAN|Name one.
+Setting: Ross' clothing store|SUSAN|Oh, he's impossible to shop for uncle Ned.
+Setting: Ross' clothing store|SUSAN|O.K.
+Setting: Ross' clothing store|SALESMAN|Excuse me Mr Ross.
+Setting: Ross' clothing store|action|George notices the security guard standing near the front door
+Setting: Ross' clothing store|GEORGE|See now this I don't get.
+Setting: Ross' clothing store|SUSAN|What?
+Setting: Ross' clothing store|GEORGE|The security guard.
+Setting: Ross' clothing store|SUSAN|What about him?
+Setting: Ross' clothing store|GEORGE|Why does he have to stand?
+Setting: Ross' clothing store|SUSAN|Because he's a security guard.
+Setting: Ross' clothing store|GEORGE|But I mean look at him. He's gotta be on his feet like that all day? That's brutal. I think I'm gonna say something to your uncle.
+Setting: Ross' clothing store|SUSAN|George, you just met him. Don't say anything to him.
+Setting: Ross' clothing store|GEORGE|Aren't you concerned about the security guard?
+Setting: Ross' clothing store|SUSAN|Not really. (Walks away)
+Setting: Ross' clothing store|GEORGE|(Thinking to himself) She's not concerned about the security guard. What kind of a person is this? I'm marrying a person who doesn't care that this man has to stand here 8 hours a day when he could easily be sitting.
+Setting: Ross' clothing store|SUSAN|All right George. (She puts the red shirt up to him again) What do you think?
+Setting: Ross' clothing store|action|Scene ends
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|So ah, what did you do last night?
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|Nothing.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|I know nothing, but what did you actually do?
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|Literally nothing. I sat in a chair and I stared.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Wow. That really is nothing.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|I told ya.
+Setting: Elaine and Jerry are in Jerry's apartment.|action|Kramer enters
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Hey.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Hey.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|Hey.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|What are you all dressed up for?
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Oh I ah just came from a meeting with my lawyer.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Oh yeah, how's that looking?
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Oh I'll tell you how it's looking. My lawyer Jackie says if there is one coffee drinker on that jury, (in a very high voice) I'm gonna be a rich man.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|That's despicable. How does he know how all coffee drinkers will vote? I'm a coffee drinker. If I was on that jury I wouldn't give you a nickel Kramer.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Yeah, well you wouldn't be on that jury. He would have weeded you out.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Frankly I'm surprised you're so litigious.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Oh I can be quite litigious.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|What I mean who ever heard of this anyway? Suing a company because there coffee is too hot? Coffee is supposed to be hot.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Yeah but Jackie says the top was faulty.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|(Mocking) Jackie says the top was faulty.
+Setting: Elaine and Jerry are in Jerry's apartment.|action|Sounds of knocking in the background on Kramer's door
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Hey Maestro!
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|Ah, Kramer.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|I'm in here. How's it going.
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|Fine.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Hi Bob.
+Setting: Elaine and Jerry are in Jerry's apartment.|action|Kramer coughs purposely and motions toward maestro with his head
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|(Apologetically) Oh, I'm sorry. Maestro.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Well, this is a surprise ha?
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|I just wanted to drop off this Chinese balm for your burns. It's supposed to be great stuff. It's all herbal.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Oh Maestro, you, what are you doing? You don't have to do this. Do you believe this Maestro?
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|It's nothing.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Yeah, ya know you haven't been around for a while.
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|Oh yeah, I've been at my house in Tuscany.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Oh Tuscany huh? Hear that Jerry? That's in Italy.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|I hear it's ah beautiful there.
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|Well if you're thinking of getting a place there don't bother. There's really nothing available.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|(Surprised) Huh?
+Setting: Elaine and Jerry are in Jerry's apartment.|action|Elaine enters from bathroom
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|(Seeing Elaine) Oh!
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|Hello.
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|Well Hello. And who might you be?
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|I might be Elaine.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|This is a, Bob Cobb.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Maestro.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|Oh, Maestro.
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|It is my very great pleasure. (Kisses Elaine's hand)
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|Enchante.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|Jinx buy me a coke.
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|Oh. Love it when that happeneds.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|I know I know. That is so ahh ......
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|Coincidental.
+Setting: Elaine and Jerry are in Jerry's apartment.|ELAINE|Yeah, thanks. O.K. Bye you guys.
+Setting: Elaine and Jerry are in Jerry's apartment.|MAESTRO|Ciao.
+Setting: Elaine and Jerry are in Jerry's apartment.|action|Elaine and Maestro leave
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Yeah, yeah oh hey and a thanks for the balm. Yeah.
+Setting: Elaine and Jerry are in Jerry's apartment.|action|Kramer shuts the door and stares at Jerry
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|You know you hurt the Maestro's feelings.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Oh what, because I didn't call him Maestro?
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|That's right.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Ya know I feel a little funny calling somebody Maestro.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Why?
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Because it's a stupid thing to be called.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Jerry he's a conductor.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Oh conductor. He conducts the Policeman's Benevolent Association Orchestra.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Well, he's still a conductor.
+Setting: Elaine and Jerry are in Jerry's apartment.|JERRY|Well he sure worked pretty fast with Elaine.
+Setting: Elaine and Jerry are in Jerry's apartment.|KRAMER|Oh, you should see him do 'Flight of the Bumble Bee'.
+Setting: Elaine and Jerry are in Jerry's apartment.|action|Kramer makes like a conductor and makes a classic Kramer sound
+Setting: Elaine and Jerry are in Jerry's apartment.|action|Scene ends
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|New shirt?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|Yeah. You like it.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|No, not particularly.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|Why, the color?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|Yeah.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|Too flashy?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|Yeah, it's burning my retina. Susan picked that out for you right?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|(Obviously lying) No.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|(Reaches for a menu) All right what's it going to be here.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|Let me ask you something. When you go into a store, does it bother you that they make the security guard just stand there all day?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|No.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|See, didn't bother Susan either. That's why I'm different. I can sense the slightest human suffering.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|Are you sensing anything right now?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|Let me just say this. It is inhumane to make a man stand on his feet, in one spot for eight hours a day. Why shouldn't he have a chair?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|Well, what about criminal activity? He's got to be alert.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|What, he can't jump out of the chair? How long does that take? Here look at this. (he moves to the end of the booth) Here, watch. (stands up) Criminals. Boom. I'm up. (pretends he's shooting) Stop It! Stop It! Stop It!
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|Maybe they offered him a chair and he turned it down.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|Would you get out of here. Who's gonna turn down a chair? I would be very interested to know how he felt about all of this. Maybe I'll have a talk with him.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|I know you will.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|action|Kramer enters and sits next to Jerry
+Setting: Monks Cafe. George and Jerry are sitting across from each other|KRAMER|Hey, hey, hey, listen to this. Jackie just called.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|Who?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|His lawyer.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|KRAMER|Yeah, Java World wants to settle.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|What?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|KRAMER|Yeah, I'm gonna be rich.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|Why are they settling?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|KRAMER|Cause their afraid of bad publicity.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|JERRY|All this because you spilled coffee on yourself?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|KRAMER|Yeah that's right.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|GEORGE|(Very loud in the direction of a waiter) I'm gonna need a coffee here. Very hot! Boiling!
+Setting: Monks Cafe. George and Jerry are sitting across from each other|action|Scene ends
+Setting: Monks Cafe. George and Jerry are sitting across from each other|MAESTRO|And then about four years ago I was on holiday in Tuscany.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|ELAINE|Uh ha.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|MAESTRO|And I fell in love with this house.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|action|Waiter approaches
+Setting: Monks Cafe. George and Jerry are sitting across from each other|WAITER|Are you ready to order?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|ELAINE|Oh God. What are you getting Bob?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|action|Maestro looks at Elaine with an annoyed look on his face
+Setting: Monks Cafe. George and Jerry are sitting across from each other|MAESTRO|Good question. (to waiter) We'll need a few minutes.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|action|Maestro puts his head in his hand. He is visibly upset
+Setting: Monks Cafe. George and Jerry are sitting across from each other|MAESTRO|You know, I'm sorry but, I didn't mention it earlier but actually I preferred to be called Maestro.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|ELAINE|Excuse me?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|MAESTRO|Well, ya know I am a conductor.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|ELAINE|Yeah, so?
+Setting: Monks Cafe. George and Jerry are sitting across from each other|MAESTRO|Oh I suppose it's O.K. for Leonard Burnstein to be called Maestro because he conducted the New York Philharmonic. So he gets to be called Maestro and I don't.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|ELAINE|Well, I mean don't you think that he was probably called Maestro while he was conducting, not in social situations. I mean his friends probably just called him Lenny.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|MAESTRO|I happen to know for a fact, that he was called Maestro in social situations. I once saw him at a bar and someone came up to him and said "Hello Maestro, how about a beer". O.K. So that's a fact.
+Setting: Monks Cafe. George and Jerry are sitting across from each other|ELAINE|Maestro huh? O.K. (laughing)
+Setting: Monks Cafe. George and Jerry are sitting across from each other|action|Scene ends
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|action|Kramer enters frantically
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|KRAMER|Jerry! Jerry! Jerry! Jerry my burn is gone look.(shows Jerry the burn area).
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|JERRY|What do you mean?
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|KRAMER|Well I put that Chinese balm on that the Maestro gave me. And look, it healed it.
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|JERRY|So?
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|KRAMER|So? My lawsuit. I'm finished.
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|JERRY|I thought they wanted to settle.
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|KRAMER|Well what happens if they want to see it?
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|JERRY|Then you're in a lot of trouble.
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|KRAMER|Yeah!!
+Setting: Jerry's apartment. Jerry is at the refrigerator getting orange juice.|action|Scene ends
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GEORGE|(To guard) Tired?
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GUARD|No.
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GEORGE|How come uh, no chair?
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GUARD|What?
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GEORGE|I, I couldn't help but notice that uh you don't have a chair.
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GUARD|I don't need a chair.
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GEORGE|No I didn't mean to imply that you did. You're obviously a very well proportioned individual. I was just wondering, have they ever offered you a chair?
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GUARD|Nope.
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GEORGE|Would you like a chair?
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GUARD|I suppose if they gave me one I'd sit down.
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GEORGE|Ah ha, Ah ha. You would, wouldn't you?
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GUARD|Obviously I'd rather sit than stand, if that's what your asking.
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GEORGE|That's exactly my point.
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GUARD|Well who wouldn't?
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|GEORGE|Cause I tell you, frankly, I would like to walk in hear one day and find you sitting down. (Starts to walk out of the store) That would give me a lot of pleasure. Call me crazy.
+Setting: Ross' clothing store. Guard is standing near entrance. George enters.|action|Scene ends
+Setting: Back seat of a cab. Jackie and Kramer|JACKIE|You put the balm on? Who told you to put the balm on? I didn't tell you to put the balm on. Why'd you put the balm on? You haven't even been to see the doctor. If your gonna put a balm on, let a doctor put a balm on.
+Setting: Back seat of a cab. Jackie and Kramer|KRAMER|I guess I screwed up huh Jackie?
+Setting: Back seat of a cab. Jackie and Kramer|JACKIE|Your damn right you screwed up. Where the hell did you get that damm balm anyway?
+Setting: Back seat of a cab. Jackie and Kramer|KRAMER|The Maestro.
+Setting: Back seat of a cab. Jackie and Kramer|JACKIE|The who? What are you talking about Maestro?
+Setting: Back seat of a cab. Jackie and Kramer|KRAMER|My friend he's a conductor.
+Setting: Back seat of a cab. Jackie and Kramer|JACKIE|Oh oh oh, so a Maestro tells you to put a balm on and you do it?
+Setting: Back seat of a cab. Jackie and Kramer|KRAMER|Well my stomach was burning.
+Setting: Back seat of a cab. Jackie and Kramer|JACKIE|I tell you what this is. This is a public humiliation.
+Setting: Back seat of a cab. Jackie and Kramer|KRAMER|Well I didn't know the balm was gonna work.
+Setting: Back seat of a cab. Jackie and Kramer|JACKIE|Do you know what a balm is? Have you ever seen a balm? Didn't you read the instructions?
+Setting: Back seat of a cab. Jackie and Kramer|KRAMER|Well I ...
+Setting: Back seat of a cab. Jackie and Kramer|JACKIE|(interrupts) No one can tell what a balm's gonna do. They're unpredictable.
+Setting: Back seat of a cab. Jackie and Kramer|KRAMER|I'm sorry Jackie.
+Setting: Back seat of a cab. Jackie and Kramer|JACKIE|(To cab driver) Pull over here driver this is it.
+Setting: Back seat of a cab. Jackie and Kramer|KRAMER|(Motions with his head) Yeah, get over.
+Setting: Back seat of a cab. Jackie and Kramer|action|Scene ends
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|Did you have a good time?
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|Yeah, he's very interesting. Did you know that Mozart died while he was writing 'The Requiem'.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|(Sarcastically) Yeah, everyone knows that, it was in Amadeus.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|Really?
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|So what about the "Maestro" stuff. Did he make you call him Maestro.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|Yeah, I called him Maestro.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|You didn't mind?
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|Well, I did at first, but actually I kind of got used to it.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|O.K. from now on I want you to call me "Jerry the Great".
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|I am not calling you "Jerry the Great".
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|Why not you call him Maestro.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|He is a Maestro.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|Well, I'm great.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|So you say.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|What about his house in Tuscany, he mention that?
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|Yeah. (bragging) I'm invited.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|You know when I told him it was beautiful there, out of the clear blue sky he says there's nothing to rent. As if he doesn't want anyone else there.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|Why?
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|I don't know. Maybe he's embarrassed by Americans.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|ELAINE|Yeah, well maybe there aren't any houses to rent there.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|JERRY|In all of Tuscany? I wonder.
+Setting: Elaine and Jerry walking on the sidewalk in NYC|action|Scene ends
+Setting: Office of a Java World building|action|Secretary beeps
+Setting: Office of a Java World building|action|Heard over the speaker
+Setting: Office of a Java World building|SECRETARY|Mr. Chiles and Mr. Kramer are here.
+Setting: Office of a Java World building|action|To intercom
+Setting: Office of a Java World building|action|Mr. Star opens door to let Jackie and Kramer in
+Setting: Office of a Java World building|action|Kramer and Jackie enter Mr. Star's office
+Setting: Office of a Java World building|KRAMER|(Interrupting) I'LL TAKE IT!!
+Setting: Office of a Java World building|action|Scene ends
+Setting: Jackie and Kramer in the back of a cab|JACKIE|I'll take it? Who told you to take it? Did I tell you to take it?
+Setting: Jackie and Kramer in the back of a cab|KRAMER|No.
+Setting: Jackie and Kramer in the back of a cab|JACKIE|I know the Maestro didn't tell you to take it, he wasn't there.
+Setting: Jackie and Kramer in the back of a cab|KRAMER|Well I thought we were lucky to get anything.
+Setting: Jackie and Kramer in the back of a cab|JACKIE|Free coffee?
+Setting: Jackie and Kramer in the back of a cab|KRAMER|Yeah.
+Setting: Jackie and Kramer in the back of a cab|JACKIE|I don't want free coffee. It's not hard to get coffee. I can get my own
+Setting: Jackie and Kramer in the back of a cab|KRAMER|Well I didn't hear any Plus.
+Setting: Jackie and Kramer in the back of a cab|JACKIE|20 years practicing law I've never experienced anything like this.
+Setting: Jackie and Kramer in the back of a cab|action|Kramer spots a Java World
+Setting: Jackie and Kramer in the back of a cab|KRAMER|Look, Java World. (To cabbie) Hey listen I'm gonna get out here. I'm gonna get myself a free cafe latte.
+Setting: Jackie and Kramer in the back of a cab|action|Kramer tramples over Jackie to get out of the cab
+Setting: Jackie and Kramer in the back of a cab|action|Scene ends
+Setting: Jerry and Elaine are walking down the street and hear music approaching|ELAINE|Hey. Hi Maestro.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|action|Maestro makes like a conductor waiving his hands. Elaine joins in to finish the song
+Setting: Jerry and Elaine are walking down the street and hear music approaching|MAESTRO|Beethoven's 7th.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|ELAINE|Yeah.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|Hey you know we were just talking about you.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|MAESTRO|Oh yeah?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|Yeah, ya know the other day how you mentioned that there were no houses available in Tuscany?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|MAESTRO|You didn't find one, did you?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|No. I'm not really looking.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|MAESTRO|Nor should you.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|So are you telling me there's not one house to rent in all of Tuscany?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|MAESTRO|The houses are passed down from generation to generation, it's very hard.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|I can't get a sublet, a guest room, a cot, nothing?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|MAESTRO|It's booked solid!
+Setting: Jerry and Elaine are walking down the street and hear music approaching|ELAINE|It's BOOKED Jerry!
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|How'd you get yours?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|MAESTRO|Got lucky. Come on, Elaine, let's take a ride, I was about to pop in some Verdi.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|action|Elaine starts to sing in Italian. Maestro and Elaine drive away
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|Maybe I'll check out France.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|action|George walks towards Jerry
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|Hey George, do you believe this guy?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|GEORGE|Who?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|Bob Cobb.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|GEORGE|Bob Cobb?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|You know, the Maestro.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|GEORGE|Oh I missed the Maestro?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|Yeah, get this, he tells me there are no houses any where in Tuscany to rent.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|GEORGE|Huh. Your renting a house in Tuscany?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|JERRY|No.
+Setting: Jerry and Elaine are walking down the street and hear music approaching|GEORGE|So what do you care?
+Setting: Jerry and Elaine are walking down the street and hear music approaching|action|George walks away leaving Jerry standing there by himself
+Setting: Jerry and Elaine are walking down the street and hear music approaching|action|Scene ends
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|I just wish I could figure out if this guy is trying to keep me out of Tuscany.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|Of course he is. There's got to be houses for rent in Tuscany. Do you know how big Tuscany is?
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|I have no idea.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|It it's huge. It's probably like North Dakota.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|Oh, no way it's that big.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|It's a big region.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|Do you know how big North Dakota is stupid?
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|I don't know why I bother even talking to you.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|Hey, no one's got a gun to your head.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|All right.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|action|George and Jerry hold there arms up in a truce
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|So I spoke to the security guard.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|Yeah and?
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|Well it's tough to get a good read but I think if I brought him a chair, he'd sit.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|So are you gonna get him a chair?
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|Yup. It's really just a question of what kind. Thinking about a bar stool.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|Yeah, that would give him some height, be able to check things out. With a back or without.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|Oh I think I'd go for the back.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|Swivel?
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|I suppose he could swivel. Hey maybe one of those director's chairs. What do you think of those.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|I thinks it's kind of a pompous look. You know my parents used to have a kitchen chair that would have been perfect.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|You mean one of those vinyl things?
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|Yes.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|Vinyl yeah, maybe.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|JERRY|How can I figure out if there's any places to rent in Tuscany? Wait a minute. Poppy's from Tuscany. I'm gonna go call him.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|action|Jerry leaves the booth headed for the phone in the back of the cafe
+Setting: Monk's cafe. George and Jerry are sitting at the booth|GEORGE|Yeah, good luck. Hey I'll meet you outside.
+Setting: Monk's cafe. George and Jerry are sitting at the booth|action|Scene ends
+Setting: In Maestro's car, he and Elaine are driving and singing Finiculi, Finicula|action|Scene ends
+Setting: On the street in the city, George and Jerry are talking|JERRY|Poppy told me to talk to his cousin, he lives down in Little Italy.
+Setting: On the street in the city, George and Jerry are talking|GEORGE|What do you think about a rocking chair?
+Setting: On the street in the city, George and Jerry are talking|action|Camera shifts to inside a Java World and Kramer is exiting at the door
+Setting: On the street in the city, George and Jerry are talking|KRAMER|(Speaking very fast and fidgety) You can't put a limit on my cafe lattes, it says so right here. And I don't want to get dirty looks when I come in here. If I want a cafe latte, you give me a cafe latte. And if I have any problems I'm gonna get my lawyer Jackie Chiles down here and your gonna be in really big trouble.
+Setting: On the street in the city, George and Jerry are talking|action|Kramer exits and runs into Jerry and George
+Setting: On the street in the city, George and Jerry are talking|JERRY|Hey hey hey, slow down Eddie. What what's the matter?
+Setting: On the street in the city, George and Jerry are talking|KRAMER|Awe there making faces at me cause I've had a couple of cafe lattes. But I'm entitled to them. I can have as many cafe lattes as I want, that was the settlement.
+Setting: On the street in the city, George and Jerry are talking|JERRY|That's it?
+Setting: On the street in the city, George and Jerry are talking|KRAMER|That's it. What you want one George? I can get one for you. No problem. Jerry, you want one? They're delicious. My pleasure.
+Setting: On the street in the city, George and Jerry are talking|JERRY|You've got to stop it. Your your all hopped up on the caffein.
+Setting: On the street in the city, George and Jerry are talking|KRAMER|Well I feel like I'm talking fast but it's very hard to tell.
+Setting: On the street in the city, George and Jerry are talking|JERRY|You're racing!
+Setting: On the street in the city, George and Jerry are talking|KRAMER|Well well I've got things to do. I'll see you later. Bye.
+Setting: On the street in the city, George and Jerry are talking|action|Kramer walks extremely fast away from Jerry and George first putting the contract into his jacket and then fixes his tie all while still walking extremely fast
+Setting: On the street in the city, George and Jerry are talking|action|Scene ends
+Setting: Dark room. Elaine and Maestro are kissing|ELAINE|(Passionately) Oh Bob! Bob!
+Setting: Dark room. Elaine and Maestro are kissing|action|Maestro is insulted and pulls away
+Setting: Dark room. Elaine and Maestro are kissing|ELAINE|(Correcting herself) Maestro!
+Setting: Dark room. Elaine and Maestro are kissing|action|Maestro begins kissing Elaine again
+Setting: Dark room. Elaine and Maestro are kissing|action|Scene ends
+Setting: Ross' clothing store. George carries in a rocking chair|CLERK|(Noticing George with the rocking chair) Excuse me. Can I help you?
+Setting: Ross' clothing store. George carries in a rocking chair|GEOGE|Nope. Just a, giving a chair to the security guard.
+Setting: Ross' clothing store. George carries in a rocking chair|CLERK|Did Mr. Ross tell you to do this?
+Setting: Ross' clothing store. George carries in a rocking chair|action|George motions for the clerk to approach him
+Setting: Ross' clothing store. George carries in a rocking chair|GEORGE|What's your name?
+Setting: Ross' clothing store. George carries in a rocking chair|CLERK|Evan Fayne.
+Setting: Ross' clothing store. George carries in a rocking chair|GEORGE|I'm engaged to Mr. Ross' niece. I'm probably gonna be taking over this whole place someday so if I were you I would stay on my good side.
+Setting: Ross' clothing store. George carries in a rocking chair|CLERK|I'm terribly sorry, I didn't know.
+Setting: Ross' clothing store. George carries in a rocking chair|GEORGE|Innocent mistake.
+Setting: Ross' clothing store. George carries in a rocking chair|action|George gives the chair to the security guard
+Setting: Ross' clothing store. George carries in a rocking chair|GEORGE|Well, here you go. What do you think?
+Setting: Ross' clothing store. George carries in a rocking chair|GUARD|Mr. Ross says this is O.K.?
+Setting: Ross' clothing store. George carries in a rocking chair|GEORGE|Hey, I'm his nephew, all right? Don't worry about it. Go ahead. Check it out.
+Setting: Ross' clothing store. George carries in a rocking chair|action|Guard sits in the chair
+Setting: Ross' clothing store. George carries in a rocking chair|GUARD|Not bad. Not bad at all.
+Setting: Ross' clothing store. George carries in a rocking chair|action|Scene ends
+Setting: Dark room in the back of an Italian restaurant.|JERRY|Ah, excuse me, I'm looking for a Mr. Giggio.
+Setting: Dark room in the back of an Italian restaurant.|GIGGIO|Si, Si, imma Giggio.
+Setting: Dark room in the back of an Italian restaurant.|JERRY|Poppy sent me to see you Mr. Giggio.
+Setting: Dark room in the back of an Italian restaurant.|GIGGIO|Si, Si Poppy.
+Setting: Dark room in the back of an Italian restaurant.|JERRY|Um, did he did he mention to you why I called?
+Setting: Dark room in the back of an Italian restaurant.|GIGGIO|Si, the house in Tuscana.
+Setting: Dark room in the back of an Italian restaurant.|JERRY|Yeah, right, right. So is there anything there to rent?
+Setting: Dark room in the back of an Italian restaurant.|GIGGIO|Si. Two million lira. You give me the check.
+Setting: Dark room in the back of an Italian restaurant.|JERRY|I didn't actually want to rent it.
+Setting: Dark room in the back of an Italian restaurant.|GIGGIO|The keys, here are the keys. You give me the check. Two million lira. Seventeen hundred Americana. Molto generoso.
+Setting: Dark room in the back of an Italian restaurant.|action|A man approaches Mr. Giggio and whispers in his ear.
+Setting: Dark room in the back of an Italian restaurant.|GIGGIO|(To the man) Si, Si.
+Setting: Dark room in the back of an Italian restaurant.|action|Jerry watches the man walk away and appears to be very frightened
+Setting: Dark room in the back of an Italian restaurant.|JERRY|So see um, I didn't say that I wanted to rent it, I was just wondering if there were houses there to rent.
+Setting: Dark room in the back of an Italian restaurant.|GIGGIO|Si. (hods up the keys) Thissa one!. Capiche?
+Setting: Dark room in the back of an Italian restaurant.|action|Scene ends
+Setting: Ross' clothing store. The employees are being held up at gun point. The camera moves from the right to the left. There is a masked man taking the money from the cash register. As the camera moves all the way to the left of the store, you see the security guard fast asleep in his new chair|action|Scene ends
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|ELAINE|It's been a rough couple of weeks, ya know I really needed to get away.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|MAESTRO|I told you, it's paradise.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|ELAINE|You're right Maestro.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|action|The sound of a car horn is heard in the background. A cab driver is yelling in Italian. Elaine and Maestro go to the window on the other side of the room to see what is going on. We see the cab.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|KRAMER|Common Jerry, this guy is crazy. Get out.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|action|Jerry falls out of the back seat of the cab.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|JERRY|You didn't have to push me.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|KRAMER|I didn't push you. How much did you pay that guy?
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|JERRY|75,000 lira.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|KRAMER|75,000 lira? Are you out of your mind?
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|JERRY|Kramer you don't under the conversion rate.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|KRAMER|Oh, conversion rate, oh.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|JERRY|You know I don't even know why I brought you.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|KRAMER|Nobody put a gun to your head.
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|action|They look up and see the place
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|JERRY|Not bad!
+Setting: At the window of a house in Tuscany. Elaine and Maestro are talking. There is a lady singing in Italian in the background|KRAMER|Yeah!

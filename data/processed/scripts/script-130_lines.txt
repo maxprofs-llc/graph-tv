@@ -1,0 +1,289 @@
+George in a meeting at Yankee Stadium|GEORGE|I believe the doors on the bathroom stalls, here at the stadium, don't offer much by way of privacy. But I was thinking if we extend the doors all the way to the floors......
+George in a meeting at Yankee Stadium|GEORGE|It's a calzone, sir.
+George in a meeting at Yankee Stadium|GEORGE|Uh. Cheese, pepperoni, eggplant.
+Jerry and Elaine at apartment|ELAINE|One of those fabric wholesalers. This guy Todd Gack. I won a bet from him.
+Jerry and Elaine at apartment|JERRY|What bet?
+Jerry and Elaine at apartment|ELAINE|He bet me Dustin Hoffman was in Star Wars.
+Jerry and Elaine at apartment|JERRY|Dustin Hoffman in Star Wars!?! Short Jewish guy against Darth Vader. I don't think so.
+Jerry and Elaine at apartment|ELAINE|That's what I said.
+Jerry and Elaine at apartment|JERRY|So the bet was that the loser has to buy dinner?
+Jerry and Elaine at apartment|ELAINE|Yeah.
+Jerry and Elaine at apartment|JERRY|Huh.
+Jerry and Elaine at apartment|ELAINE|What?
+Jerry and Elaine at apartment|JERRY|No. nothing.
+Jerry and Elaine at apartment|action|Kramer walks in
+Jerry and Elaine at apartment|JERRY|What's with you?
+Jerry and Elaine at apartment|KRAMER|Feel this.
+Jerry and Elaine at apartment|JERRY|Wow.That's hot.
+Jerry and Elaine at apartment|KRAMER|Yeah. It's piquing hot. It's fresh out of the dryer. Hey Elaine you have to feel my pants.
+Jerry and Elaine at apartment|ELAINE|I'll see you later.
+Jerry and Elaine at apartment|KRAMER|Oh. All right. You don't know what your missing. I'm loving this Jerry. I am never putting on another piece of clothing unless it's straight out of the dryer.
+Jerry and Elaine at apartment|JERRY|So know every time you get dressed. You are going to go down to the basement and use the dryer.
+Jerry and Elaine at apartment|KRAMER|Oh yeah. It's a warm and wonderful feeling, Jerry. So what are you doing later?
+Jerry and Elaine at apartment|JERRY|I got a date with Nikki.
+Jerry and Elaine at apartment|KRAMER|Oh yeah she's a beauty.
+Jerry and Elaine at apartment|JERRY|She's also quite bold.
+Jerry and Elaine at apartment|KRAMER|Oh bold and beautiful.
+George and Mr. Steinbrenner at Yankee Stadium|GEORGE|You know a lost and found could be a good idea.
+George and Mr. Steinbrenner at Yankee Stadium|GEORGE|Definitely.
+Jerry and Nikki at movies|JERRY|Hey, Elaine.
+Jerry and Nikki at movies|ELAINE|Hi Jerry!
+Jerry and Nikki at movies|JERRY|This is Nikki.
+Jerry and Nikki at movies|NIKKI|Hi!
+Jerry and Nikki at movies|ELAINE|Hello. This is Todd Gack.
+Jerry and Nikki at movies|JERRY|Oh of course. Todd Gack. You did you bet was in Star Wars? Sammy Davis Jr.
+Jerry and Nikki at movies|ELAINE|So what movie are you guys seeing?
+Jerry and Nikki at movies|ELAINE|Oh. We were going to see that but it was sold out. So were going to see"Blame it on the Rain"
+Jerry and Nikki at movies|JERRY|Why don't you see what you can do?
+Jerry and Nikki at movies|NIKKI|Okay.
+Jerry and Nikki at movies|ELAINE|What's she going to do? There's no more tickets.
+Jerry and Nikki at movies|JERRY|We'll see.
+Jerry and Nikki at movies|TODD|Hey Jerry. Do you like cigars?
+Jerry and Nikki at movies|JERRY|Yeah. Why?
+Jerry and Nikki at movies|TODD|I am going to Montreal tomorrow and they sell them dirt cheap.
+Jerry and Nikki at movies|JERRY|Hey,that might be a nice idea for George's wedding.
+Jerry and Nikki at movies|TODD|So do you want a box?
+Jerry and Nikki at movies|JERRY|Sure. If there cheap Why not.
+Jerry and Nikki at movies|TODD|All right I buy a box and give to Elaine.
+Jerry and Nikki at movies|NIKKI|Okay two tickets"Means to an End"
+Jerry and Nikki at movies|JERRY|Told you.
+Jerry and Nikki at movies|ELAINE|How did you do that?
+Jerry and Nikki at movies|NIKKI|I just talked to the manager.
+Jerry and Nikki at movies|JERRY|All right. Enjoy"Blame it on the Rain"
+Jerry and George at the coffee shop|GEORGE|There putting in a lost and found because of me. There's a time limit but still.
+Jerry and George at the coffee shop|JERRY|There really building a Utopian society up there huh.And you tribute all this to the calzone.
+Jerry and George at the coffee shop|GEORGE|Yeah. I am like a drug dealer. I got the guy hooked. I am having lunch at his desk everyday this week. He doesn't make a move without me. It's very exciting.
+Jerry and George at the coffee shop|JERRY|With you two guys at the helm. The last piece of the puzzle is in place.
+Jerry and George at the coffee shop|GEORGE|So let me ask you a question about the tip jar. I had a little thing with the calzone guy this week. I go to drop a buck in the tip jar and just as I am about to drop it in he looks the other way. And then when I am leaving he gives me this look think thanks for nothing. I mean if they don't notice it what's the point.
+Jerry and George at the coffee shop|JERRY|So you don't make it a habit of giving to the blind.
+Jerry and George at the coffee shop|GEORGE|Not bills.
+Jerry and George at the coffee shop|JERRY|So George. Remember when I told you Nikki gets whatever she wants. We are at the movies last night. It's sold out. Nikki goes and talks to the manager. Right in.
+Jerry and George at the coffee shop|GEORGE|Beautiful women. You know they could get away with murder. You never she any of them lift anything over three pounds. They get whatever they want whenever they want it. You can't stop them.
+Jerry and George at the coffee shop|JERRY|She's like a beautiful Godzilla.
+Jerry and George at the coffee shop|GEORGE|Without thousands of fleeing Japanese.
+Jerry and Kramer at his apartment|KRAMER|Hey buddy.
+Jerry and Kramer at his apartment|JERRY|What the hell is all this?
+Jerry and Kramer at his apartment|KRAMER|I am looking for quarters for the dryer.
+Jerry and Kramer at his apartment|JERRY|Why can't you do this on your table?
+Jerry and Kramer at his apartment|KRAMER|Because I don't have a table.
+Jerry and Kramer at his apartment|action|Elaine walks in
+Jerry and Kramer at his apartment|ELAINE|Hey.
+Jerry and Kramer at his apartment|JERRY|Hey. So how was"Blame it on the Rain?"
+Jerry and Kramer at his apartment|ELAINE|Huh. Yeah thanks for getting us tickets too.
+Jerry and Kramer at his apartment|JERRY|Oh!! Let me ask you a question. Was the movie part of the bet?
+Jerry and Kramer at his apartment|action|Kramer leaves
+Jerry and Kramer at his apartment|ELAINE|No. We were both in the mood for one.
+Jerry and Kramer at his apartment|JERRY|You know Elaine, It is not my way to intrude on the personal lives of close fiends....
+Jerry and Kramer at his apartment|ELAINE|Oh is that so.
+Jerry and Kramer at his apartment|JERRY|Absolutely. But I feel I must inform you that what happened last night was more than a simple bet.
+Jerry and Kramer at his apartment|ELAINE|What are you talking about?
+Jerry and Kramer at his apartment|JERRY|Come on. Dustin Hoffman in Star Wars. He made a bet he knew he was going to lose just to take you to dinner
+Jerry and Kramer at his apartment|ELAINE|If he wanted to ask me out why didn't he just ask me.
+Jerry and Kramer at his apartment|JERRY|Because if he doesn't ask you out he doesn't get rejected. He has found a dating loop hole.
+Jerry and Kramer at his apartment|ELAINE|I don't buy it.
+Jerry and Kramer at his apartment|action|Kramer walks in with more change
+Jerry and Kramer at his apartment|JERRY|So what happened after the movie?
+Jerry and Kramer at his apartment|ELAINE|Nothing. He walked me home.
+Jerry and Kramer at his apartment|JERRY|To the door?
+Jerry and Kramer at his apartment|ELAINE|Yeah.
+Jerry and Kramer at his apartment|JERRY|That's a date.
+Jerry and Kramer at his apartment|ELAINE|No it's not.
+Jerry and Kramer at his apartment|JERRY|But I never walk you home.
+Jerry and Kramer at his apartment|ELAINE|That's just because your a jackass.
+Jerry and Kramer at his apartment|KRAMER|Ah!! I found a quarter. Anybody want there clothes heated up?
+Jerry and Kramer at his apartment|JERRY|No, no.
+Jerry and Kramer at his apartment|ELAINE|No, no.
+Jerry and Kramer at his apartment|JERRY|So how did you leave it with him?
+Jerry and Kramer at his apartment|ELAINE|I am supposed to meet him to pick up your cigars.
+Jerry and Kramer at his apartment|JERRY|That's another loop hole. That's two dates without asking you out.
+Jerry and Kramer at his apartment|ELAINE|Your crazy!
+Jerry and Kramer at his apartment|JERRY|Crazy like a man.
+George at Pisano's|WORKER|Number 49.
+George at Pisano's|GEORGE|You know my last name is Costanza. That's Italian. So you and I are like country men. Pisano's!
+George at Pisano's|WORKER|$ 6.50 your change.
+George at Pisano's|GEORGE|And I always take care of my Pisano's. So here is a little something. (drop in tip and worker looks the other way, so George decides to take it out and try again only to get caught)
+George at Pisano's|WORKER|Hey! You steal my money!!
+George at Pisano's|GEORGE|No no. That's not what I was trying to do.
+George at Pisano's|WORKER|I know what you try to do. Get out. Don't ever come back ever.
+George and Mr. Steinbrenner at Yankee Stadium|GEORGE|I got your calzones Mr. Steinbrenner.
+George and Mr. Steinbrenner at Yankee Stadium|GEORGE|I thought tomorrow maybe we'd try a little corn beef.
+George and Mr. Steinbrenner at Yankee Stadium|GEORGE|How about Chinese?
+George and Mr. Steinbrenner at Yankee Stadium|GEORGE|I just thought it would be nice. A little variety.
+Todd walking Elaine to her apartment|ELAINE|Thanks for the dinner.
+Todd walking Elaine to her apartment|TODD|Well I had to give these cigars and we were both hungry.
+Todd walking Elaine to her apartment|ELAINE|Hey Todd. Let me ask you a question. Um. Was this whole date thing just a way of asking me out?
+Todd walking Elaine to her apartment|TODD|What?
+Todd walking Elaine to her apartment|ELAINE|I mean Dustin Hoffman in Star Wars?
+Todd walking Elaine to her apartment|TODD|Elaine that was a legitimate bet and I lost so I bought you dinner.
+Todd walking Elaine to her apartment|ELAINE|Oh all right. Okay well, goodnight.
+Todd walking Elaine to her apartment|TODD|Hey, if your not doing anything Saturday do you want to meet somewhere?
+Todd walking Elaine to her apartment|ELAINE|See what is that? Is that a date?
+Todd walking Elaine to her apartment|TODD|Why can't two people go and do something without it being a date?
+Todd walking Elaine to her apartment|ELAINE|All right. I am sorry it's not a date.
+Todd walking Elaine to her apartment|TODD|No way. So I'll see you Saturday night?
+Todd walking Elaine to her apartment|ELAINE|All right.
+Todd walking Elaine to her apartment|TODD|Pick you up at 8:00 p.m.
+Jerry and Nikki getting pulled over by a cop|JERRY|I was got to be 55.
+Jerry and Nikki getting pulled over by a cop|JERRY|A lot faster than that!
+Jerry and Nikki getting pulled over by a cop|JERRY|Okay dokey
+Jerry and Nikki getting pulled over by a cop|JERRY|Absolutely. Nikki!
+Jerry and Nikki getting pulled over by a cop|NIKKI|Yes.
+Jerry and Nikki getting pulled over by a cop|JERRY|Would you mind bringing the officer the registration?
+Jerry and Nikki getting pulled over by a cop|NIKKI|Not at all.
+Jerry and Nikki getting pulled over by a cop|JERRY|You must have gotten me when I slowed down to take that curve because for a while there I was doing well over 100.
+Jerry and Nikki getting pulled over by a cop|NIKKI|Officer. Hi. Do you really have to give us a ticket?
+Jerry and Nikki getting pulled over by a cop|JERRY|All right Nik. That's it.
+Kramer and Jerry at his apartment|KRAMER|Hey buddy. I am waiting for my shirt.
+Kramer and Jerry at his apartment|JERRY|You got your shirt in my oven!?!
+Kramer and Jerry at his apartment|KRAMER|I didn't have any quarters for the dryer. Anyway this is better. And it's more convenient.
+Kramer and Jerry at his apartment|JERRY|For both of us.
+Kramer and Jerry at his apartment|KRAMER|And I have a lot more control. I have one shirt going for 10 minutes at 325 degrees.
+Kramer and Jerry at his apartment|JERRY|What's wrong with your oven?
+Kramer and Jerry at his apartment|KRAMER|I am baking a pie!
+Kramer and Jerry at his apartment|action|Buzz, buzz
+Kramer and Jerry at his apartment|JERRY|Yeah.
+Kramer and Jerry at his apartment|GEORGE|Yeah.
+Kramer and Jerry at his apartment|JERRY|Come on up.
+Kramer and Jerry at his apartment|KRAMER|You got cigars, huh.
+Kramer and Jerry at his apartment|JERRY|I got some Cubans for George's wedding. They were more than I wanted to pay for but what the hell!
+Kramer and Jerry at his apartment|KRAMER|Oh yeah baby. spit, spit. What are these?"Perducto de Peru"Jerry, if you think these are Cubans you have another thing coming.
+Kramer and Jerry at his apartment|JERRY|Peru! I paid $300 bucks for these. I could have bought a house in Peru for $300 bucks!
+Kramer and Jerry at his apartment|KRAMER|You got ripped buddy.
+Kramer and Jerry at his apartment|JERRY|I got to pay this Todd Gack guy $300 bucks just so he has some excuse to see Elaine again without asking her out.
+Kramer and Jerry at his apartment|KRAMER|That's a nice name. Todd Gack. Is that Dutch? (Dingggggg) Oh baby. Here we go. Uh momma.(putting his fresh out of the oven shirt on) Hey George hey.
+Kramer and Jerry at his apartment|action|Kramer leaves
+Kramer and Jerry at his apartment|GEORGE|Well this is bad. I am really in a bad situation now.
+Kramer and Jerry at his apartment|JERRY|so what is Steinbrenner going to do if he doesn't get his calzones?
+Kramer and Jerry at his apartment|GEORGE|What's he going to do? That's exactly the point. Nobody knows what this guy is capable of! He fires people like it is a bodily function.
+Kramer and Jerry at his apartment|JERRY|Why don't you get someone else from the office to go get Pisano's for you?
+Kramer and Jerry at his apartment|GEORGE|Because before you know it he'll be having lunch with him. You know how these interoffice politics work.
+Kramer and Jerry at his apartment|JERRY|No. I never had a job.
+Kramer and Jerry at his apartment|action|Kramer walks in with no pants on
+Kramer and Jerry at his apartment|KRAMER|I decided to go with the brown one 's. (pants)
+Kramer and Jerry at his apartment|GEORGE|What the hell is this?
+Kramer and Jerry at his apartment|JERRY|Kramer's cooking up some corduroy.
+Kramer and Jerry at his apartment|GEORGE|There has got to be some way to get back into Pisano's.
+Kramer and Jerry at his apartment|KRAMER|Pisano's. That's the place by the stadium right?
+Kramer and Jerry at his apartment|GEORGE|Yeah. You've heard of it?
+Kramer and Jerry at his apartment|KRAMER|Yeah. Newman raves about it. It's on his mail route. He goes by there everyday.
+Kramer and Jerry at his apartment|GEORGE|I'll see you guys later.
+Kramer and Jerry at his apartment|JERRY|What kind of pie are you cooking?
+Kramer and Jerry at his apartment|KRAMER|Huckleberry.
+George at Newman's apartment|NEWMAN|You certainly are in a bind.
+George at Newman's apartment|GEORGE|Yeah. And since you go buy there everyday. I was hoping that we could help each other out.
+George at Newman's apartment|NEWMAN|Oh well. Let me perfectly blunt. I don't care for you Costanza. You hang out at the west side of the building with Seinfeld all day and just it up wasting your lives.
+George at Newman's apartment|GEORGE|Are you going to help me or not?
+George at Newman's apartment|NEWMAN|All right, all right. I'll help you but I will except something in return.
+George at Newman's apartment|GEORGE|What?
+George at Newman's apartment|NEWMAN|Well for starters I want a calzone of my own.....
+George at Newman's apartment|GEORGE|All right.
+George at Newman's apartment|NEWMAN|And a slice of pepperoni pizza and a large soda and three times a week I will require a canolie.
+George at Newman's apartment|GEORGE|That's a little steep don't you think?
+George at Newman's apartment|NEWMAN|You know I hear Mr. Steinbrenner can be a bit erratic. I would hate to see him when he's hungry.
+George at Newman's apartment|GEORGE|All right, all right.
+George at Newman's apartment|NEWMAN|Do we have a deal?
+George at Newman's apartment|GEORGE|But I have to have them by one o'clock. He's very regiment about his meals.
+George at Newman's apartment|NEWMAN|I know exactly how he feels. Pleasure doing business with you. Do come again. Ha, ha, ha, ha.
+Todd and Elaine at a restaurant|ELAINE|This is nice.
+Todd and Elaine at a restaurant|TODD|Gack. Party of four.
+Todd and Elaine at a restaurant|ELAINE|Party of four? Who are we meeting?
+Todd and Elaine at a restaurant|TODD|Mom! Dad! This is Elaine.
+Todd and Elaine at a restaurant|MOM|Hello.
+Todd and Elaine at a restaurant|ELAINE|Hellllllooooo.
+Todd and Elaine at a restaurant|action|End of dinner
+Todd and Elaine at a restaurant|MOM|Nice meeting you.
+Todd and Elaine at a restaurant|TODD|Bye mom.
+Todd and Elaine at a restaurant|MOM|She's wonderful.
+Todd and Elaine at a restaurant|ELAINE|What the hell was that?
+Todd and Elaine at a restaurant|TODD|What?
+Todd and Elaine at a restaurant|ELAINE|Why did you introduce me to your parents?
+Todd and Elaine at a restaurant|TODD|There nice people. I thought you would like them.
+Todd and Elaine at a restaurant|ELAINE|Come on Todd. Admit it, this is a date.
+Todd and Elaine at a restaurant|TODD|Why is this a date?
+Todd and Elaine at a restaurant|ELAINE|Saturday night with your parents. Unless I'm your sister this is a date.
+Todd and Elaine at a restaurant|TODD|Elaine. I don't understand why you can't meet someone else's parents without classifying it as a date.
+Todd and Elaine at a restaurant|ELAINE|Well if it's not a date then what is it?
+Todd and Elaine at a restaurant|TODD|It's a lovely evening together.
+Todd and Elaine at a restaurant|ELAINE|I don't believe this.
+Todd and Elaine at a restaurant|TODD|Well I am getting a cab want to join me?
+Todd and Elaine at a restaurant|ELAINE|No. I'll just walk home.
+Todd and Elaine at a restaurant|TODD|Okay goodnight. (goes to kiss her)
+Todd and Elaine at a restaurant|ELAINE|Now what was that?
+George at Newman's apartment|action|Knock, knock
+George at Newman's apartment|NEWMAN|Hello. What 's this?
+George at Newman's apartment|GEORGE|Well I was dropping of the calzone money for the week.... Um shouldn't you be at work by now?
+George at Newman's apartment|NEWMAN|Work? It's raining.
+George at Newman's apartment|GEORGE|Soooooo
+George at Newman's apartment|NEWMAN|I called in sick. I don't work in the rain.
+George at Newman's apartment|GEORGE|You don't work in the rain? Your a mailman."Neither rain nor sleet nor snow....."It's the first one.
+George at Newman's apartment|NEWMAN|I was never that big on creeds.
+George at Newman's apartment|GEORGE|You were supposed to deliver my calzones. We had a deal!
+George at Newman's apartment|NEWMAN|I believe the deal was that I get the calzones on my mail route. Well today I won't be going on my mail route! Will I. Perhaps tomorrow.
+George at Newman's apartment|GEORGE|But I'm paying you!
+George at Newman's apartment|NEWMAN|Yes thank you. (slams door)
+George at Newman's apartment|GEORGE|Newman!!
+Nikki and Jerry at his apartment|NIKKI|Peru? I thought you wanted cigars from Cuba?
+Nikki and Jerry at his apartment|JERRY|I did.
+Nikki and Jerry at his apartment|NIKKI|Well if these aren't what you wanted then why did you pay him?
+Nikki and Jerry at his apartment|JERRY|Well what could I do? Unless you pay him a visit.
+Nikki and Jerry at his apartment|NIKKI|Okay.
+George at Kramer's apartment|action|Knock, knock
+George at Kramer's apartment|GEORGE|Kramer!
+George at Kramer's apartment|KRAMER|Hey you!
+George at Kramer's apartment|GEORGE|Look I need you to do me a favor. I need you to get me lunch at Pisano's.
+George at Kramer's apartment|KRAMER|What happened to Newman?
+George at Kramer's apartment|GEORGE|He called in sick.
+George at Kramer's apartment|KRAMER|Oh yeah right it's raining.
+George at Kramer's apartment|GEORGE|Can you do it?
+George at Kramer's apartment|KRAMER|What time do you need it at?
+George at Kramer's apartment|GEORGE|1:00 p.m. Do you need any money?
+George at Kramer's apartment|KRAMER|No. I got eight tons of change. I'm loaded.
+Kramer on street|KRAMER|Hey hold that bus!
+Kramer at Pisano's|KRAMER|Hey. It's really wet out there.
+Kramer at Pisano's|WORKER|What can I get you?
+Kramer at Pisano's|KRAMER|I here you make a pretty mean calzone.
+Kramer at Pisano's|WORKER|Calzone!
+Kramer at Pisano's|KRAMER|Yeah calzone.
+Kramer at Pisano's|WORKER|The best!
+Kramer at Pisano's|KRAMER|All right. Lay them on me. I'll take three.
+Kramer at Pisano's|WORKER|Three calzones.
+Kramer at Pisano's|KRAMER|Hey. That's a big oven. Huh. Listen. I was wondering if you could do me a favor.
+Elaine goes to the coffee shop|ELAINE|Hey Todd.
+Elaine goes to the coffee shop|TODD|Hi. You know Nikki.
+Elaine goes to the coffee shop|ELAINE|Yeah sure.
+Elaine goes to the coffee shop|NIKKI|Wait. Elaine will settle this. What's the"M"stand for in Richard M. Nixon?
+Elaine goes to the coffee shop|ELAINE|Milhouse.
+Elaine goes to the coffee shop|NIKKI|I told you so. He said it was Moe. You owe me a dinner.
+Kramer at Pisano's|WORKER|Your order is ready. Three calzones and one shirt and jacket.
+Kramer at Pisano's|KRAMER|Oh. This is all burned up. Look at this.
+Kramer at Pisano's|WORKER|What the hell do I know about cooking a shirt? What the hell is this? Your paying in pennies?
+Kramer at Pisano's|KRAMER|That's all I got.
+Kramer at Pisano's|WORKER|No. You have to have bills. Paper money. You can't pay with this.
+Kramer at Pisano's|KRAMER|I told you this is all I got.
+Kramer at Pisano's|WORKER|Then no calzones.
+Kramer at Pisano's|action|Worker and Kramer yelling at each other back and forth in Italian
+George's office at Yankee Stadium|GEORGE|What happened? Where have you been?
+George's office at Yankee Stadium|KRAMER|The guy wouldn't give them to me because I wanted to pay in change.
+George's office at Yankee Stadium|GEORGE|What the hell happened to your shirt?
+George's office at Yankee Stadium|KRAMER|He overcooked it. It's ruined.
+George's office at Yankee Stadium|GEORGE|Your clothes smell just like Pisano's. There's another Italian place on Jerome. Maybe I can fool him.
+Jerry and Elaine at apartment|JERRY|Stupid cigars. You know if I didn't send Nikki over to talk to him they wouldn't be together.
+Jerry and Elaine at apartment|ELAINE|These are terrible.
+Jerry and Elaine at apartment|JERRY|It's like trying to smoke a chicken bone.
+Jerry and Elaine at apartment|ELAINE|What kind of a name is Todd Gack anyway.
+Jerry and Elaine at apartment|JERRY|I think it's Dutch. I got to get going.
+Jerry and Elaine at apartment|ELAINE|Where are you going?
+Jerry and Elaine at apartment|JERRY|I... uh....promised Nikki that I'd walk her dog for her.
+Jerry and Elaine at apartment|ELAINE|But she broke up with you.
+Jerry and Elaine at apartment|JERRY|I know, I know. But some how she explained it to me and I couldn't say no.
+Jerry and Elaine at apartment|ELAINE|It smells like a rubber fire.
+Jerry and Elaine at apartment|ELAINE|I said rubber fire.
+Jerry and Elaine at apartment|JERRY|Oh.
+Jerry and Elaine at apartment|ELAINE|Did you ever pay Todd for these things?
+Jerry and Elaine at apartment|JERRY|Actually it's being taken care of right now.
+Kramer at Todd's apartment|action|Knock, knock
+Kramer at Todd's apartment|KRAMER|You Gack?
+Kramer at Todd's apartment|TODD|Yeah.
+Kramer at Todd's apartment|KRAMER|Here's your money.
+Kramer at Todd's apartment|action|Kramer throws a bag full of change at him
+Mr. Steinbrenner in George's office|GEORGE|Because they were heated up there.

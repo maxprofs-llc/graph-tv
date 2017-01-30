@@ -1,0 +1,391 @@
+Setting: Monk's Coffee shop|action|Jerry and Kramer are sitting opposite Elaine at a booth, eating lunch
+Setting: Monk's Coffee shop|JERRY|(To Elaine) Let me ask you a question.
+Setting: Monk's Coffee shop|ELAINE|Mm-hm.
+Setting: Monk's Coffee shop|JERRY|You're a hostage, captured by terrorists-
+Setting: Monk's Coffee shop|ELAINE|(Smiling, chewing) Who, me?
+Setting: Monk's Coffee shop|JERRY|You, anybody - whatever. You're in the little room, you're chained to the floor, you're there for a long time.. do you think they would ever consider doing the laundry?
+Setting: Monk's Coffee shop|ELAINE|(Matter-of-factly) They have to, it's in the Geneva Convention.
+Setting: Monk's Coffee shop|KRAMER|(Imitating a Turkish terrorist) You! Take off your socks, your pants, your underwear. We're doing the wash. C'mon! Take it off, take it off!
+Setting: Monk's Coffee shop|action|Jerry and Elaine both laugh at Kramer's impression as George slowly enters. He's in a melancholy state
+Setting: Monk's Coffee shop|KRAMER|Hey, Georgie.
+Setting: Monk's Coffee shop|action|George sits down next to Elaine - opposite Kramer
+Setting: Monk's Coffee shop|JERRY|(To George) What's the matter?
+Setting: Monk's Coffee shop|GEORGE|(Slowly shakes his head) My mother caught me.
+Setting: Monk's Coffee shop|JERRY|"Caught" you? Doing what?
+Setting: Monk's Coffee shop|GEORGE|You know. (All three give him blank stares) I was alone..
+Setting: Monk's Coffee shop|ELAINE|(Making a face of surprise) You mean..?!
+Setting: Monk's Coffee shop|GEORGE|(Nods) Uh-huh.
+Setting: Monk's Coffee shop|KRAMER|(Laughing) She caught you?
+Setting: Monk's Coffee shop|action|Elaine laughs with Kramer
+Setting: Monk's Coffee shop|JERRY|Where?
+Setting: Monk's Coffee shop|GEORGE|(Not really wanting to embellish) ..I stopped by the house to drop the car off, and I went inside for a few minutes.. Nobody was there - they're supposed to be working. (Jerry and Elaine look at each other - enjoying the story) My mother had a Glamour magazine, I started leafing through it..
+Setting: Monk's Coffee shop|JERRY|"Glamour"?
+Setting: Monk's Coffee shop|action|Kramer and Elaine laugh slightly
+Setting: Monk's Coffee shop|GEORGE|..So, one thing lead to another..
+Setting: Monk's Coffee shop|JERRY|So, what did she do?
+Setting: Monk's Coffee shop|GEORGE|First she screams, "George, what are you doing?! My God!" And it looked like she was gonna faint - she started clutching the wall, trying to hang onto it.
+Setting: Monk's Coffee shop|KRMAER|(Reflecting on the story so far) Man..
+Setting: Monk's Coffee shop|GEORGE|I didn't know whether to try and keep her from falling, or zip up.
+Setting: Monk's Coffee shop|JERRY|What did you do?
+Setting: Monk's Coffee shop|GEORGE|I zipped up!
+Setting: Monk's Coffee shop|ELAINE|(Wide-eyed) So, she fell?
+Setting: Monk's Coffee shop|GEORGE|Yeah. (Noticing this makes him out to be the bad kid, he gets defensive) Well, I couldn't run over there the way I was!
+Setting: Monk's Coffee shop|ELAINE|No, I guess you couldn't have..
+Setting: Monk's Coffee shop|JERRY|(In the middle of Elaine's sentence, smiling) No, I wouldn't think so.
+Setting: Monk's Coffee shop|ELAINE|(Finishing it off) ..done that.
+Setting: Monk's Coffee shop|GEORGE|So, she fell, and then she started screaming, "My back! My back!" So, I picked her up and took her to the hospital.
+Setting: Monk's Coffee shop|ELAINE|(Between chuckles) How is she?
+Setting: Monk's Coffee shop|GEORGE|(Somewhat angered) She's in traction.
+Setting: Monk's Coffee shop|ELAINE|(Still laughing) Ok, I'm sorry.
+Setting: Monk's Coffee shop|GEORGE|It's not funny, Elaine.
+Setting: Monk's Coffee shop|ELAINE|(Stifling her laughter) I know. I'm sorry. I'm serious.
+Setting: Monk's Coffee shop|GEORGE|Her back went out. She's gotta be there for a couple of days. All she said on the way over in the car was, "Why, George, why?!".. I said, "Because it's there!"
+Setting: Monk's Coffee shop|action|Kramer laughs, sipping his drink
+Setting: Monk's Coffee shop|JERRY|"Glamour"?
+Setting: Monk's Coffee shop|action|Elaine laughs
+Setting: Monk's Coffee shop|GEORGE|(Vowing) Well, I'll tell you this, though - I am never doing.. that , again.
+Setting: Monk's Coffee shop|ELAINE|What, you mean, in your mother's house, or all together?
+Setting: Monk's Coffee shop|GEORGE|(Definite) All together.
+Setting: Monk's Coffee shop|action|The next three lines are said at the exact same time
+Setting: Monk's Coffee shop|ELAINE|Oh, gimme a break..
+Setting: Monk's Coffee shop|JERRY|(Skeptical) Ohhh yeah.. right.
+Setting: Monk's Coffee shop|KRAMER|Oh, like you're gonna stop?
+Setting: Monk's Coffee shop|GEORGE|You don't think I can?
+Setting: Monk's Coffee shop|JERRY|No chance.
+Setting: Monk's Coffee shop|GEORGE|(Daring) You think you could?
+Setting: Monk's Coffee shop|JERRY|Well, I know I could hold out longer than you.
+Setting: Monk's Coffee shop|GEORGE|Care to make it interesting?
+Setting: Monk's Coffee shop|JERRY|Sure, how much?
+Setting: Monk's Coffee shop|GEORGE|A hundred dollars.
+Setting: Monk's Coffee shop|JERRY|(Pointing) You're on.
+Setting: Monk's Coffee shop|KRAMER|(Butting in) Wait a second, wait a second. Count me in on this. (Clicks his tongue)
+Setting: Monk's Coffee shop|JERRY|You?
+Setting: Monk's Coffee shop|KRAMER|Yeah.
+Setting: Monk's Coffee shop|JERRY|You'll be out before we get the check.
+Setting: Monk's Coffee shop|ELAINE|(Smiling) I want to be in on this, too.
+Setting: Monk's Coffee shop|ELAINE|Why?
+Setting: Monk's Coffee shop|JERRY|(Showing difference) It's apples and oranges..
+Setting: Monk's Coffee shop|ELAINE|What? Why? (More 'no, no, no's from Jerry and George. Persistent) Why?
+Setting: Monk's Coffee shop|JERRY|Because you're a woman!
+Setting: Monk's Coffee shop|ELAINE|So what?
+Setting: Monk's Coffee shop|JERRY|It's easier for a woman not to do it than a man.
+Setting: Monk's Coffee shop|ELAINE|(Sarcastic) Oh.
+Setting: Monk's Coffee shop|JERRY|We have to do it. It's part of our lifestyle. It's like, uh.. shaving.
+Setting: Monk's Coffee shop|ELAINE|Oh, that is such bologna. I shave my legs.
+Setting: Monk's Coffee shop|KRAMER|(Making a point) Not everyday.
+Setting: Monk's Coffee shop|GEORGE|Alright, look, you want to be in?
+Setting: Monk's Coffee shop|ELAINE|Yeah!
+Setting: Monk's Coffee shop|GEORGE|You gotta give us odds. At least two to one - you gotta put up two-hundred dollars.
+Setting: Monk's Coffee shop|KRAMER|No, a thousand!
+Setting: Monk's Coffee shop|ELAINE|No, I'll - I'll put up one-fifty.
+Setting: Monk's Coffee shop|GEORGE|Alright, you're in for one-fifty.
+Setting: Monk's Coffee shop|JERRY|(Nodding) Okay, one-fifty.
+Setting: Monk's Coffee shop|GEORGE|Alright, now, how are we gonna monitor this thing?
+Setting: Monk's Coffee shop|JERRY|Well, obviously, we all know each other very well, (Elaine slightly laughs) I'm sure that we'll all feel comfortable within the confines of the honor system.
+Setting: Monk's Coffee shop|KRAMER|Alright. (Holds out his pinkie at the center of the table)
+Setting: Monk's Coffee shop|action|Jerry, Elaine, and George all hook their pinkies onto his, in a 'pinkie promise', they all pull their hand away, yelling out "Yeah!"
+Setting: Monk's Coffee shop|action|Scene ends
+Setting: Jerry's apartment|action|Jerry's sitting on the couch, eating cereal while George is on the phone with his mother
+Setting: Jerry's apartment|GEORGE|(Stern) No, ma, I'm not gonna see a psychiatrist. N- I don't care if you do pay for it! No! Discussion over. Yeah, alright, I'll see you later. Yes, of course I'm gonna come by. Alright. (Hangs up, slamming it down on the coffee table. He sits down next to Jerry) My mother wants me to see a psychiatrist now. Why?! Because she caught me? (Scoffs, shaking his head) You know, if everyone who did that had to go see a psychiatrist.. (Laughing, he snorts)
+Setting: Jerry's apartment|JERRY|(Waits for the rest of the sentence) ..Yeah?
+Setting: Jerry's apartment|GEORGE|(Defensively) Whatever.
+Setting: Jerry's apartment|action|Intercom buzzes, Jerry gets up to answer it
+Setting: Jerry's apartment|JERRY|How is she?
+Setting: Jerry's apartment|GEORGE|(Shrugging it off) She'll be fine. I gotta go to the hospital to see her tonight.
+Setting: Jerry's apartment|JERRY|(Answering to the intercom) Yeah?
+Setting: Jerry's apartment|ELAINE|It's me.
+Setting: Jerry's apartment|JERRY|Come on up. (Lets her in by unlocking the front door)
+Setting: Jerry's apartment|GEORGE|Hey, what are you doing tonight?
+Setting: Jerry's apartment|JERRY|(Opens his door slightly for Elaine) Dating Marla.
+Setting: Jerry's apartment|GEORGE|Oh, the virgin?
+Setting: Jerry's apartment|JERRY|Yeah.
+Setting: Jerry's apartment|GEORGE|Any, uh.. progress, there? What's the latest?
+Setting: Jerry's apartment|JERRY|Well, I got my troops amassed along the border - I'm just waiting for someone to give me the go-ahead.
+Setting: Jerry's apartment|action|Kramer enters, heading for Jerry's window
+Setting: Jerry's apartment|KRAMER|Hey, look at this, c'mere. There's a naked woman across the street.
+Setting: Jerry's apartment|action|George and Jerry quickly join him at the window
+Setting: Jerry's apartment|JERRY|Where?
+Setting: Jerry's apartment|KRAMER|Second floor from the top. (Pointing) See the window on the left?
+Setting: Jerry's apartment|GEORGE|(In awe) Wow!
+Setting: Jerry's apartment|JERRY|(Also amazed) Who walks around the house like that?!
+Setting: Jerry's apartment|action|All eyes are glued to the woman
+Setting: Jerry's apartment|GEORGE|(Suggesting) Maybe she's a nudist. You know, those nudist colony people..
+Setting: Jerry's apartment|KRAMER|..Yeah.. (Pause) yeah.. (Slowly stands up, and walks out Jerry's apartment - leaving Jerry and George with the view, he shuts the door behind him)
+Setting: Jerry's apartment|JERRY|Hey, let me ask you a question. In these nudist colonies, do they eat naked in the dining room?
+Setting: Jerry's apartment|GEORGE|I would imagine it's all naked.
+Setting: Jerry's apartment|JERRY|What about the chamber maids? Are they naked, too?
+Setting: Jerry's apartment|GEORGE|(Still focused on the nudist) They're naked, the gardeners naked.. the bellhops. (Jerry makes a noise of astonishment) One big nude-a-rama.
+Setting: Jerry's apartment|action|Elaine enters
+Setting: Jerry's apartment|ELAINE|Hey.
+Setting: Jerry's apartment|ELAINE|Well, (Smiling) where's my money? Who caved?
+Setting: Jerry's apartment|JERRY|(Over his shoulder) Not me.
+Setting: Jerry's apartment|GEORGE|(Also, over his shoulder) Not me.
+Setting: Jerry's apartment|ELAINE|What're you looking at?
+Setting: Jerry's apartment|JERRY|There's a naked woman across the street.
+Setting: Jerry's apartment|ELAINE|(Smiling, chuckling) This is gonna be the easiest money I've ever made in my life. (Moving on to a new topic) So, my fried, Joyce, is teaching an aerobics class. I'm gonna go tonight.
+Setting: Jerry's apartment|JERRY|(Commenting) Yeah.. the - the waitress should've taken it back.
+Setting: Jerry's apartment|ELAINE|(Realizes Jerry and George aren't paying attention) So then, I got a call this morning. You know, I was, uh, chosen to go on the space shuttle. We're goin' to Mars.
+Setting: Jerry's apartment|JERRY|(Still staring at the woman) Uh-huh.
+Setting: Jerry's apartment|GEORGE|Have a good time.
+Setting: Jerry's apartment|action|Kramer casually enters, takes a few step toward the kitchen, and slaps a wad of bills onto the counter
+Setting: Jerry's apartment|KRAMER|(Declaring) I'm out!
+Setting: Jerry's apartment|action|Kramer now has the attention of everyone in the room. Jerry's mouth is open in shock. A moment passes
+Setting: Jerry's apartment|ELAINE|What?!
+Setting: Jerry's apartment|KRAMER|Yeah, I'm out - I'm out of the contest.
+Setting: Jerry's apartment|GEORGE|You're out?!
+Setting: Jerry's apartment|KRAMER|Yeah, yeah.. (Notes their reactions) what?
+Setting: Jerry's apartment|ELAINE|Well, that was fast!
+Setting: Jerry's apartment|JERRY|Well, it was that woman across the street. (To Jerry) You know, you better be careful, buddy. She's gonna get you next. (Walks out, shutting the door behind him)
+Setting: Jerry's apartment|action|Jerry, Elaine, and George all look at each other, reflecting
+Setting: Jerry's apartment|ELAINE|..And then there were three.
+Setting: Jerry's apartment|action|Scene ends
+Setting: Hospital room|action|Estelle is on a hospital bed. George, sitting back in a chair, is visiting her
+Setting: Hospital room|ESTELLE|I don't understand you. I really don't. You have nothing better to do at three o' clock in the afternoon? I go out for a quart of milk, I come home, and find my son treating his body like it was an amusement park!
+Setting: Hospital room|GEORGE|(Stern, trying to shut her up) Ma.
+Setting: Hospital room|ESTELLE|Don't give me "Ma". It's a good thing I didn't hit the table. I could of cracked my head open.
+Setting: Hospital room|GEORGE|Ma, people can hear you.
+Setting: Hospital room|ESTELLE|(Heavy in sarcasm) Too bad you can't do that for a living. You'd be very successful at it. You could sell out Madison Square Garden. Thousands of people could watch you! You could be a big star!
+Setting: Hospital room|GEORGE|(Getting up) Alright, Ma, that's enough!
+Setting: Hospital room|ESTELLE|I want you to go see a psychiatrist.
+Setting: Hospital room|GEORGE|No! I am not going to see a psychiatrist!
+Setting: Hospital room|ESTELLE|Why? Why not?! Why won't you go?
+Setting: Hospital room|GEORGE|(Like a kid) Because I don't want to.
+Setting: Hospital room|ESTELLE|I want you to go see somebody.
+Setting: Hospital room|GEORGE|Well, I am not going.
+Setting: Hospital room|ESTELLE|It's a good thing your father's in Chicago.
+Setting: Hospital room|action|George's cousin, Shelly, enters
+Setting: Hospital room|SHELLY|Hello, Aunt Estelle. Look at you - how did this happen?
+Setting: Hospital room|GEORGE|(Snapping) Is that important, really? What is this, a police investigation? The woman's been through enough. She has to relive the experience now?!
+Setting: Hospital room|action|On the other side of a curtain divider, the silhouette of a shapely nurse can be seen entering
+Setting: Hospital room|NURSE|Hi, Denise. Six-thirty, time for your sponge bath.
+Setting: Hospital room|action|The shadow of a patient awakening can be seen
+Setting: Hospital room|DENISE|Mmm.. is it six-thirty already? I fell asleep.
+Setting: Hospital room|action|The two women go about preparing the sponge bath. George is visibly affected - breathing heavily, and staring at them through the curtain
+Setting: Hospital room|SHELLY|(Seems not to notice what's going on beyond the divider) So, George, what are you doing now? I hear you got some kinda television, writing - thing?
+Setting: Hospital room|GEORGE|(Slowly backing away, he's not at all committed to the conversation) Yeah.. television.
+Setting: Hospital room|action|The patient, Denise, is trying to get her gown off
+Setting: Hospital room|NURSE|Let me help you out with that. Here, just slip it over your head..
+Setting: Hospital room|DENISE|Oh.. thank you.
+Setting: Hospital room|SHELLY|(Nodding) Well, it's about time. We thought you were gonna wind up on the street. (As the bath is going on, George is now completely mesmerized) What is it you're doing, exactly?
+Setting: Hospital room|action|A moment passes. George seems not to have heard his cousin
+Setting: Hospital room|ESTELLE|George, you're cousin, Shelly, is talking to you!
+Setting: Hospital room|action|Scene ends
+Setting: New York Health Club|action|Elaine, dressed for a work-out, is signing forms while talking with her friend, Joyce
+Setting: New York Health Club|JOYCE|So, when was the last time you took a class?
+Setting: New York Health Club|ELAINE|Oh, it's been a while.
+Setting: New York Health Club|JOYCE|(Overly excited) Are you psyched?
+Setting: New York Health Club|ELAINE|(Fake excitement) Yeah. yeah, I'm really.. psyched.
+Setting: New York Health Club|JOYCE|Well, you're gonna thank me for getting you in here.
+Setting: New York Health Club|ELAINE|Why is that?
+Setting: New York Health Club|JOYCE|(Pointing, she directs Elaine's attention off-camera) See the guy with the dark hair and the red shorts?
+Setting: New York Health Club|action|Elaine looks over, and her jaw drops to the floor. Breathless, she turns back to her friend
+Setting: New York Health Club|ELAINE|(Between breaths) Oh, my God. (Joyce nods) John F. Kennedy Junior's here!
+Setting: New York Health Club|JOYCE|He's gonna be in your class today.
+Setting: New York Health Club|ELAINE|(Still unable to speak right) In my class? John Kennedy's gonna be in my class?!
+Setting: New York Health Club|JOYCE|I can get you a spot right behind him. He has got a great butt.
+Setting: New York Health Club|ELAINE|Yeah. Butt. Butt. Great butt. John-John's butt.
+Setting: New York Health Club|action|Scene ends
+Setting: Jerry's car|action|Stationary, Jerry's girlfriend, Marla, and him are making out. After some deep kissing, Marla breaks away
+Setting: Jerry's car|MARLA|Let's slow it down a little.
+Setting: Jerry's car|JERRY|"Slow it down"?
+Setting: Jerry's car|MARLA|Well, (Reminding him of her virginity) You know..
+Setting: Jerry's car|JERRY|Ah, yeah.. I know.
+Setting: Jerry's car|MARLA|You're okay with that, right?
+Setting: Jerry's car|JERRY|Yeah, yeah.. of course. What, do you think I care about the sex? What kind of person do you think I am? That doesn't mean anything to me. (Faint) I don't care about that.
+Setting: Jerry's car|MARLA|So, I'll see you Saturday night, then?
+Setting: Jerry's car|JERRY|(Smiling, nodding) Sure, Saturday night.
+Setting: Jerry's car|MARLA|Alright, then. Good night.
+Setting: Jerry's car|JERRY|Goodnight. (She gets out. Jerry leans forward, adding) Not just a good night - a great night. (She shuts the door, he waves)
+Setting: Jerry's car|action|Scene ends
+Setting: Jerry's bedroom|action|Scene ends
+Setting: Jerry's apartment|action|Jerry's in a grouchy mood. Kramer enters
+Setting: Jerry's apartment|KRAMER|(Singing) Goood Moorrrnninng!
+Setting: Jerry's apartment|JERRY|(Out of it) Yeah, good morning.
+Setting: Jerry's apartment|KRAMER|Ha, ha! Nothing like some good solid sack time. (Turns toward Jerry's window)
+Setting: Jerry's apartment|JERRY|She's not there. She's doin' her wash.
+Setting: Jerry's apartment|KRAMER|(Turning back to Jerry) Oh. So, did you make it through the night?
+Setting: Jerry's apartment|JERRY|(Over the top) Yes, I'm proud to say I did!
+Setting: Jerry's apartment|KRAMER|So, you're still master of your domain.
+Setting: Jerry's apartment|JERRY|(Nodding) Yes. Yes I am. (Kramer chuckles) Master of my domain. But I will tell you this: I am going over to (Gestures to the nudist) her apartment, and I'm tellin' her to put those shades down!
+Setting: Jerry's apartment|KRAMER|Woah, woah, woah. What-what did you just say?
+Setting: Jerry's apartment|JERRY|I can't take it anymore! She's driving me crazy! I can't sleep, I can't leave the house, and I' here, I'm climbin' the walls. Meanwhile, I'm dating a virgin, I'm in this contest - something's gotta give!
+Setting: Jerry's apartment|KRAMER|Do you hear what you're saying?! Can you hear it?! (Jerry puts on his coat) This is a beautiful woman walking around naked, and you want to tell her to stop?! That's the dumbest thing I ever heard! I mean, think comprehens- I'm not gonna let you do it.
+Setting: Jerry's apartment|JERRY|(Persistent) Well, I'm doin' it, get out of my way.
+Setting: Jerry's apartment|KRAMER|(Stopping him) No, no, no, no. You can't! You can't! This is something that comes about once in a lifetime! When we were boys, looking through our bedroom windows, we would think: "Why can't there be a woman out there, taking her clothes off?" And now that wish's come true, and you want to (Makes a noise) throw it away?!
+Setting: Jerry's apartment|JERRY|Look, I'm sorry-
+Setting: Jerry's apartment|KRAMER|No, I'm not gonna let you do it, Jerry.
+Setting: Jerry's apartment|JERRY|Kramer, (Trying to pass him) get outta my way!
+Setting: Jerry's apartment|KRAMER|(Frantic) No, no, no. Don't do it. Don't do it! For my sake! God knows I don't ask you for much! (Pleading) Now, come on. Please, Jerry. Please! I'm beggin' ya! Please! (Claps hands) Come on! Please!
+Setting: Jerry's apartment|action|A pause as Jerry thinks it over
+Setting: Jerry's apartment|JERRY|Alright.. (Takes his coat off)
+Setting: Jerry's apartment|KRAMER|Yes!
+Setting: Jerry's apartment|JERRY|..Alright.
+Setting: Jerry's apartment|KRAMER|(Moving to the window) Thank you, thank you, thank you. (Sits in Jerry's chair, looking out the window)
+Setting: Jerry's apartment|JERRY|She's not there!
+Setting: Jerry's apartment|KRAMER|Oh, I can wait..
+Setting: Jerry's apartment|action|Scene ends
+Setting: Monk's Coffee shop|action|Jerry and George are sitting opposite each other in a booth
+Setting: Monk's Coffee shop|JERRY|So the nurse was giving her a sponge bath?
+Setting: Monk's Coffee shop|GEORGE|Every night at six-thirty. The nurse was gorgeous.. then I got a look at the patient.. (Laughs, then snorts) I was going nuts.
+Setting: Monk's Coffee shop|JERRY|Oh, man. Well, I guess you'll be going back to that hospital.
+Setting: Monk's Coffee shop|GEORGE|(Fake sympathy) Well, my mother, Jerry..
+Setting: Monk's Coffee shop|action|Jerry nods
+Setting: Monk's Coffee shop|JERRY|(Pointing) But are you still master of your domain?
+Setting: Monk's Coffee shop|GEORGE|(Arms out) I am king of the county. You?
+Setting: Monk's Coffee shop|JERRY|Lord of the manor.
+Setting: Monk's Coffee shop|action|Elaine enters and sits next to Jerry
+Setting: Monk's Coffee shop|ELAINE|John F. Kennedy Jun-ya!
+Setting: Monk's Coffee shop|JERRY|What?
+Setting: Monk's Coffee shop|ELAINE|(Smiling) He was in my aerobics class.
+Setting: Monk's Coffee shop|JERRY|Really? Did you talk to him?
+Setting: Monk's Coffee shop|ELAINE|No, you don't understand - he was working out right in front of me. So, listen, after the class was over, I timed my walk to the door so we'd get there at the exact same moment, and he says to me, (Thinking the world of what he said) "Quite a workout."
+Setting: Monk's Coffee shop|GEORGE|"Quite a workout"? What did you say?
+Setting: Monk's Coffee shop|ELAINE|(Smiling, proud) I said, "yeah."
+Setting: Monk's Coffee shop|JERRY|(Adding, fake praise) Good one.
+Setting: Monk's Coffee shop|ELAINE|So then, listen, listen. So then, I showered and I dressed, and I saw him again, on the way out. (Giddy and nearly out of breath) So we're walkin' and talkin', and he asked me my name - and I think I said Elaine - but, I mean, who the hell knows.. And so then, he says to me: "Do you wanna split a cab uptown?" And I said, "Sure" - even though I was going downtown. So, we get in the cab, and I mean, I have no idea where I'm goin', right? But this is John F. Kennedy Junior we're talkin' about! (Deep breath) So, then, he says to me, "Where do you live?" And I - and I - and I was close to your block, so I said your building. So he dropped me off in front, (Laughs) and I had to take a cab all the way back downtown to my house.. (Picks up a glass of cold water and presses it up to her forehead to cool her off) Oh, God..
+Setting: Monk's Coffee shop|JERRY|But the question is, are you still master of your domain?
+Setting: Monk's Coffee shop|ELAINE|(Sets the glass down) I'm queen of the castle. (Pops a piece of food into her mouth)
+Setting: Monk's Coffee shop|action|Scene ends
+Setting: Estelle's hospital room|action|George quickly runs in, turning around - he checks both his watch and the wall clock. He smiles to himself
+Setting: Estelle's hospital room|ESTELLE|You're back.
+Setting: Estelle's hospital room|GEORGE|Of course I'm back. Why wouldn't I be back? My mother's in the hospital, I'm going to pay her a visit.
+Setting: Estelle's hospital room|ESTELLE|I know, but two days in a row? You didn't have to do this.
+Setting: Estelle's hospital room|GEORGE|You're my mother! What wouldn't I do for you?
+Setting: Estelle's hospital room|ESTELLE|You know what you could do? I haven't eaten lunch or dinner. I can't eat this hospital food. Maybe you could run down to the deli and get me a sandwich..
+Setting: Estelle's hospital room|GEORGE|(Smiling) You got it, Ma. (She smiles back, nodding) A little later. (George sits back in a nearby chair, looking at the divider in anticipation)
+Setting: Estelle's hospital room|ESTELLE|(Let down) Could you go now, George? I'm very hungry. I'm weak.
+Setting: Estelle's hospital room|GEORGE|Well, wait a little while, Ma. What's the difference?
+Setting: Estelle's hospital room|ESTELLE|I don't understand why you can't do this for me!
+Setting: Estelle's hospital room|GEORGE|(Standing up) I just got here, Ma! I'd like to spend a little time with you.
+Setting: Estelle's hospital room|ESTELLE|But if you wait, they won't let you back in! Visiting hours are almost over!
+Setting: Estelle's hospital room|GEORGE|Ten minutes! Here, here, (Fishes a box of Tic-Tacs out of his coat pocket and tosses them to her) Have some Tic-Tacs.
+Setting: Estelle's hospital room|ESTELLE|Get the hell outta here. (Angrily sets them aside) I'm sorry you came.
+Setting: Estelle's hospital room|action|Nurse enters
+Setting: Estelle's hospital room|NURSE|(To patient) Six-thirty. Time for your sponge bath.
+Setting: Estelle's hospital room|action|George eagerly takes his seat, looking up at their shadows on the divider
+Setting: Estelle's hospital room|ESTELLE|George.. I'm huuunnnggry!
+Setting: Estelle's hospital room|GEORGE|(Muttering, slow) Hang on, Ma.. hang on..
+Setting: Estelle's hospital room|action|Scene ends
+Setting: New York Health Club|action|Elaine, dressed to impress, walks up to the counter. She's obviously looking around for JFK Jr.
+Setting: New York Health Club|JOYCE|Hi!
+Setting: New York Health Club|ELAINE|Hi.
+Setting: New York Health Club|JOYCE|Did you get your hair done today?
+Setting: New York Health Club|ELAINE|No, I just, uh, fixed it.. a little bit. (Still looking around, she quickly checks her breath)
+Setting: New York Health Club|JOYCE|You know who - isn't here. He was in the early class today. (Elaine looses her composure) But I think you made quite an impression on him yesterday.
+Setting: New York Health Club|ELAINE|(Regarding herself) What? What? Who? Me-me-me? I made an impression? What impression?
+Setting: New York Health Club|JOYCE|Let me just put this back. (Turns to put a stack of shorts away)
+Setting: New York Health Club|action|Elaine violently grabs her jacket, pulling Joyce back in her direction
+Setting: New York Health Club|ELAINE|No! No! Now! Tell me now! What did he say?!
+Setting: New York Health Club|JOYCE|(Uneasy) He asked about you.
+Setting: New York Health Club|ELAINE|(Ecstatic) He asked about me? John Kennedy asked about me?! (Hangs off the side of the counter, both feet in the air) What did he say?
+Setting: New York Health Club|JOYCE|He wanted to know your situation.
+Setting: New York Health Club|ELAINE|(Quick) What situation? I have a situation?
+Setting: New York Health Club|JOYCE|I-I told him you were single.
+Setting: New York Health Club|ELAINE|That was good. That was very good.
+Setting: New York Health Club|JOYCE|He said you were just his type.
+Setting: New York Health Club|ELAINE|(Frank) Okay, you tryin' to hurt me? Are you tryin' to hurt - you're tryin' to injure me, right? You're trying to hurt me.
+Setting: New York Health Club|JOYCE|He also told me to tell you that he'll be in your neighborhood tomorrow around nine o' clock - so he's gonna stop in front of your building if you want to come down and say hello.
+Setting: New York Health Club|action|Breathless, Elaine almost collapses
+Setting: New York Health Club|action|Scene ends
+Setting: Jerry's apartment|action|Kramer's at the window while Jerry's on the phone with his mother, watching TV
+Setting: Jerry's apartment|JERRY|Alright, Ma, I'll talk to you later.. Nothing, I'm, I'm watching, uh, Tiny Toons here, on Nickelodeon.. It's, I-I like kid shows. They have a very innocent, wholesome quality. Okay, alright, I'll talk to you later. Bye. (Hangs up)
+Setting: Jerry's apartment|KRAMER|(Obviously watching the nudist across the street) Oh, that's good. That's good. That's very, very good. Oh, it's hot in there.. (Jerry looks back at Kramer in envy) It's hot in there. So, just walk around a little bit. Don't be ashamed, don't be ashamed.. that's good, that's good.. yes, yes, yes..
+Setting: Jerry's apartment|JERRY|(Trying to block out Kramer, he starts to sing along with the TV) The wheels on the bus go round and round, round and round, round and round. The wheels on the bus..
+Setting: Jerry's apartment|action|Kramer joins in with Jerry, only, he has a different version
+Setting: Jerry's apartment|KRAMER|The woman across the street has nothing on, nothing on, nothing on..
+Setting: Jerry's apartment|action|Both Kramer and Jerry continue to sing the two different versions, trying to over ride the other
+Setting: Jerry's apartment|action|Scene ends
+Setting: George's room|action|George is wide awake, staring at the ceiling. Scene cuts to Jerry. Once again, he's restless and flings the covers off him. Scene cuts to Kramer - he's out like a light. The scene takes a final cut to Elaine. Foreshadowing the next scene, she's sound asleep too
+Setting: George's room|action|Scene ends
+Setting: Jerry's apartment|action|Jerry and George. They're bickering at each other due to the lack of sex
+Setting: Jerry's apartment|GEORGE|All you got is instant coffee? Why don't you get some real coffee?
+Setting: Jerry's apartment|JERRY|I don't keep real coffee in here, I get my coffee on the outside! (Intercom buzzes. He answers it) Yeah?!
+Setting: Jerry's apartment|ELAINE|(Through intercom) It's Elaine.
+Setting: Jerry's apartment|JERRY|(Shouting) Come on up! (Opens his door for Elaine)
+Setting: Jerry's apartment|GEORGE|Where did you get those socks?
+Setting: Jerry's apartment|JERRY|I don't know.
+Setting: Jerry's apartment|GEORGE|I think those are my socks!
+Setting: Jerry's apartment|JERRY|How are these your socks?!
+Setting: Jerry's apartment|GEORGE|I don't know, but those are my socks! I had a pair just like that with the blue stripe, and now I don't have them anymore!
+Setting: Jerry's apartment|JERRY|(Sarcastic) Oh, yeah, that's right, well, you fell asleep one day on the sofa and I took them off your stinkin' feet. They looked so good to me, I just had to have them!
+Setting: Jerry's apartment|GEORGE|Yeah, well, they're my socks!
+Setting: Jerry's apartment|JERRY|They're my socks!
+Setting: Jerry's apartment|action|A brief moment passes as they look at each other
+Setting: Jerry's apartment|GEORGE|Oh boy..
+Setting: Jerry's apartment|JERRY|What are we doing here..
+Setting: Jerry's apartment|GEORGE|..Oh boy.
+Setting: Jerry's apartment|JERRY|This is ridiculous.
+Setting: Jerry's apartment|GEORGE|Do you believe this? We're fighting. We're fighting.
+Setting: Jerry's apartment|JERRY|I haven't been myself lately. I've been snapping at everybody.
+Setting: Jerry's apartment|GEORGE|Me too. I've been yelling at strangers on the street.
+Setting: Jerry's apartment|action|Elaine slowly enters, shutting the door behind her
+Setting: Jerry's apartment|ELAINE|Hello.. (Pulls a wad of bills out of her purse, and starts to count it up)
+Setting: Jerry's apartment|GEORGE|(Shocked) You caved?!
+Setting: Jerry's apartment|JERRY|It's over?
+Setting: Jerry's apartment|GEORGE|You're out?
+Setting: Jerry's apartment|JERRY|Ohh-my-God. The Queen is dead.
+Setting: Jerry's apartment|action|Elaine sets the bills down on the counter
+Setting: Jerry's apartment|GEORGE|I figured you'd cruise. At least through the Spring.
+Setting: Jerry's apartment|JERRY|What happened?
+Setting: Jerry's apartment|ELAINE|It was..uh.. John-John.
+Setting: Jerry's apartment|JERRY|But you made it through the day before.
+Setting: Jerry's apartment|ELAINE|Yeah, but yesterday, he told Joyce, the aerobics teacher, that he wants to meet me outside here at nine o' clock tonight.
+Setting: Jerry's apartment|JERRY|Why outside here?
+Setting: Jerry's apartment|ELAINE|Because he think I live here. Remember when we shared a cab, and he dropped me off out in front? He's picking me up.
+Setting: Jerry's apartment|action|George picks up the money, counting it
+Setting: Jerry's apartment|JERRY|Alright, Costanza - it's just you and me.
+Setting: Jerry's apartment|GEORGE|And then, (Smacks the money) there were two.
+Setting: Jerry's apartment|ELAINE|(Slowly) Elaine Benes Kennedy Junior..
+Setting: Jerry's apartment|action|Scene ends
+Setting: Jerry's apartment|action|Jerry and Marla are making out on the couch
+Setting: Jerry's apartment|MARLA|Let's go in the bedroom.
+Setting: Jerry's apartment|JERRY|Really?
+Setting: Jerry's apartment|MARLA|Yes.
+Setting: Jerry's apartment|JERRY|You sure?
+Setting: Jerry's apartment|MARLA|Yes.
+Setting: Jerry's apartment|JERRY|You really want to?
+Setting: Jerry's apartment|MARLA|I do. I'm ready.
+Setting: Jerry's apartment|JERRY|Okay..
+Setting: Jerry's apartment|MARLA|I know how difficult this must have been for you.
+Setting: Jerry's apartment|JERRY|(Chuckles) You don't know the half of it.
+Setting: Jerry's apartment|action|They both laugh slightly
+Setting: Jerry's apartment|MARLA|What do you mean?
+Setting: Jerry's apartment|JERRY|Well, it's kinda silly, but..
+Setting: Jerry's apartment|action|Scene cuts to Elaine on the sidewalk waiting for JFK Jr. She checks her watch. Scene cuts back to Jerry's apartment. Marla, obviously upset, is putting her coat on
+Setting: Jerry's apartment|MARLA|Contest?! A contest! This is what you do with your friends?
+Setting: Jerry's apartment|JERRY|No, it was just a bet. I mean, it actually started with George and his mother-
+Setting: Jerry's apartment|MARLA|I don't want to hear another word. And to think how close I came to you being the one! I must have been out of my mind.
+Setting: Jerry's apartment|action|She leaves, slamming the door. Jerry hangs his head, then directs his attention to his window. Eagerly walking over, he sits in his chair, staring at the woman
+Scene cuts to Elaine. Marla walks out in front of her, trying to hail a taxi|ELAINE|Marla? Hi, oh, I'm glad I ran into you-
+Scene cuts to Elaine. Marla walks out in front of her, trying to hail a taxi|MARLA|I don't want to have anything to do with you or your perverted friends. (Confused, Elaine moves closer) Ooohh, get away from me! You're horrible.
+Scene cuts to Elaine. Marla walks out in front of her, trying to hail a taxi|action|Scene ends
+Setting: Jerry's apartment|ELAINE|What happened?
+Setting: Jerry's apartment|JERRY|I told her about the contest.
+Setting: Jerry's apartment|ELAINE|Ohh. Boy, she's a whack-o.
+Setting: Jerry's apartment|action|George enters
+Setting: Jerry's apartment|GEORGE|(To Elaine) Hey, what happened?
+Setting: Jerry's apartment|ELAINE|What?
+Setting: Jerry's apartment|GEORGE|I thought you were meeting Kennedy.
+Setting: Jerry's apartment|ELAINE|(Let down) He didn't show.
+Setting: Jerry's apartment|GEORGE|Yeah, he did.
+Setting: Jerry's apartment|ELAINE|What? He's - He's out there? Oh, my God. I-I gotta go, I gotta go..
+Setting: Jerry's apartment|GEORGE|No, no, no. He just left.
+Setting: Jerry's apartment|ELAINE|What?
+Setting: Jerry's apartment|GEORGE|Yeah, he was talking to Marla.
+Setting: Jerry's apartment|JERRY|Marla?
+Setting: Jerry's apartment|GEORGE|Yeah, I think, you know, she was, like, crying, and he was consoling her, and then, she, uh, just got into his car, and they just drove away.
+Setting: Jerry's apartment|ELAINE|(Angered) He left with Marla, the virgin?
+Setting: Jerry's apartment|GEORGE|Yeah.
+Setting: Jerry's apartment|ELAINE|They drove away?
+Setting: Jerry's apartment|GEORGE|Yeah, drove away.. You know, I said 'Hello' to him. You know, he's - he's-
+Setting: Jerry's apartment|JERRY|(Moving to the window, shocked) Oh my God in heaven!
+Setting: Jerry's apartment|action|All three crowd around the window
+Setting: Jerry's apartment|ELAINE|(Makes a sound of surprise) Is that..?
+Setting: Jerry's apartment|GEORGE|Kramer?!
+Setting: Jerry's apartment|action|A brief pause
+Setting: Jerry's apartment|ELAINE|He's waving..
+Setting: Jerry's apartment|action|All three wave back
+Setting: Jerry's apartment|action|Scene ends
+Setting: Elaine's bedroom|action|Elaine's sound asleep. Scene cuts to George, then Jerry. They too, are sleeping. Scene takes a cut to Kramer and the nudist - both asleep; then a final cut to Marla's bedroom. She's sleeping with JFK Jr
+Setting: Elaine's bedroom|MARLA|Ohh, John. That was wonderful..
+Setting: Elaine's bedroom|action|Scene ends

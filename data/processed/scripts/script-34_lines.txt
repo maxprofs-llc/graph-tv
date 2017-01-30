@@ -1,0 +1,304 @@
+Gym Locker Room|KRAMER|Wide open, I was wide open underneath! I had three inches on that guy. You two were hogging the ball.
+Gym Locker Room|GEORGE|Me? It wasn't me I never even saw the ball. All you do is dribble.
+Gym Locker Room|JERRY|I have to dribble, if I give it to you, you just shoot. You're a chucker.
+Gym Locker Room|GEORGE|Oh I'm a chucker.
+Gym Locker Room|JERRY|That's right, everytime you get the ball you shoot.
+Gym Locker Room|GEORGE|I can't believe you called me a chucker. No way I'm a chucker, I do not chuck, never chucked, never have chucked, never will chuck, no chuck!
+Gym Locker Room|JERRY|You chuck.
+Gym Locker Room|GEROGE|Kramer am I a chucker?
+Gym Locker Room|KRAMER|You're a chucker.
+Gym Locker Room|GEORGE|All these years I've been chuckin' and you've never told me?
+Gym Locker Room|JERRY|Well it's not an easy thing to bring up.
+Gym Locker Room|KRAMER|Hey you know this is the first time we've ever seen each other naked.
+Gym Locker Room|JERRY|Believe me I didn't see anything.
+Gym Locker Room|KRAMER|Oh, you didn't sneak a peak?
+Gym Locker Room|JERRY|No, did you?
+Gym Locker Room|KRAMER|Yeah, I snuck a peak.
+Gym Locker Room|JERRY|Why?
+Gym Locker Room|KRAMER|Why not? hey what about you George?
+Gym Locker Room|GEORGE|yeah, I ... I snuck a peak. ... But it was so fast I didn't see anything. It was just a blur.
+Gym Locker Room|JERRY|I made a conscious effort not to look. There's certain information I just don't want to have.
+Gym Locker Room|KRAMER|Uh, I gotta go meet Newman. All right. I'll see you later.
+Gym Locker Room|JERRY|All right
+Gym Locker Room|KRAMER|Have a good one.
+Gym Locker Room|JERRY|All right
+Gym Locker Room|GEORGE|See ya.
+Gym Locker Room|action|Kramer exits
+Gym Locker Room|GEORGE|look at this guy. Does he have to stretch in here?
+Gym Locker Room|JERRY|You know who that is? That's
+Gym Locker Room|GEORGE|Keith Hernandez? The baseball player?
+Gym Locker Room|JERRY|Yeah, that's him.
+Gym Locker Room|GEORGE|Are you sure?
+Gym Locker Room|JERRY|Positive.
+Gym Locker Room|GEORGE|Wow, Keith Hernandez. He's such a great player.
+Gym Locker Room|JERRY|Yeah, he's a real smart guy too. He's a Civil War buff.
+Gym Locker Room|GEORGE|I'd love to be a Civil War buff. ... What do you have to do to be a buff
+Gym Locker Room|JERRY|So Biff wants to be a buff? ... Well sleeping less than 18 hours a day would be a start.
+Gym Locker Room|GEORGE|ho ho ho ho. You know I only got two weeks left of unemployment. I got to prove I've been looking for a job to get an extension
+Gym Locker Room|JERRY|Hey, should we say something to him?
+Gym Locker Room|GEORGE|Oh, yeah I'm sure he loves to hear from fans in the locker room.
+Gym Locker Room|JERRY|well he could say hello to me. I wouldn't mind.
+Gym Locker Room|GEORGE|He's Keith Hernandez. You're Jerry Seinfeld.
+Gym Locker Room|JERRY|So?
+Gym Locker Room|GEORGE|What are you comparing yourself to Keith Hernandez. The guys a baseball player Jerry, Baseball!
+Gym Locker Room|JERRY|I know what he is. I recognized him. You didn't even notice him.
+Gym Locker Room|GEORGE|What, ... you are making some wisecracks in a night club... wo wo wo. The guy was in game SIX two runs down two outs facing elimination.
+Gym Locker Room|KEITH|Excuse me. I don't want to disturb you, I'm Keith Hernandez and I just want to tell you what a big fan I am. I love your comedy.
+Gym Locker Room|JERRY|Really?
+Gym Locker Room|KEITH|I've always wanted to do what you do.
+Gym Locker Room|JERRY|What I do? You are one of my favorite ball players of all time
+Gym Locker Room|GEORGE|Mine too.
+Gym Locker Room|KEITH|I love that bit about Jimmy Olson
+Gym Locker Room|JERRY|Thank you.
+Gym Locker Room|GEORGE|You know Keith, what I've always wondered, with all these ball clubs flying around all season don't you think there would be a plane crash? ...
+Gym Locker Room|KEITH|(to Jerry) Do you perform anywhere in new York right now?
+Gym Locker Room|JERRY|I'm performing in this club on the east Side. You should come in.
+Gym Locker Room|GEORGE|But if you think about it...26 teams, 162 games a season, you'd think eventually an entire team would get wiped out.
+Gym Locker Room|KEITH|You know, I live on the East Side.
+Gym Locker Room|JERRY|I'll tell you what, I'll give you my number and uh, just give me a call, tell me whenever you want to go.
+Gym Locker Room|KEITH|or maybe just to get together for a cup of coffee
+Gym Locker Room|JERRY|Oh. that would be great.
+Gym Locker Room|GEORGE|Uh, it's only a matter of time.
+Gym Locker Room|KEITH|Who's this chucker?
+Monks|JERRY|It's been three days and he hasn't called.
+Monks|ELAINE|Well maybe you should call him.
+Monks|JERRY|I can't ... I can't
+Monks|ELAINE|Why not?
+Monks|JERRY|I don't know. I just feel he should call me.
+Monks|ELAINE|What's the difference?
+Monks|JERRY|You don't understand, Elaine. I don't want to be overanxious. If he wants to see me he has my number, he should call.
+Monks|ELAINE|Yech, look at this ashtray. I hate cigarettes.
+Monks|JERRY|I can't stand these guys. You give your number to them and then they don't call. Why do they do that?
+Monks|ELAINE|I'm sorry honey.
+Monks|JERRY|I mean, I thought he liked me. I really thought he liked me. we were getting along. He came over to me I didn't go over to him.
+Monks|ELAINE|No,
+Monks|JERRY|Why did he come over to me if he didn't want to see me?
+Monks|ELAINE|I know.
+Monks|JERRY|What did he come over to me if he didn't want to see me? I mean here I meet this guy this great guy, a baseball player, best guy I ever met in my life. .. Well that's it. I'm never giving my number out to another guy again.
+Monks|ELAINE|Sometimes I've given my number out to guys and it takes them a month to call.
+Monks|JERRY|Hu, good, good,... well if he's calling in a month he's got a prayer!
+Monks|ELAINE|You know maybe he's been busy. Maybe he's been out of town?
+Monks|JERRY|Oh, they don't have phones out of town? Why do(?) people say they're too busy. Too busy. Pick up a phone!! It takes two minutes. How can you be too busy?
+Monks|ELAINE|Why don't you just go ahead and call him?
+Monks|JERRY|I can't call here, it's a coffee shop. I mean what am I going to say to him?
+Monks|ELAINE|Just ask him if he wants a to get together.
+Monks|JERRY|For what dinner?
+Monks|ELAINE|Dinner's good.
+Monks|JERRY|Don't you think that's coming on a little too strong? .. Isn't that like a turn off?
+Monks|ELAINE|Jerry, He's A GUY!
+Monks|JERRY|... this is all .. very confusing.
+New York State Department of Labor|GEORGE|Yes and I was hoping ... to get a thirteen week extension.
+New York State Department of Labor|GEORGE|Well you know what I've discovered Mrs. Sokol. It's not so much the looking as the listening. I listen for work. And as I'm looking and listening I am also looking. You can't discount looking. It's sort of a combination. It's looking, and listening, listening and looking. But you must look.
+New York State Department of Labor|GEORGE|Specific, Ah, lets see. I've walked in and out of so many buildings they all .. blend in together, I uh, ..
+New York State Department of Labor|GEORGE|Absolutely, uh, lets see there's, uh, Vandelay Industries, I just saw them. I got very close there. very close.
+New York State Department of Labor|GEORGE|Latex, latex manufacturing
+New York State Department of Labor|GEORGE|Yes, for a sales position. Latex salesman, the selling of latex, and latex related products. They just wouldn't give me a chance.
+New York State Department of Labor|GOERGE|You like gum? 'Cause I have a friend in the gum business. I got a gum guy. I make one phone call. I got boxes of delivered right to your door.
+New York State Department of Labor|GEORGE|YYYDDSSHE(?) ... Jose Jimenez. You recognize it?
+New York State Department of Labor|GEORGE|Jose Jimenez, ... verrry funny. ..very funny.
+New York State Department of Labor|GEORGE|uh, Uh, Vandelay Industries, is uh. 129 West 81st street. It's a very small industry Vandelay. It's one of the reasons I wanted to uh, work for them.
+New York State Department of Labor|GEORGE|That's uh, KL5-8383. Are you calling them soon because, they keep very strange hours.
+New York State Department of Labor|GEORGE|Sure, well uh, you know I'll check in with you next week uh, I gotta run now because I got a full plate this afternoon. All right, really go to uh,.
+New York State Department of Labor|action|George runs down hall
+Street phone booth- George pulls kid out of booth|GEORGE|(Frantically, takes phone and screams...) He'll call you back.
+Jerry's Apartment|KRAMER|(loungingly talking on phone) It's a par five. So you know I step up to the tee and I hit a beautiful drive right down the middle of the fairway. I mean you know my hook, right?
+Jerry's Apartment|JERRY|Elaine, how about this shirt? Is this okay?
+Jerry's Apartment|ELAINE|Jerry, ... He's a GUY!
+Jerry's Apartment|KRAMER|well it's a dog leg left, so I play the hook right? .. hold on there's another call.
+Phone Booth|GEORGE|(Frantically) Jerry, Jerry?
+Phone Booth|KRAMER|George?
+Phone Booth|GEORGE|Kramer put Jerry on the phone.
+Phone Booth|KRAMER|(Angrily) Yeah, look I'm in the middle of something. Call back.
+Phone Booth|GEORGE|Kramer!! Kramer no!!
+Phone Booth|KRAMER|... so the ball takes of and I'm waiting for it to turn.
+Phone Booth|GEORGE|hitting phone
+Cop bangs on booth with kid beside him|action|George looks at him
+Jerry's Apartment|KRAMER|Yeah, I'll talk to Jerry. Yeah, [Hangs up] . . . you know that was Michael and Carol. She's wondering when we're going to come over and see the baby.
+Jerry's Apartment|JERRY|Oh, see the baby again with the baby..
+Jerry's Apartment|ELAINE|Who are they?
+Jerry's Apartment|JERRY|Uh, he's this guy who used to live in the building and they keep calling us to see the baby.
+Jerry's Apartment|JERRY|(imitates) Ya' gotta see the babi - When are ya' gonna see the babi... Can't they just send us a tape?
+Jerry's Apartment|ELAINE|You know if you waited a few more months it won't be a baby anymore then you wouldn't have to see it.
+Jerry's Apartment|JERRY|uh uh because then it would be all grown up.
+Jerry's Apartment|ELAINE|yeah ha ha ha
+Jerry's Apartment|JERRY|Hey Kramer what do you think of this shirt?
+Jerry's Apartment|KRAMER|(does a double take) It's too busy
+Jerry's Apartment|ELAINE|It looks like you're trying too hard to make an impression on him. You're not being yourself.
+Jerry's Apartment|KRAMER|What guy?
+Jerry's Apartment|JERRY|I know he's just a guy but .. I LIKE him.
+Jerry's Apartment|KRAMER|Who are you talkin about?
+Jerry's Apartment|JERRY|Uh, Keith uh Hernandez.
+Jerry's Apartment|KRAMER|KEITH HERNANDEZ?
+Jerry's Apartment|NEWMAN|(enters) KEITH HERNANDEZ?
+In cab|GEORGE|Do me a favor would you? Would you change lanes? Would you get outta this lane. You gotta get out of this lane. This lane stinks. They're all double parked here Please get outta this lane. I'm beggin you please please.
+In cab|action|changes lanes
+In cab|GEORGE|You know what, bad mistake my mistake do me a favor go back to the other lane - you'll never get there - forget this lane - y'a kn ow what this lane stinks - go back to the other lane - bad decision - go go go take this light - take this light -
+In cab|CABBY|That's it GET OUT!!
+In cab|GEORGE|Get out?
+In cab|CABBY|Get out of my cab.
+In cab|GEORGE|Wa, I'm not getting out of this cab
+In cab|action|Cabby gets out
+In cab|GEORGE|No, no! You can't throw me out
+In cab|action|Wrestling in cab
+Jerry's Apartment|JERRY|Hellooo Newman.
+Jerry's Apartment|KRAMER|I hate KEITH HERNANDEZ - hate him.
+Jerry's Apartment|NEWMAN|I despise him.
+Jerry's Apartment|ELAINE|Why?
+Jerry's Apartment|NEWMAN|Why? I'll tell you why...
+Jerry's Apartment|KRAMER|Let me tell it ..
+Jerry's Apartment|NEWMAN|No, you can't tell it ..
+Jerry's Apartment|KRAMER|You always tell it ..
+Jerry's Apartment|NEWMAN|All right, tell it.
+Jerry's Apartment|KRAMER|Ja ja ja - just tell it
+Jerry's Apartment|NEWMAN|June 14, 1987.... Mets Phillies. We're enjoying a beautiful afternoon in the right field stands when a crucial Hernandez error to a five run Phillies ninth. Cost the Mets the game.
+Jerry's Apartment|KRAMER|Our day was ruined. There was a lot of people, you know, they were waiting by the player's parking lot. Now we're coming down the ramp ... [cut to film of the day - like the Zabruter film - with the Umbrella man and everything - Oh so brilliant parody!!!] ... Newman was in front of me. Keith was coming toward us, as he passes Newman turns and says, " Nice game pretty boy.". Keith continued past us up the ramp.
+Jerry's Apartment|NEWMAN|A second later, something happened that changed us in a deep and profound way front that day forward.
+Jerry's Apartment|ELAINE|What was it?
+Jerry's Apartment|KRAMER|He spit on us.... and I screamed out, "I'm hit!"
+Jerry's Apartment|NEWMAN|Then I turned and the spit ricochet of him and it hit me.
+Jerry's Apartment|ELAINE|Wow! What a story.
+Jerry's Apartment|JERRY|Unfortunately the immutable laws of physics contradict the whole premise of your account. Allow me to reconstruct this if I may for Miss Benes as I've heard this story a number of times.
+Jerry's Apartment|JERRY|Newman, Kramer, if you'll indulge me. According to your story Keith passes you and starts walking up the ramp then you say you were struck on the right temple. The spit then proceeds to ricochet off the temple striking Newman between the third and forth rib. The spit then cam off the rib turned and hit Newman in the right wrist causing him to drop his baseball cap. The spit then splashed off the wrist, Pauses In mid air mind you- makes a left turn and lands on Newman's left thigh. That is one magic luggie.
+Jerry's Apartment|NEWMAN|Well that's the way it happened.
+Jerry's Apartment|JERRY|What happened to your head when you got hit?
+Jerry's Apartment|KRAMER|Well. uh, well my head went back and to the left
+Jerry's Apartment|JERRY|Again
+Jerry's Apartment|KRAMER|Back and to the left
+Jerry's Apartment|JERRY|Back and to the left Back and to the left
+Jerry's Apartment|ELAINE|So, what are you saying?
+Jerry's Apartment|JERRY|I am saying that the spit could not have come from behind ... that there had to have been a second spitter behind the bushes on the gravelly road. If the spitter was behind you as you claimed that would have caused your head to pitch forward.
+Jerry's Apartment|ELAINE|So the spit could have only come from the front and to the right.
+Jerry's Apartment|JERRY|But that is not what they would have you believe.
+Jerry's Apartment|NEWMAN|I'm leavin'. Jerry's a nut. (Exits)
+Jerry's Apartment|KRAMER|Wait, wait, (Exits)
+Jerry's Apartment|JERRY|The sad thing is we may never know the real truth.
+Jerry's Apartment|action|George runs in
+Jerry's Apartment|GEORGE|(Frantically) Did anybody call here asking for Vandelay industries?
+Jerry's Apartment|JERRY|No. What happened to you?
+Jerry's Apartment|GEORGE|Now, listen closely. I was at the unemployment office and I told them that I was very close to getting a job with Vandelay Industries and I gave them your phone number. So, when now when the phone rings you've got to answer "Vandelay Industries".
+Jerry's Apartment|JERRY|I'm Vandelay Industries?
+Jerry's Apartment|GEORGE|Right.
+Jerry's Apartment|JERRY|And what is that?
+Jerry's Apartment|GEORGE|You're in latex
+Jerry's Apartment|JERRY|Latex? And what do I do with latex?
+Jerry's Apartment|GEORGE|Ya manufacture it.
+Jerry's Apartment|ELAINE|Here in this little apartment?
+Jerry's Apartment|JERRY|And what do I say about you?
+Jerry's Apartment|GEORGE|You're considering hiring me for your latex salesman.
+Jerry's Apartment|JERRY|I'm going to hire you as my latex salesman?
+Jerry's Apartment|GEORGE|Right.
+Jerry's Apartment|JERRY|I don't think so. Why would I do that?
+Jerry's Apartment|GEORGE|Because I asked you to.
+Jerry's Apartment|JERRY|If you think I'm looking for someone to just sit at a desk pushing papers around, you can forget it. I have enough headaches just trying to manufacture the stuff.
+Jerry's Apartment|action|Buzzer
+Jerry's Apartment|JERRY|Yeah.
+Jerry's Apartment|KRAMER|It's Keith.
+Jerry's Apartment|JERRY|All right we're coming down.
+Jerry's Apartment|GEORGE|KEITH HERNANDEZ:?
+Jerry's Apartment|JERRY|Yeah, come on Elaine, lets go.
+Jerry's Apartment|GEORGE|Where are you goin?
+Jerry's Apartment|ELAINE|He's giving me a ride You know there had to have been a second spitter. But who was it? Who had the motive?
+Jerry's Apartment|JERRY|That's what I've been trying to figure out the past five years.
+Jerry's Apartment|GEORGE|What the hell are you two talking about? (All exit)
+Keith's car|JERRY|Well that was really fun, thanks.
+Keith's car|KEITH|Yeah, it really was.
+Keith's car|JERRY|Well, ...
+Keith's car|KEITH|UH, do you want to catch a movie this weekend? Have you seen JFK?
+Keith's car|JERRY|No, I haven't.
+Keith's car|JERRY|Sure, that would be great.
+Keith's car|JERRY|I mean, ... if you want to.
+Keith's car|KEITH|Well, how about this Friday?
+Keith's car|JERRY|Yeah, Friday's okay.
+Keith's car|JERRY|Well, good night [holds hand out and shakes hand]
+Keith's car|KEITH|Goodnight. Oh, Jer, by the way, the woman we gave a ride to earlier tonight,
+Keith's car|JERRY|Elaine?
+Keith's car|KEITH|Yeah. What's her story?
+Keith's car|JERRY|Uh, I don't know, we used to go out.
+Keith's car|KEITH|Would you mind if I gave her a call?
+Keith's car|JERRY|For a date?
+Keith's car|KEITH|Yeah.
+Keith's car|JERRY|Oh, no, uh, go ahead. You got a pen?
+Keith's car|KEITH|You sure you don't mind?
+Keith's car|JERRY|.... (silence)
+Jerry's Apartment|JERRY|So then we went to dinner.
+Jerry's Apartment|GEORGE|Who paid?
+Jerry's Apartment|JERRY|We split it.
+Jerry's Apartment|GEORGE|Split it. Pretty good. Talk about game six?
+Jerry's Apartment|JERRY|Naw, I gotta wait until its just the right time.
+Jerry's Apartment|action|Buzzer
+Jerry's Apartment|JERRY|Yeah
+Jerry's Apartment|ELAINE|It's Elaine.
+Jerry's Apartment|JERRY|Come on up.
+Jerry's Apartment|GEORGE|So then what?
+Jerry's Apartment|JERRY|Uh, nuthin'. Then he took me home.
+Jerry's Apartment|GEORGE|Shake his hand?
+Jerry's Apartment|JERRY|(smiling) Yeah
+Jerry's Apartment|GEORGE|What kind of a shake does he have?
+Jerry's Apartment|JERRY|Good shake. Perfect shake. Single pump, not too hard, you know, doesn't have to prove anything, but, you know, firm enough to know he was there.
+Jerry's Apartment|GEORGE|So, uh, you gonna see him again?
+Jerry's Apartment|JERRY|He asked me if I was doing anything Friday night.
+Jerry's Apartment|GEORGE|Wow! The weekend.
+Jerry's Apartment|JERRY|So then as I was getting out of the car, ...
+Jerry's Apartment|ELAINE|HI
+Jerry's Apartment|JERRY|Hi Elaine.
+Jerry's Apartment|ELAINE|Sooo, how was your date?
+Jerry's Apartment|JERRY|What date? It's a GUY.
+Jerry's Apartment|ELAINE|So you know , ... he called me.
+Jerry's Apartment|JERRY|Already?
+Jerry's Apartment|GEORGE|Keith called you?
+Jerry's Apartment|action|Elaine nods
+Jerry's Apartment|GEORGE|He he This guy really gets around.
+Jerry's Apartment|ELAINE|Do you mind?
+Jerry's Apartment|JERRY|I don't mind at all. Why should I mind? What did he say?
+Jerry's Apartment|ELAINE|He asked me out for Saturday night.
+Jerry's Apartment|JERRY|Oh, ya' going?
+Jerry's Apartment|ELAINE|I told him I was busy.
+Jerry's Apartment|JERRY|Ah, really.
+Jerry's Apartment|ELAINE|So, we're going out Friday.
+Jerry's Apartment|action|long pause
+Jerry's Apartment|JERRY|Friday?
+Jerry's Apartment|ELAINE|yeah.
+Jerry's Apartment|JERRY|He's going' out with you on Friday?
+Jerry's Apartment|ELAINE|Yeah.
+Jerry's Apartment|JERRY|He's supposed to see ME on Friday.
+Jerry's Apartment|ELAINE|Oh, uh, I didn't know.
+Jerry's Apartment|JERRY|We made plans.
+Jerry's Apartment|ELAINE|Well, uh, I'll cancel it.
+Jerry's Apartment|JERRY|No, don't cancel it.
+Jerry's Apartment|ELAINE|Huh. Well this is a little awkward, isn't it/
+Jerry's Apartment|JERRY|Well, frankly it is.
+Jerry's Apartment|ELAINE|I've never seen you jealous before.
+Jerry's Apartment|JERRY|Well you're not even a fan. I was at game six - you didn't even watch it.
+Jerry's Apartment|ELAINE|Wait a second wait a minute, You jealous of him or you jealous of me?
+Jerry's Apartment|action|long pause
+Jerry's Apartment|JERRY|Any Hennigans around here?
+Jerry's Apartment|action|Phone rings
+Jerry's Apartment|JERRY|Vandelay Industries, Kel Varnsen speaking. May we help you? ... Oh Hi Keith. Na, I was just jokin' around
+Jerry's Apartment|JERRY|No. No. I don't mind at all.
+Jerry's Apartment|ELAINE|(quietly) No, no, no, I can cancel.
+Jerry's Apartment|JERRY|Sure, we can do something next week.
+Jerry's Apartment|ELAINE|(quietly) I can cancel.
+Jerry's Apartment|JERRY|No, its no problem at all.
+Jerry's Apartment|ELAINE|(quietly) I,...
+Jerry's Apartment|JERRY|Okay, take it easy. (hangs up) That was Keith. we're going to do something next week.
+Jerry's Apartment|action|Kramer enters
+Jerry's Apartment|KRAMER|Hey
+Jerry's Apartment|JERRY|Hey what are you doing Friday night?
+Jerry's Apartment|JERRY|Friday night? Nothin', ... now.
+Jerry's Apartment|KRAMER|Okay, wanna come with me and see the baby?
+Jerry's Apartment|JERRY|Fasten your seat belts. we're goin' to see the baby.
+Jerry's Apartment|KRAMER|Come on, if you don't see the baby now you're never gonna see it
+Jerry's Apartment|JERRY|All right, I'll go
+Jerry's Apartment|KRAMER|All right
+Jerry's Apartment|action|Jerry exits with garbage
+Jerry's Apartment|action|Kramer sits beside Elaine - awkward moment
+Jerry's Apartment|action|phone rings
+Jerry's Apartment|KRAMER|Yallo. What delay industries?
+Jerry's Apartment|ELAINE|no no , ..
+Jerry's Apartment|GEORGE|(from bathroom) VANDELAY, SAY VANDELAY!
+Jerry's Apartment|KRAMER|Na, you're way way way off.. Well, yeah that's the right number but this is an apartment
+Jerry's Apartment|GEORGE|(from bathroom) VANDELAY, SAY VANDEL... (George falls) ... Vandelay Industries, ...
+Jerry's Apartment|KRAMER|no problem, ... no problem. [Hangs up] ... How did YOU know who that was?
+Jerry's Apartment|action|Jerry enters - sees George on the floor
+Jerry's Apartment|JERRY|And you want to be my latex salesman.
+Jerry's Apartment|action|Notice magazine is on wrong side on the floor

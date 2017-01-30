@@ -1,0 +1,280 @@
+INSIDE JOE DIVOLA'S APARTMENT|JERRY|(answering machine) leave a message and I?ll call you back, thanks. JOE DIVOLA: Jerry, Joe Divola. *Pbt* *Pbt* *Pbt* I have a hair on my tongue, I can't get it off, you know how much I hate that? Course you do, you put it there. I know what you said about me Seinfeld. I know you badmouthed me to the execs at NBC, put the kibosh on my deal. Now I?m gonna put the kibosh on you. You know I?ve kiboshed before, and I will kibosh again.
+JERRY'S APARTMENT.|action|Kramer and Jerry enter
+JERRY'S APARTMENT.|KRAMER|So, what do you think?
+JERRY'S APARTMENT.|JERRY|About what?
+JERRY'S APARTMENT.|KRAMER|About the opera.
+JERRY'S APARTMENT.|JERRY|Nah, I don't wanna go.
+JERRY'S APARTMENT.|KRAMER|You gotta go.
+JERRY'S APARTMENT.|JERRY|I-I-I don't like the opera. What are they singing for? Who sings? You got something to say, say it!
+JERRY'S APARTMENT.|KRAMER|Jerry, you don't understand, that?s the way they talk in Italy, they sing to one another. Kramer starts to sing in bad Italian.
+JERRY'S APARTMENT.|JERRY|All right, all right.
+JERRY'S APARTMENT.|KRAMER|That?s the way it was, you know. You listen to the language, its got that sing songy quality. It?s the language Jerry, the language
+JERRY'S APARTMENT.|JERRY|So why don't they talk like that now?
+JERRY'S APARTMENT.|KRAMER|Well its, uh, well its too hard to keep up, you know, they were tired.
+JERRY'S APARTMENT.|action|BUZZER
+JERRY'S APARTMENT.|KRAMER|Better get that
+JERRY'S APARTMENT.|JERRY|Yeah?
+JERRY'S APARTMENT.|ELAINE|(intercom) it?s me!
+JERRY'S APARTMENT.|JERRY|Come on up.
+JERRY'S APARTMENT.|KRAMER|So, huh?
+JERRY'S APARTMENT.|JERRY|I don't know
+JERRY'S APARTMENT.|KRAMER|Oh come on Jerry, its opening night, black tie, Pagliacci! The great clown, the great sad tragic clown, like you.
+JERRY'S APARTMENT.|JERRY|Well it?s very flattering. How did you get these tickets, I heard they're impossible to get.
+JERRY'S APARTMENT.|KRAMER|Oh, well I have many associates.
+JERRY'S APARTMENT.|JERRY|I don't know, opera, it?s not my kind of thing.
+JERRY'S APARTMENT.|KRAMER|All right, you not gonna go I?m not gonna go, I?m gonna call the whole thing off.
+JERRY'S APARTMENT.|JERRY|No, wait a minute, wait a minute, that?s not fair, what about George, Susan and Elaine, what do you need me for?
+JERRY'S APARTMENT.|KRAMER|You're the nucleus, the straw that stirs the drink. You're the Miana!
+JERRY'S APARTMENT.|JERRY|Well I guess if I?m the Miana I should go. All right, all right.
+JERRY'S APARTMENT.|action|ELAINE ENTERS
+JERRY'S APARTMENT.|ELAINE|Hi!
+JERRY'S APARTMENT.|JERRY|Hi!
+JERRY'S APARTMENT.|KRAMER|Hey! Hi Elaine!
+JERRY'S APARTMENT.|ELAINE|You got the tickets right?
+JERRY'S APARTMENT.|KRAMER|Well no, I don't have them on me.
+JERRY'S APARTMENT.|ELAINE|What? That?s why I came all the way over here.
+JERRY'S APARTMENT.|KRAMER|My friends got 'em, I?m going to pick them up tomorrow.
+JERRY'S APARTMENT.|ELAINE|Oh, I was gonna surprise Joey with them, you got an extra one right?
+JERRY'S APARTMENT.|KRAMER|Oh yeah!
+JERRY'S APARTMENT.|JERRY|So I finally get to meet your pal Joey.
+JERRY'S APARTMENT.|ELAINE|Its killing you isn?t it?
+JERRY'S APARTMENT.|JERRY|Yeah, so Joey?s a great lover of the opera
+JERRY'S APARTMENT.|ELAINE|Listen, I got news for ya, its nice to be involved with somebody who?s interested in something other than nick at night. Now he?s got a grip on reality, he's happy, he's well adjusted.
+JOE DIVOLA'S APARTMENT|action|Opera music playing (Paliachi?) Divola is crying while lifting weights. Photos of Elaine are scattered on the floor.
+JERRY'S APARTMENT|JERRY|Well I?m looking forward to meeting him.
+JERRY'S APARTMENT|ELAINE|I've got to go
+JERRY'S APARTMENT|JERRY|Where are you going, what?s the rush?
+JERRY'S APARTMENT|ELAINE|I'm going to surprise Joey, I?ve never been to his apartment so I?m just going to 'pop in'
+JERRY'S APARTMENT|JERRY|Oh, good, men love that!
+JERRY'S APARTMENT|action|Kramer is reading Jerry's mail under the lamp.
+JERRY'S APARTMENT|JERRY|Hey!
+JERRY'S APARTMENT|KRAMER|You've got a message buddy.
+JERRY'S APARTMENT|JERRY|Ooo, could be from that blonde
+JERRY'S APARTMENT|KRAMER|Oo yiggity diggigg
+JOE DIVOLA'S APARTMENT|action|Divola has his hand over a candle and is laughing
+JERRY'S APARTMENT|JERRY|(shouting) Kramer what am I going to do did you hear that that guy's gonna put a kibosh on me he's crazy he's out of his mind....
+JERRY'S APARTMENT|KRAMER|Steady, steady, now calm yourself, come on, now get a hold of yourself,
+JERRY'S APARTMENT|JERRY|What the hell he's supposed to be on medication I don't understand he told me he's getting medication what happened to his medication!?
+JERRY'S APARTMENT|KRAMER|OK Quiet! Quiet! Now let me think!
+JERRY'S APARTMENT|JERRY|I'm gonna call the cops. That?s what I?m doing, I?m calling the cops.
+JERRY'S APARTMENT|KRAMER|The cops? What are you calling the cops for? They?re not going to do anything!
+JERRY'S APARTMENT|JERRY|What do you mean they're not going to do anything, they're the cops, they gotta do something, he just put the kibosh on me, do you know what the kibosh means, its a kibosh!
+JERRY'S APARTMENT|KRAMER|Yiddigtkk ka kibosh.
+JERRY'S APARTMENT|JERRY|I mean it's a terrible mistake, I mean he thinks I ruined some deal of his at NBC, I don't know anything about any deal at NBC.
+JERRY'S APARTMENT|KRAMER|Call him and tell him
+JERRY'S APARTMENT|JERRY|That?s what I?ll do, I?ll just call him and tell him, I?ll tell him. That?s all I?ll do. He's a human being, I?ll talk to him. He'll understand. Right?
+JERRY'S APARTMENT|KRAMER|Right.... Don't mention my name
+JERRY'S APARTMENT|JERRY|Oh, I got the machine.
+JERRY'S APARTMENT|KRAMER|What?s his message like?
+JERRY'S APARTMENT|JERRY|Nice!
+JERRY'S APARTMENT|KRAMER|Eh!
+JERRY'S APARTMENT|JERRY|(into phone) Hello Joe, listen this is Jerry Seinfeld, I really think there?s been a huge colossal misunderstanding,
+JERRY'S APARTMENT|KRAMER|Big! Big!
+JERRY'S APARTMENT|JERRY|and I feel if we can just talk about this we can straighten the whole thing out, so listen, so call me back. Bye.
+JOE DIVOLA'S APARTMENT|action|The door is open. Elaine knocks and then enters
+JOE DIVOLA'S APARTMENT|ELAINE|Joey? Joey?
+JOE DIVOLA'S APARTMENT|action|She sees a wall covered in photos of her. Joe Divola enters and shuts the front door.
+JOE DIVOLA'S APARTMENT|ELAINE|Oh god, oh, its you! You scared me!
+JOE DIVOLA'S APARTMENT|ELAINE|You left your door open.
+JOE DIVOLA'S APARTMENT|ELAINE|(laughs) What?s all this?
+JOE DIVOLA'S APARTMENT|ELAINE|Where did you get all these pictures?
+JOE DIVOLA'S APARTMENT|ELAINE|Showering?
+JOE DIVOLA'S APARTMENT|ELAINE|In the dark room? Uh no, no thank you. Not right now. I'm a day person!... Are you all right?
+JOE DIVOLA'S APARTMENT|ELAINE|Well I don't know, you just don't seem yourself?
+JOE DIVOLA'S APARTMENT|ELAINE|That?s a good question, good question, its very... exerstential! Who are you? Who am I? Yeah, well.
+JOE DIVOLA'S APARTMENT|ELAINE|Oh, nothing, I just stopped by to chat, you know, shoot the breeze.
+JOE DIVOLA'S APARTMENT|ELAINE|Oh, no, he couldn't get them. We're not going.
+JOE DIVOLA'S APARTMENT|ELAINE|Oh, dammit, you know I just remembered I gotta go, I left something on, the gas, the lights, the water in the tub. Something is on somewhere so I?m just gonna get the uh..
+JOE DIVOLA'S APARTMENT|action|Divola is blocking the door with his head.
+JOE DIVOLA'S APARTMENT|ELAINE|Uh.. I?m Elaine!
+JOE DIVOLA'S APARTMENT|ELAINE|Oh.
+JOE DIVOLA'S APARTMENT|ELAINE|Do I think you're a clown? No, not if it?s bad to be a clown, if it?s bad to be a clown then you are definitely not a clown. But if its good to be a clown then, you know, I would have to rethink the whole thing.
+JOE DIVOLA'S APARTMENT|ELAINE|Oh, like any man would ever look at me, come on, I?m gonna... get out of here.
+JOE DIVOLA'S APARTMENT|action|Divola blocks the door when Elaine tries to leave.
+JOE DIVOLA'S APARTMENT|ELAINE|Se, now that?s terrible, that is not a nice thing to do at all, I don?t know how this Paliachi thing turns out but you know I would assume that there is big big trouble for that clown
+JOE DIVOLA'S APARTMENT|action|Elaine sprays Divola in the eyes and he falls on his back. Elaine leaves.
+JERRY'S APARTMENT.|JERRY|(on phone) But officer, he threatened me! I don't understand, that?s not right! What if it was the President of the United States I bet you'd investigate. So what?s the difference, I?m a comedian of the United States, and I?ll tell you I?m under just as much pressure. Alright, thanks anyway, ok bye.
+JERRY'S APARTMENT.|action|Knock at door.
+JERRY'S APARTMENT.|JERRY|(cautiously) Who is it?
+JERRY'S APARTMENT.|GEORGE|It's George.
+JERRY'S APARTMENT.|action|George enters wearing a very small tuxedo.
+JERRY'S APARTMENT.|GEORGE|What, are you locking the door now?
+JERRY'S APARTMENT.|JERRY|Well, well, look at you. It?s a little skimpy there isn't it?
+JERRY'S APARTMENT.|GEORGE|Do you know the last time I wore this thing? Six years ago, when I made that toast at Bobby Leighton's wedding.
+JERRY'S APARTMENT.|JERRY|Ooo, that was a bad toast.
+JERRY'S APARTMENT.|GEORGE|It wasn't that bad.
+JERRY'S APARTMENT.|JERRY|I never heard anybody curse in a toast.
+JERRY'S APARTMENT.|GEORGE|I was trying to loosen 'em up a little bit.
+JERRY'S APARTMENT.|JERRY|There were old people there, all the relatives. You were like a Red Fox record. I mean, at the end of the toast nobody even drank. They were just standing there, they were just frozen! That might have been one of the worst all time toasts.
+JERRY'S APARTMENT.|GEORGE|Alright, still her father didn't have to throw me out like that, he could have just asked me to leave. The guy had me in a headlock! Susan's not going tonight you know.
+JERRY'S APARTMENT.|JERRY|What do you mean not going? why not?
+JERRY'S APARTMENT.|GEORGE|I don't know, she said she had to pick up a friend of hers at the airport. It cost me a hundred dollars this ticket.
+JERRY'S APARTMENT.|JERRY|Why doesn't she pay for hers?
+JERRY'S APARTMENT.|GEORGE|That's a very good question. You know she and I go out for dinner, she doesn't even reach for the check. That?s all I?m asking for is a reach. Is that so much to ask for?
+JERRY'S APARTMENT.|JERRY|It's nice to get a reach.
+JERRY'S APARTMENT.|action|Loud thump is heard from the front door.
+JERRY'S APARTMENT.|JERRY|Who is it?
+JERRY'S APARTMENT.|KRAMER|It's me!
+JERRY'S APARTMENT.|action|Kramer is on the floor
+JERRY'S APARTMENT.|KRAMER|What, are you locking the door now?
+JERRY'S APARTMENT.|JERRY|Because of Divola! Get in here... How come you're not dressed?
+JERRY'S APARTMENT.|KRAMER|I am dressed.
+JERRY'S APARTMENT.|JERRY|You're going like this?
+JERRY'S APARTMENT.|KRAMER|Yeah. Hey I want you to hear something.
+JERRY'S APARTMENT.|JERRY|I thought you said people dress up when they go to the opera!
+JERRY'S APARTMENT.|KRAMER|People do, I don't.
+JERRY'S APARTMENT.|JERRY|Well what about me! If you're going like that, I?m not going like this.
+JERRY'S APARTMENT.|GEORGE|Wait a minute, wait a minute, do you think I?m comfortable here. I can't change, I?ve got no clothes here! You've got to go like that, I can?t go like this alone!
+JERRY'S APARTMENT.|JERRY|Why should I be uncomfortable just because my apartment is closer to town hall than yours?
+JERRY'S APARTMENT.|GEORGE|That?s not the issue, we're friends, if I?ve got to be uncomfortable, you've got to be uncomfortable too!
+JERRY'S APARTMENT.|JERRY|All right, all right, I?ll wear this. It's bad enough I?ve got to go to the opera I?ve got to sit next to ozzie nelson over here.
+JERRY'S APARTMENT.|JERRY|Would you turn that down! What is that crap!
+JERRY'S APARTMENT.|KRAMER|It's Pagliacci!
+JERRY'S APARTMENT.|JERRY|Oh beautiful. Listen, we've got a little problem here, we've got two extra tickets.
+JERRY'S APARTMENT.|KRAMER|Why? What happened?
+JERRY'S APARTMENT.|JERRY|Well Susan isn't going and Elaine just left me a message her friend isn't going either.
+JERRY'S APARTMENT.|KRAMER|That?s fantastic! We'll scalp the tickets, we'll make maybe five hundred a ticket.
+JERRY'S APARTMENT.|GEORGE|What? Really?
+JERRY'S APARTMENT.|KRAMER|Yeah.
+JERRY'S APARTMENT.|GEORGE|People are looking for tickets here?
+JERRY'S APARTMENT.|KRAMER|What, are you kidding? Opening night Pavarotti and Pagliacci. Ha, we're gonna clean up!
+JERRY'S APARTMENT.|GEORGE|Oh man! I knew I was gonna love the opera.
+JERRY'S APARTMENT.|JERRY|Oh yeah right.
+JERRY'S APARTMENT.|KRAMER|OK come on, let?s go get the tickets.
+JERRY'S APARTMENT.|GEORGE|All right, all right.
+JERRY'S APARTMENT.|JERRY|All right, you guys listen, I've got to wait here for Elaine, I'll meet you in front of the theatre.
+JERRY'S APARTMENT.|GEORGE|Oh, wait, isn't scalping illegal?
+JERRY'S APARTMENT.|KRAMER|Oh yeah!
+JERRY'S APARTMENT.|action|Kramer and George leave.
+INSIDE DIVOLA'S APARTMENT|action|Opera music is playing, Joe Divola is putting on white clown make up.
+OUTSIDE THE THEATRE.|action|Jerry and Elaine are waiting.
+OUTSIDE THE THEATRE.|JERRY|You sprayed him in the eyes with Binaca?
+OUTSIDE THE THEATRE.|ELAINE|Cherry Binaca, it?s new.
+OUTSIDE THE THEATRE.|JERRY|See, I don't get that. First they come out with the regular, then a year later they come out with the cherry. They know that we like the cherry, start with cherry! Then come out with the regular!
+OUTSIDE THE THEATRE.|ELAINE|It's like I didn't even know him. He's like a totally different person.
+OUTSIDE THE THEATRE.|JERRY|Well you should hear the message from my nut. Where's George and Kramer, I want to get inside already, I don't like standing out here, I feel very vulnerable.
+OUTSIDE THE THEATRE.|action|Jerry drops a coin that he was tossing.
+OUTSIDE THE THEATRE.|JERRY|Hey, hey, what are you doing, that?s my quarter.
+OUTSIDE THE THEATRE.|JERRY|I was just flipping it, it's mine.
+OUTSIDE THE THEATRE.|JERRY|All right, do you want the quarter, take the quarter, but don't try and tell me it's yours.
+OUTSIDE THE THEATRE.|JERRY|What, do you think I care about the money? Is that what you think? You want me to show you what I care about money? Here look, here look at this, here's a dollar here look, there, that?s how much I care about money.
+OUTSIDE THE THEATRE.|action|Jerry tears up the dollar.
+OUTSIDE THE THEATRE.|JERRY|Oh yeah, well why don?t you Just get lost.
+OUTSIDE THE THEATRE.|JERRY|Because I was standing here, that?s why.
+OUTSIDE THE THEATRE.|JERRY|Yeah!
+OUTSIDE THE THEATRE.|action|The man walks away.
+OUTSIDE THE THEATRE.|JERRY|I kinda like this opera crowd, I feel tough... Anybody else got a problem?
+IN THE PARK|action|Joe Divola, dressed up in a clown suit is walking through the park.
+IN THE PARK|action|Divola kicks them all to the ground.
+ALLEYWAY|action|Kramer and George are trying to sell the tickets.
+ALLEYWAY|KRAMER|I got two, I got two huh, Paliachi, who needs two, Pagliacci, come on, the great tragic clown, come on, check it out, he laughs, he cries, he sings, Pagliacci. Hey, I got two beauties right here, check it out all right.
+ALLEYWAY|KRAMER|Oh yeah, I?m selling.
+ALLEYWAY|KRAMER|Orchestra, Row G, dead center, primo! You'll think you died and went to heaven.
+ALLEYWAY|KRAMER|All right, I?ll tell you what I?ll do. Cause you look like a nice guy, a thousand dollars for the duce.
+ALLEYWAY|GEORGE|Ok, it's a deal!
+ALLEYWAY|KRAMER|Pzzzt. No.
+ALLEYWAY|GEORGE|No? Are you crazy?
+ALLEYWAY|KRAMER|Look, let me handle this.
+ALLEYWAY|GEORGE|Five hundred dollars, that?s a great deal!
+ALLEYWAY|KRAMER|You're blowing this, the guys a pigeon.
+ALLEYWAY|action|The man walks away
+ALLEYWAY|GEORGE|Did you see that? The guy's walking away. What is wrong with you? That was a three hundred dollar profit.
+ALLEYWAY|KRAMER|Look, I know what I?m doing here George.
+ALLEYWAY|GEORGE|This is not a Metallica concert, it?s an opera alright, a little dignity, a little class, just give me my ticket, I will stand over here and sell it.
+ALLEYWAY|KRAMER|Oh, yeah.
+ALLEYWAY|GEORGE|Thank you very much. You just stand over there, I?ll stand over here.
+ALLEYWAY|KRAMER|I know where I?m standing.
+ALLEYWAY|GEORGE|Alright.
+ALLEYWAY|KRAMER|Hey!
+ALLEYWAY|GEORGE|(shouting) Get your Paliachi!
+OUTSIDE THEATRE|JERRY|Where are they already?
+OUTSIDE THEATRE|ELAINE|I guarantee they don't sell either one of those tickets.
+OUTSIDE THEATRE|JERRY|Hey, look, there's Bobby Eighteen?s father-in-law, Mr Reichman. George and I were just talking about that today, I can?t believe it! That?s the guy who threw George out of the wedding.
+OUTSIDE THEATRE|ELAINE|Oh, yeah, when George made that bad toast!
+OUTSIDE THEATRE|JERRY|Do you remember the curse toast?
+OUTSIDE THEATRE|ELAINE|Oh yeah, the curse toast.
+OUTSIDE THEATRE|JERRY|So, can you believe that message? Now I?ve got to spend the rest of my life looking over my shoulder.
+OUTSIDE THEATRE|ELAINE|Me too
+OUTSIDE THEATRE|JERRY|Crazy Joe Divola
+OUTSIDE THEATRE|ELAINE|How do you know his name?
+OUTSIDE THEATRE|JERRY|What do you mean? Why wouldn't I know his name?
+OUTSIDE THEATRE|ELAINE|I never told you his name.
+OUTSIDE THEATRE|JERRY|I never told you his name.
+OUTSIDE THEATRE|ELAINE|Wait a second, who are we talking about here?
+OUTSIDE THEATRE|JERRY|Joe Divola.
+OUTSIDE THEATRE|ELAINE|Right, Joe Divola
+OUTSIDE THEATRE|JERRY|How do you know his name?
+OUTSIDE THEATRE|ELAINE|I've been out with him three times, I should know the mans name.
+OUTSIDE THEATRE|action|They click
+OUTSIDE THEATRE|JERRY|Oh my god, its Joe Divola
+OUTSIDE THEATRE|ELAINE|Is he stalking you? are you kidding me?
+OUTSIDE THEATRE|JERRY|That madman is trying to kill me.
+OUTSIDE THEATRE|ELAINE|Oh, Jerry, why didn't you tell me his name! Oh my god, he accused me of seeing someone else, he said tell me his name, he said tell me his name!!
+OUTSIDE THEATRE|JERRY|Oh! He said that! Can you imagine what he'll do if he sees me with you! He'll think I?m the one who ruined his deal at NBC and took away his girl, he'll put a kibosh on me!
+OUTSIDE THEATRE|ELAINE|Oooohh, what about me!
+OUTSIDE THEATRE|action|Divola walks up to them, dressed in the clown suit.
+ALLEYWAY|action|George still hasn't sold the ticket.
+ALLEYWAY|GEORGE|But this is Pavarotti!
+ALLEYWAY|GEORGE|All right, I?ll tell you what, you seem like a nice guy, let?s stop jerking around. Give me.. two hundred and fifty dollars, I?ve got people waiting for me, I've got to get the hell out of here.
+ALLEYWAY|GEORGE|Hey pop, would you buzz off, I've got something cooking.
+ALLEYWAY|GEORGE|Mr Reichman?
+OUTSIDE THE THEATRE|JERRY|I don't have anything, I gave it to that guy.
+OUTSIDE THE THEATRE|JERRY|I'm telling you, the guy took.....
+OUTSIDE THE THEATRE|action|Mrs Reichman runs past
+OUTSIDE THE THEATRE|ELAINE|I'm not his girlfriend. We dated for a while, but things didn't really work out.
+OUTSIDE THE THEATRE|JERRY|That is one angry clown!
+Middle Monologue|JERRY|The hardest part about being a clown, it seems to me, would be that you're constantly referred to as a clown. "Who was that clown?", "I'm not working with that clown, did you hire that clown?", "The guy's a clown!". How do you even start into being a clown, how do you know that you want to be a clown, I guess you get to a point where you're pants look so bad, it's actually easier to become a clown than having the proper alterations done. Because if you think about it, a clown, if there isn't a circus around them, is really just a very annoying person. You're in the back seat of this guys Volkswagen, "What, you're picking somebody else up? Oh man!"
+Outside The Theatre|JERRY|(Singing) Camera, curtains, lights - This is it, we'll hit the heights - Oh what heights we'll hit - On with the show this is it!
+Outside The Theatre|ELAINE|You know, it is so sad, all your knowledge of high culture comes from bugs bunny cartoons.
+Outside The Theatre|JERRY|Oh there's that clown again, what does he want from me. Look I?m serious, I?m not kidding, I don't have the quarter, that guy took it.
+Outside The Theatre|ELAINE|I smell cherry.
+Outside The Theatre|JERRY|Binaca?
+Outside The Theatre|action|They see the real clown singing and realize that they are talking to Crazy Joe. They run away.
+ALLEYWAY|action|George is finalizing the deal.
+ALLEYWAY|GEORGE|What did we say? Two seventy-five?
+ALLEYWAY|GEORGE|Two fifty? Are you sure
+ALLEYWAY|GEORGE|All right, all right, two fifty.
+ALLEYWAY|SUSAN|George!
+ALLEYWAY|GEORGE|S-Susan
+ALLEYWAY|SUSAN|I can't believe it, I?m so glad I caught you.
+ALLEYWAY|GEORGE|What are you doing here, I though you were going to the airport.
+ALLEYWAY|SUSAN|Oh, there was some problem with the plane, they landed in Philadelphia.
+ALLEYWAY|GEORGE|So what, they don?t have another plane? She couldn't take a bus?
+ALLEYWAY|SUSAN|She's coming in tomorrow. I made it!
+ALLEYWAY|GEORGE|Yeah you made it, how about that.
+ALLEYWAY|SUSAN|Oh, I?m so excited, now we get to see the opera together.
+ALLEYWAY|action|George gives the man the ticket and takes the money.
+ALLEYWAY|GEORGE|We get to go to the opera together!
+ALLEYWAY|SUSAN|Who's that?
+ALLEYWAY|GEORGE|That?s-that?s-Harry Fong, he's a very good friend of mine and he's a big opera buff. Enjoy the show there harry!... You know what.
+ENTRANCE TO THEATER.|JERRY|Come on, you gotta let us in
+ENTRANCE TO THEATER.|USHER|Not without tickets.
+ENTRANCE TO THEATER.|JERRY|We have tickets, we just don't have 'em with us.
+ENTRANCE TO THEATER.|USHER|Well that?s a problem. Excuse me.
+ENTRANCE TO THEATER.|JERRY|You don't understand, someone's after us, a crazy clown is trying to kill us.
+ENTRANCE TO THEATER.|USHER|A crazy clown is after you? Oh that?s rich. Now clear the entrance so people with tickets can get through.
+ENTRANCE TO THEATER.|action|Kramer slides in.
+ENTRANCE TO THEATER.|KRAMER|Are you guys ready?
+ENTRANCE TO THEATER.|KRAMER|Have you seen George?
+ENTRANCE TO THEATER.|JERRY|We thought he was with you.
+ENTRANCE TO THEATER.|ELAINE|Come on, he's on his own, come on!
+SITTING IN THE THEATER|KRAMER|These are great seats huh?
+SITTING IN THE THEATER|ELAINE|Yeah
+SITTING IN THE THEATER|KRAMER|Yeah
+SITTING IN THE THEATER|JERRY|Boy, some cast, huh? Pavarotti, Aver Martone.
+SITTING IN THE THEATER|ELAINE|Aver Martone. I've heard of her, who's she playing?
+SITTING IN THE THEATER|JERRY|She's playing, Pagliacci?s wife, Nedda.
+SITTING IN THE THEATER|ELAINE|Nedda?
+SITTING IN THE THEATER|JERRY|Yeah.
+SITTING IN THE THEATER|ELAINE|Oh my god..
+SITTING IN THE THEATER|action|Man #3 enters and shuffles to his seat.
+SITTING IN THE THEATER|action|Susan comes in from the other side.
+SITTING IN THE THEATER|JERRY|Susan! What are you doing here?
+SITTING IN THE THEATER|SUSAN|My Friend's flight couldn?t make it.
+SITTING IN THE THEATER|JERRY|Where's George?
+SITTING IN THE THEATER|SUSAN|He decided not to come. He said he was uncomfortable.
+SITTING IN THE THEATER|JERRY|Uncomfortable? How does you think I feel?.. Hey let me ask you something, how much did you pay for that ticket?
+SITTING IN THE THEATER|JERRY|Kramer, who'd you sell your ticket to?
+SITTING IN THE THEATER|KRAMER|Some nut in a clown suit!
+SITTING IN THE THEATER|action|The show starts, everyone claps except Elaine and Jerry who look very frightened.
+Closing Monologue|JERRY|I had some friends drag me to an opera recently, you know how they've got those little opera glasses, you know, do you really need binoculars, I mean how big do these people have to get before you can spot 'em. These opera kids they're going two-fifty, two-eighty, three-twenty-five, they're wearing big white woolly vests, the women have like the breastplates, the bullet hats with the horn coming out. If you can't pick these people out, forget opera, think about optometry, maybe that?s more you're thing.

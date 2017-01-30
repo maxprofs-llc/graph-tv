@@ -1,0 +1,341 @@
+Elaine's bedroom - phone rings|ELAINE|Hello
+Elaine's bedroom - phone rings|JAMES|This is your wake up service. It's 7:15
+Elaine's bedroom - phone rings|ELAINE|Oh, god. OH, I could use a few more hours sleep.
+Elaine's bedroom - phone rings|JAMES|Hot date last night?
+Elaine's bedroom - phone rings|ELAINE|I wish.
+Elaine's bedroom - phone rings|JAMES|A woman with a sexy voice like yours its hard to believe your waking up alone.
+Elaine's bedroom - phone rings|ELAINE|Really? Thank you., wake up service . . . person.
+Elaine's bedroom - phone rings|JAMES|Call me James.
+Elaine's bedroom - phone rings|ELAINE|Oh, all right, James. He he he
+Monks|GEORGE|Your wake up guy asked you out?
+Monks|ELAINE|Yeah, I've never seen him but I feel like we have this weirdly intimate relationship. I mean, I'm lying in bed, I'm wearing my nightie,
+Monks|JERRY|I don't know. Blind date?
+Monks|ELAINE|What? You're going to go out with my cousin Holly. You've never met her.
+Monks|JERRY|Yeah, but I've seen pictures of her.
+Monks|ELAINE|At least I've spoken to my guy. You're going out on a deaf date.
+Monks|JERRY|I think I'd rather go out on a deaf date than a blind date. The question is whether you'd rather date the blind or the deaf.
+Monks|ELAINE|Ah, . . .
+Monks|GEORGE|Now you're off on a topic.
+Monks|JERRY|You know, I think, I would rather date the deaf.
+Monks|ELAINE|Uh hu.
+Monks|JERRY|Because I think the blind would probably be a little messier around the house. And lets face it they're not going to get all the crumbs. I'd possibly be walking around with a sponge.
+Monks|GEORGE|You see I disagree. I'd rather be dating the blind. You know you could let the house go. You could let yourself go. A good looking blind woman doesn't even know you're not good enough for her.
+Monks|ELAINE|I think she'd figure it out.
+Monks|action|waitress places plates on the table
+Monks|ELAINE|What? What is this?
+Monks|JERRY|Veggie sandwich and a grapefruit.
+Monks|ELAINE|Veggie sandwich and a grapefruit? What are you turning into?
+Monks|JERRY|A healthy person.
+Monks|GEORGE|( rubbing his eye) Ow, Ow you squirted me.
+Monks|JERRY|Oh, sorry
+Monks|GEORGE|Boy, it stings.
+Yankee Stadium|WILHELM|George, have you seen Morgan?
+Yankee Stadium|GEORGE|No.
+Yankee Stadium|WILHELM|He's been coming in late all week. Is there something wrong?
+Yankee Stadium|GEORGE|No, not that I know of. (winks)
+Yankee Stadium|WILHELM|Really? Make sure he signs this. Oh, look George, if there's a problem with Morgan you can tell me.
+Yankee Stadium|GEORGE|Morgan? No. He's doing a great job. (winks)
+Yankee Stadium|WILHELM|I understand.
+Jerry's apartment|JERRY|I still can't believe, you're going out on a blind date.
+Jerry's apartment|ELAINE|I'm not worried. It sounds like he's really good looking.
+Jerry's apartment|JERRY|You're going by sound? What are we? Whales?
+Jerry's apartment|ELAINE|I think I can tell.
+Jerry's apartment|JERRY|Elaine, what percentage of people would you say are good looking?
+Jerry's apartment|ELAINE|Twenty-five percent.
+Jerry's apartment|JERRY|Twenty-five percent, you say? No way! It's like 4 to 6 percent. It's a twenty to one shot.
+Jerry's apartment|ELAINE|You're way off.
+Jerry's apartment|JERRY|Way off? Have you been to the motor vehicle bureau? It's like a leper colony down there.
+Jerry's apartment|ELAINE|So what you are saying is that 90 to 95 percent of the population is undateable?
+Jerry's apartment|JERRY|UNDATEABLE!
+Jerry's apartment|ELAINE|Then how are all these people getting together?
+Jerry's apartment|JERRY|Alcohol.
+Jerry's apartment|ELAINE|(to George who is winking) What is your problem?
+Jerry's apartment|GEORGE|No problem here.
+Jerry's apartment|ELAINE|You keep winking at me. That's really obnoxious.
+Jerry's apartment|GEORGE|I had no idea.
+Jerry's apartment|ELAINE|Right there. Right there. You just did it again.
+Jerry's apartment|GEORGE|Wait a minute. Wait a minute. It's from that grapefruit that Jerry squirted at me.
+Jerry's apartment|ELAINE|You're eye still hurts?
+Jerry's apartment|GEORGE|Yeah, yeah. You must have squirted a piece of pulp in it too.
+Jerry's apartment|JERRY|Pulp couldn't make it across the table.
+Jerry's apartment|GEORGE|Pulp can move, Baby! Why didn't you eat a real breakfast?
+Jerry's apartment|JERRY|Hey, I eat healthy. If I have to take out an eye, that's the breaks.
+Jerry's apartment|GEORGE|Wait a minute. I must have been winking down at the office. That's why Mr. Wilhelm was acting so mysteriouso.
+Jerry's apartment|ELAINE|What did he think, you were flirtin' with him?
+Jerry's apartment|GEORGE|Hu, oh. No he thought I was hiding something from him about Morgan.
+Jerry's apartment|action|Kramer enters
+Jerry's apartment|KRAMER|Hi guys.
+Jerry's apartment|JERRY|Hi,
+Jerry's apartment|KRAMER|Hello Archie, Veronica, Mr. Weatherbee. . . . Is this Don Matingly's signature?
+Jerry's apartment|GEORGE|Yeah.
+Jerry's apartment|KRAMER|And Buck Showalter's?
+Jerry's apartment|GEORGE|It's an inter-office envelope. It get passed around all over the office.
+Jerry's apartment|KRAMER|Um, can I show this to my buddy Stubbs . He runs a sports memorabilia store. He pays top dollar for pro autographs.
+Jerry's apartment|GEORGE|Yeah, like I'm going to risk my job with the New York Yankees to make a few extra bucks. (winks)
+Jerry's apartment|KRAMER|No, of course not. (winks back)
+Sports Memorabilia Shop|KRAMER|You know, you see Don Matingly signed this envelope then he sent it to room 318, where it was received and signed for by manager Buck Showalter.
+Sports Memorabilia Shop|STEINBRENNER|I don't know. An envelope doesn't really cut it.
+Sports Memorabilia Shop|KRAMER|Why?
+Sports Memorabilia Shop|STEINBRENNER|What is this? A birthday card. Ha ha . . . signed by the ENTIRE Yankee organization! . . . This could be worth something.
+Yankee Stadium|GEORGE|Is that the lovely Mrs. Morgan?
+Yankee Stadium|MORGAN|Hello.
+Yankee Stadium|MORGAN|Oh, by the way, have you got that birthday card?
+Yankee Stadium|GEORGE|Birthday card?
+Yankee Stadium|MORGAN|Mr. Steinbrenner's birthday card. Wilhem said you had it for me to sign.
+Yankee Stadium|GEORGE|Oh ah, I uh, will have that for you by after lunch.
+Yankee Stadium|MORGAN|Fine. I'll be back after my massage.
+Yankee Stadium|GEORGE|Of course. Your massage. (winks) Enjoy your massage. (winks)
+Monk's - Elaine sitting alone|ELAINE|Hello.
+Monk's - Elaine sitting alone|ELAINE|James! Ah, ha, Hello! Phew!
+Old Homestead Steak House|HOLLY|I can't believe you've never taken anybody here before.
+Old Homestead Steak House|JERRY|Well, I'm not really that much of a meat eater.
+Old Homestead Steak House|HOLLY|. . . You don't eat meat? Are you one of those. . .
+Old Homestead Steak House|JERRY|Well, no, I'm not one of those.
+Old Homestead Steak House|HOLLY|When we were little girls Grandma Memma would take us to a matinee and then dinner here.
+Old Homestead Steak House|JERRY|Grandma Memma?
+Old Homestead Steak House|HOLLY|Elaine must have mentioned Grandma Memma.
+Old Homestead Steak House|JERRY|No, I think I would have remembered Memma.
+Old Homestead Steak House|HOLLY|Oh well, that's typical. Elaine never liked Grandma Memma.
+Old Homestead Steak House|WAITER|Ready?
+Old Homestead Steak House|HOLLY|I'll have the porterhouse medium rare, baked potato with sour cream,
+Old Homestead Steak House|JERRY|What do you recommend besides the steak?
+Old Homestead Steak House|WAITER|The lamb chops are good.
+Old Homestead Steak House|JERRY|Anything lighter? How do you prepare the chicken?
+Old Homestead Steak House|WAITER|It's a full bird. Stuffed with ham, topped with gorganzola.
+Old Homestead Steak House|JERRY|You know what? I think I'll just have the salad.
+Old Homestead Steak House|WAITER|. . . Thank you.
+Old Homestead Steak House|JERRY|(mind's voice) Just a salad? Just a salad? Just a salad?
+Outside of Monk's - James unties his dogs|JAMES|Hey you, hey you.
+Outside of Monk's - James unties his dogs|ELAINE|Oh, uh, ha, you've got dogs?
+Outside of Monk's - James unties his dogs|JAMES|Yeah, you know, when you live alone, you're dogs are all you have. Do you like dogs?
+Outside of Monk's - James unties his dogs|ELAINE|(mind's voice from - … ) SHUT UP! YOU STUPID LITTLE MUT !
+Outside of Monk's - James unties his dogs|ELAINE|Dogs. Oh I love dogs.
+Outside of Monk's - James unties his dogs|JAMES|Boys, this is Elaine. . . . Sorry, they're usually very friendly. Hey!
+Yankee Stadium|GEORGE|Hey, Mr. Morgan how was your massage?
+Yankee Stadium|MORGAN|I had to cancel it. For some reason my wife got it into her head that it was more than just a massage.
+Yankee Stadium|GEORGE|Really?
+Yankee Stadium|MORGAN|Yeah, we had this big fight at lunch it looks like tonight I will be sleeping on the couch.
+Yankee Stadium|GEORGE|Hey, listen don't oversleep. You can't afford to be late again.
+Yankee Stadium|MORGAN|I know. Somebody around here has been giving Wilhelm the impression that I have been slacking off.
+Yankee Stadium|GEORGE|Geez, Hey you know something, you should try my friend's wake up service. She swears by this thing.
+Yankee Stadium|MORGAN|Costanza, you may be my only friend around here. By the way, you got that birthday card?
+Yankee Stadium|GEORGE|Ah, not yet.
+Yankee Stadium|MORGAN|Just make sure Steinbrenner doesn't get it until I sign it.
+Yankee Stadium|GEORGE|Yes sir!
+Jerry's apartment|ELAINE|I just don't understand it as soon as I met these dogs they started growling at me.
+Jerry's apartment|JERRY|Maybe his dogs heard about how you tried to kidnap that other dog. These muts like to gossip. So have you talked too Holly?
+Jerry's apartment|ELAINE|Huh huh.
+Jerry's apartment|JERRY|Did she mention anything about our lunch?
+Jerry's apartment|ELAINE|Uh, kind of.
+Jerry's apartment|JERRY|What do you mean, "kind of."?
+Jerry's apartment|ELAINE|I mean, she thought it was kind of strange to just order a salad. . . . You know. . . . For a man.
+Jerry's apartment|JERRY|What are you saying? . . . Salad! What was I thinking? Women don't respect salad eaters.
+Jerry's apartment|ELAINE|You got that right.
+Jerry's apartment|JERRY|But you're going over there for dinner tonight, right?
+Jerry's apartment|ELAINE|Um uh.
+Jerry's apartment|JERRY|What is she making?
+Jerry's apartment|ELAINE|I don't know. But I'm sure it had, . . . parents. Call her up. She won't mind if you come.
+Jerry's apartment|JERRY|Oh, don't worry. I'll be there and I'll be packing an artery.
+Jerry's apartment|action|Kramer's door - George knocks
+Jerry's apartment|KRAMER|Ah, Mr. Weatherbee.
+Jerry's apartment|GEORGE|You got the Yankee envelope?
+Jerry's apartment|KRAMER|Sure do.
+Jerry's apartment|GEORGE|oh,
+Jerry's apartment|KRAMER|Here you go.
+Jerry's apartment|GEORGE|Hey, he,
+Jerry's apartment|KRAMER|You'll be pleased to see what's inside.
+Jerry's apartment|GEORGE|What is this?
+Jerry's apartment|KRAMER|You're cut of the loot. Stubs gave me 200 dollars for the autographed birthday card that was inside.
+Jerry's apartment|GEORGE|Who told you to sell the card?
+Jerry's apartment|KRAMER|You did.
+Jerry's apartment|GEORGE|No I didn't!
+Jerry's apartment|KRAMER|No, not in so many words but I believe we had an understanding. (winks)
+Jerry's apartment|GEORGE|I was not winking you idiot. That was the grapefruit. It's like acid. I need that card back. It's Mr. Steinbrenner's. I was responsible.
+Jerry's apartment|KRAMER|Well Stubs has already sold it to some guy who's kid's in the hospital .
+Jerry's apartment|GEORGE|Well get it back! It's very important. (winks)
+Jerry's apartment|KRAMER|Look, do you want me to get it back or not?
+Jerry's apartment|GEORGE|(holds eyes wide open) Get it back!
+Holly's apartment|ELAINE|Such a lovely table setting. Oh, wear did you get these napkins?
+Holly's apartment|HOLLY|They're grandma Memma's.
+Holly's apartment|ELAINE|Oh, I don't remember them.
+Holly's apartment|HOLLY|Oh, you wouldn't. She only used them on special occasions.
+Holly's apartment|ELAINE|Special occassions? It wasn't special when my family visited?
+Holly's apartment|HOLLY|Everybody like mutton?
+Holly's apartment|JERRY|Um, mutton! Hope you didn't cut the fat off.
+Hospital room|KRAMER|That you Bobby?
+Hospital room|BOBBY|huh
+Hospital room|KRAMER|Well, I heard that you have a very uh, special birthday card .with all the Yankee autographs on it.
+Hospital room|BOBBY|Sure do. Mister.
+Hospital room|KRAMER|Oh, that's it, yeah. Boy, Stubs sure went to town with this thing huh? Yeah, well, Bobby, uh, what if I told you a very important person at the New York Yankees needed this card back.
+Hospital room|BOBBY|Oh, no. I'd never part with this card for anything in the world.
+Hospital room|KRAMER|Well, uh, Bobby, uh, who's your favorite Yankee.
+Hospital room|BOBBY|Paul O'Neill.
+Hospital room|KRAMER|All right. What if I tell Paul O'Neill to hit a home run tomorrow, just for you.
+Hospital room|BOBBY|Would he? Paul O'Neill would do that?
+Hospital room|KRAMER|For you he would.
+Hospital room|BOBBY|Would he hit two home runs?
+Hospital room|KRAMER|Two? Sure kid, yeah. But then you gotta promise you'll do something for me.
+Hospital room|BOBBY|I know. Get out of this bed one day and walk again.
+Hospital room|KRAMER|Yeah, that would be nice. But I really just need this card.
+Holly's apartment|ELAINE|What about this candelabra?
+Holly's apartment|HOLLY|Yeah, that was grandma Memma's also. She bought it on her trip to Europe in 1936. Jerry, I'm thrilled you like my mutton. I was afrais you only ate . . . salad.
+Holly's apartment|JERRY|Hey, salad's got nothin' on this mutton.
+Holly's apartment|HOLLY|That is so funny. Did you just make that up?
+Holly's apartment|JERRY|I wish I could take credit for it. It's actually the line my butcher uses when we're chewing the fat. How about that beautiful desk over there? (hides meat in napkin in jacket)
+Holly's apartment|HOLLY|That was in Grandma's study.
+Holly's apartment|ELAINE|What did you do, ransack the place after she died?
+Holly's apartment|JERRY|This is some FINE mutton.
+Holly's apartment|ELAINE|I'm getting out of here. Can I borrow your jacket?
+Holly's apartment|JERRY|Uh, well, uh the thing is that . . . (Jerry grabs jacket back)
+Holly's apartment|ELAINE|It's cold out, and I didn't bring my own. Jerry! God forbid I should borrow one from Holly. It might have belonged to grandma Memma. Thanks for mutton.
+On the street - dogs following Elaine|ELAINE|Down boy, nice doggy . I'm a nice person. Don't believe what you hear.
+Holly's|HOLLY|Where are the napkins?
+Holly's|JERRY|What?
+Holly's|HOLLY|Grandma Memma's napkins. There's two missing. Elaine took them didn't she?
+Holly's|JERRY|I don't know about that. Have you got any floss?
+Holly's|HOLLY|You heard her. She coveted them. I bet she took them just to spite me. She's probably having a good laugh about it right now.
+On the street dogs chasing Elaine|ELAINE|Down doggy . oh oh a a a a a
+James' apartment|JERRY|Elaine, what are you doing in this neighborhood?
+James' apartment|ELAINE|Did you do with the dogs?
+James' apartment|JERRY|Yeah, they're in the kitchen. . . . okay, quite! What's going on?
+James' apartment|ELAINE|These dogs were chasing me. And no cab would stop and I had to get off the street. Then I remembered that you lived here.
+James' apartment|JERRY|Why were dogs chasing you?
+James' apartment|ELAINE|They just don't like me. It's a long story. I can tell you one day but I can't tell you right now.
+James' apartment|JERRY|I would askk you to stay tonight but I only have the sofa bed and it's where I sleep.
+James' apartment|ELAINE|We'll have to sleep head to toe.
+James' apartment|JERRY|Head to toe?
+James' apartment|ELAINE|Head to toe.
+The next morning at James'|ELAINE|Hey, wake up. It's 8:30 you were supposed to walk me up at 7:15.
+The next morning at James'|JERRY|I'm sorry I didn't get any sleep you kept kicking me in the face.
+The next morning at James'|ELAINE|You're a wake up guy. Don't you have calls to make?
+The next morning at James'|JERRY|I'll make them later. Uh.
+The next morning at James'|action|Mr. Morgan's - he's asleep on the couch
+Yankee Stadium - George's office|WILHELM|Have you seen Morgan?
+Yankee Stadium - George's office|GEORGE|He's not here?
+Yankee Stadium - George's office|WILHELM|No, He's late.
+Yankee Stadium - George's office|GEORGE|It's impossible. I got him a wake up service.
+Yankee Stadium - George's office|WILHELM|Now, George, you don't have to cover for him any more. He's going to be gone soon and I'm going to recommend you for his job.
+Yankee Stadium - George's office|GEORGE|. . . gone?
+Monk's|JERRY|It sounds like all the winking got you a promotion.
+Monk's|GEORGE|I don't want Morgan's job. He's got a lot of work to do. Hey, Elaine, your friend never woke up Mr. Morgan.
+Monk's|ELAINE|Nah, he was tired. He had some feet in his face. My cousin Holly is completely insane. She keeps calling and accusing me of stealing her napkins.
+Monk's|GEORGE|Napkins?
+Monk's|ELAINE|I mean, why? Why would I take her stupid napkins.
+Monk's|JERRY|Because they were in the pockets of my jacket.
+Monk's|ELAINE|They were?
+Monk's|JERRY|Yes. I was using them to spit out the mutton.
+Monk's|ELAINE|Spit it out? I had dogs chasing me for that mutton. I was almost mauled because of that mutton.
+Monk's|GEORGE|What exactly is mutton?
+Monk's|JERRY|I don't know and I didn't want to find out. So where is my jacket?
+Monk's|ELAINE|Oh, I must have left it at Jame's
+Monk's|JERRY|You spent the night at James's? Did we?
+Monk's|ELAINE|Yeah but we reversed positions so there was no funny business.
+Monk's|JERRY|Reversed positions?
+Monk's|ELAINE|Yeah, you know, head to toe.
+Monk's|JERRY|So what your genitals are still lined up.
+Monk's|ELAINE|No, because I slept with my back to him.
+Monk's|action|long pause - no comment from the guys
+Yankee Stadium|KRAMER|Mr. O'Neill?
+Yankee Stadium|KRAMER|Yeah, uh, look, you don't know me.
+Yankee Stadium|KRAMER|No, it's uh, not that see,. It's about a little boy in a hospital. I was wondering if you could do something to lift his spirits.
+Yankee Stadium|KRAMER|Sure, well I promised you would hit him two home runs.
+Yankee Stadium|KRAMER|You know, Klick!. A couple of dingers.
+Yankee Stadium|KRAMER|Yeah, well, no good?
+Yankee Stadium|KRAMER|Two is better than one.
+Yankee Stadium|KRAMER|Well, Babe Ruth did it.
+Yankee Stadium|KRAMER|Oh, do you say that Babe Ruth is a liar?
+Yankee Stadium|KRAMER|Well, maybe I did overextend myself.
+James'|JAMES|(on phone) Oh, hi Elaine. You know I lost all of my 6:30 clients because of you. . . . Yeah, well why did you have to stick your feet in my face? . . . Yes, I have the jacket. Hold on. . . . (to dogs) Fellas!
+Hospital|TV|The Yankees take the field on a beautiful afternoon.
+Hospital|KRAMER|It's hot in here. Hey, Bobby, can I have some of your juice?
+Hospital|BOBBY|After Paul O'Neill hits his first home run.
+Jerry's|HOLLY|(from buzzer) It's Holly.
+Jerry's|JERRY|Yeah. Come on up.
+Jerry's|TV|And the two and one pitch to O'Neill. A towering shot back to deep right field and it's gone.
+Hospital|KRAMER|Yeah.
+Hospital|TV|A home run for Paul O'Neill. The Yanks lead one nothing.
+Hospital|KRAMER|OH YEAH! ALL RIGHT!
+Hospital|BOBBY|One more to go.
+Jerry's|action|Holly enters
+Jerry's|JERRY|Hey. What's all this?
+Jerry's|HOLLY|I decided I was going to make you dinner.
+Jerry's|JERRY|I thought we were going out.
+Jerry's|HOLLY|Well, after you scarfed up my mutton I had the irresistible urge to make pork chops for you. I said hello to Franco for you.
+Jerry's|JERRY|Franco?
+Jerry's|HOLLY|Your butcher, down the street.
+Jerry's|JERRY|I bet he acted aloof like he didn't know me.
+Jerry's|HOLLY|A little.
+Jerry's|JERRY|That is so Franco.
+Hospital|TV|Bottom of the eighth, score tied at one apiece. Two and one to Paul O'Neill.
+Hospital|KRAMER|You know Bobby, it's very very hard to hit two home runs in one game. Even for Paul O'Neill.
+Hospital|KRAMER|He can do it, Mr. Kramer. I know he can. He'll do it for me.
+Hospital|TV|"Klick! Long fly ball into deep left field over Bell's head . . . O'Neill's rounding second O'Neill going for third, O'Neill rounding . . .
+Hospital|KRAMER|Come on Come on!
+Hospital|TV|. . . third being waived in.
+Hospital|KRAMER|GO! GO!!
+Hospital|TV|. . . Martinez throws it over Alomar's head. O'Neill is safe at home. And the Yankees take the lead.
+Hospital|KRAMER|An In The Park Home Run!
+Hospital|BOBBY|Yeay!
+Hospital|KRAMER|All Right! Yeah, well, I guess I'll be on my way (grabs framed card)
+Hospital|TV|That's being scored a triple for Paul O'Neill with a throwing error charged to Martinez.
+Hospital|BOBBY|Hey, …
+Hospital|KRAMER|Huh?
+Hospital|BOBBY|… that's not a home run. (grabs frame)
+Hospital|KRAMER|Yeah, maybe not technically, but …
+Hospital|BOBBY|You said he'd hit two home runs.
+Hospital|KRAMER|Oh, come on. Bobby, Bobby! That's just as good!
+Hospital|BOBBY|Well, you're not taking that card.
+Hospital|KRAMER|Now, Bobby, Bobby, we had a deal . . . gimme that …
+Jerry's|HOLLY|So, is the chop the way you like it?
+Jerry's|JERRY|I usually like mine with an angioplasty.
+Jerry's|action|stuffs meat in sofa
+Jerry's|action|Elaine enters
+Jerry's|ELAINE|You know something really stinks to high h… Holly! What are you doing here?
+Jerry's|JERRY|What everyone does here. - Cooking pork chops.
+Jerry's|ELAINE|I'm uh, I'm meeting James here. He's bringing over your jacket.
+Jerry's|HOLLY|What about the napkins?
+Jerry's|ELAINE|I didn't take your napkins.
+Jerry's|HOLLY|Then who did?
+Jerry's|ELAINE|Ask Jerry.
+Jerry's|JERRY|We could argue all night over who took the napkins. The point is in today's modern world it just doesn't seem relevant.
+George's office, Yankee Stadium|WILHELM|I still want to know what happened to that birthday card? Now, Morgan, did you ever sign it?
+George's office, Yankee Stadium|MORGAN|No sir, George never gave it to me.
+George's office, Yankee Stadium|GEORGE|No, that's right, I didn't. I take full responsibility for the card not being here. I, uh, . . .
+George's office, Yankee Stadium|action|Kramer enters
+George's office, Yankee Stadium|KRAMER|Hi,
+George's office, Yankee Stadium|WILHELM|What's this?
+George's office, Yankee Stadium|KRAMER|Oh, it's a birthday card.
+George's office, Yankee Stadium|KRAMER|(to George) Oh, by the way, tomorrow night, Paull O'Neill has to catch a fly ball in his hat.
+George's office, Yankee Stadium|WILHELM|George, this is beautiful. Why didn't you tell me you were going to have it mounted like this?
+George's office, Yankee Stadium|KRAMER|And you were probably just going to stick it in an envelope.
+George's office, Yankee Stadium|WILHELM|Ha ha ha ha ha, George, keep up the good work.
+George's office, Yankee Stadium|MORGAN|Ha ha, uh, well you screwed me again, Costanza. How am I supposed to sign the card now when it's already under glass?
+Jerry's|action|James enters with his dogs
+Jerry's|ELAINE|Uh, this is,…
+Jerry's|HOLLY|Excuse me. What are those dogs wearing?
+Jerry's|JAMES|Oh, bandanas, aren't they cute?
+Jerry's|HOLLY|You gave Memma's napkins to some dogs?!
+Jerry's|JERRY|Hey, what happened to my jacket?
+Jerry's|JAMES|Oh, the dogs did that but it wasn't their fault, somebody stuffed some strange meat in the pocket.
+Jerry's|HOLLY|Was it mutton?
+Jerry's|JAMES|Could have been.
+Jerry's|HOLLY|Do you always stuff meat in your pocket?
+Jerry's|action|Dogs climbing on sofa
+Jerry's|JERRY|Uh, sometimes I use the sofa.
+Steinbrenner's office|action|George enters
+Steinbrenner's office|GEORGE|You wanted to see me, Mr. Steinbrenner?
+Steinbrenner's office|STEINBRENNER|Yes, George, please, come in, come in.
+Steinbrenner's office|STEINBRENNER|Thanks for the card. I loved it. Gosh it made me feel good. You know, word has it that you were the brains behind the whole thing.
+Steinbrenner's office|GEORGE|Oh, no, not just me, the whole organization. Especially Mr. Morgan.
+Steinbrenner's office|STEINBRENNER|Morgan, Morgan, you know his name is conspicuously absent from this card. Almost like he went out of his way not to sign it.
+Steinbrenner's office|GEORGE|Oh no, Morgan is a good man sir.
+Steinbrenner's office|STEINBRENNER|You can stop kowtowing to Morgan. Congratulations, you got his job.
+Steinbrenner's office|GEORGE|Wa, uh, thank you sir, you know I am not quite sure I'm right for it.
+Steinbrenner's office|STEINBRENNER|Stop it George, he's out, you're in.
+Steinbrenner's office|STEINBRENNER|A lot more work you know.
+Steinbrenner's office|GEORGE|I know.
+Steinbrenner's office|STEINBRENNER|A lot more responsibility. Long long hours.
+Steinbrenner's office|GEORGE|I know.
+Steinbrenner's office|STEINBRENNER|Not much more money. But you'll finally get the recognition you deserve.
+Steinbrenner's office|GEORGE|That's what I'm afraid of. You know Mr. Steinbrenner, . . .
+Steinbrenner's office|STEINBRENNER|You know as painfull as it is I had to let a few people go over the years. Yogi Berra, Lou Pinella, Bucky Dent, Billy Martin, Dallas Green, Dick Houser, Bill Virdon, Billy Martin, Scott Marrow, Billy Martin, Bob Lemmon, Billy Martin, Gene Michael, Buck Showalter, … uh, tut!, . . .George, you didn't hear that from me. (George exits) . . . George!

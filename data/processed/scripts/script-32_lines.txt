@@ -1,0 +1,348 @@
+Jerry’s Apartment|JERRY|Let me ask you a question. If you named a kid Rasputin do you think that would have a negative effect on his life?
+Jerry’s Apartment|ELAINE|Na.
+Jerry’s Apartment|JERRY|What are you doing? We’re going out for dinner in ten minutes.
+Jerry’s Apartment|ELAINE|Do you realize this is the last meal I am going to have for three days?
+Jerry’s Apartment|action|buzzer
+Jerry’s Apartment|JERRY|Yeah.
+Jerry’s Apartment|GEORGE|It’s George.
+Jerry’s Apartment|JERRY|Come on up. . . . I never heard of this. You’ve got to fast for three days to take an ulcer test. How you gonna do that?
+Jerry’s Apartment|ELAINE|I don’t know. How could I possibly have ulcers? Who could have given me ulcers?
+Jerry’s Apartment|JERRY|I think I’ll take out the garbage.
+Jerry’s Apartment|ELAINE|Hey, have you ever fasted?
+Jerry’s Apartment|JERRY|Well, once I didn’t have dinner until, like 9:00 o’clock, that was pretty rough. (exits to hall with garbage – meets George) Hey, do me a favour will ya’? Throw out my garbage for me.
+Jerry’s Apartment|GEORGE|Yeah, right.
+Jerry’s Apartment|JERRY|Come on, it’s just down the hall.
+Jerry’s Apartment|GEORGE|Give me two bucks. I’ll do it for two bucks.
+Jerry’s Apartment|JERRY|I’ll give you 50 cents.
+Jerry’s Apartment|GEORGE|There’s no way I touch that bag for less than two dollars.
+Jerry’s Apartment|JERRY|Come on. Fifty cents. (??) a piece of Drake’s coffee cake
+Jerry’s Apartment|GEORGE|You’re not getting no Drake’s Coffee Cake for fifty cents. Yae, Hey, I’m all set. I got the ticket. I’m going to the Cayman Islands this Friday.
+Jerry’s Apartment|JERRY|I don’t get you. Who goes on vacation without a job? What do you need a break from getting up at eleven?
+Jerry’s Apartment|GEORGE|It’s an incredible deal. I don’t know why you don’t come with me.
+Jerry’s Apartment|JERRY|Nah, I don’t go for these non-refundable deals. I can’t commit to a woman. I’m not going to commit to an airline.
+Jerry’s Apartment|action|Gina enters the hall
+Jerry’s Apartment|GINA|Hi.
+Jerry’s Apartment|JERRY|Hi.
+Jerry’s Apartment|GINA|How are you?
+Jerry’s Apartment|JERRY|Gina, do you know what a Drake’s Coffee Cake is?
+Jerry’s Apartment|GINA|Of course, the plane cake with the sweet brown crumbs on the top.
+Jerry’s Apartment|JERRY|How much do they cost?
+Jerry’s Apartment|GINA|The junior?
+Jerry’s Apartment|GEORGE|No, no the full size.
+Jerry’s Apartment|JERRY|No, no the junior.
+Jerry’s Apartment|GEORGE|You didn’t say "junior".
+Jerry’s Apartment|GINA|I haven’t had one of those since I was a little girl.
+Jerry’s Apartment|JERRY|Really? You should be ashamed of yourself. I want you out of here! (MARTIN enters the hall) How ya’ doing?
+Jerry’s Apartment|MARTIN|Good enough.
+Jerry’s Apartment|action|MARTIN leaves with Gina
+Jerry’s Apartment|JERRY|Boy she’s sexy isn’t she?
+Jerry’s Apartment|action|Jerry leaves garbage bag by Kramer’s apartment and knocks on the door. As he and George enter Jerry’s apartment Kramer comes out and takes the garbage bag.
+Jerry’s Apartment|JERRY|Do you believe that guy?
+Jerry’s Apartment|ELAINE|What guy?
+Jerry’s Apartment|JERRY|My neighbour:
+Jerry’s Apartment|ELAINE|Oh, that creepy guy?
+Jerry’s Apartment|JERRY|Yeah, did he think I was flirting with her?
+Jerry’s Apartment|GEORGE|He didn’t seem too pleased.
+Jerry’s Apartment|ELAINE|Maybe I’ll get a steak with french fried onion wings.
+Jerry’s Apartment|GEORGE|hey, you know what? I just remembered something. I had a dream about that guy last night. This is amazing.
+Jerry’s Apartment|JERRY|What’s so amazing? You’ve seen him before.
+Jerry’s Apartment|GEORGE|I haven’t seen him for months.
+Jerry’s Apartment|JERRY|What was the dream?
+Jerry’s Apartment|GEORGE|I was doing standup comedy in Kennebunkport Maine. ??? night club. The stage was on a cliff and the audience was throwing all the comics off.
+Jerry’s Apartment|JERRY|I think I’ve played there.
+Jerry’s Apartment|GEORGE|I’ve had a lot of other paranormal stuff happen to me.
+Jerry’s Apartment|JERRY|You’re a little paranormal
+Jerry’s Apartment|ELAINE|Hey, George, you know my friend goes to a psychic.
+Jerry’s Apartment|GEORGE|Really?
+Jerry’s Apartment|ELAINE|Uh uh, you should go some time.
+Jerry’s Apartment|GEORGE|I’d love to go. Make an appointment.
+Jerry’s Apartment|JERRY|Psychics, vacations. How about getting a job?
+Jerry’s Apartment|GEORGE|I just got fired.
+Jerry’s Apartment|JERRY|Alright, come on, lets get out of here.
+Jerry’s Apartment|ELAINE|I wonder what Ghandi ate before his fast.
+Jerry’s Apartment|JERRY|I heard he used to polish off a box of Triscuits.
+Jerry’s Apartment|ELAINE|Really?
+Jerry’s Apartment|JERRY|Oh, yeah. Ghandi loved Triscuits.
+Jerry’s Apartment|action|They exit
+Jerry’s apartment late at night there is knocking at the door|JERRY|Who is it? Who is it?
+Jerry’s apartment late at night there is knocking at the door|GINA|It’s Gina.
+Jerry’s apartment late at night there is knocking at the door|JERRY|Who?
+Jerry’s apartment late at night there is knocking at the door|GINA|Martine’s girl friend.
+Jerry’s apartment late at night there is knocking at the door|JERRY|Martine?
+Jerry’s apartment late at night there is knocking at the door|GINA|You next door neighbour.
+Jerry’s apartment late at night there is knocking at the door|JERRY|Oh, Martin!
+Jerry’s apartment late at night there is knocking at the door|action|Jerry opens door
+Jerry’s apartment late at night there is knocking at the door|GEORGE|It’s Martine. I think he’s dying. He tried to kill himself with pills.
+Jerry’s apartment late at night there is knocking at the door|JERRY|What?
+Jerry’s apartment late at night there is knocking at the door|GINA|Come on.
+Jerry’s apartment late at night there is knocking at the door|JERRY|In my pajamas? I better get my robe.
+Jerry’s apartment late at night there is knocking at the door|GINA|We don’t have enough time.
+Jerry’s apartment late at night there is knocking at the door|JERRY|It’ll take two seconds.
+Jerry’s apartment late at night there is knocking at the door|GINA|There is no time.
+Jerry’s apartment late at night there is knocking at the door|JERRY|We don’t have two seconds?
+Jerry’s apartment late at night there is knocking at the door|GINA|All right. Go ahead.
+Jerry’s apartment late at night there is knocking at the door|JERRY|Nah, forget it.
+Jerry’s apartment late at night there is knocking at the door|GINA|No, go ahead.
+Jerry’s apartment late at night there is knocking at the door|JERRY|Nah. I’ll just wear the pajamas.
+Jerry’s apartment late at night there is knocking at the door|GINA|Will you just get it.
+Jerry’s apartment late at night there is knocking at the door|JERRY|Are you sure?
+Jerry’s apartment late at night there is knocking at the door|GINA|Forget it. Come on.
+Jerry’s apartment late at night there is knocking at the door|JERRY|Nah, I’ll go get the robe.
+Metropolitan Hospital Center|JERRY|That’s not too bad. It’s not like a Sunny von Bulow comma. The doctor said he should snap out of it anytime.
+Metropolitan Hospital Center|GINA|You know why he did this? Because I told him it was over. I did not want to see him anymore.
+Metropolitan Hospital Center|JERRY|Really? It’s over?
+Metropolitan Hospital Center|GINA|I could not stand it another minute. Yesterday he turned over a man’s hot dog stand because he thought the man was looking at me. And then after he saw you in the hall. Ach, he was crazy with jealousy.
+Metropolitan Hospital Center|JERRY|Oh boy, did he say anything about me?
+Metropolitan Hospital Center|GINA|He does not like you. And all indications are he does not like Drake’s Coffee Cake.
+Metropolitan Hospital Center|JERRY|He said that?
+Metropolitan Hospital Center|GINA|He was screaming about it all night. How it’s too sweet and it falls apart when you eat it.
+Metropolitan Hospital Center|JERRY|I’m sorry if I caused any trouble. I was just being friendly.
+Metropolitan Hospital Center|GINA|I wasn’t.
+Metropolitan Hospital Center|JERRY|You weren’t?
+Metropolitan Hospital Center|GINA|No, I have thought about you many times. Have you thought about me?
+Metropolitan Hospital Center|JERRY|Of course.
+Metropolitan Hospital Center|GINA|Tell me everything.
+Metropolitan Hospital Center|JERRY|Are you sure he can’t hear anything? . . .MARTIN, MARTIN.
+Metropolitan Hospital Center|GINA|I wish he was not in a coma. I wish he was dead. I wish I could pull the plug out from him.
+Metropolitan Hospital Center|JERRY|I, would, I would wait on that. I know how you feel but. Juries today, you never know how they’re going to look at a thing like this.
+Metropolitan Hospital Center|GINA|I saw you looking at your watch. You want to leave? Go ahead.
+Metropolitan Hospital Center|JERRY|No, I just wanted to see what time it was.
+Metropolitan Hospital Center|GINA|Are you afraid of him?
+Metropolitan Hospital Center|JERRY|No.
+Metropolitan Hospital Center|GINA|Then kiss me.
+Metropolitan Hospital Center|JERRY|Here?
+Metropolitan Hospital Center|GINA|Yes, right here.
+Metropolitan Hospital Center|JERRY|Is this the proper venue?
+Metropolitan Hospital Center|GINA|You don’t want to?
+Metropolitan Hospital Center|JERRY|No, no, I want to. I, I very much want to. I, I desire to. I, I pine to.
+Metropolitan Hospital Center|GINA|Then kiss me right in front of him.
+Metropolitan Hospital Center|JERRY|I can’t. What if he wakes up?
+Metropolitan Hospital Center|GINA|A man is lying here unconscious and you’re afraid of him? What kind of a man are you?
+Metropolitan Hospital Center|JERRY|A man who respects a good comma. If it was one of those in and out comas, maybe. But when a guy’s got a coma going like this … you don’t want to mess with it.
+Jerry’s apartment|KRAMER|Hey.
+Jerry’s apartment|JERRY|Hey.
+Jerry’s apartment|KRAMER|Did you hear about Martin?
+Jerry’s apartment|JERRY|Yeah, I heard.
+Jerry’s apartment|KRAMER|I can’t believe he’s in a coma.
+Jerry’s apartment|KRAMER|He’s got my vacuum cleaner. You know I loaned it to him. He never returned it. The carpets are filthy. What am I going to do?
+Jerry’s apartment|JERRY|Who told you about Martin?
+Jerry’s apartment|KRAMER|Newman! He’s good friends with him.
+Jerry’s apartment|JERR|Oh, big mouth Newman. I should have guessed.
+Jerry’s apartment|KRAMER|He’s got all of my attachments, you know.
+Jerry’s apartment|JERRY|Hey, let me ask you something. How long do you have to wait for a guy to come out of a coma before you can ask his ex-girlfriend out?
+Jerry’s apartment|KRAMER|What, Gina? Why wait? Why not just call Doctor Kavorkian?
+Jerry’s apartment|JERRY|You know I don’t get that whole suicide machine. There’s no tall buildings where these people live? They can’t wrap their lips around a revolver like a normal person?
+Jerry’s apartment|KRAMER|So what’s going on between you and Gina?
+Jerry’s apartment|JERRY|Well, I went with her to the hospital last night.
+Jerry’s apartment|KRAMER|Uh, uh.
+Jerry’s apartment|JERRY|So we’re in the room and she’s trying to get me to kiss her right in front of him.
+Jerry’s apartment|KRAMER|Uh, uh, you see that’s the great thing about Mediterranean women. All right, so what did you do?
+Jerry’s apartment|JERRY|Nothing.
+Jerry’s apartment|KRAMER|Ah, what kind of a man are you? The guy is unconscious in a coma and you don’t have the guts to kiss his girlfriend?
+Jerry’s apartment|JERRY|I didn’t know what the coma etiquette was.
+Jerry’s apartment|KRAMER|There is no coma etiquette. You see that’s the beauty of the coma, man. It doesn’t matter what you do around it.
+Jerry’s apartment|JERRY|So you’re saying, his girl, his car, his clothes, it’s all up for grabs. You can just loot the coma victim.
+Jerry’s apartment|KRAMER|I’d give him 24 hours to get out of it. They can’t get out of it in 24 hours, it’s a land rush.
+Jerry’s apartment|JERRY|So if the coma victim wakes up in a month, he’s thrilled, he got out of the coma. He goes home, there’s nothing left?
+Jerry’s apartment|KRAMER|NOTHING LEFT! That’s why I’m trying to get that vacuum cleaner. Because somebody’s going to grab it.
+The psychic’s apartment|RULA|Martin’s spirit came to you as a warning.
+The psychic’s apartment|ELAINE|Why would he come to George?
+The psychic’s apartment|RULA|Because George has heightened extra sensory perception. FAYGY GET YOUR FINGER OUT OF YOUR NOSE.
+The psychic’s apartment|GEORGE|I knew it. I always felt different.
+The psychic’s apartment|RULA|You are. Some coffee cake?
+The psychic’s apartment|GEORGE|Drakes?
+The psychic’s apartment|RULA|Yes.
+The psychic’s apartment|GEORGE|Did you buy this for me?
+The psychic’s apartment|RULA|No, why?
+The psychic’s apartment|GEORGE|Ha, because I love Drake’s Coffee Cake.
+The psychic’s apartment|RULA|Maybe I did.
+The psychic’s apartment|ELAINE|Take it away.
+The psychic’s apartment|GEORGE|She hasn’t eaten in two days.
+The psychic’s apartment|RULA|Who’s Pauline?
+The psychic’s apartment|GEORGE|Pauline? . . . Wait a minute. I got it. My brother once impregnated a woman named Pauline.
+The psychic’s apartment|RULA|Do you think about her?
+The psychic’s apartment|GEORGE|When I hear her name mentioned.
+The psychic’s apartment|RULA|Cut these with your left hand.
+The psychic’s apartment|GEORGE|There was a woman, Audrey. She had a very big nose.
+The psychic’s apartment|RULA|I see an Audrey, but with a small nose.
+The psychic’s apartment|GEORGE|Yes, yes, she had a nose job. I loved her very deeply. Will she ever speak to me again?
+The psychic’s apartment|RULA|Not in this life.
+The psychic’s apartment|ELAINE|Should you be smoking?
+The psychic’s apartment|RULA|Does it bother you?
+The psychic’s apartment|ELAINE|You’re pregnant.
+The psychic’s apartment|GEORGE|Elaine.
+The psychic’s apartment|RULA|I smoked when I had Faisy.
+The psychic’s apartment|RULA|Ah oh.
+The psychic’s apartment|GEORGE|Ah oh? What? What Ah oh?
+The psychic’s apartment|RULA|I don’t know about this trip George.
+The psychic’s apartment|GEORGE|You can see the Cayman Islands in there? Is something going to happen to me? What?
+The psychic’s apartment|ELAINE|It’s really bad for the fetus. Do you know that.
+The psychic’s apartment|GEORGE|Elaine, she’s a psychic. She knows how the kid’s going to be.
+The psychic’s apartment|GEORGE|Should I not go on this trip?
+The psychic’s apartment|RULA|George, I am going to tell you something and I want you to really hear me.
+The psychic’s apartment|ELAINE|Now listen. I just don’t know how a person, with everything we now know about pre-natal care can put a cigarette in her mouth.
+The psychic’s apartment|GEORGE|Elaine, what are you doing?
+The psychic’s apartment|ELAINE|It’s disgusting.
+The psychic’s apartment|RULA|I DON’T BELIVE IT. I would like you both to leave.
+The psychic’s apartment|ELAINE|Oh fine, I don’t like to be around people who are just so irresponsible.
+The psychic’s apartment|RULA|Get the hell out.
+The psychic’s apartment|action|Elaine leaving
+The psychic’s apartment|GEORGE|A plane crash? A Heart attack? Lupus? Is it Lupus?
+The psychic’s apartment|RULA|Do you want me to call the super? He was an Israeli commando.
+The psychic’s apartment|GEORGE|If you don’t say anything I will assume it’s a plane crash.
+The psychic’s apartment|RULA|Get out.
+The psychic’s apartment|GEORGE|Not a plane crash. (leaving) Is it a plane crash?
+Jerry’s apartment|GINA|I do not like your toothbrush. There are no bristles.
+Jerry’s apartment|JERRY|You can say what you want about me but I’ll be damned if I’m going to stand here while you insult my toothbrush.
+Jerry’s apartment|GINA|It is too small for someone with such a big mouth (kisses Kerry). Let me ask you. What will you do if Martine wakes up? Run away like a mouse?
+Jerry’s apartment|JERRY|No, more like the Three Stooges at the end of every movie.
+Jerry’s apartment|GINA|Who are these Stooges you speak of?
+Jerry’s apartment|JERRY|They’re a comedy team.
+Jerry’s apartment|GINA|Tell me about them. Everything.
+Jerry’s apartment|JERRY|Well, they’re three kind of funny looking guys and they hit each other a lot.
+Jerry’s apartment|GINA|You will show me The Stooges?
+Jerry’s apartment|JERRY|I will show you The Stooges.
+Jerry’s apartment|GINA|When?
+Jerry’s apartment|JERRY|Well, I don’t really know where The Stooges are right now but if I locate them you will be the first to know.
+Jerry’s apartment|GINA|Come, you walk me to a cab.
+Jerry’s apartment|JERRY|Well, uh, I uh, I don’t want you to get upset or anything but uh, with Martin and all, well maybe it’s not such a good idea for us to be seen together in the building, because, you know, he had a lot of friends here.
+Jerry’s apartment|GINA|You’re still afraid. You are not a man.
+Jerry’s apartment|JERRY|Well then what are all those ties and sport jackets doing in my closet?
+Jerry’s apartment|GINA|Are you going to walk me to a cab or not?
+Jerry’s apartment|JERRY|Yeah, all right. All right.
+Jerry’s apartment|action|Jerry and Gina meet Kramer and leaving his apartment with Newman
+Jerry’s apartment|KRAMER|You should just eat fruit.
+Jerry’s apartment|NEWMAN|I can’t eat fruit. It makes me incontinent.
+Jerry’s apartment|KRAMER|???
+Jerry’s apartment|NEWMAN|Hello Gina. Hello Jerry.
+Jerry’s apartment|JERRY|Hello Newman.
+Metropolitan Hospital Center - Hallway|JERRY|Do you think Newman would tell Martin if he wakes up? What kind of sicko would do that? He could kill me.
+Metropolitan Hospital Center - Hallway|GEORGE|People smoke, Elaine. My mother smoked. It didn’t hurt me.
+Metropolitan Hospital Center - Hallway|ELAINE|(jumps with fear to Jerry) Did you see that wall move?
+Metropolitan Hospital Center - Hallway|JERRY|Boy, it’s a good thing we came.
+Metropolitan Hospital Center - Hallway|GEORGE|Could there be a native p0roblem in the Caymans? Maybe there’s native unrest.
+Metropolitan Hospital Center - Hallway|ELAINE|Hi, I haven’t eaten in three days. I was wondering how much longer it would be until I get my X-ray.
+Metropolitan Hospital Center - Hallway|NURSE|We’ll call you.
+Metropolitan Hospital Center - Hallway|JERRY|George, I want you to promise me something. If I’m ever in a comma. In the first 24 hours get everything out of my apartment and put it in storage.
+Metropolitan Hospital Center - Hallway|GEORGE|How come?
+Metropolitan Hospital Center - Hallway|JERRY|Looters.
+Metropolitan Hospital Center - Hallway|ELAINE|How do we know that dog food is any good? Who tastes it?
+Metropolitan Hospital Center - Hallway|JERRY|She’s really hungry.
+Metropolitan Hospital Center - Hallway|action|Kramer enters
+Metropolitan Hospital Center - Hallway|KRAMER|Hey.
+Metropolitan Hospital Center - Hallway|ELAINE|Kramer
+Metropolitan Hospital Center - Hallway|KRAMER|Well, Newman’s upstairs visiting Martin.
+Metropolitan Hospital Center - Hallway|GEORGE|Would you buy my Cayman Island ticket?
+Metropolitan Hospital Center - Hallway|KRAMER|You’re not going?
+Metropolitan Hospital Center - Hallway|GEORGE|No.
+Metropolitan Hospital Center - Hallway|KRAMER|Why not?
+Metropolitan Hospital Center - Hallway|GEORGE|The psychic said something terrible will happen.
+Metropolitan Hospital Center - Hallway|KRAMER|I dig.
+Metropolitan Hospital Center - Martin’s room|KRAMER|I want my vacuum cleaner! I know you can hear me. Look my mother, she’s going to come and visit me. She sees that rug, she’s going to kill me.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|He can’t hear you, you idiot. Why don’t you just buy another one.
+Metropolitan Hospital Center - Martin’s room|KRAMER|Why would I buy another one when I spent a hundred bucks on this one?
+Metropolitan Hospital Center - Martin’s room|NEWMAN|I have a carpet sweeper you can use.
+Metropolitan Hospital Center - Martin’s room|KRAMER|I don’t want a carpet sweeper. They don’t do anything.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|It gets my rug clean.
+Metropolitan Hospital Center - Martin’s room|KRAMER|The carpet sweeper is the biggest scam perpetrated on the American public since One Hour Martinizing.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Well, you should take a look at my rug then.
+Metropolitan Hospital Center - Martin’s room|KRAMER|I wouldn’t set foot in your house.
+Metropolitan Hospital Center - Martin’s room|action|Jerry enters
+Metropolitan Hospital Center - Martin’s room|JERRY|Hello.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Hello Jerry.
+Metropolitan Hospital Center - Martin’s room|JERRY|How’s he doing?
+Metropolitan Hospital Center - Martin’s room|KRAMER|He looks happy to me.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|I hope he stays this happy when he wakes up.
+Metropolitan Hospital Center - Martin’s room|JERRY|Why wouldn’t he?
+Metropolitan Hospital Center - Martin’s room|NEWMAN|No reason.
+Metropolitan Hospital Center - Martin’s room|JERRY|He’ll have a lot of catching up to do, I guess.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|I’ll bring him up to date.
+Metropolitan Hospital Center - Martin’s room|JERRY|How up to date?
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Oh, all the way up.
+Metropolitan Hospital Center - Martin’s room|JERRY|And nothing could change your mind?
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Well, it would take a hell of a lot. Because a friend is something you earn.
+Metropolitan Hospital Center - Martin’s room|KRAMER|Okay, Jerry has a friend who has free tickets to the Cayman Islands for this weekend. He’s not going.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|I don’t care much for the beach. I freckle. . . . Is that a,..
+Metropolitan Hospital Center - Martin’s room|JERRY|Drake’s Coffee Cake
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Wow, where did you get that?
+Metropolitan Hospital Center - Martin’s room|JERRY|From my house. I got a whole box of them.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Boy, that’s the full size.
+Metropolitan Hospital Center - Martin’s room|JERRY|That’s your big boy.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Can I have a bite?
+Metropolitan Hospital Center - Martin’s room|JERRY|I don’t give out bites. I got another one. But I’m saving it for later.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Just one bite?
+Metropolitan Hospital Center - Martin’s room|JERRY|I don’t think so. You know they, they’re so fragile.
+Metropolitan Hospital Center - Martin’s room|NEWMAN|All right! All right. I won’t say anything.
+Metropolitan Hospital Center - Martin’s room|JERRY|You swear?
+Metropolitan Hospital Center - Martin’s room|NEWMAN|I swear.
+Metropolitan Hospital Center - Martin’s room|JERRY|On your mother’s life?
+Metropolitan Hospital Center - Martin’s room|NEWMAN|On my mother’s life.
+Metropolitan Hospital Center - Martin’s room|KRAMER|oh oh oh oh oh
+Metropolitan Hospital Center - Martin’s room|NEWMAN|Oooh,
+Metropolitan Hospital Center - Hallway|ELAINE|And there it was, mountains of duck. And not fatty duck either, but juicy tender breasts of duck.
+Metropolitan Hospital Center - Hallway|action|George sees the Psychic’s girl, Faisy and follows her into the Psychic’s room)
+Metropolitan Hospital Center - Hallway|GEORGE|…sweetheart, no come here, … sweetheart
+Metropolitan Hospital Center - Hallway|RULA|pew, pew, pew, pew (breathing)
+Metropolitan Hospital Center - Hallway|GEORGE|how did I know you were here? Something drew me here. This is phenomenal.
+Metropolitan Hospital Center - Hallway|RULA|The nurse said she would be right back. They’re supposed to take me into the delivery room.
+Metropolitan Hospital Center - Hallway|GEORGE|Oh, that’s great. That’s great. By the way I have to apologize for my friend the other day. Friend? Uh, uh I don’t even know that woman. I met her on the bus on the way over. I couldn’t get rid of her. Uh, My psychic instincts were a little off ..
+Metropolitan Hospital Center - Hallway|RULA|Oh, where’s the nurse
+Metropolitan Hospital Center - Hallway|GEORGE|I don’t know where the nurse is. Sweetheart why don’t you get a nurse for mommy? … Anyway I was just curious. Remember the other day you were saying something about my trip.
+Metropolitan Hospital Center - Hallway|RULA|Don’t take that trip.
+Metropolitan Hospital Center - Hallway|GEORGE|Yeah, why? Why?
+Metropolitan Hospital Center - Hallway|RULA|(screams) EEEY, beegit, beegit beegit.
+Metropolitan Hospital Center - Hallway|action|Doctor enters
+Metropolitan Hospital Center - Hallway|GEORGE|Because? Because?
+Metropolitan Hospital Center - Hallway|action|Elaine enters Martins room
+Metropolitan Hospital Center - Hallway|ELAINE|Assassins! How dare they keep a person waiting like this! … Drake’s Coffee Cake? … Give me that.
+Metropolitan Hospital Center - Hallway|NEWMAN|Jerry, you better stop her or I’ll tell.
+Metropolitan Hospital Center - Hallway|JERRY|Elaine! No! No!
+Metropolitan Hospital Center - Hallway|MARTIN|Ooooh, ahhhh,
+Metropolitan Hospital Center - Hallway|action|In hallway as they wheel Rula to give birth
+Metropolitan Hospital Center - Hallway|GEORGE|Are there terrorists on the plane? A hotel fire. Is that it? Malaria? Yellow fever? Lupus? Is it Lupus?
+Metropolitan Hospital Center - Hallway|action|Martin’s room – Martin grabbing Jerry – Elaine eating the Drake’s Coffee Cake
+Metropolitan Hospital Center - Hallway|NEWMAN|He did it right in this bed, Martin. Right in front of you.
+Metropolitan Hospital Center - Hallway|KRAMER|I want my vacuum cleaner!
+Metropolitan Hospital Center - Hallway|JERRY|Hey!
+Metropolitan Hospital Center - Hallway|NEWMAN|It was disgusting.
+Jerry’s apartment|JERRY|What are you doing? We’re going out to dinner in ten minutes.
+Jerry’s apartment|GEORGE|I never assisted in a birth before. It’s really quite disgusting.
+Jerry’s apartment|JERRY|What did she name the kid?
+Jerry’s apartment|GEORGE|You wouldn’t believe it. Rasputin.
+Jerry’s apartment|action|Kramer enters
+Jerry’s apartment|KRAMER|Heey!
+Jerry’s apartment|GEORGE|Hey.
+Jerry’s apartment|JERRY|Hey.
+Jerry’s apartment|GEORGE|when did you get back?
+Jerry’s apartment|KRAMER|A couple of hours ago.
+Jerry’s apartment|GEORGE|So how was it?
+Jerry’s apartment|KRAMER|George, I would like to thank you for the greatest four days I ever spent in my life.
+Jerry’s apartment|JERRY|osh.
+Jerry’s apartment|KRAMER|They were shooting the Sports Illustrated swim suit issue right in the hotel pool.
+Jerry’s apartment|JERRY|Woah. (hitting George)
+Jerry’s apartment|KRAMER|Not only that but at the hotel they opened up this area on the beach for nude bathing and all of the Sports Illustrated models went down there.
+Jerry’s apartment|JERRY|Wow! (hitting George)
+Jerry’s apartment|KRAMER|I was on the next blanket from Elle McPherson
+Jerry’s apartment|JERRY|Oh! (hitting George)
+Jerry’s apartment|KRAMER|We played Backgammon in the nude.
+Jerry’s apartment|JERRY|Oh! (hitting George)
+Jerry’s apartment|KRAMER|She’s a sweet kid.
+Jerry’s apartment|JERRY|Nude backgammon with swimsuit models!
+Jerry’s apartment|KRAMER|Oh, you know what? The second day I was there I stepped on a jellyfish. Now it kind of stung my foot. That’s probably what Rula was trying to warn you about.
+Jerry’s apartment|GEORGE|Yeah, you gotta’ watch for the jellyfish.
+Jerry’s apartment|KRAMER|Yeah.
+Jerry’s apartment|KRAMER|What’s this?
+Jerry’s apartment|JERRY|Oh, it’s an invitation to a house warming from Martin and Gina.
+Jerry’s apartment|KRAMER|They moved in together?
+Jerry’s apartment|JERRY|Yeah, it’s some place down in the village.
+Jerry’s apartment|KRAMER|Phew.
+Jerry’s apartment|action|buzzer
+Jerry’s apartment|JERRY|Yeah.
+Jerry’s apartment|ELAINE|It’s Elaine.
+Jerry’s apartment|JERRY|All right we’re coming down.
+Jerry’s apartment|KRAMER|Hey, where ya’ going?
+Jerry’s apartment|JERRY|We’re taking Elaine to dinner. She’s got to start the fast again. Um, you want to go?
+Jerry’s apartment|KRAMER|Um, I’d like to but a bunch of us from the islands, we’ll be getting together.
+Jerry’s apartment|GEORGE|Elle McPherson going to be there?
+Jerry’s apartment|KRAMER|OH! I got to call her back.
+Jerry’s apartment|action|Kramer exits

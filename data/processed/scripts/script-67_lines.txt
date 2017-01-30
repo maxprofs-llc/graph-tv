@@ -1,0 +1,340 @@
+Jerry's apartment|action|Elaine and Jerry hang out the window
+Jerry's apartment|ELAINE|Do you ever spit on anybody from here?
+Jerry's apartment|JERRY|No. You?
+Jerry's apartment|ELAINE|No. Do you ever think about it?
+Jerry's apartment|JERRY|Yeah.
+Jerry's apartment|ELAINE|Me too.
+Jerry's apartment|action|Kramer enters the apartment
+Jerry's apartment|KRAMER|Hey.
+Jerry's apartment|JERRY|Hey.
+Jerry's apartment|KRAMER|Well I got it!
+Jerry's apartment|JERRY|You got me the air conditioner?
+Jerry's apartment|KRAMER|What do you think?
+Jerry's apartment|JERRY|Beautiful!
+Jerry's apartment|ELAINE|What air conditioner?
+Jerry's apartment|KRAMER|Well my buddy works in an appliance store and he got us thirty percent off.
+Jerry's apartment|JERRY|Is it a good one?
+Jerry's apartment|KRAMER|Good one? It's the Commando 8.
+Jerry's apartment|JERRY|Commando 8?
+Jerry's apartment|KRAMER|12,000 BTU's.
+Jerry's apartment|ELAINE|I thought you hated air conditioning. You've never had an air conditioner.
+Jerry's apartment|KRAMER|Yeah, but Amy likes air conditioning.
+Jerry's apartment|ELAINE|Oooh, you're getting an air conditioner for Amy. (In a wining voice:) Amy doesn't like the temperature up here. She's a little hoooot.
+Jerry's apartment|JERRY|All right.
+Jerry's apartment|KRAMER|Okay, so, I'm gonna measure the window up, okay buddy?
+Jerry's apartment|JERRY|Yeah.
+Jerry's apartment|KRAMER|Yeah. (George enters the apartment wearing goggles) Yeah, rock on!
+Jerry's apartment|action|Kramer leaves the apartment
+Jerry's apartment|GEORGE|I gotta get out of this city.
+Jerry's apartment|JERRY|So you're tunneling to the center of the Earth? (Elaine laughs silently)
+Jerry's apartment|GEORGE|I'm at the health club and while I'm in the pool, some guy walks off with my glasses. Who steals prescription glasses?
+Jerry's apartment|ELAINE|You don't have an old pair?
+Jerry's apartment|GEORGE|I broke 'em playing basketball.
+Jerry's apartment|JERRY|He was running from a bee. (Elaine laughs)
+Jerry's apartment|GEORGE|Now if I wanna see anything I gotta wear these.
+Jerry's apartment|ELAINE|George, those are prescription goggles? What is there to see in a health club pool?
+Jerry's apartment|JERRY|There's a lot of change down there.
+Jerry's apartment|GEORGE|When I find that guy, this much I vow: those glasses will be returned to their rightful owner.
+Jerry's apartment|JERRY|We're behind you, Aquaboy. Godspeed!
+Jerry's apartment|action|Kramer enters the apartment
+Jerry's apartment|GEORGE|What kind of a sick, demented person wants another person's glasses?
+Jerry's apartment|ELAINE|Yeah, especially those frames.
+Jerry's apartment|KRAMER|You know what you ought to do? Go see my friend Dwayne at J & T Optical on Columbus Avenue. He'll give you thirty percent off.
+Jerry's apartment|GEORGE|Yeah, come on.
+Jerry's apartment|JERRY|Hey, he just got me thirty percent off on an air conditioner.
+Jerry's apartment|GEORGE|Really?
+Jerry's apartment|KRAMER|Retail is for suckers.
+Jerry's apartment|GEORGE|Wow. Uh, what do I have to do?
+Jerry's apartment|KRAMER|You just gotta mention my name.
+Jerry's apartment|GEORGE|That's it?
+Jerry's apartment|KRAMER|That's it. (smacks George on the forehead with a ruler)
+J & T Optical|action|George tries on a pair of glasses
+J & T Optical|GEORGE|What about these?
+J & T Optical|ELAINE|They look good. I liked the other one too. I've liked about five of them.
+J & T Optical|GEORGE|Well, it's a tough decision. I have to wear these every day. I'm deciding on a new face.
+J & T Optical|JERRY|(bored) Come on, George. Pick a face and go with it.
+J & T Optical|action|George tries on some black glasses whose frames are OVERLY large
+J & T Optical|ELAINE|Now those look good, they're very bold.
+J & T Optical|action|Elaine begs George behind his back to pick a frame
+J & T Optical|GEORGE|Yes, they are bold. Jerry, what do you think?
+J & T Optical|JERRY|(While looking at posters of women wearing glasses) I think these women would be pretty good looking if they weren't wearing glasses.
+J & T Optical|action|A man with a dog enters the store
+J & T Optical|ELAINE|Hi there, little doggy. (to owner:) Do you mind if I pet your dog?
+J & T Optical|ELAINE|Hey little doggy. (Elaine pets the dog and he bites her) Aaah!
+J & T Optical|DWAYNE|Hey, you can't have that dog in here.
+J & T Optical|action|The man leaves the store taking his dog with him
+J & T Optical|JERRY|Are you okay? Did he bite ya?
+J & T Optical|GEORGE|Can you believe that guy?
+J & T Optical|ELAINE|I'm okay, it's just a nip.
+J & T Optical|GEORGE|He just walked away! And once again I'm standing here like a little man. Well not this time! (George leaves the store and follows the dog owner) You! Dog man!
+J & T Optical|action|George, without his glasses, squints and it looks like he sees something interesting. He enters the store again
+J & T Optical|ELAINE|My leg looks pretty bad.
+J & T Optical|JERRY|Oh I'm gonna take you over to the emergency room.
+J & T Optical|ELAINE|Okay.
+J & T Optical|JERRY|(To George:) Hey, any luck? Did you catch 'em?
+J & T Optical|GEORGE|Uuh, no, no.
+J & T Optical|JERRY|All right, I'm gonna take Elaine over to the hospital.
+J & T Optical|GEORGE|(In a really strange way) Good, good, do that.
+J & T Optical|JERRY|What's the matter?
+J & T Optical|GEORGE|Oh, no, nothing.
+J & T Optical|JERRY|What is it?
+J & T Optical|GEORGE|I can't tell you.
+J & T Optical|ELAINE|(pulling on Jerry's pants from the ground) Jerry, can we go?
+J & T Optical|JERRY|Yeah, yeah, in a second, in a second. (And to George:) What do you mean you can't tell me?
+J & T Optical|GEORGE|I can't tell you, don't ask.
+J & T Optical|JERRY|I'm asking!
+J & T Optical|ELAINE|Jerry, my leg.
+J & T Optical|JERRY|Yeah, yeah, take care of it. (Jerry throws her some toilet paper) Come on, George, what is it?
+J & T Optical|GEORGE|I saw Amy making out with your cousin Jeffrey.
+J & T Optical|JERRY|What?
+J & T Optical|GEORGE|They were right outside!
+J & T Optical|JERRY|Amy and Jeffrey?
+J & T Optical|GEORGE|Yes!
+J & T Optical|JERRY|Are you sure?
+J & T Optical|GEORGE|Yes, positive.
+J & T Optical|JERRY|But you can't see, there's no lenses in those frames.
+J & T Optical|GEORGE|I know! I was squinting.
+J & T Optical|ELAINE|Okay, listen, Jerry, you just catch up with me okay? You can just follow the trail of blood.
+J & T Optical|JERRY|We're gonna have to talk about this later. (Elaine holds the door open for Jerry while holding her leg) Thank you. Taxi!
+J & T Optical|action|Jerry and Elaine leave the store; George tries on another pair of glasses
+J & T Optical|GEORGE|(To the store owner:) Excuse me, what do you think of these?
+J & T Optical|DWAYNE|Oh, we just got those in. It's a very exciting new frame.
+J & T Optical|GEORGE|Yes, it is exciting! All right, this is gonna be my new face.
+J & T Optical|DWAYNE|All right, do you have a prescription?
+J & T Optical|GEORGE|Yeah. (George hands over the prescription) Kramer...
+J & T Optical|DWAYNE|What?
+J & T Optical|GEORGE|Kramer...
+J & T Optical|DWAYNE|What about him?
+J & T Optical|GEORGE|You do know Kramer?
+J & T Optical|DWAYNE|Yes...
+J & T Optical|GEORGE|Well, I'm mentioning his name.
+J & T Optical|DWAYNE|Why?
+J & T Optical|GEORGE|Because... you know...
+J & T Optical|DWAYNE|No, I don't know. Look, I'm gonna need a deposit on these.
+Hospital|action|Elaine and Jerry are at the hospital; Elaine's wound is being fixed up by a foreign doctor
+Hospital|ELAINE|Oh, come on. Cousin Jeffrey? It's not possible!
+Hospital|JERRY|Why not? They could have met. She loves the park, he works for the Parks Department.
+Hospital|ELAINE|Jerry, that is so ridiculous. But, George didn't even have his glasses on!
+Hospital|JERRY|But he was squinting.
+Hospital|ELAINE|So what? Squinting doesn't make that much of a difference.
+Hospital|JERRY|Are you kidding? I've seen 'em squint. He can squint his way down to like twenty, thirty vision. Once we were driving down from the Catskills and he lost his glasses. He squinted his way from Wortsborough down to the Tappan Zee Bridge! He was spotting raccoons, on the road!
+Hospital|DOCTER|Okay.
+Hospital|ELAINE|Okay? That's it? I don't need a shot?
+Hospital|DOCTER|Not shot, dog bite.
+Hospital|ELAINE|No, no, no. I know I wasn't shot. Do I need a shot?
+Hospital|DOCTER|Not shot, dog bite. Woof woof, not bang bang.
+Hospital|action|the doctor exits the hospital room; Jerry and Elaine are shocked
+Jerry's apartment|action|Jerry and Amy watch television
+Jerry's apartment|JERRY|Nah, look at this. Cable's out.
+Jerry's apartment|AMY|Oh that's okay, we don't have to watch tv.
+Jerry's apartment|JERRY|No, no, no. No trouble at all, it's a principal the thing. (Jerry picks up the phone and dials the number) I like them to know that I know what's going on. That they're not... getting away with anything. Oh, I'm on hold. So, what did you do yesterday?
+Jerry's apartment|AMY|Yesterday?
+Jerry's apartment|JERRY|Yeah, you remember yesterday? Beautiful day... good day to be... out.
+Jerry's apartment|AMY|I didn't do anything.
+Jerry's apartment|JERRY|(laughing) Oh you must have done something.
+Jerry's apartment|AMY|No, nothing really.
+Jerry's apartment|JERRY|Didn't go out of the house? Didn't take a walk... on Columbus Avenue?
+Jerry's apartment|AMY|Well, I did go out for a little while.
+Jerry's apartment|JERRY|Well, your day's getting more interesting already. (Jerry shows the phone) Ah, see, told me they'd be back in a minute and THEY lied.
+Jerry's apartment|AMY|You can't thrust anyone.
+Jerry's apartment|JERRY|No you can't. (hangs up the phone) Now let's cut the ball, sister! You think I don't know about you swapping spit with somebody yesterday on Columbus Avenue?
+Jerry's apartment|AMY|What are you talking about?
+Jerry's apartment|JERRY|Look, my friend saw you.
+Jerry's apartment|AMY|Saw me? With who?
+Jerry's apartment|JERRY|You tell me.
+Jerry's apartment|AMY|There's nothing to tell.
+Jerry's apartment|JERRY|There isn't?
+Jerry's apartment|AMY|No.
+Jerry's apartment|JERRY|Oh... all right... wanna get some pizza?
+Jerry's apartment|action|Amy stands up and walks away
+Jerry's apartment|AMY|I had a feeling this was to good to be true.
+Jerry's apartment|JERRY|Why?
+Jerry's apartment|AMY|I knew there had to be another side to you.
+Jerry's apartment|JERRY|No, no, there's no side!
+Jerry's apartment|AMY|There is a side, an ugly side.
+Jerry's apartment|JERRY|No, no, no ugly side.
+Jerry's apartment|AMY|Look, I think I'm gonna go.
+Jerry's apartment|JERRY|Why?
+Jerry's apartment|AMY|It's really hot in here.
+Jerry's apartment|JERRY|Uuh, so we can still go out on Friday though?
+Jerry's apartment|AMY|Yeah. When you getting an air conditioner?
+Jerry's apartment|JERRY|It's coming! It's a Commando 8! 12.000 BTU's! It's gonna be like a meat locker in here.
+Jerry's apartment|JERRY|I was an idiot for listening to you!
+Jerry's apartment|GEORGE|Hey, I saw what I saw.
+Jerry's apartment|JERRY|Ooh, everything was going so well. She hadn't seen any flaws in me. Now she sees a side.
+Jerry's apartment|GEORGE|What side?
+Jerry's apartment|JERRY|A bad side, an ugly side.
+Jerry's apartment|GEORGE|Ooh, so what?
+Jerry's apartment|JERRY|So what? I wasn't planning on showing that side for another six months. Now you make me throw off the whole learning curve.
+Jerry's apartment|GEORGE|Why don't you just ask Jeffrey?
+Jerry's apartment|JERRY|Ah, he'd just deny it.
+Jerry's apartment|GEORGE|There must be some way to find out.
+Jerry's apartment|JERRY|Amy said nothing happened.
+Jerry's apartment|GEORGE|What, you're gonna take her word over mine? I'm your best friend!
+Jerry's apartment|JERRY|Yeah, but you're blind as a bat!
+Jerry's apartment|GEORGE|I was squinting! Remember that drive from Wortsborough? (snapping his fingers) I was spotting those raccoons.
+Jerry's apartment|JERRY|They were mailboxes, you idiot. I didn't have the heart to tell you.
+Jerry's apartment|GEORGE|(noticing something) Hey look, a dime.
+Jerry's apartment|action|George walks over to the other end of the room and picks up a dime
+Jerry's apartment|GEORGE|Heh, Mercury head. You mind?
+Jerry's apartment|JERRY|(Stunned:) No, keep it. (Elaine enters the apartment) Hey what happened to you? You buzzed five minutes ago.
+Jerry's apartment|ELAINE|There was a dog in front of the building and it spooked me. I couldn't come in until he left.
+Jerry's apartment|JERRY|A little white dog?
+Jerry's apartment|ELAINE|Yeah.
+Jerry's apartment|JERRY|Snowball? You were afraid of Snowball?
+Jerry's apartment|ELAINE|I'm afraid of dogs now.
+Jerry's apartment|JERRY|He's like a squirrel.
+Jerry's apartment|ELAINE|Well he frightened me.
+Jerry's apartment|GEORGE|Did you get the shot?
+Jerry's apartment|ELAINE|No. He said I didn't need a shot.
+Jerry's apartment|GEORGE|You got bit by a strange dog and you didn't get a rabies shot?
+Jerry's apartment|ELAINE|What, you think I should have?
+Jerry's apartment|action|George indicates 'yes'
+Jerry's apartment|JERRY|You know, you should just go back to the optical store and ask Dwayne if he knows the name of the owner of the dog.
+Jerry's apartment|ELAINE|All right, that's a good idea. I'm gonna do that.
+Jerry's apartment|action|Kramer enters the apartment
+Jerry's apartment|KRAMER|The AC is on it's way.
+Jerry's apartment|GEORGE|Pardon me, I went to see your friend Dwayne... there was no discount.
+Jerry's apartment|KRAMER|What?
+Jerry's apartment|GEORGE|That's right, no discount!
+Jerry's apartment|KRAMER|Well did you mention my name?
+Jerry's apartment|GEORGE|Yes, I mentioned your name.
+Jerry's apartment|KRAMER|And?
+Jerry's apartment|GEORGE|Pbbbs, Bubkis!
+Jerry's apartment|KRAMER|Now I don't believe this. That guy owes me big time. I got him off sugar! Look, I'm gonna go down there with you right now.
+Jerry's apartment|GEORGE|All right, let me just... I'm gonna grap an apple.
+Jerry's apartment|JERRY|Hey, Kramer, Elaine's afraid of Snowball!
+Jerry's apartment|KRAMER|Little Snowball? He runs on batteries!
+Jerry's apartment|action|George takes a bite out of an onion
+Jerry's apartment|ELAINE|You know, George, that's an onion.
+Jerry's apartment|GEORGE|Yes it is.
+Jerry's apartment|action|And he takes another bite
+Jerry's apartment|ELAINE|He couldn't tell an apple from an union and he's your eye witness?
+Jerry's apartment|GEORGE|I saw them making out, you can believe it.
+Jerry's apartment|JERRY|I don't know what to believe! You're eating unions, you're spotting dimes, I don't know what the hell is going on.
+Jerry's apartment|KRAMER|Look, all you gotta to do, is get Amy and Jeffrey together somewhere, that's it.
+Jerry's apartment|JERRY|Hey wait a second, wait a second. I'm going over to Jeffrey's apartment tomorrow night to pick up these Paul Simon tickets. I'm gonna surprise Amy. All I gotta do is bring her with me. And then when Jeffrey opens the door, it's Howdy Doody time.
+Jerry's apartment|KRAMER|Right this way, mister Doody!
+Jerry's apartment|GEORGE|(crying from the onion) You'll see I'm right.
+J & T Optical|KRAMER|Hey, Dwayny.
+J & T Optical|DWAYNE|Oh hello Kramer.
+J & T Optical|KRAMER|What is going on here?
+J & T Optical|DWAYNE|What are you talking about?
+J & T Optical|KRAMER|I'm talking about the thirty percent discount.
+J & T Optical|ELAINE|Uhm excuse me... uh... a man came in here...
+J & T Optical|GEORGE|Elaine, don't interrupt, they're discounting something.
+J & T Optical|DWAYNE|Who said anything about a discount.
+J & T Optical|KRAMER|Ooh, how quickly we forget. You owe me buddy.
+J & T Optical|DWAYNE|For what?
+J & T Optical|action|Kramer pulls out a candy bar
+J & T Optical|KRAMER|Remember this?
+J & T Optical|DWAYNE|What are you doing?
+J & T Optical|KRAMER|Six months ago you were eating four of those for breakfast and chasing it with a ring ding. And two butter fingers on the train. Sounds familiar?
+J & T Optical|DWAYNE|Put that away!
+J & T Optical|KRAMER|Remember that night I found you at Dinky Donuts? You were all *hopped* up on cinnamon swirls! They wouldn't serve you anymore! You wouldn't even have any teeth if it wasn't for me taking you over to Joe's fruit stand and stuffin' cantaloupe down your throat! So much for gratitude... yeah, yeah, yeah!
+J & T Optical|DWAYNE|All right, all right, all right! I'll give him the discount, just put that thing away! This squares us.
+J & T Optical|ELAINE|Can I just have the name...
+J & T Optical|DWAYNE|Out!
+J & T Optical|KRAMER|We'll see you Dwayne.
+Jerry's apartment|action|George shows Jerry his glasses
+Jerry's apartment|JERRY|I don't know what to tell you, Elton.
+Jerry's apartment|ELAINE|(While reading a book:) Oh oh, listen to this, this is not good, listen to these symptoms for rabies: anxiety, irritability. I got those, I'm irritable!
+Jerry's apartment|JERRY|(To George:) Who picked these out?
+Jerry's apartment|GEORGE|I did!
+Jerry's apartment|JERRY|They're ladies' glasses! You know all you need is that little chain around your neck so you can wear 'em while you're playing Canasta.
+Jerry's apartment|GEORGE|Well Elaine was supposed to help me.
+Jerry's apartment|action|Elaine runs over to George and starts screaming
+Jerry's apartment|ELAINE|Hey! I got bit by a dog! I had to go to the hospital! I was bleeding to death! I can't solve every little problem you have!
+Jerry's apartment|JERRY|Hey, hey.
+Jerry's apartment|ELAINE|I'm sorry... sorry.
+Jerry's apartment|action|Kramer enters the apartment with the air conditioner in his arms
+Jerry's apartment|KRAMER|Commando 8 has arrived!
+Jerry's apartment|JERRY|Take it to the window.
+Jerry's apartment|KRAMER|12.000 BTU's of raw cooling power. (Kramer places the air conditioner in the window) Installed!
+Jerry's apartment|GEORGE|That's it? You don't have to screw it in or anything?
+Jerry's apartment|KRAMER|No, just plug it in and the Commando 8 does the rest. (And to Jerry:) I'll seal that up later, right?
+Jerry's apartment|JERRY|Just in time for Amy.
+Jerry's apartment|GEORGE|Oh yeah, when are you gonna execute that plan?
+Jerry's apartment|ELAINE|I've got such a headache. Oh, that's another symptom!
+Jerry's apartment|KRAMER|Of what?
+Jerry's apartment|JERRY|Rabies.
+Jerry's apartment|KRAMER|Oh that's fatal, you don't want that!
+Jerry's apartment|action|Elaine runs over to Kramer and starts screaming again
+Jerry's apartment|ELAINE|I know I don't want it! I don't need you to tell me what I don't want, you stupid hipster dufus!
+Jerry's apartment|JERRY|Hey, hey, what is this? What's going on here?
+Jerry's apartment|ELAINE|I'm sorry, Kramer, I'm sorry.
+Jerry's apartment|KRAMER|No, no, it's all right. I had a friend who had rabies once. (George's eating chips) May I have one of those, madam?
+Jerry's apartment|GEORGE|Madam? What are you calling me madam for?
+Jerry's apartment|KRAMER|They're ladies' glasses.
+Jerry's apartment|action|Kramer takes George's glasses and shows him the inside
+Jerry's apartment|KRAMER|Now look here, see it's right here: Gloria Vanderbilt Collection.
+Jerry's apartment|GEORGE|He sold me ladies' glasses!
+Jerry's apartment|ELAINE|I... I think I'm... I'm having trouble swallowing. I can't... I can't swallow.
+Jerry's apartment|KRAMER|She's got rabies, just like my friend Bob Sacamano. She's delirious. (Elaine drinks some water and drools) She's foaming at the mouth!
+Hospital|ELAINE|Is this gonna hurt?
+Hospital|DOCTER|Yes, very much.
+Hospital|action|Elaine gets the shot
+Jerry's apartment|ELAINE|What if Jeffrey's not home. Did you ever think of that?
+Jerry's apartment|JERRY|Oh he'll be home, it's Friday night. That's the big night on the Nature Channel.
+Jerry's apartment|ELAINE|Let me tell you this: there is no way cousin Jeffrey is dating Amy. He looks like a horse!
+Jerry's apartment|JERRY|He does look like a horse.
+Jerry's apartment|ELAINE|Yeah, he's got a real horse face. (Elaine, while looking out the window:) Here, look at this! It's the guy with the dog! (She opens the window and screams:) Hey! Hey! You down there! Remember me? I had to get shot because of your stupid dog!
+Jerry's apartment|JERRY|Hey, shall we spit on him?
+Jerry's apartment|ELAINE|No no no no, come on, let's go downstairs.
+Jerry's apartment|action|Kramer enters the apartment
+Jerry's apartment|KRAMER|(Singing:) Oh myyyy papayaaaa. (The air conditioner wobbles) The air conditioner! (Kramer tries to keep it from falling by holding it's cord, but it snaps) I think it got the dog!
+New York Health Club's locker room|action|George is drying himself
+New York Health Club's locker room|GEORGE|Ah, Oh boy.
+New York Health Club's locker room|GEORGE|Oh uuh, sure, why not. (the blind man hangs on to George's arm) Hey, that's the guy.
+New York Health Club's locker room|GEORGE|The guy that stole my glasses. This time I got 'em! (George follows the man onto the street, dragging the blind man with him) Would you pick it up a little?
+New York Health Club's locker room|GEORGE|He's getting on a bus, damn! (To the blind man:) Those are nice glasses.
+New York Health Club's locker room|GEORGE|Is that right?
+J & T Optical|action|George has taken the blind man with him
+J & T Optical|GEORGE|Dwayne, my friend and I would like to exchange frames. Could you put his lenses in my frames and mine in his?
+J & T Optical|DWAYNE|(While eating a candy bar:) Yeah, we can do that.
+J & T Optical|GEORGE|And I'd like a discount.
+J & T Optical|DWAYNE|Why should I give you a discount.
+J & T Optical|GEORGE|Listen, you're lucking I'm not asking for a whole refund. (trying to speak quietly) You gave me ladies' frames!
+J & T Optical|action|The man with the dog enters and the dog wears a collar
+J & T Optical|GEORGE|Yeah, well, she's trying to track you down.
+J & T Optical|GEORGE|No, that's Jerry.
+J & T Optical|GEORGE|Yeah, 5A!
+in front of Jeffrey's apartment|AMY|So what are we doing here?
+in front of Jeffrey's apartment|JERRY|Oh, you'll find out.
+in front of Jeffrey's apartment|AMY|I don't know, you're acting very mysteriously.
+in front of Jeffrey's apartment|JERRY|Well, I'm very mysterious by nature. (Jerry knocks on the door) A lot of women find that attractive.
+in front of Jeffrey's apartment|AMY|I find it annoying.
+in front of Jeffrey's apartment|JERRY|Oh?
+in front of Jeffrey's apartment|action|Uncle Leo opens the door
+in front of Jeffrey's apartment|JERRY|Uncle Leo?!
+in front of Jeffrey's apartment|JERRY|This is Amy.
+in front of Jeffrey's apartment|JERRY|Unlce Leo, what are you doing here?
+in front of Jeffrey's apartment|JERRY|Ooh! Very convenient.
+in front of Jeffrey's apartment|JERRY|Oh really?
+in front of Jeffrey's apartment|JERRY|Uncle Leo! Did he leave any tickets here for me?
+in front of Jeffrey's apartment|JERRY|Thank you.
+in front of Jeffrey's apartment|AMY|What tickets?
+in front of Jeffrey's apartment|JERRY|To the Paul Simon concert in the park!
+in front of Jeffrey's apartment|AMY|We're going to the Paul Simon concert?
+in front of Jeffrey's apartment|JERRY|That's right, lady!
+in front of Jeffrey's apartment|AMY|Oh what a great surprise!
+in front of Jeffrey's apartment|JERRY|I thought you'd like that.
+in front of Jeffrey's apartment|AMY|Oooh, so that's why you've been acting so mysteriously.
+in front of Jeffrey's apartment|JERRY|Now you know. That, and that alone, is the reason.
+in front of Jeffrey's apartment|AMY|Why is that?
+in front of Jeffrey's apartment|JERRY|Thank you.
+in front of Jeffrey's apartment|JERRY|(To Amy:) Aha! So it's true! You were making out with him!
+in front of Jeffrey's apartment|AMY|What are you talking about, I don't know Jeffrey. Oh so this is why you brought me up here?
+in front of Jeffrey's apartment|JERRY|Oh very convincing, but it's not gonna work this time.
+in front of Jeffrey's apartment|JERRY|Oh... oh... wanna get some pizza?
+in front of J & T Optical|action|George is walking with the blind man
+in front of J & T Optical|GEORGE|Boy, these really do pinch the nose.
+in front of J & T Optical|action|George takes of his glasses
+in front of J & T Optical|action|George looks and see what he thinks is Amy and Jeffrey without his glasses
+in front of J & T Optical|GEORGE|Oh my God it is them.
+in front of J & T Optical|action|George puts on his glasses again and sees it's a policewoman kissing a horse; realizing this George's reaction says "I stand corrected"
+New York Health Club locker room|action|George and Jerry after a workout
+New York Health Club locker room|JERRY|I still don't know how you spotted that dime. I think you planted it. Plus I had to pay that vet bill for the stupid dog. I don't know how that guy got my name.
+New York Health Club locker room|action|While Jerry goes to tie his shoes George nods his head knowing it was him
+New York Health Club locker room|GEORGE|Yeah. Hmm. Boy these really do pinch. I tell you, if I ever find the son of a bitch that stole my glasses...
+New York Health Club locker room|action|The camera shows George's glasses on top of his locker

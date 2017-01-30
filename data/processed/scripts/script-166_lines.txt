@@ -1,0 +1,397 @@
+Setting: Tim Whatley's apartment|ELAINE|So.. Whatley's still Jewish, huh?
+Setting: Tim Whatley's apartment|JERRY|Oh, sure. With out the parents, it's a breeze.
+Setting: Tim Whatley's apartment|action|Elaine laughs, Whatley enters
+Setting: Tim Whatley's apartment|TIM|Hey! Happy Chanukah!
+Setting: Tim Whatley's apartment|JERRY|Hey, Tim. Great party.
+Setting: Tim Whatley's apartment|action|Tim holds up a mistletoe
+Setting: Tim Whatley's apartment|TIM|(Suggesting a kiss to Elaine) eh?
+Setting: Tim Whatley's apartment|ELAINE|(Shrugging it off) eh.
+Setting: Tim Whatley's apartment|TIM|(Accepting) Oh. (Turns to George) Hey, George, thanks again for getting me those Yankee tickets.
+Setting: Tim Whatley's apartment|GEORGE|Oh, yeah. Still in good with the ground crew. (Laghs)
+Setting: Tim Whatley's apartment|TIM|(Notices a woman walking by) Oh, hey, listen, I'd better circulate.. (moving over to the woman) Happy Chanukah, Tiffany! (they both move off camera)
+Setting: Tim Whatley's apartment|ELAINE|This place is like Studio 54 with a menorah.
+Setting: Tim Whatley's apartment|GEORGE|I'm gonna get some more of these kosher cocktail franks.. (leaves)
+Setting: Tim Whatley's apartment|ELAINE|Oh.. (sees a guy looking at her) I got denim vest checking me out. (laughs) Fake phone number's coming out tonight.
+Setting: Tim Whatley's apartment|JERRY|You have a standard fake?
+Setting: Tim Whatley's apartment|ELAINE|Mm-hmm.
+Setting: Tim Whatley's apartment|JERRY|(Notices an attractive woman walking by, starts to follow her) That's neat.
+Setting: Tim Whatley's apartment|ELAINE|(Holds onto Jerry's arm) No, please! Denim vest! He's smoothing it! Jerry! God! (Jerry excapes Elaine's grasp, moves over to the woman. The man wearing a denim vest moves over to Elaine.)
+Setting: Tim Whatley's apartment|action|Scene cuts to Jerry talking to the woman
+Setting: Tim Whatley's apartment|JERRY|Hi, I'm Jerry.
+Setting: Tim Whatley's apartment|WOMAN|Hi. JERRY: You might not know it to look at me, but I can run really, really fast.
+Setting: Tim Whatley's apartment|action|Scene cuts to Elaine
+Setting: Tim Whatley's apartment|ELAINE|Nice vest. I like the.. big metal buttons
+Setting: Tim Whatley's apartment|ELAINE|Why don't I give you my phone number?
+Setting: Coffee Shop|action|George enters
+Setting: Coffee Shop|GEORGE|Hey.
+Setting: Coffee Shop|JERRY|Hey! How'd it go with the cocktail franks?
+Setting: Coffee Shop|GEORGE|Great! I ate the entire platter! Had to call in sick today.
+Setting: Coffee Shop|JERRY|Didn't you call in sick yesterday?
+Setting: Coffee Shop|GEORGE|Hey, I work for Kruger Industrial Smoothing: "We don't care, and it shows."
+Setting: Coffee Shop|JERRY|(Notices George brought hhis mail) You're gonna open your mail here?
+Setting: Coffee Shop|GEORGE|Hey, at least I'm bringing something to this. (Starts flipping through envelopes, reads one ) "Have you seen me?" (Flicks it aside) Nope. (looks at next envelope) Woah, something from Whatley.
+Setting: Coffee Shop|JERRY|See? You give, and you get.
+Setting: Coffee Shop|GEORGE|(Reading the card from Whatley) "This holiday season a donation has been made in your name to the Children's Alliance."?
+Setting: Coffee Shop|JERRY|Oh, that's nice.
+Setting: Coffee Shop|GEORGE|I got him Yankee's tickets! He got me a piece of paper saying "I've given your gift to someone else!"
+Setting: Coffee Shop|JERRY|To a children's charity!
+Setting: Coffee Shop|GEORGE|Don't you see how wrong that is?! Where's your Christmas spirit? And eye for an eye!
+Setting: Coffee Shop|action|Elaine enters
+Setting: Coffee Shop|ELAINE|Hey!
+Setting: Coffee Shop|JERRY|Hey.
+Setting: Coffee Shop|action|Waitress moves tward the table
+Setting: Coffee Shop|ELAINE|(To waitress) Oh, nothing for me. (Waitress leaves) I'm going to "Atomic Sub" later.
+Setting: Coffee Shop|JERRY|"Atomic Sub"? Why are you eating there?
+Setting: Coffee Shop|ELAINE|I got a card, and they stamp it every time I buy a sub. 24 stamps, and I become a submarine (makes a gesture) captain.
+Setting: Coffee Shop|JERRY|What does that mean?
+Setting: Coffee Shop|ELAINE|(Embarrassed) Free sub.
+Setting: Coffee Shop|action|George lets out a depressed sigh while reading a card
+Setting: Coffee Shop|ELAINE|What?
+Setting: Coffee Shop|GEORGE|Nothing. It's a card from my dad.
+Setting: Coffee Shop|ELAINE|What is it? (Grabs the card from George, he tries to stop her, but fails. She reads it out loud.) "Dear son, Happy Festivus." What is Festivus?
+Setting: Coffee Shop|GEORGE|It's nothing, stop it..
+Setting: Coffee Shop|JERRY|When George was growing up..
+Setting: Coffee Shop|GEORGE|(Interrupting) Jerry, No!
+Setting: Coffee Shop|JERRY|His father..
+Setting: Coffee Shop|GEORGE|No!
+Setting: Coffee Shop|JERRY|Hated all the commercial and religious aspects of Christmas, so he made up his own holiday.
+Setting: Coffee Shop|ELAINE|Ohhhh.. and another piece of the puzzle falls into place.
+Setting: Coffee Shop|GEORGE|(pleading) Alright..
+Setting: Coffee Shop|JERRY|And instead of a tree, didn't your father put up an aluminum pole?
+Setting: Coffee Shop|action|Elaine starts laughing uncontrollably - and continues to do so
+Setting: Coffee Shop|GEORGE|Jerry! Stop it!
+Setting: Coffee Shop|JERRY|And weren't there a feats of strength that always ended up with you crying?
+Setting: Coffee Shop|action|Jerry joins in with Elaine's laughter
+Setting: Coffee Shop|GEORGE|I can't take it anymore! I'm going to work! ARe you happy now?! (Gathers his things, and runs out of the coffee shop. Elaine and Jerry laugh hysterically)
+Setting: Jerry's apartment|action|Elaine is digging into her purse
+Setting: Jerry's apartment|ELAINE|Oh, I can't believe it! I've lost my "Atomic Sub" card!.. Oh no! I bet I wrote that fake number on the back of it when I gave it to denim vest!
+Setting: Jerry's apartment|JERRY|So?
+Setting: Jerry's apartment|ELAINE|I've eaten 23 bad subs, I just need 1 more! It's like a long, bad movie, but you want to see the end of it!
+Setting: Jerry's apartment|JERRY|No, you walk out.
+Setting: Jerry's apartment|ELAINE|Alright, then, it's like a boring book, but you gotta finish it.
+Setting: Jerry's apartment|JERRY|No, you wait for the movie!
+Setting: Jerry's apartment|ELAINE|(Irritated, and through clinched teeth) I want that free sub.
+Setting: Jerry's apartment|JERRY|You don't need the card. High-end hoagie outfit like that, it's all computerized! (Snaps) They're cloning sheep now.
+Setting: Jerry's apartment|KRAMER|(Correcting) No, they're not cloning sheep. It's the same sheep! I saw Harry Blackstone do that trick with two goats and a handkerchief on the old Dean Martin show!
+Setting: Jerry's apartment|JERRY|So, why don't you just try your blow-off number and see if he's called it?
+Setting: Jerry's apartment|ELAINE|That's a good idea.
+Setting: Jerry's apartment|action|Kramer's cordless phone rings, startling him. He digs through his coat, and pulls it out of the pocket
+Setting: Jerry's apartment|KRAMER|(Answering phone) Yeah, Go! Wha.. really? Yeah, ok. Yeah! Bye. (Hangs up) Great news! Yeah, the strike has been settled. I'm going back to work.
+Setting: Jerry's apartment|JERRY|What strike?
+Setting: Jerry's apartment|KRAMER|Yeah, H&H; Bagels. That's where I worked.
+Setting: Jerry's apartment|JERRY|You?
+Setting: Jerry's apartment|ELAINE|Worked?
+Setting: Jerry's apartment|JERRY|Bagels?
+Setting: Jerry's apartment|KRAMER|Yeah. Look, see. I still have my business card. (Pulls it out, hands it to Elaine) Yeah, we've been on strike for 12 years.
+Setting: Jerry's apartment|ELAINE|Oh, I remember seeing those guys picketing out there, but I haven't seen them in a long time.
+Setting: Jerry's apartment|KRAMER|Yeah, well, H&H; wouldn't let us use their bath room while we were picketing. It put a cramp on our solidarity.
+Setting: Jerry's apartment|ELAINE|What were your.. demands?
+Setting: Jerry's apartment|KRAMER|Yeah, 5.35 an hour. And that's what they're paying now.
+Setting: Jerry's apartment|ELAINE|I believe that's the new minimum wage.
+Setting: Jerry's apartment|KRAMER|Now you know who to thank for that!.. Alright, I've got to go. (Heads for the door)
+Setting: Jerry's apartment|JERRY|Why didn't you ever mention this?
+Setting: Jerry's apartment|KRAMER|Jerry, I didn't want you to know I was out of work. It's embarrassing! (Leaves) (Scene ends)
+Setting: H&H; Bagel Shop|action|Kramer walks through the door
+Setting: H&H; Bagel Shop|KRAMER|All right, everybody! I'm back!
+Setting: H&H; Bagel Shop|MANAGER|Who are you?
+Setting: H&H; Bagel Shop|KRAMER|Cosmo Kramer.. strikes over.
+Setting: H&H; Bagel Shop|MANAGER|Oh yeah! Kramer.
+Setting: H&H; Bagel Shop|KRAMER|Huh.. wha- Didn't any of the guys come back?
+Setting: H&H; Bagel Shop|MANAGER|NO, I"m sure they all got jobs.. like, ten years ago.
+Setting: H&H; Bagel Shop|KRAMER|Oh, man. Makes you wonder what it was all for..
+Setting: H&H; Bagel Shop|MANAGER|I could use someone for the holidays..
+Setting: H&H; Bagel Shop|KRAMER|Alright! Toss me an apron, let's bagel! (Takes off his coat, puts it in the display case, then turns to see a plate full of bagels.) What are those?
+Setting: H&H; Bagel Shop|MANAGER|Those are rasin bagels.
+Setting: H&H; Bagel Shop|KRAMER|(Picks one up, he's mesmerized) I never thought I'd live to see that..
+Setting: Horse Track Betting|action|Elaine confronts two unattractive bookies
+Setting: Horse Track Betting|ELAINE|So, anyway, I've been giving out your number as my standard fake.
+Setting: Horse Track Betting|BOOKIE|So. You're Elaine Benes. We've been getting calls fro you for 5 years.
+Setting: Horse Track Betting|ELAINE|So, listen, when this guy calls, if you could just give him my real number..
+Setting: Horse Track Betting|BOOKIE|(Interrupting) Hey, Charlie! Guess who's here. Elaine Benes.
+Setting: Horse Track Betting|action|Co-Worker in the back speaks up
+Setting: Horse Track Betting|CHARLIE|Elaine Benes?!
+Setting: Horse Track Betting|action|Various other men in the line behind Elaine say the same thing
+Setting: Horse Track Betting|BOOKIE|You make a lot of man friends. You know who's a man? Charlie here, he's a man. You know who else? Me. I'm a man.
+Setting: Horse Track Betting|CHARLIE|(faintly) I'm a man.
+Setting: Horse Track Betting|ELAINE|Ohh.. my..
+Setting: Horse Track Betting|BOOKIE|I'll have this best guy call your real number. You just, uh, give it to me. And that way, I'll have it. (Slides a pad over to Elaine so she can write it down)
+Setting: Horse Track Betting|ELAINE|My number? Ohh.. (looks at Kramer's business card) Okay.. Uh, well, there you go. (writes H&H;'s number down) And, uh, tell you what.. (looks at the board in the back) put a sawbuck on Captain Nemo in the third at Belmont.
+Setting: classy restaurant|action|Jerry and Tim Whatley meet
+Setting: classy restaurant|TIM|Hey, Jerry.
+Setting: classy restaurant|JERRY|Hey, Tim.
+Setting: classy restaurant|TIM|What's up?
+Setting: classy restaurant|JERRY|Actually, I'm having dinner with a girl I met at your party.
+Setting: classy restaurant|TIM|Mazel Tov.
+Setting: classy restaurant|action|Jerry's date, Gwen, arrives. She's completely unattractive
+Setting: classy restaurant|GWEN|Jerry.. hi.
+Setting: classy restaurant|JERRY|Gwen?
+Setting: classy restaurant|GWEN|Yeah.
+Setting: classy restaurant|JERRY|(Not willing to believe how much uglier she is) Really?
+Setting: classy restaurant|GWEN|Yeah! Come on, our table is ready.
+Setting: classy restaurant|action|Tim gives Jerry a face - almost like he feels sorry for Jerry
+Setting: Jerry's apartment|GEORGE|So, attractive one day - not attractive the next?
+Setting: Jerry's apartment|JERRY|Have you come across this?
+Setting: Jerry's apartment|GEORGE|Yes, I am familiar with this syndrome -- she's a two-face.
+Setting: Jerry's apartment|JERRY|(Relating) Like the Batman villain?
+Setting: Jerry's apartment|GEORGE|(Annoyed) If that helps you..
+Setting: Jerry's apartment|JERRY|So, if I ask her out again - I don't know who's showing up: The good, the bad, or the ugly.
+Setting: Jerry's apartment|GEORGE|(Identifying what Jerry said) Clint Eastwood!
+Setting: Jerry's apartment|JERRY|Yeah.
+Setting: Jerry's apartment|GEORGE|Hey, check this out. I gotta give out Christmas presents to everyone down at Kruger, so I'm pulling a Whatley. (Give a Christmas card to Jerry)
+Setting: Jerry's apartment|JERRY|(Reading it) "A donation has been made in your name to the Human Fund." - What is that?
+Setting: Jerry's apartment|GEORGE|(With pride) Made it up.
+Setting: Jerry's apartment|JERRY|(Continuing reading) "The Human Fund. Money for people."
+Setting: Jerry's apartment|GEORGE|What do you think?
+Setting: Jerry's apartment|JERRY|It has a certain understated stupidity.
+Setting: Jerry's apartment|GEORGE|(Once again, Identifying) The Outlaw of Josey Whales!
+Setting: Jerry's apartment|JERRY|..Yeah.
+Setting: Jerry's apartment|action|Enter Kramer
+Setting: Jerry's apartment|action|He is holding a sack full of bagels
+Setting: Jerry's apartment|KRAMER|Ah, gentlemen.. bagels on the house!
+Setting: Jerry's apartment|JERRY|How was your first day?
+Setting: Jerry's apartment|KRAMER|Oh, fantastic! (Jerry and George both pick out a bagel) It felt so good to get my hands back in taht dough.
+Setting: Jerry's apartment|action|Jerry and George stop before they take a bite from their bagels
+Setting: Jerry's apartment|JERRY|Your hands were in the dough?
+Setting: Jerry's apartment|KRAMER|No, I didn't make these bagels. (Jerry and George both take a bite) Yeah, they're day-olds. The homeless won't even touch them. (Jerry and George stop eating) Oh, we try to fool them by putting a few fresh ones on top, but they dig.. they, they test.
+Setting: Jerry's apartment|action|George spits his bagel out
+Setting: Jerry's apartment|GEORGE|Alright. Uh, well, I'm out of here. (Gets up to leave)
+Setting: Jerry's apartment|JERRY|Happy Festivus!
+Setting: Jerry's apartment|KRAMER|What's Festivus?
+Setting: Jerry's apartment|JERRY|When George was growing up..
+Setting: Jerry's apartment|GEORGE|(Interrupting) No!
+Setting: Jerry's apartment|JERRY|His father..
+Setting: Jerry's apartment|GEORGE|Stop it! It's nothing. It's a stupid holiday my father invented. It doesn't exist!
+Setting: Jerry's apartment|action|Elaine enters while George is exiting
+Setting: Jerry's apartment|ELAINE|Happy Festivus, Georgie.
+Setting: Jerry's apartment|action|George leaves yelling out "God!"
+Setting: Jerry's apartment|KRAMER|Frank invented a holiday? He's so prolific!
+Setting: Jerry's apartment|ELAINE|Kramer, listen, I got a little phone relay going, so, if a guy calls H&H; and he's looking for me, you take a message.
+Setting: Jerry's apartment|JERRY|You're still trying to gget that free sub?
+Setting: Jerry's apartment|ELAINE|Hey! I have spent a lot of time, and I have eaten a lot of crap to get to where I am today. And I am NOT throwing it all away now.
+Setting: Jerry's apartment|JERRY|Is there a captain's hat involved in this?
+Setting: Jerry's apartment|ELAINE|Maybe.
+Setting: H&H; Bagel Shop|FRANK|Kramer, I got your message. I haven't celebrated Festivus in years! What is your interest?
+Setting: H&H; Bagel Shop|KRAMER|Well, just tell me everything, huh?
+Setting: H&H; Bagel Shop|FRANK|Many Christmases ago, I went to buy a doll for my son. I reach for the last one they had - but so did another man. As I rained blows opon him, I realized there had to be another way!
+Setting: H&H; Bagel Shop|KRAMER|What happened to the doll?
+Setting: H&H; Bagel Shop|FRANK|It was destroyed. But out of that, a new holiday was born. "A Festivus for the rest of us!"
+Setting: H&H; Bagel Shop|KRAMER|That musta been some kind of doll.
+Setting: H&H; Bagel Shop|FRANK|She was.
+Setting: Kruger Office Building|action|George is in the hallway, dispensing his made-up gifts
+Setting: Kruger Office Building|GEORGE|Merry Christmas, Merry Christmas! (Co-worker gives a gift to George) Oh, Sandy! Here is a little something for you.. (hands her a card)
+Setting: Kruger Office Building|SANDY|(After reading the cheap gift, she's suddenly unimpressed) ..Oh.. thanks. (Walks off)
+Setting: Kruger Office Building|action|George passes an open doorway
+Setting: Kruger Office Building|GEORGE|Phil, I loved those cigars! Incoming! (Flicks his card tward Phil)
+Setting: Kruger Office Building|PHIL|Ow!
+Setting: Kruger Office Building|action|George meets up with Kruger
+Setting: Kruger Office Building|GEORGE|Aw, Mr. Kruger, Sir. Merry Christmas! (Hands him a card)
+Setting: Kruger Office Building|KRUGER|Not if you could see our books.. what's this?
+Setting: Kruger Office Building|GEORGE|The Human Fund.
+Setting: Kruger Office Building|KRUGER|Whatever. (Walks off)
+Setting: Kruger Office Building|GEORGE|Exactly. (Sees an off-camera co-worker) Erica!
+Setting: H&H; Bagel Shop|action|Frank is still telling Kramer about Festivus
+Setting: H&H; Bagel Shop|FRANK|And at the Festivus dinner, you gather your family around, and you tell them all the ways they have disappointed you over the past year.
+Setting: H&H; Bagel Shop|KRAMER|Is there a tree?
+Setting: H&H; Bagel Shop|FRANK|No. Instead, there's a pole. It requires not decoration. I find tinsel distracting.
+Setting: H&H; Bagel Shop|KRAMER|Frank, this new holiday of yours is scratching me right where I itch.
+Setting: H&H; Bagel Shop|FRANK|Let's do it then! Festivus is back! I'll get the pole out of the crawl space. (Turns to leave, meets up with Elaine)
+Setting: H&H; Bagel Shop|ELAINE|Hello, Frank.
+Setting: H&H; Bagel Shop|FRANK|Hello, woman. (leaves)
+Setting: H&H; Bagel Shop|ELAINE|Kramer! Kramer.. any word from the vest?
+Setting: H&H; Bagel Shop|KRAMER|No. (To manager of H&H;) Ah, listen, Harry, I need the 23rd off.
+Setting: H&H; Bagel Shop|MANAGER|Hey! I hired you to work during the holidays. This is the holidays.
+Setting: H&H; Bagel Shop|KRAMER|But it's Festivus.
+Setting: H&H; Bagel Shop|MANAGER|What?
+Setting: H&H; Bagel Shop|KRAMER|You know you're infringing on my right to celebrate new holidays..
+Setting: H&H; Bagel Shop|MANAGER|That's not a right.
+Setting: H&H; Bagel Shop|KRAMER|Well, it's going to be! Because I'm going back on strike. Come on Elaine. (Takes of his apron, and goes for his coat) It's a walk out!
+Setting: H&H; Bagel Shop|ELAINE|No, I got to stay here and wait for the call.
+Setting: H&H; Bagel Shop|KRAMER|What? You're siding with management?!
+Setting: H&H; Bagel Shop|ELAINE|No, I just..
+Setting: H&H; Bagel Shop|KRAMER|(Interrupting) Scab! Scab! (pointing at Elaine) Scab!
+Setting: Taxi Cab|action|Gwen joins Jerry in the cab. She's in her attractive state
+Setting: Taxi Cab|GWEN|Hey.
+Setting: Taxi Cab|JERRY|Boy, am I glad to see you.
+Setting: Taxi Cab|GWEN|You were expecting someone else?
+Setting: Taxi Cab|JERRY|You never know.
+Setting: Taxi Cab|GWEN|(To driver) You know, you might want to take the tunnel.
+Setting: Taxi Cab|JERRY|So, uh, what do you feel like eating? Chinese or Italian?
+Setting: Taxi Cab|action|All the sudden, Gwen is extremely ugly
+Setting: Taxi Cab|GWEN|I can go either way.
+Setting: Taxi Cab|JERRY|(Shocked) You're telling me.
+Setting: the Coffee Shop|GEORGE|So, she was switching? Back and forth?
+Setting: the Coffee Shop|JERRY|Actually, the only place she always looked good was in that back booth over there.
+Setting: the Coffee Shop|GEORGE|So, just bring her here. This is all you really need.
+Setting: the Coffee Shop|JERRY|I can't just keep bringing her to the coffee shop. I mean, what if things, you know, progress?
+Setting: the Coffee Shop|GEORGE|Lights out.
+Setting: the Coffee Shop|JERRY|Alright, I'll give it a shot! I do really like this coffee shop. Nice cuff links, by the way.
+Setting: the Coffee Shop|GEORGE|(Pointing to them) Office Christmas gift. I tell you, this Human Fund is a gold mine!
+Setting: the Coffee Shop|JERRY|That's not a french cuff shirt, you know.
+Setting: the Coffee Shop|GEORGE|I know. I cut the button off and poked a hole with a letter opener.
+Setting: the Coffee Shop|JERRY|Oh, that's classy.
+Setting: the Coffee Shop|action|Frank and Kramer enter. Frank is dragging an aluminum pole
+Setting: the Coffee Shop|KRAMER|Well, Happy Festivus.
+Setting: the Coffee Shop|GEORGE|What is that? Is taht the pole?!
+Setting: the Coffee Shop|FRANK|George, Festivus is your heritage - it's part of who you are.
+Setting: the Coffee Shop|GEORGE|(Sulking) That's why I hate it.
+Setting: the Coffee Shop|KRAMER|There's a big dinner Tuesday night at Frank's house - everyone's invited.
+Setting: the Coffee Shop|FRANK|George, you're forgetting how much Festivus has meant to us all. I brought one of the casette tapes. (Franks pushes play, George as a child celebrating Festivus is heard)
+Setting: the Coffee Shop|FRANK|Read that poem.
+Setting: the Coffee Shop|GEORGE|(Complaining) I can't read it. I need my glasses!
+Setting: the Coffee Shop|FRANK|You don't need glasses, you're just weak! You're weak!
+Setting: the Coffee Shop|ESTELLE|Leave him alone!
+Setting: the Coffee Shop|FRANK|Alright, George. It's time for the feats of strength.
+Setting: the Coffee Shop|action|George has a break down
+Setting: the Coffee Shop|GEORGE|No! No! Turn it off! No feats of strength! (Gets up and starts running out of the coffee shop) I hate Festivus!
+Setting: the Coffee Shop|FRANK|We had some good times.
+Setting: the Coffee Shop|action|Gwen walks in, and greets Jerry. She's in her unattractive state
+Setting: the Coffee Shop|GWEN|Hey.
+Setting: the Coffee Shop|JERRY|I there. This is Kramer, and Frank.
+Setting: the Coffee Shop|GWEN|Hi.
+Setting: the Coffee Shop|KRAMER|(Shocked at her ugliness, he stammers) Hello.
+Setting: the Coffee Shop|GWEN|So, you ready to go?
+Setting: the Coffee Shop|JERRY|Uh, why don't we stay here? The back booth just opened up. (They both walk to the booth and sit down. Suddenly, Gwen is attractive) Now this is a good looking booth.
+Setting: H&H; Bagel Shop|action|Kramer is picketing out side.
+Setting: H&H; Bagel Shop|KRAMER|Protect Festivus! Hey, no bagels, no bagels, no bagels, (Continues to chant)
+Setting: H&H; Bagel Shop|action|Cut to inside the store
+Setting: H&H; Bagel Shop|MANAGER|(To a waiting Elaine) Lady, if you want a sandwich, I'll make you a sandwich.
+Setting: H&H; Bagel Shop|ELAINE|(Whining) I want the one that I earned. (Phone rings) I'll get it. I'll get it! (Into phone) H&H;, and Elaine.
+Setting: H&H; Bagel Shop|KRAMER|(From a phone booth right outside the store) Elaine, you should get out of there. I sabotaged the bagel machine last night. It's going down.
+Setting: H&H; Bagel Shop|ELAINE|What did you do?
+Setting: H&H; Bagel Shop|KRAMER|You've been warned.
+Setting: H&H; Bagel Shop|action|Elaine looks out the window, and sees Kramer at the pay phone
+Setting: H&H; Bagel Shop|ELAINE|Oh, hi! (Waves at him)
+Setting: H&H; Bagel Shop|action|Steam starts coming from a pipe on the machine. Elaine hangs up
+Setting: H&H; Bagel Shop|WORKER|Hey, the steam valve's broke.
+Setting: H&H; Bagel Shop|MANAGER|Can we still make bagels?
+Setting: H&H; Bagel Shop|WORKER|Sure. It's just a little steamy.
+Setting: H&H; Bagel Shop|action|Kramer knocks on the shop door
+Setting: H&H; Bagel Shop|KRAMER|Hey! How do you like your bagels now?!
+Setting: H&H; Bagel Shop|action|No one inside seems to care. Kramer waits by the door to see if anyone was affected
+Setting: Kruger Building|KRUGER|George, I got something for you. (Pulls a check from his pocket) I'm suppose to find a charity and throw some of the company's money at it. They all seem the same to me, so, what's the difference? (Hands the check to George)
+Setting: Kruger Building|GEORGE|20 thousand dollars?
+Setting: Kruger Building|KRUGER|Made out to the Human Fund. (Tries to enter his office, but it's locked) Oh, damn. I've locked myself out of my office again. Oh well. I'm going home.
+Setting: Coffee Shop|GWEN|Jerry, how many times do we have to come to this.. place?
+Setting: Coffee Shop|JERRY|Why? It's our place.
+Setting: Coffee Shop|GWEN|I just found a rubber band in my soup.
+Setting: Coffee Shop|JERRY|Oh.. I know who's cooking today!
+Setting: Coffee Shop|action|Enter George
+Setting: Coffee Shop|GEORGE|Hey! Surprise, surprise!
+Setting: Coffee Shop|JERRY|Hey, Georgie!
+Setting: Coffee Shop|GWEN|I think I'm just gonna go.
+Setting: Coffee Shop|JERRY|I'll be here.
+Setting: Coffee Shop|action|Gwen leaves
+Setting: Coffee Shop|GEORGE|(Sees Gwen's meal) Hey, soup.
+Setting: Coffee Shop|JERRY|She didn't touch it.
+Setting: Coffee Shop|action|George spoons through his soup, and finds a rubber band
+Setting: Coffee Shop|GEORGE|Ohh.. Paco! (Flicks rubber band tward the kitchen) Hey, take a look at this. (Hands Jerry Kruger's check)
+Setting: Coffee Shop|JERRY|20 thousand dollars from Kruger? You're not keeping this.
+Setting: Coffee Shop|GEORGE|I don't know.
+Setting: Coffee Shop|JERRY|Excuse me?
+Setting: Coffee Shop|GEORGE|I've been doing a lot of thinking. This might be my chance to start giving something back.
+Setting: Coffee Shop|JERRY|You want to give something back? Start with the 20 thousand dollars.
+Setting: Coffee Shop|GEORGE|I'm serious.
+Setting: Coffee Shop|JERRY|You're going to start your own charity?
+Setting: Coffee Shop|GEORGE|I think I could be a philanthropist. a kick ass philanthropist! I would have all this money, and people would love me. Then they would come to me.. and beg! And if I felt like it, I would help them out. And then they would owe me big time! (Thinking to himself) .. First thing I'm gonna need is a driver..
+Setting: Outside H&H; Bagels|action|Kramer is chanting 'no bagels, no bagels..' Elaine walks out, her make-up is distorted, and her face is pale because of the steam
+Setting: Outside H&H; Bagels|ELAINE|Kramer, the vest just called.
+Setting: Outside H&H; Bagels|KRAMER|(Shocked by the way Elaine looks) Yama - Hama! It's fright night!
+Setting: Outside H&H; Bagels|ELAINE|Oh, yeah, I got a little steam bath. Listen, in 10 minutes, I'm gonna have my hands on that "Atomic Sub" card.
+Setting: Outside H&H; Bagels|KRAMER|And?
+Setting: Outside H&H; Bagels|ELAINE|(Embarrassed) Free sub. (Starts to leave) I'll see ya.
+Setting: Outside H&H; Bagels|KRAMER|Yeah.
+Setting: Outside H&H; Bagels|action|Gwen walks by, she's in her ugly state
+Setting: Outside H&H; Bagels|GWEN|Kramer, Hi!
+Setting: Outside H&H; Bagels|KRAMER|Oh, hello.
+Setting: Outside H&H; Bagels|GWEN|It's Gwen.. We met .. at the coffee shop.
+Setting: Outside H&H; Bagels|KRAMER|Ah-huh.
+Setting: Outside H&H; Bagels|GWEN|I'm dating your friend, Jerry..
+Setting: Outside H&H; Bagels|KRAMER|Ahh.. I don't know who you really are, but I've seen Jerry's girlfriend, and she's not you. You're much better looking - and like, a foot taller.
+Setting: Outside H&H; Bagels|GWEN|That's why we're always hiding in that coffee shop! He's afraid of getting caught.
+Setting: Outside H&H; Bagels|KRAMER|Oh, he's a tomcat.
+Setting: Outside H&H; Bagels|action|Cut to Elaine
+Setting: Outside H&H; Bagels|action|She meets up with Denim Vest on the street corner
+Setting: Outside H&H; Bagels|ELAINE|Steve.
+Setting: Outside H&H; Bagels|ELAINE|It's Elaine.
+Setting: Outside H&H; Bagels|ELAINE|Yeah.
+Setting: Outside H&H; Bagels|ELAINE|I see you're still sticking with the denim. (He's wearing a denim coat) Do you have that card that I gave you?
+Setting: Outside H&H; Bagels|ELAINE|No, no, no. You give me your number.
+Setting: Outside H&H; Bagels|ELAINE|No.
+Setting: Outside H&H; Bagels|ELAINE|No.
+Setting: Outside H&H; Bagels|action|Elaine looks at the number, and sees it's the same as the number on a nearby truck
+Setting: Outside H&H; Bagels|ELAINE|A fake number! Blimey!
+Setting: Kruger's office|KRUGER|George, we have a problem. There's a memo, here, from accounting telling me there's no such thing as the Human Fund.
+Setting: Kruger's office|GEORGE|Well, there could be.
+Setting: Kruger's office|KRUGER|But there isn't.
+Setting: Kruger's office|GEORGE|Well, I - I could, Uh, I could give the money back. Here. (Holds it out)
+Setting: Kruger's office|KRUGER|George, I don't get it. If there's no Human Fund, those donation cards were fake. You better have a damn good reason why you gave me a fake Christmas gift.
+Setting: Kruger's office|GEORGE|Well, sir, I - I gave out the fake card, because, um, I don't really celebrate Christmas. I, um, I celebrate Festivus.
+Setting: Kruger's office|KRUGER|Vemonous?
+Setting: Kruger's office|GEORGE|Festivus, Sir. And, uh, I was afraid that I would be persecuted for my beliefs. They drove my family out of Bayside, Sir!
+Setting: Kruger's office|KRUGER|Are you making all this up, too?
+Setting: Kruger's office|GEORGE|Oh, no, Sir. Festivus is all too real. And.. I could prove it - if I had to.
+Setting: Kruger's office|KRUGER|Yeah, you probably should.
+Setting: The Costanza's house|GEORGE|Happy Festivus!
+Setting: The Costanza's house|FRANK|George? This is a surprise. (Looking at Kruger) Who's the suit?
+Setting: The Costanza's house|GEORGE|Yo, dad. This is my boss, Mr. Kruger.
+Setting: The Costanza's house|FRANK|Have you seen the pole, Kruger?
+Setting: The Costanza's house|GEORGE|Dad, he doesn't need to see the pole.
+Setting: The Costanza's house|FRANK|He's gonna see it.
+Setting: The Costanza's house|action|Enter Jerry and Elaine. Elaine is still ugly from the steam
+Setting: The Costanza's house|GEORGE|Happy Festivus! (Sees Elaine) Yama - Hama!
+Setting: The Costanza's house|ELAINE|I didn't have time to go home. What are you doing here?
+Setting: The Costanza's house|GEORGE|Embracing my roots.
+Setting: The Costanza's house|JERRY|They nailed you on the 20 G's?
+Setting: The Costanza's house|GEORGE|Busted cold.
+Setting: The Costanza's house|action|Cut to Kruger and Frank
+Setting: The Costanza's house|action|They're looking at the Festivus pole
+Setting: The Costanza's house|FRANK|It's made from aluminum. Very high strength-to-weight ratio.
+Setting: The Costanza's house|KRUGER|I find your belief system fascinating.
+Setting: The Costanza's house|action|Enter Kramer
+Setting: The Costanza's house|action|Kramer's with the two bookies from Horse Track Betting
+Setting: The Costanza's house|KRAMER|Hey! Happy Festivus, everyone! (Hugs George, and jumps up and down) Hee, hee, hee!
+Setting: The Costanza's house|BOOKIE|Hello again, Miss Benes.
+Setting: The Costanza's house|ELAINE|What are you doing here?
+Setting: The Costanza's house|BOOKIE|Damnedest thing.. me and Charlie were calling to ask you out, and, uh, we got this bagel place..
+Setting: The Costanza's house|KRAMER|(Finishing the story) I told them I was just about to see you.. It's a Festivus miracle!
+Setting: The Costanza's house|action|Estelle comes through the kitchen door, hitting Kramer as she opens it
+Setting: The Costanza's house|ESTELLE|Dinner's ready!
+Setting: The Costanza's house|FRANK|Let's begin.
+Setting: The Costanza's house|KRAMER|Uh.. that's right.
+Setting: The Costanza's house|action|Cut to Frank
+Setting: The Costanza's house|FRANK|Welcome, new comers. The tradition of Festivus begins with the airing of grievances. I got a lot of problems with you people! And now you're gonna hear about it! You, Kruger. My son tells me your company stinks!
+Setting: The Costanza's house|GEORGE|Oh, God.
+Setting: The Costanza's house|FRANK|(To George) Quiet, you'll get yours in a minute. Kruger, you couldn't smooth a silk sheet if you had a hot date with a babe.. I lost my train of thought.
+Setting: The Costanza's house|action|Frank sits down, Jerry gives a face that says "That's a shame". Gwen walks in
+Setting: The Costanza's house|GWEN|Jerry!
+Setting: The Costanza's house|JERRY|Gwen! How'd you know I was here?
+Setting: The Costanza's house|GWEN|Kramer told me.
+Setting: The Costanza's house|KRAMER|Another Festivus miracle!
+Setting: The Costanza's house|action|Jerry gives Kramer a death stare. He shuts up. Gwen notices Elaine
+Setting: The Costanza's house|GWEN|I guess this is the ugly girl I've been hearing about.
+Setting: The Costanza's house|ELAINE|Hey, I was in a shvitz for 6 hours. Give me a break.
+Setting: The Costanza's house|action|Gwen leaves, Jerry follows
+Setting: The Costanza's house|JERRY|Gwen. Gwen, wait! Ah! (runs back to his seat) Bad lighting on the porch.
+Setting: The Costanza's house|ELAINE|(To bookie) Hey, how'd my horse do?
+Setting: The Costanza's house|BOOKIE|He had to be shot.
+Setting: The Costanza's house|FRANK|And now as Festivus rolls on, we come to the feats of strength.
+Setting: The Costanza's house|GEORGE|Not the feats of strength..
+Setting: The Costanza's house|FRANK|This year, the honor goes to Mr. Kramer.
+Setting: The Costanza's house|KRAMER|Uh-oh. Oh, gee, Frank, I'm sorry. I gotta go. I have to work a double shift at H&H.;
+Setting: The Costanza's house|JERRY|I thought you were on strike?
+Setting: The Costanza's house|KRAMER|Well, I caved. I mean, I really had to use their bathroom. Frank, no offence, but this holiday is a little (makes a series of noises) out there.
+Setting: The Costanza's house|GEORGE|Kramer! You can't go! Who's gonna do the feats of strength?
+Setting: The Costanza's house|action|Exit Kramer
+Setting: The Costanza's house|KRUGER|(Sipping liquor from a flask) How about George?
+Setting: The Costanza's house|FRANK|Good thinking, Kruger. Until you pin me, George, Festivus is not over!
+Setting: The Costanza's house|GEORGE|Oh, please, somebody, stop this!
+Setting: The Costanza's house|FRANK|(Taking off his sweater) Let's rumble!
+Setting: The Costanza's house|action|Cuts to an outside view of the Costanza's house
+Setting: The Costanza's house|ESTELLE|I think you can take him, Georgie!
+Setting: The Costanza's house|GEORGE|Oh, come on! Be sensible.
+Setting: The Costanza's house|FRANK|Stop crying, and fight your father!
+Setting: The Costanza's house|GEORGE|Ow! .. Ow! I give, I give! Uncle!
+Setting: The Costanza's house|FRANK|This is the best Festivus ever!
+Setting: H&H; Bagel Shop|action|Kramer is shaping some dough and chewing gum - his gum falls into the dough. He starts looking for the gum, and starts extracting it from the dough. The manger is watching
+Setting: H&H; Bagel Shop|MANAGER|Alright. That's enough. You're fired.
+Setting: H&H; Bagel Shop|KRAMER|Thank - you! (Gets his coat, and leaves)

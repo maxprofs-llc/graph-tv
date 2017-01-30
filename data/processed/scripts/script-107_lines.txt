@@ -1,0 +1,350 @@
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|JERRY|I hear you're going out with David Putty.
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|ELAINE|Yeah. What, is it a problem?
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|JERRY|Well, I think he could've asked me. Supposed to be a friend of mine.
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|ELAINE|Well, I guess he figured you just wouldn't care. It *has* been a few years.
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|JERRY|Elaine, you always care who an ex-girlfriend dates. You don't want it to be someone you know, and you don't want it to be someone better than you. Now, even though the latter is *obviously* impossible.
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|ELAINE|Oh, god.
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|JERRY|The former still applies. I don't know what it is, but I just can't see you with a mechanic.
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|ELAINE|Oh, yeah. Right, right. Well, all those mechanics do is work all day with their hands and their *big*, *muscular* arms on machines, and then they come home dripping with animal sexuality like Stanley Kowalski. What a huge turn-off that is.
+Opening Scene: Jerry and Elaine are outside, heading towards the apartment building|JERRY|All right.
+At Monk's, George and Estelle are looking over their menus|GEORGE|Look at that. They got lobster on the menu. Who would order a lobster here. I mean, do they bring a lobster in everyday hoping *todays* the day.
+At Monk's, George and Estelle are looking over their menus|ESTELLE|So what if they have a lobster. Suddenly you're a shell-fish connoisseur.
+At Monk's, George and Estelle are looking over their menus|GEORGE|You know, I think we really need to be in front of a television set. You take T.V. out of this relationship, it is *just* torture.
+At Monk's, George and Estelle are looking over their menus|ESTELLE|So, I'm getting an eye job.
+At Monk's, George and Estelle are looking over their menus|GEORGE|An eye job? Ma, you don't need an eye job.
+At Monk's, George and Estelle are looking over their menus|ESTELLE|Georgie, I'm a divorcee.
+At Monk's, George and Estelle are looking over their menus|GEORGE|No, you're not a divorcee. Youÿre just separated. You're---you're a separatee.
+At Monk's, George and Estelle are looking over their menus|ESTELLE|Well, I'm out there, George.
+At Monk's, George and Estelle are looking over their menus|GEORGE|No, you're not out there.
+At Monk's, George and Estelle are looking over their menus|ESTELLE|I am, too!
+At Monk's, George and Estelle are looking over their menus|GEORGE|You're not out there! You can't be, because *I* am out there. And if I see *you* out there, there's not enough voltage in this world to electroshock me back into coherence!
+At Monk's, George and Estelle are looking over their menus|ESTELLE|Well, anyway, the operation is on Tuesday and I need you to drive me home because I'll be all drugged up.
+At Monk's, George and Estelle are looking over their menus|GEORGE|Tuesday? I can't do it Tuesday. Steinbrenner needs me to run---
+At Monk's, George and Estelle are looking over their menus|ESTELLE|This is the only time the doctor *has*.
+At Monk's, George and Estelle are looking over their menus|action|Kramer walks by their table on his way out
+At Monk's, George and Estelle are looking over their menus|GEORGE|Kramer, hey, hey! (Gets up out of his seat)
+At Monk's, George and Estelle are looking over their menus|KRAMER|Hi, little buddy.
+At Monk's, George and Estelle are looking over their menus|GEORGE|Come on over and sit down.
+At Monk's, George and Estelle are looking over their menus|KRAMER|Hey, listen, I gotta go somewhere.
+At Monk's, George and Estelle are looking over their menus|GEORGE|No, you're gonna sit down, you son of a gun...
+At Monk's, George and Estelle are looking over their menus|KRAMER|All right, I'm sitting down. How are you? (Kisses Estelle on the cheek)
+At Monk's, George and Estelle are looking over their menus|ESTELLE|So, Kramer. I'm getting an eye job.
+At Monk's, George and Estelle are looking over their menus|KRAMER|Oh, yeah, good for you. Hey, you have to look your best. You're out there now.
+At Monk's, George and Estelle are looking over their menus|GEORGE|She's not out there!
+At Monk's, George and Estelle are looking over their menus|KRAMER|So, who is your doctor?
+At Monk's, George and Estelle are looking over their menus|ESTELLE|Uh, Bakersoll.
+At Monk's, George and Estelle are looking over their menus|KRAMER|(whistles). He's good. He's *very* good. He worked on this kid from Guatemala with no nose. Turned him into Ricardo Montalban.
+At Monk's, George and Estelle are looking over their menus|GEORGE|Hey, Kramer, what are you doing Tuesday?
+At Monk's, George and Estelle are looking over their menus|KRAMER|Tuesday? Uh...
+At Monk's, George and Estelle are looking over their menus|GEORGE|Why doesn't *he* pick you up after the operation. He's got the car with the bench seats that you like.
+At Monk's, George and Estelle are looking over their menus|ESTELLE|Oh, I don't care.
+At Monk's, George and Estelle are looking over their menus|KRAMER|Yeah, I know, but I can't drive anybody anywhere until I go down to the motor vehicle bureau and get my new plates.
+At Monk's, George and Estelle are looking over their menus|GEORGE|Well, giddy-up!
+At the motor vehicle bureau...|KRAMER|Yeah, I'm here to pick up my new plates. My name is Kramer. Cosmo Kramer.
+At the motor vehicle bureau...|CLERK|Kramer.... (checks computer) All right...
+At the motor vehicle bureau...|KRAMER|All righty...
+At the motor vehicle bureau...|CLERK|Sign right here, please. (hands over clipboard)
+At the motor vehicle bureau...|KRAMER|(signs it) Okay. (The clerk hands him a manila envelope). Thanks. (opens up the envelope) Assman? Oh, no, these don't belong to me. I'm not the Assman. I think there's been a mistake.
+At the motor vehicle bureau...|CLERK|What's your name again?
+At the motor vehicle bureau...|KRAMER|Cosmo Kramer.
+At the motor vehicle bureau...|CLERK|(checks computer again) Cosmo Kramer. You *are* the Assman.
+At the motor vehicle bureau...|KRAMER|No! I'm not the Assman.
+At the motor vehicle bureau...|CLERK|Well, as far as the state of New York is concerned, you are.
+At the motor vehicle bureau...|action|Failing to clear up the mistake, Kramer drives off with the new plates attached
+Meanwhile, we join Elaine and David---in bed, I should add. David, who apparently looks satisfied, is still breathless. Elaine, on the other hand, is looking somewhat, preoccupied|DAVID|How do you feel?
+Meanwhile, we join Elaine and David---in bed, I should add. David, who apparently looks satisfied, is still breathless. Elaine, on the other hand, is looking somewhat, preoccupied|ELAINE|Fine.
+Meanwhile, we join Elaine and David---in bed, I should add. David, who apparently looks satisfied, is still breathless. Elaine, on the other hand, is looking somewhat, preoccupied|DAVID|Something the matter?
+Meanwhile, we join Elaine and David---in bed, I should add. David, who apparently looks satisfied, is still breathless. Elaine, on the other hand, is looking somewhat, preoccupied|ELAINE|No.
+Meanwhile, we join Elaine and David---in bed, I should add. David, who apparently looks satisfied, is still breathless. Elaine, on the other hand, is looking somewhat, preoccupied|DAVID|Then what is it?
+Meanwhile, we join Elaine and David---in bed, I should add. David, who apparently looks satisfied, is still breathless. Elaine, on the other hand, is looking somewhat, preoccupied|ELAINE|No, nothing.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|Hi.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|I was with David *Putty* last night.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|Yeah, so.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|He did the move.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|What move?
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|You know...*the* move.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|Wait a second. *My* move?
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|David Putty used *my* move?
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|Yes, yes.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|Are you sure?
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|Jerry! There is no confusing *that* move with any other move.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|I can't believe it. He *stole* my move.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|What else did you tell (reaches over to slap Jerry) him. (does it again) The two of you must have had *quite* a little chat!
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|Oh, it wasn't like that! I didn't even mention you. You know, we were in the garage. You know how garages are. They're conducive to sex talk. It's a high-testosterone area.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|Because of all the pistons and the lube jobs?
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|Well, I'm going down to that garage and telling him to stop doing it.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|Well, wait---wait a second.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|What?
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|Isn't that a little...rash?
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|No! He stole my move!
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|Yeah, but...*I* like the move.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|Yeah, but it's like another comedian stealing my material.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|Well, he doesn't even do it exactly the same. He--he--he uses a pinch at the end instead of the *swirl*!
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|Oh, yeah. The pinch. *I've* done the pinch. That's not new. Besides which, I don't know how you could trust any of his moves now. His whole *repertoire* could be lifted.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|ELAINE|You know, it's strange, because he's such an honest mechanic.
+Later on, at Monk's, Jerry has just come in to meet Elaine. He joins her at the booth|JERRY|I know, he's probably the only honest mechanic in New York.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|...so he stole my move and he's using it on Elaine.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|You told David Putty your move and you didn't tell *me*? I *need* a move. You know I have no moves, Jerry. (points to the candy bar) Gimme a bite.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|Can I just get it opened first?
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|I can't believe you're hoarding sex moves. I'm out there rubbing two sticks together. You walk around with a zippo.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|All right, all right. Here. (hands George a piece of the candy bar).
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|(takes a bite) Oh, that's good. That's very good.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|You feel better?
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|Yeah, much better. All right, so what's the move, because I need *something*. This woman I'm dating, it's like she's doing her nails during love-making.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|Nancy Klopper?
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|Yeah. Never seen anyone so bored. I'm working like a dog here. Give me a moan. *Something*. I'd settle for a belch, for god's sake. All right, come on, let's have it.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|All right, George. I'm gonna tell you. But I just wanna make sure, before---
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|Yeah, yeah, yeah. It's in the vault. I'm putting it in the vault.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|It's not even a question of that. The point is when something like this is passed along, one must be certain that it's going to be used in a *conscientious* way. This is not some parlor trick to be used---
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|You're gonna tell me...or not.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|All right. On your bed. You got a headboard? You'll need a headboard.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|I got a headboard.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|Is it padded?
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|No.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|Good. How tall is she?
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|Five-foot four. Why?
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|You can't have more than a one-foot differential in your heights. Otherwise, you could really hurt your neck.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|GEORGE|I can't tell ya how much I appreciate this.
+Later, Jerry and George are outside, where Jerry has just bought a candy bar at the newsstand|JERRY|George, if you could master this, you'll never be alone again.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|Now, the ending is kind of an option. I use the swirl. I like the swirl. I'm comfortable with the swirl. *I* feel the swirl is a great capper. He uses the pinch, which I find a little presumptuous.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|GEORGE|Is it a clockwise swirl?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|I prefer clockwise, but it's not written in stone.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|Here you go, buddy. (shows it to Jerry).
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|What is it?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|*Fusilli* Jerry! It's made from Fusilli pasta. See the microphone?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|When did you do this?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|In my spare time. (turns to George). You know, I'm working on one of you, George. I'm using ravioli. See, the hard part is to find a pasta that captures the individual.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|Oh... Why Fusilli?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|Because *you're* silly. Get it? (hands the Fusilli to Jerry) Yeah...
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|Well, thank you very much.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|GEORGE|So, did you get your new plates?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|Oh...yeah. I got my new plates. But they mixed them up. Somebody got mine and I got their *vanity* plates.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|GEORGE|What do they say?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|Assman.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|Assman?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|Yeah. Assman, Jerry. I'm Cosmo Kramer, the Assman!
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|Who would order a license plate that says "Assman"?
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|GEORGE|Maybe they're Wilt Chamberlain's.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|It doesn't have to be someone who gets a lot of women. It could be just some guy with a big ass.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|Yeah, or it could be a proctologist.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|Yeah. Proctologist.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|GEORGE|Come on! No doctor would put that on his car.
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|Have you ever *met* a proctologist? Well, they usually have a very good sense of humor. You meet a proctologist at a party, don't walk away. *Plant* yourself there, because you will hear the funniest stories you've ever heard. See, no one wants to admit to them that they *stuck* something up there. Never! It's always an accident. Every proctologist story ends in the same way: "It was a million to one shot, Doc. Million to one."
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|action|A phone rings in the distant
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|KRAMER|Oh! There's my phone. (He leaves)
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|GEORGE|So, where you gonna stick this (points to the Fusilli Jerry)
+Back at Jerry's apartment: Jerry and George have just walked in, still conversing on the same subject|JERRY|I'll tell you where I'd like to stick it.
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|Hey, David.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|Oh, hi, Jerry.
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|Hey, what's the story? I hear you're doing my move.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|What move?
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|What move? *My* move. The one I told you about. You used it on Elaine.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|You're move? What, are you kidding? I was doing that before I knew you. All you told me about was the ending.
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|The ending is the whole thing. Without the ending, it's nothing. You had *nothing*.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|Oh, that ending was *so* obvious. I would have figured it out anyway. I didn't need you to tell me that stupid twist.
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|Swirl.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|Whatever. I don't even do it.
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|Oh, yeah, I know. You do the *pinch*.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|Yeah, that's right.
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|You can't come up with your own stuff , so you *steal* other peoples? You're nothing but a hack.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|Are you through, 'cuz, uh, I gotta get back to work.
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|Well, I'll tell you what I'll do, you know. If you wanna do it out of town...okay. But not in the city.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|All right, how about the next time your car breaks down, you take *that* out of town.
+We cut to the garage where David Putty is working on a car. Jerry walks in|JERRY|Fine.
+We cut to the garage where David Putty is working on a car. Jerry walks in|DAVID|Good!
+We join George and Nancy, who are....getting busy under the covers.|NANCY|Ow, George! (crawls out from beneath the covers) What are you doing?
+We join George and Nancy, who are....getting busy under the covers.|GEORGE|(pops his head out of the covers, looking a bit confused) Uh...you know, uh...pleasuring you.
+We join George and Nancy, who are....getting busy under the covers.|NANCY|Well, stop it!
+We join George and Nancy, who are....getting busy under the covers.|GEORGE|You don't like the move?
+We join George and Nancy, who are....getting busy under the covers.|NANCY|No. I don't.
+We join George and Nancy, who are....getting busy under the covers.|GEORGE|You're kidding.
+We join George and Nancy, who are....getting busy under the covers.|NANCY|No, I'm not. It feels like aliens poking at my body.
+We join George and Nancy, who are....getting busy under the covers.|GEORGE|Sorry. I'll just go back to my usual routine.
+Back to Elaine and David in the middle of, uh...you know...|ELAINE|Oh, god! Oh, god, Dave! Oh, yes! Yes!
+Back to Elaine and David in the middle of, uh...you know...|DAVID|No, I'm sorry.
+Back to Elaine and David in the middle of, uh...you know...|ELAINE|What?!!
+Back to Elaine and David in the middle of, uh...you know...|DAVID|I can't do the move.
+Back to Elaine and David in the middle of, uh...you know...|ELAINE|What?
+Back to Elaine and David in the middle of, uh...you know...|DAVID|Oh, he's ruined it for me.
+Back to Elaine and David in the middle of, uh...you know...|ELAINE|Oh, oh, come on, please?
+Back to Elaine and David in the middle of, uh...you know...|DAVID|No, he called me a hack. I'm just not into doing it anymore.
+Back to Elaine and David in the middle of, uh...you know...|ELAINE|Oh, so---so that's it?
+Back to Elaine and David in the middle of, uh...you know...|DAVID|I'll come up with some new stuff.
+Cut to Kramer heading towards his car. He picks up a note on his windshield and reads it...|KRAMER|"Call me. Thirty-six, twenty-four, forty-six. I think I have what you're looking for." (Pleased by the note, Kramer stumbles into his car).
+Cut to Kramer heading towards his car. He picks up a note on his windshield and reads it...|action|Meanwhile, Estelle is at Dr. Bakersoll's office
+Cut to Kramer heading towards his car. He picks up a note on his windshield and reads it...|ESTELLE|Oh, okay.
+Cut to Kramer heading towards his car. He picks up a note on his windshield and reads it...|ESTELLE|Yes, my son's friend should be here any minute.
+In the parking lot just outside, Kramer has pulls into a "Doctors Only" space|KRAMER|Ah, yeah. Doctor Cosmo Kramer. (points to plate) Proctology.
+In the parking lot just outside, Kramer has pulls into a "Doctors Only" space|KRAMER|Thanks. Have a good day.
+Kramer is driving Estelle home|KRAMER|I just can't get over how fantastic you look.
+Kramer is driving Estelle home|ESTELLE|Oh, really?
+Kramer is driving Estelle home|KRAMER|Oh, yeah. This takes twenty years off.
+Kramer is driving Estelle home|ESTELLE|And it was all done by laser. I don't even need bandages.
+Kramer is driving Estelle home|ESTELLE|Did he say "Assman"?
+Kramer is driving Estelle home|KRAMER|Oh, yeah.
+Kramer is driving Estelle home|ESTELLE|Oh my goodness.
+Kramer is driving Estelle home|action|Another car passes: "Hey, the Assman's in town!"
+Kramer is driving Estelle home|KRAMER|You got that straight!
+Kramer is driving Estelle home|ESTELLE|Boy. I never dreamed it could make such a difference.
+Kramer is driving Estelle home|action|Kramer makes a sudden stop, and in a protective gesture, he sticks his arm out in front of Estelle.
+Back to Jerry's apartment|JERRY|You must have done *something* wrong. You probably screwed up the order. Did you close with the swirl?
+Back to Jerry's apartment|GEORGE|Supposed to close with the swirl?
+Back to Jerry's apartment|JERRY|Oh my god. Yes, you close with the swirl. There's a progression there. I told you to write it down.
+Back to Jerry's apartment|GEORGE|Yeah, yeah, should've written it down.
+Back to Jerry's apartment|action|Bzzz. Jerry walks over to answer it
+Back to Jerry's apartment|JERRY|Yeah?
+Back to Jerry's apartment|BUZZER|Elaine.
+Back to Jerry's apartment|JERRY|C'mon up. (turns to George) You know what? Do me a favor. Don't even do the move anymore. You're gonna give it a bad name.
+Back to Jerry's apartment|action|The phone rings
+Back to Jerry's apartment|JERRY|Hello? Yeah, this is Jerry Seinfeld. What? Twenty-eight hundred dollars?!! That's the estimate on my car?!! No, don't even do anything. I'm gonna think about it. Okay, bye.
+Back to Jerry's apartment|GEORGE|What's to think about? If Putty says it's what it is, it's what it is. He's not gonna cheat you.
+Back to Jerry's apartment|JERRY|Except that it's not Putty.
+Back to Jerry's apartment|GEORGE|What happened to Putty?
+Back to Jerry's apartment|JERRY|Eh, we had a little fight about the move. I took her to this other place. I think they might be trying to screw me.
+Back to Jerry's apartment|GEORGE|Well, of course they're trying to screw you. What do you think? That's what they do. They can make up anything. Nobody knows. "By the way, you need a new Johnson rod in there." "Oh, a Johnson rod. Yeah, well, you better put one of those on."
+Back to Jerry's apartment|action|Elaine comes in looking a bit peeved
+Back to Jerry's apartment|JERRY|Hey, Elaine.
+Back to Jerry's apartment|ELAINE|Yeah, yeah, hello.
+Back to Jerry's apartment|JERRY|Is it something I said?
+Back to Jerry's apartment|ELAINE|Yes! As a matter of fact! David Putty won't do the move anymore.
+Back to Jerry's apartment|JERRY|Really?
+Back to Jerry's apartment|ELAINE|Oh, he's come up with some other move. You should see this thing.
+Back to Jerry's apartment|JERRY|What is it?
+Back to Jerry's apartment|ELAINE|Oh, it's a lot of just fancy-shmancy stuff. You know what it's like? It's like a big budget movie with a story that goes *nowhere*.
+Back to Jerry's apartment|JERRY|Huh.
+Back to Jerry's apartment|ELAINE|I mean, this move is no good, Jerry. It's just taking up a lot of my time. And I...will not stand by and allow him to perform this move on me, when a perfectly good move is just sitting in the barn doing nothing!
+Back to Jerry's apartment|GEORGE|Let me ask you a question. This new move. Is there a knuckle involved in any way?
+Back to Jerry's apartment|ELAINE|Yes. As a matter of fact, there is.
+Back to Jerry's apartment|GEORGE|I think that's mine.
+Back to Jerry's apartment|ELAINE|I'm not surprised.
+Back to Jerry's apartment|JERRY|Listen. I need you to do me a favor. When's the next time you're gonna see him?
+Back to Jerry's apartment|ELAINE|Why?
+Back to Jerry's apartment|JERRY|You gotta get an estimate on my car from him. I think this garage is trying to screw me.
+Back to Jerry's apartment|ELAINE|An estimate? How am I supposed to do that?
+Back to Jerry's apartment|JERRY|Well, look. Here's the work order with everything that broke. Just kind of bring it up at the right time and find out. (hands Elaine the work order)
+Back to Jerry's apartment|ELAINE|(takes the work order and points to the Fusilli Jerry sitting on the table) What? What is this?
+Back to Jerry's apartment|JERRY|That's, uh, Fusilli Jerry.
+Back to Jerry's apartment|ELAINE|Fusilli Jerry?
+Back to Jerry's apartment|JERRY|Yeah. Kramer made it.
+Back to Jerry's apartment|GEORGE|All right, listen, I'll see you guys later.
+Back to Jerry's apartment|action|As George is leaving, Kramer comes in with a female companion
+Back to Jerry's apartment|JERRY|Hey, Assman!
+Back to Jerry's apartment|KRAMER|Hey, well, this is Sally.
+Back to Jerry's apartment|SALLY|Hello.
+Back to Jerry's apartment|JERRY|Hi.
+Back to Jerry's apartment|ELAINE|Hi.
+Back to Jerry's apartment|KRAMER|Shall we go?
+Back to Jerry's apartment|SALLY|Okay. (turns around and walks out with an exaggerated swing of her hips)
+Back to Jerry's apartment|action|Elaine, Jerry, and George make a face
+Back at the Costanzas' house...|ESTELLE|You can't face the fact that I'm improving myself.
+Back at the Costanzas' house...|FRANK|You're not the only one improving yourself. I worked out with a dumbbell yesterday. I feel *vigorous*.
+Back at the Costanzas' house...|ESTELLE|Just take your mail and go home. I have things to do.
+Back at the Costanzas' house...|FRANK|I got things to do, too.
+Back at the Costanzas' house...|ESTELLE|Don't upset me! I can't cry!
+Back at the Costanzas' house...|FRANK|Getting an eye job like some Manhattanite, huh?
+Back at the Costanzas' house...|ESTELLE|Well, it's already working. Kramer made a pass at me.
+Back at the Costanzas' house...|FRANK|Kramer made a pass at you? You're crazy.
+Back at the Costanzas' house...|ESTELLE|I'm not crazy. He stopped short and made a grab.
+Back at the Costanzas' house...|FRANK|He stopped short? That's my move. I'm gonna kill him!
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Hey, let me ask you a question.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|DAVID|Sure.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|What do you charge for blown shocks?
+Once again, we join Elaine and David...in bed as usual...doing what they do best|DAVID|What?
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Two, three hundred?
+Once again, we join Elaine and David...in bed as usual...doing what they do best|DAVID|I don't know. Maybe five hundred.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Ah.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|action|They go back to kissing
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|What about a bad gasket?
+Once again, we join Elaine and David...in bed as usual...doing what they do best|DAVID|Bad gasket?
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Yeah. Like a terrible gasket.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|DAVID|What is all this?
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Nothing, nothing. I'm just taking an interest in what you...do.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|DAVID|What kind of car is it?
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Oh...any kind of---of a Swedish car.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|DAVID|All together, that could run about sixteen hundred.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Oh.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|action|Kiss again
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Is that with the parts and labor?
+Once again, we join Elaine and David...in bed as usual...doing what they do best|DAVID|Uh-huh.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Hmm.
+Once again, we join Elaine and David...in bed as usual...doing what they do best|action|Kiss...again
+Once again, we join Elaine and David...in bed as usual...doing what they do best|ELAINE|Oh, no. No, David. No, please. Not the knuckle....
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|NANCY|Wow. That was...*great*. I mean...*wow*.
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|GEORGE|It just came to me.
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|NANCY|I---I've never in my life have---have I---. What was that?
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|GEORGE|You mean in the end?
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|NANCY|Uh-huh.
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|GEORGE|A counter-clockwise swirl.
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|action|Spotting something on George's hand
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|NANCY|What's that?
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|GEORGE|What?
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|NANCY|On---on your hand? Let me see what's on your hand.
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|GEORGE|Nothing. I don't know...just a little dirt.
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|NANCY|Give me that. (grabs his hand) I wanna see what's on your hand.
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|action|They struggle for a bit, but Nancy finally gets a hold of his hand and tries to make out the scribble
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|NANCY|Number one. Take her leg.... Oh, my god! Crib notes? You've got crib notes?!!
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|GEORGE|It's a very complicated move! I couldn't remember it all.
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|NANCY|Oh, my god, you're sick. (gets out of bed)
+Back to George and Nancy in bed. George is looking quite pleased with himself. Nancy, on the other hand, looks...bewildered...pleasantly surprised...|GEORGE|You know, it's not the S.A.T.s!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|Assman? I'll get him, Assman!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|Back to Jerry's apartment
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|Sixteen hundred dollars? That's all? *Ooh*, they are ripping me off.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|ELAINE|So what are you going to do?
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|Well, that's it. I'm going back to Putty. No move is worth this.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|ELAINE|Oh! You mean you don't care if he does the move anymore?
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|Are you kidding? He can do every move I've ever done! Do you know what a good mechanic is worth? You can't compare that to sex.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|There's a knock at the door and Jerry goes over to answer it
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|Hi, Mr. Constanza. What's uh...?
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|Where's your friend Kramer?
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|I don't know. Why?
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|Because I'm looking for him. That's why. He stopped short.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|What do you mean?
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|In a car, with my wife. He stopped short. You think I don't know what that's about? That's my old move! I used it on Estelle forty years ago! I told everybody about it! Everybody knows! (Demonstrates) Hmmph! I stopped short.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|Really, stopping short. That's a good move.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|You're not kidding it's a good move!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|Kramer walks in.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|Hey.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|Hey.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|Hey, Frank.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|Don't Frank me! I know what you did. How dare you stop short with my wife!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|C'mon, Frank, relax. I don't even know what you're talking about.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|Frank backs Kramer into the table, knocking the Fusilli Jerry to the floor
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|You think I don't know, Assman?!! To think I almost split the profits on the Manssierre with you.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|Bro.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|Manssierre!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|Bro!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|Manssierre! You...!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|Frank grabs Kramer by the collar and in doing so, he slips and falls right on top of the Fusilli Jerry
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|Aah!!!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|Oh, my god!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|Everyone gasps in horror, including George, who was just walking in at that very moment
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|If I wasn't there, I wouldn't have believed it.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|ELAINE|Me either.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|GEORGE|They say this guy's the best.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|He had to use cork-screw pasta.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|At that thought, Jerry, George, and Elaine shift uncomfortably in their seats. Meanwhile, Kramer is checking out the pictures on the wall. He spots something...
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|Jerry. Jerry, come here. Take a look at this.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|Jerry joins him
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|The name on the boat. Look at it.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|JERRY|Assman!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|Yeah (points towards the doctor's office), he's the Assman! Jerry, *he's* the Assman!
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|The doctor walks in
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|DOCTOR|Which one is the son?
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|GEORGE|(stands up) I am.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|DOCTOR|Ah. I'm Doctor Cooperman. I just want you to know that this won't take long. And he's going to be fine.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|Kramer stops Dr. Cooperman at the door.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|Yeah, excuse me, uh... You didn't by any chance recently get the wrong license plates?
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|KRAMER|So...you're the Assman.
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|action|Dr. Cooperman winks and heads back to where Frank is waiting
+Cut to Frank on the streets. He spots Kramer's car. He looks inside the back window and sees the "Bro"---or is it the "Manssierre"? He checks out the plates|FRANK|It was a million to one shot, Doc. Million to one.
+Back at the Costanza's house, George and Frank are just walking in|ESTELLE|Where have you been?!! You were supposed to fix the stove! I've been waiting for hours!
+Back at the Costanza's house, George and Frank are just walking in|FRANK|I fell on some Fusilli.
+Back at the Costanza's house, George and Frank are just walking in|ESTELLE|Fusilli?
+Back at the Costanza's house, George and Frank are just walking in|FRANK|You know, the corkscrew pasta. It was a Fusilli Jerry. It got stuck in me. Had to go to the proctologist.
+Back at the Costanza's house, George and Frank are just walking in|ESTELLE|The proctologist? Are you okay?
+Back at the Costanza's house, George and Frank are just walking in|FRANK|Yeah.
+Back at the Costanza's house, George and Frank are just walking in|ESTELLE|Oh, I was so worried. (grabs a couple of tissues from the box)
+Back at the Costanza's house, George and Frank are just walking in|GEORGE|Ma, don't cry!
+Back at the Costanza's house, George and Frank are just walking in|ESTELLE|Oh, I can't help it!
+Back at the Costanza's house, George and Frank are just walking in|GEORGE|Ma, your eyes!
+Back at the Costanza's house, George and Frank are just walking in|ESTELLE|Oh!

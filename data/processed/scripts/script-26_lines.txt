@@ -1,0 +1,272 @@
+Jerry and George are at a newsstand|GEORGE|Where'd you meet her?
+Jerry and George are at a newsstand|JERRY|I met her on an elevator.
+Jerry and George are at a newsstand|GEORGE|On an elevator? You met a woman on an elevator?
+Jerry and George are at a newsstand|JERRY|Impossible, right?
+Jerry and George are at a newsstand|GEORGE|You got less than sixty seconds. That's like dismantling a time bomb. What got into you?
+Jerry and George are at a newsstand|JERRY|I don't know. She was so beautiful, it was like a pure reflex. The words just came out of my mouth.
+Jerry and George are at a newsstand|GEORGE|Wow. What'd you say?
+Jerry and George are at a newsstand|action|flashback to Jerry and Isabel on the elevator
+Jerry and George are at a newsstand|JERRY|You know, I'm the one responsible for those crop circles in England.
+Jerry and George are at a newsstand|action|end of flashback
+Jerry and George are at a newsstand|GEORGE|Wow.
+Jerry and George are at a newsstand|JERRY|Can you believe I did that?
+Jerry and George are at a newsstand|GEORGE|What did she say?
+Jerry and George are at a newsstand|action|another flashback
+Jerry and George are at a newsstand|ISABEL|What crop circles?
+Jerry and George are at a newsstand|action|end of flashback
+Jerry and George are at a newsstand|JERRY|Not a good sign.
+Jerry and George are at a newsstand|GEORGE|Not everybody knows what the crop circles are. (to the newsstand owner) Do you know what the crop circles are?
+Jerry and George are at a newsstand|JERRY|You got something in your teeth there.
+Jerry and George are at a newsstand|GEORGE|What?
+Jerry and George are at a newsstand|JERRY|It's green.
+Jerry and George are at a newsstand|GEORGE|Oh, man, it's spinach! I've been walking around like this all afternoon.
+Jerry and George are at a newsstand|JERRY|Did you bump into anybody you knew?
+Jerry and George are at a newsstand|GEORGE|I had a job interview.
+Jerry and George are at a newsstand|JERRY|How'd it go?
+Jerry and George are at a newsstand|GEORGE|Take a guess.
+Jerry and George are at a newsstand|action|flashback to George's job interview, with close-ups of George's spinached teeth.
+Jerry and George are at a newsstand|INTERVIEWER|Well, Mr. Costanza, we have nothing available at the present time, but should anything open up, we'll be in touch.
+Jerry and George are at a newsstand|GEORGE|Ok, thanks.
+Jerry and George are at a newsstand|action|end of flashback
+Jerry and George are at a newsstand|JERRY|What do you need a job, you got Audrey.
+Jerry and George are at a newsstand|GEORGE|Yeah, right.
+Jerry and George are at a newsstand|JERRY|What's the matter?
+Jerry and George are at a newsstand|GEORGE|Oh, nothing.
+Jerry and George are at a newsstand|JERRY|What?
+Jerry and George are at a newsstand|GEORGE|You won't think I'm a bad person?
+Jerry and George are at a newsstand|JERRY|Too late for that.
+Jerry and George are at a newsstand|GEORGE|'Cause believe me, I would only say this to you and maybe a psychiatrist, maybe. Well, her nose is a little big.
+Jerry and George are at a newsstand|JERRY|Yeah, she's got a big nose.
+Jerry and George are at a newsstand|GEORGE|I mean, big would even be ok, a little beyond big.
+Jerry and George are at a newsstand|action|momentary flashback to Audrey's tremendous nose
+Jerry and George are at a newsstand|JERRY|It's a schnoz.
+Jerry and George are at a newsstand|GEORGE|Now, I'm aware that my own physical dimensions are perhaps a little short of perfection.
+Jerry and George are at a newsstand|JERRY|A little.
+Jerry and George are at a newsstand|GEORGE|So who am I to be thinking about someone's nose? I mean, I should be grateful someone like her even looks at me. I have no job, nothing. But I have to say, I think about the nose. I don't want to think about the nose. I don't ask to think about the nose, but I think about it. I go to bed at night, I tell myself, 'Don't think about the nose, forget the nose,' but I think about it. I look at her, I see nose.
+Jerry and George are at a newsstand|JERRY|Stop being so concerned with looks.
+Jerry and George are at a newsstand|action|momentary flashback to Isabel giving Jerry her number
+Jerry and George are at a newsstand|JERRY|Have you said anything to her about it?
+Jerry and George are at a newsstand|GEORGE|I could never do that. You know the ironic thing is if she had a smaller nose, I never could have gone out with her in the first place. She'd be out of my league with a smaller nose. And I really like her, I know that. And I know one other thing. I'm not getting past that nose.
+Jerry and George are at a newsstand|JERRY|Alright, shut up, here they come.
+Jerry and George are at a newsstand|GEORGE|(waving) How can I not think about it? Look at the size of this thing.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|So my mother's going out with this guy who leaves a jacket in her house so, you know, she gives it to me. Well, two years later he shows up and he takes it back. And now he's in prison. He got arrested for mail fraud. So Elaine, all you have to do is go over to the apartment, tell the landlord that you're his daughter and you want to bring him the jacket in prison.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|ELAINE|Won't the landlord know I'm not the daughter?
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|No no, he's never met her. She's in California.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|ELAINE|Are you coming with me?
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|Oh, yeah yeah, I have to. I'm your fiancé, Peter Von Nostrand.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|GEORGE|Why don't you just commit yourself already?
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|AUDREY|What is so special about this jacket?
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|ELAINE|He believes it possesses some extraordinary power over women.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|AUDREY|What's the smudge on your hand?
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|Oh, I got stamped at the reggae lounge last night. Yeah, I'm going back there tonight, you know, I'm not gonna pay another cover charge.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|GEORGE|What, you didn't wash all day?
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|Yeah, I washed, just not the hand. You wouldn't believe the women at this club. Ohh, man.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|AUDREY|It's amazing how many beautiful women live in New York. I actually find it kind of intimidating.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|Well, you're as pretty as any of them, you just need a nose job.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|ELAINE|Kramer!
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|What? What?
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|ELAINE|How could you say something like that?!
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|What? What do you mean? I just said she needs a nose job.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|ELAINE|No no, there's nothing wrong with her nose! I'm so sorry, Audrey.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|AUDREY|No, it's ok.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|ELAINE|What did you have to say that for?
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|Well, I was just trying to help out.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|ELAINE|Yeah? Well, you can kiss that jacket goodbye, Mr. Von Nozzin.
+Jerry, Elaine, George, Audrey and Kramer are sharing a pizza at Jerry's apartment|KRAMER|You see what happens when you try to be nice?
+George and Audrey are in Elaine's apartment|AUDREY|Elaine said I could stay with her another month until Tina gets back. What are you thinking about?
+George and Audrey are in Elaine's apartment|GEORGE|Thinking? Nothing. What could I possibly be thinking?
+George and Audrey are in Elaine's apartment|AUDREY|You look like you've got something on your mind.
+George and Audrey are in Elaine's apartment|GEORGE|Oh, yeah, right. I wish I had something on my mind. (pregnant pause) So how about that Kramer, huh?
+George and Audrey are in Elaine's apartment|AUDREY|How about him?
+George and Audrey are in Elaine's apartment|GEORGE|They way he just says stuff.
+George and Audrey are in Elaine's apartment|AUDREY|He sure does.
+George and Audrey are in Elaine's apartment|GEORGE|Yeah. Yeah, he's quite a character.
+George and Audrey are in Elaine's apartment|AUDREY|So, what did you think?
+George and Audrey are in Elaine's apartment|GEORGE|About the pizza?
+George and Audrey are in Elaine's apartment|AUDREY|No, about the nose job.
+George and Audrey are in Elaine's apartment|GEORGE|Oh, the nose job. I don't know, what did you think?
+George and Audrey are in Elaine's apartment|AUDREY|Well, I've thought about it, but I don't know.
+George and Audrey are in Elaine's apartment|GEORGE|Yeah. (another pause) Not that I care, one way or the other, but these doctors today really do amazing things, you know, if you were so inclined. And again, I'm not suggesting.
+George and Audrey are in Elaine's apartment|AUDREY|I know, they're good.
+George and Audrey are in Elaine's apartment|GEORGE|Peter Jennings had one.
+George and Audrey are in Elaine's apartment|AUDREY|Really?
+George and Audrey are in Elaine's apartment|GEORGE|Probably. They all do. In my high school, half my graduating class had them. Of course, I'm from Long Island, so...
+George and Audrey are in Elaine's apartment|AUDREY|Uh huh.
+George and Audrey are in Elaine's apartment|GEORGE|It's really nothing, it's like going to the dentist.
+George and Audrey are in Elaine's apartment|AUDREY|I hate the dentist.
+George and Audrey are in Elaine's apartment|GEORGE|It's a cleaning.
+George and Audrey are in Elaine's apartment|AUDREY|So you really think I should do this?
+George and Audrey are in Elaine's apartment|GEORGE|If it makes you happy, I don't focus on these things. I will tell you this: Unfortunately, we live in a very superficial society. I don't condone it, but it's a fact of life.
+George and Audrey are in Elaine's apartment|AUDREY|Well, maybe I should.
+George and Audrey are in Elaine's apartment|GEORGE|What the hell.
+George and Audrey are in Elaine's apartment|ELAINE|(barging in) Aw, now you talked her into getting a nose job?
+George and Audrey are in Elaine's apartment|GEORGE|Me? I didn't say anything.
+George and Audrey are in Elaine's apartment|ELAINE|You encouraged her to get one.
+George and Audrey are in Elaine's apartment|GEORGE|I didn't encourage. No encourage.
+George and Audrey are in Elaine's apartment|ELAINE|Peter Jennings had one?
+George and Audrey are in Elaine's apartment|GEORGE|It's possible.
+George and Audrey are in Elaine's apartment|ELAINE|Well, I think you should accept her for who she is.
+George and Audrey are in Elaine's apartment|AUDREY|No, George is right. I want to get one.
+George and Audrey are in Elaine's apartment|ELAINE|I think it's a mistake.
+George and Audrey are in Elaine's apartment|GEORGE|Me too, really. Unless you'd really like to get one.
+Jerry and George are at the coffee shop|GEORGE|I'm going straight to hell, no two ways about it.
+Jerry and George are at the coffee shop|JERRY|Well, it might not be hell but you're gonna run into some bad dudes.
+Jerry and George are at the coffee shop|GEORGE|(checking his watch) Hey, let's get the check, she's taking the bandages off at four o'clock.
+Jerry and George are at the coffee shop|JERRY|We have time.
+Jerry and George are at the coffee shop|GEORGE|It's exciting, isn't it? She's gonna have a whole new face.
+Jerry and George are at the coffee shop|JERRY|It is exciting.
+Jerry and George are at the coffee shop|GEORGE|Of course, not as exciting as miss crop circles, but...
+Jerry and George are at the coffee shop|JERRY|Please, please, Isabel? She is the most despicable woman I have ever met in my life. I have never been so repulsed by someone mentally and so attracted to them physically at the same time. It's like my brain is facing my penis in a chess game. And I'm letting him win.
+Jerry and George are at the coffee shop|GEORGE|You're not letting him win. He wins till you're forty.
+Jerry and George are at the coffee shop|JERRY|Then what?
+Jerry and George are at the coffee shop|GEORGE|He still wins but it's not a blowout.
+Jerry and George are at the coffee shop|JERRY|She wants to be an actress. She makes me read these moronic acting scenes with her, and I do it because I'm so addicted to the sex, I'm helpless, I'll do anything. So finally Kramer comes in the other day.
+Jerry and George are at the coffee shop|action|flashback to Kramer and Jerry in Jerry's apartment
+Jerry and George are at the coffee shop|JERRY|(holding up a piece of paper) I don't want to see this woman anymore but I haven't got the will power to throw out her number. Please, help me. Help me.
+Jerry and George are at the coffee shop|KRAMER|(taking the paper and tearing it to pieces) I'm proud of you.
+Jerry and George are at the coffee shop|action|end of flashback
+Jerry and George are at the coffee shop|JERRY|So I'm never gonna see her again, I'm going cold turkey.
+Jerry and George are at the coffee shop|GEORGE|Good for you.
+Jerry and George are at the coffee shop|JERRY|I'll tell you, the sex... I mean, I was like an animal. I mean it was just completely uninhibited.
+Jerry and George are at the coffee shop|GEORGE|It's like going to the bathroom in front of a lot of people and not caring.
+Jerry and George are at the coffee shop|JERRY|It's not like that at all.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|How do you even know the jacket is there?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|KRAMER|Well I don't, I'm guessing.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Okay, look, Audrey, before you take the bandage off just remember that I was the one that encouraged you to do this, you know? Now that you're gonna be a great beauty, let's not forget how this all began. You know, like if you'd listened to your friend, Elaine,
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|AUDREY|George?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Yeah?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|AUDREY|Enough.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|JERRY|Alright, are we ready? Come on, let's get this show on the road.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|Are you sure you want us here for this?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|AUDREY|Yes.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|JERRY|Shouldn't a doctor do it?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|AUDREY|No, he said I could do it. Okay, here goes.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Very exciting, very exciting, it's like watching a birth.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|action|Audrey removed the bandage, the gang tries to disguise their horror.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|It looks good.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|JERRY|Great job.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|KRAMER|You got butchered.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|action|George faints
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|action|An undetermined time later, Jerry and Elaine are helping George to his feet.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|JERRY|Let's put him over here.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|KRAMER|(to a fleeing Audrey) Where are you going?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|AUDREY|(with hand covering nose) To the doctor!
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|KRAMER|Wait, wait, wait, I'll go with you.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|action|Kramer leaves, Elaine sits on the couch near George.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|How ya feeling?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Too much salt in my diet.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|Can I get you anything?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Nah, I'm good.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|You sure? Anything?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Mmm, no. Boy, it really didn't come out too well, did it?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|No, it didn't. No, it didn't.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|It's like, all dented.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|Seems to be.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Well, I'm sure they'll be able to fix it. You can't stop modern science. Can't stop it, you can't stop it. Can't stop science. Can't be stopped, no way, no how, science just marches--
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|Shut up, George.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Shut up?
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|ELAINE|Yeah.
+Elaine, George, Jerry, Kramer and Audrey are at Elaine's apartment|GEORGE|Interesting.
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|JERRY|Come on, Kramer, seriously, give me her number!
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|KRAMER|I don't have it, I threw it out.
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|JERRY|You're lying! You got it, I want that number!
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|KRAMER|I told you, I threw it out.
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|JERRY|Give it to me!
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|KRAMER|You told me not to give it to you, you made me promise.
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|JERRY|Well, I changed my mind, I want that number.
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|KRAMER|You said, no matter what you do or say, I'm not to give you the number.
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|JERRY|I was lying, give it to me!
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|KRAMER|No, you told me not to!
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|JERRY|I want that number!
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|KRAMER|Alright! (flinging pieces of torn paper to the ground) Yeah! Yeah! Yeah! (Jerry falls to the floor and starts arranging pieces) Look at you! Look at what you've sunk to! Look at what you've become! Look in the mirror, cause you need help, Jerry. You need help, because I can't stand by and do it anymore. It's turning my stomach! I can't stand around here watching you destroy yourself. It's eating me up inside!
+Jerry and Kramer are at Jerry's apartment. Kramer is pouring a bowl of cereal, Jerry has cracked.|action|Kramer storms out, then storms back in to grab the box of cereal and the bowl, then storms out again.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|The doctor said that they need to build the lateral wall of the septum. Over here...
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|Yeah.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|You see this perinasal sinus cavity?
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|Oh, I got it.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|You see how it's collapsing? That's what's causing this huge dent.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|Yeah, phew.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|So anyway, George, do you know what I was thinking about?
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|What?
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|Remember we talked about taking a trip together?
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|We did?
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|Yeah, we talked about going to Hawaii?
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|Hawaii?
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|Anyway, I think it would be great to get away after all this.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|(removing his glasses) You know, Hawaii could be a little tricky right now, there's a lot of high pressure winds down there this time of year, there's a lot of debris constantly flying around. Wood, and uh, lava, pretty dangerous.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|I never heard that.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|Oh yeah. My friend lived there.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|We could go to the Caribbean.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|GEORGE|You know, I have to tell you something. You couldn't get me on a plane right now. I get those FAA reports directly. My uncle sends them to me, he used to be a pilot, so. Big investigation in the, uh, what's the word there, uh, offing. It's in the offing. But, you know, you shouldn't let that stop you from going. You could go. I don't mind.
+George and Audrey are at the coffee shop, Audrey is talking about her nose, George is trying not to look at it.|AUDREY|George, I don't think this is working.
+Jerry is rehearsing with Isabel.|ISABEL|Ever since you came back from the Army, you've changed. I swear Nelson, I don't even know who you are anymore.
+Jerry is rehearsing with Isabel.|JERRY|I'm Nelson!
+Jerry is rehearsing with Isabel.|ISABEL|That's not the line, Jerry.
+Jerry is rehearsing with Isabel.|JERRY|Alright, alright, I'm sorry. (reading) Nothing's changed, Alma, I just need more time.
+Jerry is rehearsing with Isabel.|ISABEL|I swear, Nelson, sometimes at night, when you're not around, I just go crazy thinking about you.
+Jerry is rehearsing with Isabel.|JERRY|Well, you just need to relax. Maybe a hobby, bowling is fun.
+Jerry is rehearsing with Isabel.|ISABEL|Yeah, bowling's good if you're really gross and ugly.
+Jerry is rehearsing with Isabel.|JERRY|(to himself: Uh oh. My organs are playing chess again.
+Jerry is rehearsing with Isabel.|action|Cut to the table where a slightly translucent Jerry's brain is playing chess with a similarly visible Jerry's penis.
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|You know the only reason I'm doing this is because you took Audrey to the hospital.
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|(filling a pipe) Yeah, yeah, ok, now uh, you're clear, you got everything?
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|Yeah.
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|Wait wait wait wait wait. (putting a ring on Elaine's finger) Here.
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|What do I need this for?
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|Because we're engaged.
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|We're engaged?
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|Um hm.
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|Kramer, this is too big.
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|(lighting his pipe) It's my mom's.
+Elaine and Kramer are outside the landlord's apartment.|action|A stout man walks around the corner.
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|Hello?
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|Oh, uh, hi. I'm Wanda Pepper, I'm Albert Pepper's daughter. My father asked me to come here and pick up his jacket for him.
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|Oh, hello Miss Pepper, it's a pleasure to meet you. (To Kramer) And you must be Professor Von Nostrand?
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|Yes, yes I am.
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|I've read your book, Professor, and I was quite intrigued by it.
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|Uh, yes. Well, it's, uh, very intriguing.
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|Tell me, is it your contention that Shakespeare was an imposter?
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|My contention?
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|Yes, your contention.
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|Yes, that's my contention.
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|I heard him contend that.
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|It's too bad about your father.
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|Oh, it was a frame-up.
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|A fine man, he spoke often of you. He's very proud of the work you're doing.
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|Oh, well, we're all proud of the work I'm doing.
+Elaine and Kramer are outside the landlord's apartment.|KRAMER|She does fine work.
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|Your father gave me strict orders not to turn the jacket over to anyone, but I suppose I can make an exception in your case. The closet's this way.
+Elaine and Kramer are outside the landlord's apartment.|ELAINE|How kind of you.
+Elaine and Kramer are outside the landlord's apartment.|LANDLORD|You know, your father has a very extensive wardrobe.
+Elaine and Kramer are outside the landlord's apartment.|action|Kramer enters after Elaine, banging his pipe on the door frame.
+Elaine and Kramer are outside the landlord's apartment.|action|Jerry's Brain and Penis are still playing chess, Jerry's Brain appears to have the upper hand.
+Elaine and Kramer are outside the landlord's apartment.|ISABEL|Nelson, don't you see? You are a part of me, and I, I am a part of you.
+Elaine and Kramer are outside the landlord's apartment.|action|Jerry's Penis disappears with an audible pop
+Elaine and Kramer are outside the landlord's apartment.|JERRY|Isabel, uh, I don't think this is working.
+Elaine and Kramer are outside the landlord's apartment.|action|Isabel checks the script with a puzzled look on her face
+Back to Elaine, Kramer and the landlord at Albert Pepper's apartment|ELAINE|Daddy certainly does have an extensive wardrobe.
+Back to Elaine, Kramer and the landlord at Albert Pepper's apartment|LANDLORD|He is a fine dresser and I'm sure I don't have to tell you he's quite popular with the ladies.
+Back to Elaine, Kramer and the landlord at Albert Pepper's apartment|ELAINE|My father, really? I had no idea.
+Back to Elaine, Kramer and the landlord at Albert Pepper's apartment|LANDLORD|Yes, they're crazy about him. There was one in particular, came around about two years ago, looked a lot like you, Professor. Could have been your mother. What was her name again? Carter? Kramer! That's it, Babs
+Back to Elaine, Kramer and the landlord at Albert Pepper's apartment|KRAMER|You don't say?
+Back to Elaine, Kramer and the landlord at Albert Pepper's apartment|ELAINE|I found it!
+Back to Elaine, Kramer and the landlord at Albert Pepper's apartment|LANDLORD|The woman used to walk around here half naked, sucking Colt 45 from a can. Her big fat stomach hanging out, orthopedic hose up to her knees, screaming down the hall, "Come back to bed, Albert, you big hairy ape, and bring back that box of Danish!"
+Back to Elaine, Kramer and the landlord at Albert Pepper's apartment|action|Throughout the landlord's narrative, Kramer becomes more and more agitated. Finally, he grabs the pipe out of his mouth.
+The four are at their usual booth at the coffee shop.|KRAMER|So I grabbed the guy by the collar.
+The four are at their usual booth at the coffee shop.|ELAINE|Yeah, and I yelled out, Kramer! Kramer, you're killing him!"
+The four are at their usual booth at the coffee shop.|JERRY|So I assume the jig was up.
+The four are at their usual booth at the coffee shop.|ELAINE|Yeah, pretty much.
+The four are at their usual booth at the coffee shop.|action|Kramer shows off the fruits of their labor; he's wearing the jacket. Audrey walks in, her nose has been repaired and she's absolutely beautiful
+The four are at their usual booth at the coffee shop.|AUDREY|Hi.
+The four are at their usual booth at the coffee shop.|ELAINE|Hi!
+The four are at their usual booth at the coffee shop.|JERRY|Hey.
+The four are at their usual booth at the coffee shop.|AUDREY|(to George) Hello.
+The four are at their usual booth at the coffee shop.|GEORGE|(smitten) Audrey? My god, you look incredible! I can't believe it!
+The four are at their usual booth at the coffee shop.|AUDREY|(motioning to Kramer) Well, it was his doctor. He was wonderful.
+The four are at their usual booth at the coffee shop.|ELAINE|So, will I see you later tonight?
+The four are at their usual booth at the coffee shop.|AUDREY|Not sure.
+The four are at their usual booth at the coffee shop.|KRAMER|(rising and putting his arm around Audrey's shoulder) Well, I'll check you guys out later. (To Audrey) Ready?
+The four are at their usual booth at the coffee shop.|AUDREY|(holding up her hand to show the stamp) I didn't wash.
+The four are at their usual booth at the coffee shop.|KRAMER|Neither did I. We're off to the Reggae Lounge.
+The four are at their usual booth at the coffee shop.|ELAINE|(after they leave) Isn't she beautiful? Her nose is in such perfect proportion with the rest of her face. She's breathtaking! Who would have though she's like--
+The four are at their usual booth at the coffee shop.|GEORGE|(interrupting) Elaine. Shut up.

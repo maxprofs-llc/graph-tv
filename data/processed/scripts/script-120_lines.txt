@@ -1,0 +1,449 @@
+Monks'|action|Jerry and George sitting in a booth, much as usual.
+Monks'|GEORGE|You think she's happy?
+Monks'|JERRY|Who?
+Monks'|GEORGE|(indicates with his head) The cashier.
+Monks'|JERRY|Ruthie Cohen?
+Monks'|GEORGE|(surprised) You know her name?
+Monks'|JERRY|Sure.
+Monks'|GEORGE|I don't think I've ever spoken to her.
+Monks'|JERRY|Maybe that's why she's happy.
+Monks'|action|Kramer enters. He has a handful of flyers.
+Monks'|KRAMER|(handing Jerry & George a flyer) Good morning, gentlemen.
+Monks'|JERRY|What is this?
+Monks'|KRAMER|(removing his coat) Yeah, well, it's the latest offering from the Alex Theatre.
+Monks'|JERRY|That stinky old movie-house?
+Monks'|KRAMER|(sits beside Jerry) Well, you should smell it now. We fixed up the place.
+Monks'|GEORGE|(gesturing with flyer) With Spartacus?
+Monks'|KRAMER|(lighting his pipe) Well, it's a rare archival print. (jumps as his burns his fingers) Twelve extra minutes, full wide-screen CinemaScope, and if you come to the one o'clock show, you can hear Geoffrey Har-harwood.
+Monks'|JERRY|Geoffrey who?
+Monks'|KRAMER|Har-harwood, Jerry. He was the assistant wardrobe man on Spartacus. Some fascinating insights into the production.
+Monks'|GEORGE|Why would I spend seven dollars to see a movie that I could watch on TV?
+Monks'|KRAMER|Well, why go to a fine restaurant, when you can just stick something in the microwave? Why go to the park and fly a kite, when you can just pop a pill? (looks around Monk's) Listen, you guys haven't seen Lloyd Braun, have you? I'm supposed to meet him here.
+Monks'|GEORGE|Lloyd Braun? What d'you have to meet him for?
+Monks'|KRAMER|Well, he's using his connections in the Mayor's office, to uh, get the theatre landmark status.
+Monks'|JERRY|I thought he screwed up the Dinkins campaign.
+Monks'|KRAMER|Well, he did. You know, after that, he had a nervous breakdown? Had to spend a few months in an institution.
+Monks'|GEORGE|Really?
+Monks'|KRAMER|Yeah, but he's doing a lot better now. I've taken him under my wing.
+Monks'|JERRY|Oh, then I'm not worried.
+Monks'|action|Lloyd Braun enters in the background.
+Monks'|KRAMER|But he still needs all of our support. Now, when he gets here treat him like he's one of the gang, huh.
+Monks'|action|Lloyd wanders toward the guys at the table.
+Monks'|GEORGE|(thoughtful) Breakdown, huh?
+Monks'|LLOYD|Hey Kramer.
+Monks'|KRAMER|Oh, hey Lloyd, hey buddy. (gets up and shakes Lloyd's hand)
+Monks'|LLOYD|How you doing?
+Monks'|KRAMER|(slaps Lloyd on the shoulder) Sit down. (sits himself)
+Monks'|LLOYD|Hi Jerry.
+Monks'|JERRY|Lloyd.
+Monks'|LLOYD|George.
+Monks'|action|Lloyd sits beside George.
+Monks'|GEORGE|Hello, Lloyd. How you doing?
+Monks'|KRAMER|Yeah well, he's doing fine, George.
+Monks'|LLOYD|(offering packet) Gum?
+Monks'|JERRY|(peering) That's an interesting package.
+Monks'|LLOYD|Yeah, it's from China. Go ahead, try a piece. Tell me that's not the most delicious gum you've ever tasted.
+Monks'|KRAMER|Yes, yes. We shall all try a piece and tell you how delicious it is. (he takes pieces for himself and Jerry)
+Monks'|LLOYD|George?
+Monks'|GEORGE|I don't chew gum.
+Monks'|JERRY|(chewing) Mmm, different. Where'd you get it?
+Monks'|LLOYD|Friend of mine in Chinatown gave it to me. If you want I can ask him where he got it.
+Monks'|JERRY|Nah, don't bother.
+Monks'|LLOYD|No, it's no problem.
+Monks'|JERRY|I don't want it.
+Monks'|KRAMER|Jerry, Jerry. Lloyd says it's no problem. He's capable of locating the gum.
+Monks'|JERRY|Alright.
+Monks'|KRAMER|Mmm, delicious. This is delicious. Mmm.
+Jerry's Apartment|action|George sits at the table examining the contents of his wallet. Jerry is still chewing, and by his face, he's not enjoying it.
+Jerry's Apartment|GEORGE|You know what? I think this Ruthie Cohen gave me the wrong change. Didn't I pay with a twenty? I'm sure I paid with a twenty.
+Jerry's Apartment|action|Elaine enters.
+Jerry's Apartment|ELAINE|Hey.
+Jerry's Apartment|GEORGE|Hey.
+Jerry's Apartment|JERRY|I think I finally figured out what the flavor is in this gum. It's a little lo-mein-y. (he spits it into the waste bin)
+Jerry's Apartment|ELAINE|What kind is that?
+Jerry's Apartment|JERRY|It's Chinese gum, Lloyd Braun gave me.
+Jerry's Apartment|ELAINE|Lloyd Braun? How's he doing?
+Jerry's Apartment|GEORGE|(almost gleeful) After Dinkins lost the election, he had a complete nervous breakdown. They had to lock him up.
+Jerry's Apartment|ELAINE|You know, that's around the same time I broke up with Lloyd. Y... you don't think that I had anything to do with his breakdown, do you?
+Jerry's Apartment|JERRY|You know, I remember when we parted company, I was babbling incoherently for months.
+Jerry's Apartment|ELAINE|Yeah? Well, I got news for you.
+Jerry's Apartment|GEORGE|The whole time that I was growing up, all I ever heard from my mother was 'Why can't you be more like that Lloyd Braun?'
+Jerry's Apartment|JERRY|And in the end Lloyd Braun became more like you.
+Jerry's Apartment|action|George snaps his fingers and points to Jerry, signaling his agreement. Then he picks up his jacket and heads for the door.
+Jerry's Apartment|GEORGE|Right, gotta get going.
+Jerry's Apartment|JERRY|Aren't you coming with us to Spartacus?
+Jerry's Apartment|GEORGE|Nah, I gotta deliver some Christmas presents to my parents.
+Jerry's Apartment|JERRY|I thought your parents were outta town?
+Jerry's Apartment|GEORGE|Why d'you think I'm going now?
+Street: Queens|action|George has parked his car on the street, and gets out. An elderly guy is on the porch of his house and recognises George.
+Street: Queens|POP|Georgie!
+Street: Queens|GEORGE|Hey, Mr Lazzari.
+Street: Queens|POP|Back in the old neighborhood, ah?
+Street: Queens|GEORGE|Yeah, yeah. Just delivering some presents to my folks.
+Street: Queens|POP|Oh, snazzy car. Le Baron?
+Street: Queens|GEORGE|Yeah, eighty-three. Used to belong to John Voight.
+Street: Queens|POP|The actor, right?
+Street: Queens|GEORGE|Something like that.
+Street: Queens|POP|Mind if I look under the hood?
+Street: Queens|GEORGE|Oh, no no no no. Go ahead, Pop, you always knew your cars.
+Street: Queens|action|A young woman has exited from the old guy's house, and approaches.
+Street: Queens|POP|Oh, Deena! Deena, Deena, l... look who's here.
+Street: Queens|action|Pop lifts the hood of the car, and leans into the engine compartment.
+Street: Queens|DEENA|George Costanza, is that you?
+Street: Queens|GEORGE|Hey Deena, come on, give us a hug. (they hug) Oh my gosh, you look as pretty as you did back in high school.
+Street: Queens|DEENA|Boy, those were some crazy times.
+Street: Queens|GEORGE|Yeah, yeah. Speaking of crazy, did you hear about Lloyd Braun?
+Alex Theatre: Lobby|action|Kramer is leading Jerry and Elaine on a tour of the Alex. There are a few customers scattered about and a bored attendant behind the counter. Elaine has a big bucket of popcorn.
+Alex Theatre: Lobby|KRAMER|The Alex was built in nineteen twenty-two, during the golden era of movie palaces. Minor restorations in nineteen forty-one, forty-seven, fifty-two, fifty-eight, sixty-three, and currently to our present period of time.
+Alex Theatre: Lobby|ELAINE|Boy, you're really getting into this aren't you?
+Alex Theatre: Lobby|KRAMER|Yes, yes I am. The icing on the cake would be getting that landmark status from the City. We're hoping Lloyd Braun can pull a few strings.
+Alex Theatre: Lobby|JERRY|Oh, can Lloyd really do that?
+Alex Theatre: Lobby|KRAMER|Lloyd Braun can do anything he puts his mind to. He's fine, Jerry. (to Elaine) And you should say hello to him, Elaine.
+Alex Theatre: Lobby|ELAINE|(concerned) What? Lloyd is here?
+Alex Theatre: Lobby|action|Kramer indicates Lloyd approaching.
+Alex Theatre: Lobby|ELAINE|What? No, no, I'd rather...
+Alex Theatre: Lobby|LLOYD|Hi Elaine.
+Alex Theatre: Lobby|ELAINE|(big fake smile) Lloyd, yes. Hello.
+Alex Theatre: Lobby|LLOYD|Kramer tell you? We reserved some special seats, so we can all sit together.
+Alex Theatre: Lobby|ELAINE|(reluctant) Oh, well... I, uh, actually Lloyd, Jerry and I have to sit in the front row, uhm, (desperately inventing) because uh, because, because he, he forgot his glasses. So uh, thanks for getting us... uhm, we'll see you afterwards.
+Alex Theatre: Lobby|action|Elaine grabs Jerry by the arm and leads him toward the auditorium.
+Alex Theatre: Lobby|LLOYD|That was odd. Am I crazy, or does Jerry not wear glasses?
+Alex Theatre: Lobby|KRAMER|(emphatic) You're not crazy. Jerry does wear glasses. He just forgot 'em, that's all. (puts an arm round Lloyd's shoulder) Not crazy.
+Alex Theatre: Auditorium|action|Jerry and Elaine sit in the front row of seats. Elaine is eating popcorn.
+Alex Theatre: Auditorium|JERRY|We're all the way in the front row. Why couldn't we sit in the special seats?
+Alex Theatre: Auditorium|ELAINE|I'm sorry, but I didn't want Lloyd thinking I was leading him on again. Seeing him made me feel very uncomfortable.
+Alex Theatre: Auditorium|action|The lights go down, and music is heard as the show begins. Jerry and Elaine lean back in their seats to be able to see the screen.
+Alex Theatre: Auditorium|JERRY|Nah, you don't wanna be uncomfortable.
+Street: Queens|action|Deena and George are still talking. Pop is under the hood of George's car. Bangs and clanks can be heard as he fiddles with the mechanics.
+Street: Queens|DEENA|Poor Lloyd.
+Street: Queens|GEORGE|I know. Completely bonkers!
+Street: Queens|DEENA|Sorry I can't be so flip about this kind of thing. You know, after what happened to Pop.
+Street: Queens|GEORGE|Pop? What happened to Pop?
+Street: Queens|DEENA|I thought you heard. He had a nervous breakdown last year. That's why I'm taking care of him.
+Street: Queens|action|Pop comes out momentarily.
+Street: Queens|POP|Oh, I tell you, they don't build 'em like this any more.
+Street: Queens|action|He goes back under the hood.
+Street: Queens|GEORGE|(a little worried) He uh, he doesn't have the auto shop any more?
+Street: Queens|DEENA|Uhn, it was too much for him.
+Street: Queens|action|Pop is thumping away at part of the engine with a spanner.
+Street: Queens|GEORGE|(very worried) Uhm, I, I gotta go.
+Street: Queens|DEENA|What?
+Street: Queens|GEORGE|I just remembered, I gotta be someplace. Yuh-hu-hur, that's enough. Pop. Pop, put down the wrench, Pop.
+Alex Theatre: Auditorium|action|Kramer and Lloyd sits side by side in the special seats, watching Spartacus. They're smiling happily. Jerry and Elaine lean uncomfortably back in their front-row seats. They're both eating popcorn. Elaine drops a piece onto her blouse, where it rests next to a fancy button. She retrieves the corn, and dislodges the button without noticing. The button falls to the floor where it rests among other detritus.
+George's Car|action|George is driving along the road in his Le Baron. Over the usual engine noise can be heard a metallic rasping, grinding noise. George listens for a few moments, wondering where it's coming from. Then he looks concerned, then angry.
+George's Car|GEORGE|Pop! POP!!
+Alex Theatre: Lobby|action|Kramer and Jerry stand in the lobby. Kramer smoking his pipe, Jerry massaging his neck. Lloyd wanders over to join them.
+Alex Theatre: Lobby|LLOYD|'s a great movie, huh?
+Alex Theatre: Lobby|KRAMER|Yeah.
+Alex Theatre: Lobby|LLOYD|Sorry you forgot those glasses.
+Alex Theatre: Lobby|JERRY|I don't know what I was thinking.
+Alex Theatre: Lobby|LLOYD|How'd you like that gum?
+Alex Theatre: Lobby|JERRY|(noncommittal) Errh.
+Alex Theatre: Lobby|KRAMER|(slapping Jerry on the back) Ah, he loved it.
+Alex Theatre: Lobby|action|Elaine enters. In the absence of the button she lost in the auditorium, her blouse is open to below her breasts, and everything's in the shop window. Not that she knows it.
+Alex Theatre: Lobby|ELAINE|Hey Kramer, you know what? There, there isn't a light there, in the ladies' room.
+Alex Theatre: Lobby|KRAMER|Yeah, yeah. It's being repaired.
+Alex Theatre: Lobby|action|Elaine is suffering with her neck. She rolls her head back and feels the back of her neck with her hand.
+Alex Theatre: Lobby|ELAINE|Oh. Oh God.
+Alex Theatre: Lobby|LLOYD|You alright?
+Alex Theatre: Lobby|action|Elaine stretches her back and neck, at the same time pushing her upperworks into greater prominence.
+Alex Theatre: Lobby|ELAINE|Ah, I sat too close to the screen. Oh. I just gotta stretch out in a hot bath. It was nice to see you again, Lloyd.
+Alex Theatre: Lobby|action|Elaine leaves. Kramer and Lloyd both stare after her.
+Street Outside Alex|action|Elaine walks down the sidewalk, her blouse still open. A florist is using a hose to wash down the sidewalk in front of his store. Elaine carefully steps by, picking her way past. The florist also stares at Elaine's exposure. A cop stands a little further down the street. Elaine approaches him.
+Street Outside Alex|ELAINE|Officer. Officer, is there some reason this man has to always be using a hose? I mean, he's flooding the sidewalk. It's a waste of water. Couldn't he just use a broom?
+Street Outside Alex|action|The cop stares at Elaine's breasts the whole time she's talking.
+Street Outside Alex|COP|Lady, you sold me. (strides toward florist) Hey, you with the hose.
+Street Outside Alex|action|Elaine looks confused about his attitude. She glances down, and notices her blouse wide open. She quickly pulls her coat closed, to hide her embarrassment, and hurries away.
+Jerry's Apartment|action|Kramer is handing Jerry a pair of spectacles.
+Jerry's Apartment|KRAMER|Yeah, put these glasses on.
+Jerry's Apartment|JERRY|(taking them) Well, what's this for?
+Jerry's Apartment|KRAMER|Yeah, well Lloyd, he's gonna be here any minute now.
+Jerry's Apartment|JERRY|So what?
+Jerry's Apartment|KRAMER|Well, he thinks you wear those.
+Jerry's Apartment|action|Jerry looks at the glasses with some distaste.
+Jerry's Apartment|KRAMER|They're from the lost and found at the Alex.
+Jerry's Apartment|JERRY|Aw, c'mon Kramer, this is ridiculous. I'm not gonna put these on.
+Jerry's Apartment|KRAMER|Oh. Okay. So he'll just think that the two of you didn't sit with him on purpose. Ooh yeah, that's very nice. Very nice.
+Monk's|action|George leans on the counter by the cash register, behind which sits Ruthie Cohen.
+Monk's|GEORGE|'scuse me. I uh, I was in here this morning and uh, I believe I paid you with a twenty dollar bill, (smiles) but you only gave me change for a ten.
+Monk's|CASHIER|I don't think so.
+Monk's|GEORGE|Oh, I think so, and I can prove it. You see, I was doodling on the bill and uh, so if you have a twenty in there with big lips on it... well, (smiles) that's mine. Would you mind opening up the register?
+Monk's|CASHIER|Not unless you buy something.
+Monk's|GEORGE|Fine, I'll buy a pack of gum.
+Monk's|action|Lloyd approaches the register to pay for something. The cashier rings up George's purchase.
+Monk's|LLOYD|Hey George. Thought you didn't chew gum?
+Monk's|GEORGE|I don't.
+Monk's|action|Ruthie opens the drawer on the register.
+Monk's|CASHIER|Take a look.
+Monk's|action|George goes round to the other side of the register and picks up all the twenty-dollar bills. He shuffles through them, examining them for doodles.
+Monk's|GEORGE|I know I gave it to you.
+Monk's|LLOYD|George, would you mind. I'm kind of in a hurry.
+Monk's|action|In addition to Lloyd, another customer is waiting to pay.
+Monk's|GEORGE|(frustrated) Fine. Fine. (to customer) Excuse me. (heading for the door) Think I'm gonna forget about this? I haven't forgotten about this. I don't forget that easily!
+Jerry's Apartment|action|Jerry is reading a newspaper, and holding it in such a way as to conceal his face.
+Jerry's Apartment|KRAMER|Hey, Jerry, look who's here.
+Jerry's Apartment|action|Jerry folds over the top half of the paper, in order to see his visitor. He also reveals to all that he is wearing the spectacles Kramer gave him earlier.
+Jerry's Apartment|JERRY|Ah, Lloyd.
+Jerry's Apartment|LLOYD|Hi Jerry. Got some more of that gum.
+Jerry's Apartment|action|He proffers the packet to Jerry.
+Jerry's Apartment|JERRY|(unenthusiastic) Oh, the gum.
+Jerry's Apartment|KRAMER|Yeah, let's all enjoy a chew, huh?
+Jerry's Apartment|JERRY|(still not happy) Uh, alright. (he takes a piece)
+Jerry's Apartment|KRAMER|Oh, boy.
+Jerry's Apartment|action|Kramer and Lloyd sit on the couch. All of them start chewing on the gum.
+Jerry's Apartment|KRAMER|Now see, this is what the holidays are all about. Three buddies, sitting around, chewing gum, huh? Mmm, mmm, yeah. So uh, you know, Lloyd, he thinks he can get more of this.
+Jerry's Apartment|action|Jerry makes a show of removing his glasses and cleaning them.
+Jerry's Apartment|JERRY|Well, Lloyd's a very industrious fellow. I'm sure he can accomplish anything he sets his mind to.
+Jerry's Apartment|action|Jerry puts his glasses back on.
+Jerry's Apartment|LLOYD|Actually, the importer's right in Chinatown. I'll introduce you to him, you can get it whenever you want.
+Jerry's Apartment|JERRY|'s not necessary.
+Jerry's Apartment|KRAMER|Hey, Jerry, you know, Lloyd wants to do you a favour.
+Jerry's Apartment|JERRY|I know that, Kramer.
+Jerry's Apartment|LLOYD|Well, if you don't want to...
+Jerry's Apartment|KRAMER|No, sure sure, he wants to. It's very kind of you. Yeah, Jerry, he appreciates it. Don't you, Jerry?
+Jerry's Apartment|JERRY|Yes I do, Kramer.
+Jerry's Apartment|LLOYD|So...
+Jerry's Apartment|KRAMER|Yeah?
+Jerry's Apartment|LLOYD|How about that Elaine today, huh?
+Jerry's Apartment|KRAMER|Oh, baby, what was that all about, huh?
+Jerry's Apartment|LLOYD|(to Jerry) She was practically undressing in front of me at the theatre.
+Jerry's Apartment|JERRY|I didn't see anything.
+Jerry's Apartment|KRAMER|Yeah, you uh, really missed a show, buddy. Wooh, ba-boom, ba-boom-ba-ba-ba-boom-ba.
+Jerry's Apartment|action|They continue to chew on the gum. Lloyd seemingly happily, Jerry clearly not liking it, and Kramer not liking it, but unwilling to show it to Lloyd.
+Park|action|George and Deena sit on a bench.
+Park|DEENA|You're probably wondering why I wanted to see you again.
+Park|action|George clearly thinks he's clicked.
+Park|GEORGE|Well, you know. (grins, snorts) It's understandable.
+Park|action|He pats Deena on the knee.
+Park|DEENA|I'm glad you feel that way. Because since my father's breakdown I uh, become very sensitive to the warning signs.
+Park|GEORGE|Warning signs?
+Park|DEENA|Nervousness, irritability, paranoia.
+Park|GEORGE|(disbelief) What? (laugh) Wh... what're you talking about? I'm not the one with the problem. (defensive) Lloyd Braun was in the nuthouse, not me.
+Park|DEENA|Yet again, taking pleasure in the misfortunes of others.
+Park|GEORGE|All my friends do that.
+Park|DEENA|George, I'm only trying to help...
+Park|action|George is staring past Deena at something a short distance away.
+Park|DEENA|I'm... I'm concerned. George? George, are you listening to me?
+Park|GEORGE|You see that woman on the horse? (points)
+Park|action|Ruthie Cohen is passing by on horseback.
+Park|GEORGE|She stole twenty dollars from me. (getting angry) Yeah, I might've gotten it back, but Lloyd Braun interfered!
+Park|DEENA|So again it all comes back to Lloyd.
+Park|GEORGE|(rising to his feet) Hey! Hey, you! (setting off after her) Come back here!! Don't gallop away!!
+Park|action|George runs away, yelling after the retreating Ruthie Cohen.
+Monk's|action|Jerry and George sit in a booth. There's a different cashier on duty.
+Monk's|JERRY|So you say she was on a horse?
+Monk's|GEORGE|I'm telling you, that cashier is riding horses on my money.
+Monk's|JERRY|Well, here's what I propose. Go down to the stables, snoop around. See if any high-flying cashier's been throwing twenty dollar bills around with big lips.
+Monk's|action|Elaine enters.
+Monk's|ELAINE|Hey.
+Monk's|JERRY|Well, if it isn't Chesty La Rue.
+Monk's|ELAINE|(sits beside Jerry) What?
+Monk's|JERRY|I was chewing gum with Lloyd Braun, and he was bragging about the peepshow you gave him at the Alex.
+Monk's|ELAINE|(laughing it away) Oh God. I lost a button, so my blouse was wide open. I musta left it at the theatre.
+Monk's|JERRY|Maybe it's in the lost and found.
+Monk's|ELAINE|Yeah, I know. I have to go check it out. It's a beautiful button too, you know. It's antique ivory. It was my mother's.
+Monk's|JERRY|You know, the way you were wolfing down that popcorn, maybe you ate it.
+Alex Theatre: Lobby|action|Kramer greets a small elderly gent.
+Alex Theatre: Lobby|KRAMER|Mr Har-harwood. Well, what an unexpected surprise to have you back at the Alex Theatre.
+Alex Theatre: Lobby|HAARWOOD|Well I, I'm in a bit of a quandary. I've misplaced my spectacles.
+Alex Theatre: Lobby|KRAMER|Well, let's look in lost and found, shall we?
+Alex Theatre: Lobby|action|Kramer ducks behind the counter to retrieve the lost and found box.
+Alex Theatre: Lobby|HAARWOOD|They're half-glasses.
+Alex Theatre: Lobby|action|Kramer pops his head up, a thought having occurred.
+Alex Theatre: Lobby|KRAMER|Brown?
+Alex Theatre: Lobby|HAARWOOD|Mmm, yes, yes.
+Alex Theatre: Lobby|action|Kramer places the cardboard box marked 'Lost and Found' on the counter.
+Alex Theatre: Lobby|KRAMER|Uh, yeah. Ah, well if they're not in the box, I'm sure they'll turn up soon. Listen, could you keep an eye on the place? I wanna go out and get some paraffin wax, and bring out the lustre of this vintage countertop.
+Alex Theatre: Lobby|HAARWOOD|Certainly.
+Alex Theatre: Lobby|action|Kramer leaves. Haarwood begins to rummage through the contents of the box. After a few seconds, he finds something. He lifts it out for a closer look. It's the button Elaine dropped earlier.
+Alex Theatre: Lobby|HAARWOOD|Oh my goodness. What a spanking button.
+George's Car: Street Outside Alex|action|George starts his car. It's still making unhealthy noises. As he sits with the engine running, a car pulls up in the street behind him. The driver sounds the horn at George as he sits in his parking spot.
+George's Car: Street Outside Alex|GEORGE|(glances in mirror) Alright. Alright.
+George's Car: Street Outside Alex|action|The horn sounds again.
+George's Car: Street Outside Alex|GEORGE|(getting annoyed) Hang on, it's warming up!
+George's Car: Street Outside Alex|action|The horn sounds several more times, impatiently. George has had enough. He climbs out of his car.
+George's Car: Street Outside Alex|GEORGE|(angrily) Oh you mother...
+George's Car: Street Outside Alex|action|George stalks round his car and up to the driver's window of the car sounding its horn.
+George's Car: Street Outside Alex|GEORGE|Hey! What is your problem?
+George's Car: Street Outside Alex|action|The driver rolls down the window, and we see Ruthie Cohen.
+George's Car: Street Outside Alex|GEORGE|Oh, hello, it's you! (angry) Listen lady, I got six minutes left on that meter, and I'm not budging til you admit you stole my twenty dollars. (smug) Huh-hu-hur, you're not so tough when you're not on your horse, are you Ruthie?
+George's Car: Street Outside Alex|CASHIER|Your car's on fire.
+George's Car: Street Outside Alex|action|The reflection of leaping flames can be seen in Ruthie's window. George dashes off back to his car.
+George's Car: Street Outside Alex|GEORGE|Aah! Fire!
+George's Car: Street Outside Alex|CASHIER|(after George) Merry Christmas!
+George's Car: Street Outside Alex|action|Flames are coming from under the hood of the Le Baron.
+George's Car: Street Outside Alex|GEORGE|(shouting) Fire!!
+George's Car: Street Outside Alex|action|The florist is standing holding a broom. George rushes to him.
+George's Car: Street Outside Alex|GEORGE|Your hose! Where's your hose?!
+George's Car: Street Outside Alex|FLORIST|Cop made me disconnect it.
+George's Car: Street Outside Alex|action|George grabs the broom from the florist, and begins beating at the flames with no effect. After a few seconds, the broom is alight.
+Street Outside Alex|action|The whole front of George's car is burnt out. The plastic body parts have melted away. The hood is wide open, showing the devastation within. George stands, holding the charred remnants of the broom. He's staring catatonically at the damage. Kramer walks up and does a double-take at the sight.
+Street Outside Alex|KRAMER|Jeez! What happened to your car, buddy?
+Street Outside Alex|GEORGE|The Jon Voight car is no more.
+Street Outside Alex|KRAMER|Wow. Well, don't you sweat it. You can use my car any time you want to.
+Street Outside Alex|GEORGE|No kidding?
+Street Outside Alex|KRAMER|No kidding.
+Street Outside Alex|GEORGE|Hey, thanks. I owe you a big one.
+Street Outside Alex|KRAMER|Yeah, merry Christmas.
+Street Outside Alex|action|Kramer walks on.
+Street Outside Alex|GEORGE|(staring at the wreck) Whatever.
+Alex Theatre: Lobby|action|Jerry is waiting. He's wearing the glasses from earlier.
+Alex Theatre: Lobby|JERRY|Alright, I'm here. Where's Braun?
+Alex Theatre: Lobby|KRAMER|What, he's not here yet?
+Alex Theatre: Lobby|JERRY|Look, I'll go downtown to Chinatown with him, but that is it!
+Alex Theatre: Lobby|KRAMER|Listen, I'm gonna need those glasses.
+Alex Theatre: Lobby|action|Kramer reaches across and plucks the glasses from Jerry's face.
+Alex Theatre: Lobby|JERRY|Why?
+Alex Theatre: Lobby|KRAMER|They're Geoffrey Haarwood's.
+Alex Theatre: Lobby|action|Kramer rummages in lost and found, and brings out another pair of spectacles.
+Alex Theatre: Lobby|KRAMER|(proffering) Here, try this pair.
+Alex Theatre: Lobby|action|Jerry puts them on. The lenses are much stronger than the first pair - they're like bottle-bottoms. He stares through them, his eyes magnified hugely. It's obvious he can't see at all clearly.
+Alex Theatre: Lobby|JERRY|Aw, these are really strong glasses.
+Alex Theatre: Lobby|action|He takes a step and almost trips over the counter.
+Alex Theatre: Lobby|LLOYD|Hey gum-buddy. Nice frames. You ready to go?
+Alex Theatre: Lobby|JERRY|(lacking enthusiasm) Yeah, yeah.
+Alex Theatre: Lobby|KRAMER|(clapping Jerry on the back) Oh yeah, he's all ready to go.
+Alex Theatre: Lobby|LLOYD|Anybody see Elaine today?
+Alex Theatre: Lobby|KRAMER|Oh yeah, she called a little earlier. She's coming over to check out lost and found.
+Alex Theatre: Lobby|LLOYD|Maybe I'll stick around and see what she's wearing today. Or not wearing, if you know what I mean.
+Alex Theatre: Lobby|action|They chuckle.
+Alex Theatre: Lobby|JERRY|Absolutely. Let's just stick around.
+Alex Theatre: Lobby|LLOYD|Ah, tell you what, they're expecting us though. Lemme just grab a hotdog here.
+Alex Theatre: Lobby|KRAMER|Uh, yeah.
+Alex Theatre: Lobby|action|Lloyd goes to the counter, and speaks to the attendant.
+Alex Theatre: Lobby|LLOYD|I'd like a hotdog, please.
+Alex Theatre: Lobby|action|The attendant looks to the machine, which contains one hotdog. The appearance of the article is not pleasant. It's wrinkled, shriveled, and generally disgusting.
+Alex Theatre: Lobby|ATTENDANT|Are you outta your mind?
+Alex Theatre: Lobby|action|Hearing this, Kramer dashes over.
+Alex Theatre: Lobby|KRAMER|Wh...wh...wh... what's the problem here?
+Alex Theatre: Lobby|ATTENDANT|This hotdog's been here since the silent era. You'd have to be insane to eat it.
+Alex Theatre: Lobby|KRAMER|No, no, no, no, no. This man is not insane. Now there's nothing wrong with it or you.
+Alex Theatre: Lobby|LLOYD|Kramer, maybe...
+Alex Theatre: Lobby|KRAMER|No, no, no, no. I'll show you. (slams a bill down on the counter) One hotdog please.
+Alex Theatre: Lobby|ATTENDANT|(on your head be it) Okay.
+Alex Theatre: Lobby|KRAMER|Mmm, doesn't that smell good, huh?
+Alex Theatre: Lobby|action|The attendant hands over the hotdog.
+Alex Theatre: Lobby|KRAMER|Yeah, here we go, yeah. (he takes a big bite) Mmm, oh. That's delicious. Mmm. It's a perfectly sane food to eat. (he takes another bite)
+Alex Theatre: Lobby|action|As he chews, it begins to be apparent that all is not as it should be with the hotdog.
+Alex Theatre: Lobby|KRAMER|Uhm, interesting texture. It's chewy. (he half-coughs, half-retches) I gotta get, some air.
+Alex Theatre: Lobby|action|Kramer stumbles toward the exit, bits of half-chewed hotdog falling from his mouth.
+Street Outside Alex|action|Kramer walks stiffly along the sidewalk. He's breathing heavily, and loosening his collar. He walks by the florist, who is brushing the sidewalk again. As Kramer passes George's car, his struggle with the rancid hotdog ends with the hotdog triumphant, and he leans into the gutter behind the Le Baron and vomits copiously. The florist looks rueful, leans his broom against his door, and fetches his hose, whilst Kramer continues his refunding.
+Street Outside Alex: Later|action|The florist is hosing away the traces of Kramer's visit. Elaine walks up to him.
+Street Outside Alex: Later|ELAINE|Excuse me. 'scuse me, weren't you told to stop using that hose?
+Street Outside Alex: Later|FLORIST|How would you happen to know that?
+Street Outside Alex: Later|ELAINE|Well, uhm... I...
+Street Outside Alex: Later|FLORIST|(accusing) You're that lady that was talking to the cops, aren't you?
+Street Outside Alex: Later|ELAINE|Uh... I...
+Street Outside Alex: Later|action|A voice calls from across the street.
+Street Outside Alex: Later|action|The florist turns to see who's shouting. As he does, he raises the nozzle of his hose, so instead of hosing the sidewalk, he sprays Elaine.
+Street Outside Alex: Later|ELAINE|No, wait! You're soaking me, you're soaking me!
+Street Outside Alex: Later|action|The florist notices what he's done and turns off the hose.
+Alex Theatre: Lobby|action|Jerry sits beside Kramer, who still looks unwell. Lloyd stands comforting Kramer. Elaine enters. She has removed her jacket, and is wearing a wringing wet t-shirt.
+Alex Theatre: Lobby|ELAINE|Hey. Hey everybody.
+Alex Theatre: Lobby|LLOYD|Whoah, Elaine! Once again, you've managed to top yourself. C'mon Jerry, let's go. Car's out front.
+Alex Theatre: Lobby|action|Lloyd leaves. Jerry stands and peers about himself through the over-strength glasses. All he can make out are vague blurred shapes.
+Alex Theatre: Lobby|JERRY|Lloyd?
+Alex Theatre: Lobby|action|He moves across the lobby, slowly, holding his hands out to feel for obstacles.
+Alex Theatre: Lobby|JERRY|Lloyd?
+Alex Theatre: Lobby|action|Jerry leaves.
+Alex Theatre: Lobby|ELAINE|(exasperated) What is Lloyd's problem?
+Alex Theatre: Lobby|KRAMER|Look, honey, I know you're trying to get Lloyd to notice you, but this is too much. Parading around in a wet T-shirt.
+Alex Theatre: Lobby|ELAINE|Uhh, I got sprayed with a hose.
+Alex Theatre: Lobby|KRAMER|Yeah, well, I'm sorry, but the Alex is a family theatre, not one of your swing joints.
+Alex Theatre: Lobby|action|Elaine casts her eyes heavenward.
+Street Outside Alex|action|The remains of George's car are being towed away. On the opposite side of the road, watching, are Deena and George.
+Street Outside Alex|DEENA|So, you want my father to pay for this?
+Street Outside Alex|GEORGE|You saw him. He was fiddling with the engine. God knows what he did there.
+Street Outside Alex|DEENA|And I suppose Lloyd Braun had something to do with it too.
+Street Outside Alex|GEORGE|No, not Lloyd Braun. But the cashier.
+Street Outside Alex|DEENA|What cashier?
+Street Outside Alex|GEORGE|You remember the woman on the horse? She wanted my spot.
+Street Outside Alex|DEENA|To park her horse?
+Street Outside Alex|GEORGE|No, she wasn't on the horse.
+Street Outside Alex|DEENA|So, your car caught fire because of my father and the woman on the horse?
+Street Outside Alex|GEORGE|That's right.
+Street Outside Alex|action|Across the street, the florist is outside his store, arranging flowers.
+Street Outside Alex|GEORGE|(points) And him!
+Street Outside Alex|DEENA|The man with the flowers?
+Street Outside Alex|GEORGE|Yeah, yeah, the flower guy. Listen, I know this all sounds a little crazy, but...
+Street Outside Alex|action|A car pulls up beside George and Deena. George looks in the window.
+Street Outside Alex|GEORGE|I can't believe it. Look, that's Jerry Seinfeld.
+Street Outside Alex|DEENA|Who?
+Street Outside Alex|GEORGE|Jerry Seinfeld. My best friend. He can explain all of this. (calls to Jerry) Jerry.
+Street Outside Alex|action|Jerry hears his name called and turns his head, but all he can see are blurry colored shapes.
+Street Outside Alex|GEORGE|Jerry! Over here Jerry. It's me!
+Street Outside Alex|action|The car pulls away, leaving George calling after it.
+Street Outside Alex|GEORGE|Jerry, where y'going? It's... what're...
+Street Outside Alex|DEENA|(doubtful) That was your best friend?
+Street Outside Alex|GEORGE|Yeah, yeah, but he doesn't wear glasses.
+Street Outside Alex|DEENA|That man was wearing glasses.
+Street Outside Alex|GEORGE|I know. Don't you see. (emphatic) He was doing it to fool Lloyd Braun!
+Lloyd Braun's Car|action|Jerry and Lloyd have reached Chinatown. Lloyd parks the car.
+Lloyd Braun's Car|LLOYD|I'll run in and get the gum.
+Lloyd Braun's Car|JERRY|Alright.
+Lloyd Braun's Car|LLOYD|Got any money?
+Lloyd Braun's Car|action|Jerry digs his wallet out of his pocket. He opens it and extracts a bill. He peers at it, trying to work out what denomination it is, but the glasses are still too strong.
+Lloyd Braun's Car|JERRY|(handing it over) Here.
+Lloyd Braun's Car|action|Lloyd takes the bill, looks at it, smiles a little with surprise.
+Lloyd Braun's Car|LLOYD|(climbing out of the car) I'll be back.
+Street|action|George and Deena walk along together.
+Street|GEORGE|Look, Deena, I know you think I'm crazy, but I'm not. This is just a series of bad coincidences.
+Street|DEENA|I don't know, George. I don't know what to believe.
+Street|GEORGE|Believe me, I am not crazy.
+Street|DEENA|Well, I guess it's possible.
+Lloyd Braun's Car|action|Jerry sits waiting. Lloyd gets in. He has a stack of six boxes, which he hands to Jerry.
+Lloyd Braun's Car|LLOYD|Here y'go.
+Lloyd Braun's Car|JERRY|(indistinct) Got all this?
+Lloyd Braun's Car|LLOYD|Yeah. A hundred dollar's worth.
+Lloyd Braun's Car|JERRY|(incredulous) I gave you a hundred dollars?!
+Lloyd Braun's Car|LLOYD|You sure did. Am I crazy, or is that a lotta gum?
+Lloyd Braun's Car|JERRY|It's a lotta gum!
+The Institute|action|The room is festooned with props and costumes from old movies.
+The Institute|KRAMER|Mr Hararwood. Found your glasses.
+The Institute|HAARWOOD|Oh, splendid. Welcome to the Institute for the Preservation of Motion Picture Costumes and Wardrobe.
+The Institute|KRAMER|Ah, the I.P.M.P.C.W.
+The Institute|HAARWOOD|Well eh, we prefer to call it the Institute.
+The Institute|action|Kramer notices a particular costume.
+The Institute|KRAMER|Is that from Henry the Eighth?
+The Institute|HAARWOOD|Yes, yes, it is.
+The Institute|KRAMER|Well, you know, we're screening that tonight at the Alex. Do you think that I could wear that to promote the theatre?
+The Institute|HAARWOOD|Well, I... I'd love to lend it to you, but I doubt if it would fit a man of your impressive, Raymond Massey-like, physique. The only person who could really fit into this costume, would have to be a short, stocky, man of somewhat generous proportions.
+The Institute|KRAMER|(an idea occurs) You don't say.
+Street|action|Kramer and George walk together. George is wearing the Henry VIII costume - doublet and hose, cloak, crown, etc.
+Street|KRAMER|You're really helping me out with this, buddy. Kids are gonna be so thrilled.
+Street|GEORGE|Yeah, yeah. You really cashed in on that favor pretty quick.
+Street|KRAMER|Remember, you're a king, you must project a Royal bearing.
+Street|GEORGE|(angry undertone) Oh, I'm gonna give you a Royal bearing. Wait a minute, wait a minute. Lemme get a pack of gum here.
+Street|action|He gets his wallet from under the cape, and goes to the window of a kiosk.
+Street|GEORGE|(handing over a bill) Can I get a pack of gum, please?
+Street|GUY|I beg your pardon, your majesty, but we don't accept bills with lipstick on the president.
+Street|GEORGE|What? Huh, so I had it all along. How d'you like that? (snorts) I guess I owe that cashier an apology.
+Street|action|Deena is walking toward George and Kramer. She sees George in his costume and jumps to the obvious conclusion.
+Street|DEENA|Oh my God!
+Street|GEORGE|No, no. Deena, it's not what you think.
+Street|action|Deena turns and begins to walk away.
+Street|GEORGE|Th... this isn't mine.
+Street|action|George begins to walk after Deena, who accelerates to a trot.
+Street|GEORGE|I got it from the Institute. The Institute.
+Street|action|Deena breaks into a run, with George chasing her.
+Street|GEORGE|(shouting) Dee... Deena!
+Alex Theatre: Lobby|action|Kramer stands behind the counter, upon which Elaine leans. Mr Haarwood enters.
+Alex Theatre: Lobby|KRAMER|Ahh, Mr Haarwood. Well, you certainly know how to dress for a premiere.
+Alex Theatre: Lobby|HAARWOOD|Well, thank you. Uh, where is your friend King Henry?
+Alex Theatre: Lobby|KRAMER|Oh, he ran away.
+Alex Theatre: Lobby|action|Lloyd enters.
+Alex Theatre: Lobby|LLOYD|Hey Kramer.
+Alex Theatre: Lobby|KRAMER|I need to talk to you.
+Alex Theatre: Lobby|ELAINE|You know, that button looks very familiar.
+Alex Theatre: Lobby|HAARWOOD|Yes, it, it, it's antique ivory.
+Alex Theatre: Lobby|ELAINE|I, I think that's my button. (wanders over to Haarwood) You know, I've been looking all over for it. Did, did you find it here?
+Alex Theatre: Lobby|HAARWOOD|Yes, it was in the lost and found.
+Alex Theatre: Lobby|ELAINE|Shall I undo it?
+Alex Theatre: Lobby|HAARWOOD|Oh yes, of course you can.
+Alex Theatre: Lobby|ELAINE|Oh, thank you.
+Alex Theatre: Lobby|action|Elaine moves very close to Mr Haarwood, and reaches under his chin to remove the button.
+Alex Theatre: Lobby|HAARWOOD|I'm a little ticklish.
+Alex Theatre: Lobby|ELAINE|Oh. (giggly) Tickle, tickle.
+Alex Theatre: Lobby|action|Kramer and Lloyd are both staring over at the sight of Elaine tickling Mr Haarwood under the chin, giggling, apparently flirting.
+Alex Theatre: Lobby|LLOYD|We've really gotta get that Elaine a boyfriend.
+Alex Theatre: Lobby|KRAMER|Oh, tell me about it.

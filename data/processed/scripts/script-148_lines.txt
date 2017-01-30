@@ -1,0 +1,291 @@
+Setting: A Restaurant|ELLEN|So, they have this clock now, where you punch in your age, and all your risk factors. It actually counts down how much time you have left to live.
+Setting: A Restaurant|JERRY|So what's the great moment? You're on your death bed, they're pounding on your chest - and you're going 10, 9, 8,.. I told you this thing was good!
+Setting: A Restaurant|ELLEN|(Laughs) I can't believe this is our first date.
+Setting: A Restaurant|JERRY|I know.. How about dessert?
+Setting: A Restaurant|ELLEN|I suppose I have to get a piece of cake..
+Setting: A Restaurant|JERRY|Why?
+Setting: A Restaurant|ELLEN|Today's my birthday.
+Setting: A Restaurant|JERRY|What? Today? Really?
+Setting: A Restaurant|ELLEN|Yeah.
+Setting: A Restaurant|action|Waiters come out with a cake, singing "Happy Birthday" to a woman named "Lisa" at another table. Jerry ponders why Ellen isn't celebrating with her friends
+Setting: Jerry's apartment|GEORGE|So, she went out with you on a first date.. and it was her birthday?
+Setting: Jerry's apartment|JERRY|Yeah. And she picked the day!
+Setting: Jerry's apartment|GEORGE|Is she socially awkward?
+Setting: Jerry's apartment|JERRY|No, she's great! She's.. attractive, she's fun..
+Setting: Jerry's apartment|GEORGE|Well, maybe she decided to celebrate her birthday on the Monday after the weekend.
+Setting: Jerry's apartment|JERRY|She's not Lincoln.
+Setting: Jerry's apartment|action|Enter Kramer
+Setting: Jerry's apartment|KRAMER|Hey! Anybody up for Lorenzo's pizza?
+Setting: Jerry's apartment|JERRY|I'll pass.
+Setting: Jerry's apartment|KRAMER|Oh, yeah? Huh. (Turns to George) Hey, George! Pizza? Yum, yum!
+Setting: Jerry's apartment|GEORGE|Eh, I can't. I gotta go down to the foundation. I'm interviewing high schoolers for the Susan Ross.. scholarship.
+Setting: Jerry's apartment|JERRY|Does it ever bother you that this organization-
+Setting: Jerry's apartment|GEORGE|Nope!
+Setting: Jerry's apartment|JERRY|is beating the bushes-
+Setting: Jerry's apartment|GEORGE|Nope! (Starts heading for the door)
+Setting: Jerry's apartment|JERRY|to basically give this money away-
+Setting: Jerry's apartment|GEORGE|Noo!
+Setting: Jerry's apartment|JERRY|to virtually anyone, as long as they're not you?
+Setting: Jerry's apartment|GEORGE|(Standing in the doorway) I'm fine with it! Fi-hi-hi-hine I say! (Leaves)
+Setting: Susan Ross Foundation conference room|GEORGE|Quick, what's your favorite animal?
+Setting: Susan Ross Foundation conference room|GEORGE|(Disappointed) A frog?
+Setting: Susan Ross Foundation conference room|GEORGE|(Annoyed) Frog is wrong.
+Setting: Susan Ross Foundation conference room|action|Cut to another student's interview
+Setting: Susan Ross Foundation conference room|GEORGE|(Reading) I see here that you play the harp.. tell me, why do you have to tilt it? Can't you just build it on an angle? It'd save you a lot of trouble.
+Setting: Susan Ross Foundation conference room|GEORGE|(Annoyed) Yeah, yeah. We'll, uh, let you know.
+Setting: Susan Ross Foundation conference room|action|Cut to another student interview
+Setting: Susan Ross Foundation conference room|GEORGE|(Reading) I see your G.P.A's a 4.0.
+Setting: Susan Ross Foundation conference room|action|Cut to another student interview
+Setting: Susan Ross Foundation conference room|GEORGE|so, uh, Steven.. I see you're president of the chess club.
+Setting: Susan Ross Foundation conference room|STEVEN|State champs.
+Setting: Susan Ross Foundation conference room|GEORGE|Who's your favorite chess player?
+Setting: Susan Ross Foundation conference room|STEVEN|(Hesitating, he mumbles) Nastercoff?
+Setting: Susan Ross Foundation conference room|GEORGE|Right. (Mumbles) Nastercoff.. What country is he from, again?
+Setting: Susan Ross Foundation conference room|STEVEN|(Sighs) I don't know.. I made it up. (Gets up to leave) I'm never gonna get this thing.
+Setting: Susan Ross Foundation conference room|GEORGE|(Gets up, stopping him) Woah, woah, woah! What are you telling me for? You really had me going, there! C'mon, sit down. (They both sit back down) What do you want to do when you grow up?
+Setting: Susan Ross Foundation conference room|STEVEN|I've been telling people that I'd like to be an architect..
+Setting: Susan Ross Foundation conference room|action|George is suddenly interested
+Setting: Jerry's apartment|ELAINE|So, get this: Mister Peterman is finally letting me do some real writing. He's got this book deal, for his autobiography. He's gonna let me ghost write it.
+Setting: Jerry's apartment|JERRY|Wow. That's great! When it comes out, I'll have to get someone to ghost read it.
+Setting: Jerry's apartment|action|Elaine mockingly laughs at Jerry's joke. Kramer enters
+Setting: Jerry's apartment|KRAMER|Hey.
+Setting: Jerry's apartment|JERRY|Hey.
+Setting: Jerry's apartment|ELAINE|Hey!
+Setting: Jerry's apartment|KRAMER|Alright, so there I am at Lorenzo's - loading up my slice of the fixin's bar.. garlic, (imitates the shaking of garlic onto a pizza) and what-not.. mmm, mmm.. and I see this guy over at the pizza boxes giving me the stink-eye. (Imitates the 'stink-eye') So I give hime the crook-eye back, (Imitates the 'crook-eye') you know.. Then, I notice that he's not alone! I'm taking on the entire Van Buren Boys!
+Setting: Jerry's apartment|JERRY|The Van Buren Boys? There's a street gang named after President Martin Van Buren?
+Setting: Jerry's apartment|KRAMER|Oh yeah, and they're just as mean as he was! So, I make a move to the door, you know, (makes a noise) they block it! So, I lunged for the bathroom. (demonstrates) I grab the knob - Occupado! Then they back me up agains the cartoon map of Italy, and all of the sudden, they just stop.
+Setting: Jerry's apartment|ELAINE|What? What happened?
+Setting: Jerry's apartment|KRAMER|Because I'm still holding the garlic shaker.. Yeah.. like this (grabs Jerry's peper shaker, and demonstrates) I'm only showing eight fingers.
+Setting: Jerry's apartment|JERRY|Well, what does that mean?
+Setting: Jerry's apartment|KRAMER|That's their secret sign! See, Van Buren, he was teh eighth President.. (Holds up 8 fingers) They thought I was a former Van B. Boy!
+Setting: Outside a coffee shop|ELLEN|(Sees a pay phone) Oh, Jerry, can you hold on a sec? I just want to check my messages.. (She meets up with two of her friends on the way to the phone) Oh, Melissa! Kim!
+Setting: Outside a coffee shop|MELISSA|Ellen.
+Setting: Outside a coffee shop|ELLEN|Hey! You guys, I want you to meet Jerry. (Gestures tward Jerry, then goes back to the phone)
+Setting: Outside a coffee shop|MELISSA|Ohh, we've heard a lot about you! (Confidentially) It is so sweet of you to take her out.
+Setting: Outside a coffee shop|KIM|Yeah, you don't even know how much she needs this.
+Setting: Outside a coffee shop|JERRY|(Sympathetically) She coming of a bad break-up?
+Setting: Outside a coffee shop|KIM|(Casually) No.
+Setting: Outside a coffee shop|MELISSA|See ya!
+Setting: Outside a coffee shop|action|They walk off. Ellen hangs up, then walks over to Jerry
+Setting: Outside a coffee shop|JERRY|Any messages?
+Setting: Outside a coffee shop|ELLEN|Yeah, no one called.
+Setting: Coffee shop|JERRY|They act like it was some act of charity. Just going out with her.
+Setting: Coffee shop|GEORGE|So, she's the loser of the group. Every group has someone that they all make fun of.. Like us with Elaine. (Jerry thinks about this, then shakes it off)
+Setting: Coffee shop|JERRY|There is no way Ellen is the loser of that group.
+Setting: Coffee shop|GEORGE|Are you looking deep down at the real person underneath?
+Setting: Coffee shop|JERRY|No, I'm being as superficial as I possibly can!
+Setting: Coffee shop|GEORGE|(Changing subject) Hey, I htink I may have found someone for the scholarship.
+Setting: Coffee shop|JERRY|Yeah?
+Setting: Coffee shop|GEORGE|I'm interviewing all these annoying little overachievers.. finally, this kid walks in - Steven Koren - a regular guy.. likes sports.. watches T.V..
+Setting: Coffee shop|JERRY|Is he smart?
+Setting: Coffee shop|GEORGE|(Defensively) He knows how to read. And he also knows finishing an entire book doesn't prove anything. And get this: he's into architecture.
+Setting: Coffee shop|JERRY|Hey! Just like you pretend to be.
+Setting: Coffee shop|GEORGE|Yes. With a little guidance, Steven Koren is going to be everything I claim to be, only for real. That's my dream, Jerry.
+Setting: Coffee shop|JERRY|I had a dream last night that a hamburger was eating me!
+Setting: J. Peterman's apartment|ELAINE|Mister Peterman, thanks for having me over. Your place isn't quite what I imagined.. (It's plain, with no sign of Peterman's personality)
+Setting: J. Peterman's apartment|PETERMAN|Ohhh.. It's just a place to flop. (Sits in his recliner)
+Setting: J. Peterman's apartment|ELAINE|Well, (Clears throat) what part of your life (hits the record button on a mini-recorder, and sets it down on the table) do you want to start with? Foreign intrigue? Exotic romances?
+Setting: J. Peterman's apartment|PETERMAN|Oh, Elaine, we've covered all of that in the catalogue ad nauseum. No, I would like this book to be about my day-to-day life.
+Setting: J. Peterman's apartment|ELAINE|Oh.
+Setting: J. Peterman's apartment|PETERMAN|(Turns on the T.V, and starts flipping through the channels) Oh damn. They changed the cable stations again.. just when I finally memorized them.
+Setting: J. Peterman's apartment|ELAINE|Well, Mister Peterman, do you want to, um..
+Setting: J. Peterman's apartment|PETERMAN|(Still flipping through the channels) 2.. CBS..
+Setting: J. Peterman's apartment|ELAINE|get, um, started..
+Setting: J. Peterman's apartment|PETERMAN|3.. I don't know what that is.. where's my damn preview channel?
+Setting: J. Peterman's apartment|ELAINE|(After observing Peterman's home life) Well, I - I got ta tell you, Mister Peterman.. I don't think I see a whole book here.
+Setting: J. Peterman's apartment|PETERMAN|well, I'm sure we'll come up with something. What do you say you and I order ourselves a pie? Do you like Lorenzo's?
+Setting: J. Peterman's apartment|ELAINE|You know, a friend of mine almost got beat up at that place by the Van Buren Boys?
+Setting: J. Peterman's apartment|PETERMAN|(Interested) You don't say.
+Setting: J. Peterman's apartment|ELAINE|Yeah. The only think that saved him is that he accidentally flashed their secret gang sign.
+Setting: J. Peterman's apartment|PETERMAN|Well, that's pretty exciting. (Pause) Let's put that in the book.
+Setting: J. Peterman's apartment|ELAINE|But, that didn't happen to you.
+Setting: J. Peterman's apartment|PETERMAN|So, we pay off your friend, and it becomes a Peterman.
+Setting: J. Peterman's apartment|ELAINE|No, I - I really don't think you can do that.
+Setting: J. Peterman's apartment|PETERMAN|(Looking at his dying plant) Ohh, damn. I forgot to buy plant food again.. I'll bet I got a coupon for it. (Starts looking through a small coupon box)
+Setting: J. Peterman's apartment|ELAINE|You know what? Maybe I better talk to my friend.
+Setting: Coffee shop|action|Jerry's on a date with Ellen, he's desperately trying to find out what is wrong with her
+Setting: Coffee shop|JERRY|Is that the same outfit you were wearing yesterday?
+Setting: Coffee shop|ELLEN|No, this is brand new. Do you like it?
+Setting: Coffee shop|JERRY|Actually, yeah. (Pause) Wait a second! Is that the fork that fell on the floor?! (Dramatically) Are you using the fork that fell on the floor?!
+Setting: Coffee shop|ELLEN|(Laughs) No, Jerry, the waitress game be another one.
+Setting: Coffee shop|JERRY|I guess that's all right.
+Setting: Coffee shop|ELLEN|Is something wrong, Jerry?
+Setting: Coffee shop|JERRY|No, absolutely nothing. (They get up to leave) You're fantastic! (They meet up with Kramer and George on the way out) Hey guys!
+Setting: Coffee shop|GEORGE|Hey.
+Setting: Coffee shop|JERRY|(Gesturing to Ellen) Kramer, George, this is Ellen.
+Setting: Coffee shop|action|Kramer gives a look
+Setting: Susan Ross Foundation conference room|GEORGE|Ladies and gentlemen, this (Opens the door, Steven is standing there) is Steven Koren. His G.P.A. is a solid 2.0! Right in that meaty part of the curve - not showing off, not falling behind.
+Setting: Susan Ross Foundation conference room|WYCK|George, the quailifications for this scholarship were suppose to be.. largely academic.
+Setting: Susan Ross Foundation conference room|GEORGE|I'm sure we're all aware of the flaws and biases of standardized tests..
+Setting: Susan Ross Foundation conference room|WYCK|These aren't standardized tests - these are his grades.
+Setting: Susan Ross Foundation conference room|GEORGE|Besides, Steven Koren has the highest of aspirations. He wants to be (pauses for effect) an architect.
+Setting: Susan Ross Foundation conference room|WYCK|Is that right?
+Setting: Susan Ross Foundation conference room|STEVEN|Actually, maybe I could set my sights a little bit higher.
+Setting: Susan Ross Foundation conference room|GEORGE|(Laughs) Steven, nothing is higher than an architect.
+Setting: Susan Ross Foundation conference room|STEVEN|I think I'd really like to be a city planner. (Sits down, addressing the entire foundation board) Why limit myself to just one building, when I can design a whole city?
+Setting: Susan Ross Foundation conference room|WYCK|Well, that's a good point.
+Setting: Susan Ross Foundation conference room|GEORGE|(Mutters) No, it's not.
+Setting: Susan Ross Foundation conference room|STEVEN|Well, isn't an architect just an art school drop-out with a tilty desk, and a big ruler? (Laughs - so do the board members)
+Setting: Susan Ross Foundation conference room|GEORGE|(Irritated) It's called a T-square.
+Setting: Susan Ross Foundation conference room|WYCK|You know, the stupidest guy in my fraternity became an architect - after he flunked out of dental school! (Everyone but George laughs) Contratulations, young man. (Shakes Steven's hand)
+Setting: Susan Ross Foundation conference room|STEVEN|Thank you.
+Setting: Susan Ross Foundation conference room|WYCK|Susan would be proud of what you're doing.
+Setting: Susan Ross Foundation conference room|STEVEN|Thank you.
+Setting: Peterman's office|action|Kramer is selling his Van Buren Boys story to Peterman
+Setting: Peterman's office|KRAMER|And they made it their sign, because, Van Buren, our 8th President, was the man they most admired.
+Setting: Peterman's office|PETERMAN|(Laughs) Kramer, my friend, that is one ripping good yarn.. (Hands Kramer a check)
+Setting: Peterman's office|KRAMER|You know, if you like that one, I got more.. what are you looking for? Romance? Comedy? Adventue? .. Erotica? (Clicks his tongue)
+Setting: Peterman's office|ELAINE|No, uh, Kramer. I don't think -
+Setting: Peterman's office|PETERMAN|(Interrupting) How much would you take for the whole lot?
+Setting: Peterman's office|KRAMER|My whole lot?
+Setting: Peterman's office|PETERMAN|Name your price, man!
+Setting: Peterman's office|KRAMER|(Thinks) 1500 dollars.
+Setting: Peterman's office|PETERMAN|I'll give you half that.
+Setting: Peterman's office|KRAMER|(Excited) Done!
+Setting: Peterman's office|PETERMAN|Kramer, my friend, (Gestures to Elaine) consider Elaine at your disposal.
+Setting: Peterman's office|KRAMER|Okay.. (To Elaine) Well, I, Uh.. I like to work in the evenings.. (Elaine slumps back, and covers her head in misfortune)
+Setting: Elaine's office|action|Elaine is growing weary of Kramer's childish antics. Kramer's practicing putting golf balls on her office floor
+Setting: Elaine's office|ELAINE|Would you please just get on with the stupid Bob Saccamano story?!
+Setting: Elaine's office|KRAMER|Well, I'm on the phone with Bob, and I realize right then and there that I need to return this pair of pants. So, I'm off to the store.
+Setting: Elaine's office|ELAINE|What happened to Bob Saccamano?
+Setting: Elaine's office|KRAMER|Well, nothing. His part of the story is done. (Elaine covers her face with her hands - showing her difficulty coping with Kramer) So I'm waiting for the subway, It's not coming, so I decided to hoof it through the tunnel.
+Setting: Elaine's office|ELAINE|Alright, well, now that's something..
+Setting: Elaine's office|KRAMER|Well, I don't know if I lost track of time - or what, but the next think I knew..
+Setting: Elaine's office|ELAINE|(Adding) A train is bearing down on you?!
+Setting: Elaine's office|KRAMER|No, I slipped - and fell in the mud. Ruining the very pants I was about to return.
+Setting: Elaine's office|ELAINE|(Reflects on the story) I don't understand.. you were wearing the pants you were returning?
+Setting: Elaine's office|KRAMER|Well, I guess I was..
+Setting: Elaine's office|ELAINE|(Still confused) What were you gonna wear on the way back?
+Setting: Elaine's office|KRAMER|Elaine, are you listening?! I didn't even get there! (Pauses) All right, next story..
+Setting: Elaine's office|ELAINE|Alright, I think I got enough for one day.
+Setting: Elaine's office|KRAMER|Yeah, yeah, chew on that.
+Setting: Elaine's office|ELAINE|(Mocking) Yeah, I'll chew on that.
+Setting: Elaine's office|KRAMER|Oh, hey, listen, by the way - I'm hosting a little get-together tonight in honor of my little financial upturn..
+Setting: Elaine's office|ELAINE|Oh, thanks. I've got plans.
+Setting: Elaine's office|KRAMER|Elaine, you should be there to document it.
+Setting: Elaine's office|ELAINE|(Putting on her coat) Oh, you're getting together with some of your jackass friends, and you want me to take notes?
+Setting: Elaine's office|KRAMER|Yeah, but get there after nine. You know, give the poeple a chance to loosen up.
+Setting: Elaine's office|action|Kramer turns to go, but slips on a golf ball. He falls to the ground. Elaine looks at him as if to say 'What a doofus.'
+Setting: Jerry's apartment|JERRY|So you're denying him the scholarship just because he wants to be a city planner?
+Setting: Jerry's apartment|GEORGE|I was betrayed! That kid was like a son to me. And if there's one person you should be able to hold down, it's your own flesh and blood. Like my father.. my father's father before him.
+Setting: Jerry's apartment|JERRY|You know, maybe philanthropy is not your field. (Phone rings, he answers it) Hello. Oh, Hi, Ellen. Yeah, I called the hotel.. we're all set for the weekend.
+Setting: Jerry's apartment|GEORGE|You're spending the weekend with Ellen?
+Setting: Jerry's apartment|JERRY|(To George, in a 'cha-ching!' motion) Vermont! (To Ellen) With any luck, they said we could stay an extra couple of days if we want to! (George is disturbed. He gets up, goes go Kramer's door, and knocks. They talk) Four days at a beautiful bed-and-breakfast! I can't wait.. buy-bye. (Hangs up. George and Kramer come into Jerry's apartment, confronting him) What? (George takes the phone off the hook) What is this?
+Setting: Jerry's apartment|GEORGE|(To Kramer) You want to start?
+Setting: Jerry's apartment|KRAMER|(To George) Uh, No, no, no.. you go ahead. I gotta get my thoughts together.
+Setting: Jerry's apartment|GEORGE|Jerry, this whole Ellen situation.. has gone far enough.
+Setting: Jerry's apartment|JERRY|What?!
+Setting: Jerry's apartment|KRAMER|(Adding) Jerry, she's a loser. (George points to Kramer - gesturing that he's right on target)
+Setting: Jerry's apartment|JERRY|Where is this coming from? She's great!
+Setting: Jerry's apartment|GEORGE|(Concerned) Why're you doing this, Jerry? Is it your career? Things will pick up.
+Setting: Jerry's apartment|JERRY|There's nothing wrong with my career!
+Setting: Jerry's apartment|KRAMER|(Like a parent) Well, I still like the Bloomingdale's executive training program for him.
+Setting: Jerry's apartment|GEORGE|I though we said we weren't going to discuss that now!
+Setting: Jerry's apartment|KRAMER|Well, you know, I think it's something he should consider.
+Setting: Jerry's apartment|GEORGE|Of course he should consider it, but now is not the time!
+Setting: Jerry's apartment|KRAMER|Listen, George, all these issues are interrelated.
+Setting: Jerry's apartment|JERRY|(Fed up) Alright! Excuse me! (Gets up) I'm not buying any of this!
+Setting: Jerry's apartment|KRAMER|All right, so what're you saying? That we're wrong? Oh, everybody's wrong but you!
+Setting: Jerry's apartment|JERRY|You know, this is liek that Twilight Zone where the guy wakes up, and he's the same - but everyone else is different!
+Setting: Jerry's apartment|KRAMER|Which one?
+Setting: Jerry's apartment|JERRY|They were all like that!
+Setting: NYC Street|action|George comes out of a store, he meets up with Steven Koren
+Setting: NYC Street|STEVEN|Why'd you take away my scholarship, Mister Costanza?
+Setting: NYC Street|GEORGE|Well, Steven, I, uh.. (All the sudden, a small gang steps out of nowhere, surrounding George)
+Setting: NYC Street|STEVEN|These are my new friends - The Van Buren Boys.
+Setting: NYC Street|GEORGE|Oh.. nice.
+Setting: NYC Street|STEVEN|I want my scholarship back, so I can be a city planner.
+Setting: NYC Street|GEORGE|What about architect, Steven?
+Setting: Cafe|action|Kramer is having his party, Elaine is painfully sitting through it
+Setting: Cafe|KRAMER|Yeah, well, you got that straight! (Turns to Elaine) Hey, Elaine, try the beef - because that's realy au jus sauce, huh. (Dramatically) Real au jus sauce!
+Setting: Cafe|ELAINE|(Sourly) I'll make a note of it.
+Setting: Cafe|KRAMER|Yeah?
+Setting: Cafe|KRAMER|Ohh kay! Well, you know, I had Bob Saccamano on the phone, and I suddenly realized that I- (Elaine stops him)
+Setting: Cafe|ELAINE|You can't tell that story now. It belongs to Peterman.
+Setting: Cafe|KRAMER|What do ya mean?
+Setting: Cafe|ELAINE|You signed the release.
+Setting: Cafe|KRAMER|Yeah.
+Setting: Cafe|ELAINE|He sat in mud. Not you.
+Setting: Cafe|KRAMER|But I did sit in mud.
+Setting: Cafe|ELAINE|(Stern) Ya didn't! You never sat in mud!
+Setting: Cafe|KRAMER|(Pleading) I was all dirty!
+Setting: Cafe|ELAINE|It ever happened! Understand?
+Setting: Cafe|action|Kramer's friends get restless, and beg for the rest of the story
+Setting: Cafe|KRAMER|(To crowd) Hey, hey, hey! All right! Yeah, uh, yeah.. well.. Uh, the pants. they, uh, they fit, uh, well - and so I, uh, decided I wasn't gonna return them! (Laughs) Wooh-hoo-hoo-hoo!
+Setting: Cafe|action|The crowd is disappointed
+Setting: Cafe|KRAMER|What? You're gonna go now? Hey, woah! I don't.. (watches his friends leave)
+Setting: Cafe|action|Enter George
+Setting: Cafe|KRAMER|(Frantic) Kramer, Kramer! I got big trouble with the - with the Van Buren Boys.
+Setting: Cafe|KRAMER|Hey, now, they're tough cookies.
+Setting: Cafe|GEORGE|Yeah, and I - I heard you got on their good side. Now, what'd you do?
+Setting: Cafe|KRAMER|Uh.. ah, (Looks over at Elaine, and realizes he can't tell the Van Buren Boys story) Oh, nothing - nothing.. No, I certainly don't have any stories, if that's what you're implying. (Laughs heartily)
+Setting: Cafe|GEORGE|(Frantic) Kramer, do you know what those guys are gonna do to me?!
+Setting: Cafe|KRAMER|Yeah, well, uh.. you know uh, you didn't hear from me, but, uh, the Van Buren Boys - they never hassle their own kind.
+Setting: Cafe|GEORGE|You mean, like, a former member?
+Setting: Cafe|action|Kramer nods his head while drinking from a mug of beer
+Setting: Jerry's apartment|ELAINE|These Kramer stories are unusable! (Thumbs through them) I mean, some of them aren't even stories! (Holds one out) Look, this is a list of things in his apartment!
+Setting: Jerry's apartment|JERRY|Is my toaster oven on there?
+Setting: Jerry's apartment|ELAINE|How am I ever gonna turn this into a book?
+Setting: Jerry's apartment|JERRY|Well, just shape them - change them. You're a writer.
+Setting: Jerry's apartment|ELAINE|Yes! I'm a writer.
+Setting: Jerry's apartment|JERRY|Make them interesting.
+Setting: Jerry's apartment|ELAINE|Interesting! Of course! People love interesting writing!
+Setting: Jerry's apartment|action|Jerry reacts oddly, as if to say 'That's enough of that!'
+Setting: Jerry's apartment|JERRY|Well, I gotta go to the airport. I'm picking up my parents.
+Setting: Jerry's apartment|ELAINE|What? Wheren't they just here?
+Setting: Jerry's apartment|JERRY|Yeah. I'm flying them in to meet Ellen. I don't know where to turn! I gotta see what they think of her.
+Setting: Jerry's apartment|ELAINE|Maybe we could all have dinner later?
+Setting: Jerry's apartment|JERRY|I don't think so. I'm gonna try to get them to fly right back tonight.
+Setting: Jerry's apartment|action|Enter Kramer
+Setting: Jerry's apartment|KRAMER|Oh, hey! Hey, have I told you about my bunions? Oh, you're gonna love this story! (Rubs his hands together) So, I line up my cold cuts on the couch next to me, but as I'm stacking them up, they keep falling into my foot bath! (Jerry and Elaine look disgusted)
+Setting: Jerry's apartment|JERRY|Kramer, this is awful! We don't want to hear about this!
+Setting: Jerry's apartment|KRAMER|Damn!
+Setting: Jerry's apartment|JERRY|What?
+Setting: Jerry's apartment|KRAMER|Oh, I bought a bunch of bunion stories from Newman - but they all stink!
+Setting: Jerry's apartment|ELAINE|How much did you pay for them?
+Setting: Jerry's apartment|KRAMER|Eight bucks! I think I got ripped off! (Leaves, yelling out "Newman!")
+Setting: Peterman's office|ELAINE|Oh, what didn't you like about the first chapter?
+Setting: Peterman's office|PETERMAN|Well, it started out nicely: "I'm returning some pants." A very identifiable problem.. (turns page) "I set of down a train tunnel.".. (turns page) But that's where the story takes a most unappealing turn.
+Setting: Peterman's office|ELAINE|Oh, no, no! That's where it gets interesting! Don't you see? The - the train is bearing down on you, you - you dive into a side tunnel - and you run into a whole band of underground tunnel dwellers!
+Setting: Peterman's office|PETERMAN|It just seems so cliched, and obvious. It's not interesting writing.
+Setting: Peterman's office|ELAINE|Yeah.. yeah. I know. Um.. how about if, instead of.. diving from the train, you.. uh, you, I don't know, you slip and, and fall in some mud, and.. ruin your pants?
+Setting: Peterman's office|PETERMAN|(Intrigued) The very pants I was returning. That's perfect irony! Elaine, that is interesting writing! (The intercom beeps)
+Setting: Peterman's office|SECRETARY|I have a Cosmo Kramer on line 4.
+Setting: Peterman's office|PETERMAN|(Picks up the phone) Peterman, here.
+Setting: Peterman's office|KRAMER|Mister Peterson, you gotta sell me my stories back!
+Setting: Peterman's office|PETERMAN|You want to know something? I no longer need them!
+Setting: Peterman's office|ELAINE|No, no. Mister Peterman, why don't we keep them - as a, as a reference?
+Setting: Peterman's office|PETERMAN|Nonsense! (To Kramer) I have Benes' woderfully imaginative mind to spin my stories. You take back your tales, you vagabond!
+Setting: Peterman's office|KRAMER|Yippie-yi-yay!
+Setting: Peterman's office|PETERMAN|(Hangs up) There you are, Elaine. Go forth, and create. (Elaine gets up to leave) And, by the way, when you get to that chapter about my romantic escapades - feel free to toss yourself in the mix.
+Setting: NYC Street|action|George meets up with the Van Buren Boys again
+Setting: NYC Street|GEORGE|Hey, Van B. Boys.
+Setting: NYC Street|STEVEN|So, Mister Costanza, did you get my scholarship back?
+Setting: NYC Street|GEORGE|Now, fellas, fellas.. easy. You wouldn't want to beat up on one of your own.
+Setting: NYC Street|GEORGE|Right.. the sign. (Hesitates, then makes a series of stupid gestures)
+Setting: NYC Street|STEVEN|That's not the sign.
+Setting: NYC Street|GEORGE|(Defensively loud) It was when I was banging!
+Setting: NYC Street|GEORGE|Love to! (Cracks his knuckles, then winces under the pain)
+Setting: Coffee shop|ELLEN|And after college, I got my masters at the Sorbonne.
+Setting: Coffee shop|MORTY|Sorbonne? Oh, hey. (To Helen) That's in Paris.
+Setting: Coffee shop|ELLEN|(Looks at her watch) Oh, Jerry, you're parking meter's about to expire. Don't get up, I've got change. (Leaves with her purse)
+Setting: Coffee shop|JERRY|(To his parents) So? What do you think?
+Setting: Coffee shop|HELEN|Jerry, she's fantastic.
+Setting: Coffee shop|JERRY|I knew it! I'm not crazy.
+Setting: Coffee shop|HELEN|She's so sweet, and she's got some body on her!
+Setting: Coffee shop|MORTY|And smart! Like a computer!
+Setting: Coffee shop|HELEN|And so much personality! But, it doesn't matter what we think. Do you like her?
+Setting: Coffee shop|JERRY|(After seeing how much his parents like her) Now, I'm not so sure.
+Setting: Coffee shop|HELEN|Well, she's 10 times better than that awful Amber girl that you were with.
+Setting: Coffee shop|JERRY|yeah, Amber.. I wonder if she's back from Vegas..
+Setting: NYC Alley|GEORGE|Alright, alright! (Goes out onto the sidewalk. The Seinfelds walk by) Seinfelds!
+Setting: NYC Alley|MORTY|Hey, George!
+Setting: NYC Alley|GEORGE|Shhh! Listen, you gotta do me a favor. Give me your wallet. I'll give it back to you later.
+Setting: NYC Alley|MORTY|How're your folks?
+Setting: NYC Alley|GEORGE|Eh, they're trying to pick out a new couch - you don't want to know. (Remembering the watching Van Buren Boys) Give me your wallet, or I'll spill your guts right here on the street!
+Setting: NYC Alley|MORTY|What did you say?
+Setting: NYC Alley|GEORGE|Come on, hurry up, old man! I'm an animal!
+Setting: NYC Alley|HELEN|You're being very rude. Come on, Morty.
+Setting: NYC Alley|GEORGE|(Pleading) Please, please, they're gonna hit me! (Attempts to grab Helen's purse, she starts hitting George defensively, he backs off)
+Setting: NYC Alley|MORTY|Tell your parents we said 'Hi!' (They leave)
+Setting: NYC Alley|action|The Van Buren Boys come out of the alley, George holds up his hand in a "stop" gesture - then takes off running down the street, screaming. The Van Buren Boys chase him

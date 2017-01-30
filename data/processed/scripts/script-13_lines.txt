@@ -1,0 +1,248 @@
+Setting: Night club|JERRY|You know, I tell ya, I gotta say that I'm enjoying adulthood. For a lot of reasons. And, I'll tell you reason number one: as an adult, if I want a cookie, I have a cookie, okay? I have three cookies or four cookies, or eleven cookies if I want. Many times I will intentionally ruin my entire appetite. Just ruin it. And then, I call my mother up right after to tell her that I did it. "Hello, Mom? yeah, I just ruined my entire appetite.. cookies." So what if you ruin.. See, because as an adult, we understand even if you ruin an appetite, there's another appetite coming right behind it. There's no danger in running out of appetites. I've got millions of them, I'll ruin them whenever I want!
+Setting: Night club|action|Scene ends
+Setting: Jerry's apartment|action|Jerry's sitting on his couch in the dark, watching TV
+Setting: Jerry's apartment|action|Jerry's now asleep
+Setting: Jerry's apartment|action|Scene ends
+Setting: Jerry's bedroom|action|Jerry's laying in his bed. He wakes suddenly, picks up a pen and scribbles something down on a pad. He laughs, shakes his head, then goes back to sleep, laughing to himself
+Setting: Jerry's bedroom|action|Scene ends
+Setting: Coffee shop|action|Jerry looks tired. He's staring at a crumpled piece of note paper. George takes out a cucumber from a bag in his pocket
+Setting: Coffee shop|ELAINE|What do you got, a cucumber?
+Setting: Coffee shop|GEORGE|Yeah, so what?
+Setting: Coffee shop|ELAINE|You're bringing in an ouside cucumber?
+Setting: Coffee shop|GEORGE|They refuse to put cucumber in the salad. I need cucumber.
+Setting: Coffee shop|JERRY|(Trying to read the note) What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit.
+Setting: Coffee shop|ELAINE|No. Let me see that. (Takes the paper from Jerry) Don't-mess-with-Johnny."
+Setting: Coffee shop|JERRY|Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?
+Setting: Coffee shop|ELAINE|(Joking) Did you mess with Johnny, Jerry?
+Setting: Coffee shop|GEORGE|Let me see that. (Studies the note)
+Setting: Coffee shop|ELAINE|Hey, where's Kramer?
+Setting: Coffee shop|JERRY|I don't know. That's like asking "Where's Waldo?"
+Setting: Coffee shop|GEORGE|(Still holding the note) I think I'm having a heart attack.
+Setting: Coffee shop|JERRY|I don't think that's it.
+Setting: Coffee shop|GEORGE|I'm not kidding.
+Setting: Coffee shop|JERRY|What does that mean?
+Setting: Coffee shop|ELAINE|I think what he's trying to say is that he's having a heart attack.
+Setting: Coffee shop|JERRY|Oh, he's having a heart attack.
+Setting: Coffee shop|GEORGE|Tightness..
+Setting: Coffee shop|JERRY|C'mon.
+Setting: Coffee shop|GEORGE|Shortness of breath..
+Setting: Coffee shop|JERRY|Oh, this is ridiculous.
+Setting: Coffee shop|GEORGE|Radiating waves of pain..
+Setting: Coffee shop|JERRY|I know what this is. You saw that show on PBS last night, Coronary Country. (To Elaine) I saw it in the TV Guide. I called him and told him to make sure and not watch it.
+Setting: Coffee shop|GEORGE|There was nothing else on. Oh, the left arm.. the left arm.
+Setting: Coffee shop|JERRY|(To Elaine) He saw that show on anorexia last year, and ate like an animal for two weeks.
+Setting: Coffee shop|GEORGE|Why can't I have a heart attack? I'm allowed.
+Setting: Coffee shop|JERRY|So what do you want? You want me take you to the hospital?
+Setting: Coffee shop|GEORGE|Manhattan Memorial, less of a line.
+Setting: Coffee shop|JERRY|I'll call an ambulance. (Exits)
+Setting: Coffee shop|action|A waitress approaches. George is dying, but the waitress doesn't seem to notice
+Setting: Coffee shop|WAITRESS|Is everything alright?
+Setting: Coffee shop|GEORGE|We'll just take a check. (She leaves the check. George, in all his cheapness, can't help but to review the check. He finds an error) You made a mistake on the..
+Setting: Coffee shop|ELAINE|George!
+Setting: Coffee shop|action|Scene ends
+Setting: Hospital room|action|George lies in the bed. He has EKG cups on his chest, a tube up his nose, and an IV in his arm. The man in the neighboring bed seems to be in pain
+Setting: Hospital room|MAN|Ooohhh... Argghhh..
+Setting: Hospital room|GEORGE|Are.. are you okay?
+Setting: Hospital room|MAN|Ooooooohhh..
+Setting: Hospital room|GEORGE|I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any ice cream. I always felt that-
+Setting: Hospital room|MAN|Shut up!
+Setting: Hospital room|action|Scene goes to Jerry. He's standing at the doorway, showing the note to a nurse
+Setting: Hospital room|JERRY|Well? What do you think?
+Setting: Hospital room|JERRY|"Salami salami bologna"?
+Setting: Hospital room|DOCTOR|(In a hurry) Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.
+Setting: Hospital room|JERRY|(Sarcastic) What a surprise. (Enters George's room overly sympathetic - leading George to think that the Doctor told Jerry something significant) Hey, how ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?
+Setting: Hospital room|GEORGE|No, no thanks.
+Setting: Hospital room|JERRY|(Still going along with the practical joke) You know, I was wondering.. You know that Black Hawks jacket you have?
+Setting: Hospital room|GEORGE|Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket.
+Setting: Hospital room|JERRY|Well, you know, I was thinking - if things don't exactly work out..
+Setting: Hospital room|GEORGE|Well, it wouldn't fit you. The sleeves are too short.
+Setting: Hospital room|JERRY|No, I tried it on. It fits good.
+Setting: Hospital room|GEORGE|Well, I didn't really think about what I was gonna do with all..
+Setting: Hospital room|JERRY|Well, you know..
+Setting: Hospital room|GEORGE|(Reluctantly) Well, okay.
+Setting: Hospital room|JERRY|Oh, and.. do you think it would be alright if I called Susan Davis?
+Setting: Hospital room|GEORGE|Susan Davis? (Getting possessive) Hey, wait a second..
+Setting: Hospital room|JERRY|Well, it's not like we'd be bumping into you.
+Setting: Hospital room|GEORGE|I don't know.. you and Susan Davis?
+Setting: Hospital room|JERRY|You know, if your future was a little more certain..
+Setting: Hospital room|GEORGE|Okay, go ahead. Call her, get married, have babies, have a great life.. What do I care? I'm finished. (Really depressed) It's all over for me. In fact, let's end it right now. Jerry, kill me, kill me now. I'm begging you. Let's just get it over with. Be a pal.. Just take the pillow and put it over my face.
+Setting: Hospital room|JERRY|Well, ah.. (Takes his pillow) What? Kind of like this? (Violently smothers George with the pillow. George freaks out. He didn't think Jerry would actually do it)
+Setting: Hospital room|GEORGE|What are ya doing?! Whadya, crazy?!
+Setting: Hospital room|action|Elaine enters - she gets a clear shot of Jerry's jokingly trying to kill George
+Setting: Hospital room|ELAINE|Jerry!
+Setting: Hospital room|JERRY|(Acts like he was cought red-handed) Elaine, what are you doing here? (Takes the pillow off George, and puts it back on his bed)
+Setting: Hospital room|GEORGE|(To Jerry) Jerk off.
+Setting: Hospital room|action|Jerry goes over to Elaine
+Setting: Hospital room|JERRY|(Whispering) There's nothing wrong with him. I saw the doctor. He's fine.
+Setting: Hospital room|action|They both go to George's bed. Elaine decides to go along with Jerry's joke
+Setting: Hospital room|ELAINE|Hi, George. How ya feeling? Is anybody getting your apartment?
+Setting: Hospital room|action|Jerry and Elaine both sit down, and have their own conversation. They completely ignore George
+Setting: Hospital room|GEORGE|I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my anger.. (Sees Jerry and Elaine aren't listening. He snaps) Hey, is anybody listening?!
+Setting: Hospital room|action|The doctor enters. Elaine and the doctor exchange an awkward, romantic glance
+Setting: Hospital room|DOCTOR|(To Elaine) Uh, hello. (To George) Uh, Mr. Costanza?
+Setting: Hospital room|GEORGE|(Panicky) Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.
+Setting: Hospital room|DOCTOR|Well, we looked at your EKG's, ran some tests, did a complete work-up.
+Setting: Hospital room|GEORGE|(Getting in a more panicked state) Oh God, Mommy!
+Setting: Hospital room|DOCTOR|And you simply haven't had a heart attack.
+Setting: Hospital room|GEORGE|(Relieved) I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.
+Setting: Hospital room|JERRY|(Sarcastic) Hey, that was really fun, George. Can we go home now?
+Setting: Hospital room|DOCTOR|No, actually, we'd like to keep him here overnight for observation, just to be safe.
+Setting: Hospital room|GEORGE|Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.
+Setting: Hospital room|DOCTOR|Well, I wouldn't go that far.
+Setting: Hospital room|GEORGE|(Starting to panic again) What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!
+Setting: Hospital room|DOCTOR|Have you ever had your tonsils taken out?
+Setting: Hospital room|GEORGE|My tonsils? Yeah, when I was a kid.
+Setting: Hospital room|DOCTOR|Well, they've grown back. Your adenoids are swollen too.
+Setting: Hospital room|GEORGE|Really?
+Setting: Hospital room|ELAINE|(Jokingly hits the doctor) Whose tonsils grow back? (Laughs)
+Setting: Hospital room|DOCTOR|It happens.
+Setting: Hospital room|JERRY|Yeah, if you've been exposed to gamma rays.
+Setting: Hospital room|ELAINE|I still have my tonsils. Everyone in my family has their tonsils. In fact, we were forbidden to socialize with anyone who didn't have their tonsils.
+Setting: Hospital room|DOCTOR|That's interesting. Because, no one in my family has their tonsils, and we were forbidden to socialize with tonsil people.
+Setting: Hospital room|JERRY|(Sarcastically) Well, it's like the Capulets and the Montagues.
+Setting: Hospital room|GEORGE|(Drawing attention back to him) Excuse me!
+Setting: Hospital room|DOCTOR|Anyway, I strongly recommend they come out.
+Setting: Hospital room|GEORGE|What? You mean with a knife?
+Setting: Hospital room|DOCTOR|Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice cream.
+Setting: Hospital room|GEORGE|(Angry) Yeah, that's what they told me the last time.
+Setting: Hospital room|DOCTOR|Think about it. (Turns to leave, but runs into Elaine) Excuse me.
+Setting: Hospital room|ELAINE|(Flustered) Oh, I'm sorry. (Doctor exits) I just.. have to ask that doctor one more question. (Leaves)
+Setting: Hospital room|JERRY|Women go after doctors like men go after models. They want someone with knowledge of the body.. we just want the body.
+Setting: Hospital room|action|Kramer enters, eating off a tray of hospital food
+Setting: Hospital room|KRAMER|Hey.
+Setting: Hospital room|JERRY|Hey.
+Setting: Hospital room|KRAMER|Boy, they got a great cafeteria downstairs. Hot food, sandwiches, a salad bar.. It's like a Sizzler's opened up a hospital! (Sits and starts eating) So, how did you have a heart attack? You're a young man. What were you doing? Are they gonna do a zipper job? Oh, they love to do zipper jobs.
+Setting: Hospital room|JERRY|(Trying to shut him up) Kramer.
+Setting: Hospital room|KRAMER|The really bad thing about the heart is the sex thing. See, you gotta be careful about sex now. You get that heart pumping and suddenly, boom! Next thing you know, you got a hose coming out of your chest attached to a piece of luggage.
+Setting: Hospital room|JERRY|Kramer, George didn't have a heart attack.
+Setting: Hospital room|KRAMER|No? That's good.
+Setting: Hospital room|GEORGE|I have to have my tonsils taken out.
+Setting: Hospital room|KRAMER|Oh man.. No.. George, we gotta get you outta here. Get out! Right now! They'll kill ya in here.
+Setting: Hospital room|JERRY|(Trying to calm George down) It's routine surgery.
+Setting: Hospital room|KRAMER|Oh yeah? My friend, Bob Saccomanno, he came in here for a hernia operation.. Oh yeah, routine surgery.. now he's sittin' around in a chair by a window going, "My name is Bob" .. George, whatever you do, don't let 'em cut you. Don't let 'em cut you..
+Setting: Hospital room|GEORGE|Well, what should I do, Kramer?
+Setting: Hospital room|JERRY|Well, for one think, don't listen to him.
+Setting: Hospital room|KRAMER|I'll tell you what to do, I'll tell you what to do. You go to Tor Eckman. Tor, Tor, he'll fix you right up. He's a herbalist, a healer, George. He's not just gonna fix the tonsils and the adenoids, he is gonna change the whole way you function - body and mind.
+Setting: Hospital room|JERRY|Eckman? I thought he was doing time?
+Setting: Hospital room|KRAMER|No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel.
+Setting: Hospital room|JERRY|A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor.
+Setting: Hospital room|KRAMER|He's holistic, George. He's holistic.
+Setting: Hospital room|GEORGE|Holistic.. that sounds right.
+Setting: Hospital room|JERRY|George, you need a medical doctor.
+Setting: Hospital room|GEORGE|(To Jerry) Let me ask you something.. How much do you think it would cost to have tonsils and adenoids removed in the hospital?
+Setting: Hospital room|JERRY|Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand.
+Setting: Hospital room|GEORGE|Uh-huh. And how much does the healer charge?
+Setting: Hospital room|KRAMER|First visit? Thirty-eight bucks.
+Setting: Hospital room|GEORGE|Oh, yeah? Holistic.. that's what I need. That's the answer.
+Setting: Hospital room|action|Scene ends
+Setting: Healer's apartment|action|Jerry and George are sitting on huge pillows on the apartment floor. Kramers fiddling with an acupuncture model
+Setting: Healer's apartment|GEORGE|So, how do you like the way I talked you into comin' down here?
+Setting: Healer's apartment|JERRY|Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.
+Setting: Healer's apartment|GEORGE|All I know is I've been going to doctors all my life. What has it gotten me? I'm thirty-three years old. I haven't outgrown the problems of puberty, I'm already facing the problems of old age. I completely skipped healthy adulthood. I went from having orgasms immediately to taking forever. You could do your taxes in the time it takes me to have an orgasm. I've never had a normal, medium orgasm.
+Setting: Healer's apartment|JERRY|(Jokingly making fun of George) I've never had a really good pickle.
+Setting: Healer's apartment|GEORGE|Besides, what's it gonna cost me? Thirty-eight bucks?
+Setting: Healer's apartment|action|Tor enters. He hugs Kramer for a long time, then walks over to Jerry and George
+Setting: Healer's apartment|TOR|(To Jerry) Would you not put your foot on that please?
+Setting: Healer's apartment|JERRY|Sorry.
+Setting: Healer's apartment|action|Tor sits down, and turns tward George
+Setting: Healer's apartment|TOR|What month were you born?
+Setting: Healer's apartment|GEORGE|April.
+Setting: Healer's apartment|TOR|You should have been born in August. Your parents would have been well-advised to wait.
+Setting: Healer's apartment|GEORGE|Really?
+Setting: Healer's apartment|TOR|Do you use hot water in the shower?
+Setting: Healer's apartment|GEORGE|Yes.
+Setting: Healer's apartment|TOR|Stop using it.
+Setting: Healer's apartment|GEORGE|..Okay.
+Setting: Healer's apartment|KRAMER|I'm off hot water.
+Setting: Healer's apartment|TOR|Kramer tells me that you are interested in an alternative to surgery.
+Setting: Healer's apartment|GEORGE|Yes, yes I am.
+Setting: Healer's apartment|TOR|(Blows into George's face) I think we can help you. See, unfortunately, the medical establishment is a business like any other business. And business needs customers. And, they want to sell you their most expensive item which is unnecessary surgery.
+Setting: Healer's apartment|GEORGE|(Still on the showers) Can I use hot water on my face?
+Setting: Healer's apartment|TOR|No. You know, I am not a business man. I'm a holistic healer. It's a calling, it's a gift. You see, it's in the best interest of the medical profession that you remain sick. You see, that insures good business. You're not a patient. You're a customer.
+Setting: Healer's apartment|JERRY|(He thinks this, the audience can hear his thoughts) And you're not a doctor, but you play one in real life.
+Setting: Healer's apartment|GEORGE|(Still on the hot water) What about shaving?
+Setting: Healer's apartment|TOR|(To Jerry) You're eating too much dairy. (To George) May I? (Reaches over, and touches George's face)
+Setting: Healer's apartment|GEORGE|I guess so.
+Setting: Healer's apartment|TOR|(Feeling George's face) You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion of heat and wind.
+Setting: Healer's apartment|JERRY|(Again, we hear his thoughts) There's some hot air blowing in here..
+Setting: Healer's apartment|TOR|You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow.
+Setting: Healer's apartment|GEORGE|(Once again, still on the shower) Could it be lukewarm?
+Setting: Healer's apartment|JERRY|Too much dairy? You really think I'm eating too much dairy?
+Setting: Healer's apartment|action|Scene ends
+Setting: Doctor's car|action|The Doctor and Elaine are almost done with their date. the doctor is speaking seductively to Elaine while holding out her tongue
+Setting: Doctor's car|DOCTOR|..The tongue.. yes, the tongue.. or, in medical terms, the glossa. It's a muscular organ.. Consists of two parts.. the body, and the root.. You see, it's covered by this mucous membrane.. These little raised projections are the papillae, which give it that furry appearance. Very tactile..
+Setting: Doctor's car|action|The Doctor is still holding her tongue
+Setting: Doctor's car|ELAINE|Uh-huh.
+Setting: Doctor's car|action|Scene ends
+Setting: Healer's apartment|TOR|(Pouring tea) Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.
+Setting: Healer's apartment|JERRY|I love crampbark.
+Setting: Healer's apartment|TOR|Cleavers.
+Setting: Healer's apartment|JERRY|Cleaver, I once had cleaver as a kid. I was able to lift a car.
+Setting: Healer's apartment|TOR|And some couchgrass.
+Setting: Healer's apartment|JERRY|Couchgrass and crampbark? You know, I think that's what killed Curly.
+Setting: Healer's apartment|action|Tor hands George the tea. George isn't willing to drink it right away. Jerry looks skeptical, Kramer, on the other hand, is enthusiastic
+Setting: Healer's apartment|KRAMER|Go ahead, drink it, George.
+Setting: Healer's apartment|JERRY|Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read. I was wondering if-
+Setting: Healer's apartment|TOR|(Takes the note, then laughs when he reads it) Oh, yes.. yes.. "Cleveland 117, San Antonio 109.. (Hands note back to Jerry)
+Setting: Healer's apartment|KRAMER|Go ahead, drink it, George.
+Setting: Healer's apartment|GEORGE|(Takes a sip) Hey, it's not too bad..
+Setting: Healer's apartment|action|Scene ends
+Setting: Ambulance|action|George's strapped down on a gurney. His face is purple, and he's screaming. Jerry and Kramer are trying to calm him down. The driver and the assistant in the back are having a huge fight
+Setting: Ambulance|GEORGE|(In a state of hysteria) I'm an eggplant! I'm an eggplant! I'm a minstrel man!
+Setting: Ambulance|DRIVER|(To Assistant) I didn't take your Chuckle, man!
+Setting: Ambulance|ASSISTANT|I had five Chuckles. I ate a green one, and the yellow one, and the red one is missing!
+Setting: Ambulance|DRIVER|I don't even like Chuckles!
+Setting: Ambulance|JERRY|(To Assistant) Maybe he doesn't like them. That's possible.
+Setting: Ambulance|GEORGE|My face! My face! Get me to the hospital!
+Setting: Ambulance|ASSISTANT|I want that Chuckle! You hear me?!
+Setting: Ambulance|JERRY|(To Assistant) I'll get you a Chuckle. You want me to get you a Chuckle?
+Setting: Ambulance|ASSISTANT|(Angry, to Driver) Pull over!
+Setting: Ambulance|DRIVER|Pull over? Did you say pull over?! You want a piece of me?!
+Setting: Ambulance|ASSISTANT|Yeah!
+Setting: Ambulance|JERRY|You're gonna fight?
+Setting: Ambulance|GEORGE|Now?! I'm a mutant!
+Setting: Ambulance|KRAMER|(To Driver) Hey, let me drive.
+Setting: Ambulance|ASSISTANT|Come on, man. Pull over!
+Setting: Ambulance|DRIVER|Alright! I'm gonna mess you up, man!
+Setting: Ambulance|action|Ambulance comes to a screeching halt. Driver gets out, and the assistant heads for the back door
+Setting: Ambulance|JERRY|(Pleading) Really, gentlemen, please.
+Setting: Ambulance|GEORGE|My heart! My heart! (To Assistant) Where you going? Are you crazy?!
+Setting: Ambulance|ASSISTANT|I'm gonna kick his ass.
+Setting: Ambulance|KRAMER|(To Assistant) Hey, you have keys?
+Setting: Ambulance|GEORGE|You can't leave! This is an ambulance! This is an emergency!
+Setting: Ambulance|action|The Assistant leaves. Jerry, Kramer, and George watch the two fight
+Setting: Ambulance|JERRY|All this for a Chuckle.
+Setting: Ambulance|KRAMER|What's a Chuckle?
+Setting: Ambulance|JERRY|It's a jelly candy. it comes in five flavors.
+Setting: Ambulance|action|Scene ends
+Setting: Doctor's car|action|He's still holding Elaine's tongue
+Setting: Doctor's car|DOCTOR|You see, taste buds run on grooves along the surfaces.
+Setting: Doctor's car|ELAINE|Can you let go of my tongue now?
+Setting: Doctor's car|DOCTOR|What?
+Setting: Doctor's car|ELAINE|Let go of my tongue!
+Setting: Doctor's car|DOCTOR|(Lets go) Oh, sorry.
+Setting: Doctor's car|ELAINE|Well, I should get going.. (The Doctor leans in for a kiss. Elaine stops him) What are you doing?
+Setting: Doctor's car|DOCTOR|I was going to kiss you good night.
+Setting: Doctor's car|ELAINE|A kiss? With the tongue? The glossa with the bumps and the papillae? ..Yech, I don't think so. (Leaves)
+Setting: Doctor's car|action|Scene ends
+Setting: Ambulance|action|It's now moving. The driver's behind the wheel, but the assistant is nowhere in sight
+Setting: Ambulance|JERRY|You just can't leave him out there.
+Setting: Ambulance|DRIVER|I told him I was gonna mess him up.
+Setting: Ambulance|KRAMER|Well, can you call him an ambulance?
+Setting: Ambulance|DRIVER|I told him I didn't take his Chuckle. I don't eat that gooey crap!
+Setting: Ambulance|KRAMER|hey, watch the road! Watch the road, man!
+Setting: Ambulance|DRIVER|(Turns back, facing Kramer) Hey, man, you want some of what he got?!
+Setting: Ambulance|action|The Ambulance crashes into something
+Setting: Ambulance|action|Scene ends
+Setting: Hospital room|action|George is in the bed, watching TV, wearing a neck brace. Jerry enters limping and wearing a neck brace, also. He talks to George, but George can't respond verbally
+Setting: Hospital room|JERRY|How ya doing? (George nods) Can't talk? (George shakes his head. Jerry gestures to his brace) Hey, how'd you get the plastic one? (George raises his eyebrows) I like that. (George sticks his tongue out) So how's life without tonsils? (George quickly indicates with his arm that he wants ice cream) What? What's that? ..So, how much is this thing gonna cost you now? Like, five, six thousand?.. (George signals that it's more) Well, live and learn.. at least we lived. Kramer went to Eckman.. He feels better alreadyy.. (George motions for ice cream again) What are you doing?
+Setting: Hospital room|action|Elaine enters
+Setting: Hospital room|ELAINE|Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something. (Takes out a pint of ice cream. George gets excited) Oh, please, come on.. it was nothing.
+Setting: Hospital room|action|Nurse enters
+Setting: Hospital room|JERRY|Hey, check the TV.
+Setting: Hospital room|action|The TV is showing the same exact movie Jerry was watching at the start of the show
+Setting: Hospital room|JERRY|(Pulls the note out of his pocket) That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so funny?! ..That's not funny.. There's nothing funny about that.
+Setting: Hospital room|action|George throws the whole carton of ice cream over the separating curtan
+Setting: Hospital room|MAN|Aaahhhgggg!
+Setting: Hospital room|action|Scene ends
+Setting: Night club|JERRY|I have a friend who's a hypochondriac, always thinks he's sick - never is. And they, you have another type of person, always thinks they're well, not matter how bad they really are. You know this type of person? Very annoying. "Feel great.. like being on the respirator.. intravenous heart/lung machine. I never felt better in my life." Medical science is making advances every day in control health problems. In fact, it's probably only a matter of time before a heart attack, you know, becomes like, a head ache. We'll just see people on TV going, "I had a heart attack this big (Holds out hands, gesturing bigness) ..but, I gave myself one of these. Clear! (Puts imaginary electrode panels to his chest) Brrhht.. and it's gone!"

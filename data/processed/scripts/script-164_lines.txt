@@ -1,0 +1,460 @@
+|action|The final 'Castle Rock' screen shows, then the end credits roll. Scene cuts to the Coffee shop. George, Elaine, and Jerry enter with suitcases. Elaine has a large bandage on her nose. They all sit down at a booth. All three of them are tired, fed up, and angered
+|GEORGE|So, Elaine, are you going to sleep with me or what?!
+|ELAINE|(Aggravated) George, I just got off a twenty-three hour plane ride. I'm too tired to even vomit at the thought.
+|GEORGE|(Angered) Fine. I'll ask you again when you're rested.
+|JERRY|(Sarcastic) Oh, I'm sure she'll come around.
+|GEORGE|Yeah, I hope so. For your sake!
+|action|Kramer comes in and sits down at the booth with them
+|JERRY|(To George) I said I was sorry.
+|GEORGE|You can stuff you sorries in a sack, mister!
+|JERRY|(Nauseated at the saying) Would you please stop saying that?!
+|KRAMER|(Confused) What is up with you two?
+|GEORGE|I don't want to talk about it.
+|KRAMER|(To Jerry) So how was the big trip?
+|JERRY|I don't want to talk about it!
+|KRAMER|(Observing Elaine's bandaged nose) Well, what happened to your nose?
+|ELAINE|I don't want to talk ab-ow!-t it! (She winces under the pain from her nose on the word 'about')
+|KRAMER|Well, you gotta give me something! Come on, how was the wedding? Was the bride radiant?
+|ELAINE|She.. was.
+|JERRY|'Till she found out Elaine slept with the groom.
+|KRAMER|(Interested) Ooohh... That sounds juicy. Listen, I gotta go to the bathroom, but I want to hear all about it. (Gets up and heads for the bathroom)
+|GEORGE|(While skimming a Monk's menu) You know, I didn't go to the bathroom the entire time we were in India.
+|JERRY|I can't believe we went all the way to India for a wedding!
+|action|Scene ends
+Setting: India|action|People storm out of a building. All are dressed in wedding apparel
+Setting: India|PINTER|What? But, Sue Ellen-
+Setting: India|ELAINE|No, no, no! It was years ago - before you met him. And, and I - I got to tell you.. it was very mechanical.
+Setting: India|ELAINE|(To Jerry and George) Idiots! This is all your fault!
+Setting: India|GEORGE|(While pointing at Jerry) Not me! Him! His fault! He betrayed me!
+Setting: India|JERRY|(Pleading) George, I'm sorry.
+Setting: India|GEORGE|Oh you can stuff your sorries in a sack, Mister!
+Setting: India|JERRY|(Confused) I don't know what that means.
+Setting: India|GEORGE|(To his girlfriend) Nina, you have to decide right now. Jerry or me?
+Setting: India|NINA|(Casually) Alright.. Neither.
+Setting: India|GEORGE|What?! Well, what are you doing here?
+Setting: India|NINA|A free trip to India. And by the way, you can take off those boots. Everyone knows you're five' six.
+Setting: India|GEORGE|Five' eight! Five' seven!
+Setting: India|ELAINE|(To Sue Ellen) See? See the way they are?! We're - we're still best friends, right?
+Setting: India|action|Elaine screams in pain as Sue Ellen pulls the stud out
+Setting: India|JERRY|That's got to hurt, I don't care where you're from!
+Setting: India|GEORGE|(Whispering to Jerry) What time is our flight back? I got to go to the bathroom.
+Setting: India|action|Scene ends
+Setting: A building in India - the wedding ceremony is about to start|action|The bride, Sue Ellen, and the Groom, Pinter, are walking down the aisle. Elaine is scattering flowers behind them. Jerry walks in and takes a seat
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|(Whispering to Jerry) Hey.
+Setting: A building in India - the wedding ceremony is about to start|JERRY|Hey.
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|What happened last night?
+Setting: A building in India - the wedding ceremony is about to start|JERRY|Oh, you were pretty loaded.
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|(Gesturing to her nose stud) I know. I woke up with this.
+Setting: A building in India - the wedding ceremony is about to start|JERRY|Oh. Hello, Tetanus.
+Setting: A building in India - the wedding ceremony is about to start|action|Scene cuts to Nina and George entering the wedding hall
+Setting: A building in India - the wedding ceremony is about to start|NINA|George, I've used the bathroom. It's fine.
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|(Struggling) No, no, no, no. I can walk it off. It's a hundred and twenty degrees in here.. I'll sweat it out.
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|(Seeing George, she walks over to greet him) Hey. (Looking at his shoes) Are those Timberlands ... painted black?
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|(Looking at her nose) Is your nose pierced?
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|(Embarrassed) I should.. (Walks toward the bride and groom)
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|Yeah. (Points to two open seats in front of Jerry's. To Nina) Sit down there. (Sees Jerry in the crowd) Hello, Jerry. (Obviously angered at Jerry) I believe you know Nina.
+Setting: A building in India - the wedding ceremony is about to start|JERRY|(As George sits down) George, we need to talk.
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|(Trying to keep his voice down) I think you've done a lot more than talk! You betrayed me!
+Setting: A building in India - the wedding ceremony is about to start|JERRY|Alright, I admit it. I slept with Nina, but that's all.
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|(Outraged) "That's all"?! That's everything! I don't know what all the rest of it is for anyway!
+Setting: A building in India - the wedding ceremony is about to start|JERRY|(Pleading) I'm really sorry.
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|You can stuff your sorries in a sack, mister!
+Setting: A building in India - the wedding ceremony is about to start|JERRY|(Confused) Where'd you get that one?
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|It's an expression.
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|(From the front of the room, she can hear George and Jerry's heated discussion) Hey! Shhhhh! (Crosses herself, then shakes her head - apologizing)
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|(Trying to whisper to Jerry) Look, we are gonna settle this right now! I demand reparations! I should get to sleep with Elaine. That's the only way to punish you!
+Setting: A building in India - the wedding ceremony is about to start|JERRY|That doesn't punish me. It punishes Elaine! And cruelly, I might add.
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|(Losing it) Funny guy!
+Setting: A building in India - the wedding ceremony is about to start|action|Elaine quickly makes her way to Jerry and George, scattering flower petals as she goes -- she throws some at them
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|Hey! Monkeys! Knock it off. My best friend is trying to get married up here!
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|Elaine, you have to sleep with me.
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|(Definite) I'm not gonna sleep with you.
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|Reparations!
+Setting: A building in India - the wedding ceremony is about to start|ELAINE|Would you grow up, George?! What is the difference? Nina slept with him (Points to Jerry), he slept with me, I slept with Pinter. Nobody cares! It's all ancient history.
+Setting: A building in India - the wedding ceremony is about to start|GEORGE|(Loud, so everyone at the wedding can hear) You slept with the groom?!
+Setting: A building in India - the wedding ceremony is about to start|action|Everyone goes silent. George and Elaine both look sheepishly. All eyes on them, especially Sue Ellen
+Setting: A building in India - the wedding ceremony is about to start|action|Scene ends
+Setting: New York street|action|Kramer is standing up against a brick wall. All the sudden, he's pegged straight in the face with a snowball. He winces from the pain and coldness, then walks up to his friend FDR - the one who threw the snowball at him. He hugs him
+Setting: New York street|KRAMER|Oh, thank you, FDR! All right, now we’re even.
+Setting: New York street|FDR|I-I-I stuck a rock in there too.
+Setting: New York street|FDR|All right.
+Setting: New York street|action|they put their arms around each other’s shoulder and walk off
+Setting: New York street|action|Scene ends
+Setting: The Coffee shop|action|Kramer and FDR are both holding a wishbone
+Setting: The Coffee shop|KRAMER|Alright, FDR. This wish is for all the marbles. You win, you get your wish - I drop dead. I win, I don't drop dead, and I get one-hundred percent anti-drop-dead protection -- Forever.
+Setting: The Coffee shop|FDR|Alright.
+Setting: The Coffee shop|action|They each pull, it breaks. FDR won
+Setting: The Coffee shop|KRAMER|Oh, man! All right, come on. There's got to be something that'll change your mind, FDR. Something.." (FDR lifts up a cooler, and puts it on the table) What, you want my kidney? (FDR is smiling wickedly as he pulls a snowball out of the cooler) Mama!..
+Setting: The Coffee shop|action|Scene ends
+Setting: Jerry's room in India|action|Elaine is obviously drunk
+Setting: Jerry's room in India|ELAINE|George knows that you slept with Nina. That's why he was acting so weird.
+Setting: Jerry's room in India|JERRY|How did he find out?
+Setting: Jerry's room in India|ELAINE|He schnapped me.
+Setting: Jerry's room in India|JERRY|You know you're not supposed to drink while you're keeping a secret! (Elaine laughs) Is there anything else?
+Setting: Jerry's room in India|ELAINE|I can't tell you.
+Setting: Jerry's room in India|JERRY|(Handing her a small bottle) Here, drink this.
+Setting: Jerry's room in India|ELAINE|Okay. (Takes a drink and wave Jerry to lean in) I slept with the groom.
+Setting: Jerry's room in India|JERRY|Pinter?
+Setting: Jerry's room in India|ELAINE|He used to be called Peter.
+Setting: Jerry's room in India|JERRY|(Making nothing of it) So? Who cares about that?
+Setting: Jerry's room in India|ELAINE|Sue Ellen! If she knew, she'd call off the whole wedding.
+Setting: Jerry's room in India|action|Elaine climbs on to the sofa-- on her knees, head into the side of the couch cushion, her butt in the air towards Jerry
+Setting: Jerry's room in India|JERRY|Oh, nobody's calling off any weddings. Alright, it's time to go. Come on.. Up.
+Setting: Jerry's room in India|action|Elaine climbs onto Jerry's back
+Setting: Jerry's room in India|ELAINE|Do you know what 'Jerry' is in Indian?
+Setting: Jerry's room in India|JERRY|(Carrying her out, piggy-back style) No, what?
+Setting: Jerry's room in India|ELAINE|(Between laughs) Jugdish.
+Setting: Jerry's room in India|JERRY|Yes, Jugdish.
+Setting: Jerry's room in India|ELAINE|Hey, what if I got my, nose pierced? That would be pretty freaky.. Oooohhhhaaa! (sliding off Jerry onto the hallway floor)
+Setting: Jerry's room in India|JERRY|(Trying to get rid of her) Yes, I think it's a fine idea. Well, good night.
+Setting: Jerry's room in India|action|Jerry shuts the door. Elaine peers through the blinds on Jerry's door... Sticking her fingers through the blinds - waving at him
+Setting: Jerry's room in India|ELAINE|G'night, Jugdish. (Laughs)
+Setting: Jerry's room in India|action|Scene ends
+Setting: Jerry's room, India|action|Jerry hands Elaine a glass of Schnapps
+Setting: Jerry's room, India|JERRY|Bless you.
+Setting: Jerry's room, India|ELAINE|Thank you...aah, hm mm.
+Setting: Jerry's room, India|action|Scene ends
+Setting: Jerry's room, India|action|Jerry's pouring Elaine a glass of Schnapps. Elaine sneezes
+Setting: Jerry's room, India|action|Scene ends
+Setting: New York park|action|Kramer walks up to the hot-dog vender, FDR
+Setting: New York park|KRAMER|ah, Hello FDR. Yeah, I’ll have a hot one, (pulls out some cash and slaps down a bill on the stand) everything on it.
+Setting: New York park|FDR|These things’ll kill ya... but so what...(squirts mustard on the hot dog)You’re already gonna drop dead (grins)
+Setting: New York park|KRAMER|Well, guess what, FDR? I made a wish on a shooting star last night, and I wished, against your wish.
+Setting: New York park|FDR|That's funny. As it happens, I saw the same shooting star and double-wished you, to drop dead. (clicks out some coins from his changer and hands them to Kramer) Here's your change.
+Setting: New York park|action|Kramer walks over, and throws his coins in a nearby fountain
+Setting: New York park|KRAMER|Alright, I'm triple-wishing! Yep!
+Setting: New York park|FDR|(Throwing four coins into the fountain) Then I'm quadruple-wishing!
+Setting: New York park|KRAMER|Alright.. How do you like this? (Pulls out one of his eyebrows) Ya!
+Setting: New York park|FDR|I like it a lot. (Pulls out one of his eyebrows) Ow! (Blows it away)
+Setting: New York park|KRAMER|(Tears out another eyelash) Ah! (Blows it away)
+Setting: New York park|FDR|(Doing the same) Oh! (Blows it away)
+Setting: New York park|action|Kramer and FDR get into a frenzy - both ripping out their eyelashes
+Setting: New York park|action|Scene ends
+Setting: Indian Airport|action|Elaine, Jerry, George, and Nina are all at the airport -- the sounds of airplanes flying over head, an Indian announcer on the PA system
+Setting: Indian Airport|ELAINE|Oh, God, it's so hot! (Sniffing) What is that smell?
+Setting: Indian Airport|JERRY|(Joking around) I think it's the stench of death.
+Setting: Indian Airport|NINA|George, you've been wearing those boots since I met you. You're not gonna wear them to the wedding, are you?
+Setting: Indian Airport|GEORGE|No (snorts - Laughing nervously)... I'm gonna wear black shoes.
+Setting: Indian Airport|ELAINE|(Sees her enemy, Sue Ellen, at the airport) Oh boy. There's Sue Ellen. She didn't want me at this wedding, but here I am with a bunch of my idiot friends!
+Setting: Indian Airport|JERRY|(Giddy) This is gonna be great!
+Setting: Indian Airport|ELAINE|(Confused by her reaction) You are?
+Setting: Indian Airport|ELAINE|Come on, Sue Ellen. You don't wear a bra, you're tall... we hate each other!
+Setting: Indian Airport|ELAINE|(Toying with the idea) Huh.. alright. I guess.
+Setting: Indian Airport|PINTER|(Walking up to them) Hello.
+Setting: Indian Airport|ELAINE|(Recognizing him) Peter?
+Setting: Indian Airport|GEORGE|(Leading Nina out the airport) Oh, no. No. We're good. Let's get goin'. Alright. (Almost bumps into Jerry) Watch it, funny man. (Leaves)
+Setting: Indian Airport|JERRY|Elaine, have you noticed George was acting strange the whole flight?
+Setting: Indian Airport|ELAINE|(Acting equally strange) No. What? Like what? What? Strange.. No. I..
+Setting: Indian Airport|JERRY|(Pulls a small bottle out of his pocket) Uh-huh. Hey, look what they had on the plane. Schnapps.
+Setting: Indian Airport|ELAINE|Ooohh.
+Setting: Indian Airport|action|Scene ends
+Setting: Jerry/Kramer's apartment building|action|Kramer is on the roof of his apartment building looking up at the stars
+Setting: Jerry/Kramer's apartment building|KRAMER|Come on.. Come on. Yes! (Sees a falling star) There's one! (Yelling out) I wish I don't drop dead!!
+Setting: Jerry/Kramer's apartment building|MAN|(Off-screen) Hey, shut up up there!
+Setting: Jerry/Kramer's apartment building|KRAMER|You shut up!
+Setting: Jerry/Kramer's apartment building|MAN|Aw, drop dead!
+Setting: Jerry/Kramer's apartment building|action|Scene ends
+Setting: Airplane|action|Elaine, Jerry, George, and Nina are on the plane - India-bound. George walks up to Jerry's seat
+Setting: Airplane|GEORGE|Hello, friend. Enjoying the flight?
+Setting: Airplane|JERRY|Coach to India - The only way to go.
+Setting: Airplane|GEORGE|(Heavily sarcastic. He's angered at Jerry) Good one. Very funny. You're very funny, Jerry. That's what I always tell people. (Yelling out) Jerry Seinfeld's a funny guy!
+Setting: Airplane|JERRY|You all right?
+Setting: Airplane|GEORGE|Of course I'm all right. I'm here with my girl, Nina. And what better way to pass the time than gabbing with my best friend -- with whom there are no secrets. (Flashes two intertwined fingers) Like this. Since the fourth grade.
+Setting: Airplane|JERRY|(Joking around) Hey, didn't I beat you up in the fourth grade?
+Setting: Airplane|GEORGE|(Yelling out to the whole coach) Funny guy! (Points to Jerry) Right here!
+Setting: Airplane|action|Scene cuts to Nina and Elaine
+Setting: Airplane|NINA|By the way, you never said anything to George about Jerry and me, did ya?
+Setting: Airplane|ELAINE|Oh please.. It's in the vault.
+Setting: Airplane|action|Camera stays on Elaine and Nina as we hear George yelling from the front of the plane
+Setting: Airplane|GEORGE|Ho, ha, ho! Jerry Seinfeld's a funny guy!
+Setting: Airplane|action|Scene ends
+Setting: The airplane|ELAINE|Hey, what time is it? (she looks up and asks as Jerry walks in the aisle)
+Setting: The airplane|JERRY|You just asked me two minutes ago.
+Setting: The airplane|ELAINE|Hey, what time is it?
+Setting: The airplane|JERRY|Ah, I’m not wearing a watch.
+Setting: The airplane|ELAINE|Oh (quietly). Is this tooth chipped? (pointing to a tooth)
+Setting: The airplane|JERRY|Yeah. How’d ya do that?
+Setting: The airplane|ELAINE|I have no idea.
+Setting: The Coffee shop|action|Elaine and George are at Monks. Elaine is drunk
+Setting: The Coffee shop|ELAINE|Watch this. (Puts the bottle of Schnapps in her mouth, flips her head up, drinking it, then puts it back down with her teeth. She is effected by that last drink:) Oh.. God..
+Setting: The Coffee shop|GEORGE|So, Jerry and Nina, huh?
+Setting: The Coffee shop|ELAINE|Oh, Mm mm.. (Scoots up close to George) I'm not gonna tell you, any - more - things. (points at George)
+Setting: The Coffee shop|GEORGE|You already told me everything.
+Setting: The Coffee shop|ELAINE|Okey-dokey.
+Setting: The Coffee shop|action|Scene ends
+Setting: Newman's apartment|KRAMER|I mean, we had a deal, Newman. And you were supposed to give my your birthday wish. And now you've wasted it!
+Setting: Newman's apartment|NEWMAN|(With a gorgeous woman sitting on his lap) Did I?
+Setting: Newman's apartment|WOMAN|Newman, I'm bored.
+Setting: Newman's apartment|NEWMAN|Aww..
+Setting: Newman's apartment|KRAMER|Does your girlfriend have to be here?
+Setting: Newman's apartment|NEWMAN|(Suggesting Jerry) Does yours?
+Setting: Newman's apartment|JERRY|(Giving Newman a sour look) I'm just hanging out in this hell-hole because of George.
+Setting: Newman's apartment|KRAMER|Alright, come on, Newman. Now you gotta help me! What am I gonna do about FDR?
+Setting: Newman's apartment|WOMAN|Why don't you just make another wish?
+Setting: Newman's apartment|KRAMER|And how am I gonna do that, Toots?
+Setting: Newman's apartment|WOMAN|What about a shooting star?
+Setting: Newman's apartment|KRAMER|(Interested) That's perfect.
+Setting: Newman's apartment|NEWMAN|(Kissing the woman) Beauty .. and brains. (they nuzzle noses)
+Setting: Newman's apartment|JERRY|(Disgusted. To the woman) Oh, come on. You know he's a postman, don't ya?
+Setting: Newman's apartment|action|Scene ends
+Setting: Jerry's apartment|ELAINE|Here’s your plane ticket.
+Setting: Jerry's apartment|JERRY|What are you talking about.
+Setting: Jerry's apartment|ELAINE|Sue Ellen sends me an invitation, one week before her wedding in India. Tst, I’ll show her...
+Setting: Jerry's apartment|JERRY|By flying half way around the world?
+Setting: Jerry's apartment|ELAINE|Spite Never sleeps (doing a little dance as she says it
+Setting: Jerry's apartment|JERRY|Especially when you got a layover in Sarajevo. (Bosnia Herzegovina)
+Setting: Jerry's apartment|action|George enters Jerry's apartment
+Setting: Jerry's apartment|GEORGE|Hey.
+Setting: Jerry's apartment|ELAINE|(Handing George a ticket) Here. You're going to India with us tomorrow.
+Setting: Jerry's apartment|GEORGE|For how long?
+Setting: Jerry's apartment|ELAINE|Three days.
+Setting: Jerry's apartment|GEORGE|Great. Jerry, I gotta tell you, I had the BEST TIME with that Nina last night. I - I think I'm in love with her already. You are a great friend. (Hugs Jerry) A great, great friend.
+Setting: Jerry's apartment|action|Kramer leaves his apartment, entering the hallway
+Setting: Jerry's apartment|JERRY|(Trying to change the subject away from Nina) Hey - Hey Kramer, what are you doing? You want to borrow something? You want to eat something? Come on in!
+Setting: Jerry's apartment|KRAMER|(Shrugging Jerry off) Nah.
+Setting: Jerry's apartment|ELAINE|You want to go to India?
+Setting: Jerry's apartment|KRAMER|I can't. (Complaining) I'm gonna drop dead.
+Setting: Jerry's apartment|action|Kramer turns to go out, then decides to get something from Jerry’s refrigerator
+Setting: Jerry's apartment|GEORGE|Great! (snaps fingers and grabs the extra plane ticket) Nina could go, huh? Jerry, this is great. You and Elaine. Me and Nina.
+Setting: Jerry's apartment|action|As Kramer is walking out of the apartment
+Setting: Jerry's apartment|JERRY|H-Hey, Kramer, wait up. I'll go with you.
+Setting: Jerry's apartment|KRAMER|I'm goin' to Newman's!
+Setting: Jerry's apartment|JERRY|Great, I love Newman! (Eagerly following Kramer)
+Setting: Jerry's apartment|GEORGE|(Asking Elaine) Jerry seem a little weird when I mentioned Nina?
+Setting: Jerry's apartment|ELAINE|Nina? Nina? No. Psshhh.. Not weird. No. Nina.
+Setting: Jerry's apartment|GEORGE|Why do you keep saying Nina?
+Setting: Jerry's apartment|ELAINE|I don't know. Nina. Nina! (Feeling she's said to much, she goes to leave) I'm gonna go grab a bite.
+Setting: Jerry's apartment|GEORGE|Uhh.. I'll- I'll meet you down there.
+Setting: Jerry's apartment|action|Elaine leaves. George instantly goes looking through Jerry's cabinet) Cereal, cereal.. (Picks up a bottle) Peach schnapps. (exits
+Setting: Jerry's apartment|action|Scene ends
+Setting: NYC Street|KRAMER|(Knocking on a port-a-potty door) Come on, Lomez! We're gonna be late for the movie.
+Setting: NYC Street|action|Newman, with the woman he wished for, are riding in his car. He stops at a stop light - right next to Kramer
+Setting: NYC Street|NEWMAN|(To his new girlfriend) You see, my dear, all certified mail is registered, but registered mail is not necessarily certified.
+Setting: NYC Street|WOMAN|I could listen to you talk about mail all day.
+Setting: NYC Street|KRAMER|Anything you wish. I'll tell you a little secret about zip codes: They're meaningless! (Laughs evilly, driving away)
+Setting: NYC Street|KRAMER|Wish?! Newman!
+Setting: NYC Street|action|Kramer runs off after Newman -- then runs back to the porta potty and bangs on it
+Setting: NYC Street|KRAMER|Lomez, I’m Leavin’
+Setting: NYC Street|action|Scene ends
+Setting: Newman's apartment|action|It's Newman's birthday party. His house is full of Postal co-workers
+Setting: Newman's apartment|ALL|(Singing to Newman) ..And you smell like one, too. (laughing and clapping)
+Setting: Newman's apartment|POSTMAN|Make a wish, Newman! We've gotta get back to work in three hours!
+Setting: Newman's apartment|action|Newman inhales, ready to blow the candles out. Kramer rushes in
+Setting: Newman's apartment|KRAMER|Newman, wait!
+Setting: Newman's apartment|NEWMAN|(Stands up and Sputtering loudly) Kramer! I'm with people.
+Setting: Newman's apartment|KRAMER|Yeah, yeah. And thanks for inviting me!
+Setting: Newman's apartment|NEWMAN|I did invite you. Your invitation must've gotten ... lost in the mail.
+Setting: Newman's apartment|action|All postal workers burst out with laughter
+Setting: Newman's apartment|KRAMER|Well, Newman, I need your wish to protect me from FDR.
+Setting: Newman's apartment|NEWMAN|Can't do it. I'm on an unbelievable birthday-wish hot streak! My last five birthday wishes came true.
+Setting: Newman's apartment|KRAMER|Come on! Look, I'll give you my next birthday wish, huh?
+Setting: Newman's apartment|NEWMAN|(Negotiating) Your next, fifty wishes.
+Setting: Newman's apartment|KRAMER|Forty-eight.
+Setting: Newman's apartment|NEWMAN|Fourty-nine.
+Setting: Newman's apartment|KRAMER|Done!
+Setting: Newman's apartment|action|Newman picks up a magazine as he sits back down to his cake -- where his co-workers are about to slice it up
+Setting: Newman's apartment|NEWMAN|Alright, alright, back, savages. Back! I haven't made my wish yet..
+Setting: Newman's apartment|action|Newman starts to inhale again. This time, he looks at the VOGUE magazine -- on the Nov. cover is a beautiful woman. Then blows out the candles
+Setting: Newman's apartment|action|Scene ends
+Setting: Jerry's apartment|action|Elaine enters
+Setting: Jerry's apartment|ELAINE|Well, Ahh, this Mischke mish-mash is just gettin' worse.
+Setting: Jerry's apartment|JERRY|Uh-huh.
+Setting: Jerry's apartment|ELAINE|I talked with the groom's parents..
+Setting: Jerry's apartment|JERRY|Mm-hmm. Mm-hmm..
+Setting: Jerry's apartment|ELAINE|... And it's so obvious that they don't want..
+Setting: Jerry's apartment|JERRY|Uh-huh..
+Setting: Jerry's apartment|ELAINE|... me to go.
+Setting: Jerry's apartment|JERRY|Sure.
+Setting: Jerry's apartment|ELAINE|So, the only reason ...
+Setting: Jerry's apartment|JERRY|Uh-huh.
+Setting: Jerry's apartment|ELAINE|... she sent me an invitation was that so I'd send her a gift.
+Setting: Jerry's apartment|JERRY|Uh-huh.
+Setting: Jerry's apartment|NINA|(From Jerry's room) Jerry?
+Setting: Jerry's apartment|JERRY|(To Elaine) Uh, well, you know, a coffee grinder is nice. Or a coffee maker. Everyone likes coffee. Anything to do with coffee. Maybe you should go get some coffee.
+Setting: Jerry's apartment|action|Nina enters the living room - sees Elaine
+Setting: Jerry's apartment|NINA|Oh. Hi.
+Setting: Jerry's apartment|ELAINE|Hi.
+Setting: Jerry's apartment|NINA|(Getting ready to leave) Oh, I should... um...
+Setting: Jerry's apartment|JERRY|Sure.
+Setting: Jerry's apartment|NINA|Yeah.
+Setting: Jerry's apartment|ELAINE|Bye-bye.
+Setting: Jerry's apartment|NINA|Bye. (Leaves)
+Setting: Jerry's apartment|ELAINE|(Gesturing back to the bedroom) Who else ya got back there?
+Setting: Jerry's apartment|JERRY|Look, there was an awkward moment in the conversation. It never happened before.
+Setting: Jerry's apartment|ELAINE|You slept with Nina? What are you gonna tell George?
+Setting: Jerry's apartment|JERRY|Nothing. And neither will you. George can never know about this.. It'll crush him.
+Setting: Jerry's apartment|ELAINE|Uh. Alright, alright. I'll put it in the vault.
+Setting: Jerry's apartment|JERRY|No good. Too many people know the combination.
+Setting: Jerry's apartment|ELAINE|(Confused) What combination?
+Setting: Jerry's apartment|action|Jerry makes the "drinky-drinky" sign with his hands
+Setting: Jerry's apartment|ELAINE|Don't be ridiculous.
+Setting: Jerry's apartment|action|Jerry opens one of his kitchen drawers
+Setting: Jerry's apartment|JERRY|Oh my god. This drawer is filled with Fruit Loops!
+Setting: Jerry's apartment|ELAINE|So what?
+Setting: Jerry's apartment|JERRY|And milk.
+Setting: Jerry's apartment|action|Kramer is in Jerry's kitchen. He spills his milk and cereal on the counter
+Setting: Jerry's apartment|KRAMER|Oh, geez..
+Setting: Jerry's apartment|JERRY|(From outside the apartment) Hello?
+Setting: Jerry's apartment|action|Kramer quickly opens a drawer and sweeps his mess into it with his arm
+Setting: Jerry's apartment|action|Scene ends
+Setting: Pinter's parent's house - Elaine visiting|ELAINE|Hi. Mr. and Mrs. Ranawat?
+Setting: Pinter's parent's house - Elaine visiting|ZUBIN|Please, call us Usha and Zubin.
+Setting: Pinter's parent's house - Elaine visiting|ELAINE|Oh. Well, Usha.
+Setting: Pinter's parent's house - Elaine visiting|ZUBIN|I'm Zubin.
+Setting: Pinter's parent's house - Elaine visiting|ELAINE|(Shrugging it off) Anyway, your son is marrying my friend, Sue Ellen Mischke.
+Setting: Pinter's parent's house - Elaine visiting|USHA|You're not going to the wedding, are you?
+Setting: Pinter's parent's house - Elaine visiting|ELAINE|Well ...
+Setting: Pinter's parent's house - Elaine visiting|USHA|Don't go. India is a dreadful, dreadful place.
+Setting: Pinter's parent's house - Elaine visiting|ZUBIN|You know, it's the only country that still has the plague? (laughing as he says the line) I mean, the plague! Please!
+Setting: Pinter's parent's house - Elaine visiting|USHA|Here's the registry. Send her a gift, and be glad you did not have to go.
+Setting: Pinter's parent's house - Elaine visiting|ELAINE|(Soaking it in) Right. Don't go. Send a gift. I think I understand.
+Setting: Pinter's parent's house - Elaine visiting|ZUBIN|If I had to go to India, I wouldn't go to the bathroom the entire trip.
+Setting: Pinter's parent's house - Elaine visiting|ELAINE|(Leaving) That's fantastic.
+Setting: Pinter's parent's house - Elaine visiting|ZUBIN|And I'm not so crazy about Manhattan, either.
+Setting: Pinter's parent's house - Elaine visiting|action|Scene ends
+Setting: Jerry's apartment|action|Jerry and Nina are in the kitchen
+Setting: Jerry's apartment|NINA|Oh, you were going to tell me all about George.
+Setting: Jerry's apartment|JERRY|Ah, just remember when you see him tomorrow night to tell him that the waiter liked him.
+Setting: Jerry's apartment|NINA|Really?
+Setting: Jerry's apartment|JERRY|Believe me. You know, I forgot how much fun it is hanging out with you.
+Setting: Jerry's apartment|NINA|I know. You know, we never had a bad conversation.
+Setting: Jerry's apartment|JERRY|I know. No awkward pauses. Probably the reason we never fooled around..
+Setting: Jerry's apartment|NINA|Heh.. yeah.
+Setting: Jerry's apartment|JERRY|Probably the reason..
+Setting: Jerry's apartment|action|They both stare at each other, then, Jerry clears of the counter with the sweep of his arm, Nina hops onto the counter, and they start going at it
+Setting: Jerry's apartment|action|Scene ends
+Setting: FDR's apartment building|action|Kramer is standing outside FDR's door, talking to FDR. He is finishing what was once a large lollipop
+Setting: FDR's apartment building|FDR|Are - are you dense? I said I wanted you to drop dead. Now.. drop dead! (Slams the door in Kramer's face *Note: FDR’s Apt. #548*)
+Setting: FDR's apartment building|KRAMER|(Walking away) I knew it.. Stupid Jerry..
+Setting: FDR's apartment building|action|At Jerry's apartment. Jerry's at his door, talking with Kramer. Kramer's lollipop is slightly bigger
+Setting: FDR's apartment building|JERRY|Kramer, I know what I'm talking about. There's no way FDR wants you to drop dead.
+Setting: FDR's apartment building|KRAMER|But you haven't seen..
+Setting: FDR's apartment building|JERRY|Just go back and ask him again. (Slams the door on Kramer)
+Setting: FDR's apartment building|KRAMER|Yeah.. (Heads for FDR's)
+Setting: FDR's apartment building|action|FDR's apartment. Kramer and FDR are talking at the door. Kramer's lollipop, of course, is larger than the scene before
+Setting: FDR's apartment building|FDR|That's right. My birthday wish was that you drop dead.
+Setting: FDR's apartment building|KRAMER|Well, why?
+Setting: FDR's apartment building|FDR|(Sinister) I have my reasons.
+Setting: FDR's apartment building|KRAMER|Woah, wait, wait, wait. If you make a birthday wish out loud, it doesn't come true.
+Setting: FDR's apartment building|FDR|That's just a silly superstition. (Slams his door on Kramer)
+Setting: FDR's apartment building|action|Kramer comes into Jerry's apartment with a huge lollipop
+Setting: FDR's apartment building|KRAMER|Hey, FDR wants me to drop dead.
+Setting: FDR's apartment building|GEORGE|FDR?
+Setting: FDR's apartment building|KRAMER|(To George) Yeah, Franklin Delano Romanowski. (Resumes telling the story) I go to his birthday part, and just before he blew out his candles, he gives me this look..
+Setting: FDR's apartment building|GEORGE|(Guessing the look) Stink eye?
+Setting: FDR's apartment building|JERRY|(Also guessing) Crook eye?
+Setting: FDR's apartment building|KRAMER|EVIL, eye.
+Setting: FDR's apartment building|JERRY|Well, everybody's a little cranky on their birthday.
+Setting: FDR's apartment building|GEORGE|Oh, it's a bad day. Uh, you got everyone in your house, you're thinkin', "These are my friends?!"
+Setting: FDR's apartment building|JERRY|Everyday is my birthday. (Sarcastically joking off what George said)
+Setting: FDR's apartment building|KRAMER|Yeah, well, I can't have this hanging over my head. It's bad mojo.
+Setting: FDR's apartment building|action|Elaine opens the door, hitting Kramer
+Setting: FDR's apartment building|ELAINE|Hi.
+Setting: FDR's apartment building|action|Kramer, still wheezing from the door, leaves
+Setting: FDR's apartment building|ELAINE|You're not gonna believe what I got in the mail. Invitation to Sue Ellen Mischke's wedding.
+Setting: FDR's apartment building|JERRY|(Joking about the bra-less wonder) Well, at least the wedding gown will give her some support.
+Setting: FDR's apartment building|ELAINE|Not the point. The wedding is in one week. I got this (Holds up invitation) today.
+Setting: FDR's apartment building|JERRY|So you think it's a non-vite?
+Setting: FDR's apartment building|ELAINE|It's an un-vitation! (Notices George is a few inches higher) Hey, are you gettin' taller?
+Setting: FDR's apartment building|GEORGE|Timberlands. (Showing Elaine his boots)
+Setting: FDR's apartment building|ELAINE|Ah. (Looking at the invitation) Hey, look at this. 'Pinter Ranawat'.. I wonder if he's related to that guy I dated, Peter Ranawat..
+Setting: FDR's apartment building|JERRY|Ah, it's probably like Smith over there.
+Setting: FDR's apartment building|GEORGE|Jerry, would you make the call already?
+Setting: FDR's apartment building|ELAINE|What call?
+Setting: FDR's apartment building|JERRY|He wants me to set him up with this girl, Nina Stengal.
+Setting: FDR's apartment building|ELAINE|(Remembers Jerry's talking about her) Oh, the great conversation girl. (Somewhat bitter toward Jerry) The one you think can replace me?
+Setting: FDR's apartment building|action|Jerry picks up the phone, dialing Nina
+Setting: FDR's apartment building|JERRY|I was kidding when I said that!
+Setting: FDR's apartment building|GEORGE|(To Elaine) Told me the same thing.
+Setting: FDR's apartment building|JERRY|(On the phone) Nina, Hi. It's Jerry.
+Setting: FDR's apartment building|GEORGE|You-you sure you never slept with her? (Jerry shakes his head 'no') Perfect.
+Setting: FDR's apartment building|JERRY|(To Nina) Hey, how 'bout my friend, George? Quite a guy, huh?
+Setting: FDR's apartment building|GEORGE|(Rubbing his stomach) Ooh.. Something's not sitting right..
+Setting: FDR's apartment building|action|Scene ends
+Setting: The Coffee shop|action|George is ordering his meal
+Setting: The Coffee shop|GEORGE|I'll have the Clams Casino.
+Setting: The Coffee shop|JERRY|Get outta here.
+Setting: The Coffee shop|GEORGE|(Showing Jerry the menu) "Chef recommends"
+Setting: The Coffee shop|JERRY|Hmm..
+Setting: The Coffee shop|GEORGE|(Motioning toward waitress) I think she likes me.
+Setting: The Coffee shop|JERRY|Sure.
+Setting: The Coffee shop|GEORGE|So, how come nothing ever happened between you and Nina? (Getting paranoid) Is there a problem with her? Is she a man?
+Setting: The Coffee shop|JERRY|Are you?
+Setting: The Coffee shop|GEORGE|Well, what's the reason?
+Setting: The Coffee shop|JERRY|We were too compatible Our conversations were so engrossing.
+Setting: The Coffee shop|GEORGE|How engrossing?
+Setting: The Coffee shop|JERRY|If we ever had a problem with Elaine, we could bring in Nina and not lose a step.
+Setting: The Coffee shop|GEORGE|Wow! Heh. (Half kidding) You don't, huh, have a replacement lined up for me, do ya? heh he he he he he...
+Setting: The Coffee shop|action|Jerry snickers, then stares at George, smiling
+Setting: The Coffee shop|JERRY|Anyway, like I was saying, I couldn't make the transition from conversation to sex. There were no awkward pauses... I need an awkward pause.
+Setting: The Coffee shop|GEORGE|I'm all for awkward pauses. Fix me up with her.. Wait a minute, Nina just saw me in my Timberlands! Now I have to wear them every time I see her.
+Setting: The Coffee shop|JERRY|Why?
+Setting: The Coffee shop|GEORGE|In any other shoe, I lose two inches. I - I can't have a drop down. We were eye to eye, I can't go eye to chin!
+Setting: The Coffee shop|JERRY|So, you're gonna wear 'em no matter what the situation?
+Setting: The Coffee shop|GEORGE|In every situation. No matter how silly I look. (Tastes his Clams Casino) Hm.. tastes a little funky.
+Setting: The Coffee shop|JERRY|Oh, I'm sure it's fine.
+Setting: The Coffee shop|action|Scene ends
+Setting: FDR's apartment|action|A group of people are singing to FDR
+Setting: FDR's apartment|ALL|..to you!
+Setting: FDR's apartment|MAN|Come on, make a wish! Make a wish!
+Setting: FDR's apartment|KRAMER|Yeah!
+Setting: FDR's apartment|action|FDR eyes Kramer evilly, blows out his candles
+Setting: FDR's apartment|ALL|Heyyy, yeahhhh (Clapping).
+Setting: FDR's apartment|action|FDR leans back, crosses arms and gives Kramer the same look. Kramer reacts nervously
+Setting: FDR's apartment|action|Scene ends
+Setting: NYC Street|action|Jerry and George are walking down the street. The opening credits start to show
+Setting: NYC Street|GEORGE|Ah, this is the kind of day that almost makes you feel good to be alive.
+Setting: NYC Street|JERRY|Almost. (Notices his shoes) Hey, new Timberlands?
+Setting: NYC Street|GEORGE|Yeah, and a whole new me. I'm up two inches in these babies!
+Setting: NYC Street|JERRY|Really?
+Setting: NYC Street|GEORGE|Five' eight. Five' seven.
+Setting: NYC Street|action|Jerry passes Nina, an old girlfriend
+Setting: NYC Street|NINA|Jerry?
+Setting: NYC Street|JERRY|Nina?
+Setting: NYC Street|NINA|Hi.
+Setting: NYC Street|JERRY|It's been years!
+Setting: NYC Street|NINA|Yeah!
+Setting: NYC Street|JERRY|(Introducing the two) George, this is Nina.
+Setting: NYC Street|GEORGE|Nice to meet you.
+Setting: NYC Street|NINA|Nice to meet you, too.
+Setting: NYC Street|action|Nina smiles as she shakes his hand. George raises his eyebrow
+Setting: NYC Street|action|Scene ends
+Setting: Elaine's apartment building|action|Elaine's at her mailbox
+Setting: Elaine's apartment building|ELAINE|(Reading an invitation) India? Tst, Yeah, right. (Sarcastic) I'm goin' to India..
+Setting: Elaine's apartment building|action|Scene ends
+Setting: The Coffee shop|action|Jerry is sitting at a booth with Nina
+Setting: The Coffee shop|NINA|And they call it the World Wide Web. You can e-mail anyone!
+Setting: The Coffee shop|JERRY|(Mesmerized) What are you, a scientist?!
+Setting: The Coffee shop|NINA|Ah, I gotta go. (Gets up to leave)
+Setting: The Coffee shop|JERRY|Ah.
+Setting: The Coffee shop|NINA|It's great talkin'
+Setting: The Coffee shop|JERRY|Great talkin' to you. (Nina leaves. To himself) What the hell is e-mail?
+Setting: The Coffee shop|action|George and Susan enter and sit with Jerry
+Setting: The Coffee shop|GEORGE|How as the date?
+Setting: The Coffee shop|JERRY|Pretty good. I think she might be the one.
+Setting: The Coffee shop|SUSAN|No.
+Setting: The Coffee shop|GEORGE|Whooo.. (To a waitress taking orders) Ooh.. French fries.
+Setting: The Coffee shop|SUSAN|Ah, George.
+Setting: The Coffee shop|GEORGE|(clearing his throat, he changes his order for Susan) Baked, uh, potato.
+Setting: The Coffee shop|SUSAN|Uh-huh.
+Setting: The Coffee shop|GEORGE|Sorry.
+Setting: The Coffee shop|SUSAN|Yeah, you stuff your sorries in a sack, mister.
+Setting: The Coffee shop|action|Kramer runs into Monk's with a snowball
+Setting: The Coffee shop|KRAMER|Hey, hey. Yeah, check it out. It's packin' tight! (Puts the snowball on the table, then drips water from Jerry's cup onto it)
+Setting: The Coffee shop|JERRY|What are you bringing snowballs in here for?
+Setting: The Coffee shop|KRAMER|Oh, I need some water. Ice it up nice and hard ... and when you throw it - Pop! Oh look, (FDR is at the cash register, pays and leaves Monk’s) there's my friend, FDR. I'm gonna nail him in the back of the head. It's gonna be great! (Rushes out of Monks to peg his friend with the snowball)
+Setting: The Coffee shop|action|Elaine and Pinter [Peter] enter Monk's, and are greeted
+Setting: The Coffee shop|JERRY|Hi, Elaine.
+Setting: The Coffee shop|GEORGE|Hey!
+Setting: The Coffee shop|ELAINE|(Turning around and leaving with Pinter) Hey, let's go someplace else, Okay, Peter?
+Setting: The Coffee shop|action|Scene ends
+Setting: Jerry's new apartment|action|Jerry, carrying a box, is moving in to his apartment for the first time. He meets his across-the-hall neighbor, Kramer
+Setting: Jerry's new apartment|KRAMER|Oh, hey, how you doing?
+Setting: Jerry's new apartment|JERRY|Oh, hi. I-I'm Jerry Seinfeld. I'm movin' in. I saw your name on the buzzer - You must be Kessler.
+Setting: Jerry's new apartment|KRAMER|Uh, no. Actually, it's Kramer.
+Setting: Jerry's new apartment|JERRY|Oh.
+Setting: Jerry's new apartment|KRAMER|Uh, you need any help, or..?
+Setting: Jerry's new apartment|JERRY|No, thanks. But I ordered a pizza. You want some of it?
+Setting: Jerry's new apartment|KRAMER|Ah, no, no, no. I-I couldn't impose.
+Setting: Jerry's new apartment|JERRY|Why not? We're neighbors. What's mine is yours. (And with that, Jerry made the most fatal mistake of his life)
+Setting: Jerry's new apartment|KRAMER|(quietly) Ohh (Eyeing Jerry's empty apartment) Really?

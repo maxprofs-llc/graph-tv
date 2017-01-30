@@ -1,0 +1,285 @@
+George at a meeting at the Susan Ross Foundation.|GEORGE|You want me to find a poem about Susan? May she rest in peace?!
+George at a meeting at the Susan Ross Foundation.|WYCK|Well, we think it would be a nice touch for the Foundation literature. Do you have a favorite poet, George?
+George at a meeting at the Susan Ross Foundation.|GEORGE|I like, uh...(mutters something unintelligible under his breath.)
+George at a meeting at the Susan Ross Foundation.|WYCK|Pardon?
+George at a meeting at the Susan Ross Foundation.|GEORGE|(mutters it again)
+George at a meeting at the Susan Ross Foundation.|WYCK|Well, you should choose the poem since you knew Susan best at the time of her unfortunate (clears his throat)...accident.
+George at a meeting at the Susan Ross Foundation.|action|George looks at Wyck suspiciously.
+George and Jerry at the coffee shop later that day.|JERRY|He cleared his throat?
+George and Jerry at the coffee shop later that day.|GEORGE|Yes!
+George and Jerry at the coffee shop later that day.|JERRY|So?
+George and Jerry at the coffee shop later that day.|GEORGE|He did it right as he said "her unfortunate accident."
+George and Jerry at the coffee shop later that day.|JERRY|Not getting it.
+George and Jerry at the coffee shop later that day.|GEORGE|Jerry, a throat-clear is a non-verbal implication of doubt - he thinks I killed Susan!
+George and Jerry at the coffee shop later that day.|JERRY|Oh, help me, Rhonda.
+George and Jerry at the coffee shop later that day.|GEORGE|What time is it?
+George and Jerry at the coffee shop later that day.|GEORGE|Right now?
+George and Jerry at the coffee shop later that day.|JERRY|I gotta go meet Pam.
+George and Jerry at the coffee shop later that day.|GEORGE|Oh, the bookstore girl. How's that goin'?
+George and Jerry at the coffee shop later that day.|JERRY|Okay. I'm just not ga-ga over her. For once I'd like to be ga-ga.
+George and Jerry at the coffee shop later that day.|GEORGE|Where's Elaine?
+George and Jerry at the coffee shop later that day.|JERRY|She's having Carol, Gail and Lisa over. You know they all have kids now?
+George and Jerry at the coffee shop later that day.|GEORGE|What's with all these people having babies?
+George and Jerry at the coffee shop later that day.|JERRY|Perpetuation of the species.
+George and Jerry at the coffee shop later that day.|GEORGE|Yeah! Right!
+George and Jerry at the coffee shop later that day.|JERRY|By the way, just for the record -
+George and Jerry at the coffee shop later that day.|GEORGE|No, I did not! (They exit the coffee shop.)
+Elaine at her apartment with Carol, Gail and Lisa.|CAROL|...but because it comes out of your baby, it smells good!
+Elaine at her apartment with Carol, Gail and Lisa.|ELAINE|Well, that's...that's sweet.
+Elaine at her apartment with Carol, Gail and Lisa.|GAIL|Being a mother has made me feel so beautiful.
+Elaine at her apartment with Carol, Gail and Lisa.|CAROL|Elaine, you gotta have a baby!
+Elaine at her apartment with Carol, Gail and Lisa.|ELAINE|Oh, hey, you know...I had a piece of whitefish over at Barney Greengrass the other day...
+Elaine at her apartment with Carol, Gail and Lisa.|LISA|Elaine. Move to Long Island and have a baby already.
+Elaine at her apartment with Carol, Gail and Lisa.|ELAINE|I really like the city.
+Elaine at her apartment with Carol, Gail and Lisa.|CAROL|The city's a toilet. When's the last time you saw my little Adam?
+Elaine at her apartment with Carol, Gail and Lisa.|ELAINE|Uh, it was in the Hamptons.
+Elaine at her apartment with Carol, Gail and Lisa.|CAROL|Oh! I have pictures!
+Elaine at her apartment with Carol, Gail and Lisa.|ELAINE|No, no, that's okay, it's uh...
+Elaine at her apartment with Carol, Gail and Lisa.|action|Elaine is revolted by the sight of "breathtaking" little Adam.
+Jerry and George walking down the street after leaving Monk's.|JERRY|So, Elaine was telling me about this piece of whitefish she had the other day...
+Jerry and George walking down the street after leaving Monk's.|GEORGE|Do you really think I'm wrong about this Wyck guy?
+Jerry and George walking down the street after leaving Monk's.|JERRY|You know, if you really want to test him out, why don't you try the old Jerry Lewis trick?
+Jerry and George walking down the street after leaving Monk's.|GEORGE|Jerry Lewis?
+Jerry and George walking down the street after leaving Monk's.|JERRY|I heard that when Jerry Lewis left a meeting, he'd purposefully leave a briefcase with a tape recorder in it. Then after five minutes, he'd come back for it and listen to what everyone said about him.
+Jerry and George walking down the street after leaving Monk's.|GEORGE|That's pretty paranoid.
+Jerry and George walking down the street after leaving Monk's.|JERRY|Yes, it is.
+Jerry and George walking down the street after leaving Monk's.|GEORGE|I like it!
+Jerry and George walking down the street after leaving Monk's.|JERRY|I thought you might.
+Kramer in Jerry's apartment. Pam enters.|PAM|Oh, hi! I'm Pam. You must be Kramer. (Kramer is smitten with Pam and grins goofily.) Jerry's told me a lot about you. (Kramer continues grinning.) Well, I'm supposed to meet Jerry, it's my day off. I work in a bookstore.
+Kramer in Jerry's apartment. Pam enters.|PAM|Oh, careful! (Jerry enters.)
+Kramer in Jerry's apartment. Pam enters.|JERRY|Hi, sorry I'm late.
+Kramer in Jerry's apartment. Pam enters.|PAM|That's okay. Kramer let me in.
+Kramer in Jerry's apartment. Pam enters.|JERRY|You know, if we rush, we can still make the movie.
+Kramer in Jerry's apartment. Pam enters.|PAM|Okay. (Touches Kramer's hand) It was really nice meeting you.
+Kramer in Jerry's apartment. Pam enters.|action|Jerry and Pam leave. Kramer sniffs his hand where Pam touched him, and makes a delighted noise.
+Kramer and Newman in Newman's apartment.|KRAMER|I'm in trouble, buddy. I just met a woman.
+Kramer and Newman in Newman's apartment.|NEWMAN|Go on.
+Kramer and Newman in Newman's apartment.|KRAMER|Well, she's Jerry's girlfriend.
+Kramer and Newman in Newman's apartment.|NEWMAN|Ah, yes. Forbidden love.
+Kramer and Newman in Newman's apartment.|KRAMER|She works in a book shop. Her name is Pam.
+Kramer and Newman in Newman's apartment.|NEWMAN|"Pam." I don't know the woman, but she sounds quite fetching.
+Kramer and Newman in Newman's apartment.|KRAMER|I can't even speak in front of her. (Sits down on the couch.)
+Kramer and Newman in Newman's apartment.|NEWMAN|Jerry! What could she possibly see in Jerry? (Walks in front of Kramer and trips over his feet.)
+Kramer and Newman in Newman's apartment.|KRAMER|She has delicate beauty.
+Kramer and Newman in Newman's apartment.|NEWMAN|Jerry wouldn't know delicate beauty if it bludgeoned him over the head.
+Kramer and Newman in Newman's apartment.|KRAMER|And yet, he's my friend.
+Kramer and Newman in Newman's apartment.|NEWMAN|And therein lies the tragedy. For I believe, sadly for you, that there is but one woman meant for each of us. One perfect angel for whom we are put on this earth.
+Kramer and Newman in Newman's apartment.|KRAMER|Aw, that's beautiful, Newman.
+Kramer and Newman in Newman's apartment.|NEWMAN|One winsome tulip we ceaselessly yearn for throughout our dreary, workaday lives! And you, my friend, have found your angel. I can tell. For my heart has also been captured by a breathless beauty - whom I fear I will never possess.
+Kramer and Newman in Newman's apartment.|KRAMER|I thought we were talking about me.
+Kramer and Newman in Newman's apartment.|NEWMAN|Right. Kramer, you have to confront Jerry.
+Kramer and Newman in Newman's apartment.|KRAMER|Confront Jerry? I can't.
+Kramer and Newman in Newman's apartment.|NEWMAN|You must!
+Kramer and Newman in Newman's apartment.|KRAMER|I won't!
+Kramer and Newman in Newman's apartment.|NEWMAN|You will!
+Jerry, Elaine and George at a newsstand.|GEORGE|Where are all the poetry magazines?
+Jerry, Elaine and George at a newsstand.|ELAINE|The New Yorker has poetry.
+Jerry, Elaine and George at a newsstand.|GEORGE|Yes. The New Yorker.
+Jerry, Elaine and George at a newsstand.|JERRY|Why do you invite these women over if they annoy you so much?
+Jerry, Elaine and George at a newsstand.|ELAINE|They're my friends, but they act as if having a baby takes some kind of talent.
+Jerry, Elaine and George at a newsstand.|JERRY|C'mon, you want to have a baby.
+Jerry, Elaine and George at a newsstand.|ELAINE|Why? Because I can?
+Jerry, Elaine and George at a newsstand.|JERRY|It's the life force. I saw a show on the mollusk last night. Elaine, the mollusk travels from Alaska to Chile just for a shot at another mollusk. You think you're any better?
+Jerry, Elaine and George at a newsstand.|ELAINE|Yes! I think I am better than the mollusk!
+Jerry, Elaine and George at a newsstand.|KEVIN|I couldn't help overhearing what you were saying.
+Jerry, Elaine and George at a newsstand.|ELAINE|Oh, I'm sorry.
+Jerry, Elaine and George at a newsstand.|KEVIN|No, no, I think I agree with you. I mean, all this talk about having babies.
+Jerry, Elaine and George at a newsstand.|ELAINE|Yeah, like you must procreate.
+Jerry, Elaine and George at a newsstand.|KEVIN|Besides, anyone can do it.
+Jerry, Elaine and George at a newsstand.|ELAINE|Oh, it's been done to death. (smiles)
+George in another meeting at the Foundation. He has a briefcase with a tape recorder in it.|GEORGE|I, uh, should have a poem very soon now.
+George in another meeting at the Foundation. He has a briefcase with a tape recorder in it.|WYCK|Are you okay, George?
+George in another meeting at the Foundation. He has a briefcase with a tape recorder in it.|GEORGE|No, no, not really. Ever since Susan passed on, I have good days and bad. (Turns the briefcase towards the woman on his left.) Some days, I'm haunted by one word - why. Why Susan? Why wasn't it me licking those invitations? Why am I still here? Well, I gotta run. (Gets up and leaves the meeting.)
+George in another meeting at the Foundation. He has a briefcase with a tape recorder in it.|action|George is shown standing on the street while the tape rolls inside the briefcase.
+George in another meeting at the Foundation. He has a briefcase with a tape recorder in it.|WYCK|...and the stock options for this year look quite, uh... (George returns and retrieves the briefcase.)
+Elaine and Kevin at the coffee shop.|ELAINE|So, Kevin. If I don't want children, does that make me a bad humanitarian?
+Elaine and Kevin at the coffee shop.|KEVIN|Not at all.
+Elaine and Kevin at the coffee shop.|ELAINE|'Cause, I mean, when you get to know me, you'll see that I'm a pretty good humanitarian. (Waitress comes to the table and pours more coffee.) You are doing a wonderful job, by the way. Thanks a lot. (To Kevin) Right? Am I right? (Kramer walks by.) Kramer. Kramer! Come here, look at my new friend Kevin. (Kramer and Kevin shake hands.) Oh, you got a little, uh...
+Elaine and Kevin at the coffee shop.|ELAINE|Oh. Are you alright?
+Elaine and Kevin at the coffee shop.|KRAMER|Yeah, I'll be okay.
+Elaine and Kevin at the coffee shop.|ELAINE|You know, Jerry has one of those every time he bombs on stage.
+Elaine and Kevin at the coffee shop.|KRAMER|Well, I'm sure he'll be sharing his next one with Pam.
+Elaine and Kevin at the coffee shop.|ELAINE|Oh, no...that won't last.
+Elaine and Kevin at the coffee shop.|KRAMER|What do you mean?
+Elaine and Kevin at the coffee shop.|ELAINE|He's not ga-ga.
+Elaine and Kevin at the coffee shop.|action|Kramer suddenly looks elated and runs out.
+George shows up at Jerry's apartment later that night with the briefcase.|GEORGE|Lemme tell you something, that Jerry Lewis? You wonder how some of these people get to the top? It's ideas like this! Brilliant! Hah-hah! (Notices that the briefcase is damaged.) Look at this - what the hell happened? The whole side is damaged here...and the lock is broken.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|How long did you leave it up there?
+George shows up at Jerry's apartment later that night with the briefcase.|GEORGE|Five minutes. What the hell happened here?
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|Play the tape, maybe we'll get a clue.
+George shows up at Jerry's apartment later that night with the briefcase.|GEORGE|I have to rewind it first. (George presses the rewind button on the tape recorder. He and Jerry stand there, waiting impatiently as it rewinds.) Alright, alright.
+George shows up at Jerry's apartment later that night with the briefcase.|action|George plays back the tape. We hear a voice ask, "Did anyone notice George's fingernails?" Then a female voice answering, "Oh my, yes. They looked like they were eaten away by weavels." The male voice remarks, "It's warm in here. Open a window." Then, "Hey! What are you doing?" The female voice exclaims, "Dear God." There's a clunking sound on the tape, and the recording ends.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|Is that it?
+George shows up at Jerry's apartment later that night with the briefcase.|GEORGE|Stopped dead.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|What do you make of it?
+George shows up at Jerry's apartment later that night with the briefcase.|GEORGE|I don't know. (George sits down at the table. Kramer enters.)
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Jerry. Uh, can we talk?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|I'd like to talk to Jerry in private.
+George shows up at Jerry's apartment later that night with the briefcase.|GEORGE|Why can't I stay?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Because it doesn't concern you.
+George shows up at Jerry's apartment later that night with the briefcase.|GEORGE|Well, if it doesn't concern me, then I can stay. (Kramer grabs the back of George's chair, drags him out into the hallway and closes the door.)
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|So, what's on your mind?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|It's Pam.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|Pam? What about Pam?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|I love her, Jerry!
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|You what?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|I love her!
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|Is that right?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Oh, she's uh...she's real. She can bring home the bacon and fry it in the pan.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|What does that mean?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Oh, and that voice!
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|What about her name?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Pam? Oh, it's a beautiful name. (Kramer sits on the couch.) Pam. Pam. Pam!
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|She's got really nice hair.
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Oh, it's incredible. Although, I might replace her tortoise clip with one of those velvet scrunchies. I love those.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|You've got really specific tastes.
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Oh, I know what I want, Jerry.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|She's got nice calves.
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Oh, she's a dreamboat. But, you don't like her, so...
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|Maybe I could, you're making some pretty good points.
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|No you can't, Jerry.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|But I might.
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Oh, no you don't.
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|Why not? The voice? The calves? The bacon?
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|What...?
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|I think I can! I even like the name! Pam!
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|Pam!
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Huh?
+George shows up at Jerry's apartment later that night with the briefcase.|JERRY|Pam!
+George shows up at Jerry's apartment later that night with the briefcase.|KRAMER|Huh-yah! (Kramer loses it and runs out past George, who is still sitting in the hallway on a chair.)
+Kramer and Newman in Newman's apartment.|KRAMER|So now he wants her more than ever!
+Kramer and Newman in Newman's apartment.|NEWMAN|Blast!
+Kramer and Newman in Newman's apartment.|KRAMER|What am I gonna do, huh?
+Kramer and Newman in Newman's apartment.|NEWMAN|Don't despair, my friend. (Newman walks in front of Kramer and trips over his feet. Again.) I won't allow your love to go unrequited. Not like mine.
+Kramer and Newman in Newman's apartment.|KRAMER|What, again with you?
+Kramer and Newman in Newman's apartment.|NEWMAN|Sorry. But love is spice with many tastes. A dizzying array of textures...and moments.
+Kramer and Newman in Newman's apartment.|KRAMER|If only I could say things like that around her.
+Elaine and George at the coffee shop listening to the briefcase tape.|ELAINE|Well, I hear three distinct sounds. A low rumple...followed by a metallic 'squink'...
+Elaine and George at the coffee shop listening to the briefcase tape.|GEORGE|Yes! Yes, I heard the 'squink'!
+Elaine and George at the coffee shop listening to the briefcase tape.|ELAINE|...followed by a mysterious...'glonk.'
+Elaine and George at the coffee shop listening to the briefcase tape.|GEORGE|It's baffling, isn't it?
+Elaine and George at the coffee shop listening to the briefcase tape.|ELAINE|Well, one question does come to mind. Have you considered just...asking them what happened to the briefcase?
+Elaine and George at the coffee shop listening to the briefcase tape.|GEORGE|They would never tell me, Elaine. First of all, they probably think that I killed Susan. Besides, I don't even think they like me. (Jerry comes over to the table.)
+Elaine and George at the coffee shop listening to the briefcase tape.|JERRY|That Pam! I am ga-ga over her!
+Elaine and George at the coffee shop listening to the briefcase tape.|ELAINE|Ga-ga? When did that happen?
+Elaine and George at the coffee shop listening to the briefcase tape.|JERRY|Yesterday. Six-ish.
+Elaine and George at the coffee shop listening to the briefcase tape.|ELAINE|Well, maybe we should double. I'm pretty ga-ga myself.
+Elaine and George at the coffee shop listening to the briefcase tape.|JERRY|You just met the guy yesterday.
+Elaine and George at the coffee shop listening to the briefcase tape.|ELAINE|Yeah, but we have a common goal.
+Elaine and George at the coffee shop listening to the briefcase tape.|JERRY|A barren, sterile existence that ends when you die?
+Elaine and George at the coffee shop listening to the briefcase tape.|GEORGE|And you really believe this guy doesn't want to have kids.
+Elaine and George at the coffee shop listening to the briefcase tape.|ELAINE|Yeah, of course.
+Elaine and George at the coffee shop listening to the briefcase tape.|JERRY|Elaine, a guy'll say anything to get a woman.
+Elaine and George at the coffee shop listening to the briefcase tape.|ELAINE|Oh, please. He wouldn't say that.
+Elaine and George at the coffee shop listening to the briefcase tape.|GEORGE|Elaine, I once told a woman that I coined the phrase, "Pardon my French."
+Elaine and George at the coffee shop listening to the briefcase tape.|JERRY|I once told a woman that I don't eat cake 'cause it goes right to my thighs.
+Elaine and George at the coffee shop listening to the briefcase tape.|GEORGE|I once told a woman that I really enjoy spending time with my family.
+Kramer and Newman in an aisle at the bookstore where Pam works.|NEWMAN|With your looks and my words, we'll have built the perfect beast. (Kramer claps him on the shoulder, then goes to the other side of the aisle to talk to Pam.)
+Kramer and Newman in an aisle at the bookstore where Pam works.|PAM|Oh, hi! Kramer.
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|Hi. How are you?
+Kramer and Newman in an aisle at the bookstore where Pam works.|PAM|I'm great.
+Kramer and Newman in an aisle at the bookstore where Pam works.|NEWMAN|I too am well.
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|I too am well.
+Kramer and Newman in an aisle at the bookstore where Pam works.|NEWMAN|Do I smell Pantene?
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|Do I smell?
+Kramer and Newman in an aisle at the bookstore where Pam works.|NEWMAN|Pantene!
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|Uh, Pantene.
+Kramer and Newman in an aisle at the bookstore where Pam works.|PAM|Oh, my shampoo. Yeah, it is Pantene, I got a free sample in with my junk mail.
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|Newman! (Elbows him through the books. Newman falls over.)
+Kramer and Newman in an aisle at the bookstore where Pam works.|PAM|What?
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|Uh, human. It's...human to be moved by a fragrance.
+Kramer and Newman in an aisle at the bookstore where Pam works.|PAM|That's so true.
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|Her bouquet cleaved his hardened...
+Kramer and Newman in an aisle at the bookstore where Pam works.|NEWMAN|Shell.
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|...shell. And fondled his muscled heart. He embibed her glistening spell...just before the other shoe...fell.
+Kramer and Newman in an aisle at the bookstore where Pam works.|PAM|Kramer, that is so lovely.
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|It's by an unknown 20th-century poet.
+Kramer and Newman in an aisle at the bookstore where Pam works.|PAM|Oh, what's his name?
+Kramer and Newman in an aisle at the bookstore where Pam works.|KRAMER|Newman. (On the other side of the bookcase, Newman preens proudly.)
+Elaine and Kevin in Elaine's apartment.|KEVIN|Elaine, you've changed my life.
+Elaine and Kevin in Elaine's apartment.|ELAINE|Oh, Kevin...you can go on and on about how you don't want kids...and it sounds, it sounds really nice, but...the truth is, I don't know if you mean it or not.
+Elaine and Kevin in Elaine's apartment.|KEVIN|I got a vasectomy this morning.
+Elaine and Kevin in Elaine's apartment.|ELAINE|Although, I have a hunch you mean it.
+Jerry talking with Pam at the bookstore. |JERRY|I just came by to tell you - I'm really, really happy about this relationship. Really happy.
+Jerry talking with Pam at the bookstore. |PAM|Oh. Well, that's um...(clears her throat)...nice. (Jerry looks suspicious. Pam turns around and Jerry notices her tortoise clip has been replaced with a velvet scrunchie.)
+Jerry talking with Pam at the bookstore. |JERRY|Kramer!
+Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.|JERRY|Hello, Newman.
+Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.|NEWMAN|Hello, Jerry. How's Pam?
+Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.|JERRY|Pam? What do you care? (Newman shrugs. Jerry notices he's carrying a Brentano's bookstore bag.)
+Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.|NEWMAN|Well, ta-ta! (Scampers away.)
+Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.|JERRY|Wait a minute! (A manic chase scene ensues, with Jerry chasing Newman from one end of the building to the other. Jerry finally catches up with him in the hallway on another floor.)
+Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.|JERRY|Alright, Newman! This is it! (Shoves him against the wall.)
+Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.|JERRY|Why not?
+Jerry approaching his apartment door. He meets Newman coming out of Kramer's place.|NEWMAN|Because right now, I'm the only chance you've got. (Newman giggles nervously. Jerry makes Newman flinch, and his giggling is choked off.)
+Jerry and Newman in Newman's apartment.|JERRY|I can't believe I'm losing Pam!
+Jerry and Newman in Newman's apartment.|NEWMAN|I know how you feel. For I, too, have a woman for whom I pine.
+Jerry and Newman in Newman's apartment.|JERRY|I thought we were talking about me.
+Jerry and Newman in Newman's apartment.|NEWMAN|Right.
+Jerry and Newman in Newman's apartment.|JERRY|Anyway, I don't need your help. (Turns to leave.)
+Jerry and Newman in Newman's apartment.|NEWMAN|Oh, don't you? Joke boy? You really think you can manipulate that beautiful young woman like the half-soused nightclub rabble that lap up your inane "observations"?
+Jerry and Newman in Newman's apartment.|JERRY|Alright, Newman. What do I have to do to get you to stop pulling the strings for Kramer?
+Jerry and Newman in Newman's apartment.|NEWMAN|Well, there is a little something you can do for me...
+Jerry and Newman in Newman's apartment.|JERRY|C'mon, out with it.
+Jerry and Newman in Newman's apartment.|NEWMAN|It's about...Elaine.
+Jerry and Newman in Newman's apartment.|JERRY|Elaine? What does she have to - (notices Newman looking up at him longlingly.) Oh no...
+Jerry and Newman in Newman's apartment.|NEWMAN|You dated her. Give me some inside information. Anything I can use!
+Cut back to Elaine and Kevin at Elaine's apartment.|KEVIN|I thought you'd be a little more enthusiastic about it.
+Cut back to Elaine and Kevin at Elaine's apartment.|ELAINE|I know, I don't want...(clears her throat)...kids.
+Cut back to Elaine and Kevin at Elaine's apartment.|KEVIN|What was that?
+Cut back to Elaine and Kevin at Elaine's apartment.|ELAINE|Well, Kevin, maybe I have a little doubt. I mean, nothing is a hundred percent.
+Cut back to Elaine and Kevin at Elaine's apartment.|KEVIN|This is! Oh boy, I always do this.
+Cut back to Elaine and Kevin at Elaine's apartment.|ELAINE|What?
+Cut back to Elaine and Kevin at Elaine's apartment.|KEVIN|Oh, I get all jazzed up about something and I go way to far with it.
+Cut back to Elaine and Kevin at Elaine's apartment.|ELAINE|Really?
+Cut back to Elaine and Kevin at Elaine's apartment.|KEVIN|Oh, yeah. Like last summer. I'm watchin' TV and I saw one of those jet-skis. $4000 later and it's sitting in my garage.
+Cut back to Elaine and Kevin at Elaine's apartment.|ELAINE|You know, that's weird, actually, 'cause I'm sort of the same way. I mean once for like, no reason, I flattened my hair and I had all these strands hanging in my face all the time...
+Cut back to Elaine and Kevin at Elaine's apartment.|KEVIN|Sometimes I think I do want kids. Maybe a lot of kids!
+Cut back to Elaine and Kevin at Elaine's apartment.|ELAINE|Sometimes I think about wearing my hair real short.
+Cut back to Elaine and Kevin at Elaine's apartment.|KEVIN|Yeah! I think I like short hair. Really short.
+Cut back to Elaine and Kevin at Elaine's apartment.|ELAINE|Yeah!
+Cut back to Elaine and Kevin at Elaine's apartment.|KEVIN|Yeah!
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|GEORGE|This is a crude mock-up of the conference room. 1/14th scale.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|When did you build this thing?
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|GEORGE|Yesterday, took the day off. (Picks up a red Power Ranger action figure from the model and pretends it's him.) Now, from the time I left the room...
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|GEORGE|Yeah.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|And?
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|GEORGE|Okay. That's what we know.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|But we already knew that.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|GEORGE|Well, yeah.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|Just give me some idea of what you think it could be.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|GEORGE|I don't know if you're ready for it.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|Please.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|GEORGE|I believe that I am about to become the target of a systematic process of intimidation and manipulation, the likes of which you have never -
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|Hold it, hold it! You're right, I'm not ready for this. (The door buzzer sounds, Jerry answers it.) Yeah?
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|C'mon up. (To George) Alright, it's Pam, you gotta get goin.'
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|GEORGE|I'm not through here, Jerry. (Picks up the model of the conference room.) I'm gonna keep on investigating. This thing is like an onion. The more layers you peel, the more it stinks. (Pam enters, George leaves.)
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|PAM|What was that?
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|We were just playin.'
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|PAM|Listen, I had a long talk with Kramer today...
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|Uh huh...
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|PAM|Well, the thing is, I uh...I think I have a little crush on him. (Kramer slides in the door on his knees.)
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|KRAMER|I'm so happy! My world suddenly has meaning!
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|PAM|Well, I have feelings for both of you.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|KRAMER|How can you have feelings for him? We're soul mates.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|JERRY|Why can't I be a soul mate?
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|KRAMER|Jerry, you really think that Pam would want you to be the father of her children?
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|PAM|Children? Who said anything about children? I don't want to have children.
+Jerry and George in Jerry's kitchen. George has brought over a model of the conference room at the Foundation.|action|Jerry and Kramer look at each other, puzzled.
+George back at the conference room at the Foundation.|GEORGE|There are some people in this room who would have been very happy to never see this briefcase again. There are people in this room who think they can destroy other people's property and get away with it. Well, let me tell you something about those people. They weren't counting on this brain! And this tape recorder.
+George back at the conference room at the Foundation.|WYCK|George...
+George back at the conference room at the Foundation.|GEORGE|You'll have your turn! The truth must be heard. (Plays back the tape.) That's all there was. And yet, it speaks volumes. A low rumple. A metallic 'squink.' A 'glonk.' Someone crying out..."Dear God!" Let's start with, uh...with you, Wyck.
+George back at the conference room at the Foundation.|WYCK|George, Quinn here was moving a chair...he lost his balance and dropped it...it must have fallen on your briefcase, which, for some reason, contained a running tape recorder?
+George back at the conference room at the Foundation.|GEORGE|Alright, then. We've gotten to the bottom of that.
+Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.|ELAINE|What are you guys doing here?
+Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.|JERRY|We're getting vasectomies.
+Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.|ELAINE|Why?
+Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.|ELAINE|What?
+Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.|ELAINE|I cut it.
+Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.|JERRY|It's a little short.
+Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.|KEVIN|Y'think?
+Jerry and Newman in the office of Bernard Wendroff, M.D. - urologist. Elaine and Kevin enter. Elaine has cut her hair short.|ELAINE|Kevin's having his vasectomy reversed.
+George reading the poem for Susan at the Foundation.|GEORGE|...he embibed her glistening spell...just before the other shoe...fell.
+George reading the poem for Susan at the Foundation.|WYCK|Is that a Keats poem?
+George reading the poem for Susan at the Foundation.|GEORGE|No, it's a Newman. Well, I gotta run. (Smiles, pats his briefcase and exits.)
+George reading the poem for Susan at the Foundation.|WYCK|Does anyone think George might have murdered Susan?
+George reading the poem for Susan at the Foundation.|WYCK|So it's not just me, then. Alright! Back to business.

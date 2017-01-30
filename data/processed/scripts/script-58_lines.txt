@@ -1,0 +1,254 @@
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|Oh, what's the point? When I like them, they don't like me, when they like me, I don't like them. Why can't I act with the ones I like the same way I do with the ones I don't like?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|Well, you've only got another fifty years or so to go before it'll *all* be over...
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|Maybe I need someone who doesn't speak English.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|Yeah, how about a mute?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|A mute would be good.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|Ah, where you gonna meet a mute?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|This is what my life has come to... Tryin to meet a mute.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|action|George quickly shifts into deep philosophical mode. Jerry remains pedestrian on the issue, still reading the paper.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|I dunno, Jerry somethin's missing. There's a void, Jerry, there's a void...
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|A deep, yawning chasm...
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|There's gotta be more to life than this. What gives you pleasure?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|Listening to you. I listen to this for fifteen minutes and I'm on top of the world. Your misery is my pleasure.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|action|Elaine enters and greets George & Jerry cheerfully.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|Hey boys!
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|Hey! How you doin'?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|Good. Okay, well, it's all set. I start tomorrow.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|Start what?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|I signed up to do volunteer work with senior citizens.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|*Really*.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|Yeah. God, I can't tell you how I feel! I mean, I feel *so* *good*! I *really* feel good. The strange thing is, I mean, I haven't even met the woman yet.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|Volunteer work, huh?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|What're you gonna do down there?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|Well, they say all it is is that you go over to their apartment and, I dunno, you take them for a walk and you get a cup of coffee and it's supposed to make them feel good.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|That's what I do with him [points at George]
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|action|George gives Jerry that "Oh, ha-ha... it is to laugh" look and probes Elaine further (no, that's not a euphemism for those who are wondering.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|When did you get this idea?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|Last time I had lunch with you here. You were going *on* and *on* and *on* about how you wanted to meet somebody who didn't speak English.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|What, do you break it in with her, then you try it out on me?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|And... and anybody can do this?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|Yup.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|Helping people... Of course. Of course! It makes perfect sense! How could I *not* be doing this!? I am gonna help somebody, Dammit!
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|[To Jerry] What about you?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|Nah, it's not for me.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|ELAINE|Jerry, if anybody should be doing this, it's you.
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|GEORGE|What *kind* of a person are you?
+Open at Monk's, with Jerry & George just sittin' around. Jerry is reading the paper while George reflects on things|JERRY|I think I'm pretty much like you-- only successful.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|GEORGE|Well, I feel better already. I'm feelin' like a good person.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|Thank you.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|action|The rep leaves and George & Jerry compare information sheets
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|GEORGE|Hey, what's your guy's name again?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|Fields. Sidney Fields. *87* years old. *87*. How about your guy?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|GEORGE|Ben Cantwell. 85. Huh... You think we'll make it to that age?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|*We*? No.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|action|Enter Kramer
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|So what's up, Diggity Dog?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|George and I just signed up with the Senior Citizen's Volunteer Agency. Same thing Elaine's doing.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|Oh, that's too bad. Now don't say I didn't try to warn you.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|What're you talkin' about?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|Oh, Jerry, I'm *surprised* at you!
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|What?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|It's a *con*. These agencies are usually a front for some money laundering scheme. Or they're bunko artists; bilkin' people out of their life savings, oh *yeah*.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|Where do you *get* this?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|The alternative media, Jerry. That's where you hear the truth.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|action|Before Kramer can get too far into his tale, a commotion is going on outside the door at Kramer's apartment. Someone's knockin' on his door.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|Kramer?! Kramer!? Where are you? Kramer!?! Kramer!!?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|I'm in here. C'mon...
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|Hello, *Newman*...
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|Jerry, George. [To Kramer] So, did you ask him about the records?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|Well--
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|What records?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|Well, Newman and I are going partners selling used records.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|action|Kramer and Newman do what I can only assume is some sort of Secret Hand Shake (like the Moose lodge).
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|You know Ron's Records down on Bleeker? They pay big cash for used records!
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|Yeah, so we thought if you had any of those big, y'know, old-fashioned useless records, y'know, just... lyin' around--
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|Y'know, we'd take them off your hands, free of charge.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|action|Before Jerry issues a response, George needs his curiousity satisfied.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|GEORGE|Let me ask you something. What do you do for a living, Newman?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|I'm a United States postal worker.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|GEORGE|Aren't those the guys that always go crazy and come back with a gun and shoot everybody?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|Sometimes...
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|JERRY|Why *is* that?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|Because the mail never stops. It just keeps coming and coming and coming, there's never a let-up. It's relentless. Every day it piles up more and more and more! And you gotta get it out but the more you get it out the more it keeps coming in. And then the bar code reader breaks and it's *Publisher's Clearing House* day!!!
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|action|Newman is restrained by the boys, but on the bright side, Jerry has allowed Kramer & Newman to take whatever records they want from his bedroom. We shift to the record shop, but the sign says "Bleeker Bob's Records" (Continuity alert! Continuity alert!) The clerk (presumably Ron) files through Kramer & Newman's stash carefully and somehow comes to his total without a calculator
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|RON|I'll give you five bucks.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|Five bucks???
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|Well, you know how much those records are worth!?
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|RON|Yeah, I do... Fi' dollars.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|Those records are worth more than five dollars!
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|[In Newman's ear] He's gyppin' us...
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|You're gyppin' us!
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|RON|Well, whattya got here, y'know, you got "Don Ho: Live At Honolulu", you got "Jerry Vale Sings Italian Love Songs" you got Sergio Mendes, now come on...
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|Wait, wait, wait... Sergio Mendes has a cult following.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|They follow him like a cult.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|He can't even walk down the street in South America...
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|RON|Look, that's his problem, alright? Now you don't like it, too bad.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|[In Newman's ear] I don't like it...
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|I don't like it.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|RON|Well, then get the Hell out of my store, alright? You bring me something decent, I'll give you some money.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|KRAMER|[In Newman's ear] Alright, well be back, jack.
+We skip forward to the apartment where a representative from the senior citizens office is giving George & Jerry their information sheets on their volunteer cases.|NEWMAN|Alright, well be back... *jack*!
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|Hi, I'm Jerry Seinfeld, the agency sent me.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|HOUSEKEEPER|Agency?
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|Yeah, is this Sid Field's residence?
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|HOUSEKEEPER|Sid Fields.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|action|The Housekeeper points over to the E-Z Chair where Sid is sitting. He welcomes Jerry into his home.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|What the *Hell* is it?
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|Mr. Fields?
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|What!?!
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|Hi, I'm Jerry Seinfeld, the agency sent me.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|Agency? What agency? The *CIA*?
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|No, no, the--
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|Who let you in here?
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|The woman, she--
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|Oh *her*. She *steals* from me. Steals my money. She says she doesn't speak English. My *ass* she doesn't speak English. Plays that freakin' "voo-doo" music, tries to hypnotize me. She thinks she's gonna turn me into a zombie and then rob me blind. Well, I wasn't born yesterday. I may drop dead today, but I sure as Hell wasn't born yesterday. Now get the Hell out of my house...
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|Mr. Fields, I'm here to spend some time with you.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|Oh, really. Are you the boyfriend? I know she's got a boyfriend. Are you going to *kill* me? I'm an old man for crying out loud, you gonna kill an old man, you coward?!? [Jerry gets out card]
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|No, Mr. Field, look, really I'm--
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|I can't read that you fool...
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|action|Jerry is in the pocket and he's in trouble. Attempting to avoid the sack he scrambles and picks another topic to switch to. There are a couple of piles of records on top of the TV. Jerry asks about them.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|What's all this stuff?
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|Trash. Garbage.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|You're throwin' this out??
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|I believe that's what you do with garbage, you idiot.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|action|You can make out the albums pretty clearly. One is an apparent K-Tel "classic": "22 Explosive Hits", I don't know the other one. Anyone? I believe "The Beatles" (The White Album) is there also.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|You don't want any of this?
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|Well if I wanted it I wouldn't be throwing it away, *Ein-stein*.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|You know I have some friends who would really like to have these.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|Well, take it. I'm sure as Hell not going to give it to my family.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|action|They've bonded. Just like in all those buddy-cop movies. This seemingly non-compatible couple have found common ground. They've reached each other
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|Well, do you want to go out for a walk, get a cup of coffee...
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|With you? I'd rather be dead.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|JERRY|Well, maybe I'll get goin' then. I just remembered I got an appointment to get my, um, tonsils out.
+At the home of Sid Field, Sid sits in an armchair while his housekeeper answers the door. Sid is not the jolly fellow one might associate with someone of his mellowing years|SID|Good. Thank God. Good riddance. [pause] Oh listen, before you go, would you mind changing my diaper? HAA!!
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|BEN|No, I feel great for 85.
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|GEORGE|Y'know the average life span for an American male is like, 72. You're really... kinda pushin' the envelope there.
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|BEN|I'm not afraid of dyin'. I never think about it.
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|GEORGE|You don't? Boy, I think about it a lot. I think about it at my age. Imagine how much I'll be thinkin' about it at your age. All I'll do is keep thinkin' about it until it drives me insane...
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|BEN|I'm grateful for every moment I have.
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|GEORGE|Grateful? How can you be grateful when you're *so* close to the end? When you know that any second-- Poof! Bamm-O! It can all be over. I mean you're not stupid, you can read the handwriting on the wall. It's a matter of simple arithmetic, for Gods sake...
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|BEN|I guess I just don't care.
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|GEORGE|What are you talking about? How can you sit there and look me in the eye and tell that me you're not worried?! Don't you have any *sense*?!! Don't you have a brain!? Are you so completely senile that you don't know what you're talkin about Anymore!!?!
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|action|Ben gets up to leave
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|GEORGE|Wait a second, where are you going?
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|BEN|Life's too short to waste on you.
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|GEORGE|Wait a minute, please--
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|BEN|Get out of my way...
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|action|As Ben shoves George out of the way, all of a sudden you just *have* to feel a tinge of pain in your heart as you realize George realizes he won't be able to talk to Ben anymore
+At Monk's, George and his charge enjoy a bowl of soup over some, er, light conversation.|GEORGE|But Mr. Cantwell, you... you owe me for the soup...
+The apartment of Elaine's senior citizen. It's very dark in the apartment.|ELAINE|Mrs. Oliver?
+The apartment of Elaine's senior citizen. It's very dark in the apartment.|action|Elaine looks around the room, trying to find Mrs. Oliver. She pans around and wham-o!! She sees that Mrs. Oliver has a rather, er, um, unsightly physical problem (to put it mildly
+The apartment of Elaine's senior citizen. It's very dark in the apartment.|ELAINE|Ooh!
+The apartment of Elaine's senior citizen. It's very dark in the apartment.|ELAINE|Yeah. Yeah. Yes. Yeah.
+The apartment of Elaine's senior citizen. It's very dark in the apartment.|ELAINE|Did you say goiter? What goiter?
+The apartment of Elaine's senior citizen. It's very dark in the apartment.|ELAINE|Oh, *that* goiter. Hey... Heh heh heh... Whaddya know...
+The apartment of Elaine's senior citizen. It's very dark in the apartment.|ELAINE|Bother me? Oh, phhbt... Why would a little goiter like that bother me? No, not a bit. It's nothing. It's nothin', it's um, in fact, it's um, it's very distinctive, y'know? Um, I mean you want to know something? I, I wish I had one. [pause] Really.
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|C'mon Elaine, it's just a goiter...
+At Jerry's apartment, the kids compare notes on their visits.|ELAINE|I don't know what I'm going to do. I can't look the woman in the face. I mean I keep thinkin' that that goiter's gonna start talkin' to me... You'd think they'd mention that before they send you over there: "Oh, by the way, this woman *almost* has a second head". But no, no, I didn't get any goiter information.
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|They really should mention that in the breakdown: height, weight, goiter.
+At Jerry's apartment, the kids compare notes on their visits.|ELAINE|Y'know you try to do some good. You want to be a good person but this is too much to ask.
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|Yeah, well, I'll tell ya, I'd rather talk to a goiter with a nice disposition than the nut they sent me to.
+At Jerry's apartment, the kids compare notes on their visits.|ELAINE|Hey Georgie, what happened with your guy?
+At Jerry's apartment, the kids compare notes on their visits.|GEORGE|I don't think it's gonna work out...
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|Whattya mean?
+At Jerry's apartment, the kids compare notes on their visits.|GEORGE|He fired me.
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|He fired you?!?
+At Jerry's apartment, the kids compare notes on their visits.|ELAINE|*How* do you get fired from a volunteer job?
+At Jerry's apartment, the kids compare notes on their visits.|GEORGE|I dunno. I was just talking to the man and he walked out on me!
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|Well, I dunno about you two, but I'm quitting. I hate my guy. He's a mean, mean guy.
+At Jerry's apartment, the kids compare notes on their visits.|ELAINE|I wish I could quit...
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|So quit!
+At Jerry's apartment, the kids compare notes on their visits.|GEORGE|Yeah, I'm a great quitter. It's one of the few things I do well. I come form a long line of quitters. My father was a quitter, my grandfather was a quitter... I was raised to give up.
+At Jerry's apartment, the kids compare notes on their visits.|action|Kramer and Newman come in, albums in hand
+At Jerry's apartment, the kids compare notes on their visits.|KRAMER|Well, here's your *albums* [Journey "Escape" is on top, BTW...]
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|What happened?
+At Jerry's apartment, the kids compare notes on their visits.|NEWMAN|Five dollars. He offered us *five* dollars.
+At Jerry's apartment, the kids compare notes on their visits.|KRAMER|Hey, what kind of stuff are you listening to? You *embarrassed* me at that store.
+At Jerry's apartment, the kids compare notes on their visits.|NEWMAN|That guy thought we were a couple of total squares.
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|Oh yeah, you and your *Sergio Mendes*...
+At Jerry's apartment, the kids compare notes on their visits.|KRAMER|Hey, hey, hey, hey, that guy can't even go to the bathroom in South America!
+At Jerry's apartment, the kids compare notes on their visits.|action|Elaine relieves herself of the conversation by going to the bathroom
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|Well you shoulda seen the pile of albums this old guy I was visiting today was throwing away: Sinatra, Duke Ellington, Al Jolson, Benny Goodman...
+At Jerry's apartment, the kids compare notes on their visits.|KRAMER|Wait, wait, wait, now... He's throwin them out??
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|Yeah, and then I asked him if my friend could have them and he said yeah.
+At Jerry's apartment, the kids compare notes on their visits.|KRAMER|Okay...
+At Jerry's apartment, the kids compare notes on their visits.|NEWMAN|[In Kramer's ear] The old coot's sittin' on a mountain of gold!
+At Jerry's apartment, the kids compare notes on their visits.|KRAMER|Yeah...
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|But you're going to have to go get em. I'm not carryin' them all.
+At Jerry's apartment, the kids compare notes on their visits.|KRAMER|Yeah, but you've gotta come with us.
+At Jerry's apartment, the kids compare notes on their visits.|JERRY|Yeah, I'm goin' there today. In fact you should see this house keeper he's got. She's from Senegal [and, ala Carson] Wild, Wild, Stuff...
+At Jerry's apartment, the kids compare notes on their visits.|action|George peeks up from the magazine he's reading on the couch
+At Jerry's apartment, the kids compare notes on their visits.|GEORGE|Senegal?
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|GEORGE|So you don't speak *any* English at all?
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|HOUSEKEEPER|English? No.
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|SID|Hey, what are those bums doin' back there?
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|JERRY|Well you said they could come and take the records.
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|SID|It's like watchin' a couple of hyenas goin' through the garbage.
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|GEORGE|You don't speak *any* English?
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|HOUSEKEEPER|No English.
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|GEORGE|I would like to dip my bald head in oil and rub it all over your body. [No reaction] You don't understand! It's a miracle! You don't understand because you don't speak English!
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|JERRY|So Mr. Fields I just don't know if this arrangement is--
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|SID|Hey, I don't like what's goin' on around here. I want all you bums outta here.
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|KRAMER|Now calm down, Mr. Fields...
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|SID|Now don't tell me to calm down... Get your hands off of me! Why you little...
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|KRAMER|Oooow! He's biting me!
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|action|Kramer's defense mechanism kicks in and when he rips his arm away from Sid's jaws of death, something flies away from the scrum
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|SID|My teeth! My teeth!
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|JERRY|Where's his teeth! Where's his teeth!
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|GEORGE|I thought I saw something fly over here...
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|JERRY|Well turn the light on...
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|action|George flicks the light switch by the kitchen sink
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|JERRY|That's the garbage disposal!
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|SID|My teeth! You idiots!!!
+At Mr. Fields' apartment, George is helping the housekeeper put away some groceries. He takes this time to get to know her better|action|The boys decide to take Sid to the dentist to get new teeth, or something but on the way to the cab, somebody forgot to stay with Mr. Fields. They go back to find him, but they can't, apparently.
+Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story|ELAINE|Oh, well, that sounds like a lot of fun...
+Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story|ELAINE|Uh huh...
+Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story|ELAINE|Well, that'll get you goin' right there...
+Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story|ELAINE|Cows, well that's fascinating...
+Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story|ELAINE|What?
+Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story|ELAINE|Ghandhi?
+Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story|ELAINE|You had an affair with Ghandhi? MRS. O: He used to dip his bald head in oil and rub it all over my body. Here, look... [shows Elaine a picture of the two together]
+Cut to Mrs. Oliver's place where Elaine is sitting, bored out of her skull through a very pedestrian conversation. She keeps mumbling to herself throughout Mrs. Oliver's story|ELAINE|Oh, my God... The Mohatma?
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|RON|Twenty bucks.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|NEWMAN|Twenty bucks?!? Are you out of your mind?
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|RON|Well, take it or leave it.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|NEWMAN|Take it or leave it!? We got *Al Jolson* here, *Al Jolson*!!
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|RON|Now what the Hell do I care about Al Jolson. I'd just assume her you sing "Mammy". Heh heh heh...
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|KRAMER|[In Newman's ear] This guy's nothin' but a piece of crap...
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|NEWMAN|You are nothing but a piece of crap.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|RON|Pardon me?
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|KRAMER|[In Newman's ear] A piece of crap...
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|NEWMAN|A piece of crap.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|KRAMER|[In Newman's ear] I find you extremely ugly...
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|NEWMAN|I find you extremely ugly.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|RON|*Do* you?
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|KRAMER|[In Newman's ear] You emit a foul and unpleasant odour...
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|NEWMAN|You emit a foul and unpleasant odour.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|RON|Oh, is that right?
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|KRAMER|[In Newman's ear] I *loathe* you...
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|NEWMAN|I *loathe* you.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|RON|That's it. Get out of my store!
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|KRAMER|[In Newman's ear] Make us.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|NEWMAN|Make us!
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|RON|Oh, I'll make you!
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|action|As Ron jumps the counter to get at the boys, we cut to Jerry's apartment where it seems he is being lectured
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|JERRY|Yes, but--
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|action|buzzer
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|JERRY|[Into intercom] Yes?
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|TIM|It's Tim Fields, Mr. Fields' son.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|JERRY|Alright, c'mon up.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|JERRY|[To Rep] I dunno what happened, we were just trying to take him to the dentist.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|JERRY|Um, well, his false teeth got mangled up in the garbage disposal--
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|JERRY|Well, after he bit my friend--
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|TIM|What the *Hell* is going on here? How do you *lose* a human being?!
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|JERRY|I, I'm sorry.
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|TIM|And who were these other people. What were they doing in the apartment!?
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|JERRY|Well, I brought them up there to take his records--
+Meanwhile, back at Bleeker Bob's, er, I mean, Ron's on Bleeker, Kramer and Newman have brought Ron the clerk "something decent".|TIM|Take his *records*? Do you realize how valuable that record collection is?
+Kramer and Newman come into the apartment.|KRAMER|Hey.
+Kramer and Newman come into the apartment.|JERRY|There you are. Did you find him?
+Kramer and Newman come into the apartment.|KRAMER|No, y'know we took the old man's records over to Ron's and he tried to *screw* us so we got in a fight.
+Kramer and Newman come into the apartment.|NEWMAN|It was a real melee.
+Kramer and Newman come into the apartment.|KRAMER|Yeah, a real brouhaha...
+Kramer and Newman come into the apartment.|action|They inform all that the records are broken, but before Tim can get *really* out of control, they try to call Mr. Fields at home, but the line is busy, so they go to his apartment figuring he must be home. As they all get there, they come upon a rather
+Kramer and Newman come into the apartment.|action|Scene of George on couch with the maid rubbing oil on his head.

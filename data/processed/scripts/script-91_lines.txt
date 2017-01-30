@@ -1,0 +1,292 @@
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|JERRY|So, she got you to join a book club?
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|GEORGE|I got a feeling I'm gonna be much smarter than you pretty soon.
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|JERRY|Well, I think that statement alone reflects your burgeoning intelligence. (Sits on a couch.) Hey, what about this one?
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|GEORGE|Nah, I don't like that one.
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|JERRY|So, what's your first book?
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|GEORGE|"Breakfast At Tiffany's." 90 pages. (Waves a hand like it's nothing.)
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|JERRY|It's kinda old, isn't it?
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|GEORGE|They wanted to read a Truman Capote book.
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|GEORGE|He's a great writer.
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|JERRY|Oh, yeah.
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|GEORGE|Did you ever read anything by him?
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|JERRY|No. You?
+Opening scene - Jerry and George in a furniture store. Jerry is shopping for a new couch.|GEORGE|Nah.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|Hey, what's going on?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|New couch, baby!
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|New couch? Why?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|I love this couch. You know what the best part about it is? It doesn't fold out, so no one can sleep over.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|action|Elaine laughs. Carl and another furniture mover come in, and they pick up Jerry's old couch.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|CARL|Hello.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|Oh, let me get the door for you. (They carry the couch out the door.) Ooh, be careful!
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Wait till you see it, it's perfect. The guy told me it's one of a kind, they stopped making it.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|What are you doing with your old couch?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Nothing, the moving guys are taking it. Why, you want it?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|Yeah, I'll take it.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Well, I'm sure that they can deliver it to your apartment.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|Yes, they can. (Kramer enters.)
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|Hey! Couch is comin.'
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|It's here!
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|Alright! Yeah. You know, I'm excited about this, Jerry. In a way, I feel like I'm getting a new couch.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|Ooh! Remember Poppie?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Oh, you mean from Poppie's Restaurant?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|Yeah, yeah. Anyway, uh...we're going into business together. Remember that idea I had a few years ago about the pizza place where you make your own pizza?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Yeah.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|What was that again?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|It's a pizza place where you make your own pie! We give you the dough, the sauce, the cheese...you pound it, slap it, you flip it up into the air...you put your toppings on and you slide it into the oven! Sounds good, huh?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|What made you resurrect that old idea?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|Well, I happened to be eating at Poppie's when I told him the "old" idea, and his eyes - waaaaaah! - just lit up. You know, he wants to back it.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|I heard Poppie's was good, let's go.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|I'm not goin' there. Didn't he get busted by the Board of Health?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|That was in the past, Jerry. As it happens, New York Magazine just judged his kitchen to be one of the cleanest in the city. They got a duck there, you think you died and went to heaven.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|Ooh! I love duck. C'mon, c'mon!
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|Yeah, but you gotta order it two days in advance. (To Jerry) You know, I'm gonna call him, I'm gonna order the duck for you.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Oh, Kramer, I -
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|action|Kramer turns around and runs smack into Jerry's new couch being brought in by Carl and the other moving guy, and hits the floor. They place the couch in the same spot as the old one.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Right there, guys. That's perfect. Ah? Whatta ya think, Lainie?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|Well, I don't know. I'll have to sit on it.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Oh no, I don't want anyone sitting on it.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|CARL|Sure.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|'Kay. You, uh...you got room in the truck for me?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|CARL|Yeah, I think we can squeeze you in.
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|ELAINE|Oh, goody. Okay, well uh...(to Jerry and Kramer)...I'll see you chumps later. (Elaine and Carl exit.)
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|Did you offer those guys a drink?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|Uh, no. Should I have?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|KRAMER|What kind of a person are you?
+New scene - Jerry and Elaine in Jerry's apartment. The moving guys are delivering Jerry's new couch.|JERRY|I don't know.
+New scene - George at home, preparing to read "Breakfast At Tiffany's."|GEORGE|Okay. "Breakfast At Tiffany's." (Begins to read, but gradually his attention is drawn to the TV Guide on the end table. George realizes there's a show on he wants to see by looking at his watch, and doesn't start the book.)
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|So, he puts the couch down, and just as he's about to leave he says, "Do you date moving men?"
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|Ah ha...
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|You wanna know what I said?
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|I can't wait.
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|"I do now."
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|Clever.
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|Is that something?
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|Yes.
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|Is that something?
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|You're something. So anyway, when they were in my house before, I didn't offer them anything to drink.
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|Well, they're real men, Jerry. They get sweaty.
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|So, anyone sweaty comes into your house has to be offered a drink?
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|Yes.
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|Well, would you apologize for me? (Elaine nods. Poppie comes out of the kitchen.)
+New scene - Jerry and Elaine at Poppie's Restaurant.|POPPIE|Hello! Jerry, so good to see you again! (Puts his hand out.)
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|Nice to meet you, Poppie.
+New scene - Jerry and Elaine at Poppie's Restaurant.|POPPIE|Let me show you to your table. (Leads Jerry and Elaine to the table.) Your duck is cooking as we speak. It is so succulent...so succulent!
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|Well, Kramer told us all about your business venture together.
+New scene - Jerry and Elaine at Poppie's Restaurant.|POPPIE|Your friend and I are going to make a lot of money. Of course, I already have a lot of money. Poppie does very well...very well.
+New scene - Jerry and Elaine at Poppie's Restaurant.|ELAINE|Well, your mother must be very proud of you.
+New scene - Jerry and Elaine at Poppie's Restaurant.|POPPIE|My mother...was taken from my house by the Communists in the middle of the night when I was ten years old. She was sent to a slave labor camp, where she labored for twelve years. Finally, they released her and she was on a boat to America to re-unite with us...but she was served some bad fish, and she died...on the high seas.
+New scene - Jerry and Elaine at Poppie's Restaurant.|JERRY|So, what's good tonight?
+Cut back to Jerry and Elaine at Poppie's.|ELAINE|Boy, I'm really looking forward to this duck. I've never had food ordered in advance before.
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Ah, I could've stayed home and ordered a pizza from Paccino's.
+Cut back to Jerry and Elaine at Poppie's.|ELAINE|Paccino's? Oh no. You should never order pizza from Paccino's.
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Why not?
+Cut back to Jerry and Elaine at Poppie's.|ELAINE|Because, the owner contributes a lot of money to those fanatical, anti-abortion groups.
+Cut back to Jerry and Elaine at Poppie's.|JERRY|So, you won't eat the pizza?
+Cut back to Jerry and Elaine at Poppie's.|ELAINE|No way.
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Really.
+Cut back to Jerry and Elaine at Poppie's.|ELAINE|Yeah.
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Well, what if Poppie felt the same way?
+Cut back to Jerry and Elaine at Poppie's.|ELAINE|Well, I guess I wouldn't eat here, then.
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Really!
+Cut back to Jerry and Elaine at Poppie's.|ELAINE|Yeah. That's right.
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Well, perhaps we should inquire. Poppie! Oh, Poppie. Could I have a word? (Poppie comes over.)
+Cut back to Jerry and Elaine at Poppie's.|POPPIE|Yes, Jerry. I just checked your duck...it is more succulent than even I had hoped.
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Poppie, I was just curious...where do you stand on the abortion issue?
+Cut back to Jerry and Elaine at Poppie's.|POPPIE|When my mother was abducted by the Communists, she was with child...
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Oh, boy.
+Cut back to Jerry and Elaine at Poppie's.|POPPIE|...but the Communists, they put an end to that! So, on this issue there is no debate! And no intelligent person can think differently.
+Cut back to Jerry and Elaine at Poppie's.|POPPIE|And what gives you the right to do that?
+Cut back to Jerry and Elaine at Poppie's.|HENRY|But we just got here...
+Cut back to Jerry and Elaine at Poppie's.|POPPIE|You're not welcome!
+Cut back to Jerry and Elaine at Poppie's.|JERRY|Well, I'm certainly glad I brought it up. (Gets up and leaves.)
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|Well, you should have seen it. It was quite a scene over there.
+New scene - Jerry and George in a booth at the coffee shop.|GEORGE|I'm sorry I missed it.
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|Oh, you really missed something. And I have to say...it was pretty much all my fault. (Jerry smiles. George laughs.) So, how's the book coming? (George's laughs taper off...) I say, how's the book comin'?
+New scene - Jerry and George in a booth at the coffee shop.|GEORGE|Oh...pretty good.
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|So, what's it about?
+New scene - Jerry and George in a booth at the coffee shop.|GEORGE|Well, it's about Holly Go-Lightly.
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|Holly Go-Lightly.
+New scene - Jerry and George in a booth at the coffee shop.|GEORGE|Yeah, she's quite a character.
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|Yes, you haven't read a page, have you?
+New scene - Jerry and George in a booth at the coffee shop.|GEORGE|No.
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|Big surprise.
+New scene - Jerry and George in a booth at the coffee shop.|GEORGE|I couldn't. You know, if it's not about sports, I find it very hard to concentrate.
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|You're not very bright, are you?
+New scene - Jerry and George in a booth at the coffee shop.|GEORGE|No, I'm not. I would like to be, but I'm not. What am I gonna do? The book club meets in a few days.
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|Why don't you rent the movie?
+New scene - Jerry and George in a booth at the coffee shop.|GEORGE|'Why don't I rent the movie.' See, this is when I like you. Alright, now I'm relieved. (Kramer enters and comes over to the booth.)
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|Oh...well...
+New scene - Jerry and George in a booth at the coffee shop.|KRAMER|Did you enjoy the duck? (Elaine comes back from the bathroom.) Oh, Elaine! I was just asking how dinner went last night.
+New scene - Jerry and George in a booth at the coffee shop.|KRAMER|Alright, what did you do to Poppie?
+New scene - Jerry and George in a booth at the coffee shop.|ELAINE|Nothing.
+New scene - Jerry and George in a booth at the coffee shop.|KRAMER|Well, he's in the hospital. And the cook says you put him there.
+New scene - Jerry and George in a booth at the coffee shop.|ELAINE|What's wrong with him?
+New scene - Jerry and George in a booth at the coffee shop.|KRAMER|I don't know! I'm gonna go and visit him later. (angrily) It would be nice if you got him something. (Punches the the table to accentuate this, and leaves.)
+New scene - Jerry and George in a booth at the coffee shop.|JERRY|We should get him something.
+New scene - Jerry and George in a booth at the coffee shop.|ELAINE|Yeah. You're right.
+New scene - Elaine and Carl sitting in carl's moving van after a date.|ELAINE|Do you know that I have been using the same bottle of shampoo for a year? And I shampoo every day. (Carl smiles.) So, what do you think of my conversation?
+New scene - Elaine and Carl sitting in carl's moving van after a date.|CARL|Not much! (They both laugh.) I, uh, would have invited you up, but I don't have any furniture.
+New scene - Elaine and Carl sitting in carl's moving van after a date.|ELAINE|You don't have any furniture?
+New scene - Elaine and Carl sitting in carl's moving van after a date.|CARL|No, I hate furniture. I can't look at it. (They laugh again.)
+New scene - Elaine and Carl sitting in carl's moving van after a date.|ELAINE|Well, I can understand that. Pretty good date, huh?
+New scene - Elaine and Carl sitting in carl's moving van after a date.|CARL|Yeah! No heavy lifting. (Elaine and Carl look into each others eyes, then kiss.)
+New scene - Kramer visiting Poppie at the hospital. There sitting on a bench outside.|KRAMER|Anyway, Jerry and Elaine felt very badly about what happened to you, and they wanted you to have this.
+New scene - Kramer visiting Poppie at the hospital. There sitting on a bench outside.|KRAMER|Why, what...?
+New scene - Kramer visiting Poppie at the hospital. There sitting on a bench outside.|POPPIE|Don't they know I have a gastro-intestinal disorder? If I would have any of this, I would die. Then Poppie's no good to anyone! This is a sick, sick joke on Poppie. How could you be friends with those two?
+New scene - Kramer visiting Poppie at the hospital. There sitting on a bench outside.|KRAMER|Well, we're not very close.
+New scene - Kramer visiting Poppie at the hospital. There sitting on a bench outside.|POPPIE|They owe me for those ducks. They were flown in from Newfoundland.
+New scene - Kramer visiting Poppie at the hospital. There sitting on a bench outside.|KRAMER|Oh, they got good ducks there, huh?
+New scene - Kramer visiting Poppie at the hospital. There sitting on a bench outside.|POPPIE|Oh, very good ducks.
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|ELAINE|I'm in looove!
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|JERRY|Whoa!
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|ELAINE|This is it, Jerry! This is it! He is such an incredible person! He's real, he's honest, he's unpretentious...oh, I'm really lucky!
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|JERRY|Did you tell him I was sorry I didn't offer him the drink?
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|ELAINE|No, I forgot. And, the best part is, he doesn't play games. You know? There are no games! (Sits down on the couch.)
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|JERRY|No games? What is the point of dating without games? How do you know if you're winning or losing?
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|JERRY|Ah ha. And what is his stand on abortion?
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|JERRY|What is his stand...on abortion?
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|ELAINE|Well, I'm sure he's pro-choice.
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|JERRY|How do you know?
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|ELAINE|Because he, well...he's just so good-looking.
+New scene - Elaine shows up at Jerry's apartment. Jerry opens the door.|JERRY|Well, you should probably ask, because if he's gonna be coming over with those Paccino's pizzas...could be trouble.
+New scene - George at a video store counter.|GEORGE|I'd like to rent Breakfast At Tiffany's.
+New scene - George at a video store counter.|GEORGE|Out? Oh no, I've been to four other places, you're the only ones that have had it.
+New scene - George at a video store counter.|CLERK|Well, I could put it on reserve for you, if you'd like.
+New scene - George at a video store counter.|GEORGE|Maybe we could call them and ask them to return it.
+New scene - George at a video store counter.|CLERK|Oh, sorry. We can't do that.
+New scene - George at a video store counter.|GEORGE|Well, maybe they're done with it. I could go pick it up.
+New scene - George at a video store counter.|CLERK|I don't think so. It doesn't work that way.
+New scene - George at a video store counter.|action|The clerk goes to help another customer, and leaves George unattended. George waits until the clerk's back is turned, then has a good look at the information on his computer monitor.
+New scene - George at the address of the people who have rented Breakfast At Tiffany's. He's buzzed their apartment on the intercom.|GEORGE|Uh, excuse me, are you Joe Temple?
+New scene - George at the address of the people who have rented Breakfast At Tiffany's. He's buzzed their apartment on the intercom.|INTERCOM|Yes.
+New scene - George at the address of the people who have rented Breakfast At Tiffany's. He's buzzed their apartment on the intercom.|GEORGE|Uh, yes, uh...you don't know me, my name is George Costanza...did you happen to rent Breakfast At Tiffany's?
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|Hey.
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|Hey, what's happenin.'
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|Well, you know, Poppie's over at my place. Tonight's the big night. I'm gonna make the first test pizza at the restaurant.
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|You got a regular 'Manhattan Project' going on over there.
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|Yeah. Anyway, he's about to leave, he wants the duck money. (Poppie enters.)
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|Okay. Hi, Poppie.
+New scene - Jerry laying on his new couch. Kramer enters.|POPPIE|Hello.
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|I'm sorry about the gift, I didn't know about your condition.
+New scene - Jerry laying on his new couch. Kramer enters.|POPPIE|That's fine. If you just give me my duck money, I'll be on my way.
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|Okay. I'll get it. (Goes into the bedroom.)
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|Why don't you sit down, Poppie? You're still recuperating. (Poppie moves to the sofa and sits down, and exhales a loud sigh of relief.) What, are you tired, Poppie?
+New scene - Jerry laying on his new couch. Kramer enters.|POPPIE|No.
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|Hey, Poppie...you really think people wanna make their own pizza?
+New scene - Jerry laying on his new couch. Kramer enters.|POPPIE|Kramer, did I ever tell you about my mother? My mother -
+New scene - Jerry laying on his new couch. Kramer enters.|POPPIE|The what? (Looks at Kramer, and exits.)
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|...the...the...
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|What is what?
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|This puddle on my sofa!
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|What puddle?
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|I don't know.
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|Are you sure?
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|Well, what is it then?! My new sofa! Poppie peed on my new sofa!
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|I'm sure it'll come out.
+New scene - Jerry laying on his new couch. Kramer enters.|JERRY|I don't care if it comes out, I can't sit on that anymore!
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|Ah, you're making too much of it.
+New scene - Jerry laying on his new couch. Kramer enters.|KRAMER|Right!
+New scene - George at Joe Temple's door.|GEORGE|Well, anyway, the book club meets tomorrow, Mr. Temple.
+New scene - George at Joe Temple's door.|JOE|Well, I was going to watch it with my daughter. She likes Audrey Hepburn very much.
+New scene - George at Joe Temple's door.|GEORGE|She was a delicate flower.
+New scene - George at Joe Temple's door.|JOE|Why didn't you just read the book?
+New scene - George at Joe Temple's door.|GEORGE|Well, as I say, the pink-eye made my vision...quite blurry... (Joe's daughter comes to the door.)
+New scene - George at Joe Temple's door.|JOE|Remy, this is George. Would you mind if he watched Breakfast At Tiffany's with us? (George smiles at Remy. Remy looks at Joe doubtfully.)
+New scene - Elaine climbs into the cab of Carl's moving van.|CARL|Hi.
+New scene - Elaine climbs into the cab of Carl's moving van.|ELAINE|Hi. (They kiss.)
+New scene - Elaine climbs into the cab of Carl's moving van.|CARL|I missed you.
+New scene - Elaine climbs into the cab of Carl's moving van.|ELAINE|Oh, I missed you!
+New scene - Elaine climbs into the cab of Carl's moving van.|CARL|I don't remember the last time I felt this way.
+New scene - Elaine climbs into the cab of Carl's moving van.|ELAINE|Me, either!
+New scene - Elaine climbs into the cab of Carl's moving van.|CARL|I think about you all the time.
+New scene - Elaine climbs into the cab of Carl's moving van.|ELAINE|You do?
+New scene - Elaine climbs into the cab of Carl's moving van.|CARL|Do you think about me?
+New scene - Elaine climbs into the cab of Carl's moving van.|ELAINE|Oh yeah, all the time, all the time...although, recently I've been thinking about this friend of mine.
+New scene - Elaine climbs into the cab of Carl's moving van.|CARL|What friend?
+New scene - Elaine climbs into the cab of Carl's moving van.|ELAINE|Oh, just this woman...she got impregnated by her troglodytic half-brother, and decided to have an abortion. (Waits in suspense for what Carl's response will be.)
+New scene - Elaine climbs into the cab of Carl's moving van.|CARL|You know, someday...we're going to get enough people in the Supreme Court to change that law.
+New scene - Elaine climbs into the cab of Carl's moving van.|action|Elaine breaks down in tears.
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|GEORGE|So, anything to uh, nosh?
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|JOE|What did you want?
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|GEORGE|Popcorn?
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|REMY|Popcorn? Where do you think you are?
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|GEORGE|Well, a lot of people keep popcorn in the house.
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|REMY|Well, we don't.
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|GEORGE|You might want to try it...makes the movie more enjoyable, that's all.
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|GEORGE|Oh! Nuts! Excellent! You know what I love? How there's two nuts named after people. Hazel...and filbert.
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|GEORGE|Hey, let's turn off the lights, get some real 'movie atmosphere.'
+New scene - George sitting on Joe's couch, about to watch Breakfast At Tiffany's with Joe and Remy.|JOE|The lights are fine. (George shrugs, and the movie begins.)
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|Use your wrist! It's all in the wrist. (Kramer tosses the dough way up there.) Not too high!
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|Not too much!
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|KRAMER|And...cucumbers! (Grabs a large handful and puts them on the pizza.)
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|Wait a second...what is that?
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|KRAMER|It's cucumbers.
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|No, no. You can't put cucumbers on a pizza.
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|KRAMER|Well, why not? I like cucumbers.
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|That's not a pizza. It'll taste terrible.
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|KRAMER|But that's the idea, you make your own pie.
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|Yes, but we cannot give the people the right to choose any topping they want! Now on this issue there can be no debate!
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|KRAMER|What gives you the right to tell me how I would make my pie?
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|Because it's a pizza!
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|KRAMER|It's not a pizza until it comes out of the oven!
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|It's a pizza the moment you put your fists in the dough!
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|KRAMER|No, it isn't!
+New scene - Kramer and Poppie in the kitchen of the restaurant, making the first 'test pizza.'|POPPIE|Yes, it is!
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|JOE|Hey, honey.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|REMY|Hi, Mom.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|JOE|Yeah.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|JOE|Aw, that's too bad.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|You know, I'm sorry, I...I hate to be one of those people, but we're right in the middle of this thing...I can't hear.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|JOE|This is George Costanza.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|JOE|I'll pause it, okay? (Pauses the tape with the remote.)
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|Any more grape juice? (Gets up and goes to the kitchen. Remy moves to the end of the couch where George was sitting.)
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|REMY|He's in some book club.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|REMY|Cheating on his test. (George returns from the kitchen with a glass of grape juice.)
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|So, we watching the movie, or are we still talking? (Joe's wife shakes her head and goes into the other room. George gestures to Remy to move.) Okay, c'mon. Let's go.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|REMY|What?
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|C'mon, you took my seat.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|REMY|It's not your seat.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|I was sitting there, c'mon.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|REMY|You didn't save it.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|I had the arm! Joe...
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|JOE|What's the difference?
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|Well, I was very comfortable! I've got my nuts here...
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|REMY|It's my couch.
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|Alright, c'mon, scooch over. (Tries to squeeze into the corner seat of the couch and struggles with Remy. He spills his glass of grape juice all over the couch in the process.)
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|REMY|Look! Look what you did! You got grape juice all over our couch, you've ruined our couch! (Joe slowly walks toward George with his hands on his hips.)
+Cut back to George, Joe and Remy watching the movie. Joe's wife enters.|GEORGE|Joe...
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|ELAINE|Oh my god.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|You see?!
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|ELAINE|So, you're gonna get a new couch?
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|Well, I guess I have no choice.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|ELAINE|Do you want your old couch back?
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|I was hoping you'd offer. (The intercom buzzes, Jerry answers it.) Yeah?
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|INTERCOM|It's the movers.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|'Kay. (Buzzes them in.)
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|ELAINE|Who's that?
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|Your boyfriend, he's taking it out.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|ELAINE|No, no, he's not my boyfriend.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|Why?
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|ELAINE|Take a guess.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|Oh, really. (Carl and another moving guy come in and pick up the couch.)
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|ELAINE|Hi.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|CARL|Hi.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|Hey Carl, I also need you to go to Elaine's and bring my old couch back.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|CARL|Today?
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|Could you?
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|CARL|Sure.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|George is taking it.
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|ELAINE|Did you tell him it was peed on?
+New scene - Jerry and Elaine in Jerry's apartment the next day, looking at the "Poppie-stain" on Jerry's sofa.|JERRY|He said he doesn't care, he'll just turn the cushion over.
+New scene - Elaine and Carl in Elaine's kitchen.|CARL|I'm sorry you feel that way, Elaine.
+New scene - Elaine and Carl in Elaine's kitchen.|ELAINE|Yeah, me too.
+New scene - Elaine and Carl in Elaine's kitchen.|CARL|It's just too bad.
+New scene - Elaine and Carl in Elaine's kitchen.|ELAINE|Yeah. It is.
+New scene - Elaine and Carl in Elaine's kitchen.|CARL|Well, I better get this couch back to Jerry's.
+New scene - Elaine and Carl in Elaine's kitchen.|ELAINE|Can I offer you anything to drink?
+New scene - Elaine and Carl in Elaine's kitchen.|CARL|Throw it!
+New scene - Elaine and Carl in Elaine's kitchen.|action|Elaine heaves the grape juice bottle over-hand at Carl, and we hear the sound of breaking glass.
+New scene - Elaine and Carl in Elaine's kitchen.|CARL|The couch!
+New scene - George sitting in with the book club around a back booth at Monk's.|GEORGE|Well, not really. After all, she did get together with George Peppard. I mean, Fred.
+New scene - George sitting in with the book club around a back booth at Monk's.|MARIE|George...Fred's gay.
+New scene - George sitting in with the book club around a back booth at Monk's.|action|George ponders this quizzically.

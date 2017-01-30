@@ -1,0 +1,284 @@
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|My parents live in Florida now. They moved there last year. They didn’t want to move to Florida, but they’re in their sixties, and that’s the law. You know how it works. They got the leisure police. They pull up in front of the old people’s house with a golf cart, jump out, “Let’s go Pop, white belt, white pants, white shoes, get in the back. Drop the snow shovel right there. Drop it!” I am not much for the family gathering. You know, you sit there, and the conversation’s so boring. It’s so dull. And you start to fantasize. You know, you think, “What if I just got up and jumped out that window? What would it be like? Just crashed right through the glass.” You know. Come back in, there’s broken glass, everybody’s all upset. “No, I’m all right. I was just a little bored there. And uh no, I’m fine. I came back. I wanted to hear a little more about that Hummel collection, Aunt Rose. Let’s pick it up right there.”
+JERRY’S APARTMENT – DAY|action|Jerry’s father, Morty, is watching television. His mother, Helen, is ironing his father’s jacket.
+JERRY’S APARTMENT – DAY|HELEN|You have so many nice jackets. I don’t know why you had to bring this jacket. Who wears a jacket like this? What’s wrong with that nice gray one? You have beautiful clothes. They sit in your closet. Morty, you can’t wear this!
+JERRY’S APARTMENT – DAY|action|Jerry’s phone rings. Helen goes into the bathroom
+JERRY’S APARTMENT – DAY|MORTY|Are you getting that?
+JERRY’S APARTMENT – DAY|HELEN|I thought you were getting it.
+JERRY’S APARTMENT – DAY|MORTY|Should I pick up?
+JERRY’S APARTMENT – DAY|HELEN|You want me to get that?
+JERRY’S APARTMENT – DAY|MORTY|I’ll get it!
+JERRY’S APARTMENT – DAY|HELEN|I’ll get it!
+JERRY’S APARTMENT – DAY|action|They both go for the phone; Helen gets to it first.
+JERRY’S APARTMENT – DAY|HELEN|Hello?... Hello?
+JERRY’S APARTMENT – DAY|action|She hangs up. Jerry enters, wearing baseball clothes and carrying a bat and glove.
+JERRY’S APARTMENT – DAY|JERRY|Hi.
+JERRY’S APARTMENT – DAY|HELEN|Hi.
+JERRY’S APARTMENT – DAY|JERRY|(to Morty) Would you make this thing lower! I can hear it on the street!
+JERRY’S APARTMENT – DAY|action|Jerry picks up the remote and turns off the TV.
+JERRY’S APARTMENT – DAY|MORTY|So, how’d you do?
+JERRY’S APARTMENT – DAY|JERRY|We won. I made an incredible play in the field! There was a tag-up at third base and I threw the guy out from left field on a fly! We’ll be in the championship game Wednesday because of me. It was the single greatest moment in my life.
+JERRY’S APARTMENT – DAY|HELEN|This is your greatest moment? A game?
+JERRY’S APARTMENT – DAY|JERRY|Well, no. Sharon Besser, of course.
+JERRY’S APARTMENT – DAY|MORTY|You know what my greatest moment was, don’t you? Nineteen-forty-six. I went to work for Harry Flemming and I came up with the idea for the beltless trenchcoat.
+JERRY’S APARTMENT – DAY|HELEN|Jerry, look at this sport jacket. Is this a jacket to wear to an anniversary party?
+JERRY’S APARTMENT – DAY|JERRY|Well, the man’s an individualist – he worked for Harry Flemming. He knows what he’s doing.
+JERRY’S APARTMENT – DAY|HELEN|But it’s their 50th anniversary.
+JERRY’S APARTMENT – DAY|MORTY|Your mother doesn't like my taste in clothing.
+JERRY’S APARTMENT – DAY|HELEN|You know, I spoke to Manya and Isaac on the phone today. They invited you again. I think you should go.
+JERRY’S APARTMENT – DAY|JERRY|First of all, I made plans with Elaine.
+JERRY’S APARTMENT – DAY|HELEN|So bring her.
+JERRY’S APARTMENT – DAY|JERRY|I don’t even know them. What is she, your second cousin? I mean, I’ve met them three times in my life.
+JERRY’S APARTMENT – DAY|MORTY|I don’t know her either. (gesturing to Helen) She makes me fly all the way from Florida for this, and then she criticizes my jacket.
+JERRY’S APARTMENT – DAY|HELEN|At least come and say hello, have a cup of coffee, then you’ll leave.
+JERRY’S APARTMENT – DAY|MORTY|How come he gets to leave?
+JERRY’S APARTMENT – DAY|JERRY|If I wind up sitting next to Uncle Leo, I am leaving. He’s always grabbing my arm when he talks to me. I guess it’s because so many people have left in the middle of his conversation.
+JERRY’S APARTMENT – DAY|MORTY|And it’s always about Jeffrey, right?
+JERRY’S APARTMENT – DAY|JERRY|Yeah. He talks about him like he split the atom. The kid works for the Parks Department.
+JERRY’S APARTMENT – DAY|action|Enter Kramer.
+JERRY’S APARTMENT – DAY|KRAMER|Morty, are you coming in?
+JERRY’S APARTMENT – DAY|MORTY|Oh, yeah. I forgot all about it.
+JERRY’S APARTMENT – DAY|KRAMER|(to Jerry) Hey, how’d you do?
+JERRY’S APARTMENT – DAY|JERRY|We won. We’re in the finals on Wednesday.
+JERRY’S APARTMENT – DAY|KRAMER|Yeah!
+JERRY’S APARTMENT – DAY|JERRY|(to Kramer and Morty) What is this about?
+JERRY’S APARTMENT – DAY|KRAMER|I’m completely changing the configuration of the apartment. You’re not gonna believe it when you see it. A whole new lifestyle.
+JERRY’S APARTMENT – DAY|JERRY|What are you doing?
+JERRY’S APARTMENT – DAY|KRAMER|Levels.
+JERRY’S APARTMENT – DAY|JERRY|Levels?
+JERRY’S APARTMENT – DAY|KRAMER|Yeah, I’m getting rid of all my furniture. All of it. And I’m going to build these different levels, with steps, and it’ll all be carpeted with a lot of pillows. You know, like ancient Egypt.
+JERRY’S APARTMENT – DAY|JERRY|You drew up plans for this?
+JERRY’S APARTMENT – DAY|KRAMER|No no. It’s all in my head.
+JERRY’S APARTMENT – DAY|MORTY|I don’t know how you’re going to be comfortable like that.
+JERRY’S APARTMENT – DAY|KRAMER|Oh, I’ll be comfortable.
+JERRY’S APARTMENT – DAY|JERRY|When do you intend to do this?
+JERRY’S APARTMENT – DAY|KRAMER|Ohh... should be done by the end of the month.
+JERRY’S APARTMENT – DAY|JERRY|You’re doing this yourself?
+JERRY’S APARTMENT – DAY|KRAMER|It’s a simple job. Why, you don’t think I can?
+JERRY’S APARTMENT – DAY|JERRY|Oh, no. It’s not that I don’t think you can. I know that you can’t, and I’m positive that you won’t.
+JERRY’S APARTMENT – DAY|KRAMER|Well, I got the tools. I got the pillows. All I need is the lumber.
+JERRY’S APARTMENT – DAY|MORTY|Hey, that’s some big job.
+JERRY’S APARTMENT – DAY|JERRY|I, don’t see it happening.
+JERRY’S APARTMENT – DAY|KRAMER|Well, this time, this time you’re wrong. C’mon. I’ll even bet you.
+JERRY’S APARTMENT – DAY|JERRY|Seriously?
+JERRY’S APARTMENT – DAY|HELEN|I don’t want you betting. Morty, don’t let him bet.
+JERRY’S APARTMENT – DAY|KRAMER|A big dinner with dessert. But I’ve got till the end of the month.
+JERRY’S APARTMENT – DAY|JERRY|I’ll give you a year.
+JERRY’S APARTMENT – DAY|KRAMER|No no no. End of the month.
+JERRY’S APARTMENT – DAY|JERRY|It’s a bet.
+JERRY’S APARTMENT – DAY|action|They “pinkie swear” to lock the deal.
+MANYA & ISAAC’S APARTMENT – EVENING|action|Jerry sits between Uncle Leo and Elaine. Elaine is sitting at the kiddie table, lower than everyone else. Helen and Morty sit across from Jerry. Manya and Isaac sit at the head of the table. Other guests are present as well.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|(to Elaine) Seriously, do you wanna switch chairs?
+MANYA & ISAAC’S APARTMENT – EVENING|ELAINE|No, no. I’m fine.
+MANYA & ISAAC’S APARTMENT – EVENING|action|Uncle Leo grabs Jerry’s arm.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Yeah, Uncle Leo.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Right. For the reducing of the pond scum?
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Oh, yeah. Where the people eat the plant life. The edible foliage tour.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Mickey Mantle?
+MANYA & ISAAC’S APARTMENT – EVENING|action|Uncle Leo is confused by this comment.
+MANYA & ISAAC’S APARTMENT – EVENING|ELAINE|(saving Jerry from Leo) Jerry, Jerry. Did you taste these peas? (to Manya) These peas are great!
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|(eating a forkful) These peas are bursting with country fresh flavor.
+MANYA & ISAAC’S APARTMENT – EVENING|ELAINE|Mmm... phenomenal peas.
+MANYA & ISAAC’S APARTMENT – EVENING|MORTY|Are you ready for dessert?
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Well, actually, we do have to kind of get going.
+MANYA & ISAAC’S APARTMENT – EVENING|MANYA|(surprised) You’re going?
+MANYA & ISAAC’S APARTMENT – EVENING|ELAINE|Oh uh, I don’t really eat dessert. I’m dieting.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Yeah, I can’t eat dessert either. The sugar makes my ankles swell up, and I can’t dance.
+MANYA & ISAAC’S APARTMENT – EVENING|HELEN|He’s kidding, Manya.
+MANYA & ISAAC’S APARTMENT – EVENING|MANYA|Is that a joke?
+MANYA & ISAAC’S APARTMENT – EVENING|HELEN|So, did you hear Claire’s getting married?
+MANYA & ISAAC’S APARTMENT – EVENING|MANYA|Yeah, yeah..
+MANYA & ISAAC’S APARTMENT – EVENING|HELEN|I hear the fella owns a couple of racehorses. You know, trotters, like at Yonkers.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Horses? They’re like big riding dogs.
+MANYA & ISAAC’S APARTMENT – EVENING|ELAINE|What about ponies? What kind of abnormal animal is that? And those kids who had their own ponies...
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|I know, I hated those kids. In fact, I hate anyone that ever had a pony when they were growing up.
+MANYA & ISAAC’S APARTMENT – EVENING|MANYA|(angry) I had a pony.
+MANYA & ISAAC’S APARTMENT – EVENING|action|The room goes dead quiet.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Well, I didn’t uh really mean a pony, per se...
+MANYA & ISAAC’S APARTMENT – EVENING|MANYA|When I was a little girl in Poland, we all had ponies. My sister had pony, my cousin had pony... So, what’s wrong with that?
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Nothing. Nothing at all. I was just merely expressing...
+MANYA & ISAAC’S APARTMENT – EVENING|HELEN|Should we have coffee? Who’s having coffee?
+MANYA & ISAAC’S APARTMENT – EVENING|MANYA|He was a beautiful pony! And I loved him.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|Well, I’m sure you did. Who wouldn’t love a pony? Who wouldn’t love a person that had a pony?
+MANYA & ISAAC’S APARTMENT – EVENING|MANYA|You! You said so!
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|No, see, we didn’t have ponies. I’m sure at that time in Poland, they were very common. They were probably like compact cars..
+MANYA & ISAAC’S APARTMENT – EVENING|MANYA|That’s it! I had enough!
+MANYA & ISAAC’S APARTMENT – EVENING|action|Manya gets up from the table and exits.
+MANYA & ISAAC’S APARTMENT – EVENING|ISAAC|Have your coffee, everybody. She’s a little upset. It’s been an emotional day.
+MANYA & ISAAC’S APARTMENT – EVENING|action|Isaac exits. Everyone looks at Jerry.
+MANYA & ISAAC’S APARTMENT – EVENING|JERRY|I didn’t know she had a pony. How was I to know she had a pony? Who figures an immigrant’s going to have a pony? Do you know what the odds are on that? I mean, in all the pictures I saw of immigrants on boats coming into New York harbor, I never saw one of them sittin’ on a pony. Why would anybody come here if they had a pony? Who leaves a country packed with ponies to come to a non-pony country? It doesn’t make sense. Am I wrong?
+JERRY’S APARTMENT – DAY|action|Morty and Helen are collecting their luggage.
+JERRY’S APARTMENT – DAY|JERRY|I’ll drive you to the airport.
+JERRY’S APARTMENT – DAY|HELEN|No, we’re taking a cab.
+JERRY’S APARTMENT – DAY|JERRY|I just hope that whole pony incident didn’t put a damper on the trip.
+JERRY’S APARTMENT – DAY|HELEN|Don’t be ridiculous. It was a misunderstanding.
+JERRY’S APARTMENT – DAY|MORTY|Hey, I agree with him. Nobody likes a kid with a pony.
+JERRY’S APARTMENT – DAY|JERRY|Well, if you ever talk to her, tell her I’m sorry. Elaine too. She feels terrible.
+JERRY’S APARTMENT – DAY|HELEN|You know, you should give Manya a call.
+JERRY’S APARTMENT – DAY|JERRY|Maybe I will.
+JERRY’S APARTMENT – DAY|action|Jerry opens his door. Kramer is standing in the hallway.
+JERRY’S APARTMENT – DAY|KRAMER|Oh, hi. I uh just came to say goodbye.
+JERRY’S APARTMENT – DAY|action|He points to the bags.
+JERRY’S APARTMENT – DAY|KRAMER|Need any help with those?
+JERRY’S APARTMENT – DAY|MORTY|It’s nothing. I got it. So, how are your levels coming along?
+JERRY’S APARTMENT – DAY|KRAMER|Oh, well... I decided I’m not gonna do it.
+JERRY’S APARTMENT – DAY|JERRY|(laughing) Really? What a shock.
+JERRY’S APARTMENT – DAY|HELEN|Goodbye, Jerry.
+JERRY’S APARTMENT – DAY|JERRY|Take care.
+JERRY’S APARTMENT – DAY|HELEN|We’ll call you.
+JERRY’S APARTMENT – DAY|action|Helen exits.
+JERRY’S APARTMENT – DAY|MORTY|Bye, Jer.
+JERRY’S APARTMENT – DAY|JERRY|Bye, Dad. Take it easy.
+JERRY’S APARTMENT – DAY|MORTY|Bye, Mr. Kramer.
+JERRY’S APARTMENT – DAY|KRAMER|Yeah. So long, Morty.
+JERRY’S APARTMENT – DAY|action|Morty leaves. Jerry closes the door. He and Kramer enter the kitchen. 
+JERRY’S APARTMENT – DAY|JERRY|So, when do I get my dinner?
+JERRY’S APARTMENT – DAY|KRAMER|There’s no dinner. The bet’s off. I’m not gonna do it.
+JERRY’S APARTMENT – DAY|JERRY|Yes, I know you’re not gonna do it. That’s why I bet.
+JERRY’S APARTMENT – DAY|KRAMER|Ya well, there’s no bet if I’m not doing it.
+JERRY’S APARTMENT – DAY|JERRY|That’s the bet! That you’re not doing it!
+JERRY’S APARTMENT – DAY|KRAMER|Yeah, well, I could do it. I don’t wanna do it.
+JERRY’S APARTMENT – DAY|JERRY|We didn’t bet on if you wanted to. We bet on if it would be done.
+JERRY’S APARTMENT – DAY|KRAMER|And it could be done.
+JERRY’S APARTMENT – DAY|JERRY|Well, of course it could be done! Anything could be done! But it only is done if it’s done! Show me the levels! The bet is the levels!
+JERRY’S APARTMENT – DAY|KRAMER|I don’t want the levels!
+JERRY’S APARTMENT – DAY|JERRY|That’s the bet! (The phone rings; Jerry answers it.) Hello?... No- oh, hi... (Kramer leaves) no, they just left... Oh, my God... hang on a second. Maybe I can still catch ‘em. (Jerry goes over to the window and opens it; calling out the window) Ma! Ma! Up here! Don’t get in the cab! Manya died! Manya died!!
+JERRY’S APARTMENT – LATER|action|Helen and Morty are back with Jerry.
+JERRY’S APARTMENT – LATER|HELEN|Who did you talk to?
+JERRY’S APARTMENT – LATER|JERRY|Uncle Leo.
+JERRY’S APARTMENT – LATER|HELEN|And when’s the funeral?
+JERRY’S APARTMENT – LATER|JERRY|I don’t know. He said he’d call back.
+JERRY’S APARTMENT – LATER|MORTY|You know what this means, don’t you? We lost the Supersaver. Those tickets are non-refundable.
+JERRY’S APARTMENT – LATER|HELEN|She just had a check-up. The doctor said she was fine. Unless...
+JERRY’S APARTMENT – LATER|JERRY|What?
+JERRY’S APARTMENT – LATER|HELEN|What? Nothing.
+JERRY’S APARTMENT – LATER|JERRY|You don’t think... What? The pony remark?
+JERRY’S APARTMENT – LATER|HELEN|Oh, don’t be ridiculous. She was an old woman.
+JERRY’S APARTMENT – LATER|JERRY|You don’t think that I killed her?
+JERRY’S APARTMENT – LATER|MORTY|You know what the flight back’ll cost us?
+JERRY’S APARTMENT – LATER|JERRY|It was just an innocent comment! I didn’t know she had a pony!
+JERRY’S APARTMENT – LATER|MORTY|Maybe we can get an army transport flight. They got a base in Sarasota, I think.
+JERRY’S APARTMENT – LATER|JERRY|The whole thing was taking out of context. It was a joke. (The phone rings.) That’s probably Uncle Leo.
+JERRY’S APARTMENT – LATER|action|Helen picks up.
+JERRY’S APARTMENT – LATER|HELEN|Hello?... Yes, I know... Well, it’s just one of those things... Sure, sure, we’ll see you then.
+JERRY’S APARTMENT – LATER|action|She hangs up.
+JERRY’S APARTMENT – LATER|HELEN|The funeral’s Wednesday.
+JERRY’S APARTMENT – LATER|JERRY|Wednesday? What, what Wednesday?
+JERRY’S APARTMENT – LATER|HELEN|Two o’ clock, Wednesday.
+JERRY’S APARTMENT – LATER|JERRY|Ah
+JERRY’S APARTMENT – LATER|action|Helen looks at Jerry.
+JERRY’S APARTMENT – LATER|HELEN|What?
+JERRY’S APARTMENT – LATER|JERRY|I’ve got the softball game on Wednesday. It’s the championship.
+JERRY’S APARTMENT – LATER|HELEN|So? You’re not obligated. Go play in your game.
+JERRY’S APARTMENT – LATER|JERRY|I didn’t even know the woman.
+JERRY’S APARTMENT – LATER|HELEN|So don’t go.
+JERRY’S APARTMENT – LATER|JERRY|I mean I met her three times. I don’t even know her last name.
+JERRY’S APARTMENT – LATER|HELEN|Jerry, no one’s forcing you.
+JERRY’S APARTMENT – LATER|JERRY|I mean, who has a funeral on a Wednesday? That’s what I want to know. I mean, it’s the championship, I’m hitting everything.
+JERRY’S APARTMENT – LATER|HELEN|I don’t have a dress to wear. (to Morty) And you. You don’t have anything.
+JERRY’S APARTMENT – LATER|MORTY|I got my sport jacket.
+JERRY’S APARTMENT – LATER|HELEN|You’re not wearing that to a funeral.
+JERRY’S APARTMENT – LATER|MORTY|What’s wrong with it?
+JERRY’S APARTMENT – LATER|HELEN|It looks ridiculous.
+JERRY’S APARTMENT – LATER|MORTY|What? I’m gonna buy a new sport jacket now?
+JERRY’S APARTMENT – LATER|JERRY|I don’t know what to do.
+JERRY’S APARTMENT – LATER|MORTY|(depressed) You know what this funeral’s gonna wind up costing me? Oh boy!
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|We don’t understand death. And the proof of this is that we give dead people a pillow. And, uh, I mean, hey, you know. I think if you can’t stretch out and get some solid rest at that point, I don’t see how bedding accessories really make the difference. I mean, they got the guy in a suit with a pillow. Now, is he going to a meeting, or is he catching forty winks? I mean, let’s make up our mind where we think they’re going.
+MONK’S DINER – DAY|action|Elaine and Jerry sit across from George at a booth.
+MONK’S DINER – DAY|ELAINE|I actually like ponies. I was just trying to make conversation. What time’s your game?
+MONK’S DINER – DAY|JERRY|Two Forty-Five.
+MONK’S DINER – DAY|ELAINE|And what time’s the funeral?
+MONK’S DINER – DAY|JERRY|Two o’ clock.
+MONK’S DINER – DAY|ELAINE|How long does a funeral take?
+MONK’S DINER – DAY|JERRY|Depends on how nice the person was. But you gotta figure, even Oswald took forty-five minutes.
+MONK’S DINER – DAY|ELAINE|So you can’t do both?
+MONK’S DINER – DAY|JERRY|You know, if the situation were reversed and Manya had some mah-jongg championship or something, I wouldn’t expect her to go to my funeral. I would understand.
+MONK’S DINER – DAY|ELAINE|How can you even consider not going?
+MONK’S DINER – DAY|GEORGE|You know, I’ve been thinking. I cannot envision any circumstances in which I’ll ever have the opportunity to have sex again. How’s it gonna happen? I just don’t see how it could occur.
+MONK’S DINER – DAY|ELAINE|You know, funerals always make me think about my own mortality and how I’m actually gonna die someday. Me, dead. Imagine that.
+MONK’S DINER – DAY|GEORGE|They always make me take stock of my life. And how I’ve pretty much wasted all of it, and how I plan to continue wasting it.
+MONK’S DINER – DAY|JERRY|I know, and then you say to yourself, “From this moment on, I’m not gonna waste any more of it.” But then you go, “How? What can I do that’s not wasting it?”
+MONK’S DINER – DAY|ELAINE|Is this a waste of time? What should we be doing? Can’t you have coffee with people?
+MONK’S DINER – DAY|GEORGE|You know, I can’t believe you’re even considering not playing. We need you. You’re hitting everything.
+MONK’S DINER – DAY|ELAINE|He has to go. He may have killed her.
+MONK’S DINER – DAY|JERRY|Me? What about you? You brought up the pony.
+MONK’S DINER – DAY|ELAINE|Oh, yeah, but I didn’t say I hated anyone who had one.
+MONK’S DINER – DAY|GEORGE|(to Jerry) Who’s going to play left field?
+MONK’S DINER – DAY|JERRY|Bender.
+MONK’S DINER – DAY|GEORGE|Bender? He can’t play left. He stinks. I just don’t see what purpose is it gonna serve your going? I mean, you think dead peole care who’s at their funeral? They don’t even know they’re having a funeral. It’s not like she’s hanging out in the back going, “I can’t believe Jerry didn’t show up.”
+MONK’S DINER – DAY|ELAINE|Maybe she’s there in spirit. How about that?
+MONK’S DINER – DAY|GEORGE|If you’re a spirit, and you can travel to other dimensions and galaxies, and find out the mysteries of the universe, you think she’s gonna wanna hang around Drexler’s funeral home on Ocean Parkway?
+MONK’S DINER – DAY|ELAINE|George, I met this woman. She is not traveling to any other dimensions.
+MONK’S DINER – DAY|GEORGE|You know how easy it is for dead people to travel? It’s not like getting on a bus. One second. (snaps his fingers) It’s all mental.
+MONK’S DINER – DAY|JERRY|Fifty years they were married. Now he’s moving to Pheonix.
+MONK’S DINER – DAY|ELAINE|Phoenix? What’s happening with his appartment?
+MONK’S DINER – DAY|JERRY|I don’t know. They’ve been in there since, like, World War II. The rent’s three hundred a month.
+MONK’S DINER – DAY|ELAINE|Three hundred a month? Oh, my God.
+FUNERAL HOME – DAY|action|The eulogy is in progress. Jerry is in attendance.
+FUNERAL HOME – DAY|EULOGIST|Although this may seem like a sad event, it should not be a day of mourning. For Manya had a rich, fulfilling life. She grew up in a different world – a simpler world – with loving parents, a beautiful home in the country, and from what I understand, she eve had a pony. (Jerry throws up his hands.) Oh, how she loved that pony. Even in her declining years, whenever she would speak of it, her eyes would light up. It’s lustrous coat, it’s flowing mane. It was the pride of Krakow.
+FUNERAL HOME – DAY|action|Jerry sinks in his seat.
+FUNERAL HOME – LATER|action|Jerry and Elaine are talking to Helen. Jerry checks his watch.
+FUNERAL HOME – LATER|JERRY|Well, the game’s starting just about now.
+FUNERAL HOME – LATER|HELEN|It was good that the two of you came. It was a nice gesture.
+FUNERAL HOME – LATER|action|Morty is talking to his NEPHEW on the other side of the room.
+FUNERAL HOME – LATER|NEPHEW|I’m not a doctor yet, Uncle Morty. I’m just an intern. I can’t write a note to an airline.
+FUNERAL HOME – LATER|MORTY|You’ve got your degree. They don’t care. They just want to see something.
+FUNERAL HOME – LATER|action|Jerry is talking to Isaac.
+FUNERAL HOME – LATER|JERRY|I just wanted to say how sorry I was...
+FUNERAL HOME – LATER|action|Uncle Leo interrupts.
+FUNERAL HOME – LATER|JERRY|Yeah.
+FUNERAL HOME – LATER|action|Morty is still talking to his nephew.
+FUNERAL HOME – LATER|MORTY|You don’t understand, I’ve never paid a full fare.
+FUNERAL HOME – LATER|action|Jerry and Elaine talk to Isaac.
+FUNERAL HOME – LATER|JERRY|Once again, I just want to say how sorry I am about the other night.
+FUNERAL HOME – LATER|ELAINE|Oh, me too.
+FUNERAL HOME – LATER|ISAAC|Oh, no no no. She forgot all about that. She was much more upset about the potato salad.
+FUNERAL HOME – LATER|ELAINE|So, I understand you’re moving to Phoenix?
+FUNERAL HOME – LATER|action|Jerry shakes his head and walks away.
+FUNERAL HOME – LATER|ISAAC|Yeah, my brother lives there. I think Manya would’ve liked Phoenix.
+FUNERAL HOME – LATER|ELAINE|Mmm, gorgeous, exquisite town. So, what’s happening with your apartment?
+FUNERAL HOME – LATER|ISAAC|Of course it’s very hot there. I’ll have to get uh air conditioner.
+FUNERAL HOME – LATER|ELAINE|Oh, you can have mine. I’ll ship it out to you. (Isaac isn't listening to Elaine) But what about that big apartment on West End Avenue?
+FUNERAL HOME – LATER|ISAAC|Although they say it’s a dry heat.
+FUNERAL HOME – LATER|ELAINE|Dry, wet... (trying to get through to him) what’s happening with your apartment?
+FUNERAL HOME – LATER|ISAAC|I don’t even know if I should take my winter clothing.
+FUNERAL HOME – LATER|ELAINE|I have an idea. Leave the winter clothing in the apartment, and I’ll watch it for you and I’ll live there and I’ll make sure that nothing happens to it.
+FUNERAL HOME – LATER|action|Jerry returns.
+FUNERAL HOME – LATER|ISAAC|Oh, the apartment. Jeffrey’s taking the apartment.
+FUNERAL HOME – LATER|ELAINE|Oh, Jeffrey.
+FUNERAL HOME – LATER|JERRY|You know Jeffery?
+FUNERAL HOME – LATER|action|Helen approaches Jerry.
+FUNERAL HOME – LATER|HELEN|It’s raining.
+FUNERAL HOME – LATER|action|Jerry goes to the window.
+FUNERAL HOME – LATER|JERRY|It’s raining? It’s raining. The game will be postponed. We’ll play tomorrow.
+FUNERAL HOME – LATER|action|Back to Morty and his nephew.
+FUNERAL HOME – LATER|MORTY|Believe me, I wouldn’t bother you if the army hadn’t closed that base in Sarasota. Here, scribble a little something here.
+FUNERAL HOME – LATER|NEPHEW|I can’t. I’ll get in trouble.
+FUNERAL HOME – LATER|MORTY|Oh, for God’s sake!
+MONK’S DINER – DAY|action|George, Jerry and Elaine are sitting at a table. Jerry and George are wearing baseball uniforms.
+MONK’S DINER – DAY|GEORGE|Who gets picked off in softball? It’s unheard of.
+MONK’S DINER – DAY|JERRY|It’s never happened to me before.
+MONK’S DINER – DAY|ELAINE|I remember saying to myself, “Why is Jerry so far off the base?”
+MONK’S DINER – DAY|JERRY|I’ll have to live with this shame for the rest of my life.
+MONK’S DINER – DAY|action|George consults his stat sheet of the game.
+MONK’S DINER – DAY|GEORGE|And then in the fifth inning, why did you take off on the pop fly?
+MONK’S DINER – DAY|JERRY|I thought there were two outs.
+MONK’S DINER – DAY|ELAINE|I couldn’t believe it when I saw you running. (laughing) I thought maybe they had changed the rules or something.
+MONK’S DINER – DAY|GEORGE|(smiling) What about Sharon Besser?
+MONK’S DINER – DAY|JERRY|Oh, well, of course. Nineteen-seventy-three.
+MONK’S DINER – DAY|ELAINE|Makes you wonder, though, doesn’t it?
+MONK’S DINER – DAY|JERRY|Wonder about what?
+MONK’S DINER – DAY|ELAINE|You know... (looking up) the spirit world.
+MONK’S DINER – DAY|JERRY|You think Manya showed up during the game and put a hex on me?
+MONK’S DINER – DAY|ELAINE|I never saw anyone play like that.
+MONK’S DINER – DAY|JERRY|But I went to the funeral.
+MONK’S DINER – DAY|ELAINE|Yeah, but that doesn’t make up for killin’ her.
+MONK’S DINER – DAY|GEORGE|Maybe Manya missed the funeral because she was off visiting another galaxy that day.
+MONK’S DINER – DAY|JERRY|Don’t you think she woulda heard I was there?
+MONK’S DINER – DAY|GEORGE|Not necessarily.
+MONK’S DINER – DAY|action|Pause.
+MONK’S DINER – DAY|JERRY|Who figures and immigrant’s gonna have a pony?
+MONK’S DINER – DAY|action|Elaine laughs
+COMEDY CLUB – NIGHT|action|Jerry is on stage, performing.
+COMEDY CLUB – NIGHT|JERRY|What is the pony? What is the point of the pony? Why do we have these animals, these ponies? What do we do with them? Besides the pony ride. Why ponies? What are we doing with them? I mean, police don’t use them for, you know, crowd control. (Jerry crouches down, and makes like he’s riding a pony.) “Hey, uh, you wanna get back behind the barricades. Hey! Hey, little boy. Yeah, I’m talking to you. Behind the barricades!” So somebody, I assume, genetically engineered these ponies. Do you think they could make them any size? I mean, could they make them like the size of a quarter, if they wanted? That would be fun for Monopoly, though, wouldn’t it? Just have a little pony and you put him on the... “Baltic, that’s two down, go ahead. Hold it. Right there. Baltic. Yeah, that’s it. Fine. Right there, hold it right there.”

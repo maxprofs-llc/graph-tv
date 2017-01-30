@@ -1,0 +1,364 @@
+At the Andover shop|JERRY|I'm looking for a crested blazer
+At the Andover shop|CRAIG|A crested blazer..
+At the Andover shop|JERRY|I've worn one once and I really think it did something for me.
+At the Andover shop|CRAIG|(turning around): Yes .I Think we may have something. (picks up a blazer) The Joseph Aboud crested blazer is the finest.... That's hand ticking around the crest and these are the world famous Corriso buttons made from the finest Andulo corn.
+At the Andover shop|JERRY|(softly) Hmm.. they'll match my sneakers.
+At the Andover shop|CRAIG|It looks fabulous on you... shall I wrap it up?
+At the Andover shop|JERRY|You know...I'm not sure. I'll tell you what. I'll come back later with someone and see what they think.
+At the Andover shop|CRAIG|(doubtful) A Hum!
+At the Andover shop|JERRY|Really I'll be back.
+At the Andover shop|CRAIG|Yeah!
+Cuts to Jerry's apartment.|action|George is pacing back and forth with the phone and Elaine and Jerry are talking.
+Cuts to Jerry's apartment.|JERRY|So I didn't like the crest all that much., but the guy spent fifteen minutes with me so to get out of the store I told I wanted to see what someone else thought.... And then he makes a face like he doesn't believe me.
+Cuts to Jerry's apartment.|ELAINE|Ah! So he knew that you were making it up.!
+Cuts to Jerry's apartment.|JERRY|Yeah..... He caught me So here's what I want you to do. Come back with me to the store and we'll pretend to look at the coat.
+Cuts to Jerry's apartment.|ELAINE|That's ridiculous. Why do do you want to go back there if you don't want the coat?
+Cuts to Jerry's apartment.|JERRY|Because he thinks I was lying and I want to show him I wasn't.
+Cuts to Jerry's apartment.|ELAINE|But you were!!
+Cuts to Jerry's apartment.|JERRY|But if you go back with me , then I'm not.
+Cuts to Jerry's apartment.|action|Kramer walks in.
+Cuts to Jerry's apartment.|JERRY|(to George) Problems with the house guest?
+Cuts to Jerry's apartment.|ELAINE|What house guest?
+Cuts to Jerry's apartment.|GEORGE|This friend of Susan's is staying with us for two weeks...Now am I wrong or is that excessive?
+Cuts to Jerry's apartment.|KRAMER|Well Bob Sacamano he stayed with me once for a year and a half.
+Cuts to Jerry's apartment.|ELAINE|Who is he?
+Cuts to Jerry's apartment.|GEORGE|He's a wig master
+Cuts to Jerry's apartment.|ELAINE|What is a wig master?
+Cuts to Jerry's apartment.|GEORGE|He's with the touring company of Joseph and the Amazing Technicolor Dreamcoat. He's the guy in charge of the wigs.
+Cuts to Jerry's apartment.|JERRY|Boy.. imagine.. liking wigs to the point it becomes a career choice.
+Cuts to Jerry's apartment.|KRAMER|About some tickets George , you know I'd kill for a peek..
+Cuts to Jerry's apartment.|GEORGE|(leaving) Yeah, Sure, sure ,,, I got to drop my car off at the new lot.
+Cuts to Jerry's apartment.|KRAMER|Euh what...What lot is that?
+Cuts to Jerry's apartment.|GEORGE|Jiffy Park. It's incredible.. Seventy-five dollars a month.
+Cuts to Jerry's apartment.|KRAMER|Seventy -five bucks a month!
+Cuts to Jerry's apartment.|GEORGE|Yeah and you get this really cool T-shirt when you sign on..
+Cuts to Jerry's apartment.|KRAMER|Oh I'm down.
+Cuts to the Andover shop|JERRY|(proud of himself) Remember me? I said I 'd come back with someone and I did. Surprised?.
+Cuts to the Andover shop|CRAIG|No I believed you.
+Cuts to the Andover shop|JERRY|Yeah.... well Elaine.
+Cuts to the Andover shop|ELAINE|(looking up to the salesman)
+Cuts to the Andover shop|CRAIG|Oh!... hello I'm Craig.
+Cuts to the Andover shop|ELAINE|.....Hi.
+Cuts to the Andover shop|CRAIG|well (picks up the blazer again) here it is.
+Cuts to the Andover shop|ELAINE|Oh!!.....Joseph Aboud .. and look at this hand ticking around the crest.
+Cuts to the Andover shop|CRAIG|You know your coats?
+Cuts to the Andover shop|ELAINE|Well I'm in the biz .. I work for J. Peterman.
+Cuts to the Andover shop|CRAIG|I love J. Peterman.
+Cuts to the Andover shop|ELAINE|(giggling) Ohhh!!.
+Cuts to the Andover shop|CRAIG|I especially enjoy the catalogue, those fanciful narratives really take me away..
+Cuts to the Andover shop|ELAINE|Ohhh!! really ..well you know what, I write those.
+Cuts to the Andover shop|CRAIG|No!!!
+Cuts to the Andover shop|ELAINE|Yeeeahh!!!
+Cuts to the Andover shop|JERRY|(impatiently cutting in) Hey Elaine What about the crest.? What d'you think of the crest here.
+Cuts to the Andover shop|JERRY|You what??
+Cuts to the Andover shop|ELAINE|I think it's great. I think you should get it.
+Cuts to the Andover shop|CRAIG|Well .... Will it be check or credit card?
+Cuts to the Andover shop|JERRY|(giving up) Check.
+Cuts to the Andover shop|CRAIG|I'll need you to write down your phone number on the check for me. (turning to Elaine) Perhaps you could do the same.
+Cuts to the Andover shop|ELAINE|(laughs and giggles like a schoolgirl)
+Cuts to a street where Jerry & Elaine are walking|JERRY|You weren't supposed to say that.
+Cuts to a street where Jerry & Elaine are walking|ELAINE|But I really did like it
+Cuts to a street where Jerry & Elaine are walking|JERRY|That's not the point. You put me in a position where I had no choice.
+Cuts to a street where Jerry & Elaine are walking|ELAINE|uhn... Sorry!
+Cuts to a street where Jerry & Elaine are walking|JERRY|And what about that guy asking you out right in front of me?
+Cuts to a street where Jerry & Elaine are walking|ELAINE|What is the big deal!!
+Cuts to a street where Jerry & Elaine are walking|JERRY|...'s very emasculating, he doesn't know the nature of our relationship. You're there approving new clothes.....That's a girlfriend job! How dare he!!
+Cuts to a street where Jerry & Elaine are walking|ELAINE|He dared....
+Cuts to George's apartment as he comes in.|ETHAN|(sitting in the couch and combing his wigs)Hi George.. How was your day?
+Cuts to George's apartment as he comes in.|GEORGE|Good....good day (not too convincing) You?
+Cuts to George's apartment as he comes in.|ETHAN|I am getting so much work done..... See?
+Cuts to George's apartment as he comes in.|GEORGE|Very nice
+Cuts to George's apartment as he comes in.|SUSAN|(walks in) Hi sweety How was your day?
+Cuts to George's apartment as he comes in.|ETHAN|I already ask him that. He said Good...Good day....
+Cuts to George's apartment as he comes in.|action|George scratches his head and the scene cuts to Jerry and Kramer's hallway
+Cuts to George's apartment as he comes in.|KRAMER|(frantically pulling at his doorknob) Thank god you're home. I'm wiped out. I drop my car at Jiffy Park and I forgot to take my apartment keys off the ring. So you got my spare?
+Cuts to George's apartment as he comes in.|JERRY|No I gave it back to you
+Cuts to George's apartment as he comes in.|KRAMER|y'did.........phfwelll. Look.. hum..... Can you take me over there?
+Cuts to George's apartment as he comes in.|JERRY|Oh Come on!!
+Cuts to George's apartment as he comes in.|KRAMER|Oh Come on Jerry, It's all the way over to twelfth avenue..
+Cuts to George's apartment as he comes in.|KRAMER|I'm not going to take the bus that's why I got a car!
+Cuts to George's apartment as he comes in.|JERRY|Forget it.
+Cuts to George's apartment as he comes in.|KRAMER|Awright I'm gonna get George to pick me up.
+Cuts to George's apartment as he comes in.|JERRY|He wont take ya..
+Cuts to George's apartment as he comes in.|action|Kramer picks up the phone, calls George; Phone rings at George's and he's sitting between Susan and the wig master.
+Cuts to George's apartment as he comes in.|GEORGE|(grabs the phone quick) Got it, Got it,...Hello?
+Cuts to George's apartment as he comes in.|KRAMER|Listen, Can you take me over to the Jiffy Park?
+Cuts to George's apartment as he comes in.|GEORGE|Yeah,yeah!! I'll pick you up right now.....All right All right....Hey! gotta go.
+Cuts to George's car. Kramer changes the stations on the radio|GEORGE|So the Wig master.......the Wig master said you could stop by the theater tonight.. and he'll show you around.
+Cuts to George's car. Kramer changes the stations on the radio|GEORGE|WOULD YOU PICK A STATION!!!!!
+Cuts to George's car. Kramer changes the stations on the radio|KRAMER|I like 'em all(still fiddles with the radio)
+Cuts to George's car. Kramer changes the stations on the radio|GEORGE|Aw great. Now the volume knob fell off
+Cuts to George's car. Kramer changes the stations on the radio|KRAMER|(seems to pickup something on the floor) ....'s'this?
+Cuts to George's car. Kramer changes the stations on the radio|KRAMER|Gawd!!!
+Cuts to George's car. Kramer changes the stations on the radio|GEORGE|What?
+Cuts to George's car. Kramer changes the stations on the radio|KRAMER|That's a....ca.....ca..........Condom!!
+Cuts to George's car. Kramer changes the stations on the radio|action|They both shriek
+Monks|ELAINE|How do you like working there at the .... hum...Andover shop? I mean it's a pretty swanky upscale clientele.
+Monks|CRAIG|Hmmm
+Monks|ELAINE|except for Jerry!(laughs)
+Monks|CRAIG|So did you see anything you'd like....
+Monks|ELAINE|Oh!!!
+Monks|CRAIG|Cause I can get you a considerable discount.
+Monks|ELAINE|Really!...Well actually yeah I did see this ......'mazing little black dress...it was sleeveless....
+Monks|CRAIG|The Nicole Miller
+Monks|ELAINE|Yeah..Yeah...
+Monks|CRAIG|I'll take care of it.
+Monks|ELAINE|Really....but I barely know you.
+Monks|CRAIG|Well...hum.....we'll just have to do something about that. Won't we.
+Monks|ELAINE|Ah! Ah!ah!
+Monks|action|Jerry peeks into Monks window then comes in as Craig is leaving.
+Monks|JERRY|Hey! Greg
+Monks|CRAIG|It's Craig
+Monks|JERRY|Ah! right...nice. Lunch with Elaine?
+Monks|CRAIG|Yes lovely.
+Monks|JERRY|You know 'm just curious, How did you know she wasn't my girlfriend?
+Monks|CRAIG|Well I could just sense it
+Monks|JERRY|Because you know we used to go out.
+Monks|CRAIG|Oh ! you did
+Monks|JERRY|Oh Yeah we went way out and wild.
+Monks|ELAINE|Hey Jerr...
+Monks|JERRY|Hi Elaine.
+Monks|action|In comes a lady selling roses
+Monks|LADY|Would you like to buy a rose for your wife? ( to Craig)
+Monks|action|Craig and Elaine both laugh
+Monks|JERRY|How do you know she's not my wife?
+Cuts to the Jiffy Park|GEORGE|I want to know how did that get into my car?
+Cuts to the Jiffy Park|ATTENDANT|Hey look ..You walk in to this city you got to expect things are gonna stick to your foot. You open in your car and Bing!! Condom.
+Cuts to the Jiffy Park|GEORGE|That doesn't explain the lipstick on the dashboard?
+Cuts to the Jiffy Park|ATTENDANT|Here take a few shirts....
+Cuts to the Jiffy Park|action|A man walks over the attendant and whispers in to his ears.
+Cuts to the Jiffy Park|ATTENDANT|I'm terribly sorry Mr Kramer but we can't get your car now, the keys seems to have been misplaced.
+Cuts to the Jiffy Park|KRAMER|Wait a minute I need those keys. I wont be able to get into my apartment.
+Cuts to the Jiffy Park|ATTENDANT|Aaye Mr Kramer....You like Cadillacs?
+Cuts to the Jiffy Park|KRAMER|...Yeah I like Cadillacs (cautiously) Why ? What you got on your mind?
+Cuts to the Jiffy Park|ATTENDANT|Take that pink Eldorado Cadillac over there , it's a Mary Kay car....
+Cuts to the Jiffy Park|KRAMER|Mary Kay uh?
+Cuts to the Jiffy Park|ATTENDANT|Mary Kay car..
+Cuts to the Jiffy Park|KRAMER|(to George) Well listen See you later ..thanks for driving me by..
+Cuts to the Jiffy Park|action|Two prostitutes walk up to a car
+Cuts to the Jiffy Park|HOOKER|Hey!! Whats happening?
+Cuts to the Jiffy Park|GEORGE|We're gonna hang around here a little while....something funny going on here
+Cuts to Jerry's apartment|ELAINE|You were wrong about Craig . He's a very sweet guy.
+Cuts to Jerry's apartment|JERRY|Well, what about the ponytail?
+Cuts to Jerry's apartment|ELAINE|what about it?
+Cuts to Jerry's apartment|ELAINE|All I know he's promised me a discount on that dress.
+Cuts to Jerry's apartment|JERRY|Of course he did ..The guy's working ya.
+Cuts to Jerry's apartment|ELAINE|Ah! Jerry I've been around long enough to know when I'm being worked.
+Cuts to Jerry's apartment|JERRY|Have you slept with him yet?
+Cuts to Jerry's apartment|ELAINE|I just met him this morning.
+Cuts to Jerry's apartment|JERRY|It's been known to happen....... telling you right now Elaine, this guy 's gonna dangle that dress in front of you like a dirt farmer dangles a carrot in front of a mule.
+Cuts to Jerry's apartment|JERRY|(interrupts)like a shark fisherman with a bucket of (?) Ch....
+Cuts to Jerry's apartment|ELAINE|Ok....
+Cuts to Jerry's apartment|JERRY|(continues)Like a shrimp farmer....
+Cuts to Jerry's apartment|ELAINE|OKAY!!!
+Cuts to the Majestic Theater.|ETHAN|Well that's the grand tour ... Aw but I save the best for last...
+Cuts to the Majestic Theater.|KRAMER|Oh yeah!!
+Cuts to the Majestic Theater.|ETHAN|Behold .. The Technicolor Dreamcoat.
+Cuts to the Majestic Theater.|KRAMER|Oooooh ...Pops .... Wow!! Spectacular.
+Cuts to the Jiffy Park|GEORGE|S'cuse me ..Do you mind if I ask you a few questions?
+Cuts to the Jiffy Park|HOOKER|Are you a cop??
+Cuts to the Jiffy Park|GEORGE|Oh No nonono I'm not a cop ...Heum... I work for the Yankees.
+Cuts to the Jiffy Park|HOOKER|Urghh They stink.
+Cuts to the Jiffy Park|GEORGE|Nevertheless.. I was wondering if you and your .friends are doing business here at the Jiffy Park.... You know ..hum What do you people call it? Turning tricks? Anyway I...I....found a condom in my car....and I'm not saying it's yours but.... I want to know if I should just change parking lots.
+Cuts to the Jiffy Park|HOOKER|Get lost mister, I'm trying to make a living here.
+Cuts to the Jiffy Park|GEORGE|I'll pay you for your time....I just ..I just need some information . How much do you want? ten....fifteen? You have change for twenty?
+Cuts to the Jiffy Park|HOOKER|Fifteen?
+Cuts to the Jiffy Park|SUSAN|(walks in) George?
+Cuts to the Jiffy Park|GEORGE|Hi honey..
+Cuts to the Jiffy Park|action|Hooker picks up the money as George looks embarrassed.
+Scene cuts to George's apartment.|SUSAN|..So you're telling me the truth?
+Scene cuts to George's apartment.|GEORGE|Of Course I'm telling the truth.
+Scene cuts to George's apartment.|SUSAN|Because I have to be able to trust you... If I can't trust you then there's no way that this can work.
+Scene cuts to George's apartment.|GEORGE|Really!
+Scene cuts to George's apartment.|SUSAN|Yeah.
+Scene cuts to George's apartment.|GEORGE|Well then...then you really have something to think about because.....you know if there's any doubt in your mind ....and.. and,, it doesn't even have to be a big doubt, you know even a tiny doubt, a DOT of a doubt.. and.....
+Scene cuts to George's apartment.|SUSAN|There's no doubt.
+Scene cuts to George's apartment.|GEORGE|Because if there's any doubt at all I...I feel we should cultivate it.
+Scene cuts to George's apartment.|SUSAN|Cultivate it?
+Scene cuts to George's apartment.|GEORGE|Yes, you know. Deal with it .We have to deal with the doubt, Susan The DOUBT!! Must be dealt with.
+Scene cuts to George's apartment.|SUSAN|I have no doubt George. Do you?
+Scene cuts to George's apartment.|GEORGE|(hesitates) ...Nooooooooooo...
+Cuts to Elaine and Craig waljing on the street.|ELAINE|You know... I can't wait to get that dress..
+Cuts to Elaine and Craig waljing on the street.|CRAIG|Yeah... It should arrive eminently.
+Cuts to Elaine and Craig waljing on the street.|ELAINE|Arrive?
+Cuts to Elaine and Craig waljing on the street.|CRAIG|Yes! From Milan.
+Cuts to Elaine and Craig waljing on the street.|ELAINE|But you said it was in the store!.
+Cuts to Elaine and Craig waljing on the street.|CRAIG|No no no We sold out we had to order some more.
+Cuts to Elaine and Craig waljing on the street.|ELAINE|But I thought .. Nicole Miller was made.......
+Cuts to Elaine and Craig waljing on the street.|CRAIG|(Interrupts) Eeen!!!
+Cuts to Elaine and Craig waljing on the street.|IAN|Hey Craig.
+Cuts to Elaine and Craig waljing on the street.|CRAIG|Elaine this is Een.
+Cuts to Elaine and Craig waljing on the street.|ELAINE|Hi E-an
+Cuts to Elaine and Craig waljing on the street.|IAN|Een..
+Cuts to Elaine and Craig waljing on the street.|ELAINE|E-an
+Cuts to Elaine and Craig waljing on the street.|CRAIG|Een... He's a friend a mine from England
+Cuts to Elaine and Craig waljing on the street.|IAN|(word missing) What are doing?
+Cuts to Elaine and Craig waljing on the street.|CRAIG|I'm working at the Andover shop actually....You should come by. I'll get you a great discount.
+Cuts to Elaine and Craig waljing on the street.|IAN|Maybe I will. Nice meeting you.
+Cuts to Elaine and Craig waljing on the street.|ELAINE|Oh..Nice to meet you.
+Cuts to Elaine and Craig waljing on the street.|CRAIG|Bye
+Cuts to Elaine and Craig waljing on the street.|IAN|..Cheery-o
+Cuts to Elaine and Craig waljing on the street.|ELAINE|Bye Eeeen.
+Cuts to Elaine and Craig waljing on the street.|ELAINE|So you're giving him a discount too?
+Cuts to Elaine and Craig waljing on the street.|CRAIG|Hummm Why so surprised?
+Cuts to Elaine and Craig waljing on the street.|ELAINE|Hem!! No reason.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|You know that clothing salesman had a lot of nerve hitting on Elaine right in front of me. He stands to make a big commission too on that jacket with the crest that nobody seems to like. You know what I'm gonna do.? I'm gonna take that jacket back.. I'm putting this guy ....RIGHT OUT OF COMMISSION....
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Heeeeeummmrph.... I'm gonna turn in
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Turn in?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Yeah,I had a tough day
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|It's only nine o clock.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Well ..I don't argue with the body Jerry. It's an argument you can't win.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|I can't go to sleep at nine o clock!
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Well you can go to your room and read.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Hey look ,you know, you're the one who's locked out. I'm letting you stay here. You're wearing my bathrobe. You should adapt to me.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|But I'm tired..
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Oh why don't you go sleep over at Newman's.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Aah! He's got a girl up there. This quilt is too thin...I know I'm gonna get cold. I don't even fit on this couch. Don't even know if I'm gonna sleep....
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Well that's all I got.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Can I sleep with you?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Huh?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Well you got that big comfortable bed and that nice warm quilt.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Kramer , there's no way you're sleeping with me.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Why?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Why?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Yeah!
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Do I really have to explain why?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Well I......( Elaine pops in at that moment)
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|Hi!.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Hi...........What's that?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|Squire's walking stick. I had to write about it for the catalogue.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Wow.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|You want it?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Yeaaahmm....
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|You can have ,I don't need it anymore.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Ooh Mama...( walks away)
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|Ok so ..I am positive you are wrong about Craig.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Yeah Why?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|Because he told a man he'd give him a discount too... a man Jerry.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|So ,Who is he?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|Some friend of his from England.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|JERRY|Don't you see?...........It's all a big scam.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|You're nuts!
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|How do you know he's not wondering the same thing about you?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|What d'you mean?
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|What do I mean?.. Well perhaps he thinks that you're working him for the discount. Shaking that little butt of yours into big, big savings.... And then when you get it,you know, you drop him like a hot potato.
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|ELAINE|Aawwh Please.....
+Cuts to Jerry's apartment. Jerry and Kramer are watching tv.|KRAMER|Now see the two of you need to work on trust... and then and only then will there be a free exchange of sex and discounts.. Cornerstones of a healthy relationship....and now if you would (taps twice on the door) excuse us. We need to get to bed.
+Scene cuts to Jerry's bed. Lights are out. Kramer opens the light and starts to read.|KRAMER|(softly)hmmm....patio furniture's on sale.
+Cuts to the Jiffy Park the next morning.|GEORGE|Excuse me...huh... I think I made a big mistake. I'd like my deposit back please.
+Cuts to the Jiffy Park the next morning.|ATTENDANT|Whats the problem
+Cuts to the Jiffy Park the next morning.|GEORGE|You got hookers turning tricks in my car. How's that for starters.
+Cuts to the Jiffy Park the next morning.|ATTENDANT|Haaan! That is all hearsay.
+Cuts to the Jiffy Park the next morning.|GEORGE|Allright, very good I'd like my car and my deposit back please
+Cuts to the Jiffy Park the next morning.|ATTENDANT|Can't do it'
+Cuts to the Jiffy Park the next morning.|GEORGE|Whadday'mean.?
+Cuts to the Jiffy Park the next morning.|ATTENDANT|If you read the agreement you signed the deposit is not refundable.
+Cuts to the Jiffy Park the next morning.|GEORGE|Well does it say anywhere in the contract about my car being used as a whorehouse? 'Cause I don't remember reading that clause either..
+Cuts to the Jiffy Park the next morning.|ATTENDANT|What can I tell you buddy. Take it up with Consumer Affairs.
+Cuts to the Jiffy Park the next morning.|ATTENDANT|Well that's going to be a problem
+Cuts to the Jiffy Park the next morning.|GEORGE|Why?
+Cuts to the Jiffy Park the next morning.|ATTENDANT|It's all the way in the back. Can't get it out for a couple of days.
+Cuts to the Jiffy Park the next morning.|GEORGE|What are you talking about.. I WANT MY CAR!!
+Cuts to the Jiffy Park the next morning.|ATTENDANT|We ask that you please bear with us.
+Cuts to the Jiffy Park the next morning.|GEORGE|Bear with you! This is a parking lot PEOPLE ARE SUPPOSED TO BE ABLE TO GET
+Cuts to the Jiffy Park the next morning.|ATTENDANT|Ideally..
+Scene cuts to the Andover shop.|JERRY|Excuse me I'd like to return this jacket.
+Scene cuts to the Andover shop.|TELLER|Certainly. May I ask why?
+Scene cuts to the Andover shop.|JERRY|........For spite...
+Scene cuts to the Andover shop.|TELLER|Spite?
+Scene cuts to the Andover shop.|JERRY|That's right. I don't care for the salesman that sold it to me.
+Scene cuts to the Andover shop.|TELLER|I don't think you can return an item for spite.
+Scene cuts to the Andover shop.|JERRY|What do you mean?
+Scene cuts to the Andover shop.|TELLER|Well if there was some problem with the garment. If it were unsatisfactory in some way, then we could do it for you, but I'm afraid spite doesn't fit into any of our conditions for a refund
+Scene cuts to the Andover shop.|JERRY|That's ridiculous, I want to return it. What's the difference what the reason is.
+Scene cuts to the Andover shop.|TELLER|Let me speak with the manager...excuse me .............Bob!
+Scene cuts to the Andover shop.|action|walks over to the manager and whispers
+Scene cuts to the Andover shop.|TELLER|........spite.....(Manager walks over)
+Scene cuts to the Andover shop.|BOB|What seems to be the problem?
+Scene cuts to the Andover shop.|JERRY|Well I want to return this jacket and she asked me why and I said for spite and now she won't take it back.
+Scene cuts to the Andover shop.|BOB|That's true. You can't return an item based purely on spite.
+Scene cuts to the Andover shop.|BOB|Well you already said spite so......
+Scene cuts to the Andover shop.|JERRY|But I changed my mind..
+Scene cuts to the Andover shop.|BOB|No...you said spite...Too late.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|action|They make fun of a woman walking by.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|It's Halloween (not sure)
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|CHARMAINE|Get a calendar honey! It's the 90's
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|Hey! Elaine..
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|JERRY|OH! Hey!!
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|These are my friends Jerry and Elaine.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ETHAN|I'm Ethan
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|Yes, she's the costume designer and he's the wig master for the show.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|JERRY|Hey You're staying with my friend George.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ETHAN|Right George! I get the feeling he doesn't want me there.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|JERRY|Well he doesn't even want himself there.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|action|They all laugh
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|CHARMAINE|Why don't you sit down and join us?
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|JERRY|All right. (sits down)
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ELAINE|I can't I 've got to meet a friend.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|Well what are we ...dog meat.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ETHAN|(to waiter) ....Champagne Coolies , please.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ETHAN|(to Elaine) You've got really beautiful hair.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ELAINE|Oh Thanks, thank you very much.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ETHAN|Have you ever thought about selling it .It would make a brilliant wig..
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|JERRY|They make wigs out of human hairs?
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ETHAN|..And pay plenty for them.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ELAINE|Well you guys are gonna have fun here so..bye take care
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|Yeah. See ou later..
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ALL|Bye, now...
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|CHARMAINE|Oh! I just remembered I 've got to get the Dreamcoat from the dry cleaners
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|Hey! You gonna let me try the other one right?'
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|CHARMAINE|Yeah. But you gonna have to be really careful with it , it's my only backup.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|Hey! Who do you think you're talking to.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|CHARMAINE|Ok. Buh- bye!
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|KRAMER|Bye!!
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|JERRY|Bye!
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|action|they both leave. Jerry and Ethan are alone
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|ETHAN|There's your Champagne Coolie. Well looks like it's just you and me cowboy!.
+Cuts to a terrace where Kramer is sitting with Ethan and a woman.|JERRY|...Guess so.
+Scene cuts to Elaine's appt.|ELAINE|Well, Here we are.
+Scene cuts to Elaine's appt.|CRAIG|I....am..beat.(sits on the couch)
+Scene cuts to Elaine's appt.|ELAINE|(sighs)
+Scene cuts to Elaine's appt.|CRAIG|Ohh! that's nice.
+Scene cuts to Elaine's appt.|ELAINE|So.ehmmmm. so, do you have any ideas when the Nicole Millers are coming in?
+Scene cuts to Elaine's appt.|CRAIG|Oh! yeah. The Nicole Millers ...hemm.. Well the funniest thing.
+Scene cuts to Elaine's appt.|ELAINE|Huh!
+Scene cuts to Elaine's appt.|CRAIG|I've learned that the new shipment's coming in by boat... which does tend to take a little longer with, you know ,what with the waves and all .. So you'll just have to be a little bit patient .
+Scene cuts to Elaine's appt.|ELAINE|Hummm.... so you've no idea when.. they'll arrive.
+Scene cuts to Elaine's appt.|CRAIG|(yawns) ...Nno....I really don't......
+Back to the terrace with Jerry and Ethan|ETHAN|How can she go with a guy like that , he's a mess... I just don't see them together at all
+Back to the terrace with Jerry and Ethan|action|A man approaches.
+Back to the terrace with Jerry and Ethan|JESSIE|Ethan?
+Back to the terrace with Jerry and Ethan|ETHAN|Yes..
+Back to the terrace with Jerry and Ethan|action|Both greet each other
+Back to the terrace with Jerry and Ethan|ETHAN|How you doin'?
+Back to the terrace with Jerry and Ethan|JESSIE|nice to see you..
+Back to the terrace with Jerry and Ethan|ETHAN|This is Jerry.
+Back to the terrace with Jerry and Ethan|JERRY|Hello..
+Back to the terrace with Jerry and Ethan|JESSIE|yeah , hummm ( turns back to Ethan) Ethan ,what brings you in to town.
+Back to the terrace with Jerry and Ethan|ETHAN|I'm touring with Joseph and the Amazing Technicolor Dreamcoat
+Back to the terrace with Jerry and Ethan|JESSIE|You're kidding... Listen maybe you and I should...ehmmm get together . Have you been on the slide at Club USA it's ...intense.
+Back to the terrace with Jerry and Ethan|JERRY|(Interrupts) Excuse me...Excuse me... Are you asking him out ?
+Back to the terrace with Jerry and Ethan|JESSIE|Yeah...I guess you could say that..
+Back to the terrace with Jerry and Ethan|JERRY|Right in front of me!. How do you know we're not together. Two guys, sittin' laughin' drinking Champagne Coolies.
+Back to the terrace with Jerry and Ethan|JESSIE|I dunno I just didn't think you were.
+Back to the terrace with Jerry and Ethan|JERRY|Well we're sitting here together. Why wouldn't you think that.
+Back to the terrace with Jerry and Ethan|JESSIE|I dont know. I just didn't.
+Back to the terrace with Jerry and Ethan|JERRY|Well it's very emasculating..
+Back to the terrace with Jerry and Ethan|action|Jessie looks befuddled and leaves.
+Back to Elaine's phone rings.|ELAINE|Hello.
+Back to Elaine's phone rings.|ELAINE|Uhmmm huh! Is it important.?
+Back to Elaine's phone rings.|BOB|Well.....
+Back to Elaine's phone rings.|ELAINE|Let me ask you something. ahemm..Do you know when the Nicole Millers are coming in from Milan?.
+Back to Elaine's phone rings.|BOB|Nicole Millers, We're not expecting any Nicole Millers, in fact we have too many as it is.
+Back to Elaine's phone rings.|ELAINE|Well do you have any in a... size four.?
+Back to Elaine's phone rings.|BOB|Yes several.. Just tell him he doesn't have to be in tomorrow before Eleven.
+Back to Elaine's phone rings.|ELAINE|(sarcastically) Oh! yeah I'll make sure he gets the message. (looks at the sleeping Craig and thinks) They make wigs out of human hair? (still thinking, Ethan's voice) And pay plenty for them.
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|KRAMER|(looks inside the car and gasps) Ohhh Sweet Maria. Hey! lets go.
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|action|Out comes the hooker with a client.
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|KRAMER|Hey What are you doing in my car? Hey!Hey!Hey! Where you going.
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|HOOKER|Hey. You just cost me some money Mr.(starts hitting Kramer)
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|KRAMER|Cool it lady ( they struggle and we here a siren)
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|POLICE|Policer officer. Freeze right there.
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|action|As the credits roll we hear an officer telling Kramer who is to get his picture taken.
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|POLICE|OK Big Daddy. Take the hat off...... awright turn to your right...(Kramer hesitates) I SAID TURN PIMP.
+Scene cuts to a woman in a white coat and hat leaving a store. Her hat gets caught in a gust of wind. and starts rolling down the street. Kramer picks up the hat with the walking stick and puts it on. He struts down the street with the Dreamcoat/hat/stick looking very much like a stereotype pimp. He goes to the Jiffy Park to pick up the Cadillac|KRAMER|(cries) I'M NOT A PIMP.!!!.

@@ -1,0 +1,290 @@
+Monks|GEORGE|Oh, boy I was up to four in the morning watching the Omen trilogy.
+Monks|JERRY|That's good stuff.
+Monks|GEORGE|I can't to myself. I'm exhausted.
+Monks|JERRY|Can you grab a nap at work.
+Monks|GEORGE|Not with that big glass window looking out into the hall. I'd love a good nap. That's the only thing getting me out of bed in the morning. I'll see ya'.
+Monks|ELAINE|Bye.
+Monks|JERRY|So what are you doing now?
+Monks|ELAINE|I'm going to take a little stroll through the park.
+Monks|JERRY|With a gentleman caller?
+Monks|ELAINE|Yes, his name is Hal.
+Monks|JERRY|The walking date is a good date. You don't have to look right at the other -person.
+Monks|ELAINE|It's the next best thing to being alone.
+Monks|action|Kramer enters - wet head
+Monks|JERRY|Shower?
+Monks|KRAMER|No, pool. I just swam 200 laps.
+Monks|ELAINE|You are kidding.
+Monks|KRAMER|Look at hose babies [hands]. They're prunes. I saw Conrad going up to oyur place.
+Monks|ELAINE|Oh, yeah, that's right. Those new kitchen cabinets. How is that coming?
+Monks|JERRY|A little slow. I've got to hold this guy's hand on every little decision.
+Monks|ELAINE|Hey, Kramer, listen, you've seen the Omen right?
+Monks|ELAINE|What exactly was that kid?
+Monks|KRAMER|Who, Damien? Nothing, just a mischievous, rambunctious kid.
+Yankee Stadium|WILHELM|Oh, George, have you seen the American league directory? It is a big green book. Oh, thanks kiddo.
+Central park|ELAINE|Well I don't care. It was delicious.
+Central park|ELAINE|Wanna sit down?
+Central park|HAL|Oh, I don't sit on park benches. They're very bad for the back.
+Central park|ELAINE|Really?
+Central park|HAL|I threw my back out about 15 years ago. Ever since I have been very careful. I only buy furniture in the ergonomics store.
+Central park|ELAINE|Oh those places have the stupidest names. Like, uh, "Back in ", or "Good Vertibrations".
+Central park|HAL|Not this one. It's called the "Lumbar Yard".
+Jerry's Apartment|CONRAD|Oh, Jerry are you okay with this hinge?
+Jerry's Apartment|JERRY|Yeah.
+Jerry's Apartment|CONRAD|I can get you any kind you want, you know. Four holes, three holes, two holes, bronze, no hinge at all.
+Jerry's Apartment|JERRY|You know, why don't we just go with the one in your hand?
+Jerry's Apartment|CONRAD|Oh, these are different.
+Jerry's Apartment|JERRY|Drop one. . . . left!
+Jerry's Apartment|action|George enters
+Jerry's Apartment|GEORGE|Jerry, look at my eyes.
+Jerry's Apartment|JERRY|A little less beady today.
+Jerry's Apartment|GEORGE|Because I'm REFRESHED. I finally found a way to sleep in my office. Under the desk. I lie on my back. I tuck in the chair. I'm invisible.
+Jerry's Apartment|JERRY|Sounds like a really cool fort.
+Jerry's Apartment|CONRAD|Jerry, do you want a flat edge on this molding or do you want me to bevel it?
+Jerry's Apartment|JERRY|I'll tell you what I would like you to do with it.
+Jerry's Apartment|GEORGE|Conrad, is it?
+Jerry's Apartment|CONRAD|Conrad, Connie, or Con, whatever you prefer.
+Jerry's Apartment|GEORGE|Uh, let me ask you a question. Could you, uh, expand the space underneath a desk to give it a little more headroom?
+Jerry's Apartment|JERRY|He's kind of tied up here.
+Jerry's Apartment|GEORGE|It'll have to be a night job anyway. You don't normally work after dinner, do you?
+Jerry's Apartment|CONRAD|There is no normal, whatever jerry wants. He wants me here late, I'm here late, he wants me here early, I'm here early, he . . .
+Jerry's Apartment|JERRY|Why don't you just work on George's project for a while?
+Jerry's Apartment|CONRAD|Whatever you want.
+Jerry's Apartment|action|Next day - on the telephone
+Jerry's Apartment|JERRY|So how was Wednesday's walk in the park with Hal.
+Jerry's Apartment|ELAINE|Uh, it was okay,. He's coming over later to watch a movie. Hey listen, what's better for your back? Couch cushions or a folding chair?
+Jerry's Apartment|JERRY|I don't know.
+Jerry's Apartment|ELAINE|Uh, maybe we'll just stand and watch the tv. [knock knock]. I gotta go someone's at my door. Yeah!
+Jerry's Apartment|ELAINE|Yeah.
+Jerry's Apartment|ELAINE|Mattress, I didn't order a mattress. Who sent this? Hal Kitzmiller?
+Yankee Stadium|GEORGE|Do you think it might be possible to add a little shelf like, uh, for an alarm clock?
+Yankee Stadium|CONRAD|You mean like that big?
+Yankee Stadium|GEORGE|Like this.
+Yankee Stadium|CONRAD|Yeah, I can do that.
+Yankee Stadium|GEORGE|Thanks. You know this could sound crazy but, what do you think about adding a drawer for - like a blanket?
+Yankee Stadium|CONRAD|Blanket or quilt?
+Yankee Stadium|GEORGE|Blanket.
+Yankee Stadium|CONRAD|That thick?
+Yankee Stadium|GEORGE|Maybe like this.
+Yankee Stadium|CONRAD|Like that?
+Yankee Stadium|GEORGE|Yeah, like that.
+Yankee Stadium|CONRAD|If that is what you want.
+Yankee Stadium|GEORGE|That is what I want.
+Yankee Stadium|action|Later
+Yankee Stadium|CONRAD|Hey George, you want this cup holder mounted on the left, or the right, or the middle, . . .
+Yankee Stadium|GEORGE|Whatever!!. . . . Oh oh oh this is unbelievable. This is better than my bed at home.
+Yankee Stadium|GEORGE|Its been a long night. You go home and get some sleep.
+Yankee Stadium|CONRAD|If that's what you want.
+Yankee Stadium|GEORGE|That's what I want.
+Yankee Stadium|WILHELM|Morning George.
+Yankee Stadium|GEORGE|Good morning Mr. Wilhelm.
+Yankee Stadium|action|George escapes under his desk
+Yankee Stadium|KRAMER|got problems Jerry.
+Yankee Stadium|JERRY|What happened?
+Yankee Stadium|KRAMER|Well I had been swimming for three hours and I was in a real grove so I decided to keep going. But at ten they start the aquasonics Thirty-five geriatrics throwing elbows. It was like I was swimming through a flabby armed spanking machine.
+Yankee Stadium|JERRY|How long did that last?
+Yankee Stadium|KRAMER|A half hour then diving class started. Well… that got a little messy. I gotta find a new place to swim 'cause that pooll can't hold me, Jerry.
+Yankee Stadium|action|Elaine enters
+Yankee Stadium|JERRY|How was the movie?
+Yankee Stadium|ELAINE|I cancelled. Hal sent a mattress to my apartment. The nerve of that guy.
+Yankee Stadium|JERRY|Why?
+Yankee Stadium|ELAINE|He's got a back problem.
+Yankee Stadium|JERRY|So you think he was expecting a roll in the supportive hay.
+Yankee Stadium|ELAINE|After one date!
+Yankee Stadium|KRAMER|What's that guy's last name again?
+Yankee Stadium|ELAINE|Kitzmiller.
+Yankee Stadium|KRAMER|Oh, that's right.
+Yankee Stadium|JERRY|So what are you going to do with the mattress?
+Yankee Stadium|ELAINE|I don't know. Chuck it?
+Yankee Stadium|KRAMER|Oh, no no no no I'll take it. Why don't you come over. Let's see if it will fit in my bedroom.
+Yankee Stadium|ELAINE|Oh, all right.
+Yankee Stadium|KRAMER|My old one sprung a leak.
+Yankee Stadium|ELAINE|You have a water bed?
+Yankee Stadium|KRAMER|Sand! It's like sleeping on the beach.
+Yankee Stadium|action|Conrad enters
+Yankee Stadium|CONRAD|Hi, Jerry I'm sorry I'm late. George and I have been up working all night long. I can make up the time in any number of ways.
+Yankee Stadium|JERRY|How about this? . . . Finish this thing up today!
+Yankee Stadium|CONRAD|Couple of questions for you.
+Yankee Stadium|JERRY|No. No more questions. Just figure it out for yourself and get it done.
+Yankee Stadium|CONRAD|All right Jerry. But I can figure it out myself any way you want.
+Yankee Stadium|JERRY|Just . . . do it.
+Yankee Stadium|action|Jerry exits
+George's office|STEINBRENNER|Costanza? Where's Costanza? . . . Excusé mois? Have you seen Costanza?
+George's office|SECRETARY|I've seen him around.
+George's office|STEINBRENNER|Um, I'm stuck on this song yesterday. I can't seem to get it out of my head. I don't know the name of that. "She's a heart breaker, love taker . . ..Oh. Oh" . . .very catchy. You know what? I can't stay awake for that guy. What is this? People? Um, the most beautiful people people. Ally Selica, Nothing wrong with that uh?
+Monks|HAL|Elaine, your taking this totally the wrong way. That's not what Ii intended.
+Monks|ELAINE|Well, what did you intend, Hal?
+Monks|HAL|I just wanted you to have the comfort and report you deserve. That's why I had the mattress custom designed for you.
+Monks|ELAINE|Custom designed?
+Monks|HAL|They adjust the foam density and spring tension to your body type. I estimated your height and weight. Five eight, about 110 pounds?
+Monks|ELAINE|Uh, that is the nicest thing anyone has ever done for me.
+Monks|HAL|So you do like the mattress?
+Monks|ELAINE|Oh, I love it. I'm glad . . . I kept it.
+East River|FATHER|Over there, that's Brooklyn . That's where Spike Lee lives.
+East River|SON|Hey, there's a man swimming in the water.
+East River|FATHER|Naw, that's probably just a dead body son. You see when the mob kills someone they through the body in the river.
+Jerry's hall|KRAMER|Jer.
+Jerry's hall|JERRY|Hi.
+Jerry's hall|KRAMER|Well my swimming pool problems are solved. I just found myself miles and miles of open lanes.
+Jerry's hall|JERRY|What is that smell?
+Jerry's hall|KRAMER|That's East River.
+Jerry's hall|JERRY|You're swimming in the East River? The most heavily trafficked overly contaminated waterway on the eastern seaboard?
+Jerry's hall|KRAMER|Technically Norfok has more gross tonnage.
+Jerry's hall|JERRY|How could you swim in that water?
+Jerry's hall|KRAMER|I saw a couple of other guys out there.
+Jerry's hall|JERRY|Swimming?
+Jerry's hall|KRAMER|Floating, they weren't moving much. But they were out there.
+Jerry's apartment|action|Jerry looks around the new renovation.
+Elaine's|ELAINE|(on phone) Hey, Kramer, it's Elaine, thanks for bringing my mattress back. And I guess I'll just get my spare key from you - whenever. All right, bye.
+Elaine's|ELAINE|Oh, this is a good mattress. Sniff, sniff, Ugh!
+George's Office|STEINBRENNER|What is with this guy? I've been waiting three and a half hours. Should I go? No way Jack! ??? at the registrar again, I'll tell you that.
+George's Office|STEINBRENNER|That's what they call me.
+George's Office|STEINBRENNER|Oh, well, send them in. Send the little tykes in. … little people .. pony express … wow,
+Jerry's|JERRY|(on phone) hello.
+Jerry's|GEORGE|Jerry, I'm trapped under my desk. Steinbrenner is in the room. You got to help[ me.
+Jerry's|JERRY|Who is this?
+Jerry's|GEORGE|Jerry, . . .
+Jerry's|BRADY|Hi,
+Jerry's|GEORGE|Sh, sh, goodbye, sh, get away.
+Jerry's|BRADY|Hi, I'm Brady.
+Jerry's|GEORGE|?? get away??
+Jerry's|JERRY|Why don't you just have him paged?
+Jerry's|GEORGE|Can't you think of something. Call in a bomb threat.
+Jerry's|JERRY|A bomb threat? Why would I call in a bomb threat?
+Jerry's|GEORGE|Just CALL!
+Jerry's|JERRY|I should have some reason.
+Jerry's|STEINBRENNER|Hey you kids know tunes; see if this song rinSTEINBRENNER a bell, "Heartbreaker , . . . "
+Jerry's|STEINBRENNER|A bomb in the building, oh, m'god. Quick, everyone under the desk.
+Steinbrenner's office|STEINBRENNER|Boy can you think of what went through my mind when I saw there wasn't going to be enough room under that desk for me and my babies.
+Steinbrenner's office|GEORGE|I'm sorry sir.
+Steinbrenner's office|STEINBRENNER|You know what I think? I think you knew about that bomb ahead of time.
+Steinbrenner's office|GEORGE|What?
+Steinbrenner's office|STEINBRENNER|???? about that bomb. You climbed under that desk because you have ESP. George, what's on my mind? . . . Meatballs! Huh? Unbelievable. Anyway this terrorist had a specific demand. Not more cheap adjustable hats on hat day. He wants fitted hats just like the players wear.
+Jerry's new renovated apartment|ELAINE|Jerry, Jerry.
+Jerry's new renovated apartment|JERRY|Yeah.
+Jerry's new renovated apartment|ELAINE|What the hell is this? Where are you?
+Jerry's new renovated apartment|JERRY|Over here. You can see right through here.
+Jerry's new renovated apartment|ELAINE|What is this. It's like you're selling movie tickets back here.
+Jerry's new renovated apartment|JERRY|It's kind of cozy.
+Jerry's new renovated apartment|ELAINE|Hey, you're not going to believe what Kramer did to my mattress. . . . I can't talk to you like this. So Kramer completely funked up my mattress.
+Jerry's new renovated apartment|JERRY|Does it smell like the East River?
+Jerry's new renovated apartment|ELAINE|How did you know?
+Jerry's new renovated apartment|JERRY|Because Kramer has been swimming laps between the Queensborough bridge and the Brooklyn bridge.
+Jerry's new renovated apartment|ELAINE|Oh, GREAT!
+Jerry's new renovated apartment|action|Kramer enters
+Jerry's new renovated apartment|KRAMER|Oh man, I'm on the wrong floor again.
+Jerry's new renovated apartment|ELAINE|Hey, thanks for ruining my mattress. It reeks.
+Jerry's new renovated apartment|KRAMER|Hey, you know what I think it is? I think it's that East River. I think it might be polluted.
+Jerry's new renovated apartment|action|George enters
+Jerry's new renovated apartment|GEORGE|Well, you really did it to me this time, Seinfeld. . . . What the hell happened here?
+Jerry's new renovated apartment|ELAINE|Hi.
+Jerry's new renovated apartment|GEORGE|Hi. Look at how obtrusive this is.
+Jerry's new renovated apartment|ELAINE|It is obtrusive, isn't it?
+Jerry's new renovated apartment|KRAMER|It is very obtrusive.
+Jerry's new renovated apartment|JERRY|I don't think it's that bad.
+Jerry's new renovated apartment|KRAMER|You can't get a stool in here.
+Jerry's new renovated apartment|JERRY|No the stools go over there.
+Jerry's new renovated apartment|KRAMER|No, that's no good. I'm leaving.
+Jerry's new renovated apartment|ELAINE|I'm with you. I'm going back to my place.
+Jerry's new renovated apartment|GEORGE|Fitted Hat Day! That's what you asked Steinbrenner for?
+Jerry's new renovated apartment|JERRY|You mean they're actually doing the fitted hats? Cool.
+Jerry's new renovated apartment|GEORGE|Guess who he put in charge of Fitted Hat Day? Me.
+Jerry's new renovated apartment|JERRY|Hey look at you.
+Jerry's new renovated apartment|GEORGE|Yeah, look at me. Now I GOTTA FIGURE OUT THE HAT SIZES OF 59,000 DIFFERENT PEOPLE!! WHAT IF A PINHEAD SHOWS UP. I GOTTA BE ON TOP OF THAT.
+Jerry's new renovated apartment|JERRY|No knock offs. I want the ones like the real players wear.
+Jerry's new renovated apartment|GEORGE|??? KNOCK OFFS. I NOT GOING TO DO IT! AND YOU'RE GOING TO CALL STEINBRENNER BACK AND CANCEL THE WHOLE THING.
+Jerry's new renovated apartment|JERRY|Could you at least get a hat for me?
+Jerry's new renovated apartment|GEORGE|FINE? WHAT SIZE?
+Jerry's new renovated apartment|JERRY|Seven and five eighths
+Jerry's new renovated apartment|GEORGE|SEVEN AND FIVE EIGHTHS!!
+Jerry's new renovated apartment|JERRY|Why are you shouting?
+Jerry's new renovated apartment|GEORGE|I DON'T KNOW. It's this place. I'm very uncomfortable here.
+Elaine's|HAL|So are you liking the mattress?
+Elaine's|ELAINE|I am totally loving it. Uh, you know … we should um … get going.
+Elaine's|HAL|What is that smell?
+Elaine's|ELAINE|What smell?
+Elaine's|HAL|I think it's the mattress. Did something happen to it.
+Elaine's|ELAINE|No no, oh, you know what that is? I um, went claming the other day and I forgot to hose off my boots.
+Elaine's|HAL|Claming?
+Elaine's|ELAINE|Yeah, clam and scallop. I clam and scallop.
+Steinbrenner's office|STEINBRENNER|Yes, yes, come in.
+Steinbrenner's office|GEORGE|Sir, I just got a call from the terrorist. I told him to call back here.
+Steinbrenner's office|STEINBRENNER|Just let me ask you something. Is it "February" or " February"? Because I prefer "Febuary" and what is this "ru"?
+Steinbrenner's office|action|phone ring
+Steinbrenner's office|GEORGE|Let me put that on speaker phone.
+Steinbrenner's office|STEINBRENNER|Hello are you the bomber?
+Steinbrenner's office|JERRY|Yes this is the terrorist bomber.
+Steinbrenner's office|STEINBRENNER|Costanza here is busting his ass on those hats.
+Steinbrenner's office|JERRY|think I've changed my mind.
+Steinbrenner's office|STEINBRENNER|You don't want them, then goodbye.
+Steinbrenner's office|GEORGE|??? sir.
+Steinbrenner's office|STEINBRENNER|Well what do you want instead?
+Steinbrenner's office|JERRY|What?
+Steinbrenner's office|STEINBRENNER|Well, you're the terrorist. You're going to want something.
+Steinbrenner's office|JERRY|I guess it would be nice if you called all the ticket holders if the game was going to be rained out.
+Steinbrenner's office|STEINBRENNER|All right George, you can handle that.
+Steinbrenner's office|action|George hangs up phone
+Steinbrenner's office|STEINBRENNER|Costanza what the hell are you doing?
+Steinbrenner's office|GEORGE|You have to stand tough sir. That's why I had to hang up the phone.
+Steinbrenner's office|STEINBRENNER|You know what I'm going to do? I'm going to run around the stadium and close all the windows. That's where I'm going, pal. And I'll tell you something else. I'm very nervous.
+On the street|ELAINE|Gotta get some of that stuffed crust pizza. cheese crust pizza.
+On the street|HAL|It's just more cheese.
+On the street|ELAINE|I'll tell you something. It'll be years before they find places to hide more cheese on a pizza. Kramer!
+On the street|KRAMER|Oh, hey,
+On the street|ELAINE|Oh, hi. This is Hal. Hal, this is Kramer. Kramer, Hal.
+On the street|KRAMER|Hal, .. uh Langerhans.
+On the street|HAL|Kitzmiller.
+On the street|KRAMER|Oh, Kitzmiller. That's right
+On the street|ELAINE|You feeling jiff?
+On the street|KRAMER|Oh, I'm jiff.
+On the street|HAL|That smell…
+On the street|KRAMER|Oh, listen I gotta get to the pier. The ferry traffic is really bad around four thirty. Look, I still got the key to your apartment and I'll get it back to you as soon as I can.
+On the street|ELAINE|Oh, baby.
+Under George's desk|action|alarm clock
+Under George's desk|GEORGE|Finished.
+At the river|HAL|Kramer? Can I talk to you a minute?
+At the river|KRAMER|Yeah, sure, um, oh boy, . . .
+At the river|HAL|Kitzmiller.
+At the river|KRAMER|That's it.
+At the river|HAL|You and Elaine are pretty close.
+At the river|KRAMER|Oh, we go back a ways.
+At the river|HAL|And you've, . . . how do I put this? You've been in her bed?
+At the river|KRAMER|That's right.
+At the river|HAL|But this isn't still going on.
+At the river|KRAMER|No, no. She put a stop to that.
+At the river|HAL|That's all I needed to know. So you actually swim in this thing?
+At the river|KRAMER|Oh yeah. Exercises every muscle in the body. It's great for the back.
+At the river|HAL|Great for the back. Right.
+At the river|KRAMER|Four hours in this chop and I'm a full inch taller. . . . Giddyup.
+George's office|STEINBRENNER|"Heatbreaker, Brewbaker, …" Hey George, I remember that tune. George? George? Um, what's that ticking. Oh oh. Oh, oooh,…wo wo wo wo . [runs out] fire in the hole!
+Elaine's|ELAINE|I wouldn't believe the Lumbar Yard wouldn't pick this up. Ug, oh, okay, . . .
+Jerry's|CONRAD|You want it back the way it was?
+Jerry's|JERRY|Yeah, that's right.
+Jerry's|CONRAD|You know I don't get you Seinfeld. You want something one day. The next day you don't like it. Come on man, make a decision.
+Jerry's|action|phone rings
+Jerry's|JERRY|One second. Hello.
+Jerry's|ELAINE|Jerry you gotta help me. I threw my back out.
+Jerry's|JERRY|Just lie down.
+Jerry's|ELAINE|I am lying down. I am trapped under a funky mattress. I gotta go get a doctor or at least come over and roll this thing off of me.
+Jerry's|JERRY|All right. I'll be right there., Conrad I gotta go.
+Jerry's|CONRAD|Stay, go whatever.
+At the river, Hall and more people|HAL|Hey, Kramer.
+At the river, Hall and more people|KRAMER|What's going on?
+At the river, Hall and more people|HAL|I told my Chiropractor how swimming in the river made my back heal. He recommended it to all his patients.
+At the river, Hall and more people|KRAMER|He just sunk like a stone.
+Steinbrenner's office|GEORGE|Sir, I'm sure it's not a police matter.
+Steinbrenner's office|STEINBRENNER|Don't be so sure George. Mess with them and they're messing with you. All right boys send it in
+Steinbrenner's office|action|bomb disposal robot enters George's office
+Steinbrenner's office|STEINBRENNER|What's that figure ahead? Is that anything? Okay, let's check the desk. That's where I heard the ticking. Search each one of those drawers starting with the top one. So, empty calories and male curiosity, eh, Georgie?
+Steinbrenner's office|STEINBRENNER|Compartments underneath, that's probably where it is. Okay boys, let 'er rip. I'll tell you what George. Starting tomorrow no more desks. Just Lucite tables and four leSTEINBRENNER.
+East River|KRAMER|Hey, watch where you're kicking!
+East River|ELAINE|Kramer.
+East River|KRAMER|Elaine
+East River|ELAINE|I can't believe it. Hey, I'll meet you at the coffee shop.
+East River|KRAMER|Yeah.
+East River|ELAINE|Yeah.
+Jerry's|GEORGE|Hi Connie, Jerry around?
+Jerry's|CONRAD|No, and I prefer "Conrad". So I heard what happened to the desk.
+Jerry's|GEORGE|There was something so reassuring about that cozy little space.
+Jerry's|CONRAD|Yeah, well, whatever. See ya'
+Later at Jerry's|action|Jerry enters
+Later at Jerry's|JERRY|Ah, back to normal. Not bad for four thousand bucks. . . . I can't believe I got the Low Fat!

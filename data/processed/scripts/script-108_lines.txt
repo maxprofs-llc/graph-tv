@@ -1,0 +1,255 @@
+Jerry's apartment, Jerry is talking on the phone|JERRY|What time does your flight get in? Six? All right, that gives us six hours. Then I'll meet you at the diplomat's club. I'll be the one without the big red sash. Okay, see you tonight. (Hangs up)
+Jerry's apartment, Jerry is talking on the phone|ELAINE|Is that the supermodel?
+Jerry's apartment, Jerry is talking on the phone|JERRY|Yep, she's not gonna be back for a month, but I got six hours.
+Jerry's apartment, Jerry is talking on the phone|ELAINE|I thought you had a show in Ithaca.
+Jerry's apartment, Jerry is talking on the phone|JERRY|I do, but it's three o'clock and then I'm flying right back and meeting Bridget at the Diplomat's Club in the airport.
+Jerry's apartment, Jerry is talking on the phone|ELAINE|Well, guess what I'm doing. I'm going to Mr. Pitt's, and I am telling him that I am quitting.
+Jerry's apartment, Jerry is talking on the phone|JERRY|So that's it? You know I never even met the guy.
+Jerry's apartment, Jerry is talking on the phone|ELAINE|I've had enough. I am marchin' in.
+Jerry's apartment, Jerry is talking on the phone|JERRY|You're marchin' in.
+Jerry's apartment, Jerry is talking on the phone|ELAINE|I'm marchin'. (Enter George)
+Jerry's apartment, Jerry is talking on the phone|GEORGE|Hey.
+Jerry's apartment, Jerry is talking on the phone|JERRY|Hey. Elaine's quitting.
+Jerry's apartment, Jerry is talking on the phone|GEORGE|Really?
+Jerry's apartment, Jerry is talking on the phone|ELAINE|I'm marchin' in.
+Jerry's apartment, Jerry is talking on the phone|GEORGE|I've done the march in. Best feeling in the world.
+Jerry's apartment, Jerry is talking on the phone|JERRY|How 'bout the march out?
+Jerry's apartment, Jerry is talking on the phone|GEORGE|Not as good. That's when you realize all the money you're losing.
+Jerry's apartment, Jerry is talking on the phone|ELAINE|This is it. Wish me luck.
+Jerry's apartment, Jerry is talking on the phone|JERRY|Get a march goin'! March it! (She exits)
+Jerry's apartment, Jerry is talking on the phone|GEORGE|Jerry, I need to borrow your camera.
+Jerry's apartment, Jerry is talking on the phone|JERRY|Why?
+Jerry's apartment, Jerry is talking on the phone|GEORGE|Well, I wanna put a picture of me and my boss Mr. Morgan up at the office.
+Jerry's apartment, Jerry is talking on the phone|JERRY|What for?
+Jerry's apartment, Jerry is talking on the phone|GEORGE|They're reorganizing the staff, and I'm on thin ice with this guy as it is.
+Jerry's apartment, Jerry is talking on the phone|JERRY|Isn't putting this guy's picture on your desk a little transparent?
+Jerry's apartment, Jerry is talking on the phone|GEORGE|It better be.
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|ELAINE|Mr. Pitt, I have something to tell you.
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|PITT|One second Elaine.
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|ELAINE|Mr. Pitt...
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|PITT|Elaine, you know what I just did? I just amended my will to include you as a beneficiary.
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|ELAINE|What?
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|PITT|Well, I think of you as part of my family. You've come to be like a daughter to me and I want to make sure you're taken care of after I'm gone.
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|ELAINE|(Flattered) Mr. Pitt...
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|PITT|(Sneezes) Elaine, I feel a cold coming on. Could you get me a cold pill from the medicine cabinet?
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|ELAINE|Oh no no, Mr. Pitt, you mustn't. You have to check with the pharmacy before you combine anything with your heart medicine,
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|PITT|Yes, yes, I'll check with the pharmacist.
+Mr. Pitt's office, Elaine enters and Mr. Pitt is sitting at his desk.|ELAINE|We don't want anything to happen to you Mr. Pitt. We want you to live a long, long time.
+At the Yankee's office|GEORGE|(Holding camera) Look at this, I only have one picture left... How 'bout a shot of me and Mr. Morgan?
+At the Yankee's office|MORGAN|Why?
+At the Yankee's office|GEORGE|Why? Because we're a team! C'mon! Would you take this for us, dear? Thank you very much. Here we go... (To Morgan) Anyone ever tell you you look a lot like Sugar Ray Leonard? Yeah, you must get that all the time.
+At the Yankee's office|MORGAN|I suppose we all look alike to you, right Costanza?
+At the Yankee's office|GEORGE|No, not a racial thing, there really is a resemblance...
+Mr. Pitt's|ELAINE|Oh my God.
+Mr. Pitt's|WOMAN|Who are you?
+Mr. Pitt's|PITT|This is the girl I want to put in my will. Elaine...
+Mr. Pitt's|MAN|Please, rest Mr. Pitt.
+Mr. Pitt's|WOMAN|You're the assistant? Why weren't you taking care of him?
+Mr. Pitt's|ELAINE|Well, he gave me the morning off, I was doing a little... shopping. How did this happen?
+Mr. Pitt's|MAN|Took a very dangerous combination: prescription heart medicine and these other pills.
+Mr. Pitt's|ELAINE|Mr. Pitt, you were s'posed to talk with the pharmacist.
+Mr. Pitt's|PITT|I spoke to someone who worked there.
+Mr. Pitt's|ELAINE|I'm gonna go and call that pharmacist. (She exits)
+Mr. Pitt's|WOMAN|How well do you know her?
+Jerry and Katie sitting in the plane|KATE|Jerry, listen, just so you know, before we take off they're gonna tell us what to do in the vent of a crash-
+Jerry and Katie sitting in the plane|JERRY|Yes, I know. I've flown before.
+Jerry and Katie sitting in the plane|KATE|Oh good. I just didn't want you to freak out... The chance of a crash is very slim. Do you have to go to the bathroom?
+Jerry and Katie sitting in the plane|JERRY|No.
+Jerry and Katie sitting in the plane|KATE|(Pause) Because even if you have (Jerry gets up to go) to go a little you'd better go now because you won't get another chance until way after take off.
+Airport, Kramer and a man sitting|KRAMER|Hey, how you doin'?
+Airport, Kramer and a man sitting|EARL|Pretty good.
+Airport, Kramer and a man sitting|KRAMER|Name's Kramer.
+Airport, Kramer and a man sitting|EARL|Earl Hafler, nice to meet you. I'm headed to Houston, where you headed?
+Airport, Kramer and a man sitting|KRAMER|Oh I'm happy right here. Isn't this place amazing? Planes flying in from all corners of the world, and they know the minute they're arriving.
+Airport, Kramer and a man sitting|EARL|Ah they don't know a darn thing. That's why my flight the Houston's been delayed. They're all morons. Matter of fact, I'll bet you that that flight to Pittsburgh takes off before my flight to Houston.
+Airport, Kramer and a man sitting|KRAMER|Bet? Um, not betting.
+Airport, Kramer and a man sitting|EARL|Friendly wager.
+Airport, Kramer and a man sitting|KRAMER|I haven't made a bet in three years, I-
+Airport, Kramer and a man sitting|EARL|Ah c'mon. Keep things interesting, pass the time.
+Airport, Kramer and a man sitting|KRAMER|Okay, how much?
+Airport, Kramer and a man sitting|EARL|How 'bout 200?
+Airport, Kramer and a man sitting|KRAMER|You're on, cowboy!
+On street, George and another man pick up newspaper|GEORGE|How ya doin'?
+On street, George and another man pick up newspaper|MAN|Okay.
+On street, George and another man pick up newspaper|GEORGE|Nice day today.
+On street, George and another man pick up newspaper|MAN|What?
+On street, George and another man pick up newspaper|GEORGE|I'm George. George Costanza, you live around here?
+On street, George and another man pick up newspaper|action|Man gets newspaper and leaves
+At the airport...|INTERCOM|Now arriving at gate 12...
+At the airport...|EARL|This could be Mexico City.
+At the airport...|KRAMER|C'mon Seattle, let's go.
+At the airport...|EARL|Come on, Mexico City!
+At the airport...|KRAMER|Seattle, yeah!
+At the airport...|INTERCOM|...flight 42 from Mexico City.
+At the airport...|KRAMER|All right, c'mon, let's go again.
+At Mr. Pitt's...|ELAINE|Mr. Pitt, do you need anything?
+At Mr. Pitt's...|PITT|No.
+At Mr. Pitt's...|ELAINE|You need something to sit up. Why don't I get you a pillow?
+At Mr. Pitt's...|PITT|Okay.
+At Mr. Pitt's...|action|Elaine goes to get pillow, walks back to Pitt slowly. Ms. Walker enters looking scared. Elaine waves.
+Backstage at Comedy Club in Ithaca|KATE|It's a pretty full house, the lighting guy's name is Lew, he's got a birthday next week.
+Backstage at Comedy Club in Ithaca|JERRY|I don't care.
+Backstage at Comedy Club in Ithaca|KATE|By the way, Jerry, I don't want you to freak out, but the pilot is going to be in the audience.
+Backstage at Comedy Club in Ithaca|JERRY|Who?
+Backstage at Comedy Club in Ithaca|KATE|Remember the plane we took here? The pilot is gonna be sitting out there watching the show.
+Backstage at Comedy Club in Ithaca|JERRY|I don't care, why are you telling me this?
+Backstage at Comedy Club in Ithaca|KATE|I just didn't want you to freak out when you saw him.
+Backstage at Comedy Club in Ithaca|JERRY|Why would I freak out? (To himself) Pilot...
+Backstage at Comedy Club in Ithaca|JERRY|Hey, all right. Good afternoon Ithaca. Welcome, good to see you here... Boy, I'll tell you, there's an awful lot of those orange cones you have on the throughway... (Sees pilot) on the way... up here... um... I..
+Comedy club|KATE|It didn't go very well, did it?
+Comedy club|JERRY|No, it didn't. And you know why? Seeing the pilot in the audience really freaked me out.
+Comedy club|KATE|I knew it.
+Comedy club|JERRY|If you hadn't mentioned anything, I would have been fine. I became obsessed with him.
+Comedy club|KATE|Why did we invite him? Stupid, stupid. when he asked for a ticket, I should have said no. I'm gonna go chew him out.
+Comedy club|JERRY|Oh, it doesn't matter now.
+Comedy club|KATE|Don't worry, Jerry. I'm on top of this.
+Comedy club|JERRY|Yeah, you're on top of it, and I'm on the bottom!
+Airport... |EARL|Well, Mr. Kramer, looks like you're in the hole $3200... Will that be cash or check?
+Airport... |KRAMER|All right, look, one more bet. Double or nothing. C'mon.
+Airport... |EARL|All right, but I wanna see some cash on the table.
+Airport... |KRAMER|All right, let me call my bank. You stay here. (He calls)
+Airport... |NEWMAN|Hello?
+Airport... |KRAMER|Yeah, it's, uh, me.
+Airport... |NEWMAN|Hey, what's up?
+Airport... |KRAMER|All right, listen. I need some cash.
+Airport... |NEWMAN|What for?
+Airport... |KRAMER|I just need it, that's all.
+Airport... |NEWMAN|Oh no. Don't tell me. You're gambling again, aren't you? Oh you weak, weak man. Where are you?
+Airport... |KRAMER|I'm at the airport.
+Airport... |NEWMAN|The airport?
+Airport... |KRAMER|We've been betting on arrivals and departures. (Newman rolls eyes) But I'm down $3200 , so you've gotta get me some cash.
+Airport... |NEWMAN|I don't have that kinda dough.
+Airport... |KRAMER|Sure you do.
+Airport... |NEWMAN|Oh no, no, not the bag!
+Airport... |KRAMER|Oh help me man, I'm desperate!
+Airport... |NEWMAN|All right, all right.
+Airplane...|INTERCOM|Sorry for the delay, folks, there is a slight complication that we're taking care of, and then we'll be on our way to La Guardia...
+Airplane...|JERRY|(To Katie) What is the complication?
+Airplane...|JERRY|Yes?
+Airplane...|JERRY|What?
+Airplane...|KATE|I'm not surprised. I really let him have it, Jerry. He has no business being in your audience if you didn't want him there.
+Airplane...|JERRY|I didn't care.
+Airplane...|JERRY|He can't just throw me off the plane!
+Airplane...|JERRY|But I'm not a disturbance!
+Airplane...|JERRY|But someone is waiting for me!
+Airplane...|KATE|Jerry, I don't want you to freak out.
+Airplane...|JERRY|I'm freakin' out! I am freakin' out!
+Airport in Ithaca|KATE|There's a flight leaving at eight, and another one at eight-thirty, which one do you want?
+Airport in Ithaca|JERRY|Which one do you think I want?
+Airport in Ithaca|KATE|The eight will get you in a little earlier.
+Airport in Ithaca|JERRY|Then we'll make it the eight.
+Airport in Ithaca|KATE|I'll book a hotel, do you want a standard room or mini suite?]
+Airport in Ithaca|JERRY|Hotel?
+Airport in Ithaca|KATE|Yeah, it's eight in the morning.
+Airport in Ithaca|JERRY|No, no, no. I have to get home tonight. Bridget's gonna be waiting for me at the Diplomat's Club. Rent a car.
+Airport in Ithaca|KATE|Mid-size, luxury, or sports model, what's your preference?
+Airport in Ithaca|JERRY|I don't have a preference, okay! Just make a decision yourself! Stop bothering me with every minor little detail, please?
+Airport in Ithaca|KATE|Okay, you're a big celebrity. (She exits)
+Airport in Ithaca|action|Jerry calls George
+Airport in Ithaca|GEORGE|Yo.
+Airport in Ithaca|JERRY|George.
+Airport in Ithaca|GEORGE|Hey, Jerry, how was Ithaca?
+Airport in Ithaca|JERRY|I'm still here. Listen, you gotta go down to the Diplomat's Club...
+Airport in Ithaca|GEORGE|Hey, Jerry, what was the name of the exterminator who fumigated your apartment when you had fleas?
+Airport in Ithaca|JERRY|Carl, I think.
+Airport in Ithaca|GEORGE|Carl... Yeah, he was a nice guy.
+Airport in Ithaca|JERRY|Yeah, he was nice.
+Airport in Ithaca|GEORGE|What company was it?
+Airport in Ithaca|JERRY|Defent.
+Airport in Ithaca|GEORGE|Yeah, you know we spoke for a little bit...
+Airport in Ithaca|JERRY|You need an exterminator?
+Airport in Ithaca|GEORGE|No, not really.
+Airport in Ithaca|JERRY|Oh, don't tell me. 'Cause he's black?
+Airport in Ithaca|GEORGE|Gotta go.
+Airport in Ithaca|JERRY|George, George!
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|JERRY|Hello, this is Jerry Seinfeld. Is Elaine there?
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|WOMAN|Hold on... Elaine, there's a Jerry Seinfeld on the phone for you.
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|ELAINE|Hello?
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|JERRY|Elaine, I need you to do me a big favor. I need you to go down to the Diplomat's Club and meet Bridget for me. I'm going to be late.
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|ELAINE|That's at the airport, right?
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|JERRY|Right, I don't want Bridget to think I stood her up. I'll never get another date with her. She'll freak out.
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|ELAINE|All right, all right. You sound a little freaked out yourself.
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|JERRY|I am a little freaked out!
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|ELAINE|Calm down, I'll take care of it. (Ms. Walker looks suspicious of Elaine)
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|JERRY|All right, but you have to go now.
+Mr. Pitt's, Jerry is on the phone with Ms. Walker|ELAINE|I said I'll take care of it!
+Newman arrives at the airport with a bag|NEWMAN|Kramer.
+Newman arrives at the airport with a bag|KRAMER|Hey.
+Newman arrives at the airport with a bag|NEWMAN|Okay, here it is.
+Newman arrives at the airport with a bag|KRAMER|Good. (To Earl) Here's my collateral.
+Newman arrives at the airport with a bag|EARL|So it's a mailbag, so what?
+Newman arrives at the airport with a bag|NEWMAN|So what? Do you know whose mailbag that is?
+Newman arrives at the airport with a bag|EARL|(Reading) David Berkowitz.
+Newman arrives at the airport with a bag|NEWMAN|Son of Sam. The worst mass murderer the post office ever produced.
+Newman arrives at the airport with a bag|EARL|Where did you get this?
+Newman arrives at the airport with a bag|NEWMAN|I took over his route. And boy, were there a lot of dogs on that route.
+Newman arrives at the airport with a bag|EARL|Any of 'em talk to you?
+Newman arrives at the airport with a bag|NEWMAN|Just to tell me to keep off the snacks!
+Newman arrives at the airport with a bag|EARL|(To Kramer) Your buddy's a helluva guy.
+Newman arrives at the airport with a bag|KRAMER|Yeah, don't I know it.
+Newman arrives at the airport with a bag|EARL|Okay, Cosmo, we're back in business. Let's check out the board. Now, who do you like?
+Newman arrives at the airport with a bag|KRAMER|All right, how 'bout Ithaca vs. Boston?
+Newman arrives at the airport with a bag|EARL|All right, I'll give you a sportin' chance. I'll take Ithaca.
+Newman arrives at the airport with a bag|KRAMER|Double or nothin'.
+Newman arrives at the airport with a bag|EARL|Double or nothin'.
+Newman arrives at the airport with a bag|NEWMAN|I hope you know what you're doing... (Kramer gives Newman a look of lack of confidence)
+In rental car... Katie is driving and Jerry is asleep|JERRY|(Wakes up) Where are we?
+In rental car... Katie is driving and Jerry is asleep|KATE|I'm not sure.
+In rental car... Katie is driving and Jerry is asleep|JERRY|Is this even a road?
+In rental car... Katie is driving and Jerry is asleep|KATE|Oh we lost the road a half hour ago.
+In rental car... Katie is driving and Jerry is asleep|JERRY|What? Why didn't you wake me up?
+In rental car... Katie is driving and Jerry is asleep|KATE|You told me not to bother you with minor details.
+In rental car... Katie is driving and Jerry is asleep|JERRY|No, road is a major detail!
+In rental car... Katie is driving and Jerry is asleep|KATE|Okay, now I know. Should I keep going or turn around, do you have a preference?
+In rental car... Katie is driving and Jerry is asleep|JERRY|(Pointing ahead) Look out!
+At George's office, Carl enters|GEORGE|May I help you?
+At George's office, Carl enters|CARL|I'm the exterminator.
+At George's office, Carl enters|GEORGE|Oh, yes of course, come in.
+At George's office, Carl enters|CARL|Why didn't you want me to bring my equipment or wear my uniform?
+At George's office, Carl enters|GEORGE|Yes, well, if the other people in the office saw that I called an exterminator, they would just panic. Besides, this is sort of a friendly visit. Carl, right?
+At George's office, Carl enters|CARL|Do I know you?
+At George's office, Carl enters|GEORGE|Yeah, sure, we met at Jerry Seinfeld's apartment. When you fumigated for fleas over there.
+At George's office, Carl enters|CARL|Seinfeld... Oh yeah, funny white guy, right?
+At George's office, Carl enters|GEORGE|Jerry? Yes, I suppose he is white. You know, I never really thought about it. I don't see people in terms of color. You know, there's someone I'd like you to meet. Hand on... (To phone) Is Mr. Morgan in?
+At George's office, Carl enters|PHONE|Mr. Morgan left for dinner.
+At George's office, Carl enters|GEORGE|He left... huh... Carl, you hungry?
+Mr. Pitt's. Pitt is in bed with Ms. Walker standing beside him. The T.V. is on.|TV|Here's a new twist on car pooling: Early this morning, a lost Manhattanite drove through a residential backyard and wound up in a swimming pool near Ithaca, New York. Comedian Jerry Seinfeld, a passenger, seemed a little freaked out.
+Mr. Pitt's. Pitt is in bed with Ms. Walker standing beside him. The T.V. is on.|JERRY|That's it! No more questions! I don't care!
+Mr. Pitt's. Pitt is in bed with Ms. Walker standing beside him. The T.V. is on.|PITT|That's him! That's the man who gave me the pills in the drug store! He's no pharmacist.
+Mr. Pitt's. Pitt is in bed with Ms. Walker standing beside him. The T.V. is on.|WOMANEWMAN|Jerry Seinfeld... I know that name. He called here earlier for Elaine. (She looks at Mr. Pitt)
+At the restaurant, George and Carl enter. They see Mr. Morgan.|GEORGE|(To Carl) Oh, by the way, order anything you want, it's all on me. Just do me a tiny favor: pretend we're old friends. Oh my God! Mr. Morgan! What a coincidence, it's Mr. Morgan. Mr. Morgan, I want you to meet a dear old friend of mine, Carl.
+At the restaurant, George and Carl enter. They see Mr. Morgan.|CARL|I'm the exterminator. (Morgan confused)
+At the restaurant, George and Carl enter. They see Mr. Morgan.|GEORGE|That's... what we used to call him in high school, the exterminator. He's a linebacker. Oh, did we have some wild times.
+Airport, Kramer is smoking a cigar|EARL|Well, that Newman was your good luck charm.
+Airport, Kramer is smoking a cigar|KRAMER|Yeah, he was.
+Airport, Kramer is smoking a cigar|EARL|I should have quitted at double or nothin'. Travelers checks acceptable?
+Airport, Kramer is smoking a cigar|KRAMER|Oh I accept.
+Airport, Kramer is smoking a cigar|NEWMANEWMAN|(Talking to another man) ...yeah he worked in the cubicle right next to me. We once double dated.
+Airport, Kramer is smoking a cigar|KRAMER|Yeah, it's a pleasure doin' business with a gentleman like yourself. (Elaine enters)
+Airport, Kramer is smoking a cigar|ELAINE|Kramer.
+Airport, Kramer is smoking a cigar|KRAMER|Oh hi Elaine. What are you doing here?
+Airport, Kramer is smoking a cigar|ELAINE|Jerry asked me to meet his girlfriend here. Did you here about his plane in Ithaca?
+Airport, Kramer is smoking a cigar|EARL|What about the plane in Ithaca?
+Airport, Kramer is smoking a cigar|ELAINE|Oh, our stupid friend freaked out the pilot. Single handedly delayed the plane a whole hour. Can you believe that?
+Airport, Kramer is smoking a cigar|KRAMER|Boy...
+Airport, Kramer is smoking a cigar|EARL|Your friend caused the delay?
+Airport, Kramer is smoking a cigar|ELAINE|Uh huh.
+Airport, Kramer is smoking a cigar|EARL|You're a cheat! Nobody hustles Earl Hafler.
+Airport, Kramer is smoking a cigar|KRAMER|C'mon!
+Airport, Kramer is smoking a cigar|EARL|See you around, Cosmo.
+Airport, Kramer is smoking a cigar|KRAMER|What?
+Mr. Pitt's...|ELAINE|Poison you? Jerry Seinfeld tried to poison you? Wha? Mr. Pitt, what are you, delirious? He's never even met you!
+Mr. Pitt's...|PITT|You're fired, Elaine. Goodbye.
+Mr. Pitt's...|ELAINE|Goodbye? (Elaine thinks of memories with Mr. Pitt)
+Airport, Jerry enters|JERRY|Bridget!
+Airport, Jerry enters|BRIDGET|Jerry, what happened?
+Airport, Jerry enters|JERRY|Oh, I'm so sorry. I got stuck out of town. I missed our whole time together.
+Airport, Jerry enters|BRIDGET|Well, my plane doesn't leave for another half hour.
+Airport, Jerry enters|JERRY|Really? (They start to make out, Jerry sees the pilot on the plane) Oh my God, that's him! That's the pilot!
+Restaurant|GEORGE|I love this place. You know, Carl and I come here all the time.
+Restaurant|MORGANEWMAN|Is that right?
+Restaurant|CARL|Yeah, I come here all the time. You wouldn't believe the rat problems in the kitchen.
+Restaurant|MORGANEWMAN|(George spits out food) I thought so. You really are an exterminator. This time, George, you've sunk to a new low. (He leaves)
+Restaurant|GEORGE|Check, please.
+Restaurant|WAITER|Hey, Sugar Ray Leonard can eat here on the house.
+Restaurant|GEORGE|Mr. Morgan! Did you hear that? Mr. Morgan!

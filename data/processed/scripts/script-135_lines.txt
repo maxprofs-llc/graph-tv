@@ -1,0 +1,325 @@
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|GEORGE|Well... it's a magnificent stone.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|action|pause.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|GEORGE|It's just a magnificent stone. (turns to Jerry) Jerry?
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|action|Jerry, obviously uncomfortable, turns slowly and shrugs his shoulders at George.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|GEORGE|What?
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|action|She pats his shoulder, and then she and her husband leave Jerry and George alone with Susan.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|GEORGE|No, I-I-I-I'm good. Really.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|action|Jerry turns around to follow the Rosses.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|GEORGE|Jerry...
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|action|He tries to keep Jerry there, but Jerry jerks away. George then turns to Susan's stone nervously, trying to think of where to begin. Meanwhile, Mrs. Ross offers Jerry an alcoholic beverage of some sort.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|JERRY|Thank you, no.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|action|She continues drinking.
+The cemetery. Jerry, George, and the Rosses are standing in front of Susan's tombstone, which reads "Susan Biddle Ross, June 8, 1964 - May 19, 1996."|GEORGE|(to Susan's stone) ...And then, right after the All-Star Break, we, we just swept the Orioles. Four games. In Baltimore. (adjusts necktie nervously) So... yeah.
+Jerry's apartment|GEORGE|Boy, that was awkward!
+Jerry's apartment|JERRY|I don't mind the cemetery.
+Jerry's apartment|GEORGE|What were you saying to the Rosses over there, anyway?
+Jerry's apartment|JERRY|Oh, I don't know. I told them her death takes place in the shadow of new life. She's not really dead if we find a way to remember her.
+Jerry's apartment|GEORGE|What is that?
+Jerry's apartment|JERRY|Star Trek II.
+Jerry's apartment|GEORGE|(identifying it) Wrath of Khan!
+Jerry's apartment|JERRY|Right. Kramer and I saw it last night. Spock dies, they wrap him up in a towel, and they shoot him out the bowel of the ship in that big sunglasses case.
+Jerry's apartment|GEORGE|That was a hell of a thing when Spock died...
+Jerry's apartment|JERRY|Yeah...
+Jerry's apartment|action|For a brief moment, the two become overwhelmed with emotion.
+Jerry's apartment|GEORGE|Well anyway, the, uh... the stone is up, I paid my respects, guess that's it.
+Jerry's apartment|JERRY|So it's over?
+Jerry's apartment|GEORGE|I have mourned for three long months! Summer months, too! Anybody could grieve in January! It's time for George to start being George again.
+Jerry's apartment|JERRY|All right, so uh, let's do something later. How 'bout a movie?
+Jerry's apartment|GEORGE|Yes! Nothing says George like a movie!
+Jerry's apartment|action|Kramer enters as George is leaving.
+Jerry's apartment|KRAMER|Movie?
+Jerry's apartment|JERRY|Yeah, you in?
+Jerry's apartment|KRAMER|No, no, no, I can't. I got my martial arts class.
+Jerry's apartment|GEORGE|George is going to the movies! (exits)
+Jerry's apartment|JERRY|(to Kramer) So how's your karate class going?
+Jerry's apartment|KRAMER|(pronouncing it "kar-ah-tay") Karate, Jerry. Karate. The lifetime pursuit of balance and harmony.
+Jerry's apartment|JERRY|...But with punching and kicking.
+Jerry's apartment|KRAMER|Jerry, karate is not here (pointing to the ground). It's here (points to head), and here (points to chest), and here (makes a circle with his hands).
+Jerry's apartment|JERRY|Alright, I gotta go to the airport to pick up Elaine.
+Jerry's apartment|KRAMER|What, she's been away?
+Jerry's apartment|JERRY|She's been in Mexico for six weeks.
+Jerry's apartment|KRAMER|No, I really think you're wrong. We just went to the fireworks the other day.
+Jerry's apartment|JERRY|That was July 4th!
+Jerry's apartment|action|Kramer pauses to think.
+Jerry's apartment|JERRY|Alright, I'm outta here, and when I get back, I don't want to see you here (points to kitchen), here (points to living room), or here (makes similar circle with his hands).
+The coffee shop|ELAINE|It was unbelievable. Six weeks of traveling through Mexico all on Peterman's peso.
+The coffee shop|JERRY|Wow. So did you get any good ideas for the catalog?
+The coffee shop|ELAINE|Oh, tons!
+The coffee shop|JERRY|Anything you couldn't have gotten tearing open a bag of Doritos and watching Viva Zapata?
+The coffee shop|ELAINE|(laughs sarcastically) You don't respect my work at all, do you?
+The coffee shop|JERRY|No, I don't.
+The coffee shop|ELAINE|So what's been going on around this dump? How's your fiancee?
+The coffee shop|JERRY|My what?
+The coffee shop|ELAINE|Jeannie... your fiancee.
+The coffee shop|JERRY|Oh, yeah, that. Well...
+The coffee shop|ELAINE|All right. Spill it, Jerome.
+The coffee shop|JERRY|There's really not that much to tell.
+The coffee shop|action|flashback sequence of Jerry and Jeannie at the coffee shop begins as Jerry narrates.
+The coffee shop|action|They both chuckle over the coincidence.
+The coffee shop|JERRY|See ya.
+The coffee shop|action|Jeannie returns her ring to Jerry, who puts it in his pocket.
+The coffee shop|action|flashback ends.
+The coffee shop|JERRY|(continuing) No rejection, no guilt, no remorse.
+The coffee shop|ELAINE|You've never felt remorse.
+The coffee shop|JERRY|I know, I feel bad about that...
+The coffee shop|ELAINE|I bet your parents were upset, huh?
+The coffee shop|JERRY|Eh.
+The coffee shop|ELAINE|You haven't told them yet, have you?
+The coffee shop|JERRY|No.
+J. Peterman's office.|DUGAN|"So I pressed through the rushes, there below me, the shimmering waters of Lake Victoria..."
+J. Peterman's office.|ELAINE|Well, Mr. Peterman, I've got a really good idea for a hat. It combines the spirit of old Mexico with a little big city panache. I like to call it the Urban Sombrero.
+J. Peterman's office.|ELAINE|Are you okay, Mr. Peterman?
+J. Peterman's office.|ELAINE|Well, see, it's... businessmen taking siestas. You know, it's the, uh, the Urban Sombrero.
+J. Peterman's office.|action|Peterman walks out, groaning.
+J. Peterman's office.|ELAINE|Mr. Peterman?
+The street|GEORGE|(inhales deeply) I tell you, Jerry, I'm feeling something. Something I haven't felt in a long time.
+The street|JERRY|Pride?
+The street|GEORGE|No. Autonomy, complete and total autonomy.
+The street|JERRY|Well, you're your own boss now.
+The street|GEORGE|I wanna go to a tractor pull.
+The street|JERRY|Go ahead.
+The street|GEORGE|I am staying out all night!
+The street|JERRY|Who's stopping you?
+The street|GEORGE|I wanna bite into a big hunk of cheese, just bite into it like it's an apple.
+The street|JERRY|Whatever.
+The street|action|Jerry sees someone he knows.
+The street|JERRY|Oh God.
+The street|GEORGE|What?
+The street|JERRY|It's Dolores.
+The street|GEORGE|Who?
+The street|JERRY|Mulva.
+The street|action|Dolores notices Jerry.
+The street|DOLORES|Jerry, hi.
+The street|JERRY|Hi, Dolores. George, you remember Dolores?
+The street|GEORGE|Dolores!
+The street|DOLORES|Hi. (to Jerry) I heard you got engaged.
+The street|JERRY|Yes, Dolores, I did. It didn't work out, though, Dolores.
+The street|DOLORES|Oh, that's too bad. You know... we should get together sometime. See ya.
+The street|JERRY|See ya.
+The street|GEORGE|Bye, Dolores.
+The street|action|Dolores walks away.
+The street|GEORGE|I thought Mulva hated you.
+The street|JERRY|Yeah, so did I. You know what? I bet it was the engagement. I've shown I can go all the way.
+The street|GEORGE|All the way?
+The street|JERRY|Not our "all the way", their "all the way." I got the stink of responsibility on me.
+The street|GEORGE|Yeah, and you were engaged for like a minute, I was engaged for a year.
+The street|JERRY|You stink worse than I do!
+The street|GEORGE|I'm feeling something else here, Jerry!
+J. Peterman's office.|SECRETARY|Elaine, it's Mr. Peterman on the phone.
+J. Peterman's office.|ELAINE|(answers the phone) Hello, Mr. Peterman, how are you feeling?
+J. Peterman's office.|ELAINE|What? Well, who's gonna do it?
+J. Peterman's office.|ELAINE|Me? Why me?
+J. Peterman's office.|ELAINE|Mr. Peterman, you can't leave.
+J. Peterman's office.|ELAINE|Burma?
+J. Peterman's office.|action|The phone is not hung up.
+J. Peterman's office.|ELAINE|Mr. Peterman?
+Jerry's apartment.|JERRY|Where?
+Jerry's apartment.|ELAINE|Burma.
+Jerry's apartment.|JERRY|Isn't it Myanmar now?
+Jerry's apartment.|ELAINE|Jerry, he wants me to run the catalog! It's crazy! I can't be in charge!
+Jerry's apartment.|JERRY|No, certainly not.
+Jerry's apartment.|ELAINE|I mean, I can't give people orders!
+Jerry's apartment.|JERRY|No one's gonna listen to you.
+Jerry's apartment.|ELAINE|I am not qualified to run the catalog!
+Jerry's apartment.|JERRY|You're not qualified to work at the catalog.
+Jerry's apartment.|action|Elaine groans in frustration as Kramer enters.
+Jerry's apartment.|KRAMER|Hey. (notices Elaine) What's wrong?
+Jerry's apartment.|ELAINE|Oh, Peterman ran off to Burma, and now he wants me to run the catalog.
+Jerry's apartment.|KRAMER|Where?
+Jerry's apartment.|JERRY|Myanmar.
+Jerry's apartment.|KRAMER|The discount pharmacy?
+Jerry's apartment.|ELAINE|Well, I'm just gonna tell him no. I can't run the catalog.
+Jerry's apartment.|KRAMER|Whoa, whoa. Can't? When did that word enter your vocabulary? What, is the job too difficult? (Jerry nods) What, you don't have enough experience? (Jerry shakes his head) Oh, you're not smart enough? (Jerry shakes his head) Where's your confidence? (Jerry shrugs his shoulders) Look, Elaine, let me tell you a story. When I first studied karate...
+Jerry's apartment.|ELAINE|Karate?
+Jerry's apartment.|KRAMER|Yeah, karate. I had no support. Not from him, not from Newman, no one. The first time I sparred with an opponent, I was terrified. My legs, they were like noodles. But then I looked inside, and I found my katra.
+Jerry's apartment.|ELAINE|Katra?
+Jerry's apartment.|KRAMER|Yeah, your spirit, your, uh, being. The part of you that says, "Yes, I can!"
+Jerry's apartment.|JERRY|Sammy Davis had it.
+Jerry's apartment.|KRAMER|So I listened to my katra and now  I'm dominating the dojo. I'm class champion.
+Jerry's apartment.|ELAINE|Well, you know, I, I have watched Peterman run the company.
+Jerry's apartment.|KRAMER|Sure you have.
+Jerry's apartment.|ELAINE|I know how to do it. Pair of pants, a stupid story, a huge markup. I can do that.
+Jerry's apartment.|KRAMER|You follow your katra, and you can do anything. (leads her to the door) Now get out of here.
+Jerry's apartment.|ELAINE|(excitedly) Okay.
+Jerry's apartment.|action|Kramer slams the door behind her.
+Jerry's apartment.|KRAMER|That kid is gonna be all right.
+Jerry's apartment.|JERRY|No, she's not.
+Jerry's apartment.|action|There's a knock at Jerry's door.
+Jerry's apartment.|JOEY|Come on, Kramer!
+Jerry's apartment.|KRAMER|Hey there.
+Jerry's apartment.|JOEY|Come on. Mom's down in the car.
+Jerry's apartment.|KRAMER|Okay, Joey.
+Jerry's apartment.|action|Joey exits.
+Jerry's apartment.|JERRY|You guys both have class at the same time?
+Jerry's apartment.|KRAMER|No, we're in the same class.
+Jerry's apartment.|JERRY|What do you mean you're in the same class?
+Jerry's apartment.|KRAMER|He almost beat me.
+Jerry's apartment.|JERRY|Kramer, you're fighting children?!
+Jerry's apartment.|KRAMER|We're all at the same skill level, Jerry.
+Jerry's apartment.|JERRY|He's nine years old! You don't need karate, you can just wring his neck!
+Jerry's apartment.|action|Car horn honks.
+Jerry's apartment.|KRAMER|I got carpool. (exits)
+Kramer's carpool.|KRAMER|Thanks for the juice box, Mrs. Z.
+Kramer's carpool.|JOEY|Hey, could we stop for ice cream on the way home, mom?
+Kramer's carpool.|action|The kids begin pleading, so Kramer joins in.
+J. Peterman's office. Elaine has called in all her new employees.|DUGAN|*You're* taking the job?
+J. Peterman's office. Elaine has called in all her new employees.|ELAINE|You got that straight. Now I want four new ideas from each of you by 6:00. No, make that six ideas by 4:00. All right, let's move, move, move, move, move!
+J. Peterman's office. Elaine has called in all her new employees.|action|As everyone rushes out, Elaine laughs, amazed at the new power she now holds.
+Kramer's karate class.|SANSEI|Are you prepared for kumite?
+Kramer's karate class.|SANSEI|Fight stance.
+Kramer's karate class.|action|Kramer & Joey assume fight stance.
+Kramer's karate class.|SANSEI|Hydjama! Begin!
+Kramer's karate class.|action|Kramer then frantically makes several karate hand motions, intimidating Joey. What follows is a montage of sequences featuring Kramer challenging his class. He grabs an opponent by the foot and flips him over; knocks one out with a simple karate chop to the head; has another turned upside down being shaken violently; drags another along the floor; and chases several at once.
+Kramer's karate class.|SANSEI|(raising Kramer's arm) Winner!
+Kramer's karate class.|action|The other kids bow their heads in disgrace.
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|It's open!
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|action|As George plops onto the sofa, the Rosses enter.
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|(surprised) Rosses.
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|Well, uh... come in, come, come in. (frantically clears the couch of newspapers and crumbs)
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|Oh. Oh. Yeah, sure. Here. Uh, sit down. Uh, uh, cheese, there? (he grabs a suit jacket from the desk chair and puts it on)
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|Oh, yes, yes, yes. Very, very hard.
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|Yes, I agree. I hope my parents go long before I do.
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|Oh, that's wonderful.
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|Yes, inte-- h-how inte-- how integral?
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|(feigning excitement) Great, great. O-Oh, oh, oh, gosh. You know, it's just... my duties with the Yankees...
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|I can't believe this is happening.
+George's apartment, in a very cluttered state. George is walking around in nothing but boxers, humming to himself while carrying a soda and a block of cheese. There's a knock at his door.|GEORGE|(feigning happiness) The second I see him.
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|Hey.
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|Hey. How's your day, good?
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|Actually, yeah. I'm meeting Mulva here in a few minutes.
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|So uh... Wrath of Khan, huh?
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|Yeah. Was that a beauty or what?
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|What was that line again? Something about finding your way in a shadow?
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|No, no, no, it's... "She's not really dead if we find a way to remember her."
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|That's it. That's the line... (squirts mustard into Jerry's coffee and stirs it) ...that destroyed my life.
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|(stares into coffee cup and looks back at George) Problem?
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|The Rosses have started up a foundation, Jerry, and I have to sit on the board of directors.
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|Hey, board of directors. Look at you!
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|Yeah! Look at me! I was free and clear! I was living the dream! I was stripped to the waist, eating a block of cheese the size of a car battery!
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|Before we go any further, I'd just like to point out how disturbing it is that you equate eating a block of cheese with some sort of bachelor paradise.
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|Don't you see? I'm back in.
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|All because of Wrath of Khan?
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|Yes!
+The coffee shop. Jerry is having lunch when George walks in.|JERRY|Well, it was the best of those movies.
+The coffee shop. Jerry is having lunch when George walks in.|action|The camera is over George's head and spins around repeatedly as George screams.
+The coffee shop. Jerry is having lunch when George walks in.|GEORGE|KHAN!
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|George.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|action|George doesn't respond.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|George. (taps him on the shoulder)
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|(startled) Oh!
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|I'm Wyck Thayer, chairman of the Susan Ross Foundation.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|Wink.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|(correcting him) Wyck.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|Wyck.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|Now, as you know, the Rosses had considerable monies.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|Oh. I know they have some monies.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|They had more than some monies. Many, many monies. And they planned to give a sizable portion of their estate to you and Susan after the wedding.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|So, if Susan and I had... I mean, if the envelopes hadn't, uh... then we--
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|Yes.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|And now?
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|Not. It's all been endowed to the foundation, even this townhouse.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|This townhouse?
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|This would have been your wedding gift.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|And now?
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|Not.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|Not.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|WYCK|Also endowed. George... I know how much Susan meant to you. It can't be easy.
+The foundation. George is staring intently at a painting of Susan as Wyck walks in.|GEORGE|You know, it really can't.
+The coffee shop.|DOLORES|So who broke it off?
+The coffee shop.|JERRY|Well, that's the thing. It was completely mutual.
+The coffee shop.|DOLORES|Oh, come on. Everybody knows there's no such thing as a mutual breakup. Tell me the truth.
+The coffee shop.|JERRY|I am. It was the world's first.
+The coffee shop.|DOLORES|You know, when I heard you got engaged, I thought *maybe* you had matured. But obviously there's no growth here. (exits)
+The coffee shop.|JERRY|Well, I can't argue with that, but the fact remains... I was completely... (to himself, cursing her) Mulva!
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|(answering) Hello?
+Jerry's apartment. The phone is ringing as he's getting in.|SECRETARY|Please hold for Elaine Benes.
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|Oh, I don't believe this.
+Jerry's apartment. The phone is ringing as he's getting in.|ELAINE|(picking up) Jerry!
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|Hey!
+Jerry's apartment. The phone is ringing as he's getting in.|ELAINE|Hey. Guess who just finished laying out her first issue of the J. Peterman Catalog.
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|How's it look?
+Jerry's apartment. The phone is ringing as he's getting in.|ELAINE|(muffled, as she's smoking a cigar) It's a peach.
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|Huh?
+Jerry's apartment. The phone is ringing as he's getting in.|ELAINE|I say, it's a peach.
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|Elaine, let me ask you something. When I told you my breakup was mutual, did you believe me?
+Jerry's apartment. The phone is ringing as he's getting in.|ELAINE|No, no, no. It's weak. No one's gonna buy it, and you shouldn't be selling it.
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|I gotta do some research here.
+Jerry's apartment. The phone is ringing as he's getting in.|ELAINE|Hey, hey. Me. Talking. You know, between you and me, I always thought Kramer was a bit of a doofus, but he believed in me. *You* did not. So as I see it, he's not the doofus. *You* are the doofus.
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|Oh, I'm the doofus?
+Jerry's apartment. The phone is ringing as he's getting in.|ELAINE|Yeah. You, Jerry, are the doofus.
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|You know, it occurs to me that Kramer is at karate right now.
+Jerry's apartment. The phone is ringing as he's getting in.|ELAINE|Oh, well, maybe I'll just go down there and thank him in person.
+Jerry's apartment. The phone is ringing as he's getting in.|JERRY|Yeah, that's what I was thinking.
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|ELAINE|Kramer!
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|KRAMER|Oh, hey.
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|ELAINE|What are you doing?
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|KRAMER|Oh, well, I-I-I'm dominating.
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|ELAINE|You never said you were fighting children.
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|KRAMER|Well, it's not the size of the opponent, Elaine, it's, uh, the ferocity.
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|ELAINE|This is what you used to build me up? This is where you got all that stupid katra stuff?
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|KRAMER|No, no. That's from, uh, Star Trek III... The Search for Spock.
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|ELAINE|Search... for Spock?!
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|KRAMER|Yeah, I know Jerry will tell you that The Wrath of Khan is the better picture, but for me, I always...
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|ELAINE|(pushes him) You doofus!
+Kramer's karate class. Kramer is beating his opponent, a little girl. Elaine walks in, surprised.|action|As Kramer is knocked down, there is amazed murmuring among his peers.
+The coffee shop. Jerry is conducting some research.|JERRY|Okay, question #8. What if I told you my fiancee left me for another man? Does that make me more likable, less likable, as likable? Let's start over here this time.
+The coffee shop. Jerry is conducting some research.|RUTHIE|Same.
+The coffee shop. Jerry is conducting some research.|WILLIE|Are we about through here?
+The coffee shop. Jerry is conducting some research.|action|Jerry crosses off something on his clipboard.
+A dark, foggy street. Kramer is walking with Joey.|KRAMER|I thought you said your mom was meeting us in the alley.
+A dark, foggy street. Kramer is walking with Joey.|JOEY|She had a little change of plans.
+A dark, foggy street. Kramer is walking with Joey.|action|Children emerge from various places in the alley, to ambush Kramer.
+A dark, foggy street. Kramer is walking with Joey.|KRAMER|What's going on? Hey, Timmy, Clara. That was some kind of workout we had tonight, huh?
+A dark, foggy street. Kramer is walking with Joey.|GIRL|Now we finish it.
+A dark, foggy street. Kramer is walking with Joey.|action|Kramer tries to escape up the fire escape ladder, but the kids drag him down.
+A dark, foggy street. Kramer is walking with Joey.|KRAMER|Aah! Aah! Mama!
+Jerry's apartment|JERRY|(on the phone) Dad, I wouldn't eat anything you caught in that pond out in front of the condo.
+Jerry's apartment|action|Elaine enters.
+Jerry's apartment|JERRY|Uh, look, Elaine's here, I gotta get going. Oh, by the way, uh, I'm not getting married. Tell mom. Bye. (hangs up)
+Jerry's apartment|action|The phone rings again expectedly. Jerry hangs up without answering.
+Jerry's apartment|JERRY|So... did you stop by the dojo?
+Jerry's apartment|ELAINE|Yep.
+Jerry's apartment|JERRY|How's your confidence level?
+Jerry's apartment|ELAINE|Shot.
+Jerry's apartment|JERRY|Self-esteem?
+Jerry's apartment|ELAINE|Gone.
+Jerry's apartment|JERRY|Doofus?
+Jerry's apartment|ELAINE|(raises her hand) Yo.
+Jerry's apartment|JERRY|All right, so what? You put out the catalog. How bad could it be?
+Jerry's apartment|action|Elaine takes out the Urban Sombrero and puts it on.
+Jerry's apartment|JERRY|What is that?
+Jerry's apartment|ELAINE|It's the Urban Sombrero. I put it on the cover.
+Jerry's apartment|JERRY|Well, nobody sees the... cover.
+Jerry's apartment|action|Kramer enters.
+Jerry's apartment|KRAMER|God!
+Jerry's apartment|JERRY|What happened to you?
+Jerry's apartment|KRAMER|Whew! I got whooped. You should have seen the rage in their little eyes. And those tiny little fists of fury. Oh. (notices the Urban Sombrero) What is that?
+Jerry's apartment|JERRY|It's the new cover of the J. Peterman Catalog. It is Elaine's choice. Let's congratulate her.
+Jerry's apartment|KRAMER|Oh I see. (Elaine walks up to him) Woof!
+Jerry's apartment|ELAINE|(pointing a finger accusingly at Kramer) You! This is all your fault! You told me I could run the company!
+Jerry's apartment|KRAMER|Well, then I was way off!
+Jerry's apartment|ELAINE|Well, I'll see ya... (exits)
+Jerry's apartment|JERRY|Vaya con dios.
+Jerry's apartment|KRAMER|(with his forehead in his hands) Man, I gotta go lay down. You and George going out a little later?
+Jerry's apartment|JERRY|No, he's still stuck at the foundation.
+Jerry's apartment|KRAMER|You know, you oughta go down there and help him out. He's a widower.
+Jerry's apartment|JERRY|Widower? Wait a second. (goes to a notebook of his research)
+The foundation|WYCK|Okay, let's see. The beachhouse. 48 acres... ooh. Southampton. That should fetch a fair price.
+The foundation|GEORGE|Would I have had access to that?
+The foundation|WYCK|Of course, it would have been yours.
+The foundation|GEORGE|And now?
+The foundation|action|Wyck turns to face him.
+The foundation|GEORGE|(anticipating the answer) Not.
+The foundation|action|phone rings. George eagerly answers it.
+The foundation|GEORGE|Hello?
+The foundation|JERRY|Hey, Georgie! I'm doing some research down at the coffee shop. Your story's the one.
+The foundation|GEORGE|My story?
+The foundation|JERRY|Yeah, your widower story's tested through the roof. (various patrons give the thumbs up in approval) When are you getting out of there?
+The foundation|GEORGE|Uh, excuse me, Wyck. Uh, are we, uh, almost done here?
+The foundation|WYCK|(chuckling) Oh, no, not even close.
+The foundation|GEORGE|(remorsefully) I can't go.
+The foundation|JERRY|What do you mean you can't go? There's two really girls sitting at the counter eating grilled cheese. Cheese, George! Cheese!
+The foundation|action|George hangs up.
+The foundation|WYCK|Okay, next item. Susan's doll collection. Estimated value: $2.6 million. What do you say we go through this doll by doll?
+The foundation|action|George turns to the portrait of Susan in amazement.

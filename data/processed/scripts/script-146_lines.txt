@@ -1,0 +1,468 @@
+Kramer's Apartment|KRAMER|Well, that was alright, huh?
+Kramer's Apartment|EMILY|Yeah.
+Kramer's Apartment|KRAMER|Well, um, goodnight.
+Kramer's Apartment|EMILY|Goodnight.
+Kramer's Apartment|action|Kramer rolls over to go to sleep. The bedside clock reads 12:30. Emily snuggles up to him and puts an arm around him. Kramer doesn't look comfortable with this.
+Kramer's Apartment, Later|action|The clock reads 3:31. Kramer is lying on his back, sleeping. Beside him, Emily lies face-down, sleeping, with her arms flung out wide. One hand is on the pillow above Kramer's head, then it moves and Emily's forearm runs across Kramer's face, waking him. Kramer looks disgruntled at being awakened.
+Kramer's Apartment, Later|KRAMER|(quietly, to himself) Look at this.
+Kramer's Apartment, Later|action|He picks up Emily's hand and moves it back to the pillow behind his head, only for the same thing to happen again. Emily's hand moves across his face. Kramer looks unhappy at the disturbance.
+Kramer's Apartment, Later Still|action|The clock reads 5:11. A wide awake Kramer is right over to the edge of the bed, with Emily cuddled up to him, sleeping happily. Kramer tries to carefully move, so as to not wake Emily, but as he shifts his weight, he slips off the end of the mattress and falls to the floor. Emily rolls into the space vacated, continuing to sleep.
+Jerry's Apartment|action|Jerry and his parents enter, carrying a selection of luggage.
+Jerry's Apartment|HELEN|Jerry, we can only stay four days.
+Jerry's Apartment|JERRY|Well, I'm upset, but we'll make the most of it.
+Jerry's Apartment|action|Morty and Helen remove their coats.
+Jerry's Apartment|MORTY|Helen, did you pack my travel gym?
+Jerry's Apartment|HELEN|Yes. (to Jerry) Oh, your father bought a exercise device off the television. He does it every morning at four.
+Jerry's Apartment|MORTY|Only twenty-five minutes a day, and you can attach it to any doorknob.
+Jerry's Apartment|JERRY|Huh. So, I guess your travel miles are about to expire.
+Jerry's Apartment|action|Jerry carries two cases through into the bedroom as his parents sit on the couch.
+Jerry's Apartment|HELEN|Well, actually, Jerry, we wanted to talk to you about something.
+Jerry's Apartment|action|Jerry reenters.
+Jerry's Apartment|JERRY|Am I finally getting a baby brother?
+Jerry's Apartment|HELEN|Jerry, be serious.
+Jerry's Apartment|MORTY|How would you feel if we sold the Cadillac?
+Jerry's Apartment|JERRY|What? The Cadillac I bought for you?
+Jerry's Apartment|MORTY|It's too much car, Jerry.
+Jerry's Apartment|JERRY|Aw, c'mon, you love that car. What about the Northstar system?
+Jerry's Apartment|MORTY|I don't think we even use it.
+Jerry's Apartment|JERRY|Well, it's a gift and I want you to keep it.
+Jerry's Apartment|HELEN|We already sold it.
+Jerry's Apartment|JERRY|Wh..why didn't you tell me before you sold it?
+Jerry's Apartment|MORTY|Because we had a buyer, and we couldn't get a free flight until now.
+Jerry's Apartment|HELEN|Well, we could, but we wanted the bulkhead.
+Jerry's Apartment|JERRY|(exasperated) Ugh.
+Jerry's Apartment|action|Jerry turns away towards the kitchen as Kramer enters.
+Jerry's Apartment|KRAMER|(to Jerry) Man, that Emily is wearing me out.
+Jerry's Apartment|JERRY|Kramer.
+Jerry's Apartment|KRAMER|No, no, no. It's not the sex, Jerry. (noticing Morty and Helen) Heyy! Seinfelds.
+Jerry's Apartment|HELEN|Hi Kramer.
+Jerry's Apartment|MORTY|Hiya Kramer.
+Jerry's Apartment|JERRY|We're in the middle of a discussion here.
+Jerry's Apartment|KRAMER|Oh yeah? What about?
+Jerry's Apartment|HELEN|Jerry's upset we sold the Cadillac.
+Jerry's Apartment|KRAMER|What'd you get for it?
+Jerry's Apartment|MORTY|Jack Klompus gave us six grand.
+Jerry's Apartment|action|Kramer whistles, impressed
+Jerry's Apartment|JERRY|You sold my Cadillac to Jack Klompus?
+Jerry's Apartment|action|Morty rises from the couch, taking a cheque out of his pocket.
+Jerry's Apartment|MORTY|(trying to press the cheque on Jerry) And we want you to have the money.
+Jerry's Apartment|JERRY|(getting worked up) I don't need the money.
+Jerry's Apartment|MORTY|What're you talking about? You had a cheque bounce at the bodega.
+Jerry's Apartment|JERRY|(animated) Oh, is that what this is all about?! I bounce a cheque and you sold a Cadillac?!
+Jerry's Apartment|HELEN|Well, also, Jerry, we read an article in the Sun Sentinel. (digs in her purse and extracts a newspaper clipping) It says standup comedy is not what it used to be, what with def jam and all.
+Jerry's Apartment|action|Helen passes the clipping to Jerry.
+Jerry's Apartment|KRAMER|Yeah, that def jam is a force.
+Jerry's Apartment|HELEN|Jerry, you know, I hear wonderful things about Bloomingdales' executive training program.
+Jerry's Apartment|JERRY|(sits on the back of the couch) Oh my god.
+Jerry's Apartment|KRAMER|Y'know you've given this comedy thing your best shot. Yeah, you had some good observations, but it's over. Now, this Bloomingdale thing, that could be the next wave.
+Jerry's Apartment|action|Jerry lets out an exasperated groan, as Helen rubs his back.
+Fresh Roasted Coffee Store|action|Jerry and Elaine have cups of coffee, George is ordering his beans from the guy behind the counter.
+Fresh Roasted Coffee Store|GEORGE|Uh, excuse me. Uh, pound of Arabian mocha java, please.
+Fresh Roasted Coffee Store|action|The counterperson nods to George, and moves to fill the order.
+Fresh Roasted Coffee Store|ELAINE|So, you understand how my Peterman stock options are gonna work?
+Fresh Roasted Coffee Store|GEORGE|I'm going to the bathroom.
+Fresh Roasted Coffee Store|action|George leaves.
+Fresh Roasted Coffee Store|ELAINE|Just, very interesting.
+Fresh Roasted Coffee Store|JERRY|Yeah, when it's your money, it's fascinating.
+Fresh Roasted Coffee Store|action|The guy behind the counter brings a bag of coffee over.
+Fresh Roasted Coffee Store|COUNTERPERSON|Arabian mocha java?
+Fresh Roasted Coffee Store|ELAINE|(looks for George) Mmm. (can't see him) Oh, um, I got it.
+Fresh Roasted Coffee Store|action|Elaine takes the bag and pays for it.
+Fresh Roasted Coffee Store|JERRY|That Arabian is strong coffee.
+Fresh Roasted Coffee Store|ELAINE|It's PLO blend.
+Fresh Roasted Coffee Store|action|George rejoins the gang.
+Fresh Roasted Coffee Store|ELAINE|Ohh, I got your coffee.
+Fresh Roasted Coffee Store|action|Elaine proffers the bag to George. He takes it and reaches for his pocket.
+Fresh Roasted Coffee Store|GEORGE|Oh Oh, here, lemme uh...
+Fresh Roasted Coffee Store|ELAINE|(waving away) Nah, nah, it's on me. (looks at her watch) Aww, man. Okay, listen guys, I'm gonna be late. (taking her cup of coffee) I'll see you, okay? (begins to walk away)
+Fresh Roasted Coffee Store|GEORGE|Yeah.
+Fresh Roasted Coffee Store|ELAINE|Bye.
+Fresh Roasted Coffee Store|GEORGE|Mmm.
+Fresh Roasted Coffee Store|action|Elaine leaves. Jerry moves to wander out of the store also, when George stops him.
+Fresh Roasted Coffee Store|GEORGE|You see what just happened here?
+Fresh Roasted Coffee Store|JERRY|What?
+Fresh Roasted Coffee Store|GEORGE|She treated me to the Arabian mocha java.
+Fresh Roasted Coffee Store|JERRY|And you misinterpret this how?
+Fresh Roasted Coffee Store|GEORGE|She's stickin' it to me that she makes more money than me.
+Fresh Roasted Coffee Store|JERRY|I'm sure she was just being nice, buying you the coffee.
+Fresh Roasted Coffee Store|GEORGE|No, not nice. She's stickin' it to me.
+Fresh Roasted Coffee Store|JERRY|You're crazy.
+Fresh Roasted Coffee Store|GEORGE|(worked up) Stickin' it to me, Jerry.
+Fresh Roasted Coffee Store|JERRY|George.
+Fresh Roasted Coffee Store|GEORGE|(angry) Stickin' it!
+Fresh Roasted Coffee Store|action|George walks off, pulling an angry face.
+Monk's|action|Jerry and George sit in a booth.
+Monk's|GEORGE|So you're buying the car back for your parents?
+Monk's|JERRY|I'm flying down to Florida tomorrow.
+Monk's|GEORGE|Your parents'll never let you do it.
+Monk's|JERRY|They lied to me about selling the car. I'll lie to them about buying it back. They think they can dump six grand on me? Think again.
+Monk's|GEORGE|What kind of money you think your parents have?
+Monk's|JERRY|Excuse me?
+Monk's|GEORGE|I bet they have more money than mine.
+Monk's|JERRY|Come on, your parents have money.
+Monk's|GEORGE|You think?
+Monk's|JERRY|When did they ever spend any money?
+Monk's|GEORGE|Never.
+Monk's|JERRY|What are their living expenses?
+Monk's|GEORGE|Nothing.
+Monk's|JERRY|Where do they ever go on vacation?
+Monk's|GEORGE|Nowhere.
+Monk's|action|Jerry gives a little 'you do the math' shrug to George.
+Monk's|GEORGE|How much money d'you think they have?
+Monk's|JERRY|Few hundred grand?
+Monk's|GEORGE|(excited) You're saying I stand to inherit three hundred thousand dollars, is that what you're saying?!
+Monk's|JERRY|Course you may not see it for twenty years.
+Monk's|GEORGE|Twenty years? That long?
+Monk's|JERRY|Does your father still eat bacon and eggs every day?
+Monk's|GEORGE|Fortunately, yes.
+Monk's|JERRY|How's your family history?
+Monk's|GEORGE|I have an aunt that died at seven.
+Monk's|JERRY|Really?
+Monk's|GEORGE|Aunt Baby.
+Elaine's Office|action|Elaine sits behind her desk, in the big fancy office she gets standing in for Peterman as president. Kramer enters.
+Elaine's Office|KRAMER|Elaine. Uh, you got a moment?
+Elaine's Office|ELAINE|Yeah, Kramer, come on in.
+Elaine's Office|KRAMER|I, uh, need to speak to you about some lady problems.
+Elaine's Office|action|Kramer sits in front of Elaine's desk.
+Elaine's Office|ELAINE|(unsure) Oh-kay.
+Elaine's Office|KRAMER|(a little anxious) You know, after I have sex with Emily, uh, I don't want her in the bed any more.
+Elaine's Office|ELAINE|Ah.
+Elaine's Office|KRAMER|Yeah, because she's throwing off my whole sleep. She's got the jimmy legs.
+Elaine's Office|ELAINE|(confused) Jimmy legs?
+Elaine's Office|action|Kramer raises one leg and judders it in the air, as illustration.
+Elaine's Office|KRAMER|Jimmy leg.
+Elaine's Office|ELAINE|(grasping the concept) Ohh.
+Elaine's Office|KRAMER|So, uh, well, maybe I should just be honest with her, huh?
+Elaine's Office|ELAINE|Tell her after sex, you just want her outta there?
+Elaine's Office|KRAMER|Well, I'd say it nicely.
+Elaine's Office|ELAINE|I don't think so.
+Elaine's Office|KRAMER|Well, you know, I really like this girl and I, you know, I think if I could just work out this one thing...
+Elaine's Office|ELAINE|(interrupting) Yeah. I gotta be honest with you Kramer. You might be more than just a coupla tweaks away from a healthy relationship.
+Elaine's Office|KRAMER|Well you're not exactly zeroing in yourself, lady.
+Elaine's Office|ELAINE|(pointing to the door, angry) Alright, get out.
+Elaine's Office|action|Kramer starts to move, and thumps his knee on the underside of the desk. He rises and begins to head for the door.
+Elaine's Office|ELAINE|(impatient) Get out!
+Jerry's Apartment|action|Morty and Helen sit on the couch, watching TV and doing a crossword, respectively. Jerry enters from the bedroom, carrying a suitcase.
+Jerry's Apartment|JERRY|So listen, I gotta go down to Atlantic City. I'm performing at Bally's.
+Jerry's Apartment|MORTY|You just heard about this today?
+Jerry's Apartment|JERRY|(pulling on a jacket) They had a cancellation and they instantly called me.
+Jerry's Apartment|HELEN|Who cancelled?
+Jerry's Apartment|JERRY|Carrot Top. I told you, my career's fine.
+The Costanza Home, Queens|action|George and his parents are seated at the table in the kitchen, eating a meal of spaghetti.
+The Costanza Home, Queens|GEORGE|I been, uh, thinking about the family. Tell me, uh, about Aunt Baby.
+The Costanza Home, Queens|FRANK|(looks up to heaven) She's deceased.
+The Costanza Home, Queens|GEORGE|(glances upwards) Yeah. Uhm, why did she die so young?
+The Costanza Home, Queens|FRANK|(looks to Estelle) She had problems. (Estelle nods) Internal.
+The Costanza Home, Queens|GEORGE|Is that common in our family?
+The Costanza Home, Queens|ESTELLE|Well, your uncle Moe, he died a young man.
+The Costanza Home, Queens|FRANK|Also internal problems.
+The Costanza Home, Queens|ESTELLE|It's that temper on your side. They're yelling and yelling, and then one day, they're all gone.
+The Costanza Home, Queens|FRANK|What about your side? Your cousin Hennie. (animated) She was sickly from the moment I met her!
+The Costanza Home, Queens|ESTELLE|(shouts) Don't you talk about Hennie!
+The Costanza Home, Queens|GEORGE|I guess you two are the lucky ones.
+The Costanza Home, Queens|FRANK|So far.
+The Costanza Home, Queens|ESTELLE|Frank, if Aunt Baby were alive today, how old would she be?
+The Costanza Home, Queens|FRANK|She'd never make it.
+The Costanza Home, Queens|action|George thinks a little and looks hopeful.
+Monk's|action|Kramer and Emily sit at a table. Emily looks a little angry.
+Monk's|EMILY|So let me get this straight. You enjoy the lovemaking...
+Monk's|KRAMER|Shh, shh.
+Monk's|EMILY|(quieter) Well, do you?
+Monk's|KRAMER|Oh yeah, like strawberry pie.
+Monk's|EMILY|Okay, but you have a problem sharing a bed with me?
+Monk's|KRAMER|I know it's not what the ladies like. But without some solid sack time, I'm a zombie.
+Monk's|EMILY|I don't know.
+Monk's|KRAMER|(pleading) Aww, c'mon, man. Meet me halfway.
+Monk's|EMILY|You're not easy, Kramer.
+Monk's|KRAMER|I know.
+Animation|action|On a map of the East Coast of the US, a long red arrow appears from New York to Del Boca Vista.
+Klompus Home, Del Boca Vista|action|Jerry sits on a chair as Jack, standing, speaks.
+Klompus Home, Del Boca Vista|JACK|So, to what do I owe the pleasure of this, unannounced, visit?
+Klompus Home, Del Boca Vista|JERRY|I wanna buy back the Cadillac.
+Klompus Home, Del Boca Vista|JACK|You wanna buy it back? Why, you go drugs hidden in the trunk?
+Klompus Home, Del Boca Vista|action|Jack chuckles at his own joke. Jerry stares back at him, unamused.
+Klompus Home, Del Boca Vista|JACK|I'm kidding.
+Klompus Home, Del Boca Vista|JERRY|(reaching into his pocket) Alright, I'll give you nine thousand for it.
+Klompus Home, Del Boca Vista|action|Jerry puts is chequebook on the table
+Klompus Home, Del Boca Vista|JACK|Nine thousand for a Cadillac? It's got no miles on it.
+Klompus Home, Del Boca Vista|JERRY|You bought it for six!
+Klompus Home, Del Boca Vista|JACK|You're not me.
+Klompus Home, Del Boca Vista|JERRY|(standing) How much d'you want for it?
+Klompus Home, Del Boca Vista|JACK|The Kelly blue book value. Twenty-two thousand dollars.
+Klompus Home, Del Boca Vista|action|Jerry pulls a 'you have to be kidding' face.
+Klompus Home, Del Boca Vista|JERRY|Fourteen thousand.
+Klompus Home, Del Boca Vista|JACK|Done. But, I get to drive it tomorrow, because Doris wants to go to Naples.
+Klompus Home, Del Boca Vista|action|Jerry starts to write the cheque, but his pen is obviously not working properly. Jack pulls out his own pen (the astronaut pen from 'The Pen') and offers it to Jerry.
+Klompus Home, Del Boca Vista|JACK|Need a pen?
+Klompus Home, Del Boca Vista|action|Jerry scribbles with his pen, to try and encourage it, but to no avail. He looks to Jack, who's holding out his pen.
+Klompus Home, Del Boca Vista|JACK|Still works.
+Jerry's Apartment|action|Morty and Helen are by the counter, as Kramer comes in.
+Jerry's Apartment|KRAMER|Hey, where's Jerry?
+Jerry's Apartment|HELEN|He's performing at Bally's in Atlantic City.
+Jerry's Apartment|KRAMER|Aw, okay. (picks up the phone and starts dialling) Yeah, I need his shoeshine kit. (still dialling) He always hides it from me. (puts the phone to his ear and waits for a second or two) Yeah, Bally's? Yeah, Jerry Seinfeld's room, please.
+Jerry's Apartment|MORTY|You know that number?
+Jerry's Apartment|KRAMER|I used to have a problem. (into phone) Well, what d'you mean, he's not registered? Wha..S, E, I, N, V...
+Jerry's Apartment|HELEN|F. F, E, L , D.
+Jerry's Apartment|KRAMER|...F, E, L, D. (half-laughing) Well, I think you're wrong. (listens) Alright, you have a lucky day, too.
+Jerry's Apartment|action|Kramer rings off.
+Jerry's Apartment|HELEN|He's not there?
+Jerry's Apartment|KRAMER|No, they never heard of him.
+Jerry's Apartment|action|Kramer puts down the phone, and walks off to look for the shoeshine kit. Morty and Helen exchange worried looks.
+Restaurant|action|George, Elaine and Jerry's parents sit at a table in a fancy restaurant.
+Restaurant|ELAINE|This is so nice of you to take us all out to dinner, George.
+Restaurant|GEORGE|(oozing fake sincerity) Well, as much as I enjoy all the good-natured ribbing, nothing really makes me happier than spending money on the people I care about.
+Restaurant|HELEN|Where's Jerry?
+Restaurant|GEORGE|Oh, he'll be here. By the way, Elaine, (reaches under the table and brings out a large coffee machine) thank you for laying out for the Arabian mocha java.
+Restaurant|action|George puts the gift in front of Elaine.
+Restaurant|ELAINE|George, you didn't have to do this. I'm president of a big company. I can afford to buy you coffee.
+Restaurant|MORTY|(surprised) President?
+Restaurant|ELAINE|Yeah.
+Restaurant|action|Jerry enters, with his bag over his shoulder.
+Restaurant|GEORGE|Hey look, he's back.
+Restaurant|JERRY|I got your message, (sitting) so I came straight from Atlantic City.
+Restaurant|HELEN|Jerry, Kramer called Bally's. You weren't registered.
+Restaurant|JERRY|(extemporising) Well, I can't stay under my own name. I was registered under Slappy White.
+Restaurant|action|Helen looks unconvinced. A spiffily-dressed Frank and Estelle enter the restaurant and are spotted by George.
+Restaurant|GEORGE|Mom? Dad?
+Restaurant|ESTELLE|Well, look who's here. Hello, Seinfelds.
+Restaurant|action|Morty half-nods a greeting.
+Restaurant|GEORGE|Wh..what're you doing here?
+Restaurant|FRANK|We're having an upscale dinner.
+Restaurant|GEORGE|What?
+Restaurant|ESTELLE|Well, after talking to you, we realised we may not have much time left.
+Restaurant|FRANK|So, we're blowing it all.
+Restaurant|action|George looks unhappy at this news.
+Restaurant|FRANK|(holding out his tie) Look George, it's a Pierre Cardin.
+Emily's Apartment|action|Once again, Kramer and Emily are basking in the afterglow.
+Emily's Apartment|KRAMER|That was alright.
+Emily's Apartment|EMILY|Yeah.
+Emily's Apartment|action|They both lie still for a few seconds.
+Emily's Apartment|KRAMER|(abruptly) Well, I'll see you.
+Emily's Apartment|action|Kramer climbs quickly out of the bed to leave.
+Jerry's Apartment|action|Morty, dressed in exercise gear, emerges from the bedroom. He is carrying the travel gym. He creeps across the room, so as not to wake Jerry, who is asleep on the couch, quietly opens the door and slips outside.
+Kramer's Apartment/Hallway|action|Kramer is asleep in his bed, when something wakes him. He can hear a thumping and a rattling sound. Kramer turns over and looks across at his door, to see the handle turning, as if someone outside were trying to open it. A look of horror comes to Kramer's face.
+Kramer's Apartment/Hallway|action|Outside in the hallway, Morty has his travel gym attached to Kramer's doorknob. As he pulls on the arrangement of cords and pulleys, they in turn pull at the doorknob.
+Kramer's Apartment/Hallway|action|Inside Kramer's apartment, a terrified Kramer pulls the blankets over his head and lies quivering underneath.
+Jerry's Apartment/Florida|action|Morty and Helen are eating at the table. The phone rings and Jerry answers.
+Jerry's Apartment/Florida|JERRY|Hello.
+Jerry's Apartment/Florida|action|A dishevelled and muddy Jack Klompus is on the other end of the line, using a cellular phone somewhere outdoors in Florida.
+Jerry's Apartment/Florida|JACK|(shouting like there's a bad line) Jerry, I had a little mishap with the car.
+Jerry's Apartment/Florida|action|The front portion of the Cadillac is submerged in a swamp, with the tail end pointed upwards.
+Jerry's Apartment/Florida|JACK|I'm down here in alligator alley. You better get down here.
+Jerry's Apartment/Florida|action|Jerry tries not to give anything away to his parents.
+Jerry's Apartment/Florida|JERRY|(quiet) Huh. Alright.
+Jerry's Apartment/Florida|action|Jerry puts down the phone and moves towards the bedroom.
+Jerry's Apartment/Florida|HELEN|Who was that?
+Jerry's Apartment/Florida|JERRY|(extemporising) That was the Golden Nugget. Also in Atlantic City. They heard such good things about my show at Bally's, they want me for tonight. So I'll have to repack, and go.
+Jerry's Apartment/Florida|action|Jerry leaves to the bedroom. Helen and Morty don't look convinced by Jerry's spiel. They talk quietly so's Jerry can't hear in the next room.
+Jerry's Apartment/Florida|MORTY|That didn't sound like the Golden Nugget.
+Jerry's Apartment/Florida|HELEN|I'm worried. What happens if we have to support Jerry?
+Jerry's Apartment/Florida|MORTY|I'd have to go back to work.
+Jerry's Apartment/Florida|HELEN|Where would you work?
+Jerry's Apartment/Florida|MORTY|Maybe I should talk to Elaine.
+Elaine's Office|action|Elaine sits behind her desk, interviewing a smartly dressed Morty.
+Elaine's Office|ELAINE|Well, Mr Seinfeld, I..I'm not sure I understand why you want a job here.
+Elaine's Office|MORTY|What's not to understand?
+Elaine's Office|ELAINE|Well, for one thing, you live in Florida.
+Elaine's Office|MORTY|I'm very comfortable working outta the house. I have a phone, we have a Kinko's nearby. You know, I think that my resume speaks for itself.
+Elaine's Office|ELAINE|(looking around her desk) Where is your resume?
+Elaine's Office|MORTY|I don't have it. I'll mail you one.
+Elaine's Office|ELAINE|Alright, Mr Seinfeld, I... What kind of position did you have in mind?
+Elaine's Office|MORTY|You sell clothes here, don't you?
+Elaine's Office|ELAINE|Yeah.
+Elaine's Office|MORTY|Well, I sold raincoats in the garment centre for thirty-eight years. In nineteen forty-nine...
+Elaine's Office|ELAINE|(interrupting) Alright. Alright, alright. You come in tomorrow, we'll find something for you to do.
+Elaine's Office|MORTY|You won't regret this, Miss Benes. What time should I be in? I get up at four, I could be here as early as four twenty-five.
+Elaine's Office|ELAINE|Uhm...
+Elaine's Office|action|Peterman enters the office.
+Elaine's Office|PETERMAN|(upbeat) Oh, Elaine, this dry air is curing me like a Black Forest ham.
+Elaine's Office|action|Peterman strides across the office to another door.
+Elaine's Office|ELAINE|(stunned) Mr Peterman. You're back.
+Elaine's Office|action|Peterman goes through the other door, and closes it behind him. Elaine, stands, her mouth agape in shock.
+Elaine's Office|MORTY|Who's Mr Fancy?
+Emily's Apartment|action|Kramer and Emily in bed again.
+Emily's Apartment|KRAMER|(hesitant) I uh, I was thinking maybe I should spend the night.
+Emily's Apartment|EMILY|Aww, that's sweet, but actually I, I think I'd prefer it if you left.
+Emily's Apartment|KRAMER|(surprise) What?
+Emily's Apartment|EMILY|You were completely right. I sleep so much better when I'm alone. (pause) And you scream in your sleep.
+Emily's Apartment|KRAMER|I do?
+Emily's Apartment|action|Kramer looks intensely nervous.
+Emily's Apartment|KRAMER|(fearful) There was a man, he was trying to get into my apartment last night. He was jiggling the doorknob for twenty-five minutes.
+Emily's Apartment|EMILY|C'mon, it was probably the wind.
+Emily's Apartment|KRAMER|No, no, no. It was a fearless cat burglar. (pleading) Now listen, you gotta let me sleep here, huh? Y'know, I'll stay here on my side, and I'll stuff a sock in my mouth. (panicky) 'Cos I don't wanna sleep alone.
+Emily's Apartment|EMILY|(adamant) Well, I do.
+Animation|action|Another arrow is drawn from New York to Del Boca Vista.
+Street, Del Boca Vista|action|A tow truck has hauled the Cadillac out of the swamp and back to Del Boca Vista. It's plastered with mud and filth over its entire length. Jack Klompus stands beside it, still mud-spattered. Jerry climbs out of a cab.
+Street, Del Boca Vista|JACK|What took you so long?
+Street, Del Boca Vista|JERRY|I live in New York. (slams the cab door) What the hell happened?
+Street, Del Boca Vista|action|The cab drives away.
+Street, Del Boca Vista|JACK|This thing is a, is a behemoth.
+Street, Del Boca Vista|JERRY|What did you do?
+Street, Del Boca Vista|JACK|I was, I was making a, a simple lane change. I, I put on the blinker and it took off on me. And the next thing you know, I was submerged. I'm telling you, Jerry, I'm very lucky that those crocs didn't get me.
+Street, Del Boca Vista|action|Jerry opens the door of the Cadillac and a torrent of muddy water containing a couple of catfish spills out over his feet.
+Street, Del Boca Vista|JERRY|(exasperation) You are such an idiot. Well, we gotta get the car cleaned up for my parents.
+Street, Del Boca Vista|JACK|(shrugging) Do whatever you want. It's your car.
+Street, Del Boca Vista|JERRY|My car? You drove it into the swamp!
+Street, Del Boca Vista|JACK|It drove itself into the swamp! Besides, I think I lost my pen, too.
+Street, Del Boca Vista|JERRY|(smiling with pleasure) You know, that almost makes this all worthwhile.
+The Costanza Home, Queens|action|Frank and Estelle sit in the living room as George walks in from the front door.
+The Costanza Home, Queens|GEORGE|(pointing outside) Why is there a Cadillac parked in front of the house?
+The Costanza Home, Queens|FRANK|That's your mother's new car.
+The Costanza Home, Queens|GEORGE|You bought that?
+The Costanza Home, Queens|FRANK|It's a Coupe de Elegance.
+The Costanza Home, Queens|ESTELLE|Your father wanted a Mercedes, but I won't ride in a German car.
+The Costanza Home, Queens|action|George looks like he's going to say something, but then the door to the kitchen opens and Kramer walks in, wearing a dressing gown and pyjamas and carrying a mug of coffee. He slaps George on the back.
+The Costanza Home, Queens|KRAMER|Mornin'.
+The Costanza Home, Queens|action|Kramer walks round the stunned George, and sits on the couch.
+The Costanza Home, Queens|KRAMER|Oh, boy.
+The Costanza Home, Queens|GEORGE|What the hell is going on here?
+The Costanza Home, Queens|KRAMER|I had some trouble at my place, so I need a little company at night to sleep.
+The Costanza Home, Queens|ESTELLE|George, your mother and I, and Kramer (holds Kramer's hand) have been talking.
+The Costanza Home, Queens|GEORGE|(dread) Oh god.
+The Costanza Home, Queens|KRAMER|Uh, George, your parents can't blow through their savings in this community. It's low-rent. Now, we feel that Florida is really the place where they should be.
+The Costanza Home, Queens|FRANK|(claps his hands) You can drop a grand in Disneyworld, like that.
+The Costanza Home, Queens|GEORGE|Wait a minute. (astonished) You're thinking of moving to Florida again?!
+The Costanza Home, Queens|ESTELLE|Well, it's either that or we stay here, near you, and just sit on the money. What do you think we should do, Georgie?
+The Costanza Home, Queens|action|George looks surprised, confused and thoughtful, all at the same time.
+Peterman's Office|action|Peterman sits behind his desk in the office which was, until recently, Elaine's. Employees sit around the desk, including Morty and Elaine, who sits depressed at the end of the desk.
+Peterman's Office|PETERMAN|So, anyway, effective immediately, Miss Benes will return to her old position, at her original salary...
+Peterman's Office|action|Elaine does a double take at this, and looks unhappy.
+Peterman's Office|PETERMAN|...and I, of course, will return to mine. Kudos, Elaine, on a job... done.
+Peterman's Office|ELAINE|(hardly daring to ask) What about my stock options?
+Peterman's Office|PETERMAN|I think not.
+Peterman's Office|action|Elaine puts a hand to her head and sighs.
+Peterman's Office|PETERMAN|Now, down to business. (thoughtful) I have had this vision of a diaphanous rum-runner scarf.
+Peterman's Office|action|The employees take notes.
+Peterman's Office|ELAINE|Well, we could fly some fabric in from our silk factories, for about a thousand dollars a bolt.
+Peterman's Office|MORTY|(shocked) A thousand?! I know a coupla Chinamen over there on Forty-third Street, who'll do it for half that.
+Peterman's Office|ELAINE|(tactful) It's, ah, Asian-Americans.
+Peterman's Office|MORTY|What?
+Peterman's Office|PETERMAN|(puzzled) Who are you?
+Peterman's Office|ELAINE|Don't worry, I...
+Peterman's Office|MORTY|Morty Seinfeld. I cut velvet for forty years with Harry Altman.
+Peterman's Office|ELAINE|Okay, Mr Seinfeld, this is not the t...
+Peterman's Office|PETERMAN|Elaine, did you hire this man?
+Peterman's Office|ELAINE|(worried) No, no. Well, I mean, you know, he's more like an intern, you know, at best.
+Monk's|action|George and Elaine sit in a booth.
+Monk's|ELAINE|So, if your parents move to Florida, you're poor.
+Monk's|GEORGE|(pointing out the positive) But happy.
+Monk's|ELAINE|Obviously. And if they stay, you're rich, but...
+Monk's|action|Elaine gestures with her hand.
+Monk's|GEORGE|Obviously.
+Monk's|ELAINE|Quite a dilemma. You know, I have a bit of a dilemma of my own.
+Monk's|GEORGE|No, no. No, no, no. (determined) We're staying on me. We haven't solved anything yet.
+Monk's|ELAINE|Alright, this is easy. Let 'em go.
+Monk's|GEORGE|What d'you mean, let 'em go? They're spending all my money.
+Monk's|ELAINE|Alright, well, then they stay. Lemma ask you something...
+Monk's|GEORGE|(upset) Could you put a little thought into this? Jerry's gone, you could humour me. He humours me.
+Monk's|ELAINE|Speaking of Jerry, his father is driving me so crazy down at Peterman's.
+Monk's|GEORGE|You know what I do at the Yankees, when one of these old guys is breathing down my neck?
+Monk's|ELAINE|What?
+Monk's|GEORGE|You schedule a late meeting.
+Monk's|ELAINE|(puzzlement) Huh? What does that do?
+Monk's|GEORGE|These old guys, they're up at 4 a.m., by two thirty they're wiped. (animated) How did we get back onto you?!
+Monk's|ELAINE|(grabbing her bag and coat) I gotta split.
+Monk's|action|Elaine gets up and leaves.
+Monk's|GEORGE|(shouted after Elaine) You know, I got nothing outta this!
+The Costanza Home, Queens|action|Kramer, wrapped in a quilt enters the Costanza's bedroom. Frank enters from the bathroom, drying his hands with a towel.
+The Costanza Home, Queens|KRAMER|Hey Frank, you got two beds in here.
+The Costanza Home, Queens|FRANK|That's right. That's me on the left.
+The Costanza Home, Queens|KRAMER|So, you sleep in separate beds.
+The Costanza Home, Queens|FRANK|Thirty years ago, we came to an agreement. It was the only way I could get some rest.
+The Costanza Home, Queens|KRAMER|(intrigued) Really?
+The Costanza Home, Queens|FRANK|(confidential) Estelle's got the (jerks his elbow) jimmy arms.
+The Costanza Home, Queens|KRAMER|You can get that in your arms?
+The Costanza Home, Queens|FRANK|Like you wouldn't believe.
+Klompus Home, Del Boca Vista|action|A grubby Jerry sits at the table, with Jack hovering over him.
+Klompus Home, Del Boca Vista|JACK|Jerry, it's getting late. You've cleaned up the car. You've made all your phone calls. Why are you still here?
+Klompus Home, Del Boca Vista|JERRY|Well, I uh, maxed out my credit cards, and I don't have enough cash for a hotel room. So...
+Klompus Home, Del Boca Vista|JACK|You are uh, thinking of staying here?
+Klompus Home, Del Boca Vista|JERRY|Well...
+Klompus Home, Del Boca Vista|JACK|(laughing) You've got some nerve. I almost break my neck in that death-trap of yours, and now you ask me for a favour!
+Klompus Home, Del Boca Vista|JERRY|You didn't like that crack about the pen.
+Klompus Home, Del Boca Vista|JACK|I did not.
+The Costanza Home, Queens|action|George and his parents sit at the kitchen table, while Kramer does some washing up in the sink.
+The Costanza Home, Queens|GEORGE|Well, I've given this a lot of thought, and I've gotta say...
+The Costanza Home, Queens|action|George is distracted momentarily by Kramer clattering dishes. He gives Kramer a look and continues.
+The Costanza Home, Queens|GEORGE|(attempting sincerity) As much as I'd like to see the two of you living it up in a warm, tropical, setting, I, I would just miss you too much. (smiling) So, I've decided, I want you to stay.
+The Costanza Home, Queens|FRANK|It's too late. We bought a condo at Del Boca Vista. We're leaving tonight.
+The Costanza Home, Queens|action|Estelle and Frank smile at each other.
+The Costanza Home, Queens|GEORGE|(crestfallen) But you said it was my call.
+The Costanza Home, Queens|ESTELLE|We were just being nice.
+The Costanza Home, Queens|action|George looks crushed.
+The Costanza Home, Queens|ESTELLE|(motherly concern) Cosmo, are you sure you're gonna be alright here alone?
+The Costanza Home, Queens|KRAMER|Oh, yeah, yeah. I got Emily coming over tonight.
+The Costanza Home, Queens|GEORGE|(animated) You're letting him have a woman over?!
+The Costanza Home, Queens|FRANK|He's not family. It's different, psychologically.
+The Costanza Home, Queens|action|Kramer is examining the label on a wine bottle, as George turns to look at him. He gives George a little smile.
+Peterman's Office|action|The employees, including Elaine and Morty, sit round Peterman's desk as he waxes lyrical about his adventures. Morty looks impatient, glancing at his watch as Peterman speaks.
+Peterman's Office|PETERMAN|And so, I made an explosive out of chick peas, and I stopped that great rhino right in his tracks.
+Peterman's Office|MORTY|Well, it's getting kinda late, why don't we uh...
+Peterman's Office|ELAINE|Mr Peterman, that can't have been the only time that you faced mortal danger.
+Peterman's Office|PETERMAN|(smiles and laughs) Ha ha ha. Funny you should ask, Elaine.
+Peterman's Office|MORTY|Look, if we're gonna stay here until all hours of the night, can we at least get some food here?
+Peterman's Office|PETERMAN|(looks at his watch) It's only five fifteen. So, later on that same day, I developed a great hankering for some wild honey...
+Peterman's Office|MORTY|(standing) Okay, I'm done. I'll be back in the morning, when he's close to finish with his story.
+Peterman's Office|action|Morty heads for the door. Peterman's voice brings him to a halt.
+Peterman's Office|PETERMAN|Morty. My stories are what sell these clothes.
+Peterman's Office|MORTY|Cheap fabric, and dim lighting. That's how you move merchandise.
+Peterman's Office|PETERMAN|(winks) Morty, you're out.
+Peterman's Office|MORTY|(unconcerned) Ach, I never knew what the hell I was peddling with those stupid cartoons and that paper book, anyway.
+Peterman's Office|action|Morty walks out, leaving a not entirely unhappy Elaine behind.
+Animation|action|An arrow is drawn on the East Coast map, this time from Queens to Del Boca Vista.
+Street, Del Boca Vista|action|Frank walks along the sidewalk, past a familiar looking Cadillac. Something catches his eye, and he looks into the car. A figure is asleep on the back seat with his face covered. Frank 'gives a what is the world coming to' look and throws up his hands as he walks away.
+Street, Del Boca Vista|action|After he leaves, the figure shifts in his sleep, turning over. It's Jerry, sleeping in his parent's Cadillac.
+The Costanza Home, Queens|action|Kramer stands in the doorway of the bathroom, while Emily sits on Estelle's bed, reading a paperback.
+The Costanza Home, Queens|KRAMER|I don't know why I let you talk me into that corned beef at Snitzer's.
+The Costanza Home, Queens|EMILY|(not looking up from her book) No-one held a gun to your head.
+The Costanza Home, Queens|KRAMER|(dismissive) Yeah.
+The Costanza Home, Queens|EMILY|(still reading) Don't forget, we're eating dinner at the Feinerman's tomorrow night.
+The Costanza Home, Queens|KRAMER|(moody) Oh, why do I have to go? They're your friends.
+The Costanza Home, Queens|EMILY|You like 'em.
+The Costanza Home, Queens|KRAMER|I've had it with 'em.
+The Costanza Home, Queens|action|Kramer disappears into the bathroom.
+The Costanza Home, Queens|EMILY|Then we won't go.
+The Costanza Home, Queens|action|Kramer reemerges with a glass of water.
+The Costanza Home, Queens|KRAMER|(yielding) Okay, okay. What time?
+The Costanza Home, Queens|EMILY|Eight thirty.
+The Costanza Home, Queens|action|Kramer downs the glass of water in one go, and then belches.
+The Costanza Home, Queens|KRAMER|(satisfied) Ahh. That was alright.
+The Costanza Home, Queens|action|Emily smiles at him, then returns to her book.
+Monk's|action|Jerry, George and Elaine sit in a booth. Jerry drinking coffee, George eating and Elaine reading from the pages of a newspaper.
+Monk's|ELAINE|'One bright note in today's market, was the stock of retailer J Peterman, whose founder's surprise return generated a rise of twelve and a half points.'
+Monk's|action|Elaine folds the paper and drops it on the table.
+Monk's|JERRY|Mmm-mmm-mmm. That means, if you still had those stock options...
+Monk's|ELAINE|(downcast) Yeah.
+Monk's|GEORGE|(Jerry-style) That's a shame.
+Monk's|ELAINE|(sharp) What, are you sticking it to me?
+Monk's|GEORGE|(innocent) What?
+Monk's|ELAINE|I think you're sticking it to me.
+Monk's|JERRY|Elaine, I'm sure George is just being sympathetic.
+Monk's|ELAINE|(leaning forward and accusing) Stickin' it!
+Monk's|action|George doesn't meet Elaine's stare.
+Monk's|JERRY|You're not alone. I'm practically broke.
+Monk's|ELAINE|Really?
+Monk's|JERRY|No. But, I did blow over twenty thousand on that Cadillac.
+Monk's|action|George takes another forkful of what's on his plate.
+Monk's|GEORGE|(relishing) Hmm-hmm-hmm-hmm. Delicious.
+Monk's|JERRY|Well, you seem happy.
+Monk's|GEORGE|I am. The folks are twelve hundred miles away. (gleeful) I'm basking in the buffer zone. (looks for the waitress) 'Nother piece of pie here!
+Monk's|ELAINE|So, were your parents shocked to see the Cadillac?
+Monk's|JERRY|Actually, I haven't heard from 'em yet.
+Monk's|ELAINE|Hmm.
+Florida|action|Morty and Helen sit on a couch, reading magazines.
+Florida|MORTY|When are we gonna tell Jerry?
+Florida|HELEN|I don't wanna worry him. We'll tell him next time we go up.
+Florida|MORTY|He thought he could buy back that Cadillac for us? He's not getting away with that.
+Florida|action|It's revealed that the Seinfelds are in a trailer parked behind the Cadillac.
+Florida|HELEN|Besides, that condo was too much house.
+The Costanza Home, Del Boca Vista|action|Estelle is sitting on the couch in the condo, while Frank peers out of the window.
+The Costanza Home, Del Boca Vista|ESTELLE|How many times can you check the car?
+The Costanza Home, Del Boca Vista|FRANK|(coming away from the window) I saw a bum sleeping in a Cadillac the other day.
+The Costanza Home, Del Boca Vista|action|Frank sits in a chair.
+The Costanza Home, Del Boca Vista|ESTELLE|Why would someone break into a car to take a nap?
+The Costanza Home, Del Boca Vista|FRANK|They don't nap. They make it their home. They urinate in there!
+The Costanza Home, Del Boca Vista|ESTELLE|(shouts) You're driving me crazy!
+The Costanza Home, Del Boca Vista|FRANK|(standing) That's it, we're going back to Queens. (claps hands) Where's my hat?
+The Costanza Home, Del Boca Vista|action|Frank walks out of the room.
+The Costanza Home, Del Boca Vista|ESTELLE|(shouts) Nooh!

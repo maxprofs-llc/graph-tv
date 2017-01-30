@@ -1,0 +1,397 @@
+Jerry is in his apartment, Kramer enters.|KRAMER|Hey. I got some bad news for you, buddy. I think your car got stolen again.
+Jerry is in his apartment, Kramer enters.|JERRY|What are you talking about?
+Jerry is in his apartment, Kramer enters.|KRAMER|Well you parked it on eighty-fourth and Columbus, right?
+Jerry is in his apartment, Kramer enters.|JERRY|Yeah.
+Jerry is in his apartment, Kramer enters.|KRAMER|Yep, well I just walked by there and that car is gone.
+Jerry is in his apartment, Kramer enters.|JERRY|Oh yeah, I know.
+Jerry is in his apartment, Kramer enters.|KRAMER|Well, where is it?
+Jerry is in his apartment, Kramer enters.|JERRY|What's the difference?
+Jerry is in his apartment, Kramer enters.|KRAMER|Well, there's no difference, you know, I'm just curious.
+Jerry is in his apartment, Kramer enters.|JERRY|You always have to know everything that's going on, don't you?
+Jerry is in his apartment, Kramer enters.|KRAMER|What happened to the car?
+Jerry is in his apartment, Kramer enters.|JERRY|If I don't tell you it will kill you, won't it?
+Jerry is in his apartment, Kramer enters.|KRAMER|Yeah, yeah, it'll kill me.
+Jerry is in his apartment, Kramer enters.|JERRY|You have to know, you must know.
+Jerry is in his apartment, Kramer enters.|KRAMER|I must know.
+Jerry is in his apartment, Kramer enters.|JERRY|Well, I'm not telling you.
+Jerry is in his apartment, Kramer enters.|KRAMER|Oh, come on.
+Jerry is in his apartment, Kramer enters.|JERRY|Nope. I don't think so.
+Jerry is in his apartment, Kramer enters.|KRAMER|Well, please?
+Jerry is in his apartment, Kramer enters.|JERRY|Not today, pal.
+Jerry is in his apartment, Kramer enters.|KRAMER|Okay, I beg you.
+Jerry is in his apartment, Kramer enters.|JERRY|Now see? Just saying beg doesn't make it a real beg. You gotta put some beg into it.
+Jerry is in his apartment, Kramer enters.|KRAMER|Okay, please! Please tell me!
+Jerry is in his apartment, Kramer enters.|JERRY|Alright, I'll tell you, but your begging needs a lot of work.
+Jerry is in his apartment, Kramer enters.|KRAMER|Okay, okay, what is it? Come on.
+Jerry is in his apartment, Kramer enters.|JERRY|I loaned the car to George.
+Jerry is in his apartment, Kramer enters.|KRAMER|Ah, George, alright. Well, what for?
+Jerry is in his apartment, Kramer enters.|JERRY|George and Elaine went to a flea market in Westchester, okay?!
+Jerry is in his apartment, Kramer enters.|KRAMER|Alright.
+Jerry is in his apartment, Kramer enters.|JERRY|Huh?
+Jerry is in his apartment, Kramer enters.|KRAMER|Huh. I mean, what do they want to go there for?
+Jerry is in his apartment, Kramer enters.|JERRY|Will you stop it already?!
+Jerry is in his apartment, Kramer enters.|KRAMER|You know, why didn't they ask me to go?
+Jerry is in his apartment, Kramer enters.|JERRY|I don't know! How am I supposed to know?!
+Jerry is in his apartment, Kramer enters.|KRAMER|What, they don't like me?
+Jerry is in his apartment, Kramer enters.|JERRY|*I* don't like you!
+Jerry is in his apartment, Kramer enters.|KRAMER|If they like me, why don't they ask me to go? Oh yeah.
+George and Elaine are in Jerry's car. George is wearing a new hat.|GEORGE|I really think it looks good.
+George and Elaine are in Jerry's car. George is wearing a new hat.|ELAINE|Ten bucks, how can you go wrong?
+George and Elaine are in Jerry's car. George is wearing a new hat.|GEORGE|All bald people look good in hats.
+George and Elaine are in Jerry's car. George is wearing a new hat.|ELAINE|You should have lived in the twenties and thirties, you know men wore hats all the time then.
+George and Elaine are in Jerry's car. George is wearing a new hat.|GEORGE|What a bald paradise that must have been. Nobody knew.
+George and Elaine are in Jerry's car. George is wearing a new hat.|ELAINE|Well, you can wear a hat all the time now. Who's stopping you?
+George and Elaine are in Jerry's car. George is wearing a new hat.|GEORGE|No, I can't. What if I meet a woman? I'd always be worried about that first moment where I'd take it off and see that look of disappointment on her face.
+George and Elaine are in Jerry's car. George is wearing a new hat.|ELAINE|Are you sure you like these sunglasses?
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Well I'm very disappointed in George and Elaine. And you know I'm somebody you don't want to have on your bad side.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Why not?
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Because I'm like ice, buddy. When I don't like you, you've got problems. (notices some snacks on the table) Oh, is this for the fight?
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Yep. (checks watch) Starts in thirty-five minutes.
+Cut back to Kramer and Jerry at Jerry's apartment.|action|Kramer and Jerry start 'sparring'.
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Oh hey, you know I invited Mike Moffit. You don't mind, do you?
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|No, I like Mike.
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Yeah, I just got off the phone with him, you know we had a great conversation.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Oh yeah? What did you talk about?
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Well actually we talked about you. Yeah. He had some pretty interesting things to say.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Oh yeah? What did he say?
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|You have to know everything, don't you?
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|No, come on, Kramer. What did he say?
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Why is that? Why do you have to know everything?
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Kramer, just tell me what the guy said.
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Beg me.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Please, don't make me beg.
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|No no no, I want you to beg me. And I don't want you to say it, I just want you to put some beg into it. Go on.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Kramer, please tell me what the guy said.
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|No no no, that's no good. No, I really don't think that's a beg. No, it's close, but uh...
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Kramer!
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Look, I can't say anything. You know, the guy told me the stuff in confidence, I'd be betraying a friend.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Well you can't just mention it and then not tell me.
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|Alright. I'll tell you but you can't say anything to him.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|I'm not saying anything, I'm putting it in the vault, I'm locking the vault, it's a vault!
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|He thinks you're a phony.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|He what?
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|I told you, he thinks you're a phony.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|A phony? He called me a phony?
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|A big phone. A big one.
+Cut back to Kramer and Jerry at Jerry's apartment.|JERRY|Why did you tell me that if I can't say anything?!
+Cut back to Kramer and Jerry at Jerry's apartment.|KRAMER|You begged me.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Do you hear that?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Of course I hear that.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|You had to move the mirror?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|I wanted to check out my sunglasses.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|I went to look in the mirror, it wasn't there. You threw off my equilibrium.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Oh yeah, blame it on me because you can't drive, George.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|I can't drive?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Yeah.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Nobody drives like me. Nobody. I'm doing things in this car, you have no idea they're going on. Wanna see me make a right turn from the left lane? Watch this.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|No, I really don't.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|And I can make a left turn from the right lane too.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|I'm sure you could.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|What are we gonna tell Jerry about the car?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|I don't know.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Alright, start looking for spaces.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Oh, you're never gonna find a space on Jerry's block, just put it in a garage.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Look, I have my system. First I look for the dream spot right in front of the door, then I slowly expand out in concentric circles.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Oh come on, George, please put it in a garage. I don't want to spend an hour looking for a space.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|I can't park in a garage.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Why?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|I don't know, I just can't. Nobody in my family can pay for parking, it's a sickness. My father never paid for parking; my mother, my brother, nobody. We can't do it.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|I'll pay for it.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|You don't understand. A garage. I can't even pull in there. It's like going to a prostitute. Why should I pay, when if I apply myself, maybe I could get it for free? (he hears a horn honking) What? What do you want? Go around me, I'm looking for spaces.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|(pointing backwards) Oh George, there's a space right there!
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|(putting the car in reverse) Oh beautiful! Look at that, the dream space right in front of Jerry's building. Huh? Dreams can come true, what did I tell you?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|You didn't even have to take it out to dinner.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|action|They share a laugh.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Alright, now you're gonna see some parallel parking. (spitting into his hands and rubbing them together) How I wish you could make a living parallel parking. (turning around in his seat) It's all geometry, knowing all the angles, when to make that first turn and then when to swing it back in, that's the key.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Will you just park it already?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|There's nothing I can even impart to you, that's the sad thing. It's so inborn, I can't pass it on. (begins backing into the space) Look at this guy. Are you crazy, what are you doing?! Hey! Hey, you're stealing my space!
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|George, wait, you don't know who this guy is, people kill for a parking space in this city.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|No no no, he's not getting away with this.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|George?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|action|George gets out of the car to confront the other driver.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Hey, what are you doing?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|MIKE|I think I'm parking my car.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|You can't do that, you can't just sneak in from the back like that.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|MIKE|I'm not sneaking. I didn't even know you were parking, you were just sitting there three spaces up.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Well if you didn't think I was parking, why did you put it in head first?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|MIKE|Well that's the way I park. Anyway, you didn't start backing in until I pulled in.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|I was in the middle of a conversation.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|MIKE|Hey, buddy, what can I tell you?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|The point is I was here first.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|MIKE|I was closer to this space than you were.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|But I'm backing in! You can't put it in head first!
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|MIKE|I can if I have room!
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Are you gonna move the car?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|MIKE|No, I'm not gonna move the car.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Jerk!
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|MIKE|Oh, you're not?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Do you believe this guy?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Come on, we'll put it in a garage.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|I am not putting it in a garage, it's my space.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|What are you gonna do, you just gonna leave it here like this? Uh. I'm going upstairs.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Are you coming back down?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Yeah, I gotta tell Jerry we're here. I gotta go to the bathroom.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Alright, just make sure he reserves the good chair for me. Wait, what are you gonna tell him about the clanking noise in the car?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|Me? No no no, you. You're gonna tell him. I'm not gonna tell- Noo.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|Oh, come on, you're good at this.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|ELAINE|What am I gonna say?
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|GEORGE|I don't know, I don't know, you'll think of something.
+Cut back to Elaine and George in Jerry's car, the car is now making a clanking noise.|action|Elaine heads upstairs. Mike honks his horn, George honks his in retaliation.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Oh god, I need a drink, do you got any Hennigan's here?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Yeah, under the counter. What happened?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Oh god. Oh, Jerry it was so terrible what we just went through on the way home. (pouring a big shot of scotch) You wouldn't believe it. (pushing a bag of chips off the counter)
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|(bending down to pick up the chips) Tell me what happened.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|(after pouring the shot in the sink while Jerry was distracted and pretending to have downed it) Okay. Now listen. We were at the toll booth at the Henry Hudson Parkway, okay?! And there were these, like, this pack of extremely wild teenagers in a convertible behind us, okay?! And for some reason, I don't know, they just started to taunt us! And so then we payed the toll, and then we went through, and then they started to follow us, alright?! So George tries to lose them, and, and, but they were in this really like a souped up car, you know?! And so he turned off the road really suddenly and the car was on two wheels and I was just screaming! And then, George is such a great driver.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|He is?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Oh, he is fantastic! And then they fired a gun right up in the air.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|A gun?!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|I think it was a gun. And then they followed us all the way into the city, and then they just stopped and they turned around and they went home.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|My god, are you okay?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Yeah, yeah, I'm alright. Oh, by the way, the car hit a pothole and now it's making a clanking noise.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Well, I mean, as long as you're okay, that, that's the important thing.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Exactly.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Where's George now?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Oh, he's out in front of the building. He's arguing with some guy about a parking space.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|What are you talking about?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Look out the window, you'll see.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|(leaning out the window) Hey Georgie!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Hey!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Are you okay?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Yeah, I'm fine.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Crazy kids, huh?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|What?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|(desperate to distract Jerry) Ow!! (Jerry looks over) It's my cuticle.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Is that Jerry? Jerry?!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Oh, hey Mike.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|What, you know Jerry?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Yeah, I know Jerry.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|How do you know him?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|What's the difference?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Because I know him too, and probably a lot better than you.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Well, bully for you. Hey, Jerry! You know your friend here's a real piece of work!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|I'm coming down.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Hey, will you tell Kramer I'm outside?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|What, you know Kramer?!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|Kramer walks into Jerry's apartment.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Hi.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|(acting standoffish) Hello.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Hey, your friend Mike's outside, he wants to talk to you.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|(out the window) Hey, Mike! Come on up, the fight's almost starting!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|And you're watching the fight at Jerry's?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Yeah.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Oh great.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|You know that guy downstairs?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Yeah, he's a real phony.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|What's going on?!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Hey, will you come on down? This guy's in my space!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|It's my space!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|I'll be down in a minute.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Are you going down?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|Yeah.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Is anything wrong?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|(leaving) Why should anything be wrong?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|(heading for the bathroom) Be down in a minute.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|Jerry grabs his jacket and walks out the door.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Hey pal, you're not getting that space. I mean, I'll sleep in my car if I have to.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|I'll die out here.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|Two bystanders are discussing the incident. 
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Hey! Jerry! Long time no see!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Hi Mike. (Noticing George's fedora) Indiana.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Hey Krame! You know this guy?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|Yeah, yeah, I know him.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|(to Jerry) You're looking tremendous. What are you on some kind of regimen?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Yeah, twenty-five percent bran flakes. The forty percent was too much so I found a store to mix it up special for me, they take it down another fifteen percent.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|(laughing way too loud and hard) Ha ha ha ha!!! That's killer! Killer! I love that! Ha ha ha!!! You gotta use that, that's a definite!! Ha ha ha!!!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Oh, come on.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Hey! Your friend here has some real problems.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Me? You see what he did here, you see how he tried to sneak into my space?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Hey, just 'cause I went in front first doesn't mean I'm sneaking in.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|You only went in front first 'cause you saw me backing up and you didn't have room to parallel park!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|I only went in front first 'cause I could make it in front first and if you pull out I'll show you!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|You've got a prayer.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|I go in front first all the time.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Front first, that's how you park when you're pulling a bank job.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|Elaine shows up and pulls George aside.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Did you talk to him?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Yeah, it's all taken care of.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|You told him? What did you tell him?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|I did a number on him, it was a thing of beauty, you really had to have been there to appreciate it.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|I don't believe it, what did you say?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|I told him a pack of teenagers in a convertible were terrorizing us and they followed us into the city.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|A pack of teenagers?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Yeah, by the time I got to the end of the story, he was to relieved that we were alive he couldn't care less about the car.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|You are a genius, it's as simple as that.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|What can I say, you know? It's a gift. I only wish I could teach it but, you know it's inborn.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|Elaine and George rejoin the others.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|By the way, thanks a lot for inviting me to the flea market.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|What?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|Yeah, Jerry, he told me all about it.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Oh great.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|I didn't know.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Oh, so that's why you were acting so funny.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Well I didn't know you wanted to go to the flea market.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|A flea market? You went to a flea market??
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Hey, who's talking to you?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|We just didn't think of you.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|You said it, sister.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|What? Every time I leave my house now I have to call everybody I know and ask them if they want to do what I'm doing?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|People forget. Look at "Home Alone". They forgot.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Great move, telling him, by the way, real smart move.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|I didn't know I wasn't supposed to say anything!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Judgement, Jerry, judgement! You exercised no judgement.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|You're right. My fault.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Kramer? I'm so sorry, really.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Yeah, I'm sorry.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|I'm sorry, I don't care for that sorry.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|What was wrong with that sorry? It was a good sorry. Jerry, was that a good sorry?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|It was a so-so sorry.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|A delivery truck pulls up and honks. The driver leans out of the cab.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|You heard the man. I guess you gotta be moving your car.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|And like you're not gonna just back it in if I do that?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|You see, they had to move the cars so the truck could get through, right? But these guys don't trust each other so they got these two nonpartisan drivers to move them.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Wild pack of teenagers, huh?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Yeah.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Amazing how they picked you, out of everyone, to terrorize.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Yeah. I know, I said to myself, 'Why us?' You remember?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Uh huh.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Sounds like you did some pretty nifty maneuvering,
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Well, you know, It's interesting, you know, under that pressure, what you're capable of.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Right.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|I learned a lot about myself.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|What did you do to my car?!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|I couldn't help it! Elaine moved the mirror, I got discombobulated.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Oh, like you've ever been bobulated.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|I thought you said you were a good driver!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|No no, I never said I was a good driver, I said I was a good parker.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|I think you said driver.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Parker, I never said driver, I said parker, a great parker.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Will you move it up a little bit?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|No no no, that's in the right position.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|No no, I was further in.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|No you weren't. Stop there, that's fine.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Do you mind?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Do you?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|SID|Hey, somebody better move these cars, you're making a commotion.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Hey Sid.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Who are you?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|SID|Never mind who I am. I know who I am. Do you know who you are? (to George) Why is it every time you park a car in this block, everything gets disrupted and disjointed?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Sid, it's completely his fault.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Oh, right.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|SID|Why don't you start taking the bus?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Okay, George. Come on, let's go. I'm putting it in a garage. The fight's starting in two minutes.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Don't do it!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|What are we gonna do, stay out here all night?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Yes! I'm not giving him the satisfaction, it's my space.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Why don't you just flip a coin already?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|No no, this is a matter of principle. That would just be saying that anybody could just pull into any parking space any way they want. Well I'm making a stand here. I'm saying *no* to head first parking. I'm not putting up with that. We put up with too much crap in this city, we're not putting up with head first parking.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|You know, maybe if you hadn't been sitting there pontificating about what a great parker you were, you might have got the space.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|So you're against me now?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|An old man and Matthew, the boy who's father owns the 'fat free' frozen yogurt store, are discussing the incident.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|No he couldn't, because the other car was already backing in.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|All that matters is who was there first.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|You just spit on me!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|You're not my father.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Hey Matthew.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|Hi Jerry. This guy's really a jerk.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|How ya doing?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|Okay.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Hey, how's your father? I hear he's closing his store.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|What?!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Oh no, nothing.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|What's happened to daddy? He's going out of business?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|No, no, no, no.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|We're not going to have any money? We're out of money?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|No, of course not, of course not!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|Mommy!? Jerry says daddy's closing the store. He's going out of business. We don't have any money?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MARYEDITH|Jerry?! What's the matter with you?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|I didn't--
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MARYEDITH|(to Kramer) Boy, I don't know about your friend, Jerry. He says some pretty stupid things sometimes.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|Oh, congratulations.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MARYEDITH|What for?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|Well, you're pregnant.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MARYEDITH|What?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|You're not pregnant?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MARYEDITH|No, I'm not pregnant.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|Are you sure you're not pregnant?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MARYEDITH|Yes, I'm sure!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|That's weird.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MARYEDITH|Come on, Matthew.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MATTHEW|No.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MARYEDITH|Come on, Matthew!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|I thought she was pregnant.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|(to Elaine) Hey, do you think I'm phony?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|What?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Mike thinks I'm a phony.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|He thinks you're a phony?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Yeah, but I can't say anything because Kramer wasn't supposed to tell me.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Oh, you have to say something.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|I can't, I told Kramer I was vaulting it.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|You gotta open the vault.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Open my vault?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Open your vault.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Once I open the vault, it ceases to be a vault.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|You have no choice.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Oy ga-vault.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|George begins applauding.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|When can you park head first?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Never.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|What are you asking this guy for?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Who's talking to you?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|He's right. never.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Oh yeah? What if you got ten car lengths? You have to pull all the way up to the front car?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Well, I suppose if you got ten car lengths.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|When do you ever have ten car lengths?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|What about Sundays and holidays?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Oh please.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|A passerby (Sheila) stops and asks George
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|SHEILA|What's going on here?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Oh, this guy tried to sneak into my space.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|SHEILA|I really hate people who do that. I hope you don't let him get away with it.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Well, thank you for your support.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|SHEILA|Hey, that's a great hat.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Really? You like it? I got it at a flea market today.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Hey George, nice hat.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Yeah, thanks.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Can I try it on?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|No! It, uh, it wouldn't fit you.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Well sure it would.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|No! Get out of here, Newman.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Come on, let me try it on.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|No, Newman, stop it.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|SHEILA|Let him try it on.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|I don't want him to!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|SHEILA|What is wrong with you?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|You wanna see?! (pulling off the hat to reveal the bald pate) There! There it is! (turning to Newman) Alright, here! You wanna try on the hat?! Here! Try on the hat!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Stop it, George, stop it. I was defending your parking.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Alright, just keep the hat!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Alright, that's it. The fight's already started. I'm going upstairs, who's coming? Elaine?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|It depends on who's going. (to George) Are you going?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|I'm not going if he's going.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|Me either.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|I'm not going if he's going.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Well I'm going.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Well if he's going then I'm not going.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|NEWMAN|But it's your house.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|I still don't have to go.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|ELAINE|Well I don't want to go if Jerry's not going.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Why won't you go if I go?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Why? I'll tell you why.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|No. Don't, Jerry.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Like you didn't call me a phony?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|What? (to Kramer) Thanks! Real good! Jerry! First of all, I think you completely misunderstood what I said. I meant it in a complementary way. I mean, you know when people say, 'He's bad', it really means he's good, sort of thing? You know, slang.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Use it in a sentence.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Man, that Michael Jordan is so phony. (to Kramer) Why'd you tell him?!?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|KRAMER|He begged me.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|He begged you?!
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|JERRY|Alright, come on. Who wants to watch the fight?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|action|Two police officers walk up.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Officer, could I just explain something to you?
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|GEORGE|Officer, he can't pull in head first.
+Cut to Jerry's apartment. Jerry is moving chairs, Elaine bursts in.|MIKE|Officer, he backed up from down the street. He was double-parked, he was
+Cut to Jerry entering his apartment, George and Mike can be heard arguing through the window|GEORGE|Well, you're gonna have to go to the bathroom!
+Cut to Jerry entering his apartment, George and Mike can be heard arguing through the window|MIKE|Well, you're gonna have to go to work!
+Cut to Jerry entering his apartment, George and Mike can be heard arguing through the window|GEORGE|I don't have a job!
+Cut to Jerry entering his apartment, George and Mike can be heard arguing through the window|MIKE|Neither do I!
+Cut to Jerry entering his apartment, George and Mike can be heard arguing through the window|action|Jerry closes the window, sits down on the couch, picks up the remote and turns on the TV.
+Cut to Jerry entering his apartment, George and Mike can be heard arguing through the window|REFEREE|Seven... Eight... Nine... Ten. *ding*
+Cut to Jerry entering his apartment, George and Mike can be heard arguing through the window|action|Jerry falls over and hides his face in the couch cushion.

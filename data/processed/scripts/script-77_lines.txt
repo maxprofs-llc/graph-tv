@@ -1,0 +1,386 @@
+Jerry's Apartment|action|Elaine is touching up her make-up at the table
+Jerry's Apartment|ELAINE|Hey, do you believe I got Happy New Yeared today? It's February.
+Jerry's Apartment|JERRY|I once got Happy New Yeared in March.
+Jerry's Apartment|ELAINE|It's disgusting.
+Jerry's Apartment|JERRY|It's pathetic. . . . hey, is it cold out?
+Jerry's Apartment|ELAINE|Really cold.
+Jerry's Apartment|JERRY|Scary cold.
+Jerry's Apartment|ELAINE|I don't know. What's your definition of scary cold?
+Jerry's Apartment|action|George enters in Gore-Tex jacket -- it’s huge/all puffed out
+Jerry's Apartment|JERRY|That. (pointing at George)
+Jerry's Apartment|ELAINE|(Laughing as she says it) What is that, ha?
+Jerry's Apartment|GEORGE|What?
+Jerry's Apartment|JERRY|When did you get that?
+Jerry's Apartment|GEORGE|This week. My father got a deal from a friend of his. It's Gore-Tex. You know about Gore-Tex?
+Jerry's Apartment|JERRY|You like saying Gore-Tex, don't you?
+Jerry's Apartment|action|George turns and closes the apartment door
+Jerry's Apartment|ELAINE|Hey, you can't even turn around in that thing.
+Jerry's Apartment|JERRY|Look at this
+Jerry's Apartment|action|They both start hitting George’s jacket a lot
+Jerry's Apartment|ELAINE|Hey George, can you feel this? Can you ...
+Jerry's Apartment|action|George stands there, looking at them as they continue hitting his jacket
+Jerry's Apartment|GEORGE|All right, all right. KNOCK IT OFF. Come on, let's go.
+Jerry's Apartment|ELAINE|Oh listen we should stop off on the way and get a bottle of wine or something.
+Jerry's Apartment|JERRY|Yeah. (pointing at Elaine as he goes into the bedroom)
+Jerry's Apartment|GEORGE|What for?
+Jerry's Apartment|ELAINE|These people invited us for dinner. We have to bring something.
+Jerry's Apartment|GEORGE|Why?
+Jerry's Apartment|ELAINE|Because it's rude, otherwise.
+Jerry's Apartment|GEORGE|You mean just going there because I'm invited, that's rude?
+Jerry's Apartment|ELAINE|Yes.
+Jerry's Apartment|GEORGE|So you're telling me instead of them being happy to see me, they're going to be upset because I didn't bring anything. Ttst --You see what I'm saying?
+Jerry's Apartment|JERRY|The fabric of society is very complex George.
+Jerry's Apartment|GEORGE|I don't even drink wine. I drink Pepsi.
+Jerry's Apartment|ELAINE|Ya can't bring Pepsi. (Elaine starts putting on her coat and gloves)
+Jerry's Apartment|GEORGE|Why not?
+Jerry's Apartment|ELAINE|Because we're adults?
+Jerry's Apartment|GEORGE|You telling me that wine is better than Pepsi? Huh (snort), no way wine is better than Pepsi.
+Jerry's Apartment|JERRY|I tell you George, I don't think we want to walk in there and put a big plastic jug of Pepsi in the middle of the table.
+Jerry's Apartment|GEORGE|I just don't like the idea that any time there’s a dinner invitation there's this annoying little chore that goes along with it.
+Jerry's Apartment|JERRY|You know, you're getting to be an annoying little chore yourself.
+Jerry's Apartment|action|Kramer enters
+Jerry's Apartment|KRAMER|All right, let's go. Who's driving? (claps his hands and rubs them together)
+Jerry's Apartment|JERRY|You are. I can't get that thing in my car. (referring to George)
+Jerry's Apartment|KRAMER|Uh huh.
+In Kramer's car|JERRY|Where's the heat in this car? Come on Elaine warm me up, oh! I'm cold. Just give me a little squeeze.
+In Kramer's car|ELAINE|Jerry get off of me. Get off of ME! Get off, Get off of Me!
+In Kramer's car|GEORGE|Hehehehehe (higher tone laugh, though still quietly )
+In Kramer's car|JERRY|You're pretty comfortable up there eh, Bubble boy?
+In Kramer's car|GEORGE|Oh, yeah. You wish you had this coat.
+In Kramer's car|ELAINE|You know, I was just thinking. The four of us can't show up with just one bottle of wine.
+In Kramer's car|GEORGE|Oh, here we go...
+In Kramer's car|ELAINE|What?
+In Kramer's car|GEORGE|Why don't we get them a couch? (Kramer laughs) We’ll rent a U-haul -- we’ll bring ‘em a nice sectional.
+In Kramer's car|KRAMER|(low tone)Yeahhehehehe
+In Kramer's car|ELAINE|We should bring some cake. Will you stop off at the bakery?
+In Kramer's car|KRAMER|(low tone) All right, yeah.
+In Kramer's car|GEORGE|Why don't you just get some Ring Dings from the liquor store?
+In Kramer's car|ELAINE|Ring Dings?
+In Kramer's car|GEORGE|Hey, Ring Dings are better than anything you're gonna get at a bakery.
+In Kramer's car|KRAMER|Ooooh I like Ring Dings.
+In Kramer's car|ELAINE|George, we can't show up at someone's house with Ring Dings and Pepsi.
+In Kramer's car|KRAMER|HEY YOUR LIGHTS ARE ON! (shouting out the window)
+In Kramer's car|GEORGE|(to Kramer) It's a funeral procession. . . . (to Elaine) And I got news for you. I show up with Ring Dings and Pepsi, I become the biggest hit of the party. People be coming up to me, "just between you and me I'm really excited about the Ring Dings and the Pepsi. What are we, Europeans with the Beaujolais and Chardonnay . . .
+In Kramer's car|ELAINE|Oh, Kramer, that’s the bakery. Stop here. Stop here.
+In Kramer's car|KRAMER|(low tone) All right.
+In Kramer's car|ELAINE|Okay, let me out. You, eh, whatever your name is…
+In Kramer's car|JERRY|Jerry.
+In Kramer's car|ELAINE|Yeah, Jerry, Jerry -- come with me.
+In Kramer's car|KRAMER|Okay, so we're going to get the wine and we'll pick you up here in ten minutes.
+In Kramer's car|ELAINE|Yeah.
+In Kramer's car|KRAMER|All right
+The Royal Bakery|ELAINE|Ummm, I love the smell of bakeries.
+The Royal Bakery|JERRY|Mmm. Oh look Elaine, the black and white cookie.
+The Royal Bakery|ELAINE|Mmm.
+The Royal Bakery|JERRY|I love the black and white. Two races of flavor living side by side in harmony. It's a wonderful thing isn't it?
+The Royal Bakery|ELAINE|You know I often wonder what you'll be like when you're senile.
+The Royal Bakery|JERRY|I'm looking forward to it.
+The Royal Bakery|ELAINE|Yeah. I think it will be a very smooth transition for you.
+The Royal Bakery|JERRY|Thank you. All right, look at all this stuff. What are we getting'?
+The Royal Bakery|ELAINE|CHOCOLATE BABKA! That's their specialty.
+The Royal Bakery|JERRY|Love that babka.
+The Royal Bakery|ELAINE|Yeah, yeah!
+The Royal Bakery|JERRY|So listen Elaine, when we get up to the door, you , you hold the cake box.
+The Royal Bakery|ELAINE|Why?
+The Royal Bakery|JERRY|I don't know, just standing there with a box, holding it by the little string.
+The Royal Bakery|action|holding an imaginary box by the string - pinky finger extended
+The Royal Bakery|ELAINE|You think it's effeminate?
+The Royal Bakery|JERRY|It's a tad dainty.
+The Royal Bakery|ELAINE|Oh, we forgot to pick a number.
+The Royal Bakery|JERRY|Oh, see that's not fair. We-We were here ahead of all these people.
+The Royal Bakery|ELAINE|I-cu-di-ge--You think I should go and ask her for hers?
+The Royal Bakery|JERRY|Ah, no, forget it.
+The Royal Bakery|ELAINE|No, no no no, no it's not fair. Just because they have a ticket doesn't mean they were here first. We were here, and we were ahead of them, and them, and her. Come on let's just go ask ‘em. Come on. . . . Excuse me.
+Kramer's car|KRAMER|(exhales) Well, I'm not finding a spot here. What do you want to do?
+Kramer's car|GEORGE|Ah, Just double park.
+Kramer's car|KRAMER|No, no.
+Kramer's car|GEORGE|Why not?
+Kramer's car|KRAMER|I'll get a ticket! Besides, what if somebody wants to get out of here?
+Kramer's car|GEORGE|Are you kidding? People get spaces this good, they never give ‘em up.
+Kramer's car|KRAMER|That's a fallacy.
+Kramer's car|GEORGE|All right, I'll tell you what... why don't you go into the store and I'll wait in the car?
+Kramer's car|KRAMER|Why don't YOU go into the store and I'LL wait in the car?
+Kramer's car|GEORGE|Because, I've got the coat. I can sit in the car and not get cold.
+Kramer's car|KRAMER|So what I'm going to leave the car running and the heat 'll be on.
+Kramer's car|GEORGE|Does the heater even work in this car?
+Kramer's car|KRAMER|No.
+Kramer's car|GEORGE|Oh, Hey, eh, there's a spot right in front of the liquor store. You see
+Kramer's car|KRAMER|I see.
+Kramer's car|GEORGE|You see, hu, ho ho.
+Royal Bakery|ELAINE|But we were here ahead of you.
+Royal Bakery|BARBARA|How do I know that?
+Royal Bakery|JERRY|Well we saw you come in.
+Royal Bakery|DAVID|Well, that's easy for you to say.
+Royal Bakery|ELAINE|Oh, yeah, right, that's something I do all the time, right. I make up stories to get ahead in lines at bakeries.
+Royal Bakery|CLERK|46?
+Royal Bakery|ELAINE|Wait, wait a second are, are you Barbara Benedict?
+Royal Bakery|BARBARA|Yes.
+Royal Bakery|ELAINE|Oh my god. I, I know you. I-I’m, I'm Elaine Benes. Do you remember we met at Linda van Grak's baby shower.
+Royal Bakery|BARBARA|I'm on my way over there right now.
+Royal Bakery|ELAINE|Yeah me too.
+Royal Bakery|DAVID|You're Jerry right?
+Royal Bakery|JERRY|David!
+Royal Bakery|action|Jerry and David put their hands to their respective chins, thinking about the situation
+Royal Bakery|ELAINE|Well, this is a little awkward, isn't it?
+Royal Bakery|BARBARA|Yes it is.
+Royal Bakery|ELAINE|You know we were here, ahead of you.
+Royal Bakery|BARBARA|You're NOT getting my number.
+Royal Bakery|JERRY|Oh so you still don't believe us.
+Royal Bakery|CLERK|47!
+Royal Bakery|BARBARA|That’s Us.
+Royal Bakery|ELAINE|Ohhh, OK, fine, fine, go ahead. But listen let me tell you something as soon as I get there I'm going to tell everyone what a jerk you are.
+Royal Bakery|BARBARA|Well, I'll be there ahead of you and I'LL be telling them what a jerk YOU are. . . . (turns to the counter) I'll have the chocolate babka.
+Royal Bakery|CLERK|You're lucky Mrs. Benedict it's our last one.
+Royal Bakery|action|Elaine and Jerry’s knees buckle and both have an anguished look when they hear about the last chocolate babka
+Liquor Store|GEORGE|Alright, what are we getting? It's hot in here!
+Liquor Store|action|Kramer looking around the store at the wines, he smacks his hands together and rubs
+Liquor Store|KRAMER|Ooo, What do you say we get a Mouton Cadet?
+Liquor Store|GEORGE|What's that?
+Liquor Store|KRAMER|Well its a Bordeaux. Robust, bold, very dry. As opposed to a Beaujolais -- which is richer and fruitier. Ahh, here's one. Twelve dollars.
+Liquor Store|GEORGE|Twelve dollars? I knew we should have gone to the bakery. I guarantee you they’re not getting no twelve dollar cake.
+Liquor Store|KRAMER|All right look, I am going to have to pay you back later. I don't have my wallet.
+Liquor Store|action|George swaggers over to Kramer
+Liquor Store|GEORGE|. . . Why not?
+Liquor Store|KRAMER|Because I don't like to carry my wallet. My Osteopath says that it's bad for my spine. It throws my hips off kilter. (makes a motion with his hips)
+Liquor Store|GEORGE|"throws your hips off kilter" So where's your money? (pulls out his wallet)
+Liquor Store|KRAMER|I never take it.
+Liquor Store|GEORGE|So what do you do?
+Liquor Store|KRAMER|Oh, I get by.
+Royal Bakery|BARBARA|See you later (exits with the babka)
+Royal Bakery|JERRY|That's the last babka. They got the last babka.
+Royal Bakery|ELAINE|I know. They're going in first with the last babka.
+Royal Bakery|JERRY|That was our babka.
+Royal Bakery|ELAINE|You can't beat a babka.
+Royal Bakery|JERRY|We had that babka.
+Royal Bakery|ELAINE|(exhales) They're going to be heroes.
+Royal Bakery|JERRY|Well what are we going to do now. If we can't get the babka the whole thing's useless.
+Royal Bakery|ELAINE|Well how about a carrot cake?
+Royal Bakery|JERRY|Carrot cake? Now w-why is that a cake? You don't make carrots into a cake. I'm sorry.
+Royal Bakery|ELAINE|Black Forrest?
+Royal Bakery|JERRY|Black Forrest? Too scary. You're in the Forrest, oohh.
+Royal Bakery|JERRY|How about a Napoleon?
+Royal Bakery|ELAINE|Napoleon? Who's he to have a cake? He was a ruthless war monger. Might as well get Mengele.
+Royal Bakery|JERRY|That was our babka. We had that babka!
+Royal Bakery|ELAINE|What's this one?
+Royal Bakery|CLERK|That, Cinnamon Babka.
+Royal Bakery|ELAINE|(gasp)
+Royal Bakery|JERRY|Another babka?
+Royal Bakery|CLERK|There's chocolate and there's cinnamon.
+Royal Bakery|JERRY|Well-well we got to get the cinnamon.
+Royal Bakery|ELAINE|No, but they got the chocolate. We'll be going in with lesser babka.
+Royal Bakery|JERRY|I beg your pardon? Cinnamon takes a back seat to no babka. People love cinnamon. It should be on tables in restaurants along with salt and pepper. Anytime anyone says, "Oh This is so good. What's in it?" The answer invariably comes back, Cinnamon. Cinnamon. Again and again. Lesser babka - I think not.
+Royal Bakery|CLERK|49?
+Royal Bakery|ELAINE|I'll have a cinnamon babka.
+Royal Bakery|JERRY|… and a black and white cookie, for me. Peace!
+Royal Bakery|action|Jerry puts up the 2 finger peace sign and smiles
+Liquor store|action|The clerk puts the wine bottle in a brown paper bag and sets it on the counter
+Liquor store|CLERK|That’ll be 13.05
+Liquor store|GEORGE|All right here you go.
+Liquor store|KRAMER|Yeuu.
+Liquor store|CLERK|A hundred? I can't change that.
+Liquor store|GEORGE|You can't - huhu, All right let's go.
+Liquor store|KRAMER|Wait a second. I can get change.
+Liquor store|action|Kramer and George walk out to the sidewalk.
+Out on the street|KRAMER|Hey, anybody got change for a hundred?
+Out on the street|GEORGE|Are you crazy?! What are you doing?! You'll get us killed!
+Out on the street|KRAMER|What?
+Out on the street|GEORGE|Don't go shouting we got a hundred dollar bill. People will be jumping out of windows on top of us.
+Out on the street|KRAMER|Alright, Let's go but something. Then we'll get some change.
+Out on the street|GEORGE|I am not buying something just to get change.
+Out on the street|KRAMER|George, there's a news stand right over there. Now come on.
+Out on the street|action|Kramer buttons his jacket up and goes over to the news stand, George stands there for a second then goes over.
+Out on the street|action|At the News stand
+Out on the street|GEORGE|All right, what are we doing?
+Out on the street|KRAMER|Just get some gum or something.
+Out on the street|action|George pick up the gum
+Out on the street|GEORGE|Pack of gum. Here you go. (hands the clerk a $100 bill)
+Out on the street|CLERK|What is it a hundred? I can't change a hundred.
+Out on the street|GEORGE|Why not?
+Out on the street|CLERK|You got to buy more than that.
+Out on the street|KRAMER|Here, get a newspaper. (Kramer hands George a Newspaper)
+Out on the street|GEORGE|Newspaper.
+Out on the street|CLERK|Not enough.
+Out on the street|KRAMER|Clark Bar. (Kramer starts tearing the candy wrapper open with his teeth.)
+Out on the street|GEORGE|Clark Bar.
+Out on the street|CLERK|Keep going.
+Out on the street|GEORGE|We’re up to two dollars here.
+Out on the street|KRAMER|Here, George, get a Penthouse Forum.
+Out on the street|GEORGE|I'm not getting a Penthouse Forum.
+Out on the street|action|George grabs the Forum and walks a few steps over by the magazines -- Kramer follows him 
+Out on the street|KRAMER|Why? No, that’ll make great dinner party conversation. We'll read the letters at the dinner table.
+Out on the street|GEORGE|Oh, that's nice.
+Out on the street|action|Kramer takes a bite of the Clark Bar
+Out on the street|KRAMER|Come on, did you ever read one of these?
+Out on the street|action|Kramer take the forum from George and starts to leaf through it
+Out on the street|GEORGE|It's not real. They're all made up.
+Out on the street|KRAMER|Ohh, it's real.
+Out on the street|GEORGE|Well you know there is an unusual number of people in this country having sex with AMPUTEES! (grabs the forum from Kramer and walks over to the clerk) . . . Penthouse forum, newspaper, gum, Clark Bar.
+Out on the street|action|Kramer takes the forum back and starts reading, he takes a bite of the Clark bar.
+Out on the street|CLERK|6.75.
+Out on the street|GEORGE|Ah, great. All right, with the wine I'm in over twenty dollars now.
+Out on the street|KRAMER|All right, all right.
+Out on the street|action|A man bumps ito George
+Out on the street|GEORGE|Yes, I’m Sorry, it's a new coat. It-it's Gore-Tex.
+Out on the street|KRAMER|You better be careful with that thing... You'll start a war.
+Royal Bakery|action|Jerry and Elaine are waiting in line, Jerry takes a bite of his cookie and then speaks
+Royal Bakery|JERRY|Uhm, see the key to eating a Black and White cookie, Elaine, is you want to get some black and some white in each bite. Nothing mixes better than, vanilla and chocolate. And yet still somehow racial harmony eludes us. If people would only *Look to the Cookie* -- all our problems would be solved.
+Royal Bakery|ELAINE|Well your views on race relations are just, fascinating. You really should do an Op-Ed piece for the Times. (Op-Ed stands for Opinions and Editorials)
+Royal Bakery|JERRY|Hmm. Look to the cookie Elaine... Look to the cookie.
+Royal Bakery|action|Jerry sees a black man on the other side of the bakery eating the same cookie -- Jerry raises his cookie up and so does the man -- in a moment of racial harmony & unity to which he just spoke of.
+Royal Bakery|ELAINE|(looking in the box) Well what is this?
+Royal Bakery|JERRY|What?
+Royal Bakery|ELAINE|It's a hair.
+Royal Bakery|JERRY|Oh, oh take it back. Let's get another one.
+Royal Bakery|ELAINE|No, we're late as it is. I'll just take it off.
+Royal Bakery|JERRY|No no come on really, get another one. It’ll take a second.
+Royal Bakery|ELAINE|Alright, alright.
+Royal Bakery|action|they walk back up to the counter
+Royal Bakery|ELAINE|Excuse me.
+Royal Bakery|ELAINE|No noo no, we just bought this. . . . Um, you sold us a cake with a (quietly) hair on it.
+Royal Bakery|CLERK|You have to take a number.
+Royal Bakery|ELAINE|We waited fifteen minutes for this. Tst - YOU SELL ME A CAKE WITH A HAIR ON IT. Then you want me to wait? . . . What are you doing (to Jerry taking a number) you’re gonna wait now?
+Royal Bakery|JERRY|Well, I'm not going to eat a cake with a hair on it.
+Royal Bakery|ELAINE|Well it was a little hair. I took it off.
+Royal Bakery|JERRY|A little hair? Do you think that makes it better?
+Royal Bakery|ELAINE|What if it's your hair?
+Royal Bakery|JERRY|What if it's your hair?
+Royal Bakery|ELAINE|(Wh-wh) What is wrong with my hair? Nobody takes better care of their hair than me. You can serve dinner on my head.
+Royal Bakery|JERRY|Who needs that misty herbal rain water crap they sell in the health food store. I use Prell, the hard stuff. Hundred proof - takes your roots out. (pretends to pull hair out)
+Royal Bakery|ELAINE|Okay, fine, we'll just wait until she calls the number.
+Royal Bakery|JERRY|Well, maybe we should just forget about the cake?
+Royal Bakery|ELAINE|No I'm bringing cake! (looking worried and apprehensive)
+Liquor store|GEORGE|All right we got the wine. Aren't we lucky? We got wine. Whoopee Whoa! Imagine if we didn't bring the wine. We'd be shunned by society. Outcasts! WHERE'S YOUR WINE? GET OUT!
+Liquor store|action|George picks up the bottle of wine from the counter. George and Kramer start walking to the door
+Liquor store|KRAMER|(reading from the Penthouse Forum) "I know this is going to sound like a crazy fantasy but every word of this story is true…" (exits to street) " A few weeks ago my girlfriend happened to mention to me how attractive she thought our new neighbor Linda was…"
+Liquor store|GEORGE|L-Look at this?
+Liquor store|KRAMER|Ahh.
+Liquor store|GEORGE|Somebody double parked and blocked us in. D-DOES ANYBODY KNOW WHOSE CAR THAT IS? Maybe there's a note on it. Ohh-oh brother. No, no note. Can you believe this?
+Liquor store|KRAMER|"…well of course I noticed it too with those cannibal breasts and pouty lips. I don't have to tell you she was a knock out…." (turns the page)
+Still on street but much later -- it’s night|GEORGE|I really can not comprehend how stupid people could be sometimes. Can you comprehend it?
+Still on street but much later -- it’s night|KRAMER|No, no I can't comprehend it?
+Still on street but much later -- it’s night|GEORGE|I mean we can put a man on the moon but we're still basically very stupid. The guy who's car this is? He could be one of the guys that built the rocket. You see what I'm saying?
+Still on street but much later -- it’s night|KRAMER|Well yeah, yeah. He could build the rocket, but-but he's still stupid for double-parking and blocking somebody in.
+Still on street but much later -- it’s night|GEORGE|So you really understand my point about building a rocket and double-parking.
+Still on street but much later -- it’s night|KRAMER|Yeah, on one hand he's smart with rockets and on the other hand he's dumb with parking. . . . It's cold out here huh?
+Still on street but much later -- it’s night|GEORGE|Maybe it's not even stupidity. Maybe it's just a blatant disregard for basic human decency. Yeah this how dictator's start. Do you think Mussolini would circle the block six times looking for a spot?
+Still on street but much later -- it’s night|KRAMER|How about Idi Amin, huh?
+Still on street but much later -- it’s night|GEORGE|I’ll tell you, if I was running for office I would ask for the death penalty for double-parkers. If this is allowed to go on this is not a society. THIS IS ANARCHY!
+Still on street but much later -- it’s night|KRAMER|Are those shoes comfortable?
+Still on street but much later -- it’s night|GEORGE|No not really.
+Still on street but much later -- it’s night|KRAMER|Cause they look comfortable.
+Still on street but much later -- it’s night|GEORGE|I know that's why I bought `em but they're not comfortable.
+Royal Bakery|ELAINE|Why couldn't we just take the hair off and go?
+Royal Bakery|JERRY|No. That’s out of the question.
+Royal Bakery|ELAINE|Whhhy?
+Royal Bakery|JERRY|Because I had a bad experience with a hair when I was younger.
+Royal Bakery|ELAINE|What happened?
+Royal Bakery|JERRY|I'd rather not talk about it.
+Royal Bakery|ELAINE|You can't tell me?
+Royal Bakery|JERRY|All right . . . . I once found a hair in my Farina and I freaked out.
+Royal Bakery|action|*Farina: A meal or flour obtained chiefly from cereals, nuts, potatoes or Indian Corn, and used as a breakfast food.
+Royal Bakery|ELAINE|You found a hair in your Farina?
+Royal Bakery|JERRY|Yeah.
+Royal Bakery|ELAINE|What happened?
+Royal Bakery|JERRY|Well I started screaming, "There's a hair in my farina. There's a hair in my farina." Then I ran out of the house and I was running and running. And like I was little but I could run very fast. And I-I just kept running (In the background -- CLERK’S VOICE: 57) and they found me like three hours later collapsed at a construction site.
+Royal Bakery|ELAINE|(quietly) Wow. Who's hair was it?
+Royal Bakery|action|In the background -- the Clerk is coughing
+Royal Bakery|JERRY|My mother's.
+Royal Bakery|ELAINE|(quietly) Ahhhhh
+Royal Bakery|CLERK|58!
+Royal Bakery|ELAINE|Ooo, That's us. (hits Jerry in the arm)
+Royal Bakery|JERRY|Oh, good.
+Royal Bakery|action|Elaine and Jerry walk up to the counter. She sets the box on the counter with a thud
+Royal Bakery|ELAINE|You sold us a hair with a cake around it. We'd like another one.
+Royal Bakery|CLERK|(coughing and coughing, getting really bad)
+Royal Bakery|JERRY|Oh, that's lovely.
+Royal Bakery|ELAINE|Ah,
+Royal Bakery|JERRY|That’s what you want to see, yeah. . . . Yeah, you want to trade your hair for some phlegm.
+Royal Bakery|action|coughing and coughing
+Royal Bakery|JERRY|Yeah that’s a good deal -- you win the Pennant with that trade, hair for phlegm.
+Royal Bakery|CLERK|Here you are. (hands Elaine the cake box)
+Royal Bakery|ELAINE|Okay. Alright we got the cake now. Where is George and Kramer?
+on street outside Liquor Store|action|honking -- honk, honk honk honk, honk
+on street outside Liquor Store|KRAMER|HEY DOUBLE-PARKER! (honk, honk) SHOW YOURSELF. (honk, honk) COME ON OUT, I’M FREEZING! (honk, honk)
+on street outside Liquor Store|GEORGE|We are really late now. We're in big trouble. Big trouble.
+on street outside Liquor Store|KRAMER|Why?
+on street outside Liquor Store|GEORGE|You know -- Elaine.
+on street outside Liquor Store|KRAMER|What about her?
+on street outside Liquor Store|GEORGE|. . . I'm a little scared of her.
+on street outside Liquor Store|KRAMER|You're scared of Elaine?
+on street outside Liquor Store|GEORGE|Yes!
+on street outside Liquor Store|KRAMER|Why?
+on street outside Liquor Store|GEORGE|Did you ever see her lose her temper. I was once late cause I bought a Panama hat -- she grabbed it by the brim, pulled it down so hard my head came right through the top of it.
+on street outside Liquor Store|KRAMER|Hey, let's go inside the liquor store. I’m freezin in here.
+on street outside Liquor Store|GEORGE|Why didn't you just wear a heavier coat?
+on street outside Liquor Store|KRAMER|Because I wanted to look good for the party.
+on street outside Liquor Store|action|they get out of the car and see a man and woman walking towards the double parked car . George goes right up to the man.
+on street outside Liquor Store|GEORGE|Oh, Hey, hey, hey! That's great! That's very nice. You know we've been waiting twenty minutes for you people?! What do you think, you're Mussolini?!
+on street outside Liquor Store|GEORGE|I wasn't talking to you.
+Royal Bakery|action|Jerry and Elaine sit inside waiting for George and Kramer to show up
+Royal Bakery|ELAINE|Wait `til I get my hands on that George. I am gonna *pull* that big hood over his little head... tie the strings, and suffocate. You remember that Panama hat? That was nothing.
+Royal Bakery|JERRY|Huh, wa?
+Royal Bakery|ELAINE|What's the matter with you?
+Royal Bakery|JERRY|I don’t know, I don't feel so good.
+Royal Bakery|ELAINE|What's wrong?
+Royal Bakery|JERRY|My stomach, I , think it was that cookie.
+Royal Bakery|ELAINE|The black and white?
+Royal Bakery|JERRY|Yeah.
+Royal Bakery|ELAINE|Not getting’ along?
+Royal Bakery|JERRY|I think I got David Duke and Farrakhan down there.
+Royal Bakery|ELAINE|(mocking - in a dopey voice) “Well if we can't look to the cookie where can we look?”
+Royal Bakery|JERRY|Oh my stomach. I feel like I'm going to throw up.
+Royal Bakery|ELAINE|Wait, what about your vomit streak?
+Royal Bakery|JERRY|I know, I haven't thrown up since June 29th, 1980.
+Royal Bakery|action|A man with cane turns from the counter and puts the cane on Elaine's foot
+Royal Bakery|ELAINE|Oh, oh! Ooh my god. Oh!
+Royal Bakery|ELAINE|Sorry? You almost took my toe off. Why don't you watch what you're doing you, LUNATIC!… (the man turns and walks away)
+Royal Bakery|ELAINE|(con’t) ...uh, Jerry, I think he broke my toe. (Jerry gets up) W-Where're you going?
+Royal Bakery|JERRY|Fourteen years down the drain. (points and walks off -- to the bathroom)
+Liquor Store|GEORGE|Do you think chickens have individual personalities?
+Liquor Store|KRAMER|(shivering) I don't know.
+Liquor Store|GEORGE|If you had like five chickens could you tell them apart by just the way they acted? Or would they all just be walking around? Bak, bak, baak, bak? Cause if they have individual personalities I’m not sure we should be eaten `em. What's the matter with you?
+Liquor Store|KRAMER|(shivering gibberish) Waj cha jia ja
+Liquor Store|CLERK|Can I help you guys with anything?
+Liquor Store|GEORGE|Oh, no no no -- We bought the wine here before, but now, you know we're bl-blocked in by some car double parked and we're just waiting for the guy to pull out.
+Liquor Store|CLERK|Well wait outside. This isn't a hangout.
+Liquor Store|GEORGE|But my friend here has hypothermia.
+Liquor Store|KRAMER|(shivering) Hypothermia.
+Liquor Store|CLERK|All right guys, take it outside.
+Liquor Store|action|George turns and knocks into a wine display -- breaking several bottles
+Liquor Store|CLERK|You're paying for these.
+Liquor Store|action|Krames slips on the wine and falls
+Royal bakery|action|Elaine tending to her foot, Jerry emerges
+Royal bakery|ELAINE|How was it?
+Royal bakery|JERRY|As good as it gets.
+Outside Liquor Store|action|Kramer and George standing outside freezing
+Outside Liquor Store|GEORGE|You know that coat was Gore-Tex. It’s worth a hell of a lot more than that, cheap Chardonnay.
+Outside Liquor Store|KRAMER|(shivering) You know I'm freezin. I’m definitely freezin. I can't stop shaking.
+Outside Liquor Store|GEORGE|I'm cold too. At least you've got a coat. Let's get in the car.
+Outside Liquor Store|action|Kramer grabs George's arm and motions towards a man headed for the double parked car. He has a large mustache and is wearing a long overcoat and a beret
+Outside Liquor Store|KRAMER|(quietly) L-l (look)
+Outside Liquor Store|GEORGE|Oh, my god that's Saddam Hussein. The dictator.
+Royal bakery|action|Jerry sitting next to Elaine, who is tending to her injured foot
+Royal bakery|CLERK|Can I get’ca anything else?
+Royal bakery|JERRY|Oh, no thanks.
+Royal bakery|CLERK|How about a nice box of "scram".
+Royal bakery|action|George enters - Jerry nudges Elaine with his elbow and points at George
+Royal bakery|GEORGE|S-s-somebody double parked, we couldn't help it. It might have been Saddam Hussein, we're not really sure. He eh, had a British accent though.
+Royal bakery|action|Elaine and Jerry stand up slowly
+Royal bakery|GEORGE|What, what happened to you?
+Royal bakery|ELAINE|Somebody put a cane on my foot. Just like the one I'm going to put up your...
+Royal bakery|JERRY|Hey, what happened to your coat? And what is the smell? Is-ya, What are you drunk?
+Royal bakery|GEORGE|I had to give it to the liquor store guy.
+Royal bakery|JERRY|What for?
+Royal bakery|GEORGE|I spilled some Chardonnay. So, what did you get?
+Royal bakery|action|they start walking to the door, Elaine is limping and in some pain
+Royal bakery|ELAINE|Cinnamon babka.
+Royal bakery|GEORGE|Cinnamon? Why didn't ‘cha get chocolate?
+Royal bakery|action|Elaine shoots a quick look at George
+Royal bakery|JERRY|George!
+In the car|action|All four riding in silence, Kramer is still shivering
+Apartment #7|action|Elaine knocks 3 times on the door. The door opens
+Apartment #7|ELAINE|Here, here's your cake. (just about tosses it at the woman)
+Apartment #7|GEORGE|And your wine.
+Apartment #7|ELAINE|See ya'.
+Apartment #7|JERRY|See ya'.
+Apartment #7|action|all four turn and walk off. The woman stands there looking confused, holding the wine and cake box.

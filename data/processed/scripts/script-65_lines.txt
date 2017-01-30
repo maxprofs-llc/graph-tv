@@ -1,0 +1,386 @@
+location: Monk's|action|Jerry and George at the usual booth
+location: Monk's|JERRY|So, what's her name?
+location: Monk's|GEORGE|Karen.
+location: Monk's|JERRY|Is she nice?
+location: Monk's|GEORGE|Great.
+location: Monk's|JERRY|So you like her?
+location: Monk's|GEORGE|I think so.
+location: Monk's|JERRY|You don't know?
+location: Monk's|GEORGE|I can't tell anymore.
+location: Monk's|JERRY|Well do you feel anything?
+location: Monk's|GEORGE|Feel? What's that?
+location: Monk's|JERRY|All right, let me ask you this: when she comes over, you're cleaning up a lot?
+location: Monk's|GEORGE|Yeah.
+location: Monk's|JERRY|You're just straightening up or you're cleaning?
+location: Monk's|GEORGE|Cleaning
+location: Monk's|JERRY|You do the tub?
+location: Monk's|GEORGE|Yeah.
+location: Monk's|JERRY|On your knees, Ajax, hands scrubbin', the whole deal?
+location: Monk's|GEORGE|Yeah, yeah.
+location: Monk's|JERRY|Okay, I think you're in love!
+location: Monk's|GEORGE|Tub is love?
+location: Monk's|JERRY|Tub is love.
+location: Monk's|GEORGE|Hah.
+location: Monk's|JERRY|So there you are. You've got a nice girl and a clean apartment.
+location: Monk's|GEORGE|Yep. There's one liiiittle problem.
+location: Monk's|JERRY|Sexual?
+location: Monk's|GEORGE|Yeeeaaah. (Jerry and George lean in to make their conversation a little more private) Well..... I've never really felt confident in uh..... one particular aspect.
+location: Monk's|JERRY|Below the equator?
+location: Monk's|GEORGE|Yeah.
+location: Monk's|JERRY|Nobody does. You know, nobody knows what to do. You just close your eyes and you hope for the best. I really think they're happy if you just make an effort.
+location: Monk's|GEORGE|I-I don't know. Last time I got the tap.
+location: Monk's|JERRY|You got the tap?
+location: Monk's|GEORGE|You know, you're going along, you think everything's all right and all of a sudden you get that tap. (George taps his own shoulder). You know it's like pfffff (whistling sound), all right that's enough, you're through.
+location: Monk's|JERRY|The tap is tough.
+location: Monk's|GEORGE|It's like the manager coming out and asking you for the ball.
+location: Monk's|JERRY|Well maybe she just wanted to move on to other business.
+location: Monk's|GEORGE|No, no, this wasn't moving on. I got the hook. I wish I could get a lesson in that.
+location: Monk's|JERRY|It's a very complicated area.
+location: Monk's|GEORGE|You can go crazy trying to figure that place out.
+location: Monk's|JERRY|It's a haaazy mystery.
+location: Monk's|GEORGE|Anyway, I think everything else is okay. Unless of course she's faking.
+location: Monk's|action|Elaine joins them
+location: Monk's|ELAINE|Who's faking?
+location: Monk's|GEORGE|Nothing.
+location: Monk's|ELAINE|Faking what?
+location: Monk's|GEORGE|Nobody's faking.
+location: Monk's|ELAINE|Ah! Orgasm?
+location: Monk's|GEORGE|She's not faking!
+location: Monk's|ELAINE|How do you know?
+location: Monk's|GEORGE|I know. I can tell. It's one of my powers. Why, did you ever fake?
+location: Monk's|ELAINE|Of course.
+location: Monk's|JERRY|Really?
+location: Monk's|GEORGE|You faked?
+location: Monk's|ELAINE|On occasion.
+location: Monk's|JERRY|And the guy never knows?
+location: Monk's|ELAINE|No.
+location: Monk's|JERRY|How can he not know that?
+location: Monk's|ELAINE|Because I was gooood.
+location: Monk's|JERRY|I guess after that many beers he's probably a little groggy anyway.
+location: Monk's|action|Jerry and George laugh
+location: Monk's|ELAINE|You didn't know.
+location: Monk's|JERRY|What?
+location: Monk's|ELAINE|You didn't know.
+location: Monk's|JERRY|Are you saying...
+location: Monk's|action|George clears his throat and calls a waitress
+location: Monk's|GEORGE|I think I'll have a piece of cake.
+location: Monk's|JERRY|With me?
+location: Monk's|ELAINE|Well...
+location: Monk's|JERRY|You faked with me?
+location: Monk's|ELAINE|Ye.
+location: Monk's|JERRY|You faked with me?
+location: Monk's|ELAINE|Yeass.
+location: Monk's|JERRY|No.
+location: Monk's|ELAINE|Yeass.
+location: Monk's|JERRY|You faked it?
+location: Monk's|ELAINE|I faked it.
+location: Monk's|JERRY|That whole thing, the whole production, it was all an act?
+location: Monk's|ELAINE|Not bad huh?
+location: Monk's|JERRY|What about the breathing, the panting, the moaning, the screaming?
+location: Monk's|ELAINE|(points in the air as is to point out each things Jerry asked) Fake, fake, fake, fake.
+location: Monk's|JERRY|I'm stunned, I'm shocked! How many times did you do this?
+location: Monk's|ELAINE|Uuuhm, all the time.
+location: Monk's|JERRY|All the time?!
+location: Monk's|GEORGE|We got a chocolate malt in here!
+location: Monk's|JERRY|But I'm so good.
+location: Monk's|GEORGE|I'm sure you are.
+location: Monk's|ELAINE|Jerry, listen, it wasn't you. I just didn't have 'em back then.
+location: Monk's|JERRY|She faked.
+location: Monk's|action|George smiles sarcastically
+location: Monk's|JERRY|Maybe they've all been faking.
+location: Monk's|ELAINE|I'm sure they're not.
+location: Monk's|GEORGE|Maybe Karen is faking.
+location: Jerry's apartment|action|Kramer is lighting his cigar on the stove
+location: Jerry's apartment|KRAMER|She was probably joking.
+location: Jerry's apartment|JERRY|No no, it was no joke.
+location: Jerry's apartment|KRAMER|She didn't have any?
+location: Jerry's apartment|JERRY|No. None.
+location: Jerry's apartment|KRAMER|(raising hand) She faked 'em all.
+location: Jerry's apartment|JERRY|(raising hand) Faked 'em all.
+location: Jerry's apartment|KRAMER|Well so she faked 'em, so what?
+location: Jerry's apartment|JERRY|The woman had an orgasm under false pretences. That's sexual perjury.
+location: Jerry's apartment|KRAMER|You know I heard her screaming from my apartment? She woke me up a few times.
+location: Jerry's apartment|JERRY|How did she do it? She's like Meryl Streep this woman. And I had to work the equipment. I'm not unskilled, I'm in the union. If she'd at least told me, maybe I could have done something about it.
+location: Jerry's apartment|KRAMER|Yeah I could have helped you out.
+location: Jerry's apartment|JERRY|What could you have done?
+location: Jerry's apartment|KRAMER|I could have given you some pointers. I know how to press those buttons buddy.
+location: Jerry's apartment|JERRY|I'm feeling very inadequate about the whole thing.
+location: Jerry's apartment|KRAMER|Aaaaah.
+location: Jerry's apartment|JERRY|Don't aaaaah! I'm supposed to do something with her later? I don't even think I wanna see her.
+location: Jerry's apartment|action|The phone rings
+location: Jerry's apartment|KRAMER|Giddy-up.
+location: Jerry's apartment|action|Jerry picks it up
+location: Jerry's apartment|JERRY|Hello... Oh hello Elaine.
+location: Jerry's apartment|action|Elaine at her desk in her office
+location: Jerry's apartment|ELAINE|So we're having dinner tonight?
+location: Jerry's apartment|JERRY|I don't know, I'm not really in the mood.
+location: Jerry's apartment|ELAINE|Why? What's wrong? You're not still thinking about this afternoon are you?
+location: Jerry's apartment|JERRY|What, the grilled cheese? Naaah, they always burn the toast.
+location: Jerry's apartment|ELAINE|Nooo, the other thing.
+location: Jerry's apartment|JERRY|Oooh that. Well...
+location: Jerry's apartment|ELAINE|Oh come on, Jerry. Making to much of a big deal about it.
+location: Jerry's apartment|JERRY|Yeah I guess. So you wanna meet at that place at seven thirty?
+location: Jerry's apartment|ELAINE|Okay.
+location: Jerry's apartment|JERRY|All right.
+location: Jerry's apartment|ELAINE|All right, see you later.
+location: Jerry's apartment|JERRY|Bye.
+location: Jerry's apartment|ELAINE|Bye.
+location: Jerry's apartment|action|The Location stays at Elaine's office
+location: Elaine's office|action|Elaine hangs up the phone; Rene walks passed the office
+location: Elaine's office|ELAINE|Rene, can you come here a second? Let me ask you something: Ummm, have you ever... you know... faked it?
+location: Elaine's office|RENE|Yeah, sometimes.
+location: Elaine's office|ELAINE|Really, like when?
+location: Elaine's office|RENE|Like if we went to a Broadway show, if we had really good seats. (Elaine is sitting there, jaw opened shaking her head yes) Well you know, if it's enough all ready and I just wanna get some sleep.
+location: Jerry's apartment|action|Resume at the point Jerry hangs up his phone from the conversation with Elaine
+location: Jerry's apartment|JERRY|I really don't feel like seeing her.
+location: Jerry's apartment|KRAMER|You know, I faked it.
+location: Jerry's apartment|JERRY|(confused) What?!
+location: Jerry's apartment|KRAMER|Yeah.
+location: Jerry's apartment|JERRY|You faked it? Why would you do that?
+location: Jerry's apartment|KRAMER|Well you know, if it's enough already and I just wanna get some sleep.
+location: Jerry's apartment|JERRY|Yeah, but why would you... (Kramer is eating a peach then disgusted he spits it out) Bad peach?
+location: Jerry's apartment|KRAMER|It's terrible!
+location: Jerry's apartment|JERRY|Did you get that at Joe's?
+location: Jerry's apartment|KRAMER|Yeah, of course I got it at Joe's.
+location: Jerry's apartment|JERRY|That's surprising, his fruit is usually the best.
+location: Jerry's apartment|KRAMER|You know what I'm gonna do? (heading for the door) I'm gonna return this.
+location: Jerry's apartment|JERRY|You're returning used fruit?
+location: Jerry's apartment|KRAMER|Jerry this peach is sub par.
+location: Jerry's apartment|action|Kramer exits
+location: Joe's|JOE|So what do you want me to do?
+location: Joe's|KRAMER|I want restitution.
+location: Joe's|JOE|Restitution? You want restitution? Why should I give you restitution?
+location: Joe's|KRAMER|Because it's no good.
+location: Joe's|JOE|When you put that fruit out, that's where it ends for me.
+location: Joe's|KRAMER|It's still your fruit, you gotta stand behind your fruit.
+location: Joe's|JOE|I stand behind my fruit.
+location: Joe's|KRAMER|So...
+location: Joe's|JOE|Hey, you got a bad peach? That's an act of God. He makes the peaches. I don't make the peaches, I sell the peaches. You have a problem? You talk to him.
+location: Joe's|KRAMER|You know this whole place is going vrrrrrrrrrrrrt, downhill. I could have come in here last week with a bad plum but I let it go.
+location: Joe's|JOE|Well let me put a solution for ya: do your business elsewhere, I don't want your business.
+location: Joe's|KRAMER|Oh now you don't want my business.
+location: Joe's|JOE|No, I don't want your business and from this moment you're banned from the store, you're banned!
+location: Joe's|KRAMER|But what am I gonna do for fruit?
+location: restaurant|action|George and Karen having dinner
+location: restaurant|KAREN|(moaning) Mmmmm, Mmmm, Hmmhmmhmmm (lights a cigarette) Mmmm (takes a puff) Woo
+location: restaurant|GEORGE|(thinking of the moans) Heh. (Karen takes another puff of her cigarette) You seem like you really enjoyed your Risotto. (chuckles) You have a very contented air over there. (chuckles again) You look very contented, very satisfied. (pauses) Are you satisfied?
+location: restaurant|KAREN|I'm very satisfied.
+location: restaurant|GEORGE|I-I'm sure if you weren't satisfied you would probably say something wouldn't you?
+location: restaurant|KAREN|I probably would. But then again I'm an enigma.
+location: restaurant|GEORGE|Hey listen... umm, instead of the movie... uh, maybe we'll go back and uh you know...(nudges her head with his head)
+location: restaurant|KAREN|Maybe.
+location: restaurant|GEORGE|So... uh you feel okay about that whole thing... what we do in there... you're generally okay with everything in there?
+location: restaurant|KAREN|Generally.
+location: restaurant|GEORGE|Do you uh feel the way you feel after the Risotto?
+location: restaurant|KAREN|Well no, I feel full after the Risotto.
+location: restaurant|GEORGE|Yeah...(scratching his head) full.
+location: (another) restaurant|ELAINE|Oh god, Mmmm, Mmm, Mmm, Mmmmm, Mmm, Ah, Woo
+location: (another) restaurant|JERRY|Satisfied?
+location: (another) restaurant|ELAINE|Mmm, hey, you know what? You wanna go see that new Meryl Streep movie?
+location: (another) restaurant|JERRY|Meryl Streep?
+location: (another) restaurant|ELAINE|You don't like her?
+location: (another) restaurant|JERRY|Ah, she's okay.
+location: (another) restaurant|ELAINE|I love her Jerry, she's so authentic. I really believe everything is actually happening to her. There's no acting there.
+location: (another) restaurant|JERRY|Yeah. You don't want coffee or anything do you?
+location: (another) restaurant|action|Calls for the waiter
+location: (another) restaurant|ELAINE|I really admire actors, you know. It's just such an incredible skill.
+location: (another) restaurant|JERRY|Yeah, yeah, can we get off of this?
+location: (another) restaurant|ELAINE|What's the matter?
+location: (another) restaurant|JERRY|Nothing.
+location: (another) restaurant|ELAINE|You're not still thinking about that are you?
+location: (another) restaurant|JERRY|Nooo.
+location: (another) restaurant|action|Jerry and Elaine somewhat chuckling
+location: (another) restaurant|ELAINE|Oh good.
+location: (another) restaurant|JERRY|Give me another shot!
+location: (another) restaurant|ELAINE|(shocked) What?
+location: (another) restaurant|JERRY|Another shot, I want another shot.
+location: (another) restaurant|ELAINE|You mean...?
+location: (another) restaurant|JERRY|Yes!
+location: (another) restaurant|ELAINE|Oooh no, I don't think so.
+location: (another) restaurant|JERRY|Come on! One shot, I can do it, I know I can do it!
+location: (another) restaurant|ELAINE|Jerry, we're friends! We can't do that, it would ruin our friendship.
+location: (another) restaurant|JERRY|Oh friendship... friendship, shmanship .
+location: (another) restaurant|ELAINE|Jerry no, that's important to me.
+location: (another) restaurant|JERRY|We won't ruin the friendship.
+location: (another) restaurant|ELAINE|Ya, Yes we will!
+location: (another) restaurant|JERRY|Elaine...
+location: (another) restaurant|ELAINE|No Jerry, it is out of the question. You know what sex does to a friendship, it kills it.
+location: (another) restaurant|JERRY|A half hour, give me a half our.
+location: (another) restaurant|ELAINE|No!
+location: (another) restaurant|JERRY|Okay, fifteen minutes. I guarantee you fifteen minutes, I can make it happen!
+location: (another) restaurant|ELAINE|Noo!
+location: (another) restaurant|JERRY|You're worried I'll be able to do it aren't you?
+location: (another) restaurant|ELAINE|What, no, it doesn't matter. Jerry, I don't care.
+location: (another) restaurant|JERRY|That's it, that's it. You like having this over me, you don't want me to do it.
+location: (another) restaurant|ELAINE|That is so ridiculous.
+location: (another) restaurant|JERRY|Come on, Elaine!
+location: (another) restaurant|ELAINE|No.
+location: (another) restaurant|JERRY|Elaine?!
+location: (another) restaurant|ELAINE|No!
+location: Karen's bedroom|action|George and Karen in bed; George indicates that the sex went wrong
+location: Karen's bedroom|GEORGE|It's Jerry's fault.
+location: Karen's bedroom|KAREN|Jerry?
+location: Karen's bedroom|GEORGE|Jerry and Elaine. They made me nuts.
+location: Karen's bedroom|KAREN|Oh I don't care, George, really it's all right.
+location: Karen's bedroom|GEORGE|So you feel okay?
+location: Karen's bedroom|KAREN|Well, it's not like after the Risotto.
+location: Jerry's car|JERRY|Well good night.
+location: Jerry's car|ELAINE|I still don't understand why we had to walk out on that movie.
+location: Jerry's car|JERRY|Oh that Meryl Streep, she's such a phony baloney.
+location: Jerry's car|ELAINE|Goodnight. Thanks for a really fabulous evening (sarcastic).
+location: Jerry's car|JERRY|Oh what, you're upset?
+location: Jerry's car|ELAINE|Yes I'm upset, can't you tell?
+location: Jerry's car|JERRY|No I can't, maybe you're faking.
+location: Jerry's car|ELAINE|I'm really, really sorry I told you that.
+location: Jerry's car|JERRY|I'm sorry too.
+location: Jerry's car|ELAINE|Well stop being such a baby.
+location: Jerry's car|JERRY|You're a baby!
+location: Jerry's car|ELAINE|You're a baby!
+location: Jerry's apartment|GEORGE|It's all your fault! You and Elaine! All that orgasm talk. She did have an orgasm, she didn't have an orgasm. Orgasm this, orgasm that. I got so focused on it. I started to panic and boom, I lost it. I tried everything, I was talking to him: 'Please wake up, do something.'
+location: Jerry's apartment|JERRY|They're mysterious little fellows aren't they?
+location: Jerry's apartment|GEORGE|I hate him!
+location: Jerry's apartment|JERRY|You know it happens to everybody. It happened to Houdini. And he could get out of a trunk under water with his hands in chains! But he had a problem with that. The miracle is that it ever happens.
+location: Jerry's apartment|GEORGE|It's like a magic trick. Sometimes I think it would be easier to bend a spoon mentally than to make that transformation.
+location: Jerry's apartment|action|Kramer enters
+location: Jerry's apartment|KRAMER|Hey.
+location: Jerry's apartment|JERRY|Hey.
+location: Jerry's apartment|KRAMER|Hey listen, if I give you money would you go out and get me some fruit?
+location: Jerry's apartment|JERRY|Why can't you get it?
+location: Jerry's apartment|KRAMER|Well I got banned from the store I can't go back in there now.
+location: Jerry's apartment|JERRY|What happened?
+location: Jerry's apartment|KRAMER|Well you know, we had a fight over the peach and uh well Joe doesn't want my business.
+location: Jerry's apartment|GEORGE|Hey, was that a joke about Houdini?
+location: Jerry's apartment|JERRY|(to George) No. (to Kramer) I told you not to say anything.
+location: Jerry's apartment|KRAMER|Jerry, what am I gonna do for fruit?
+location: Jerry's apartment|JERRY|Well you'll have to go to the supermarket.
+location: Jerry's apartment|KRAMER|The supermarket? That's impossible! They don't have a decent piece of fruit at the supermarket. The apples are mealy, the oranges are dry. I don't know what's going on with the Papayas! Jerry you gotta go to Joe's, you gotta get me some fruit!
+location: Jerry's apartment|JERRY|Oh so what I'm going to buy all your fruit now?
+location: Jerry's apartment|GEORGE|Well if Houdini couldn't do it, what chance do I have?
+location: Jerry's apartment|action|George leaves
+location: Jerry's apartment|action|The phone rings, Jerry picks it up
+location: Jerry's apartment|JERRY|Hello... Oh hi Patty, thanks for calling me back. I-I just wanted to ask you a question: when we we're going out did you have orgasms?... Okay, thanks... No that's it... Ya, Okay, bye.
+location: Jerry's apartment|action|Jerry hangs up the phone
+location: Jerry's apartment|JERRY|Patty Lawrence had 'em!
+location: Jerry's apartment|KRAMER|Alright look I'm gonna make you a fruit list, all right?
+location: Jerry's apartment|JERRY|Yeah.
+location: Jerry's apartment|action|Jerry makes another call
+location: Jerry's apartment|JERRY|Hello Elaine? Patty Lawrence had orgasms what do you think about that? And I got calls in to six other women and I bet you they confirm an orgasm too. So what do you have to say now Elaine?... Hello?
+location: outside Joe's|JERRY|Why do I feel like I'm doing something wrong?
+location: outside Joe's|KRAMER|All right now here's the list. (hands Jerry the list)
+location: outside Joe's|JERRY|All this? It's too much. What do you need five mangos for?
+location: outside Joe's|KRAMER|I like mangos.
+location: outside Joe's|JERRY|Avocado? I don't know how to pick out an avocado.
+location: outside Joe's|KRAMER|Well they gotta be soft.
+location: outside Joe's|JERRY|How soft?
+location: outside Joe's|KRAMER|Not too soft. Better too hard than too soft.
+location: outside Joe's|JERRY|(looking over the list) Hmm ah. I'm not going through this every week, I tell you that right now. And what are these? Plums? What is that?
+location: outside Joe's|KRAMER|Yeah now get the ones that are red on the inside.
+location: outside Joe's|JERRY|Uh huh. Well how do I know what they look like on the inside? What do they look like on the outside?
+location: outside Joe's|KRAMER|Oh! And get some plantains. (grabs the list to write them down)
+location: outside Joe's|JERRY|Plantains?
+location: outside Joe's|KRAMER|Yeah.
+location: outside Joe's|JERRY|What the hell is a plantain.
+location: outside Joe's|KRAMER|It's part of the banana family. It's a delicacy.
+location: outside Joe's|JERRY|(grabbing the list from Kramer) You're not getting any plantains.
+location: outside Joe's|action|Jerry enters Joe's; Kramer is outside looking in through the window
+location: outside Joe's|JERRY|Hey Joe.
+location: outside Joe's|JOE|How's it going?
+location: outside Joe's|JERRY|Good, just getting some fruit for myself. Uh, gotta have fruit in the house. I like it as a snack. Wholesome, natural, chock-full of vitamins. Alright let's see... mangos... four plums with red on the inside... avocado... (looks at Joe; Joe gives him a weird look)ooo, just right... and three plantains uh ought to do it.
+location: outside Joe's|JOE|All right, all right, just hold it right there.
+location: outside Joe's|JERRY|What?
+location: outside Joe's|JOE|This fruit isn't for you.
+location: outside Joe's|JERRY|(shocked) Wha, what are you talking about?
+location: outside Joe's|JOE|You think I don't know huh? Mangos, plantains, plums with the red on the inside, that's Kramer!
+location: outside Joe's|JERRY|I can't buy mangos and plantains?
+location: outside Joe's|JOE|All right, get out!
+location: outside Joe's|JERRY|You're making a big mistake, Joe!
+location: outside Joe's|JOE|I'll tell you something else: I don't what your business anymore either.
+location: outside Joe's|JERRY|Are saying you're banning me from the store?
+location: outside Joe's|JOE|That's exactly what I'm saying.
+location: outside Joe's|JERRY|I'm banned?!
+location: outside Joe's|JOE|You're banned.
+location: Jerry's apartment|action|George enters with four huge bags of fruit
+location: Jerry's apartment|GEORGE|All right, where do you want it?
+location: Jerry's apartment|JERRY|Put it over there.
+location: Jerry's apartment|KRAMER|Yes! Oh look at this, these mangos are beautiful! Oh these are beautiful, (smells them) you did good George.
+location: Jerry's apartment|action|Kramer leaves the apartment
+location: Jerry's apartment|GEORGE|All right I gotta get going.
+location: Jerry's apartment|JERRY|What are you doing?
+location: Jerry's apartment|GEORGE|I got a date with Karen. I don't know what I'm gonna do. Nothing happening down there.
+location: Jerry's apartment|JERRY|You're thinking about it too much. You're putting too much emphasis on it.
+location: Jerry's apartment|GEORGE|I knew this was gonna happen some day. It was inevitable. I've known it ever since I was a little kid. I've been waiting for it.
+location: Jerry's apartment|action|Kramer enters the apartment
+location: Jerry's apartment|KRAMER|This mango is delicious!
+location: Jerry's apartment|GEORGE|That reminds me, I'm not getting you guys any more fruit. That guy was eyeballing me the whole time. He gave me the creeps. All right, you owe me twenty-eight sixty.
+location: Jerry's apartment|JERRY|Sorry, I don't have any cash.
+location: Jerry's apartment|KRAMER|I only got hundreds.
+location: Jerry's apartment|GEORGE|You see... All right I knew it.
+location: Jerry's apartment|KRAMER|Come on, come on, we're gonna pay you! Here have some mango.
+location: Jerry's apartment|GEORGE|I don't want any mango.
+location: Jerry's apartment|KRAMER|Come on, take some. It's good.
+location: Jerry's apartment|action|George tries a piece
+location: Jerry's apartment|GEORGE|Very good. Juicy.
+location: Jerry's apartment|KRAMER|Ya.
+location: Jerry's apartment|GEORGE|Ripe. Boy, this Joe's got some terrific fruit.
+location: Jerry's apartment|KRAMER|Mmm.
+location: Jerry's apartment|action|George looks a little weird
+location: Jerry's apartment|JERRY|What?
+location: Jerry's apartment|GEORGE|I feel like I got a B12 shot. This is like a taste explosion!
+location: Jerry's apartment|KRAMER|Ya I told you.
+location: Jerry's apartment|action|George stands still
+location: Jerry's apartment|JERRY|What is it?
+location: Jerry's apartment|GEORGE|I think it moved. Oh my god, I think it moved. Yeah, give me the big piece. I'll see you later.
+location: Jerry's apartment|action|Elaine enters the apartment
+location: Jerry's apartment|ELAINE|Hi George.
+location: Jerry's apartment|GEORGE|I'm back, baby, I'm back!
+location: Jerry's apartment|action|George leaves the apartment
+location: Jerry's apartment|KRAMER|Want some mango?
+location: Jerry's apartment|ELAINE|Noo, thanks.
+location: Jerry's apartment|action|Kramer leaves the apartment
+location: Jerry's apartment|JERRY|Well well, if it isn't the first lady of the American Theatre. (Elaine smiles and rolls her eyes at him) What brings you here?
+location: Jerry's apartment|ELAINE|Just gonna return some of your things that were in my house.
+location: Jerry's apartment|JERRY|Oh and I've got some things of yours here.
+location: Jerry's apartment|ELAINE|I know.
+location: Jerry's apartment|JERRY|Well I'll get them.
+location: Jerry's apartment|ELAINE|I'm waiting.
+location: Jerry's apartment|JERRY|All right. (goes into his hallway and comes back) You got my fins?
+location: Jerry's apartment|ELAINE|Yeah I got your fins. You got my poker chips?
+location: Jerry's apartment|JERRY|I got your poker chips. You got my goggles?
+location: Jerry's apartment|ELAINE|They're next to the fins. You got my cards?
+location: Jerry's apartment|JERRY|They're next to the poker chips.
+location: Jerry's apartment|action|They switch bags; Elaine checks her bag, Jerry tosses his on the table
+location: Jerry's apartment|ELAINE|All right and that just about... does it.
+location: Jerry's apartment|JERRY|I guess.
+location: Jerry's apartment|ELAINE|Okay, welp... see you around.
+location: Jerry's apartment|JERRY|Yeah, see you.
+location: Jerry's apartment|action|Elaine opens the door gets about half way out; Jerry goes to look inside his bag; Elaine comes back in and slams the door closed
+location: Jerry's apartment|ELAINE|All right, let's go, I give you half an hour.
+location: Jerry's apartment|JERRY|(shocked) What?
+location: Jerry's apartment|ELAINE|Come on!
+location: Jerry's apartment|JERRY|Are you serious?
+location: Jerry's apartment|ELAINE|Look, Jerry, we have to have sex to save the friendship.
+location: Jerry's apartment|JERRY|Sex... to save the friendship. (Elaine drops her bag, takes off her jacket and walks into Jerry's bedroom) Well, if we have to (un-tucks his shirt) we have to.
+location: Karen's bedroom|action|George and Karen in bed
+location: Karen's bedroom|KAREN|Mmmm, Oh George, oooh.
+location: Karen's bedroom|GEORGE|Please, it's not necessary.
+location: Karen's bedroom|KAREN|Mmm What's not necessary?
+location: Karen's bedroom|GEORGE|The little extra moan you threw in there. Laying it on a bit thick, don't you think?
+location: Karen's bedroom|KAREN|What are you talking about?
+location: Karen's bedroom|GEORGE|What am I talking about? Come on. (laughing) You don't think I bought all that? (does a little move)
+location: Karen's bedroom|KAREN|What, what?
+location: Karen's bedroom|GEORGE|You're very good. Very good with the moanings and the gyrations. Y-You really had me going there for a minute.
+location: Karen's bedroom|KAREN|You think I was faking?
+location: Karen's bedroom|GEORGE|Come on: 'Oh George, oh Geeeooorge!' Come on! Not that I don't appreciate the effort that was put into it.
+location: Karen's bedroom|KAREN|I'd like you to leave.
+location: Karen's bedroom|GEORGE|What?
+location: Karen's bedroom|KAREN|I said, I would like you to leave. Come on, just get your clothes on and get out.
+location: Karen's bedroom|GEORGE|But why?
+location: Karen's bedroom|KAREN|Because I said so. (pushes George off the bed)
+location: Karen's bedroom|GEORGE|I-I-I can't find my glasses.
+location: Karen's bedroom|KAREN|Well hurry up.
+location: Karen's bedroom|GEORGE|I need to look for my glasses.
+location: Karen's bedroom|KAREN|(seen through George eyes all blurry) Get out! Get out!! Get out!!!
+location: Jerry's bedroom|action|Elaine is reading a magazine and Jerry is making desperate noises indicating how the sex went wrong similarly to George's indications
+location: Jerry's bedroom|JERRY|It's all George's fault. All that talk about impotence. It got to me. And that orgasm stuff: orgasm this and orgasm that. It's a lot of pressure!
+location: Jerry's bedroom|ELAINE|You know I'm a little hungry. You wouldn't happen to have any of that mango left?
+location: Jerry's bedroom|action|Jerry looks like he's got an idea

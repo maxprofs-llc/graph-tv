@@ -1,0 +1,363 @@
+In Jerry's Car|JERRY|So George and I went up to NBC and we told them the idea for a series now we're just waiting to sign the contract.
+In Jerry's Car|HELEN|And they liked the idea?
+In Jerry's Car|JERRY|Yeah.
+In Jerry's Car|MORTY|What'ya got leather seats here?
+In Jerry's Car|HELEN|Since when is George a writer?
+In Jerry's Car|JERRY|What writer? It's a sitcom.
+In Jerry's Car|HELEN|This is so exciting. When are you going to sign the contract?
+In Jerry's Car|JERRY|Soon, there's a couple of problems.
+In Jerry's Car|MORTY|Jerry, I wanna tell you that meal was the worst.
+In Jerry's Car|JERRY|What do you expect? It's airline food.
+In Jerry's Car|MORTY|They give you that *Fish.*
+In Jerry's Car|JERRY|How could you eat fish on a plane?
+In Jerry's Car|MORTY|because she puts up such a big stink every time I have a piece of meat.
+In Jerry's Car|HELEN|What kind of problems?
+In Jerry's Car|JERRY|Well, George doesn't think $13,000 is enough money.
+In Jerry's Car|HELEN|What? He's not even working.
+In Jerry's Car|MORTY|George is right. Those people will try to get away with murder. Believe me. They're all crooks.
+In Jerry's Car|HELEN|Jerry, I want you to sign that contract.
+In Jerry's Car|JERRY|We're going to sign it. We're going to sign it. In fact George is out with the woman from NBC right now.
+George's car|GEORGE|So, I'm uh, I'm afraid we're going to have to pass.
+George's car|SUSAN|Yu - you're passing?
+George's car|GEORGE|Well, it's . . . much too low.
+George's car|SUSAN|Are you and Jerry in complete agreement on this?
+George's car|GEORGE|tsh (snorts) Ah, yeah, we've - we've talked . . . I believe I can speak for the both of us on this.
+George's car|SUSAN|Well be-because you know that, because this is your first show it's a pretty standard deal.
+George's car|GEORGE|Standard?
+George's car|SUSAN|Yeah.
+George's car|GEORGE|Is Ted Danson's deal standard?
+George's car|SUSAN|Ted Danson?
+George's car|GEORGE|You know, the guy from Cheers.
+George's car|SUSAN|Yeah, I know who he is. (laughs) You're not Ted Danson.
+George's car|GEORGE|I didn't say I was Ted Danson.
+George's car|SUSAN|All right, I'll tell Russell tomorrow.
+George's car|GEORGE|You tell Russell.
+George's car|SUSAN|Oh, um, before I forget, . . . Cuban cigars. It's a present from my father.
+George's car|GEORGE|Oh... do I have to write him a note or something?
+George's car|SUSAN|Yeah, I am sure he'd appreciated that.
+George's car|GEORGE|Well what would I say in the note?
+George's car|SUSAN|Ah, you're a writer. You'll think of something.
+George's car|GEORGE|Oh-ohf (snorts) yeah, I'm a writer. (laughs)
+Jerry's car at gas station|HELEN|Were you waiting long at the gate?
+Jerry's car at gas station|JERRY|Um, I don't even know?
+Jerry's car at gas station|HELEN|Where's that watch we bought you?
+Jerry's car at gas station|JERRY|Oh uh ...
+Jerry's car at gas station|action|Flashback to street
+Jerry's car at gas station|JERRY|That's enough with this piece of junk I've had it. (throws watch in garbage)
+Jerry's car at gas station|GEORGE|Wha-Is that the one your parents gave you?
+Jerry's car at gas station|JERRY|Yeah, but it never works.
+Jerry's car at gas station|action|Back to present day in car at gas station
+Jerry's car at gas station|JERRY|. . . it's uh, being fixed.
+Jerry's car at gas station|MORTY|I got a guarantee on that watch. Give it to me, I'll take it back to where we got it.
+Jerry's car at gas station|JERRY|It's at the jeweler.
+Jerry's car at gas station|MORTY|You send me the bill.
+Jerry's car at gas station|JERRY|I'm not sending you the bill.
+Jerry's car at gas station|HELEN|That watch was a gift. You shouldn't have to pay for it.
+Jerry's car at gas station|MORTY|Here, I got it.
+Jerry's car at gas station|JERRY|What are you talking about? It's my car. Let me pay for the gas.
+Jerry's car at gas station|MORTY|No, no put it away . . .
+Jerry's car at gas station|JERRY|Dad!
+Jerry's car at gas station|MORTY|Stop it.
+Jerry's car at gas station|JERRY|I have money. I make money.
+Jerry's car at gas station|MORTY|Yeah, yeah, you make money.
+Jerry's car at gas station|JERRY|You don't think I make money. That's what you think isn't it?
+Jerry's car at gas station|HELEN|No, I don't think that.
+Jerry's car at gas station|JERRY|Yes you do. That's what you both think.
+Jerry's car at gas station|MORTY|I'm paying.
+Jerry's car at gas station|JERRY|Dad I'm paying.
+Jerry's car at gas station|MORTY|Get out of here.
+Jerry's car at gas station|JERRY|You're not paying.
+Jerry's car at gas station|action|both fighting to pay - trying to hand cash out the window
+Jerry's car at gas station|MORTY|Now Jerry please, do not do this to your father.  Over my dead body Jerry.  I'll tell you right now, you're not going to do it.
+Jerry's car at gas station|JERRY|No don't do this.  You're not doing this. I will fight you. No you don't... No.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Boy, you got a lot of stuff here. . . . Dad, what are you doing?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|Nothing nothing.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Leave it. What about your back?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Morty, what are you doing?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|All right, all right.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|You come all the way up here to see a back specialist and you're lifting heavy suit cases.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|action|Kramer enters -- he has a bandage on his left temple
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Hey, Morty.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|Hey, Mr. Kramer. Ha ha ha.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Hey, Mrs. Seinfeld. Hi
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Ha, ha, ha Oh, What happened to you?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Oh, ah, well some guy kicked me in the side of the head.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|What guy?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Ah, w-Crazy Joe Devola.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Why?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Well, I was having this party and I didn't invite him and then Jerry, tipped him off.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Why did you tell this crazy guy that Kramer didn't invite him to his party?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|I didn't know he wasn't invited.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|Hey, these are very comfortable pants. You know what I paid for these Jerry?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|So why did you say anything?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|It was a mistake.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|They're good around the house -- and they're good for outside.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Are you okay?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Oh, yeah, yeah. I was a little off last week, huh Jerry -- Yeah but the doctor says it was just a slight concussion
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|So what's the matter with this Devola guy?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|He's got like a chemical imbalance. He needs to be on medication.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Oh, yeah, yeah. He's after Jerry now.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Kramer!!
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|He's what?!
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|He's joking.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|He's after you?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Nooo.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Why is he after you?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|He's not after me.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Morty, do you here this? Some crazy guy is after Jerry.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|I'll make a few phone calls.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Who you gonna to call?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|What are you worried about?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|I want to know what you did to this guy that he's after you.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|I didn't do anything.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Well you must have done something.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|No, he just doesn't like me.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Doesn't like you?  How could anyone not like you?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|You know it seems impossible.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Doesn't - doesn't like you? How could that be?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Ma, I know this may be hard for you to understand but I am sure there are many people who do not like me.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Huh, Jerry, don't say that.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|It's true.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|No, it isn't!  it's not true. You're a wonderful, wonderful boy. Everybody likes you. It's impossible not to like you. Impossible. Morty?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|Maybe some people don't like him. I could see that.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|HELEN|Kramer?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Yeah, I like him. Hey Jerry, what time you got?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Um, I haven't got my watch on. It's being fixed.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|When you getting it back?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Uh, next week.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Next week? How come it's takin' so long?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Huh?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|I said how come it's takin' so long?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|I don't know. They're, backed up.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Wait a minute, wait a minute, where did you take it?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Where'd I take it?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Yeah.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Where did I take it? Where Did I Take It? (stabbing a knife into a cutting board)  Umm, to that place on, uh Columbus and 85th. Okay?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|What? Jimmy Sherman?
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Yeah.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Yeah, I know the guy. I take my stuff in there all the time. Yeah, I bet I can get your watch back by tomorrow morning.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|No, Kramer, I don't want you to say anything to him.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|No, I'd be happy to. He's a friend of mine.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|I'd like to follow the regular procedures. I don't want any special treatment.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|Hey, I'm going to get that watch back for you by tomorrow, buddy. You see.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|MORTY|Bring me the receipt.
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|KRAMER|I get that too. (exits)
+Jerry's apartment -- Jerry is carrying two suitcases, Morty carries one|JERRY|Be right back. (follows Kramer out)
+In the hallway|action|Jerry hits Kramer on the back as he is going in to his apartment.  Kramer spits out some Pepsi as he spins around to talk with Jerry.
+In the hallway|JERRY|There's no watch ... I threw it in the garbage can on the street. It didn't keep good time. My parents gave it to me, but I didn't like it.  So don't mention it again, okay!
+In the hallway|KRAMER|Y-Yeah, all right.
+In the hallway|JERRY|All right.
+In the hallway|KRAMER|Wait, wait, . . .y-yea, w-no dit dit g- (Kramer noises)
+In the hallway|action|Jerry re-enters his own apartment
+In the hallway|HELEN|What was that about?
+In the hallway|KRAMER|Oh, no, uh, he's got my Calamine lotion and uh, I told him not to return it. If he needs it he should keep it. He's got uh, he's got a thing on his ankle.
+In the hallway|HELEN|How can anyone not like him.
+Back at the doctor's office|MORTY|Hi, Morty Seinfeld. I have a two o'clock appointment.
+Back at the doctor's office|RECEPTIONIST|Yes, Mr. Seinfeld. Would you please fill this out.
+Back at the doctor's office|action|she hands him a clip board with some forms
+Back at the doctor's office|MORTY|All this? This whole thing? It's going to take me forty-five minutes.
+Back at the doctor's office|RECEPTIONIST|I know. It's very long.
+Back at the doctor's office|MORTY|Look at this. It's a book. Employer's address. Whydo they need this? You know I never had a back problem until that night I slept on the convertible sofa. (hu hu) My back was fine.
+Back at the doctor's office|HELEN|Well, it's not the sofa.
+Back at the doctor's office|MORTY|You stick up for that sofa like I'm criticizing a person.
+Back at the doctor's office|HELEN|We got it from Sullivan's. It's a good store.
+Back at the doctor's office|MORTY|Well one day somebody's going to sleep on that thing and we'll get sued.  I hope this doctor knows what he's doing.
+Back at the doctor's office|HELEN|Leo says he's the best there is.
+Back at the doctor's office|MORTY|Leo, I'm listening to Leo now!
+Back at the doctor's office|HELEN|Well you're lucky he was able to get you this appointment. You know what the waiting list is for this guy?
+Back at the doctor's office|MORTY|Well, if he fixes my back I'll be happy. . . . (back to the form) Have you ever had a sexually transmitted disease? That's IT! . . . Here, you got my name, you got my address. That's enough.
+Back at the doctor's office|RECEPTIONIST|Julie, you want to take him back?
+Jerry's Apartment|JERRY|You what? You passed? How could you do that?
+Jerry's Apartment|GEORGE|ahhhhh (exhaling) Jerry, my young friend, you're so naïve. You are so, so naïve. You know about a few things. You know about comedy, a little bit about relationships, some baseball, but you are so far out of your element here, you are embarrassing yourself. Now listen to me. I'm negotiating.  Negotiation, this is what'cha do in business.
+Jerry's Apartment|JERRY|Let me explain to you what you just did. There are literally hundreds of people trying to get pilot deals with them this year. They go with maybe, five. Okay, if we pass, that's it. They go to the next show.
+Jerry's Apartment|GEORGE|Ooooo, I'm scared. . . . Ohoooo they're not going to do the show.
+Jerry's Apartment|JERRY|We're lucky they're even interested in the idea in the first place. We got a show about nothing. With no story. What do you think, they're up there going, hey maybe we should give those two guys, who have no experience and no idea, more money!?
+Jerry's Apartment|GEORGE|Ohooo what are we going to do? I'm shaking! I'm shaking!
+Jerry's Apartment|JERRY|Well, I think you're wrong.
+Jerry's Apartment|GEORGE|Well, we'll just see.
+Jerry's Apartment|JERRY|Yes we will.
+Jerry's Apartment|GEORGE|Yes we will.
+Jerry's Apartment|JERRY|I just said that.
+Jerry's Apartment|GEORGE|I know you did.
+Jerry's Apartment|JERRY|So good for you.
+Jerry's Apartment|GEORGE|So good for you.
+Jerry's Apartment|JERRY|What are you repeating everything I'm saying?
+Jerry's Apartment|GEORGE|What are you repeating everything I'm saying?
+Jerry's Apartment|JERRY|Well George is an idiot.
+Jerry's Apartment|GEORGE|Well George . . . .
+Doctor's examination room|MORTY|All right, all right, Let's go already. They keep you in here a year. They don't give a damn. I could die in here. . . .(open the door and shouts into the hallway) Excuse me! Excuse me! What's going on? I'm here twenty minutes. Could somebody please help me.
+Doctor's examination room|HELEN|(enters) Shhh. Quiet! Everyone can hear you.
+Doctor's examination room|MORTY|Twenty minutes. I've been waiting twenty minutes.
+Doctor's examination room|HELEN|Well the doctor must be busy.
+Doctor's examination room|MORTY|Well then what do they make appointments for if they can't keep them. Huh, hha. Look if I did that in my business I wouldn't have made a nickel.
+Doctor's examination room|action|a nurse walks in the room
+Doctor's examination room|NURSE|Hello, Mr. Seinfeld.
+Doctor's examination room|MORTY|I thought you forgot about me.
+Doctor's examination room|NURSE|We didn't forget.
+Doctor's examination room|action|pulls apart the Velcro blood pressure band
+Doctor's examination room|MORTY|HaAhhh! The Velcro. I can't stand Velcro. It's that t-e-a-r-I-n-g sound. I used to be in raincoats. I refused to put that in any of my lines.
+Doctor's examination room|NURSE|Okay, Mr. Seinfeld, please come this way. We need some X-rays.
+Doctor's examination room|MORTY|Leave all my stuff here?
+Doctor's examination room|NURSE|Leave it.
+Doctor's examination room|action|They exit
+Jerry's Apartment|GEORGE|Oh hey, by the way. Do you want a box 'a, Cuban cigars? I smoked one last night. I got nauseous.
+Jerry's Apartment|JERRY|No I don't want ?em.
+Jerry's Apartment|action|Kramer enters
+Jerry's Apartment|KRAMER|I'll take it. No, I'll take it. What is it?
+Jerry's Apartment|GEORGE|Here you go.
+Jerry's Apartment|KRAMER|Cigars? (hits the box)
+Jerry's Apartment|GEORGE|Yeah, Cubans.
+Jerry's Apartment|KRAMER|Oh, yeah?
+Jerry's Apartment|GEORGE|Yeah, the kind that Castro smoked. You can't buy ?em anywhere.
+Jerry's Apartment|KRAMER|Castro eh? Pasto costillo homiga (nonsense Spanish)
+Jerry's Apartment|action|Kramer puts a cigar in his mouth then goes and sits at the table -- George gets a jar of peanut butter from the fridge and stands at the kitchen counter opening it.
+Jerry's Apartment|action|Intercom Buzzer
+Jerry's Apartment|JERRY|Yeah?
+Jerry's Apartment|VOICE|Federal Express.
+Jerry's Apartment|JERRY|Federal Express? Come on up. . . . Federal Express. I'm not expecting a package.
+Jerry's Apartment|KRAMER|Wooo, you know what you just did? You let a burglar in the building.
+Jerry's Apartment|JERRY|You think so?
+Jerry's Apartment|KRAMER|Federal Express? Of course. That's the oldest trick in the book. You know it might not be a burglar it could be a murderer.
+Jerry's Apartment|JERRY|So you want to just abolish all home package deliveries.
+Jerry's Apartment|KRAMER|Yes. It's dangerous.
+Jerry's Apartment|action|Knock on the door
+Jerry's Apartment|KRAMER|wait det doit ... dit  (Kramer noises -- he prepares for a fight by rolling up a magazine)
+Jerry's Apartment|JERRY|Who is it?
+Jerry's Apartment|KRAMER|Okay, ... gidg gi gt  (backs up and bends his knees, holding the rolled magazine - arm back, ready for a rumble)
+Jerry's Apartment|action|Jerry opens the door -- it's Elaine
+Jerry's Apartment|ALL|Hiiiiiiiiiiiiiiiiiiii!
+Jerry's Apartment|action|Lots of running in place from Jerry, Elaine and George -- with joy and excitement and hands clapping - Elaine jumps into Jerry's arms and hugs him, then turns to George and gives him a big hug with pats on the back -- then turns to Kramer and hugs him.
+Jerry's Apartment|KRAMER|I want one of those!
+Jerry's Apartment|ELAINE|Hiiii Kramer
+Jerry's Apartment|KRAMER|Oh yes
+Jerry's Apartment|ELAINE|Kramer, Hi, I thought you went to California.
+Jerry's Apartment|KRAMER|Well I came back for you.
+Jerry's Apartment|ELAINE|Oh, shut up (pushes Kramer)
+Jerry's Apartment|JERRY|I missed you.
+Jerry's Apartment|ELAINE|Really? You really missed me?
+Jerry's Apartment|JERRY|Yeah, . . . seriously.
+Jerry's Apartment|GEORGE|Yeah, yeah, me to miss -- I miss.
+Jerry's Apartment|JERRY|Yeah, big missing goin' on (spreads arms wide)
+Jerry's Apartment|ELAINE|Ahhhhhh haa ha ha
+Jerry's Apartment|KRAMER|Hey, I'm going to be right back. I'm going to get a match.
+Jerry's Apartment|ELAINE|Oh god, Who's suitcase is this?
+Jerry's Apartment|JERRY|Oh, it's my parents. My father came up to see a back specialist.
+Jerry's Apartment|ELAINE|Oh, god, it's probably from sleeping on that sofa.
+Jerry's Apartment|action|Elaine tosses her purse down and goes to the refrigerator and gets a bottled water
+Jerry's Apartment|GEORGE|Boy, you look really great.
+Jerry's Apartment|JERRY|Yeah.
+Jerry's Apartment|ELAINE|You lie.
+Jerry's Apartment|GEORGE|No, no you really look great.
+Jerry's Apartment|ELAINE|Hu hu, ha ha ha.
+Jerry's Apartment|JERRY|So tell us about the trip. How's Dr. Reston?
+Jerry's Apartment|ELAINE|Oh, he's fine.
+Jerry's Apartment|JERRY|Things are good?
+Jerry's Apartment|ELAINE|Yeah, you know (scratches cheek and sniffs)
+Jerry's Apartment|JERRY|Uh oh.
+Jerry's Apartment|ELAINE|What, Uh oh?
+Jerry's Apartment|JERRY|Did you see that?
+Jerry's Apartment|GEORGE|Yeah, I saw it.
+Jerry's Apartment|action|George grabs the jar of peanut butter from the kitchen counter -- he goes and sits on the couch -- he proceeds to sit quietly and eat from the jar of peanut butter.
+Jerry's Apartment|ELAINE|What?
+Jerry's Apartment|JERRY|It's a tell. You gotta tell.
+Jerry's Apartment|ELAINE|What tell? What's a tell?
+Jerry's Apartment|JERRY|When you ask someone about their relationship and they touch their face, you know it's not going too well. Go ahead ask me how it's going with somebody.
+Jerry's Apartment|ELAINE|Um, uh, who's it going with, uh, Alice?
+Jerry's Apartment|JERRY|Good, going good (scratches chin) And the higher up on the face you go the worse the relationship is getting. You know it is like - pretty good - not bad - I gotta get out.  (scratches chin, nose then covers eyes with hands)
+Jerry's Apartment|ELAINE|How high did I go?
+Jerry's Apartment|GEORGE|You almost did the nose.
+Jerry's Apartment|JERRY|What are you eating my peanut butter out of the jar with your disgusting index fingers? This is a sickening display. (takes the peanut butter jar away from George)
+Jerry's Apartment|GEORGE|What? I'm not eating bread now. I'm off bread.
+Jerry's Apartment|JERRY|(To George) You're off bread.  (To Elaine) So what happened is it over?
+Jerry's Apartment|action|Jerry puts the lid on the peanut butter jar and put's it back in the fridge.
+Jerry's Apartment|ELAINE|No not quite.
+Jerry's Apartment|JERRY|Why not?
+Jerry's Apartment|ELAINE|Well he was my psychiatrist, you know. I mean, he knows all my patterns. He knows In relationships that I always try to find some reason to leave, and so, he says as my doctor, he can't allow me to do this, so he's not letting me leave.
+Jerry's Apartment|GEORGE|What do you mean - "Not letting you?"
+Jerry's Apartment|ELAINE|He has this power over me, okay. I mean he has this way of manipulating every little word that I say. He's like a Svenjolly.
+Jerry's Apartment|JERRY|Svengali.
+Jerry's Apartment|ELAINE|What did I say?
+Jerry's Apartment|JERRY|Svenjolly.
+Jerry's Apartment|ELAINE|Svenjolly? I did not say Svenjolly.
+Jerry's Apartment|JERRY|George?
+Jerry's Apartment|GEORGE|Svenjolly. (licking a little bit of peanut butter from his finger)
+Jerry's Apartment|ELAINE|I don't see how I could have said Svenjolly.
+Jerry's Apartment|JERRY|Well maybe he's got like a, cheerful mental hold on you.
+Jerry's Apartment|action|Elaine makes a face with her jaw going up and down like she is saying laa, laa, laa, laa, laa; Kramer enters
+Jerry's Apartment|KRAMER|You know I can't find a match anywhere.
+Jerry's Apartment|GEORGE|You know what you should do? You should tell this guy you're seeing  somebody else. That's the easiest way to get out of these things.
+Jerry's Apartment|ELAINE|No, it's not going to work with this guy.
+Jerry's Apartment|GEORGE|No, you just tell him ah, an old boyfriend has come back into your life.
+Jerry's Apartment|ELAINE|I don't think so.
+Jerry's Apartment|JERRY|Nice try.
+Jerry's Apartment|GEORGE|Took a shot.
+Jerry's Apartment|KRAMER|This is a good cigar (hair is on fire, white smoke pouring from the back of his head) . . . . . . WOOOOOOOOOOW . . . (runs to bathroom, his arms in the air -- he bangs them in to the top of the hallway door jam and falls into the bathroom)
+Doctor's examining room. Morty enters|MORTY|So, when do I get to see the doctor?
+Doctor's examining room. Morty enters|NURSE|He'll be in with the X-Rays in a few minutes. You can get dressed. (leaves)
+Doctor's examining room. Morty enters|MORTY|(checking pants) They stole my wallet. The bum stole my wallet. (opens door, shouts into the hallway) MY WALLET'S GONE!  MY WALLET'S GONE! I had my wallet in my back pocket. It's gone.
+Doctor's examining room. Morty enters|NURSE|Are you sure?
+Doctor's examining room. Morty enters|MORTY|Yes, I'm sure. I went in to get my X-Ray, Somebody takes my wallet. Is that the operation here?
+Doctor's examining room. Morty enters|action|doctor enters
+Doctor's examining room. Morty enters|MORTY|I'm not interested in the X-Rays. I want my money back. Somebody stole my wallet. I had $225 in there.
+Doctor's examining room. Morty enters|MORTY|Oh, you don't see. You don't see. Well it happened. Believe me.
+Doctor's examining room. Morty enters|HELEN|(enters) What's going on?
+Doctor's examining room. Morty enters|MORTY|They stole my wallet.
+Doctor's examining room. Morty enters|HELEN|What?
+Doctor's examining room. Morty enters|MORTY|Yeah, while I was in getting X-Rayed.
+Doctor's examining room. Morty enters|MORTY|What kind of clip joint are ya running here?
+Doctor's examining room. Morty enters|HELEN|The least you could have done was heard your diagnosis.
+Doctor's examining room. Morty enters|MORTY|I am not interested in his diagnosis. He's a bum.
+Doctor's examining room. Morty enters|HELEN|You came all the way from Florida to see him.
+Doctor's examining room. Morty enters|MORTY|I want to know what kind of an office this is where you can't leave your pants in the room. You tell me.
+Dr. Reston's office|ELAINE|I'm sorry but there's somebody else.
+Dr. Reston's office|ELAINE|Well it's, nothing I planned on happening, you know. It just, kind of happened.
+Dr. Reston's office|ELAINE|Well, there's not really much to tell, you know, he's just a guy, Really.
+Dr. Reston's office|ELAINE|Right...
+Dr. Reston's office|ELAINE|. . . Years. Many years (her voice cracks), um, (clears throat) we've been close friends and then recently something just you know *ehghh* happened.
+Dr. Reston's office|ELAINE|Yeah, yeah. Sexu-ally.
+Dr. Reston's office|action|phone rings
+Dr. Reston's office|ELAINE|I think your um ... (points at the phone)
+Dr. Reston's office|ELAINE|Well, I was just um, telling you about this, other guy.
+Dr. Reston's office|ELAINE|Yeah
+Dr. Reston's office|ELAINE|Yeah. Yeah, (cough, cough) Mm-hm.
+Dr. Reston's office|ELAINE|Oh, no no no no, don't concern yourself with me, because I'm - I'm good. I'm - I'm very good, I mean I'm really very, very good.
+Dr. Reston's office|ELAINE|. . . no.
+Dr. Reston's office|ELAINE|H-his name?
+Dr. Reston's office|ELAINE|Um, well what's the difference?
+Dr. Reston's office|ELAINE|No, no, I just - I just don't see how that's relevant.
+Dr. Reston's office|ELAINE|Uh, his name, um, I don't  - I don't even know, all right you want to know his name? I'll - I'll tell you his name. His name is . . . Kramer.
+Dr. Reston's office|ELAINE|Oh, I'm - I'm really uncomfortable talking about this.
+Dr. Reston's office|ELAINE|What?
+Dr. Reston's office|ELAINE|Oh, oh no, no no no, I can't do that.
+Dr. Reston's office|ELAINE|No, I can't.
+Dr. Reston's office|ELAINE|Okay, okay.  Yeah I'll have Kramer give you a call.
+Restaurant|JERRY|So you didn't even let the doctor treat you?
+Restaurant|MORTY|I wouldn't give him the satisfaction.
+Restaurant|HELEN|Why did you leave your wallet in your pants?
+Restaurant|MORTY|What are you talking about? What was I supposed to hide it somewhere?
+Restaurant|HELEN|You could've taken it with you.
+Restaurant|MORTY|Oh, yeah, I'll be lying on an X-Ray table with my wallet in my mouth.
+Restaurant|action|Leo enters
+Restaurant|LEO|Hello...
+Restaurant|JERRY|Hi Uncle Leo.
+Restaurant|LEO|I just talked to Dr. Dembrow's son. He said they almost had to call the police.
+Restaurant|MORTY|What are you talking about? I'm the one who should have called the police. They stole my wallet.
+Restaurant|LEO|You know how hard it was for me to get that appointment for you? You can't just walk in on this guy. He did me a personal favor.
+Restaurant|MORTY|All right, Leo.
+Restaurant|LEO|And you walked out without paying.
+Restaurant|MORTY|How was I supposed to pay? I didn't have my wallet.
+Restaurant|LEO|Well, I hope you send him a check.
+Restaurant|MORTY|What for?
+Restaurant|LEO|What for? This man was nice enough to see you. He did me a personal favor.
+Restaurant|MORTY|That's the second time you said "personal favor". Why do you keep saying that?
+Restaurant|LEO|I said it once.
+Restaurant|MORTY|Twice! And Dembrow doesn't even know you. His son happens to live on your floor.
+Restaurant|action|Leo does a little chair dance in his seat -- Mocking Morty with his hands and mouth
+Restaurant|HELEN|Leo, where did you get that watch?
+Restaurant|LEO|You know where I got this? (flashback) I found it in the garbage can. It kept terrible time. I brought it over to Jimmy Sherman right here on 85th and Columbus. Gave it to me back the next day. Works great. What kind of idiot throws a way a perfectly good watch?
+Restaurant|HELEN|Morty, doesn't that watch look like the one that we gave Jerry.
+Restaurant|action|Morty reaches across the table at the watch on Leo's wrist
+Restaurant|JERRY|Hey, where's the waiter. Dad, what say we have some red meat tonight. Let's live a little. .
+Restaurant|HELEN|Let me see that.
+Restaurant|action|looking at watch
+Restaurant|JERRY|Could we continue this another time.

@@ -1,0 +1,346 @@
+setting: night club|JERRY|To me, the whole concept of fear of success is proof that we are definitely scraping the bottom of the fear barrel. Are we gonna have to have AA-type meetings for these people? They'll go: "Hi, my name is Bill, and the one thing I'm worried about is to have a stereo and a cream-colored couch." According to most studies, people's number-one fear is public speaking. Number two is death. *Death* is number two! Now, this means to the average person, if you have to go to a funeral, you're better off in the casket than doing the eulogy.
+setting: Jerry's|action|Jerry is entering his apartment, following by Kramer
+setting: Jerry's|KRAMER|Why can't I play Kramer?
+setting: Jerry's|JERRY|Look we've been through this already. You're not an actor!
+setting: Jerry's|KRAMER|Neither are you.
+setting: Jerry's|JERRY|I know. So why do we need two people in the show that can't act?
+setting: Jerry's|KRAMER|Oh come on Jerry. How hard is it to act. You say something, I'll pretend it's funny.
+setting: Jerry's|JERRY|My grandmother's in the hospital.
+setting: Jerry's|KRAMER|Ha ha ha. Your grandmother's in the hospital!
+setting: Jerry's|JERRY|This is real believable.
+setting: Jerry's|KRAMER|What you didn't think I was really laughing?
+setting: Jerry's|JERRY|It stinks.
+setting: Jerry's|KRAMER|Let me see you do it.
+setting: Jerry's|JERRY|Say something funny.
+setting: Jerry's|KRAMER|Alright. I've never been to Mars but I imagine it's quite lovely.
+setting: Jerry's|JERRY|Ah..........
+setting: Jerry's|KRAMER|Mine was better than that! Come on look. (starts to laugh again, Jerry too)
+setting: Jerry's|action|George enters while they're both laughing
+setting: Jerry's|GEORGE|Why are two pretending to be laughing?
+setting: Jerry's|JERRY|We're acting. (they stop laughing)
+setting: Jerry's|GEORGE|Oh, real good. (George makes a face like: you stink) Any word from NBC?
+setting: Jerry's|JERRY|No.
+setting: Jerry's|GEORGE|I don't understand. They're supposed to be casting this week. Something's wrong. Maybe they're not doing it.
+setting: Jerry's|KRAMER|(to Jerry) Well at least let me audition.
+setting: Jerry's|JERRY|(to George) He wants to play Kramer in the Pilot.
+setting: Jerry's|KRAMER|(to George) Yeah!
+setting: Jerry's|GEORGE|Out of the question.
+setting: Jerry's|KRAMER|Oughh!
+setting: Jerry's|GEORGE|(to Jerry) How could we not hear anything? What's with this Russel? What's he doing? (Jerry raises his arms and shoulders like: he doesn't know)
+setting: Jerry's|action|scene ends
+setting: Peter McManus cafe, an Italian restaurant|action|Elaine and Russell are sitting down at a table
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|I really appreciate you coming.
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|Oh, that's O.K. I don't have much time though. So...
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|All right, first of all, I want to apologize for all the phone calls. It's just--It's just-- (awkward pause) I don't understand, we went out once...
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|That was two months ago.
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|Yes I know. I just-- I can't get you out of my mind. Ever since that-- that day in the restaurant when we met... (we see a flashback from 'The Shoes' of Elaine showing her cleavage and asking Russell for his Ketchup secret)
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|Russell, you are the president of NBC. You can have any woman you want. (picks up the bowl of munchies on the table)
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|But I want you.
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|God I hate these mixtures. Why don't they just put pretzels on the table. Even peanuts would be good, but I don't know how eats these cheesy things (she does).
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|Is it something I said... or did?
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|Um... Look Russell... You're a very sweet guy. But I got to be honest with you. I don't like television... and that's your world. That's your life. I mean maybe if you were in... I don't know... Greenpeace or something, that would be different, but network television... I mean, come on, Russell, you're part of the problem.
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|Oh Elaine, we're doing some really very interesting things right now. We've got some very exciting pilots for next season. We have one with a bright young comedian, Jerry Seinfeld.
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|Oh yeah, oh yeah. I've heard of him. He's that "Did you ever notice this? Did you ever notice that?" guy.
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|Yeah. Anyway it's a ground breaking show.
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|Really? What is it about?
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|(a little more enthusiast) Well, really, it's very unusual. It's about nothing.
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|(surprised) What do you mean it's about nothing?
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|(starts doing George at the first meeting with NBC in 'The Pitch') For example, what did you do today?
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|Um, I got up. Um, I went to work. Then I came here.
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|There's a show. that's a show.
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|Russell, see, I'm really not interested in this stuff and I do have to go to work (she gets up). So...
+setting: Peter McManus cafe, an Italian restaurant|RUSSELL|(stops doing George, he's down again) Elaine, When--when--when are we gonna see each other again.
+setting: Peter McManus cafe, an Italian restaurant|ELAINE|I'm sorry Russell. I'm sorry O.K.? Bye-bye. (Russell, still sitting watches her leaving).
+setting: Peter McManus cafe, an Italian restaurant|action|scene ends
+setting: Jerry's|action|back to when we left earlier with Jerry, Kramer and George. Jerry is answering the phone while Kramer is about to go back into his apartment
+setting: Jerry's|JERRY|Hello? Yeah he's here. (to Kramer) Hey! It's for you.
+setting: Jerry's|GEORGE|He's getting phone calls here now? (he's standing near the counter and eating chips out of a big bag)
+setting: Jerry's|action|Kramer sits down and starts to talk on the phone
+setting: Jerry's|JERRY|(to George) Again with the sweat pants?
+setting: Jerry's|GEORGE|What? I'm comfortable.
+setting: Jerry's|JERRY|You know the message you're sending out to the world with these sweat pants? You're telling the world: "I give up. I can't compete in normal society. I'm miserable, so I might as well be comfortable." (George is baffled)
+setting: Jerry's|KRAMER|(to the phone) Hold on a second I got another call. Hello? Yeah, he'll call you back. (Jerry and George look at each other)
+setting: Jerry's|JERRY|(to Kramer) Who is it?
+setting: Jerry's|KRAMER|That's NBC.
+setting: Jerry's|JERRY|NBC!?! Give me the phone!
+setting: Jerry's|KRAMER|I'm in the middle of a conversation here.
+setting: Jerry's|JERRY|Get off the phone!
+setting: Jerry's|KRAMER|(to the phone) Look, I'll call you back. (hangs up)
+setting: Jerry's|JERRY|You know I'm waiting to hear from them. Who was it?
+setting: Jerry's|KRAMER|Russell Dalrimple's secretary.
+setting: Jerry's|JERRY|All right. Now you're doing something to help me. (to the phone) Hello yeah it's Jerry Seinfeld returning the call. Uh-huh.. O.K. great thanks a lot. (hangs up)(to George) Casting tomorrow at NBC. 4:00. We're in business baby, the pilot's on. You're gonna successful. (George looks disappointed)
+setting: Jerry's|action|scene ends
+setting: Dana's office|GEORGE|What if the pilot gets picked up and it becomes a series?
+setting: Dana's office|DANA|That'd be wonderful George, you'll be rich and successful.
+setting: Dana's office|GEORGE|Yeah, that's exactly what I'm worried about. God would never let me be successful. He'd kill me first. He'd never let me be happy.
+setting: Dana's office|DANA|I thought you didn't believe in God?
+setting: Dana's office|GEORGE|I do for the bad things.
+setting: Dana's office|DANA|Do you hear what you're saying? God isn't out to get you George. What... What is that on your lip?
+setting: Dana's office|GEORGE|What?
+setting: Dana's office|DANA|It's like a discoloration. It's white.
+setting: Dana's office|GEORGE|(gets up and picks a mirror) Yes. Yes, it's white. Why it's white.
+setting: Dana's office|DANA|You'd better get that checked out.
+setting: Dana's office|GEORGE|Better get that checked out?
+setting: Dana's office|DANA|I would.
+setting: Dana's office|GEORGE|What kind of a therapist are you? I'm telling I'm scared that something terrible is gonna happen to me, right away you start looking for tumors?
+setting: Dana's office|DANA|I'm trying to help you.
+setting: Dana's office|GEORGE|What are you like a sadist? No matter how bad somebody feels, you can make 'em feel worse. I bet you're rooting for a tumor. (pointing to her)
+setting: Dana's office|DANA|I think you'd better go.
+setting: Dana's office|GEORGE|Oh I'm going baby! I'm going! (he leaves)
+setting: Dana's office|action|scene ends
+setting: Jerry and George in a cab at a light|JERRY|Where?
+setting: Jerry and George in a cab at a light|GEORGE|Right here. (showing his lip)
+setting: Jerry and George in a cab at a light|JERRY|Get out of here, it's nothing. (Jerry knows George is hypochondriac. See 'The Heart Attack')
+setting: Jerry and George in a cab at a light|GEORGE|(to the cab driver) Excuse me, do you see anything on my lip here?
+setting: Jerry and George in a cab at a light|CABBIE|Yeah, it's like a discoloration.
+setting: Jerry and George in a cab at a light|GEORGE|Oh, my God.
+setting: Jerry and George in a cab at a light|CABBIE|Yeah, it's all white.
+setting: Jerry and George in a cab at a light|GEORGE|(to Jerry) It's all white Jerry! It's all white!
+setting: Jerry and George in a cab at a light|JERRY|Would you stop?
+setting: Jerry and George in a cab at a light|CABBIE|I would get that checked out if I were you.
+setting: Jerry and George in a cab at a light|GEORGE|Again with the checked out. I'm not going to the doctor. If I don't to the doctor, then nothing will happen to me. If I go he might find something.
+setting: Jerry and George in a cab at a light|JERRY|If you go, maybe they'll catch it in time.
+setting: Jerry and George in a cab at a light|GEORGE|Catch what in time?
+setting: Jerry and George in a cab at a light|JERRY|Whatever it is.
+setting: Jerry and George in a cab at a light|GEORGE|You think it's something?
+setting: Jerry and George in a cab at a light|CABBIE|Ah! I hate these bums with their filthy rags. No no no, I don't want it, get away, get away from my car (he starts his wipers)
+setting: Jerry and George in a cab at a light|JERRY|(to George) You know these squeegee-- Oh my God! It's crazy Joe Devola.
+setting: Jerry and George in a cab at a light|action|scene ends
+setting: NBC|action|Stu and Jay are sitting. George is standing in front of them, asking about his lip. The Casting Director, a woman, is sitting across from them on a couch. Jerry is in the back, standing and looking through the window. There's a box of raisins on the coffee table.
+setting: NBC|STU|(to George) Yeah I think I see it. It's like a white discoloration.
+setting: NBC|GEORGE|(to Jay) What do you think it is?
+setting: NBC|JAY|It's like a... white discoloration. (we understand now why a sitcom needs so many producers)
+setting: NBC|JERRY|Yeah, where is Russell? I thought he was gonna be here.
+setting: NBC|action|George sits down next to Stu and Jay, and grabs a magazine and the box of raisins. Jerry walks over to Goerge and sits next to him.
+setting: NBC|STU|Oh you know I don't know. I saw him in the hall this morning, I said hello to him. He walked right past me.
+setting: NBC|JAY|He must be worried about the fall schedule.
+setting: NBC|STU|Ah, it's a real bear.
+setting: NBC|GEORGE|Yeah. So what's going on? We're gonna shoot the pilot and then it's gonna be on TV the following week?
+setting: NBC|STU|Yeah. Right.
+setting: NBC|action|the casting director enters with an actor
+setting: NBC|MARK|Hey how you doing?
+setting: NBC|JERRY|(thinking) They've gotta be kidding.
+setting: NBC|GEORGE|(thinking) This guy's perfect.
+setting: NBC|MARK|Anyone call for Vandelay Industries? (George is the only one in the room to find Mark funny)
+setting: NBC|MARK|Listen to me. I told the unemployment office I was close to a job with Vandelay Industries and I gave them your phone number. So, when you answer the phone now, you've got to say: "Vandelay Industries".
+setting: NBC|MARK|Right.
+setting: NBC|MARK|You're in latex.
+setting: NBC|MARK|I don't know, you manufacture it.
+setting: NBC|action|scene cuts
+setting: NBC|action|the casting director enters with another actor
+setting: NBC|ALL|Hi Michael. How you doing?
+setting: NBC|JERRY|Everything all right?
+setting: NBC|MICHAEL|I just came from the podiatrist. I have a mole on my foot. I've got a little gangrene, they're probably gonna have to amputate. (everyone laugh except George)
+setting: NBC|MICHAEL|Yeah. What are we looking at here? Is this guy like a real loser?
+setting: NBC|GEORGE|No, not a loser!
+setting: NBC|MICHAEL|A man gave me a, you know, massage. (everyone laugh except George)
+setting: NBC|MICHAEL|Well, he-- he had his hands, you know, and uh, he was, huh, ...
+setting: NBC|MICHAEL|He was you know... he was touching and rubbing. (loud laughter)
+setting: NBC|MICHAEL|I think it moved.
+setting: NBC|action|scene cuts
+setting: NBC|action|the casting director enters with a beautiful actress
+setting: NBC|MELISSA|Hi.
+setting: NBC|ALL|Hi. How you doing.
+setting: NBC|MELISSA|It's like a bald convention out there! (she saw George) Sorry. I, uh, made a faux pas.
+setting: NBC|JERRY|No you didn't. He knows he's bald.
+setting: NBC|MELISSA|So how about that guy wearing sweat pants? I mean did he do that for the part or does he walk around like that? (Jerry approves with a nod, George drops his notepad on the coffee table)
+setting: NBC|JERRY|(getting up) Uh, you know what? I'll read with her.
+setting: NBC|MELISSA|Oh, great.
+setting: NBC|action|the casting director leaves the chair to Jerry. Jerry sits in front of Melissa and slides the chair very close to her
+setting: NBC|JERRY|Alright, want to start?
+setting: NBC|MELISSA|Yeah.
+setting: NBC|JERRY|O.K.
+setting: NBC|MELISSA|Ahem. What was that look?
+setting: NBC|JERRY|What look?
+setting: NBC|MELISSA|That look you just gave me?
+setting: NBC|JERRY|I gave a look?
+setting: NBC|MELISSA|Yes.
+setting: NBC|GEORGE|Thank you! Thank you very much. (Jerry and Melissa stop and look at George)
+setting: NBC|action|We see many short scenes with a wide variety of fat, tall, or small actors opening the door like Kramer does. Finally enters Tom Pepper, the guy that will get the role o Kramer
+setting: NBC|ALL|Hi. How you doing?
+setting: NBC|TOM|(to Jerry and very seriously) How you doing?
+setting: NBC|JERRY|(smiling and surprised at the way Tom is talking) Good.
+setting: NBC|action|scene cuts
+setting: NBC|action|Tom and the casting director are into a scene
+setting: NBC|TOM|(standing) Levels.
+setting: NBC|TOM|Yeah. I'm getting rid of all, all my furniture. All of it! I'm building... levels... with steps... completely carpeted... (making the gesture of carpeting steps) with pillows. (everyone laugh. He sits down) Like Ancient Egypt.
+setting: NBC|TOM|Oh! I'll be comfortable. (laughter, applause. He gets up, goes to the coffee table)
+setting: NBC|GEORGE|Very nice
+setting: NBC|JERRY|Very good
+setting: NBC|GEORGE|Very nice Tom, that was terrific.
+setting: NBC|TOM|May I? (pointing the box of raisins)
+setting: NBC|GEORGE|Sure. Thank you for coming in. (Tom eats some raisins)
+setting: NBC|JERRY|(to George) It was a wonderful reading.
+setting: NBC|GEORGE|Yeah. Really.
+setting: NBC|TOM|Well, bye.
+setting: NBC|GEORGE|Take care. Take it easy. (Tom leaves with the casting director)
+setting: NBC|STU|Now, I thought he was really good, very funny.
+setting: NBC|JERRY|Yeah, I liked him.
+setting: NBC|GEORGE|What happened to the raisins?
+setting: NBC|JAY|Yeah, there was a box of raisins there!
+setting: NBC|GEORGE|Did he just steal the raisins?
+setting: NBC|STU|You think he stole them?
+setting: NBC|JERRY|(to Kramer) What are you doing here?
+setting: NBC|STU|Wait a minute, I know you. You're the guy from the Calvin Klein underwear ads.
+setting: NBC|KRAMER|That's true.
+setting: NBC|action|Jerry and George look at each other. They're gonna let Kramer have a shot at it. Kramer unfold the script and smile at Jerry and George, very confident.
+setting: NBC|KRAMER|(acting very bad) I saw Joe DiMaggio in Dinky Doughnuts again, but this time, I went in. (pause, stops acting) Oh! Uh, where's the bathroom?
+setting: NBC|STU|I think if you go down the hall, it's on the right at the very end.
+setting: NBC|KRAMER|Yeah. Be right back. (Kramer leaves)
+setting: NBC|action|We see Kramer, groaning and holding his stomach, running down the hall, and opening the bathroom's door. Someone in there says: "Sorry buddy, full house." We then see Kramer outside leaving the building and running across the street to a restaurant: "Sorry, customers only" ...running into a movie theater: "Hey you need a ticket!" ...running through the park...
+setting: NBC|action|scene ends
+setting: Monk's|action|Jerry and Elaine at a booth
+setting: Monk's|ELAINE|So who's playing Elaine?
+setting: Monk's|JERRY|Oh, don't worry about it. Very talented, very takented young actress.
+setting: Monk's|ELAINE|Really?
+setting: Monk's|JERRY|Yes.
+setting: Monk's|ELAINE|Who is it?
+setting: Monk's|JERRY|She's an eskimo, actually.
+setting: Monk's|ELAINE|Oh, my God (not in the mood to be kidding)
+setting: Monk's|JERRY|She came down from Juno by sleigh, she was in the Iditarod. Got to the finish line, just kept going. She's got the dogs with her in the hotel room.
+setting: Monk's|ELAINE|Listen, was Russell at the casting?
+setting: Monk's|JERRY|No, he didn't show up.
+setting: Monk's|ELAINE|You know, I'm a little bit worried about him. I don't understand. We had one date two months ago. Am I that charming and beautiful?
+setting: Monk's|JERRY|No. No you're not.
+setting: Monk's|ELAINE|Why do I keep setting you up?
+setting: Monk's|JERRY|I don't know.
+setting: Monk's|ELAINE|(to the waitress) Could we get a little more? (she doesn't listen and walks away) Aghh... You know ever since this new owner took over, the service here is *really* slow.
+setting: Monk's|JERRY|Yeah. Have you noticed anything else that's different since the new management?
+setting: Monk's|ELAINE|Mmm. They're putting a little lemon in the tuna. I love that.
+setting: Monk's|JERRY|Beside that. Look at the waitresses.
+setting: Monk's|ELAINE|Yeah? (we see that all the waitresses have big breasts)
+setting: Monk's|JERRY|What physical characteristic would you say is common to all of them?
+setting: Monk's|ELAINE|Ah...
+setting: Monk's|JERRY|I mean look at this. Every waitress working here has the same proportions. Wouldn't you say?
+setting: Monk's|ELAINE|Yes, I would say.
+setting: Monk's|JERRY|What's going on here. How is that possible?
+setting: Monk's|ELAINE|Do you think it's a coincidence?
+setting: Monk's|JERRY|No. I haven't seen four women like this together outside of a Russ Meyer film.
+setting: Monk's|action|the waitress finally came with the coffee
+setting: Monk's|ELAINE|(to the waitress) Hi. Excuse me. Who does all the hiring waitresses here?
+setting: Monk's|WAITRESS|He does. (pointing to the manager, Mr. Visaki) In fact we're looking for another girl if you know anyone. (she walks away)
+setting: Monk's|ELAINE|You know what? That's discriminatory. That is unfair. Why should these women have all the advantages? It's not enough they get all the attention from men, they have to get all the waitress jobs, too?
+setting: Monk's|JERRY|Hey that's life. Good-looking men have the same advantages. You don't see any handsome homeless.
+setting: Monk's|action|scene ends
+setting: doctor's clinic|GEORGE|You see, It's right here. It's all white...
+setting: doctor's clinic|DOCTOR|Oh yeah. Yeah. I've never seen this before.
+setting: doctor's clinic|GEORGE|You've never seen this before?
+setting: doctor's clinic|DOCTOR|I'm gonna have to take a biopsy on that. (George grabs the doctor's arm)
+setting: doctor's clinic|GEORGE|(dramatically) A what?
+setting: doctor's clinic|DOCTOR|A biopsy.
+setting: doctor's clinic|GEORGE|A biopsy?
+setting: doctor's clinic|DOCTOR|Yeah.
+setting: doctor's clinic|GEORGE|Cancer? Is it cancer? Do I have cancer?
+setting: doctor's clinic|DOCTOR|Well I don't know what it is.
+setting: doctor's clinic|action|scene ends
+setting: Jerry's|GEORGE|A biopsy!
+setting: Jerry's|JERRY|What did he say?
+setting: Jerry's|GEORGE|He said he didn't know what it was.
+setting: Jerry's|JERRY|Alright. So?
+setting: Jerry's|GEORGE|When I asked him if it was cancer, he didn't give me a "get outta here". That's what I wanted to hear: "Cancer? Get outta here?"
+setting: Jerry's|JERRY|Well, maybe he doesn't have a "get outta here" kind of personality.
+setting: Jerry's|GEORGE|How could you be a doctor and not say "get outta here"? It should be part of the training at medical school: "Cancer? Get outta here!" "Go home! What are you crazy? It's a little test. It's nothing. You're a real nut. You know that?" (Jerry gives him half of his sandwich to hopefully shut him up) I told you that God would never let me be successful. I never should've written that pilot. Now the show will be a big hit, we'll make millions of dollars, and I'll be dead. Dead Jerry. Because of this. (showing his lip)
+setting: Jerry's|JERRY|Can't you at least die with a little dignity?
+setting: Jerry's|GEORGE|No I can't. I can't die with dignity. I have no dignity. I want to be the one person who doesn't die with dignity. I live my whole life in shame. Why should I die with dignity?
+setting: Jerry's|action|Kramer enters
+setting: Jerry's|JERRY|Hey. What happened to you yesterday?
+setting: Jerry's|KRAMER|I got mugged.
+setting: Jerry's|GEORGE|You got mugged?
+setting: Jerry's|JERRY|Mugged?
+setting: Jerry's|KRAMER|Well, I wouldn't have minded it so much but I was running home to go to the bathroom.
+setting: Jerry's|JERRY|Why didn't you use the bathroom in the building?
+setting: Jerry's|KRAMER|It was full. I tried a few other places, you know, but that didn't work. I mean it was an emergency Jerrry. I was really percolating... So I decided to run home through the park and then these two guys they stopped me and...
+setting: Jerry's|action|door buzzer
+setting: Jerry's|JERRY|Yeah?
+setting: Jerry's|ELAINE|It's me.
+setting: Jerry's|JERRY|Come on up.
+setting: Jerry's|KRAMER|But now I have a big problem, buddy.
+setting: Jerry's|JERRY|What is it?
+setting: Jerry's|KRAMER|Well, I waited so long I-- I missed my chance.
+setting: Jerry's|JERRY|You didn't go?
+setting: Jerry's|KRAMER|No. And now I can't get it back.
+setting: Jerry's|action|George gives back the sandwich to Jerry and goes to the bathroom
+setting: Jerry's|JERRY|The % thing to do is just not think about it.
+setting: Jerry's|KRAMER|How could you not think about it?
+setting: Jerry's|action|Elaine enters
+setting: Jerry's|ELAINE|Hey.
+setting: Jerry's|KRAMER|(mumbles and leaves)
+setting: Jerry's|ELAINE|What's the matter with him?
+setting: Jerry's|JERRY|He's a little backed up.
+setting: Jerry's|ELAINE|Oh...
+setting: Jerry's|action|George gets back from the bathroom and takes back the sandwich from Jerry's hand and sit on the couch.
+setting: Jerry's|GEORGE|Elaine.
+setting: Jerry's|ELAINE|So I spoke to some of my sisters about that coffee shop.
+setting: Jerry's|JERRY|Oh, the sisters (he sits at the table)
+setting: Jerry's|action|Elaine goes into Jerry' bedroom
+setting: Jerry's|GEORGE|(to Jerry) Have you seen the waitresses in there lately? I never had so much coffee in my life.
+setting: Jerry's|ELAINE|So we decided I should go over there and apply for a job myself.
+setting: Jerry's|GEORGE|Apply for a job? What for?
+setting: Jerry's|ELAINE|Because, it's discriminatory (she comes back wearing one of Jerry's shirts, untucked)
+setting: Jerry's|GEORGE|It's a coincidence.
+setting: Jerry's|JERRY|This is what you gonna wear?
+setting: Jerry's|ELAINE|Yeah.
+setting: Jerry's|JERRY|You're not gonna get the job.
+setting: Jerry's|ELAINE|Exactly.
+setting: Jerry's|action|phone rings, Jerry gets up and answers, Elaine sits on the couch's arm next to George and takes a bite of his sandwich
+setting: Jerry's|JERRY|(to the phone) Hello. Oh, hi. Yeah I guess we could do that. At what time? All right. I'll see you there. O.K., bye. (hangs up)
+setting: Jerry's|ELAINE|Who was it?
+setting: Jerry's|JERRY|TV Elaine. She wants to get together and talk about the part.
+setting: Jerry's|ELAINE|What about the dogs?
+setting: Jerry's|JERRY|They're having sex in the hotel room.
+setting: Jerry's|action|scene ends
+setting: Peter McManus cafe, same table as earlier|action|Jerry and TV Elaine: Sandi Robbins
+setting: Peter McManus cafe, same table as earlier|SANDI|So, the Elaine character is based on someone you know.
+setting: Peter McManus cafe, same table as earlier|JERRY|Yes.
+setting: Peter McManus cafe, same table as earlier|SANDI|And she's really your ex-girlfriend?
+setting: Peter McManus cafe, same table as earlier|JERRY|Uh, Huh, yeah.
+setting: Peter McManus cafe, same table as earlier|SANDI|I want to get to know her from the inside. What is she like? Tell me about her.
+setting: Peter McManus cafe, same table as earlier|JERRY|Well, she's fascinated with Greenland. She enjoys teasing animals, banlon, and seeing people running for their lives. She loves throwing garbage out the window, yet she's extremely dainty.
+setting: Peter McManus cafe, same table as earlier|SANDI|How would she eat a hamburger?
+setting: Peter McManus cafe, same table as earlier|JERRY|With her hands.
+setting: Peter McManus cafe, same table as earlier|SANDI|What about pasta?
+setting: Peter McManus cafe, same table as earlier|JERRY|Also with her hands.
+setting: Peter McManus cafe, same table as earlier|SANDI|Seriously... I want to experience everything she's experienced.
+setting: Peter McManus cafe, same table as earlier|JERRY|Everything?
+setting: Peter McManus cafe, same table as earlier|SANDI|Everything.
+setting: Peter McManus cafe, same table as earlier|JERRY|All right she cuts her pasta with a knife.
+setting: Peter McManus cafe, same table as earlier|SANDI|That's good. What's her favorite movie?
+setting: Peter McManus cafe, same table as earlier|JERRY|Shaft.
+setting: Peter McManus cafe, same table as earlier|SANDI|You got to get me a picture. What about sex?
+setting: Peter McManus cafe, same table as earlier|JERRY|She likes talking during sex.
+setting: Peter McManus cafe, same table as earlier|SANDI|Oh... dirty talking?
+setting: Peter McManus cafe, same table as earlier|JERRY|No. Just chitchat, movies, current events, regular stuff. You know Sandi-- (looking at his watch)
+setting: Peter McManus cafe, same table as earlier|SANDI|Elaine.
+setting: Peter McManus cafe, same table as earlier|JERRY|What?
+setting: Peter McManus cafe, same table as earlier|SANDI|Call me Elaine.
+setting: Peter McManus cafe, same table as earlier|JERRY|All right. Elaine.
+setting: Peter McManus cafe, same table as earlier|SANDI|How does Elaine kiss?
+setting: Peter McManus cafe, same table as earlier|JERRY|Well--
+setting: Peter McManus cafe, same table as earlier|SANDI|Does she kiss... like this? (she kisses Jerry)
+setting: Peter McManus cafe, same table as earlier|JERRY|Actually she has a thing where she spirals her tongue around, it's like--
+setting: Peter McManus cafe, same table as earlier|SANDI|Like this? (kisses again but with the spiral)
+setting: Peter McManus cafe, same table as earlier|JERRY|I think you got it.
+setting: Peter McManus cafe, same table as earlier|action|scene ends
+setting: Monk's|action|Kramer and Tom at a the booth behind the cashier
+setting: Monk's|KRAMER|I like to eat spaghetti with just a fork. Because I can keep the strands long, and I can slurp it out to my mouth. Like this look. (faking to slurp spaghetti) Now sex, I like the bottom. Let them do all the work. You should be writing this stuff down... (waitress comes to take the order) Bran lakes...100%. I got a big problem.
+setting: Monk's|TOM|I'll have a hamburger. That's it.
+setting: Monk's|KRAMER|Yeah, that's good. Oh, now I like to play golf.
+setting: Monk's|TOM|This stuff doesn't matter to me. See, I'm gonna do the character like me, not like you.
+setting: Monk's|KRAMER|You gotta play him like me. I'm Kramer.
+setting: Monk's|TOM|I'm Kramer.
+setting: Monk's|KRAMER|Whoa, I'm Kramer.
+setting: Monk's|action|scene cuts to Elaine who enters and walks to the manager
+setting: Monk's|ELAINE|No, I'd like to apply for a waitress job.
+setting: Monk's|ELAINE|Oh yeah. I've been a professional waitress for the last 10 years. I've worked all over the city. These, uh, are my references. I'm sure you'll find that I'm more than qualified.
+setting: Monk's|ELAINE|You're in big trouble mister. And I mean trouble with a capital 'T'. (she leaves)
+setting: Monk's|action|scene ends
+setting: The Equal Employment Opportunity Commission Office|ELAINE|Anyway there's at least four of them, and they're all huge. And one is bigger than the next. It's like a Russ Meyer movie.
+setting: The Equal Employment Opportunity Commission Office|FRED|Who's Russ Meyer?
+setting: The Equal Employment Opportunity Commission Office|ELAINE|Oh, he's this guy who made these terrible movies in the 70's with these kinds of women. He's obsessed. He's obsessed with breasts. That's hard to say.
+setting: The Equal Employment Opportunity Commission Office|FRED|Anyway, go on.
+setting: The Equal Employment Opportunity Commission Office|ELAINE|Um... Well, there's not really much more to tell. He was looking for waitresses, and I went in to apply for the job. And, he looked me up and down and he rejected me.
+setting: The Equal Employment Opportunity Commission Office|FRED|(to a guy in the hall at the water cooler machine) Paul. Come in for a second. I want you to listen to this.
+setting: The Equal Employment Opportunity Commission Office|PAUL|(to Elaine) Hi.
+setting: The Equal Employment Opportunity Commission Office|ELAINE|Hi.
+setting: The Equal Employment Opportunity Commission Office|FRED|Paul, woman here claims there's a restaurant on the West side that's only hiring large-breasted women.
+setting: The Equal Employment Opportunity Commission Office|PAUL|(to Elaine) Really?

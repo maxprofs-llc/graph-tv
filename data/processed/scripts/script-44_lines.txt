@@ -1,0 +1,392 @@
+Jerry's apartment|action|Enter Kramer with one pant leg on
+Jerry's apartment|JERRY|(going through couch cushions) Where the hell did I put this?
+Jerry's apartment|KRAMER|What are you looking for?
+Jerry's apartment|JERRY|The remote, the remote, I can't find the remote. Did I lost, I lost it. Did you take it? Did you put it some place?
+Jerry's apartment|KRAMER|No, no, no.
+Jerry's apartment|action|Jerry notices Kramer's look
+Jerry's apartment|JERRY|All right, what is this?
+Jerry's apartment|KRAMER|(clueless) what is what?
+Jerry's apartment|JERRY|All right, very funny. I get it.
+Jerry's apartment|KRAMER|You're in a weird mood.
+Jerry's apartment|JERRY|Come on. Go back to your apartment and fix it.
+Jerry's apartment|KRAMER|Fix what?
+Jerry's apartment|JERRY|Your pants!
+Jerry's apartment|action|Kramer is startled when he realizes his looks
+Jerry's apartment|KRAMER|what is this? What have I got one pant leg on for?
+Jerry's apartment|JERRY|Don't you know? Look-look at your face! You only shaved the right side of your face! What is this? A joke?
+Jerry's apartment|KRAMER|No, t's a joke.. a joke... a joke... you think this is funny?
+Jerry's apartment|JERRY|Go look at your face in the mirror.
+Jerry's apartment|KRAMER|Wha-huh-wha-huh...
+Jerry's apartment|action|door buzzer
+Jerry's apartment|JERRY|(pressing intercom) yeah?
+Jerry's apartment|GEORGE|(on intercom) It's George.
+Jerry's apartment|JERRY|Come on up.
+Jerry's apartment|KRAMER|I don't believe this.
+Jerry's apartment|JERRY|You mean, you didn't know you were doing any of these things?
+Jerry's apartment|KRAMER|No, I swear.
+Jerry's apartment|JERRY|I bet this is from that kick from that crazy Joe Davola. You better see a doctor and get some X-rays.
+Jerry's apartment|action|Enter George
+Jerry's apartment|GEORGE|(to Kramer) Ah! You're just the man I'm looking for.
+Jerry's apartment|KRAMER|Me?
+Jerry's apartment|action|George hands Kramer a paper
+Jerry's apartment|GEORGE|Yeah, here you go.
+Jerry's apartment|KRAMER|What's this?
+Jerry's apartment|GEORGE|A dry-cleaning bill?
+Jerry's apartment|JERRY|From that woman at NBC?
+Jerry's apartment|GEORGE|Yeah.
+Jerry's apartment|KRAMER|A dry-cleaning bill for what?
+Jerry's apartment|GEORGE|For vomiting on her vest!
+Jerry's apartment|KRAMER|Oh, come on George! I didn't do that on purpose!
+Jerry's apartment|GEORGE|Well, I shouldn't have to pay for it!
+Jerry's apartment|KRAMER|Well, neither should I! Jerry's the one who left the milk in the refrigerator.
+Jerry's apartment|GEORGE|(to Jerry) Yeah, your milk.
+Jerry's apartment|JERRY|(pointing Kramer) He drank it.
+Jerry's apartment|KRAMER|I didn't know.
+Jerry's apartment|JERRY|All right, well, we should all chip in I guess.
+Jerry's apartment|KRAMER|Yeah.
+Jerry's apartment|JERRY|How much was it to clean the vest?
+Jerry's apartment|GEORGE|Eighteen dollars.
+Jerry's apartment|JERRY|Can you get vomit out of suede?
+Jerry's apartment|GEORGE|I don't know.
+Jerry's apartment|KRAMER|Yo-yo Ma!
+Jerry's apartment|JERRY|What? Yo-yo Ma?
+Jerry's apartment|KRAMER|What about him?
+Jerry's apartment|JERRY|You just said 'Yo-yo Ma'.
+Jerry's apartment|GEORGE|What's Yo-yo Ma?
+Jerry's apartment|JERRY|He's a cellist. (to Kramer) You should see a doctor today.
+Jerry's apartment|GEORGE|All right, come on, come on, let's go. Six dollars.
+Jerry's apartment|JERRY|I can't believe she sent you that dry-cleaning bill.
+Jerry's apartment|GEORGE|I know!
+Jerry's apartment|JERRY|That doesn't really bode well for the show, does it?
+Jerry's apartment|GEORGE|The show! Forget about the show! We should take the idea to a different network
+Jerry's apartment|JERRY|Oh, yeah. Right. Like anybody's ever gonna do this! How did you get me to go along with that? A show about nothing!
+Jerry's apartment|GEORGE|It was a good idea. Susan liked it. Now, if he hadn't vomitted all over her, we'd be writing it right now.
+Jerry's apartment|KRAMER|Jeez!
+Jerry's apartment|GEORGE|Anyway.
+Jerry's apartment|action|Phone rings, Kramer picks up. Answers in Italian.
+Jerry's apartment|JERRY|(interrupts) What are you doing? What's wrong with you? What're you doing? Give me that phone! Go to your apartment and lie down, I'll make an appointment for a doctor today. (on the phone) Hello? Oh hi! I'm sorry. No, that's my next door neighbor. He's not quite himself. He got kicked in the head. What? Really? You're kidding! Today? Yeah! Sure! We could make it. Two o'clock? Yeah, we would do that. Okay. Great! Thanks a million! Okay, bye.
+Jerry's apartment|GEORGE|What?
+Jerry's apartment|JERRY|NBC! They wanna have another meeting about the idea.
+Jerry's apartment|GEORGE|They wanna have another meeting? They wanna buy it?! They wanna but it?! Oh! I tell you! We're gonna be rich!! What are we gonna get for this? Fifty, sixty thousand?
+Jerry's apartment|JERRY|I don't know about sixty.
+Jerry's apartment|GEORGE|Oh, it's gotta be fifty! Hee hee! You know how much Ted Danson makes, huh?
+Jerry's apartment|JERRY|Ted Danson! Now, how are you comparing us to Ted Danson?
+Jerry's apartment|GEORGE|I didn't say 'We're Ted Danson.'
+Jerry's apartment|JERRY|Yes, you did. You said 'We're Ted Danson'!
+Jerry's apartment|GEORGE|Oh!
+Jerry's apartment|JERRY|You know, I think he wears a piece.
+Jerry's apartment|GEORGE|Yeah, don't worry. He can afford it.
+Street|JERRY|I'm ten minutes slow again! That's it for this piece of junk! I've had it.
+Street|action|He throws his watch in the trash can beside him
+Street|GEORGE|What, is that the one your parents gave you?
+Street|JERRY|Yeah! But it never works. You know we're supposed to be there by two o'clock. We should take a cab.
+Street|GEORGE|All right, we'll be a little late, I,m not taking a cab.
+Street|JERRY|I'll pay for it.
+Street|GEORGE|It's not the money!
+Street|JERRY|Well, what is it you object to? The comfort? The Speed? The convenience?
+Street|action|Both raise their arm to signal a cab.
+Street|LEO|Jerry!
+Street|JERRY|Uncle Leo!
+Street|LEO|Helloooo!
+Street|JERRY|Hello there, how're you doing?
+Street|LEO|Ha ha! How are you?
+Street|JERRY|Good, good.
+Street|LEO|How's your mom and dad?
+Street|JERRY|Good, fine.
+Street|LEO|What are you getting to be too much of a big shot now to give me a call? I don't hear from you anymore!
+Street|JERRY|Oh, no. I've been kinda busy. It's all.
+Street|LEO|You know where I just came from?
+Street|action|He grabs Jerry's forearm.
+Street|JERRY|(not enthousiastic at all) Oh, sure. Danny.
+Street|LEO|He used to be in the pajama business. I used to be able to get pajamas for free. I used to come over and get pajamas all the time!
+Street|action|Leo shakes Jerry around using his grip on Jerry's arm.
+Street|JERRY|Oh, yeah, yeah. I remember.
+Street|action|George gets impatient, touches his watch subtly, maybe subconsciously.
+Street|LEO|The funny thing is: I can't wear 'em. I get too hot. I sleep in my underwear and a t-shirt. If it gets too hot, I just get the t-shirt off! Anyway, Danny says to me: 'You need any pajamas?'
+Street|JERRY|(interrupts) I-I'm sorry Uncle Leo, I really gotta get going.
+Street|LEO|Oh. Well. You gotta get going, so go.
+Street|JERRY|We, we got a big meeting with the president of NBC.
+Street|LEO|Nobody got a gun to your head!
+Street|JERRY|(seems sincere) Yeah, I'm really sorry, uh.
+Street|LEO|Go. Really. I understand. You got an appointment, go to your appointment.
+Street|JERRY|I'm sorry, really.
+Street|LEO|You know, I know plenty of people in Hollywood too!
+Street|JERRY|Sorry, really.
+Street|action|Leo turns around and leaves. He passes by the trash can and sees the watch. He picks it up, takes it to his ear, laughs and puts it on. He walks away.
+Hall out of Kramer's apartment|action|Newman knocks on Kramer's door
+Hall out of Kramer's apartment|KRAMER|(from inside) Yeah?
+Hall out of Kramer's apartment|NEWMAN|Come on, are you ready? Let's go!
+Hall out of Kramer's apartment|action|Straightens his tie
+Hall out of Kramer's apartment|action|Kramer opens the door. He has shaving cream on his face.
+Hall out of Kramer's apartment|KRAMER|For what?
+Hall out of Kramer's apartment|NEWMAN|What's the matter with you? I just talked to you fifteen minutes ago.
+Hall out of Kramer's apartment|KRAMER|what about?
+Hall out of Kramer's apartment|NEWMAN|The courthouse. You gotta go with me to the courthouse. I'm contesting a ticket today.
+Hall out of Kramer's apartment|KRAMER|I can't, I'm going to the doctor's later.
+Hall out of Kramer's apartment|NEWMAN|You gotta go with me. I mean, you-you're my alibi. You have to take the stand.
+Hall out of Kramer's apartment|KRAMER|Well, I can't!
+Hall out of Kramer's apartment|NEWMAN|Well, let me remind you of something. You wouldn't be here if it wasn't for me and my helmet. I saved your life! You would be dead! Dead! You would cease to exist! You would be gone for the rest of eternity! You wouldn't even begin to comprehend what that means!!
+Hall out of Kramer's apartment|KRAMER|Shut up! I'll get my coat!
+Newman enters Kramer's apartment|KRAMER|Don't step on anything.
+NBC's waiting room|JERRY|You see the look on my uncle's face? Did you see how insulted he was? What could I do? Waht are we supposed to do? You can't leave. There's no excuse good enough to justify walking away from a conversation with one of my relatives.
+NBC's waiting room|GEORGE|I didn't shave this morning. I don't feel like myself.
+NBC's waiting room|JERRY|You could be a fireman on a fire truck on the way to a fire. You bump into one of my relatives. 'I'm sorry Uncle Leo, there's a building full of people burning down. I really do have to be running.' He'll go: 'Go. Go ahead. Go to your fancy fire. If that's what you have to do.'
+NBC's waiting room|GEORGE|Look at this.
+NBC's waiting room|JERRY|Why didn't you shave this morning?
+NBC's waiting room|GEORGE|'Cause I shaved yesterday in the afternoon.
+NBC's waiting room|JERRY|Why?
+NBC's waiting room|GEORGE|Because of the day before. It's a long story.
+NBC's waiting room|action|Jerry looks down the hall.
+NBC's waiting room|JERRY|Is that Joe Davola?
+NBC's waiting room|action|Jerry crouches in his seat
+NBC's waiting room|GEORGE|It's not him!
+NBC's waiting room|JERRY|I can't live tlike this. I'm being stalked.
+NBC's waiting room|JERRY|Oh.
+NBC's waiting room|action|They get up
+NBC's waiting room|GEORGE|Mister Seinfeld? What about Mister Costanza? I'm not here?
+NBC's waiting room|action|They walk toward the office
+NBC's waiting room|JERRY|All right. Look. Now, you promised you're gonna be a little more flexible on the nothing idea, okay? Jsut a little.
+NBC's waiting room|GEORGE|Okay. A little.
+Courthouse waiting room|NEWMAN|Okay, you're all set? You got your story?
+Courthouse waiting room|KRAMER|No.
+Courthouse waiting room|NEWMAN|When the cop stopped me, I told him that I was rushing home because my friend was about to commit suicide.
+Courthouse waiting room|KRAMER|Uhm...
+Courthouse waiting room|NEWMAN|Now, you're that firend. Now, all we need is a reason why you were going to commit suicide.
+Courthouse waiting room|action|Pause; they're thinking
+Courthouse waiting room|KRAMER|I never had an air conditioner.
+Courthouse waiting room|NEWMAN|No! That's no reason to kill yourself!
+Courthouse waiting room|KRAMER|Why? It gets hot at night, you can't sleep. You ever tried to sleep in a really hot room?
+Courthouse waiting room|NEWMAN|Every night I sleep in a really hot room, I don't want to kill myself.
+Courthouse waiting room|KRAMER|Well, I slept in really hot rooms and I wanted to kill myself.
+Courthouse waiting room|NEWMAN|No, no, no. That's not gonna work. Something else.
+Courthouse waiting room|KRAMER|I was never able to become a banker.
+Courthouse waiting room|action|Newman has a revelation.
+Courthouse waiting room|NEWMAN|Banker! So you're killing yourself because your dreams of becoming a banker have gone unfulfilled. You-you-you-you can't live without being a banker.
+Courthouse waiting room|KRAMER|Yeah, yeah. If I can't be banker, I don't wanna live.
+Courthouse waiting room|NEWMAN|You must be banker.
+Courthouse waiting room|KRAMER|MUST be banker.
+NBC office|action|I might be missing a line here, I suck at cutting the commercials. If so, please complete.
+NBC office|GEORGE|The story is the foundation of all entertainment. You must have a good story otherwise it's just masturbation.
+NBC office|action|George is the only one laughing
+NBC office|RUSSEL|And people really have to care about the characters.
+NBC office|GEORGE|Care? Forget about care. Love. They have to love the characters. Otherwise, why would they keep tuning in?
+NBC office|JERRY|Wouldn't tune in.
+NBC office|GEORGE|Would they tune in?
+NBC office|JERRY|No tune.
+NBC office|RUSSEL|We like to look at the show as if it were in EKG. You have your highs and your lows and it goes up and down.
+NBC office|GEORGE|The show will be like a heart attack!
+NBC office|JERRY|Just a huge massive coronary.
+NBC office|RUSSEL|So what you said last week about no story, you're a little flexible on that now.
+NBC office|GEORGE|Is-is that what I said 'no story'? Because Jerry had to tell me later.
+NBC office|JERRY|He couldn't believe it.
+NBC office|GEORGE|(Laughs, snorts) I said, I said: 'Get outta here! No story? Is that what I said?'
+NBC office|action|Jerry and George laugh
+Courtroom|JUDGE|And then what happened?
+NBC office|RUSSEL|Look. I don't know how you two guys feel but we would really like to be in business with you.
+NBC office|action|George starts, Jerry starts later, both speak at the same time, nonstop
+NBC office|GEORGE|Well, we would like to be in business. Let's do business. We'll have some business. Let's have business.
+NBC office|JERRY|We would love to be in business. We'll do business. We're in business. It's... it's business. This is business.
+NBC office|GEORGE|Yeah!
+NBC office|action|Pause. George and Jerry are puzzled.
+NBC office|action|Jerry gets it, pokes George.
+NBC office|JERRY|Your off-Broadway play.
+NBC office|GEORGE|Oh, oh. Uh, you know. It's the damndest thing. I, uh, I moved recently and my files, pfff, disappeared. Now, I-I don't know if they fell off the truck or if there was some sort of foul play but let me tell you something. I'm not through with that moving company.
+NBC office|JERRY|(backs his story) Hmm, hmm.
+NBC office|GEORGE|That's my vow to you.
+NBC office|RUSSEL|Well, I got a feeling about you two. And even more than that. I place a great deal of confidence in that lady's judgment.
+NBC office|action|the lady is Susan
+NBC office|action|George and Jerry both speak at the same time, nonstop
+NBC office|GEORGE|Oh! That's good judgment. That's a pile of judgment there. Sure.
+NBC office|JERRY|Oh! Taht's judgment. Yes, yes. Judgment with earrings on. Yeah.
+NBC office|RUSSEL|(gets up) So, let's make a pilot.
+NBC office|action|Hand shakes
+Courtroom|NEWMAN|I had gone up to Westchester. I go there every Tuesday. I do charity for the blind in my spare time for the Lighthouse. I was in the middle of a game of Parcheesi with an old blind man and I excused myself to call my friend as he was very depressed lately because he never became a banker.
+Courtroom|JUDGE|I don't understand.
+Courtroom|NEWMAN|You see, it'd been his lifelong dream to be a banker and he uh, just the day before he was turned down by another bank. I believe it was the Manufacturer's Hanover on Lexington and 40th Street. That was the third bank to turn him down so I was-I was a little concerned. I wanted to see how he was doing. Well, Your Honor, he was barely audible. But I distinctly recall him say...
+Courtroom|KRAMER|(interupts involuntarily) Yo-yo Ma!
+Courtroom|NEWMAN|So I sped home to save my friend's life and I was stopped for speeding. Yes, I admit I was speeding but it was to save a man's life. A close friend. An innocent person who wanted nothing more out of life than to love, to be loved and to be a banker.
+Courtroom|JUDGE|So then he didn't kill himself.
+Courtroom|NEWMAN|No sir. He did not. But only by thge grace of God. He's in the courtroom today
+NBC's waiting room|action|Jerry and George are coming out of the office
+NBC's waiting room|GEORGE|See?
+NBC's waiting room|JERRY|Yeah!
+NBC's waiting room|GEORGE|I told you, I told you! Ha ha ha! Ooh ooh!
+NBC's waiting room|JERRY|Now, all we gotta do is write it.
+NBC's waiting room|GEORGE|Yes! How're we gonna do that?
+NBC's waiting room|action|Enter Susan
+NBC's waiting room|SUSAN|Hey! Congratulations!
+NBC's waiting room|JERRY|Thanks.
+NBC's waiting room|GEORGE|Oh, thank you.
+NBC's waiting room|JERRY|Thank you, thanks.
+NBC's waiting room|GEORGE|Thanks. Gee, you know, I thought you were mad at me.
+NBC's waiting room|SUSAN|No.
+NBC's waiting room|JERRY|Phone call? Who knows I'm here?
+NBC's waiting room|action|He picks up the phone
+NBC's waiting room|GEORGE|When you sent me the-the bill for the dry-cleaning. I thought the show didn't have a chance.
+NBC's waiting room|SUSAN|Oh, it was only vomit.
+NBC's waiting room|GEORGE|Anyway, I-I would like to-to pay for the cleaning.
+NBC's waiting room|SUSAN|Oh no-no, it's okay. *comment from transcriber: yeah, she doesn't want to be paid, didn't she send the bill?*
+NBC's waiting room|GEORGE|No-no-no, we all chipped in. We have the money.
+NBC's waiting room|SUSAN|Well, it was eighteen dollars.
+NBC's waiting room|GEORGE|Okay, uh, eighteen dollars, and there it is. There you go. So maybe we could get together this weekend.
+NBC's waiting room|SUSAN|Yeah. Call me.
+NBC's waiting room|GEORGE|All right, great.
+NBC's waiting room|SUSAN|Bye.
+NBC's waiting room|JERRY|Bye thanks.
+NBC's waiting room|GEORGE|(chuckles) Bye, thanks. (To Jerry, when Susan is far) I can't believe she took the money.
+NBC's waiting room|JERRY|Why?
+NBC's waiting room|GEORGE|I offered to pay. She should've said no.
+NBC's waiting room|JERRY|She did, you insisted.
+NBC's waiting room|GEORGE|Maybe this is what the pilot should be about, vomiting on somebody's vest.
+NBC's waiting room|JERRY|Nah!
+NBC's waiting room|GEORGE|How much are we gonna get for this? Fifty, sixty thousand?
+NBC's waiting room|JERRY|oh, I d-I don't know. I d---
+NBC's waiting room|GEORGE|Oh, gotta get fifty. Gotta get fifty. All right, I tell you what. We go to the coffee shop, you call your manager. Maybe they made an offer.
+NBC's waiting room|JERRY|Okay.
+NBC's waiting room|GEORGE|(excited, pushing Jerry forward) All right, let's go, let's go, let's go, come on.
+Coffee shop|GEORGE|Thirteen thousand?
+Coffee shop|JERRY|Thirteen thousand.
+Coffee shop|GEORGE|a piece?
+Coffee shop|JERRY|No, for both!
+Coffee shop|GEORGE|That's insulting! Ted Danson makes eight hundred thousand dollars an episode.
+Coffee shop|JERRY|Oh, would you stop with the Ted Danson?
+Coffee shop|GEORGE|Well, he does.
+Coffee shop|JERRY|You're nuts!
+Coffee shop|GEORGE|I'm sorry. I can't live knowing Ted Danson makes that much more than me. Who is he?
+Coffee shop|JERRY|He's somebody.
+Coffee shop|GEORGE|What about me?
+Coffee shop|JERRY|You're nobody.
+Coffee shop|GEORGE|Why him? Why not me?
+Coffee shop|JERRY|He's good, you're not.
+Coffee shop|GEORGE|I'm better than him.
+Coffee shop|JERRY|You're worse, much much worse. (crouches in booth) That's Davola!
+Coffee shop|GEORGE|(crouches too) What? Where? Where?
+Coffee shop|JERRY|Outside! I saw him outside!
+Europe|action|Elaine is kissing with a guy. He stops. She keeps kissing him, then stops.
+Europe|ELAINE|what is it?
+Europe|BOYFRIEND|Oh, it's this patient.
+Europe|ELAINE|(sighing) Again?
+Europe|BOYFRIEND|I'm fairly certain. I forgot to leave him an extra prescription for his medication.
+Europe|ELAINE|Well, so, he can live without his Valium for a couple of days.
+Europe|BOYFRIEND|Nah, you don't understand. He could be dangerous.
+Europe|action|Elaine turns around, rolls her eyes.
+Coffee shop|JERRY|Go outside and see if he's still there.
+Coffee shop|GEORGE|I can't go out there, he knows we're friends.
+Coffee shop|JERRY|Well, what are we supposed to do? I gotta take Kramer to the doctor.
+Coffee shop|action|A cop sits down at the counter.
+Coffee shop|GEORGE|Tell the cop.
+Coffee shop|JERRY|Good idea.
+Coffee shop|action|Walks to counter
+Coffee shop|COP|Yeah, all right. Just let me get a muffin.
+Coffee shop|JERRY|Thanks.
+Coffee shop|action|Jerry waits a while and realizes he has to go sit back with George and wait over there.
+Coffee shop|JERRY|(back in booth) He's gonna get a muffin and then he'll walk us outside. This is a great way to go through life.
+Coffee shop|action|Looks over at the cop
+Coffee shop|GEORGE|I thought you said he was gonna get a muffin.
+Coffee shop|action|Jerry gets up and walks to the counter
+Coffee shop|JERRY|(bossy) What are you doing?
+Coffee shop|COP|What?
+Coffee shop|JERRY|What, are you ordering food now?
+Coffee shop|COP|Yeah! Yeah, I decided to get a sandwich.
+Coffee shop|JERRY|What happened to the muffin?
+Coffee shop|COP|I got a little hungry.
+Coffee shop|JERRY|All of a sudden you get hungry?
+Coffee shop|COP|Yeah! You got a problem with that?
+Coffee shop|JERRY|No! Enjoy your lunch.
+Coffee shop|action|Goes back toward the booth and stops.
+Coffee shop|GEORGE|I thought he was just gonna have a muffin.
+Coffee shop|JERRY|All of a sudden he gets hungry.
+Coffee shop|GEORGE|You know, a muffin can be very filling.
+Coffee shop|JERRY|I know!
+Courtroom|NEWMAN|(interrogating Kramer) Mister Kramer, you heard the testimony so far. Would you please tell the court in your own words what happened on the afternoon of September 10th?
+Courtroom|KRAMER|What do you mean 'my own words'? Whose words are they gonna be?
+Courtroom|NEWMAN|You know what I mean.
+Courtroom|KRAMER|(to Judge) I was very upset that day.
+Courtroom|NEWMAN|And why was that?
+Courtroom|KRAMER|(to Newman) Would you let me say it? Let me talk!
+Courtroom|NEWMAN|All right, all right. Go ahead, go ahead.
+Courtroom|KRAMER|All right.
+Courtroom|NEWMAN|Okay.
+Courtroom|KRAMER|(to Judge) I was very upset that day because I could never become a banker.
+Courtroom|NEWMAN|And that failure to become a banker was eating at you. Eating-eating-eating at you inside.
+Courtroom|KRAMER|(not convincing) Uh, yeah.
+Courtroom|NEWMAN|It was your family that pushed you into banking , it was their dream for you...
+Courtroom|JUDGE|Mister Newman.
+Courtroom|NEWMAN|Your Honor, I'm only trying to establish Mister Kramer's fragile emotional state, my entire case depends on it.
+Courtroom|JUDGE|Uh, continue.
+Courtroom|NEWMAN|As you were saying, Mister Kramer...
+Courtroom|KRAMER|What was the question?
+Courtroom|NEWMAN|You're telling how your parents pushed you into banking.
+Courtroom|KRAMER|Uh, well, my father when I was a kid, he took me to the bank and he lifted me up and he pointed to the teller and he said: 'Sonny boy, take a good look at him, that's gonna be you some day.'
+Courtroom|NEWMAN|But you never became a banker, did you Mister Kramer? Why? Why did you fail?
+Courtroom|KRAMER|I don't know.
+Courtroom|NEWMAN|It was because you hated your father and you would do anything to displease him. Isn't THAT true?
+Courtroom|JUDGE|Uh, could you get to the speeding?
+Courtroom|NEWMAN|Yuh, yes. I intend to Your Honor. And then, on the afternoon of September 10th, you received a phone call did you not?
+Courtroom|KRAMER|(puzzled) Phone call?
+Courtroom|NEWMAN|Yes, a phone call!
+Courtroom|KRAMER|From who?
+Courtroom|NEWMAN|From me!
+Courtroom|KRAMER|From you?
+Courtroom|NEWMAN|Yes, from me!! I called you remember?
+Courtroom|KRAMER|You called me?
+Courtroom|NEWMAN|Yes, I called you, you idiot! Because you were going to... You were going to... Remember?
+Courtroom|KRAMER|what?
+Courtroom|NEWMAN|You were going to...
+Courtroom|action|Mimmicks hanging himself, growing hysterical as only Newman can
+Courtroom|JUDGE|I'm afraid I'm gonna have to call a---
+Courtroom|NEWMAN|Yes, the banker!!!
+Courtroom|KRAMER|What banking?
+Courtroom|NEWMAN|A banker! A banker! Your Honor, Your Honor, Your Honor...
+Courtroom|JUDGE|That's enough already.
+Courtroom|NEWMAN|Your Honor, Mister Kramer's obviously very distraught.
+Courtroom|KRAMER|I'm distraught!?! Wooh-wooh-hoo!
+Courtroom|NEWMAN|(to Kramer) You shut up! (to judge) I demand a recess so I can take him outside and help him regain hius composure.
+Courtroom|JUDGE|That'll be seventy-five dollars.
+Courtroom|NEWMAN|(Strangling Kramer) What's the matter with you? We had it all worked out!
+Courtroom|action|They fall on their backs. Kramer knocks the flag on judge.
+Coffee shop|JERRY|Do you see him?
+Coffee shop|GEORGE|I'm not* sure.
+Coffee shop|JERRY|Well, either you see him or you don't.
+Coffee shop|GEORGE|All right. I don't.
+Coffee shop|JERRY|(looking at the cop) What is he doing? Is he getting coffee? I think he's getting coffee.!
+Coffee shop|GEORGE|What's with this guy?
+Coffee shop|action|Jerry walks to the counter
+Coffee shop|JERRY|(still bossy) Did you just order coffee?
+Coffee shop|COP|Yeah.
+Coffee shop|JERRY|This is really too much.
+Coffee shop|COP|What is your problem?
+Coffee shop|JERRY|Well, I'm sitting over there waiting for you to finish your sandwich for twenty minutes. Now you're drinking coffee, that's gonna be another ten minutes.
+Coffee shop|COP|Well, you're just gonna have to wait.
+Coffee shop|action|Enter Kramer and Newman
+Coffee shop|KRAMER|Never said anything about the banking.
+Coffee shop|NEWMAN|You're off your rocker.
+Coffee shop|JERRY|Hey you guys!
+Coffee shop|KRAMER|Hey!
+Coffee shop|JERRY|What are you doing here?
+Coffee shop|KRAMER|What are YOU doing here?
+Coffee shop|JERRY|Hey, is Davola outside?
+Coffee shop|KRAMER|Davola?
+Coffee shop|JERRY|Yeah.
+Coffee shop|KRAMER|No, I didn't see him.
+Coffee shop|NEWMAN|Crazy Joe Davola?
+Coffee shop|GEORGE|(reading the tabs) Jerry, yours is eleven dollars.
+Coffee shop|JERRY|Eleven dollars for what?
+Coffee shop|GEORGE|Muffin, sandwich and coffee!
+Coffee shop|JERRY|(to Kramer) Hey, NBC okayed our idea. We're gonna make the pilot.
+Coffee shop|KRAMER|You're gonna do the circus freak show, uh?
+Coffee shop|JERRY|No.
+Coffee shop|NEWMAN|Pilot? So what do you make for something like that? Fifty? Sixty thousand?
+Coffee shop|GEORGE|What's the difference? The money is not important.
+Coffee shop|JERRY|(looking outside) Hey Newman, is that your red car?
+Coffee shop|NEWMAN|Yeah.
+Coffee shop|JERRY|I think you're getting a ticket.
+Coffee shop|NEWMAN|Deh!
+Coffee shop|KRAMER|Run, run! Go, go, go!
+Coffee shop|action|Newman runs outside
+Coffee shop|NEWMAN|Hey! What are you doing? It's after six o'clock! You can't give me a ticket! Hey, you're not gonna get away with this. I'll fight this. I got witnesses.
+Coffee shop|KRAMER|I saw the whole thing!
+Coffee shop|JERRY|Maybe this whole thing would be a good idea for the pilot.
+Coffee shop|GEORGE|Ah, get outta here. The vomiting is much funnier.
+Coffee shop|JERRY|Oh, like you know what you're talking about!
+Coffee shop|GEORGE|No, YOU do!
